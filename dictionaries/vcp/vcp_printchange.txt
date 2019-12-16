@@ -1,0 +1,90 @@
+This file documents changes made to the digitization of VCP in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 03-15-2016, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+17243 : garBopaGAtrinI : garBopaGAtrinI : garBopaGAtinI : Erroneous 'r'. Confirm MW garBopaGAtinI
+-----------------------------------------------------------------------
+04-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+35237 : bavadarIPalA : bavadarIPalA : badarIPalA : badarIPalA and vadarIPalA are alternate headwords. Bracket missed in print.
+33912 : pratyakpuzapI : pratyakpuzapI : pratyakpuzpI : puzpI is the correct reading according to explanation.
+-----------------------------------------------------------------------
+01-05-2017
+User Form Correction
+From radimnavyan
+L code : Headword : Old  : New : Comment
+1401 : aDyavasAya : rajastamo'BiBaye : rajastamo'BiBave : loc. sg. aBiBava
+-----------------------------------------------------------------------
+09-01-2017
+Corrections noticed in process of adding alternate headwords.
+Source User 'SergeA'.
+ref: https://github.com/sanskrit-lexicon/alternateheadwords/issues/23
+L code : Headword : Old  : New : Comment
+  348  : agnizvAtta : agnizvA(sva)tta : agnizvA(svA)tta :
+  427  : agredizizu : agredizizu: agrediDizu : *+
+ 8387  : ivAruSuktikA : ivAru(lu)SuktikA : irvAru(lu)SuktikA : 
+13506  : kASUtaro : kASU(sU)taro : kASU(sU)tarI : *+
+14437  : kuSIraka : SI(sIroyatra :  SI(sI)royatra :
+15226  : koSa  : koSa(zaM) : koSa(za) :
+15234  : koSalAtmajA : koSa(ma)lAtmajA : koSa(sa)lAtmajA :
+15242  : koSAgAraM : koSA(zA)gAraM : koSA(zA)gAra : * OK
+15414  : kOSArava : kOSA(sA)rava : kOSA(zA)rava :
+15418  : kOtakI  : kO(zI)takI : kOzItakI :
+16458  : KarjjUGna : Ka(rju)rjjUGna : Ka(rjju)rjjUGna :
+17993  : goki : goki(kIla) : goki(kI)la : *+
+18098  : gopapada : gopa(zpa)pada : gopa(zpa)da : * OK
+18271  : gozaKi : goza(ma)Ki : goza(sa)Ki :
+20077  : cUrRi  : cUrRi(RIM) : cUrRi(RI) :
+20903  : jalavipuva : jalavipuva(t) : jalavizuva(t) : * OK
+22012  : tadryaYca : tadryaYca(c) : tadryaYc(c) : * OK
+22057  : tanUnapAta : tanUnapAta(d) : tanUnapAt(d) : * OK
+24194  : daRqamAMnava : daRqamAMna(Ra)va : daRqamAna(Ra)va : * OK
+25275  : duHsakTa : duHsakTa(kiTa) : duHsakTa(kTi) :
+25363  : durAlaBA : durAlaBA(mBa) : durAlaBA(mBA) :
+28352  : nAgavi  : nAgavi(bila) : nAgavi(bi)la : * OK
+30289  : pawwISa : pawwISa(ma) : pawwISa(sa) :
+32531  : punarRRava : punarRRa(na)va : punarRRa(rna)va :
+33147  : pfTuSrava : pfTuSrava(sa) : pfTuSrava(s) :
+35382  : bazkayinI : bazka(ska)yi(RI)nI: bazka(ska)yiRI(nI) : *+
+35419  : bahumaYcarI : ba(va)humaYcarI : ba(va)humaYjarI : * OK
+35479  : bARaliNga : bA(va)RaliNga : bA(vA)RaliNga : 
+35758  : bfhaddyumra : bf(vf)haddyumra : bf(vf)haddyumna : * OK
+35766  : bfhadBaya : bfha(vf)dBaya : bf(vf)hadBaya :
+35974  : brAhmaka : brA(vra)hmaka : brA(vrA)hmaka :
+35975  : brAhmagupta : brA(vra)hmagupta : brA(vrA)hmagupta : 
+35993  : brAhmaRAyaRa : brA(vrA)hmaRAyaRa : brA(vrA)hmaRAyana : * OK
+39672  : riSya : riSya(vya) : riSya(zya) :
+40024  : lambozwa : lambo(mbO)zwa : lambo(mbO)zWa :
+40628  : varIvarh : varI(lI)varh : varI(lI)vardda : * OK 
+48120  : hiraRyavAha : hiraRyavAha(hu) : hiraRyavAha(bAhu) :
+36313  : BavAdfkzaS : BavAdfkza(Sa)S : BavAdfkza(Sa)(S) : * OK
+
+-----------------------------------------------------------------------
+09-13-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
+This documents a print change that was NOT made: UrdDa -> UrdDva.
+Dr. Dhaval Patel felt that UrdDa is not a Sanskrit word, and that
+therefore its appearance as the main spelling in several of the
+entries of VCP should be considered as a print error.
+After some discussion, we decided not to make this change, but wanted
+to document it here nonetheless. Here are the relevant words in question.
+<L>10278<pc>1388,a<k1>UrdDa<k2>UrdDa(rdDva)<ln1>126053<ln2>126063
+<L>10279<pc>1388,a<k1>UrdDaka<k2>UrdDa(dDva)ka<ln1>126064<ln2>126071
+<L>10280<pc>1388,a<k1>UrdDakaca<k2>UrdDa(rdDva)kaca<ln1>126072<ln2>126075
+<L>10281<pc>1388,a<k1>UrdDakaRWa<k2>UrdDa(rdDva)kaRWa<ln1>126076<ln2>126079
+<L>10282<pc>1388,b<k1>UrdDakarmman<k2>UrdDa(rdDva)karmman<ln1>126081<ln2>126086
+<L>10307<pc>1391,b<k1>UrdDamanTin<k2>UrdDa(rdDva)manTin<ln1>126383<ln2>126389
+<L>10308<pc>1391,b<k1>UrdDamAna<k2>UrdDa(rdDva)mAna<ln1>126390<ln2>126405
+-----------------------------------------------------------------------

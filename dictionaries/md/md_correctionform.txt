@@ -1,0 +1,91 @@
+Sanskrit Lexicon Correction Form History for MD
+As of July 22, 2019
+13 correction records, with 0 PENDING
+
+Case 24418: 06/04/2019 dict=MD, L= 4487, hw=udaya, user=pvstiles
+old = break (of dOWn)
+new = break (of dAwn)
+status = Corrected 07/17/2019
+------------------------------------------------------------------------
+
+Case 24294: 12/16/2018 dict=MD, L= , hw=ऊर्जा, user=
+old = Macdonell
+new = 
+status =  01/16/2019 Not enough information
+------------------------------------------------------------------------
+
+Case 23748: 06/24/2017 dict=MD, L=4266, hw=ukta, user=torbium
+old = उक्त 
+new = the workd ukta. Different ligatura for kta seems to be needed. 
+comment = the workd ukta. The kta ligatura seems strange. On the scan of book page provided the ligatur is correntc one.
+status =  07/13/2017 no correction made. see https://github.com/sanskrit-lexicon/Cologne/issues/163
+------------------------------------------------------------------------
+
+Case 23650: 03/05/2017 dict=MD, L= 8578, hw=tāvat, user=mbrunhoejh
+old = os numerous LB 1
+new = so numerous, LB I
+comment = Typo and missing comma: "os numerous" → "so numerous,", and a bit further down: "1 will first of all" → "I will first of all".
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
+
+Case 17957: 03/16/2016 dict=MD, L=19493, hw=sutIkzaRa, user=ejf
+old = sutIkzaRa
+new = sutIkzRa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17956: 03/16/2016 dict=MD, L=113, hw=akfcCriMn, user=ejf
+old = akfcCriMn
+new = akfcCrin
+comment = print error  Devanagari has an extra anusvAra. Confirm MW
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 12539: 01/05/2016 dict=MD, L= 19182, hw=sAdhana, user=netfarer
+old = subding
+new = subduing
+status = Corrected 01/10/2016
+------------------------------------------------------------------------
+
+Case 9093: 12/17/2015 dict=MD, L=4975, hw=UM~, user=dhaval
+old = UM~
+new = U~
+comment = typo ~ is enough for nasalization. Not proper to use M~ for nasalization. See http
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 5364: 11/18/2015 dict=MD, L=14566, hw=mOjAvata, user=Dhaval
+old = mOjAvata
+new = mOjavata
+comment = print error Lexicographer error. Rev RV x,34
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5363: 11/18/2015 dict=MD, L=13151, hw=BAtvakzAs, user=Dhaval
+old = BAtvakzAs
+new = BAtvakzas
+comment = print error All other dicts have BAtvakzas; MD English reading has BAtvakzas.
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5362: 11/18/2015 dict=MD, L=4973, hw=uhya, user=Dhaval
+old = uhya
+new = Uhya
+comment = print error Lexicographer error. uhya is grammatically unjustifiable.
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 3112: 1/16/2015 dict=MD, L=852, hw=atyuccrita , user=ejf
+old = atyuccrita 
+new = atyucCrita 
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 753: 11/16/2014 dict=MD, L=11729, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected 11/16/2014
+------------------------------------------------------------------------
+

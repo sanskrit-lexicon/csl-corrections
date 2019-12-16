@@ -1,0 +1,55 @@
+This file documents changes made to the digitization of PE in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun Jan 12, 2016, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+01-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword  : Old :       New       : Comment
+4351 : maNivawwappAra : maNivawwappAra : maRivawwappAra : Ni
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+1519 : cenkaRRarAja : cenkaRRarAja : ceNkaRRarAja : Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
+4011 : lohitAranI : lohitAranI : lohitAraRI : lohitAraRI Confirmed by inm,mw,pw
+-----------------------------------------------------------------------
+04-14-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+1669 : daksasAvarRi : daksasAvarRi : dakzasAvarRi : alphabetic misordering.
+-----------------------------------------------------------------------
+05-04-2016
+Submitted by anonymous user; confirmed by ejf
+L code : Headword : Old  : New : Comment
+2746 : indra : Pāñcātī : Pāñcālī: 
+-----------------------------------------------------------------------
+05-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+3579 : kolasvrUpa : kolasvrUpa : kolasvarUpa : The description has svarUpa, whereas headword has svrUpa.
+-----------------------------------------------------------------------
+06-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/299
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+1635 : cUdAkarRa : cUdAkarRa : cUqAkarRa : cUd
+----------------------------------------------------------------------
+09/12/2017
+ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old  : New : Comment
+5104 : pativratAmAhatmyaparva : pativratAmAhatmyaparva : pativratAmAhAtmyaparva : 
+-----------------------------------------------------------------------

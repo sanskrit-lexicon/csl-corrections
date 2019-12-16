@@ -1,0 +1,265 @@
+
+This file documents changes made to the digitization of AP in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-15-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------
+12-15-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
+Dhaval Patel
+L code : Headword  : Old       : New       : Comment
+14668  : caMdanIyA : caMdanIyA : candanIyA :  Convention
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+11409 : kanizwa : kanizwa : kanizWa :  (no comment)
+-----------------------------------------------------------------
+04-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+19053 : nirBarsita : nirBarsita : nirBartsita : rs is not possible. Its meaning also gets along nirBartsita.
+
+-----------------------------------------------------------------
+01-16-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/333
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+13996 : gAndinI : Akṛūra : Akrūra 
+13997 : gAndI : Akṛūra : Akrūra 
+11117 : kakzaH : Bṛ1 : Bṛ : text has Bṛī
+15393 : janitvaH : fatheṛ : father 
+4551 : arjuna : Kṛṣna : Kṛṣṇa :text has Kṛiṣna (similar for others)
+8176 : indra : Kṛṣna : Kṛṣṇa :
+10633 : eka : Kṛṣna : Kṛṣṇa :
+12120 : kArzRiH : Kṛṣna : Kṛṣṇa :
+12834 : kfzRa : Kṛṣna : Kṛṣṇa :
+18356 : narakaH : Kṛṣna : Kṛṣṇa :
+33382 : satyA : Kṛṣna : Kṛṣṇa :
+4551 : arjuna : Kṛsṇa : Kṛṣṇa
+10699 : erakA : Kṛṣhṇa : Kṛṣṇa :
+11819 : kaSyapaH : Ṛsi : Ṛṣi :
+-----------------------------------------------------------------
+01-24-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/333
+These changes initiated by Jim Funderburk and user sergeA
+L code : Headword : Old  : New : Comment
+--- batch 200
+496 : aYjizwaH : aYjizwaH : aYjizWaH
+538 : aRuBU : aRuBU : aRUBU : By some grammar rule  the vowel lengthens
+--- batch 201
+988 : adruha : adruha : adruh : lost virama
+1091 : aDiBatam : aDiBatam : aDiBUtam : lost diacritics
+1579 : animizama : animizama : animizam : lost virama
+1671 : anukalayati : anukalayati : anukUlayati : lost diacritics; see quotations
+1898 : anupasTApanama : anupasTApanama : anupasTApanam : lost virama
+--- batch 202
+2872 : apasparza : apasparza : apasparSa : under root apaspfS
+3497 : aBipariplata : aBipariplata : aBiparipluta : print vague
+3708 : aBiSaNka : aBiSaNka : aBiSaNk :  Missing virAma
+--- batch 203
+3856 : aBihft : aBihft : aBihrut
+4047 : aByacita : aByacita : aByucita : By alph. order and sense
+4133 : amInaH : amInaH : amaniH :  misplaced vowel diacritic
+4165 : amasta : amasta : amastu : from sense 'curds'. (why not 'without curds'?)
+4358 : ayudDavI : ayudDavI : ayudDvI : cf. other dictionaries; Vedic.
+4472 : aruca : aruca : aruc : Vedic. While other dictionaries have 'ruca' and 'ruc' -  they don't have aruca. So assume missing virama.
+4963 : avatf : avatf : avatF : The root is tF -  as AP and others spell
+5116 : avaBajanam : avaBajanam : avaBaMjanam : Missing anusvAra. under root avaBaYj
+--- batch 204
+5140 : avamanT : avamanT : avamanTa : No virmama since adj. formed with '-ac'
+5229 : avalapaH : avalapaH : avalepaH : Under root avalip
+6354 : Akampanam : Akampanam : Akampana : adj.  -nam given as subword
+6518 : Agamizwa : Agamizwa : AgamizWa : cf MW and  Whitney roots
+6642 : AcCodanama : AcCodanama : AcCodanam : missing virAma. not an adj.
+6987 : AnujIvara : AnujIvara : AnujAvara : Change to jAvara based on other dictionaries.
+7015 : Anakam : Anakam : AnUkam : Print blurred. Cf AP90  MW etc. and quotation
+--- batch 205
+7583 : AlAntam : AlAntam : AlAtam : because from अलातम् without न्
+7724 : AvIracarRaH : AvIracarRaH : AvIracUrRaH : lost diacritics
+7814 : ASuman : ASuman : ASumat : corrected after the quotation of AV 6.105.1 where there is the word आशुमत् (and not आशुमन्); confirmed by MW and PWG and the text of AV
+8052 : AlhAdana : AlhAdana : AhlAdana
+8051 : AlhAdaH : AlhAdaH : AhlAdaH
+8053 : AlhAdin : AlhAdin : AhlAdin
+8083 : izyat : izyat : ezyat : Note quotation and AP90 and MW and PWG
+8122 : iquraH : iquraH : iqvaraH : corrected after AP90 and others
+8477 : ucCrayin : ucCrayin : ucCrAyin : corrected after AP90 and MW; confirmed by the source shi. 5.21 (उच्छ्रायिभिर्). 
+8801 : utPuMlla : utPuMlla : utPulla : the printed blobs are not anusvara
+8958 : udAhratiH : udAhratiH : udAhftiH : from ud-ā-hṛ + suf. ti
+9011 : udgraT : Both grath and granth are possible. But in the dic the main verb granth 'to tie' is given with nasal  and without nasal is given another verb grath/granth with another meaning 'to be crooked'. So for consistency the spelling of the headword should be restored as udgranth (so in AP90 and MW)
+--- batch 206
+9129 : udDAhu : oBAddubAhuriva : loBAdudbAhuriva : cf. AP90
+10029 : upasaraRama : upasaraRama : upasaraRam : lost anusvara
+10774 : Eqakam : Eqa(qU)kam : Equ(qU)kam :  lost diacritic
+10869 : omana : omana : oman : lost virama
+11113 : kakkAlaH : kakkAlaH : kakkolaH : bad printing. follows after kakkulaḥ
+11135 : kaNkAlAH : kaNkAlAH : kaNkAlaH : wrong masc. termination
+11152 : kacaNgagalaH : kacaNgagalaH : kacaNgalaH : strange duplication of 1957 corrected back after AP90 and others
+11241 : kawara : kawara : kawvara : follows after कट्फलः ; so here seems to be lost consonant below ट; corrected after AP90 and others
+11293 : kaRaraH : kaRaraH : kaReraH : follows after कणे ; corrected after AP90 and others
+11596 : karkaduH : karkaduH : karkawuH : corrected after AP90 and others
+11612 : karcUrakAH : karcUrakAH : karcUrakaH : wrong masc. ending
+11800 : kavArI : kavArI : kavAri : the adj. in -ī is improbable
+--- batch 207
+12065 : kAruRqikAH : kAruRqikAH : kAruRqikA : visarga not needed in f. form
+12333 : kukuwiH : kukuwiH : kukkuwiH : Missing k considered error since neighboring headwords have two k's.
+12973 : koRAkoRI : koRAkoRI : koRAkoRi : Must end in short 'i' acc. to Pan. 5.4.127 referenced by PWG and MW.
+13005 : koSina : koSi(zi)na : koSi(zi)n : missing virAma. 
+13339 : kzAmam :  kzAmam : kzAman : manin affix
+14531 : GftalI : GftalI : GftelI : By alph. order under Gfta : also df many other dictionaries
+14811 : cAtara : cAtara : cAtura : missing 'u'
+16647 : tUtum : tUtum : tUtuma : ending virama wrong since adjective.
+16740 : tArit : tArit : tArin : Since Rini suffix
+16779 : tElinam : tElinam : tElInam : Long 'i' in many dictionaries; also by alphabetical order in words under tEla
+17356 : dIrGIB : dIrGIB : dIrGIBU : Poor scan
+17524 : devadryaYca : devadryaYca : devadryaYc : virama missing
+17827 : dvfH : dvfH : dvf : Verb-Ending visarga is wrong.
+--- batch 208
+18023 : DImata : DImata : DImat : missing virAma
+18181 : Druvra : Druvra : Druva : cf. quotation and other dictionaries
+18836 : nibandDa : nibandDa : nibandDf : vowel 'f' missing
+19585 : nErlajjam : nErlajjam : nErlajjyam : cf other dictionaries. 
+19671 : pakkaSaH :  pakkaSaH : pakvaSaH : Not sure.  pakvaSaH agrees with other dictionaries.
+21082 : pAyas : pAyas : pAyasa : Should be no virAma.
+21282 : pASanama : pASanama : pASanam : virAma missing
+23911 : prAdurBa : prAdurBa : prAdurBU
+--- batch 209
+24825 : Baktimata : Baktimata : Baktimat : virAma missing
+26809 : mrakzaRama : mrakzaRama : mrakzaRam : virAma missing
+28218 : lAkaka : lAkaka : lOkika : body of text supports lOkika; also other dictionaries
+28723 : vallUram : vallUram : valluram : derivation supports short 'u" : also other dictionaries
+29492 : viwwalaH : viwwa(WWa)laH : viwWa(WWa)laH : cf Other dictionaries (AP90 : MW : PWG) 
+30365 : viSIrRi : viSIrRi : viSIrRa : cf. quotation and other dictionaries
+--- batch 210
+35732 : sTApanama : sTApanama : sTApanam : missing virAma
+35803 : snAyIya : snAyIya : snAnIya : from snAna
+35825 : snuha : snuha : snuh : missing virAma. Cf. other dictionaries
+36304 : halaniH : halaniH : halInaH : long I diacritic misplaced
+-----------------------------------------------------------------
+01-31-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
+These changes initiated by Jim Funderburk and user sergeA
+L code : Headword : Old  : New : Commen
+10301 : urula : urula : urUla : BAsed on alph. order in AP and urUla in MW72 and pwg
+22470 : pradipAdanam : pradipAdanam : pratipAdanam
+24562 : bARiRI : bARiRI : bARinI : Since refers to vARinI
+5952 : astanike : astanike : astamike : Based on AP90 and alph. ordering
+10386 : ullu : ullu : ullU : ud + lU.
+
+280 : aNka : aNka : aNk :  missing virama
+428 : ajahalliNgama : ajahalliNgama : ajahalliNgam  : missing virama
+ 816 : atyahita : atyahita : atyayita
+ 822 : atala : atala : atula :  missing vowel diacritic
+ 2474 : anvArohaRama : anvArohaRama : anvArohaRam : missing virama
+ 2502 : apakalaNkakaH : apakalaNkakaH : apakalaNkaH  : Not sure. cf mw : ap90
+9370 : upakarRa : upakarRa : upakarR : missing virama
+-----------------------------------------------------------------
+02-03-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335 : Batches 9-11
+These changes initiated by Jim Funderburk and user sergeA
+L code : Headword : Old  : New : Comment
+3946 : aByarcana : aByarcana : aByarcanam : neuter noun. Missing 'm'
+6587 : ANgAra : ANgAra : ANgAram : neuter noun missing 'm'
+7338 : Ayana : Ayana : Ayanam : neuter noun missing 'm'
+8684 : uttarIya : uttarIya : uttarIyam : neuter noun
+10180 : upArjana : upArjana : upArjanam : neuter or fem.
+11909 : kAYjika : kAYjika : kAYjikam : neuter noun
+12380 : kuwumba : kuwumba : kuwumbam : neuter noun
+19533 : nEkawya : nEkawya : nEkawyam : neuter noun
+25184 : BItaMkAra : BItaMkAra : BItaMkAram : indeclinable; presume 'am' is appropriate ending.
+25394 : BramaRa : BramaRa : BramaRam : neuter noun
+
+3233 : aba : aba : ab :  also amba : amb.  Verbs acc. to correspondence with AP90 etc.
+3292 : aBaMyakara : aBaMyakara : aBayaMkara : anusvara placement wrong
+11264 : kaqa : kaqa(-la)tram : kaqa(la)tram :  the '-' considered an error; variant is kalatram
+
+11561 : karamBakAm : karamBakAm : karamBakam : Presume Am is error as AP90 MW and other dictionaries have 'am'
+11780 : kalhAram : kalhAram : kahlAram : By alph. order; although kalhAram is a variant spelling
+13168 : kre : kre-RiH : kreRiH : '-' unneeded
+35325 : sevitaM : sevitaM : sevita : particple is adjective so no anusvAra
+-----------------------------------------------------------------------
+02-09-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
+Sources:  Jim Funderburk , Github user sergeA
+L code : Headword : Old  : New : Comment
+Batch 200
+2928 : apAda : apAda : apAd : missing virAma
+3413 : aBitarAma : aBitarAma : aBitarAm : missing virAma
+
+Batch 201
+3566 : aBimanT : aBimanT : aBimanTaH : Also, aDimanT -> aDimanTaH.  This is a m. noun, not a present participle
+3675 : aBivfta : aBivfta : aBivft : missing virAma on verb
+3968 : aByavaskanda : aByavaskanda : aByavaskand : Missing virama on verb
+4293 : amlaH : amlaH : amvlaH : Obviously related to amla, but by ordering should have the 'v'. cf MW72, AP90
+4586 : aDin : aDin : arDin : related to arDa.
+4613 : arvAc : arvAc : arvAYc : opp. parAYc
+6366 : Akalpam : Akalpam : Akalyam : Sense = sickness
+7235 : ABogya : ABogya : ABogaya : alph. order; RV quote; AP and most others
+8327 : Irkzya : Irkzya : Irkzy : missing virama on root.
+
+Batch 202
+10388 : ullolaH : ullolaH : ullola : as adj. it should be without masc. ending
+11162 : kacCawikA : kacCawikA : kacCapikA : misspelled; compare with ap90; also the added new source GOS-52 Daṇḍaviveka, p.297 gives कच्छपिका in the text
+13518 : Kawwa : Kawwa : Kaww : it's a verb
+
+Batch 203
+16887 : trEvarRaH : trEvarRaH : trEvarRa : Adjective, no visarga needed. 
+18101 : Dfta : Dfta : Dft : missing virAma. Dfta is next entry.
+20020 : parAvft : parAvft : parAvat : Based on sense acc. to MW AP90 and VCP.
+
+Batch 204
+23798 : prAkarzikaH : prAkarzikaH : prAkazikaH : the spelling changed in 1957; corrected back after ap90, MW, PWG;  see reference to Unadi-sutras in MW प्रा-कषिक [p= 701] ; m. (fr. -कष ; » Uṇ.  ii, 41 Sch.) a dancer employed by a woman or one supported by another's wives L.; in Unadi it is given प्राकषिकः नर्तकः।
+24693 : bihlaRaH : bihlaRaH : bilhaRaH : in ap1957 the poet's name is corrupted
+
+Batch 205
+26008 : mAqukaH : mAqukaH : mAqqukaH : Since from maqquka
+
+Batch 206
+32741 : zvakka : zvakka : zvakk : it's a verb
+
+Batch 207
+36614 : hotriya : hotriya : hotrIya : Long 'i' by alph. order; meaning of hotriya and hotrIya similar
+
+misc
+3133  : apratizwa : apratizwa : apratizWa :
+7453  : ArikaH    : ArikaH    : ArekaH :
+7815  : ASImat    : ASImat    : ASiman : imanic suffix; cf AP90 MW for short 'I'
+-----------------------------------------------------------------------
+02-14-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
+Sources:  Jim Funderburk 
+L code : Headword : Old  : New : Comment
+Batch 208
+3799 : aBisaMpata : aBisaMpata : aBisaMpat :  verb missing virAma,
+12464 : kuTa : kuTa : kuT : verb missing virAma
+19446 : nIrAja : nIrAja : nIrAj : verb missing virAma
+Batch 209
+21012 : pAtANgiH : pAtANgiH : pAtaNgiH : diacritic misplaced
+21362 : piRqakaH : piRqakaH : piqakaH : alph. order and AP90 and MW
+22803 : pratyaBived : pratyaBived : pratyaBivad : root 'vad'
+24004 : prAMvAsa : prAMvAsa : prAvAsa : no anusvara; may be stray smudge
+25825 : marjaH : marjaH : marjUH : cf AP90 and MW; missing vowel diacritic
+26077 : mAGyasTa : mAGyasTa : mADyasTa : 
+30659 : viDra : viDra : vIDra : alph. order; cf AP90 and MW
+34408 : sarjaH : sarjaH : sarjyaH : alph. order and sense; cf AP90 MW
+
+-----------------------------------------------------------------------
+07-13-2017
+Sources:  Jim Funderburk 
+L code : Headword : Old  : New : Comment
+30751  : vfzakapAyI: vfzakapAyI : vfzAkapAyI : confirm by alph. ordering and by MW
+-----------------------------------------------------------------
+11-10-2017
+Sources:  GitHub User SergeA
+L code : Headword : Old  : New : Comment
+5425   : avACid   : avACid : avAcCid : error copied from MW. 
+-----------------------------------------------------------------------

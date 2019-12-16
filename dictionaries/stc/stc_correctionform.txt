@@ -1,0 +1,511 @@
+Sanskrit Lexicon Correction Form History for STC
+As of July 22, 2019
+76 correction records, with 0 PENDING
+
+Case 24438: 07/17/2019 dict=STC, L= 8130, hw=kula, user=Caujolle
+old = qui existent. dans chaque Varṣa. 
+new = qui existent dans chaque Varṣa. 
+status = Corrected 07/17/2019
+------------------------------------------------------------------------
+
+Case 24417: 06/02/2019 dict=STC, L= 16984, hw=mokSa, user=Caujolle
+old = mokṣa- m. libération (de, abl.); libération de l'existence ou de mal; 
+new = mokṣa- m. libération (de, abl.); libération de l'existence ou du mal; 
+comment = Typo ("de" instead of "du")
+status =  Corrected 07/07/2019
+------------------------------------------------------------------------
+
+Case 24385: 03/25/2019 dict=STC, L=ID=1106, hw=adhyAtma, user=Caujolle
+old = adhyAtma is not accessible (one can not get to it), (it is between adhyAcar (ID=1105) and adhyAtmika (ID=1107) which are both accessible)
+new = 
+status =  Corrected 07/07/2019
+------------------------------------------------------------------------
+
+Case 24384: 03/19/2019 dict=STC, L= 320, hw=atas, user=Caujolle
+old = atas adv. (servant d'abl. à idam-) de on par celui-ci,
+new = atas adv. (servant d'abl. à idam-) de ou par celui-ci,
+comment = Typo (on instead of ou)
+status =  Corrected 07/07/2019
+------------------------------------------------------------------------
+
+Case 24367: 02/20/2019 dict=STC, L= ID=19980, hw=zaka, user=Caujolle
+old = ère Çaka (78 de l'ère).
+new = ère Śaka (78 de l'ère).
+comment = for coherence, the Ç should here be replaced by Ś
+status = Corrected 07/18/2019
+------------------------------------------------------------------------
+
+Case 24364: 02/17/2019 dict=STC, L=  ID=7928, hw=kArya , user=Caujolle
+old = en fait, nécessairement. ;
+new = en fait, nécessairement ;
+status =  Corrected 07/07/2019
+------------------------------------------------------------------------
+
+Case 24327: 01/12/2019 dict=STC, L= ID=6594, hw=upa, user=caujolle
+old = préf. devant verbes marquant. situation
+new = préf. devant verbes marquant situation
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24315: 01/07/2019 dict=STC, L= ID=16507, hw=mantra, user=Caujolle
+old = -vat selon on avec des formules, 
+new = -vat selon ou avec des formules, 
+comment = Typo it is 'ou' and not 'on'. Consider also changing on this page "Which L code?" by "Which ID record?" or something like that
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24279: 11/30/2018 dict=STC, L=ID=21508, hw=sapta, user=Caujolle
+old = °catvāriṃśa- -ī- a. 47(me.) LB °daśa- -ī- a. 17(me,) composé de 17 ; LB °navata- -ī- a. 97me ; -i- num. f. 97 ; -itamaī- a. 97(me.) 
+new = °catvāriṃśa- -ī- a. 47me. LB °daśa- -ī- a. 17me, composé de 17 ; LB °navata- -ī- a. 97me ; -i- num. f. 97 ; -itama- -ī- a. 97me.  LB (me should come out as superscript like every where else in that page, plus donc forget the "-itama- -ī- a." to correct)
+comment = 4 Typos. It would also maybe be good to change , on this correction page, "Which L code" by "Which ID code" (for new people who would like to participate)
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24274: 11/28/2018 dict=STC, L= ID=16022] , hw=bodhi, user=caujolle
+old = attva- m. homme qui est sur la voie de l'illumination suprême, saint. bouddhiste
+new = attva- m. homme qui est sur la voie de l'illumination suprême, saint bouddhiste
+comment = Typo, the dot after saint
+status =  Corrected 11/2/2018
+------------------------------------------------------------------------
+
+Case 24264: 11/11/2018 dict=STC, L= ID=12141, hw=nirvANa, user=Caujolle
+old = néant. absolu, 
+new = néant absolu, 
+status =  Corrected 11/28/2018
+------------------------------------------------------------------------
+
+Case 24218: 09/23/2018 dict=STC, L= ID=19358, hw=vihAra, user=Caujolle
+old = ifc. qui atteint. à; 
+new = ifc. qui atteint à; 
+status =  Corrected 11/28/2018
+------------------------------------------------------------------------
+
+Case 24161: 04/23/2018 dict=STC, L= ID=12306, hw=nizcaya, user=Caujolle
+old = sūrement
+new = sûrement
+comment = Typo, i don't understand you had corrected all those spelling mistakes, when you had ask me for a few which was'nt in your dictionnary. So how did they came back? All those ū which are not in italics should be converted in û I guess (actually there is also ù so of course maybe it should be checked that it is in û and not in ù; i don't remember if i already saw an ū instead of an ù)
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24109: 02/22/2018 dict=STC, L=ID=11072 , hw=dvija, user=Caujolle
+old = (l'investiture ou l'initiation étant.  LB dent. (aussi nt.);
+new = (l'investiture ou l'initiation étant  LB dent (aussi nt.);
+comment = 2 Typos (two extra periods). Moreover i noticed that brâhmane (Brahmin) is here writen with a capital. This is wrong, in French there should not be a capital on brahmane -brahmane is most commun, brâhmane is of course also correct (and generally has my preference)-. In French, only nationality is marked by a capital, that is, a French person, un Français; but French language, français. A Christian, un chrétien, etc. So of course, a Brahmin, un brahmane. That is a mistake the authors made in this book, without doubt influenced by the Indian English which uses a lot of capitals. Myself i liberated myself from this influence quite recently, in the beginning i unduly put capitals in my French translations, now they are much better, in a much better French.
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24094: 02/02/2018 dict=STC, L= ID=18910, hw=vibhA, user=Caujolle
+old = °vasu- m. feu, Agni: soleil; 
+new = °vasu- m. feu, Agni; soleil; 
+comment = it was : instead of ;
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24092: 02/02/2018 dict=STC, L= ID=17074, hw=yadA, user=Caujolle
+old = quand, au moment. où; 
+new = quand, au moment où ; 
+comment = an extra dot and a blank lacking
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24087: 01/31/2018 dict=STC, L=  ID=16205], hw=bhAs, user=Caujolle
+old = devenir évident. ou manifeste, 
+new = devenir évident ou manifeste, 
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24014: 11/30/2017 dict=STC, L= ID=10912, hw=deva, user=caujolle
+old = -mayaī- a. 
+new = -maya- -ī- a. 
+status = Corrected 12/20/2017 
+------------------------------------------------------------------------
+
+Case 23988: 10/26/2017 dict=STC, L= ID=22434, hw=samyak, user=caujolle
+old = v. le suiv. 
+new = v. le suiv. [(samyañc)]
+comment = otherwise we need to open the pdf to see which word is next ("v. le suiv." means "see the next (word)"
+status =  Corrected 11/09/2017. ref: https://github.com/sanskrit-lexicon/Cologne/issues/193
+------------------------------------------------------------------------
+
+Case 23980: 10/21/2017 dict=STC, L= ID=9008, hw=ghRNA, user=caujolle
+old = avecsion ,
+new = aversion,
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23969: 10/16/2017 dict=STC, L= D=302, hw=aNu, user=caujolle
+old = ténu. mince; 
+new = ténu, mince; 
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23963: 10/13/2017 dict=STC, L= ID=21314, hw=saMtan, user=caujolle
+old = continuité ,
+new = continuité,
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23962: 10/09/2017 dict=STC, L= ID=13882, hw=puruSa, user=Caujolle
+old = 3{^me^}, 2{^me^}, 1{^re^})
+new = 3me, 2me, 1re)
+comment = software
+status =  Corrected 11/09/2017. Changed display.
+------------------------------------------------------------------------
+
+Case 23778: 08/23/2017 dict=STC, L= [L=24104], hw=spanda, user=Caujolle
+old = mouvement. en général, 
+new = mouvement en général, 
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23723: 06/09/2017 dict=STC, L= [L=7723], hw=kalatra, user=caujolle
+old = qui a une femme, marie ; 
+new = qui a une femme, marié ; 
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23718: 06/03/2017 dict=STC, L= L=17296], hw=rathin, user=caujolle
+old = combattant. monté sur char.
+new = combattant monté sur char.
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23713: 06/01/2017 dict=STC, L= [L=948], hw=advaita, user=o.caujolle
+old = unité unicité;
+new = unité, unicité;
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23708: 05/27/2017 dict=STC, L= [p= 174,2], hw=kadA, user=Caujolle
+old = (et aussi, plus rar. ; 
+new = (et aussi, plus rar. : 
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23707: 05/27/2017 dict=STC, L= [L=16267], hw=bhU, user=Caujolle
+old = qui provient. de.
+new = qui provient de.
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23690: 05/01/2017 dict=STC, L= [L=15025], hw=pradhāna, user=caujolle
+old = qui consiste principalement. en 
+new = qui consiste principalement en 
+status =  Corrected 05/00/2017
+------------------------------------------------------------------------
+
+Case 23688: 04/27/2017 dict=STC, L= [L=1980] , hw=anuśī, user=Caujolle
+old = anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur on après, reposer en (fig.); avoir du remords.
+new = anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur ou après, reposer en (fig.); avoir du remords.
+comment = Typo (it should be "ou" and not "on")
+status =  Corrected 05/00/2017
+------------------------------------------------------------------------
+
+Case 23639: 02/18/2017 dict=STC, L= L=19884, hw=vyAmoha, user=Caujolle
+old = connaissance, aveuglement. (mental), incertitude.
+new = connaissance, aveuglement (mental), incertitude.
+comment = Typo (an unwanted period) LB  
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23635: 02/09/2017 dict=STC, L= L=5724, hw=Azu, user=Caujolle
+old = °loṣa- a. aisé à satisfaire.
+new = °toṣa- a. aisé à satisfaire.
+comment = Typo, (about the scans, it is not very visible on your scan, but on mine it is clearly t). Anyway there is no such word like loSa.
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23627: 02/02/2017 dict=STC, L= L=16270, hw=bhUti , user=Caujolle
+old = bienêtre
+new = bien-être
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23537: 10/04/2016 dict=STC, L= L=24145, hw=sphuraNa, user=Caujolle
+old = expansion. manifestation ; 
+new = expansion, manifestation ; 
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23536: 10/03/2016 dict=STC, L= L=13908, hw=puSTi, user=Caujolle
+old = bienêtre
+new = bien-être
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23406: 06/16/2016 dict=STC, L= L=9004, hw=ghūrn, user=Caujolle
+old = ghūrn
+new = ghūrṇ
+comment = Typo, it should be  a retroflex n in the headword
+status =  Corrected 07/06/2016
+------------------------------------------------------------------------
+
+Case 22675: 05/14/2016 dict=STC, L=17123, hw=yAcaYA, user=dhaval
+old = yAcaYA
+new = yAcYA
+comment = typo aYA
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22548: 05/10/2016 dict=STC, L= [L=20209], hw=zAnti, user=Caujolle
+old = bienêtre
+new = bien-être
+status =  Corrected 06/07/2016
+------------------------------------------------------------------------
+
+Case 18044: 03/16/2016 dict=STC, L=10152, hw=tEkznya, user=ejf
+old = tEkznya
+new = tEkzRya
+comment = print error  'zn' usually not possible. Confirm MW and many other dictionaries
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18043: 03/16/2016 dict=STC, L=13032, hw=parijnAna, user=ejf
+old = parijnAna
+new = parijYAna
+comment = print error  print missing tilde over 'n'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18042: 03/16/2016 dict=STC, L=8247, hw=kfznAyati, user=ejf
+old = kfznAyati
+new = kfzRAyati
+comment = print error  'zn' usually not possible. Confirm MW kfzRAya
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18041: 03/16/2016 dict=STC, L=3956, hw=avajnA, user=ejf
+old = avajnA
+new = avajYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18040: 03/16/2016 dict=STC, L=1628, hw=anujnA, user=ejf
+old = anujnA
+new = anujYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18039: 03/16/2016 dict=STC, L=2864, hw=aBijnA, user=ejf
+old = aBijnA
+new = aBijYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18038: 03/16/2016 dict=STC, L=5957, hw=InKana, user=ejf
+old = InKana
+new = INKana
+comment = typo  Typo confirmed. INKana Confirmed by cae,ccs,md,mw,mw72,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 16992: 01/22/2016 dict=STC, L=6380, hw=udGat, user=dhaval
+old = udGat
+new = udGaw
+comment = typo Unclear print
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16991: 01/22/2016 dict=STC, L=427, hw=atiduhSrava, user=dhaval
+old = atiduhSrava
+new = atiduHSrava
+comment = typo hS
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 15493: 01/18/2016 dict=STC, L= [L=20594], hw=zreyAMs, user=Caujolle, regards
+old = bienêtre
+new = bien-être
+status =  Corrected 02/18/2016
+------------------------------------------------------------------------
+
+Case 15485: 01/13/2016 dict=STC, L=14692, hw=pratisaMAdiS, user=dhaval
+old = pratisaMAdiS
+new = pratisamAdiS
+comment = typo MA
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 5380: 11/20/2015 dict=STC, L=24183, hw=syUmaraSmI, user=Dhaval
+old = syUmaraSmI
+new = syUmaraSmi
+comment = print error Seems like there is some mark above 'i' and not 'I'.
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5379: 11/20/2015 dict=STC, L=20517, hw=SOnaHSePa, user=Dhaval
+old = SOnaHSePa
+new = SOnaHSepa
+comment = print error lexicographer error
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5378: 11/20/2015 dict=STC, L=8205, hw=kUsmARqa, user=Dhaval
+old = kUsmARqa
+new = kUzmARqa
+comment = typo 
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5377: 11/20/2015 dict=STC, L=6124, hw=utkUrdAna, user=Dhaval
+old = utkUrdAna
+new = utkUrdana
+comment = typo print smudge
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5376: 11/20/2015 dict=STC, L=23321, hw=sunita, user=Dhaval
+old = sunita
+new = sunIta
+comment = typo 
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5375: 11/20/2015 dict=STC, L=22796, hw=sAnaTya, user=Dhaval
+old = sAnaTya
+new = sAnATya
+comment = print error sAnaTya is grammatically not viable.
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5374: 11/20/2015 dict=STC, L=21285, hw=sanadIgirikanana, user=Dhaval
+old = sanadIgirikanana
+new = sanadIgirikAnana
+comment = print error kAnana is proper word for forest, not kanana.
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5373: 11/20/2015 dict=STC, L=18893, hw=vihARa, user=Dhaval
+old = vihARa
+new = vibARa
+comment = typo smudged print
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5372: 11/20/2015 dict=STC, L=15887, hw=balluka, user=Dhaval
+old = balluka
+new = Balluka
+comment = print error A lexicographer error.
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5371: 11/20/2015 dict=STC, L=15072, hw=prapiq, user=Dhaval
+old = prapiq
+new = prapIq
+comment = print error 
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5370: 11/20/2015 dict=STC, L=11841, hw=nirAkaNkza, user=Dhaval
+old = nirAkaNkza
+new = nirAkANkza
+comment = print error lexicographer error
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5369: 11/20/2015 dict=STC, L=11149, hw=DarziRi, user=Dhaval
+old = DarziRi
+new = DarziRI
+comment = print error f. of Darzin
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5368: 11/20/2015 dict=STC, L=9057, hw=caYcarika, user=Dhaval
+old = caYcarika
+new = caYcarIka
+comment = print error Maybe lexicographer error also
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5367: 11/20/2015 dict=STC, L=4915, hw=AkaNkz, user=Dhaval
+old = AkaNkz
+new = AkANkz
+comment = typo 
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5366: 11/20/2015 dict=STC, L=2879, hw=aBitf, user=Dhaval
+old = aBitf
+new = aBitF
+comment = typo 
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5365: 11/20/2015 dict=STC, L=2802, hw=aBikaNkz, user=Dhaval
+old = aBikaNkz
+new = aBikANkz
+comment = typo 
+status =  Corrected 11/20/2015
+------------------------------------------------------------------------
+
+Case 5361: 11/18/2015 dict=STC, L= 9000, hw=Gus, user=zaaf2
+old = Gus
+new = Guz
+status =  Corrected 12/08/2015
+------------------------------------------------------------------------
+
+Case 4984: 9/14/2015 dict=STC, L= [L=7892], hw=kAraNa HK, user=caujolle
+old = kāraṇa- nt. cause, motif, raison, origine, cause première, élément. ;
+new = kāraṇa- nt. cause, motif, raison, origine, cause première, élément ;
+comment = Typo (a dot in excess)
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4097: 4/18/2015 dict=STC, L= [L=20011], hw=zaMkara, user=Odile caujolle
+old = I can't access to the zaMkara article, The previous one ([L=20010]) and the next one ([L=20012]) yes. so i suppose it is the [L=20011]
+new = 
+comment = headword skipped
+status =  Corrected 05/03/2015. Headword was wrongly spelled 'zamkara' (HK).
+------------------------------------------------------------------------
+
+Case 4070: 4/13/2015 dict=STC, L= [L=16609], hw=mahA, user=Caujolle
+old = °dīna- nt. sorte de vol. 
+new = °Dīna- nt. sorte de vol [essor]. 
+comment = Typo (a d instead of a D); and I am adding [essor] because "vol" is ambigous, it means flight and also theft (homographs), i had to go to another dict. (Eng.) to know what was the real meaning.
+status =  Corrected 05/03/2015. dIna to DIna, but did not add [essor].
+------------------------------------------------------------------------
+
+Case 4069: 4/10/2015 dict=STC, L= [L=15847], hw=bandha, user=caujolle
+old = fait d'être lié, not. moralement, de ne pas avoir atteint. la délivrance
+new = fait d'être lié, not. moralement, de ne pas avoir atteint la délivrance
+comment = Typo (un extra dot)
+status =  Corrected 05/03/2015
+------------------------------------------------------------------------
+
+Case 4061: 3/27/2015 dict=STC, L= [L=9100], hw=candra, user=Caujolle
+old = son croissant.
+new = son croissant
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
+
+Case 4059: 3/21/2015 dict=STC, L=[L=20955]  , hw=sakala, user=O.Caujolle
+old = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient. toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
+new = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
+comment = Typo: an extra period (.) after "contient" (; qui contient. toutes les parties,)
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
+
+Case 632: 11/5/2014 dict=STC, L= [L=8952], hw=glAnatA, user=Odile Caujolle
+old = the text under glAnatA is: [L=8952] [p= 239,1]  glānatā- glāni- f. fait de se faner, exténuation, langueur.
+new = I would suggest to add glāni to the head words list (to be send to glānatA) as unless looking at the scan (and even) there is no chance to find that word 
+comment = missing headword  Regards,
+status =  Corrected 12/4/2014
+------------------------------------------------------------------------
+
+Case 107: 8/31/2014 dict=STC, L= [L=21223], hw=satya, user=o.caujolle
+old = [L=21223] [p= 771,1]         satya- a. réel, vrai, authentique, véritable; sūr, sincère,
+new = [L=21223] [p= 771,1]  satya- a. réel, vrai, authentique, véritable; sûr, sincère,
+comment = Typo sûr  Hi Jim , i remind you that in all French words, û has been written ū. There is probably some reason, but as you can select the French words from the Sanskrit ones, it probably can be easely corrected. Regards, Odile Caujolle
+status =  Corrected 8/31/2014.  The error was in the as_roman.xml file, which represented u10 as u-with-macron.
+------------------------------------------------------------------------
+
+Case 103: 8/26/2014 dict=STC, L= [L=17072], hw=yad, user=Odile Caujolle
+old = Fréquemment. avec... autrement.
+new = Fréquemment avec... autrement
+comment = Typo:  2 dots to take out
+status =  Corrected 9/1/2014
+------------------------------------------------------------------------
+

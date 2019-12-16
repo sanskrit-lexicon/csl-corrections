@@ -1,0 +1,67 @@
+Sanskrit Lexicon Correction Form History for MCI
+As of July 22, 2019
+10 correction records, with 0 PENDING
+
+Case 23845: 09/12/2017 dict=MCI, L=345, hw=SAlipIRqa, user=dhaval
+old = SAlipIRqa
+new = SAlipiRqa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23844: 09/12/2017 dict=MCI, L=755, hw=BIsmaparvan, user=dhaval
+old = BIsmaparvan
+new = BIzmaparvan
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 17955: 03/16/2016 dict=MCI, L=373, hw=sarvasAranga, user=ejf
+old = sarvasAranga
+new = sarvasAraNga
+comment = print error  Confirmed as print error. sarvasAraNga Confirmed by inm,mw,pe,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 4824: 5/14/2015 dict=MCI, L=2555, hw=Sfngin, user=ejf
+old = Sfngin
+new = SfNgin
+status =  Corrected 05/14/2015
+------------------------------------------------------------------------
+
+Case 4823: 5/14/2015 dict=MCI, L=1578, hw=yamnnAdvIpa, user=ejf
+old = yamnnAdvIpa
+new = yamunAdvIpa
+status =  Corrected 05/14/2015
+------------------------------------------------------------------------
+
+Case 4822: 5/14/2015 dict=MCI, L=1294, hw=tridlvA, user=ejf
+old = tridlvA
+new = tridivA
+status =  Corrected 05/14/2015
+------------------------------------------------------------------------
+
+Case 4821: 5/14/2015 dict=MCI, L=1128, hw=kimjapya, user=ejf
+old = kimjapya
+new = kiMjapya
+status =  Corrected 05/14/2015
+------------------------------------------------------------------------
+
+Case 4820: 5/14/2015 dict=MCI, L=567, hw=vAyavyAswra, user=ejf
+old = vAyavyAswra
+new = vAyavyAstra
+status =  Corrected 05/14/2015
+------------------------------------------------------------------------
+
+Case 4819: 5/14/2015 dict=MCI, L=44, hw=exaka, user=ejf
+old = exaka
+new = elaka
+status =  Corrected 05/14/2015
+------------------------------------------------------------------------
+
+Case 969: 11/22/2014 dict=MCI, L= [L=152] [p= 030-a+ 38], hw= dAksAyaRI^1 , user=Shalu
+old = Dāksāyaṇī
+new = Dākṣāyaṇī
+status =  Corrected 12/02/2014
+------------------------------------------------------------------------
+

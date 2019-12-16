@@ -1,0 +1,493 @@
+Sanskrit Lexicon Correction Form History for INM
+As of July 22, 2019
+73 correction records, with 0 PENDING
+
+Case 23843: 09/12/2017 dict=INM, L=7334, hw=mitrAvaruRayohputraH, user=dhaval
+old = mitrAvaruRayohputraH
+new = mitrAvaruRayoHputraH
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23842: 09/12/2017 dict=INM, L=6507, hw=lokaDAtr, user=dhaval
+old = lokaDAtr
+new = lokaDAtf
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23841: 09/12/2017 dict=INM, L=6527, hw=lokAnAMkIrtivarDaRaH, user=dhaval
+old = lokAnAMkIrtivarDaRaH
+new = lokAnAMkIrtivarDanaH
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23840: 09/12/2017 dict=INM, L=4928, hw=jYAnOttama, user=dhaval
+old = jYAnOttama
+new = jYAnauttama
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23839: 09/12/2017 dict=INM, L=2922, hw=daSalakzaRasamyukta, user=dhaval
+old = daSalakzaRasamyukta
+new = daSalakzaRasaMyukta
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23367: 06/14/2016 dict=INM, L=4273, hw=gUDavrata, user=dhaval
+old = gUDavrata
+new = gUQavrata
+comment = typo gUD
+status =  Corrected 06/14/2016
+------------------------------------------------------------------------
+
+Case 22622: 05/13/2016 dict=INM, L=5768, hw=kirIwaBfw, user=dhaval
+old = kirIwaBfw
+new = kirIwaBft
+comment = typo fw
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22621: 05/13/2016 dict=INM, L=4552, hw=hrdikasuta, user=dhaval
+old = hrdikasuta
+new = hfdikasuta
+comment = typo hrd
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 21477: 04/14/2016 dict=INM, L=9185, hw=ftavaHzat, user=dhaval
+old = ftavaHzat
+new = ftavaHzaw
+comment = typo Hz
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21476: 04/14/2016 dict=INM, L=3726, hw=dfDasyu, user=dhaval
+old = dfDasyu
+new = dfQasyu
+comment = typo fD
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 17954: 03/16/2016 dict=INM, L=3036, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17953: 03/16/2016 dict=INM, L=3035, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17952: 03/16/2016 dict=INM, L=3034, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17951: 03/16/2016 dict=INM, L=3033, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17950: 03/16/2016 dict=INM, L=3032, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17949: 03/16/2016 dict=INM, L=3031, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 16966: 01/22/2016 dict=INM, L=9967, hw=skandoPyAna, user=dhaval
+old = skandoPyAna
+new = skandopAKyAna
+comment = typo Py - print smudge
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16965: 01/22/2016 dict=INM, L=6742, hw=mahAdaMztra, user=dhaval
+old = mahAdaMztra
+new = mahAdaMzwra
+comment = typo zt
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 15465: 01/13/2016 dict=INM, L=12529, hw=yajuhpAdaBuja, user=dhaval
+old = yajuhpAdaBuja
+new = yajuHpAdaBuja
+comment = typo hp
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15464: 01/13/2016 dict=INM, L=10377, hw=suraSrezTA, user=dhaval
+old = suraSrezTA
+new = suraSrezWA
+comment = typo zT
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15463: 01/13/2016 dict=INM, L=8086, hw=pafA, user=dhaval
+old = pafA
+new = parA
+comment = typo fA-print smudge
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15462: 01/13/2016 dict=INM, L=4779, hw=janaMejaya, user=dhaval
+old = janaMejaya
+new = janamejaya
+comment = typo Me-print smudge
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 9446: 12/21/2015 dict=INM, L= what is this?, hw=any, user=tyler.g.neill
+old = 
+new = 
+comment = malfunction, tool not functioning at all?
+status =  12/29/2015 Nothing to correct. Responded by email
+------------------------------------------------------------------------
+
+Case 9117: 12/18/2015 dict=INM, L=10844, hw=tIrTayAtrAparvan, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9116: 12/18/2015 dict=INM, L=9973, hw=soma, user=ejf
+old = sh2
+new = ih2
+comment = print error   ?
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9115: 12/18/2015 dict=INM, L=9782, hw=sOBavaDopAKyAna, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9114: 12/18/2015 dict=INM, L=9181, hw=fta, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9113: 12/18/2015 dict=INM, L=8538, hw=prakfti, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9112: 12/18/2015 dict=INM, L=8538, hw=prakfti, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9111: 12/18/2015 dict=INM, L=8337, hw=piSAca, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9110: 12/18/2015 dict=INM, L=8223, hw=pAtAla, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9109: 12/18/2015 dict=INM, L=7587, hw=nara, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9108: 12/18/2015 dict=INM, L=7350, hw=mokzaDarmaparvan, user=ejf
+old = sh2n
+new = shn2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9107: 12/18/2015 dict=INM, L=7118, hw=manu, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9106: 12/18/2015 dict=INM, L=4872, hw=jayadraTavaDaparvan, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9105: 12/18/2015 dict=INM, L=4508, hw=hiraRyagarBa, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9104: 12/18/2015 dict=INM, L=4307, hw=guruSizyasaMvAda, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9103: 12/18/2015 dict=INM, L=4145, hw=GozayAtrAparvan, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9102: 12/18/2015 dict=INM, L=4054, hw=gArgya, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9101: 12/18/2015 dict=INM, L=3379, hw=Danurveda, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9100: 12/18/2015 dict=INM, L=2622, hw=SiKaRqin, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9099: 12/18/2015 dict=INM, L=2538, hw=SatAnIka, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9098: 12/18/2015 dict=INM, L=2318, hw=Sala, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9097: 12/18/2015 dict=INM, L=166, hw=Adikara, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9092: 12/16/2015 dict=INM, L=10017, hw=sraz2tf, user=dhaval
+old = sraz2tf
+new = srazwf
+comment = typo 2t->w
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9091: 12/16/2015 dict=INM, L=4948, hw=jyez2TA, user=dhaval
+old = jyez2TA
+new = jyezWA
+comment = typo 2T->W
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 4096: 4/16/2015 dict=INM, L=10879, hw=triBuvanaSfezWa, user=dhaval
+old = triBuvanaSfezWa
+new = triBuvanaSrezWa
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4095: 4/16/2015 dict=INM, L=10644, hw=svarAztra, user=dhaval
+old = svarAztra
+new = svarAzwra
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4094: 4/16/2015 dict=INM, L=10408, hw=surAriGRa, user=dhaval
+old = surAriGRa
+new = surAriGna
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4093: 4/16/2015 dict=INM, L=10017, hw=sraztf, user=dhaval
+old = sraztf
+new = srazwf
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4092: 4/16/2015 dict=INM, L=9474, hw=saRkarzaRa, user=dhaval
+old = saRkarzaRa
+new = saNkarzaRa
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4091: 4/16/2015 dict=INM, L=9388, hw=samskfti, user=dhaval
+old = samskfti
+new = saMskfti
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4090: 4/16/2015 dict=INM, L=9184, hw=rtasyakartf, user=dhaval
+old = rtasyakartf
+new = ftasya
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4089: 4/16/2015 dict=INM, L=9182, hw=rtA, user=dhaval
+old = rtA
+new = ftA
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4088: 4/16/2015 dict=INM, L=8376, hw=pitAmahasurta, user=dhaval
+old = pitAmahasurta
+new = pitAmahasuta
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4087: 4/16/2015 dict=INM, L=8014, hw=pARdu, user=dhaval
+old = pARdu
+new = pARqu
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4086: 4/16/2015 dict=INM, L=8012, hw=pARqoqrAjO, user=dhaval
+old = pARqoqrAjO
+new = pARqoqrarAjO
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4085: 4/16/2015 dict=INM, L=7586, hw=napumsaka, user=dhaval
+old = napumsaka
+new = napuMsaka
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4084: 4/16/2015 dict=INM, L=7478, hw=nAgavatmAn, user=dhaval
+old = nAgavatmAn
+new = nAgavatman
+comment = Use stem form
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4083: 4/16/2015 dict=INM, L=6169, hw=kunqala, user=dhaval
+old = kunqala
+new = kuRqala
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4082: 4/16/2015 dict=INM, L=6012, hw=ksetrajYa, user=dhaval
+old = ksetrajYa
+new = kzetrajYa
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4081: 4/16/2015 dict=INM, L=5239, hw=kAmakroDO, user=dhaval
+old = kAmakroDO
+new = (kAmakroDa)
+comment = Use stem form
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4080: 4/16/2015 dict=INM, L=4948, hw=jyezTA, user=dhaval
+old = jyezTA
+new = jyezWA
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4079: 4/16/2015 dict=INM, L=4179, hw=gocfNga, user=dhaval
+old = gocfNga
+new = goSfNga
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4078: 4/16/2015 dict=INM, L=4041, hw=gaNgAyamunayostirTam, user=dhaval
+old = gaNgAyamunayostirTam
+new = gaNgAyamunayostIrTam
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4077: 4/16/2015 dict=INM, L=3647, hw=drasWAtman, user=dhaval
+old = drasWAtman
+new = drazwAtman
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4076: 4/16/2015 dict=INM, L=3456, hw=DArzWadyumna, user=dhaval
+old = DArzWadyumna
+new = DArzwadyumna
+comment = made 'wa' headword
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4075: 4/16/2015 dict=INM, L=3302, hw=devAsuravinirmAwr, user=dhaval
+old = devAsuravinirmAwr
+new = devAsuravinirmAtf
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4074: 4/16/2015 dict=INM, L=2058, hw=cedipungava, user=dhaval
+old = cedipungava
+new = cedipuNgava
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4073: 4/16/2015 dict=INM, L=1089, hw=bAhudaNtaka, user=dhaval
+old = bAhudaNtaka
+new = bAhudantaka
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4072: 4/16/2015 dict=INM, L=1003, hw=Otanka, user=dhaval
+old = Otanka
+new = OtaNka
+comment = scan err
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4071: 4/16/2015 dict=INM, L=784, hw=ardracarman, user=dhaval
+old = ardracarman
+new = Ardracarman
+comment = Scan err
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4060: 3/26/2015 dict=INM, L=10216, hw=Suhotra, user=bikelis
+old = Mlecohāṭavikavarjitāṃ
+new = Mlecchāṭavikavarjitāṃ
+status = Corrected 04/27/2015
+------------------------------------------------------------------------
+

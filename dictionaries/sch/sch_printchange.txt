@@ -1,0 +1,48 @@
+
+This file documents changes made to the digitization of SCH in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-15-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+
+-----------------------------------------------------------------------
+12-15-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword    : Old         : New         : Comment
+13590  : jagaJaMpaRa : jagaJaMpaRa : jagaJampaRa :  Convention error. The entry is marked by ? by author.
+14426  : tAwaMkati   : tAwaMkati   : tAwaNkati   :  Convention error.
+-----------------------------------------------------------------------
+01-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword    : Old         : New         : Comment
+10062 : kalaBhAmburASi : kalaBhAmburASi : kalaBAmburASi : Bh
+-----------------------------------------------------------------------
+04-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword    : Old         : New         : Comment
+7221 : AraksaRa : AraksaRa : ArakzaRa : ks
+20754 : BfNgAksI : BfNgAksI : BfNgAkzI : ks is not proper.
+-----------------------------------------------------------------------
+05-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword    : Old         : New         : Comment
+4939 : arDakuRqalakafzin : arDakuRqalakafzin : arDakuRqalakarzin : kafzin is grammatically not possible.
+26678 : sudurDafsa : sudurDafsa : sudurDarza : सुदुर्धर्ष seems to have misplaced a dot below s to r.
+23525 : vAraRabUsA : vAraRabUsA : vAraRabusA : UsA. All other dictionaries have vAraRabusA. Also next entry has vAraRavusA, with the same meaning. no 'U' there.
+----------------------------------------------------------------------
+09/12/2017
+ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old  : New : Comment
+21700 : mIDvaMs : mIDvaMs : mIQvaMs : 
+-----------------------------------------------------------------------

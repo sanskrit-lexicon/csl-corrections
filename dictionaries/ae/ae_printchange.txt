@@ -1,0 +1,345 @@
+This file documents changes made to the digitization of AE in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 08-22-2016, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+08-22-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/304
+
+These changes initiated by user sanaatani. Jim Funderburk added a few.
+The changes are all where
+there was a printing of 'satva', which was changed to 'sattva'
+L code : Headword : Old :       New       : Comment
+2868 : die : niHsatva: niHsattva
+3246 : dry : niHsatva: niHsattva
+3467 : empty: niHsatva: niHsattva
+3874 : faint : niHsatva: niHsattva
+3945 : feeble : niHsatva: niHsattva
+4965 : hollow : niHsatva: niHsattva
+5174 : impair : niHsatva: niHsattva
+5231 : impotent : niHsatva: niHsattva : twice
+5857 : jejune : niHsatva: niHsattva
+4310 : froth : niHsatva: niHsattva
+6237 : linseywoolsey  : niH-satva: niH-sattva
+8886 : restore : satva-bala-varDana : sattva-bala-varDana
+8942 : rich : satva-sAra : sattva-sAra
+-----------------------------------------------------------------------
+09-06-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/304
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+835 : be : <>{#BUtaM, satvaH- tvaM;#} ‘rational b.’ {#sacetanaH, : <>{#BUtaM, sattvaH- tvaM;#} ‘rational b.’ {#sacetanaH, : 
+1228 : brisk : <>{%s.%} {#tejas#} {%n.,%} {#sAraH, satvaM#}. : <>{%s.%} {#tejas#} {%n.,%} {#sAraH, sattvaM#}. : 
+2759 : depress : <>spirits’ {#satvaBraMSaH#}. : <>spirits’ {#sattvaBraMSaH#}. : 
+3570 : entity : <><P>{@Entity,@} {%s.%} {#satvaM, astitvaM, BAvaH, sattA#}. : <><P>{@Entity,@} {%s.%} {#sattvaM, astitvaM, BAvaH, sattA#}. : 
+4046 : fire : <>-jas#} {%n.,%} {#satvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : <>-jas#} {%n.,%} {#sattvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : 
+4587 : good : <>sujanatA;#} ‘tendency to g.’ {#satvaguRaH#}. : <>sujanatA;#} ‘tendency to g.’ {#sattvaguRaH#}. : 
+5421 : indomitable : <>-vat, urusatva#}. : <>-vat, urusattva#}. : 
+6200 : life : <>tejas#} {%n.,%} {#satvaM, rasaH;#} ‘bring or restore : <>tejas#} {%n.,%} {#sattvaM, rasaH;#} ‘bring or restore : 
+8773 : rejuvenate : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-satvaM-vfD#} c., {#A-pyE#} c. : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-sattvaM-vfD#} c., {#A-pyE#} c. : 
+-----------------------------------------------------------------------
+10-10-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/306
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+5782 : irredeemable : aniDkreya : anizkreya : 
+1950 : colour : avalaMtrM : avalaMb : print unclear
+1950 : colour : dfqaM : dfQaM :
+10025 : succeed : AnupUfvyaRa : AnupUrvyeRa : 
+740 : bailiff : AseDdf : AsedDf :
+-----------------------------------------------------------------------
+10-17-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/306
+Sampada Savardekar , Jim Funderburk (batches 2 and 3)
+L code : Headword : Old :       New       : Comment
+2990 : disenchant : uDhf : udDf :
+2313 : counsel : upadezF : upadezwf : print blurred
+5543 : innovate : kxy : kxp :
+9200 : scheme : kXp : kxp : 
+3765 : exhaust : gKanna : Kinna :
+7972 : pious : DarmAcAMra : DarmAcAra :
+-----------------------------------------------------------------------
+10-27-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/306
+Sampada Savardekar , Jim Funderburk (batches 5,7)
+L code : Headword : Old :       New       : Comment
+1719 : chronicle : yaTAkramM : yaTAkramaM : 
+9942 : street : raTMyA : raTyA : 
+7103 : night : rAzwrIkA : rAzwrikA : cf. MW solanum = night-shade = rAzwrikA
+4534 : glean : saMgrahH : saMgrahaH : 
+4134 : flourish : saM-FD : saM-fD :
+-----------------------------------------------------------------------
+11-16-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318
+Sampada Savardekar , Jim Funderburk (batch 01)
+L code : Headword : Old :       New       : Comment
+6102   : lean     : dattahastAvalaMbAM : dattahastAvalaMbaM :
+4494   : gibber   : mfzATaka : mfzArTaka :
+7731   : pave     : BUBiM : BUmiM :
+1393   : campaign : samaraBUBi : samaraBUmi : 
+5523   : injure   : nfSasa : nfSaMsa :
+2582   : debark   : utF    : uttF :
+2160   : constrain : av-ruD : ava-ruD :
+-----------------------------------------------------------------------
+12-01-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 02
+Sampada Savardekar 
+L code : Headword : Old :       New       : Comment
+10195 : table : UDvarBUmi : UrDvaBUmi
+4567 : gnash : daMtEMrdatAn : daMtErdaMtAn : order of anunsvAra, 'r' wrong in print
+4664 : grind : daMtEMrdatAnnizpizya : daMtErdaMtAnnizpizya : same as above
+9305 : select : vFM : vF 
+9389 : share : dfHKaM : duHKaM
+-----------------------------------------------------------------------
+12-02-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 03
+Sampada Savardekar 
+L code : Headword : Old :       New       : Comment
+3510 : enervate : SIRa : kzIRa : 
+5779 : irrational : hIga : hIna 
+11068 : visible : kUjJawikAcCanna : kujJawikAcCanna
+10388 : thrive : saMfD : samfD :  anusvAra before vowel is error
+11068 : visible : dfMzwi : dfzwi 
+8391 : prostrate : sAMzwAMgapraRAmaH : sAzwAMgapraRAmaH
+-----------------------------------------------------------------------
+12-02-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 04
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+3765 : exhause : DarmakarmAMRi : DarmakarmARi
+2767 : deride  : niBatsanaM : nirBartsanaM
+10667 : turn   : pariRaB : pariRam
+-----------------------------------------------------------------------
+12-11-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batches 05,06,07
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+2816 : detract : pESUnyaM : pESunyaM : 
+6539 : match : anurpamaM : anupamaM : 
+9357 : serve : atilAlanapUMrza : atilAlanapUrvaM : 
+5042 : humiliate : aBiBUM : aBiBU :
+156  : advance  : tpUMrvaM : tpUrvaM :
+2218 : convex : nyUbja : nyubja :
+2218 : convex : nyUbjatA : nyubjatA :
+10396 : throw : yAm, yAMpayati : yA, yApayati
+3467 : enpty : riktattA : riktatA :
+4587 : good : SramamAtradAyaPaM : SramamAtradAyakaM : dAyaPaM -> dAyakaM
+9200 : scheme : kXp : kxp :
+4278 : frequent : yaNalugaMtaM : yaNgluNgaMtaM : Missing virAma on yaN
+6204 : light : dratagati : drutagati :
+-----------------------------------------------------------------------
+12-15-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 08
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+2963 : discord : viBidna : viBid :
+6305 : long : laba : laMba :
+6305 : long : iCA : icCA :
+1021 : bind : nAhaMmeBir : nAhameBir :
+8584 : rage : kuD : kruD :
+7378 : organ : iMdriyeH : iMdriyEH :
+1789 : clamour : kuS : kruS :
+7325 : one : ekpakzIya : ekapakzIya
+3256 : due : karaRaM : kAraRaM : print vague
+-----------------------------------------------------------------------
+12-20-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 09,10
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+1833 : clod : lozWeH : lozWEH
+8959 : rigour : tIzRadaMqa : tIkzRadaMqa
+6155 : lest : pralomyase : praloByase
+4755 : half : arDeduH : arDeMduH
+4755 : half :  daryaMH : daryaH
+10910 : use : up-yuj : upa-yuj
+8022 : please : kAmacAMrin : kAmacArin
+-----------------------------------------------------------------------
+12-24-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 11
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+2190 : contract : kuca : kuc
+9773 : spout :  niHsfM : niHsf
+10365 : think : aMtagartaM : aMtargataM
+6100 : league : sIgan : saMgin : Thanks to sergeA for this one.
+-----------------------------------------------------------------------
+01-05-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 12-14
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+6092 : lay : DfliM : DUliM
+9563 : slip : apamfp-gam : apasfp-gam : scan unclear
+3529 : enlarge : bfhaRaM : bfMhaRaM : type=p  : cf MWE 'enlargement'
+4724 : gush : stra : sru :
+9896 : stimulate : tejAverDin : tejovarDin 
+1806 : clay : mfw : mfd 
+1610 : chamois :  mfwu : mfdu
+3880 : fall : aBidra : aBidru
+1256 : brush : vartiMkA : vartikA 
+9894 : still : bakayatraM : bakayaMtraM
+6040 : lank : darGideha : dIrGadeha
+-----------------------------------------------------------------------
+01-09-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 15
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+5977 : knot : cakraMH : cakraM
+9211 : scion : navaRllavaH : navapallavaH 
+8919 : revere : mAnapuraHmara : mAnapuraHsara
+8485 : pusillanimous : klIMba : klIba :scan shows anusvAra
+9375 : shade : cast : ‘cast : Print missing left quote
+-----------------------------------------------------------------------
+01-20-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 16,17
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+9253 : scrutiny : sUkzmanirUMpaRaM : sUkzmanirUpaRaM
+8316 : proceed : gacCatmu : gacCatsu
+8316 : proceed : ninittaM : nimittaM
+3227 : drive : ap-as : apa-as
+1226 : bring : janH : jan
+1226 : bring : upAnA : upAnI :
+8923 : review : nacaM : canaM 
+1867 : coat : kulacinhaM : kulacihnaM
+533 : armorial : kulacinhasaMbaMDin : kulacihnasaMbaMDin
+2653 : define : cinh : cihn
+599 : asterisk : tArakAcinhaM : tArakAcihnaM
+1348 : cadence : ninhAdaH : nihrAdaH
+8065 : pock : cinhaM : cihnaM
+3099 : distinguish : viSezacinhaM : viSezacihnaM
+5091 : hypocrite : dABikaH : dAmBikaH
+5091 : hypocrite : Cadmana : CadmanA : Since Adv. 3s likely
+5091 : hypocrite : kapawaDa{?} : kapawaDarma : print unclear cf. MWE under hypocrisy
+batch 317
+1079 : blossom : mukulEHsaMnnadDa : mukulEH sannadDa
+2183 : contiguity : saMnnikarzaH : sannikarzaH
+8262 : present : saMnniDaH : sanniDiH
+6200 : life : prARavAraRaM : prARaDAraRaM : Print vague. cf mwe : mw
+10021 : subtract : viyuMj : viyuj : Print vague. cf AP viyuj
+6305 : long : Amara : Amara- : missing '-'. full word AmaraRAt
+6305 : long :  reRa : -reRa : indicates 3s ending of prev. line 'suvistaraM'
+10422 : time : by this t : by this t. : print missing period
+5754 : invidious : IzyoM : IrzyA
+-----------------------------------------------------------------------
+01-23-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 18
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+L=10758, key1=under, aprAptavayatka -> aprAptavayaska,  print vague
+L=10701, key1=tyranny, prajoRdrIvan -> prajopadravin
+L=10701, key1=tyranny, nizwaraSAsanaH -> nizWuraSAsanaH,  print missing 'u'
+L=10692, key1=twinkle, dyat -> dyut,  print missing 'u'
+L=11092, key1=void, SfnyIkf -> SUnyIkf, print has 'f' rather than 'U'
+L=2201, key1=contrive, Gyapa -> vyapa, Confer MWE contrivance: vyapadeSa
+L=2770, key1=derogate, ayaSaMskara -> ayaSaskara, Cf ap90 under ayaSas
+L=5869, key1=jingle, JaRpaJaRAyate -> JaRaJaRAyate
+L=7468, key1=overboard, baMhiH -> bahiH , anusvara not needed
+-----------------------------------------------------------------------
+02-01-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 19, 20
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+L=2691, key1=deliver, mAcakaH -> mocakaH, vowel diacritic missing
+L=2788, key1=desolate, ninAtuza -> nirmAnuza, print very poor.
+L=2788, key1=desolate, anAya -> anArya, Print unclear. Similar sense
+L=9688, key1=sorrow, KinnaM -> Kinna, adjective
+L=8603, key1=random, yAMdfcCika -> yAdfcCika, No anusvAra 
+L=8603, key1=random, tarkitApenata -> atarkitopanata, cf. mw  atarkitopapanna
+L=8660, key1=rebuke, AMkuS -> AkruS, no anusvAra
+L=1766, key1=circumstance, patiprad -> pratipad, Print vague
+L=8391, key1=prostrate, daqapraRAmaH -> daMqapraRAmaH, missing anusvara
+L=6320, key1=lose,Bra zwa -> Brazwa,  no space needed
+L=9231, key1=scowl, baMG -> baMD
+L=9781, key1=spring, nErJaMraM -> nErJaraM, anusvara not needed
+L=9322, key1=sense, vikAMraH -> vikAraH, unneeded anusvAra
+-----------------------------------------------------------------------
+02-16-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batches 21-25
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+Batch 21
+L=8213, key1=predestinate, davaparaH -> dEvaparaH, missing 'E' vowel diacritic
+L=9294, key1=see, drfzwa -> dfzwa
+L=2070, key1=condign, yaTAMrha -> yaTArha
+L=4430, key1=garuda, tAMrkzyaH -> tArkzyaH, no anusvAra needed
+L=5636, key1=integer, pURAMrkaH -> pUrRAMkaH
+L=9278, key1=secret, aMrtadvAraM -> aMtardvAraM, 'r' diacritic is in wrong place
+L=8334, key1=profligate, durvattatayA -> durvfttatayA, 'f' vowel diacritic missing
+L=1140, key1=border, janasTAnapayaMrtAni -> janasTAnaparyaMtAni, error in ref and anusvAra positioning
+Batch 22
+L=1618, key1=change, vaRAMrtaramupAgamat -> varRAMtaramupAgamat, ref and anusvara in wrong order
+L=1618, key1=change, viyarpAsaH -> viparyAsaH, cf MWE.
+L=5973, key1=knit, Brukurwi -> Brukuwi
+L=5973, key1=knit, sayuj -> saMyuj, missing anusvAra cf. MWE
+L=8179, key1=power, AyikAraH -> aDikAraH, poor print
+L=5104, key1=identical, vaRryaM -> varRyaM
+L=2698, key1=demand, pramAMrzwu -> pramArzwuM, misordering of repha and anusvAra
+L=7015, key1=name, mAmAhvayatiH -> mAmAhvayati, visarga should be semicolon
+L=173, key1=affect, sadaMrpa -> saMdarpa, anusvAra misplaced
+L=1618, key1=change, viyarpAsaH -> viparyAsaH, y-p interchanged
+L=2436, key1=crowd, zUr -> pUr, ap90 causal of pF 
+L=8759, key1=regret, tyayA -> tvayA, sense is 'you'
+Batch 23
+L=11233, key1=whole, aMSeza -> aSeza, anusvara not needed
+L=1968, key1=comfort,  SokApahartF -> SokApahartf
+L=1972, key1=command, vvA -> vyA, vyAdiS has sense 'command'
+L=1972, key1=command, sanApatiH -> senApatiH, print missing 'e' diacritic
+Batch 24
+L=7602, key1=pander, kOwwinyaM -> kOwwanyaM, cf AP and MW; no kOwwinya found
+L=7268, key1=ocean, duMHKa-sAgaraH -> duHKa-sAgaraH
+L=2737, key1=deodorize, duMrgaDaM -> durgaMDaM, anusvAra/ref
+L=9179, key1=scandal, duMrvarRaH -> durvarRaH
+L=9179, key1=scandal,  ap -> apa
+L=1377, key1=call, kartabyA -> kartavyA
+Batch 25
+[NONE]
+-----------------------------------------------------------------------
+02-21-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batches 26-7
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+This from correction Form
+11144 : war : kzAtraDarmAH : kzatraDarmAH : cf MW kzatraDarma 
+Batch 26
+8269 : presume : paMtidevatAmAnyaH : patidevatAmAnyaH : anusvara wrong
+Batch 27
+1088 : blunt : atIRakztA : atIkzRatA : 
+-----------------------------------------------------------------------
+05-05-2017  through 05-17-2017
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+1933 : collide : prativAtaH : pratiGAtaH : GAtaH more reasonable than vAtaH for collison
+1968 : comfort : SokApahartF: SokApahartf : 
+2172 : contain : praharpaH : praharzaH :
+2217 : convert : vikfMti : vikfti  : for 'conversion'
+2251 : coriander : kustumbaru : kustumbarI : 'I' for coriander plant.
+2562 : dash :  vidf : vidF :  
+3073 : disrupt : vidf : vidF :
+3101 : distract : vidf : vidF :
+3803 : explode : vidf : vidF :
+8044 : plough : vidf : vidF
+2650 : defer : vyApekzaH : vyAkzepaH
+2681 : deliberate : amApradaH : apramAdaH :  
+2691 : deliver : samaf : samf :
+-----------------------------------------------------------------------
+08-29-2017 
+Sampada Savardekar , Jim Funderburk
+L code : Headword : Old :       New       : Comment
+6200 : lift : rudgrIvaH : udgrIvaH: 
+6432 : malevolent : aBidragDa : aBidrugDa
+-----------------------------------------------------------------------
+10-23-2017 
+Jim Funderburk, SergeA (github user)
+L code : Headword : Old :       New       : Comment
+1285   : bulwark  : rakzaRasAnaM : rakzaRasAnaM : ref newer print edition: https://archive.org/stream/studentsenglishs00apterich#page/40/mode/2up
+2230   : cool     : jrim : viram : ref newer print edition: https://archive.org/stream/studentsenglishs00apterich#page/40/mode/2up
+-----------------------------------------------------------------------
+10-23-2017 
+User danbalogh@gmail.com
+L code : Headword : Old :       New       : Comment
+578    : king     : thing :  king : dozErnfpaH
+-----------------------------------------------------------------------
+

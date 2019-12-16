@@ -1,0 +1,348 @@
+Sanskrit Lexicon Correction Form History for MWE
+As of July 22, 2019
+55 correction records, with 0 PENDING
+
+Case 24320: 01/09/2019 dict=MWE, L= 31692, hw=yes, user=vaibhav.niku
+old = वाढं
+new = बाढं
+comment = Actually, the printed word seems to be वाढम्, but that is not a Sanskrit word! वाढम् is not present in any dictionary, while बाढम् is present in the dictionaries. LB Could it be that everywhere, व is printed as ब in MWE? (Perhaps because of trouble of printing a ब then? It would have appered as a big blog of spilled ink.) I would check MWE's preface about it, and if it says so, I'll suggest an edit to the dictionary's page making this note via git! LB Thanks.
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24287: 12/04/2018 dict=MWE, L= 23001, hw=possible, user=h.c.jahr
+old = muo
+new = much
+comment = Typo???
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24275: 11/28/2018 dict=MWE, L= , hw=leaf, user=ruffiguitar
+old = MWE shows "patraM" with only one "t" whereas MW has "pattra" in its list.  I am not dealing with "M", but with "t" , doubled or not. LB Cappeller doesn't know a "patra" or "patraM"
+new = pattraM , according to Cappeller , Monier Williams and others
+comment = systemic inconsistency LB 
+status =  No correction needed 11/28/2018
+------------------------------------------------------------------------
+
+Case 24254: 10/28/2018 dict=MWE, L=11490, hw=flight, user=h.c.jahr
+old = ‘direc LB flight,’
+new = ‘direct LB flight,’
+comment = Scan shows direc flight, too, but seems to be in error
+status =  Corrected 11/28/2018
+------------------------------------------------------------------------
+
+Case 24244: 10/23/2018 dict=MWE, L= 3942, hw=cease, user=h.c.jahr
+old = be ceases
+new = he ceases
+comment = Typo, original scan is unclear though
+status =  Corrected 11/28/2018
+------------------------------------------------------------------------
+
+Case 24202: 07/18/2018 dict=MWE, L= Cologne record ID=27109, hw=SILENGE, user=sanaatani
+old = 
+new = Is it SILENCE?
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24197: 06/24/2018 dict=MWE, L= 29866, hw=tree, user=vaibhav.niku
+old = कुठः, कुठः
+new = कुठः, कुटः
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24194: 06/08/2018 dict=MWE, L= ID=30417, hw=Unique, user=sanaatani
+old = What is given is एकः -का -कं, एकमात्रः &c. See SINGULAR
+new = Should it be 'ananya'
+comment = एकमात्रः means ONLY. You have rightly referred SINGULAR
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24192: 06/04/2018 dict=MWE, L= ID=9002, hw=Dross, user=sanaatani
+old = अमेघ्यं
+new = Should it be अमेdhyaM? (not अमेghyaM)
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24191: 06/04/2018 dict=MWE, L= ID=3566, hw=cannon-ball, user=sanaatani
+old = दूरवेघिनी गुलिका
+new = Should it be दूरवेdhiनी (or दूरवेgiनी)? I am not sure. Kindly check.
+status =  Corrected 09/13/2018 dUraveDinI  (cf. mw)
+------------------------------------------------------------------------
+
+Case 24190: 06/04/2018 dict=MWE, L= ID=19563, hw=To miss, user=sanaatani
+old = अपराघं कृ
+new = Should it be अपराdhaM?
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24189: 06/04/2018 dict=MWE, L= ID=3394, hw=Cabinet, user=sanaatani
+old = रत्नाघारः
+new = Should it be रत्नाgAरः? (not ghA)
+status =  Corrected 06/14/2018  ratnaDAraH
+------------------------------------------------------------------------
+
+Case 24162: 04/24/2018 dict=MWE, L= 21717, hw=Participation, user=sanaatani
+old = सहभूक्तिः 
+new = Should it be सहbhuक्तिः (instead of सहbhooक्तिः)?
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24141: 03/26/2018 dict=MWE, L= ID=3837, hw=cat, user=sanaatani
+old = विडालः
+new = I am familiar with biडालः| viडालः may be right to (vabayorabhedaH). Just bringing it to your notice.
+status =  05/14/2018.  MW  confirms 'viqAla' as alternate spelling.
+------------------------------------------------------------------------
+
+Case 24097: 02/05/2018 dict=MWE, L= 27186, hw=single-stick, user=sanaatani
+old = द्बिदण्डि / द्विदण्डिप्रहरणं, द्विमुषलिप्रहरणं.
+new = In the first word it is dbi... In the other two words it is dvi... I think the latter is correct. Substitution of B for V is typical of Bengali. It might not be so in Sanskrit, at least here. Also see L-16597, 19781, 27185. Also, dvi means TWO. Here you have used it for SINGLE! I could be wrong. Pls educate me.
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24080: 01/20/2018 dict=MWE, L= 10780, hw=fang, user=sanaatani
+old = विपदन्तः
+new = Is it विSaदन्तः
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24040: 12/26/2017 dict=MWE, L= 400, hw=Afflicted, user=sanaatani
+old = आपद्गस्तः 
+new = Should it be आपद् gra स्तः?
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24039: 12/26/2017 dict=MWE, L= 4165, hw=Chariot, user=sanaatani
+old = स्पन्दनः
+new = Should it be स् ya न्दनः?
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 23995: 11/04/2017 dict=MWE, L= 11046, hw=FEOD, user=sanaatani
+old = 
+new = Is it FEUD?
+status =  Corrected 11/10/2017. No change. obsolete form of feud, which is also headword.
+------------------------------------------------------------------------
+
+Case 23983: 10/25/2017 dict=MWE, L= 24827, hw=REFORM, REFORMATION, user=sanaatani
+old = दोपत्यागः
+new = Should be दोषत्यागः
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23975: 10/20/2017 dict=MWE, L= 5657, hw=CONOUER, user=sanaatani
+old = 
+new = CONqUER
+comment = Typo (Twice - Headword and in the entry)
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23968: 10/15/2017 dict=MWE, L= 29202, hw=Tear, user=
+old = हर्पाश्रु 
+new = Should it be harSAzR?
+status =  Corrected 11/10/2017  harSAzru
+------------------------------------------------------------------------
+
+Case 23967: 10/15/2017 dict=MWE, L= 24935, hw=Rejoiced, user=sanaatani
+old = हर्पितः
+new = Should it be harSitaH?
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23966: 10/15/2017 dict=MWE, L= 22656, hw=Pleasant, user=sanaatani
+old = हर्पावहः -हा -हं
+new = Should be harSAvahaH
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23782: 08/26/2017 dict=MWE, L= 3501, hw=calx, user=sanaatani
+old = Should be CALYX?
+new = 
+status =  Corrected 11/10/2017 No change
+------------------------------------------------------------------------
+
+Case 23746: 06/21/2017 dict=MWE, L= 10919, hw=fear, user=sanaatani
+old = भीप्मं
+new = It could be correct. I am not sure. I felt that it should be bheeShmaM. Again, I am not so sure.
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23732: 06/13/2017 dict=MWE, L= 23025, hw=Postmortem, user=sanaatani
+old = मृत्पुत्तरः 
+new = मृत्युत्तरः 
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23692: 05/03/2017 dict=MWE, L= 27584, hw=sofa, user=m.terekhov
+old = In MWE the word "sofa" is indicated as paryyaGkaH but in MW sofa indicated as paryaGka
+new = Don't know should there be double "y" or not
+status =  Corrected 05/09/2017. yy is print error. pari+aNka 
+------------------------------------------------------------------------
+
+Case 23648: 02/27/2017 dict=MWE, L= 3787 & 3849, hw=Cascade and Cataract, user=sanaatani
+old = 
+new = 
+comment = Same entry for both: निझरः -री, झरः, वारिप्रवाहः, प्रपातः, सरः -री, प्रश्रवणं!
+status =  03/16/2017.  Cataract is a synonym of Cascade, but with extra meaning of an eye disease.
+------------------------------------------------------------------------
+
+Case 23646: 02/24/2017 dict=MWE, L= 11685, hw=FOOD, user=danbalogh
+old = चोप्पं
+new = चोष्यं
+status =  correcte 03/16/2017
+------------------------------------------------------------------------
+
+Case 23642: 02/20/2017 dict=MWE, L= 10623, hw=Face, user=sanaatani
+old = वक्तं
+new = वक्त्रं
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23620: 01/17/2017 dict=MWE, L= 168, hw=Bald, user=sanaatani
+old = 
+new = Why there is no khalvATa in the RHS?
+status =  01/25/2017, a question. no correction needed.
+------------------------------------------------------------------------
+
+Case 23601: 12/22/2016 dict=MWE, L= 23617, hw=professional, user=sanaatani
+old = द्न्यिमी
+new = Is it udyamee?
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23588: 12/14/2016 dict=MWE, L= 27034, hw=Shrub, user=sanaatani
+old = Within brackets are the words 'dwart tree'
+new = Should it be 'dwarf tree'?
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23587: 12/12/2016 dict=MWE, L= 25023, hw=remittance, user=sanaatani
+old = हुण्डिका'ष'त्रद्वारा 
+new = Is it हुण्डिका'प'त्रद्वारा?
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23586: 12/12/2016 dict=MWE, L= 4270, hw=Chicane, user=sanaatani
+old = No typo.
+new = Unwarranted space within Sanskrit words
+comment = When I give a search for sanskrit words with dvArA as substring, it churns out the word Chicane (5th word on the LHS). Against this word there is the sanskrit word रद्वारा in brackets. It is actually मिथ्योत्तरद्वारा. You have left a space between मिथ्योत्त and रद्वारा, and hence such listing. There are many many such instances.
+status =  Corrected 01/05/2017  Ref https://github.com/sanskrit-lexicon/Cologne/issues/94
+------------------------------------------------------------------------
+
+Case 23585: 12/12/2016 dict=MWE, L= 1907, hw=Battledoor, user=sanaatani
+old = Battledoor
+new = Battledore
+comment = I am not very sure. Pls check.
+status =  Corrected 01/05/2017 (no change required)
+------------------------------------------------------------------------
+
+Case 23574: 11/19/2016 dict=MWE, L= 284, hw=admission, user=sanaatani
+old = अन्ज्ञा
+new = Is it अनुज्ञा?
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23571: 11/13/2016 dict=MWE, L= 23098, hw=Powerfully, user=sanaatani
+old = सब्रभावं
+new = I think it is सप्रभावं. I am not sure.
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23570: 11/13/2016 dict=MWE, L= 22822, hw=Poison, user=sanaatani
+old = ब्रद्मपुत्रः
+new = ब्रह्मपुत्रः
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23569: 11/13/2016 dict=MWE, L= 12879, hw=Globe, user=sanaatani
+old = ब्रह्याण्डः
+new = ब्रह्माण्डः
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23525: 09/10/2016 dict=MWE, L= 21810, hw=path, user=sanaatani
+old =  ‘the wrong path,’ उत्पथः,
+new = the upasarga 'ut' has no negative meaning. utsarga, utsava, utsAha, utkarSha. It means MORE/ HIGH
+comment = 
+status = No correction required. ud has negative senses. 09/16/2016
+------------------------------------------------------------------------
+
+Case 23521: 09/02/2016 dict=MWE, L= 17225, hw=krishna, user=sanaatani
+old = (Destroyer of the demon Madhu) माधवः
+new = We know that mA=Lakshmi; and dhava=husband; mAdhava = Lakshmi's husband Narayana/Krishna. The term for 'Destroyer of the demon Madhu' is madhusUdana. No part of the word mAdhava even remotely denotes 'Destroyer'.
+comment = serious
+status = 09/16/2016 no correction required.
+------------------------------------------------------------------------
+
+Case 21914: 04/29/2016 dict=MWE, L=10489, hw=exquisite, user=VN
+old = तीब्रवेदना
+new = तीव्रवेदना
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21912: 04/28/2016 dict=MWE, L=13107, hw=grace, user=VN
+old = अनुकम्या
+new = अनुकम्पा
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21908: 04/27/2016 dict=MWE, L=1428, hw=at, user=
+old = अघुना
+new = अधुना
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 20376: 04/05/2016 dict=MWE, L= 28447, hw=Strike, user=sanaatani
+old = To STRIKE, v. n. .............................................. कर्म्मत्या- LB गार्थं कुसाहित्यं कृ.
+new = कर्म्मत्या-गार्थं Because of the hyphen here, a search for गार्थं will lead you to STRIKE. Don't ask me why someone will search for गार्थं. They will. I did. Do not use hyphen to carry the excess letters in a word to the next line. The overflow will happen by default thereby reining in such misleads.
+comment = Prasad
+status =  Corrected 04/14/2016  No change to dictionary. Will consider it
+------------------------------------------------------------------------
+
+Case 18067: 03/22/2016 dict=MWE, L= 32212, hw=Sanskrit, user=rajaraman_jayaraman
+old = Aham adhya dasame dinnansya sambhashana samsruta varga sikskhan antari upavishtatha
+new = 
+status =  Corrected 04/14/2016  Not sure what the user message means.
+------------------------------------------------------------------------
+
+Case 17900: 03/08/2016 dict=MWE, L=24726, hw=Recruit, user=sanaatani
+old = roecruit (शस्त्राम्यासी)
+new = Is it शस्त्राभ्यासी?
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 15089: 01/06/2016 dict=MWE, L= 22840, hw=POLE-GAT, user=licornapress
+old = POLE-GAT
+new = POLE-CAT
+status =  Corrected 01/10/2016
+------------------------------------------------------------------------
+
+Case 5008: 9/24/2015 dict=MWE, L= , hw=Gita, user=
+old = 
+new = 
+status =  Examined 09/28/2015 -  Gita not a headword in mwe. What is the problem?
+------------------------------------------------------------------------
+
+Case 4923: 7/26/2015 dict=MWE, L=18752, hw=Marcasite, user=
+old = In the Sanskrit-English, it says "Avarta", but in the English-Sanskrit, it's spelled "Avartta."
+new = Avarta
+status = Not corrected 08/02/2015.  'rtt' spelling occurs 3418 times in MWE.  For some reason, MWE doubles consonants after 'r', although MW and MW72 do not double.
+------------------------------------------------------------------------
+
+Case 4873: 5/25/2015 dict=MWE, L=15390, hw=incense, user=bikelis
+old = dhūṣaḥ
+new = dhūpaḥ
+status =  Corrected 6/26/2015
+------------------------------------------------------------------------
+
+Case 3600: 3/9/2015 dict=MWE, L=19081, hw=melt, user=ejf
+old = v.n.
+new = v.a.
+comment = Typo - NOT AN ERROR
+status =  Examined 03/18/2015 - NOT AN ERROR
+------------------------------------------------------------------------
+
+Case 3210: 1/21/2015 dict=MWE, L=25898, hw=SAID, user=bikelis
+old = uktā
+new = uktvā
+status = Corrected 01/28/2015
+------------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+
+This file documents changes made to the digitization of SHS in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-15-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+
+-----------------------------------------------------------------------
+12-15-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword    : Old         : New         : Comment
+17139  : tarupaMkti  : tarupaMkti  : tarupaNkti  : Convention error
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+194 : akzna : akzna : akzRa : 'zn' usually not possible. SHS copies Wilson
+22096 : nirviDna : nirviDna : nirviGna : headword shows Devanagari 'D'
+-----------------------------------------------------------------------
+04-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+21478 : nASACinnI : nASACinnI : nAsACinnI : Alphabetic misordering.
+-----------------------------------------------------------------------
+05-11-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+187 : akzabDu : akzabDu : akzubDa : The Devanagari 'u' is misplaced
+38177 : vfttatasa : vfttatasa : vfttatas : virAma missing in print.
+----------------------------------------------------------------------
+09/12/2017
+ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old  : New : Comment
+3383 : ardDaca : ardDaca : ardDarca : 
+32194 : mEyuna : mEyuna : mETuna : 
+22587 : nESreyasika : nESreyasika : nEHSreyasika : 
+25185 : puttapOtrIRa : puttapOtrIRa : puttrapOtrIRa : 
+7135 : uDmAna : uDmAna : udDmAna : 
+-----------------------------------------------------------------------

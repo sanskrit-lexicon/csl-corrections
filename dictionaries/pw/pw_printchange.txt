@@ -1,0 +1,281 @@
+
+This file documents changes made to the digitization of PW in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-01-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+12-01-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/166
+contains details supporting these changes.
+These changes initiated by Marcis Gasuns.
+L code : Headword : Old  : New : Comment
+796 : agrAhyanAmaka : agrAhyanAmaka : agrAhyanAmaka :  f.->Adj.
+25479 : kalApaKaYja : kalApaKaYja : kalApaKaYja :  f.->m.
+27768 : kikviSa : kikviSa : kikviSa :  f.->m.
+47020 : tElaspanda : tElaspanda : tElaspandA : 
+50087 : digdEvata : digdEvata : digdEvata : f.->n.
+55801 : Denuzyita : Denuzyita : Denuzyita :  f.->Adj.
+63771 : paricintaka : paricintaka : paricintaka : f.->Adj.
+76971 : bAhyatva : bAhyatva : bAhyatva :  f.->n.
+123614 : sAcIsUtra : sAcIsUtra : sAcIsUtra :  f.->n.
+124357 : sAraNgahAra : sAraNgahAra : sAraNgahAra :  f.->m.
+127533 : suralAsika : suralAsika : suralAsikA : 
+-----------------------------------------------------------------
+12-09-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/166
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword : Old                    : New                   : Comment
+4453 : anudeSin : Â¯A7C2V.GR2HJ.AS.1,23,20. : Â¯A7C2V.GR2HJ.1,23,20. :   GR2HJAS is elsewhere GR2HJ.
+62833 : padI : Â¯A4RAJABH.2,28. : Â¯A7RAJABH.2,28. :  
+-----------------------------------------------------------------
+12-09-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/194
+Jim Funderburk
+L code : Headword : Old                    : New                   : Comment
+23356 : kaYcukIya : ¯VIKROR.ED. ¯PISCHEL.661,4.14.664,15. : ¯VIKR.dra7v.661,4.14.664,15. : VIKR.dra7v is the PISCHEL edition in bibliography
+
+-----------------------------------------------------------------
+12-15-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/194
+Dhaval Patel
+L code : Headword : Old   : New     : Comment
+41709 : jaMpatI : jaMpatI : jampatI : dictionary convention
+-----------------------------------------------------------------
+12-18-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/200
+Dhaval Patel, Jim Funderburk. These print changes facilitate literary source identification
+L code : Headword : Old   : New     : Comment
+8098 : amantraka    : ¯VARA7H.BR2H. ƒPage1.095-1ƒ ¯S.1,3. : ¯VARA7H.BR2H.S.1,3. ƒPage1.095-1ƒ 
+12477 : asaMBAzA    : ¯PA7R. ƒPage1.148-2ƒ ¯GR2HJ.2,8,3. :  ƒPage1.148-2ƒ ¯PA7R.GR2HJ.2,8,3.
+50024 : dAhaka      : ¯RA7 ƒPage3.086-1ƒ ¯G4AN.6,47. :  ƒPage3.086-1ƒ ¯RA7G4AN.6,47.
+78555 : BaYj        : ¯K4A ƒPage4.247-1ƒ ¯RAKA6,20. :  ƒPage4.247-1ƒ ¯K4ARAKA.6,20.
+90483 : yavasamuzwi : ¯C2A7NKH. ƒPage5.132-3ƒ ¯C2R.3,20,1. :  ƒPage5.132-3ƒ ¯C2A7N5KH.C2R.3,20,1.
+92446 : ratnasiMha  : ¯M. ƒPage5.165-3ƒ ¯MÜLLER,Ren.312. :  ƒPage5.165-3ƒ ¯M.MÜLLER,Ren.312.
+95907 : lavaRay     : ¯K4A.RAKA. ƒPage5.221-2ƒ ¯37,8,13. :  ƒPage5.221-2ƒ ¯K4ARAKA.37,8,13.
+122551 : savilambam : ¯RA7 ƒPage7.095-1ƒ ¯G4AN.4,572. :  ƒPage7.095-1ƒ ¯RA7G4AN.4,572.
+131949 : srOca      : ¯A7PAST. ƒPage7.230-3ƒ ¯C2R.4,9,4.8,7,28.11,3,6. :  ƒPage7.230-3ƒ ¯A7PAST.C2R.4,9,4.8,7,28.11,3,6.
+-----------------------------------------------------------------
+12-19-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/206
+Dhaval Patel, Jim Funderburk. These print changes facilitate literary source identification.
+L code : Headword   : Old                : New     : Comment
+7849   : aBOjizya   : ¯SUPARN2ADHJ.12,2. : ¯SUPARN2.12,2. : for consistency
+35956  : gurulAGava : ¯C2RUT.BR.4        : ¯C2RUT.(BR.)4 : for consistency
+134364 : hAwakIya   : ¯ALAM5KA7RACEKHARA18,a,1 : ¯ALAM5KA7RAC2.18,a,1 : for consistency
+-----------------------------------------------------------------
+12-20-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/207
+Dhaval Patel, Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword   : Old                              : New     : Comment
+125905 : suKArTa    : ¯GAN2IT.26,7.¯K4ANDRAGRAH.24,35) : ¯GAN2ITA,K4ANDRAGRAH.26,7.24,35 ) : For consistency with Bilbiography
+-----------------------------------------------------------------
+12-31-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/212
+Dhaval Patel, Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+5345   : antarmuKatA  : ¯Pandit.9,216 ‹a.› : ¯PANDIT.9,216,a       :  ,a is part of reference. upcase 'Pandit' for consistency
+98882  : varDana      : ¯MAHA7V.184,19.    : ¯MAHA7VI7RAK4.184,19. : This is the only entry having short version. All other have full version.
+107816 : vEBujAgnaka  : ¯KA7C2.¯ZN. ¯P.    : ¯KA7C2. ‹zu› ¯P.      : 'u' typeset wrong as 'n'. Also wrong tagging.
+-----------------------------------------------------------------
+01-03-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/216
+Dhaval Patel, Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+849 : aGAhan : ¯C2A7N5KH.4,15,11. : ¯C2A7N5KH.C2R.4,15,11. : Refer PWK/issues/43
+13010 : asyagra : ¯C2A7N5KH. ‹in› ¯Ind.St.5,331. : ¯C2A7N5KH.GR2HJ. ‹in› ¯Ind.St.5,331. : Refer PWK/issues/43
+18709 : udamehin : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+20494 : uBayatoBAj : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+21026 : UrusAda : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+28346 : kuwwaka : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+30882 : kEwarya : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+35162 : gA : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+35828 : guRya : ¯A7RJAB. : ¯A7RJABH. : Assume print error
+49511 : dA : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+64793 : paryAya : ‹wie ed› ¯Bomb.6,84,50. ‹und ed› ¯Vardh.6,81,50. : ‹wie› ¯MBH.ed.Bomb.6,84,50. ‹und› ¯MBH.ed.Vardh.6,81,50. : to match with Bibliography in Preface
+73824 : prAkkoSala : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+76129 : balla : ‹wie ed.› ¯Vardh. : ‹wie› ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+77355 : buDnaroga : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+79693 : BAzika : ¯C2A7N5KH.GR. : ¯C2A7N5KH.GR2HJ. : GR. -> GR2HJ. for consistency
+95162 : rohita : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+97330 : vaNkU : ‹wie ed.› ¯Vardh. : ‹wie› ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+97611 : vawakaRikA : ¯MBH.ED. ‹Bomb. und› ¯Vardh. : ¯MBH.ed.Bomb. ‹und› ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+102608 : vidula : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+106310 : vfkzavAspaniketa : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+117928 : saYj : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+120351 : samAntara : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+123643 : sAtalA : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+125322 : siD : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+-----------------------------------------------------------------
+01-05-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/235
+Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+9352 : arjuna : ¯NAICH. : ¯NAIGH. :  NAIGH is added to pwbib_new.
+14015 : AQyapUrva : ¯PAT. ‹zu› ¯Va7rtt.1 ‹zu› ¯P.1,1,29. : ¯PAT.zuP.1,1,29. ‹zu› ¯Va7rtt.1 :  Change for internal consistency
+23395 : kawajaka : ¯PAT. ‹zu› ¯Va7rtt.3 ‹zu› ¯P.1,1,23. : ¯PAT.zuP.1,1,23. ‹zu› ¯Va7rtt.3 :  Change for internal consistency
+33394 : KaRqikopADyAya : ¯PAT. ‹zu› ¯Va7rtt.13 ‹zu› ¯P.1,1,1. : ¯PAT.zuP.1,1,1. ‹zu› ¯Va7rtt.13 :  Change for internal consistency
+40611 : ced : ¯GAN2IT.SPASHT2.64.¯TRIPR.6,92. : ¯GAN2IT.SPASHT2.64. ¯GAN2IT.TRIPR.6,92.  :  to conform with bibliography
+41492 : janagat : ¯PAT. ‹zu› ¯Va7rtt.4 ‹zu› ¯P.1,4,2. : ¯PAT.zuP.1,4,2. ‹zu› ¯Va7rtt.4 :  Change for internal consistency
+114597 : SOlkika : ¯PA7T. ‹zu.› ¯P. : ¯PAT.zuP. : print shows PA7T.
+-----------------------------------------------------------------
+01-07-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/236
+Dhaval Patel, Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+6471 : apAzaRqa : ¯BHAG.5,26,22. ( #{apAzARqa} ¯BURN., #{apAKaRqa} ¯ed.Bomb.) : ¯BHA7G.P.5,26,22. ( #{apAzARqa} ¯BHA7G.P.ed.BURN., #{apAKaRqa} ¯BHA7G.P.ed.Bomb. ) : Inferred
+16751 : itarajAtIya : ¯BURNOUF,Intr. : ¯BURN.Intr. : for consistency
+20794 : ulleKana : ¯Ka7t2j.c2r. : ¯KA7TJ.C2R. : Text has KA7T2J
+26993 : kAryavinimaya : ¯MA7LAV.9,8(9,16¯BOLL.) : ¯MA7LAV.9,8 (¯MA7LAV.ed.BOLL.9,16 ) : edition made explicit
+32296 : kzap : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+37898 : GAta : ¯GAN2IT.TRIPR.80.¯SPASHT2.11. : ¯GAN2IT.TRIPR.80. ¯GAN2IT.SPASHT2.11. : For consistency and clarity. It is a chapter of the book gaRit.
+40688 : cEtraraTa : ¯DAC2AK.3,1 ‹(ed.› ¯WILSON  : ¯DAC2AK.ed.WILSON.3,1 : identify edition. new resource
+43039 : jIvaputra : ¯R.ed.Bomb.4,19,11(¯GORR.  : ¯R.ed.Bomb.4,19,11 (¯R.GORR.  : Inferred
+44301 : tadanu : ¯C2RUT.38 (¯BR.39). : ¯C2RUT.38 (¯C2RUT.(BR.)39). : inferred
+46521 : tuzAragOra : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+49037 : dar : ¯BENFEY.Chr. : ¯BENF.Chr. : For internal consistency in pw.
+55032 : DA : ¯MA7N.C2R.1,3,5.7,5.¯GR2HJ. : ¯MA7N.C2R.1,3,5.7,5. ¯GR2HJ. : Inferred
+57246 : naS : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+57920 : nAmarUpa : ¯BURNOUF.INTR. : ¯BURN.Intr. : for consistency
+64047 : pariBAva : ¯PAN4K4AT.56,8. #{°Bava} ‹ed› ¯Bomb.1,59,12. : ¯PAN4K4AT.56,8. #{°Bava} ¯PAN4K4AT.ed.Bomb.1,59,12. : inferred
+64409 : paristoma : ¯MBH.6,2287.LIEST ‹ed› ¯Bomb. : ¯MBH.6,2287. ‹liest› ¯MBH.ed.Bomb. : inferred
+65309 : pA : ¯MA7N.C2R.1,2,5.8,3.3,5.¯Gr2hj. : ¯MA7N.C2R.1,2,5.8,3.3,5. ¯GR2HJ. : Inferred
+66065 : pApadarSin : ¯R.2,35,25.73,5.Gorr.2,6,13.8,37.  : ¯R.2,35,25.73,5. ¯R.GORR.2,6,13.8,37.  : Inferred
+66144 : pAmAvawika : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+66988 : pitfmant : ¯MA7N.C2R.8,19. ¯Gr2hj. : ¯MA7N.C2R.8,19. ¯GR2HJ. : Inferred
+66995 : pitfyajYiya : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+67107 : pipIlaka : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+67722 : putranAman : ¯MA7N.C2R.8,4.¯Gr2hj. : ¯MA7N.C2R.8,4. ¯GR2HJ. : Inferred
+68818 : pUtara : ¯HEM.Pr.Gr.(ed.PISCHEL).1,170. : ¯HEM.Pr.Gr.ed.PISCHEL.1,170. : simplify coding
+70378 : prakza :  ‹ed› ¯Bomb.7,175,108 :   ¯MBH.ed.Bomb.7,175,108 : inferred
+70447 : praguRay : ¯BA7LAR.16,18.50,6.Pan4k4at.207,23. ‹(vgl. ed› ¯Bomb.4,4,3) : ¯BA7LAR.16,18.50,6. ¯PAN4K4AT.207,23. ‹(vgl.› ¯PAN4K4AT.ed.Bomb.4,4,3 ) : Inferred. Also capitalization
+72422 : pranIqa : ‹wie ed.› ¯Varde.12,260,37 : ‹wie› ¯MBH.ed.Vardh.12,260,37 : inferred. Also spelling 
+72780 : pramATin : K4ARAKA.(ed.Calc.)S.42.Z.18 : K4ARAKA.ed.Calc.S.42,Z.18 : conformity of edition
+75106 : prOga : ¯MA7N.C2R.2,4,22.¯GR2HJ. : ¯MA7N.C2R.2,4,22. ¯GR2HJ. : Inferred
+77211 : bIBartsita : ¯BHA7G.P.5,5,32 ‹bei› ¯BURN. : ¯BHA7G.P.5,5,32 ‹bei› ¯BHA7G.P.ed.BURN. : 
+79330 : BAjanacArika : ¯BURNOUF.,Intr. : ¯BURN.Intr. : for consistency
+81555 : maNgalAlamBanIya : ¯R.2,65,9.…(67,7.…GoRR.) : ¯R.2,65,9. (¯R.GORR.2,67,7. ) : Inferred, for consistency
+82767 : man : ¯MA7N.C2R.1,8,3.2,1,3.¯GR2HJ. : ¯MA7N.C2R.1,8,3.2,1,3. ¯GR2HJ. : Inferred
+84433 : mahADurya : ¯R.2,73,14.¯GORR.2,11,11. : ¯R.2,73,14. ¯R.GORR.2,11,11. : Inferred
+85491 : mahodara :  ¯K4ARAKA.1,27(S.196.ed.Calc.). :  ¯K4ARAKA.1,27 (¯K4ARAKA.ed.Calc.S.196.). : identify edition
+86479 : mArttika : ¯GAUT.MA7N.C2R.1,2,1.¯GR2HJ.2,15. : ¯GAUT. ¯MA7N.C2R.1,2,1. ¯MA7N.GR2HJ.2,15. : Inferred
+90246 : yam : ¯MA7N.C2R.2,2,1.¯GR2HJ. : ¯MA7N.C2R.2,2,1. ¯GR2HJ. : Inferred
+90611 : yA : ¯BENFEY.,¯Chr. : ¯BENF.Chr. : For internal consistency in pw.
+90728 : yAtrAkara : ¯K4ARAKA.1,18 ‹(ed› ¯Calc.115,20). : ¯K4ARAKA.1,18 (¯K4ARAKA.ed.Calc.115,20 ). : identifying the editions separately.
+90808 : yAmakuYjara : ‹ed.› ¯Bomb.90,6 : ¯KA7D.ed.Bomb.90,6 : inferred
+90984 : yu : ¯MA7N.C2R.2.1,1.¯GR2HJ. : ¯MA7N.C2R.2.1,1. ¯GR2HJ. : Inferred
+91310 : yoktra : ¯MA7N.C2R.1,3,5.2,1,4.¯GR2HJ. : ¯MA7N.C2R.1,3,5.2,1,4. ¯GR2HJ. : Inferred
+94426 : rudra : ¯MA7N.C2R.11,2,1.¯GR2HJ. : ¯MA7N.C2R.11,2,1. ¯GR2HJ. : Inferred
+96813 : lomaSa : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+98234 : vapASrapaRI : ¯MA7N.C2R.1,8,1.3.4.¯GR2HJ. : ¯MA7N.C2R.1,8,1.3.4. ¯GR2HJ. : Inferred
+99404 : vasizWaSikzA : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+99587 : vastuka : ¯MA7LAV.19,12…(21,12¯BOLL.) : ¯MA7LAV.19,12 (¯MA7LAV.ed.BOLL.21,12 ) : edition made explicit
+99587 : vastuka : ¯7,22…(8,10 ¯BOLL.) : ¯MA7LAV.7,22 (¯MA7LAV.ed.BOLL.8,10 .) : edition and work made explicit
+99604 : vastuvftta : ¯MA7LAV.(ed.¯BOLL.)8,10. : ¯MA7LAV.ed.BOLL.8,10. : reformat for consistency
+100901 : vArARasIdarpaRa : ¯MÜLLER, ‹Ren. 315.› : ¯M.MÜLLER,Ren.315. : Text has MAX MÜLLER. Change for consistency
+103355 : vipARqava : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+111587 : SApIya : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+111611 : SAbIya : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+112826 : Siz : ¯MBH.2,55,20 ‹(ed. Vardh.)› ¯2,54,20. ‹ed.› ¯Calc.2,1964  : ¯MBH.2,55,20 (¯MBH.ed.Vardh.2,54,20. )  ¯MBH.ed.Calc.2,1964  : Print change for identifying edition.
+113531 : SunAsIra : ‹ed.› ¯BURN. : ¯BHA7G.P.ed.BURN. : inferred
+119920 : samanmaTa : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+119961 : samaya : ¯BENFEY.CHR. : ¯BENF.Chr. : For internal consistency in pw.
+120608 : samucCritaDvajavant : ¯R.1,77,6…(78,6 ‹GoRR.).› : ¯R.1,77,6 (¯R.GORR.1,78,6. ). : Inferred, for consistency
+121350 : sayOvana : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+124155 : sAmAnya : ¯C2A7N5KH.c2r.3,20,9.¯GR2HJ.2,15. : ¯C2A7N5KH.C2R.3,20,9. ¯C2A7N5KH.GR2HJ.2,15. : inferred
+126248 : sutumula : ‹ed.› ¯Calc.6,2834 : ¯MBH.ed.Calc.6,2834 : Print change for identifying edition.
+129482 : sopaDiSeza : ¯BURNOUF, ‹Intr. 591.› : ¯BURN.Intr.591 : for consistency
+132149 : svanujA : ¯BAUDH. ¯Gr2hj.Paric2. : ¯BAUDH.GR2HJ.PARIC2. : inferred. New resource
+134852 : hiraRyaraSana : ¯BHA7G.P.ed.Bomb.4,.7,.20. #{°rasana} ¯BURN. : ¯BHA7G.P.ed.Bomb.4,7,20. #{°rasana} ¯BHA7G.P.ed.BURN. : inferred
+
+-----------------------------------------------------------------
+01-18-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/237
+Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+4998 : anUka : ¯BR2H.25(23),13. : ¯VARA7H.BR2H.25(23),13. : inferred
+7559 : aBiruta : ¯R.GORR.1,9,15(17¯SCHL.). : ¯R.GORR.1,9,15 (¯R.ed.SCHL.,17). : inferred
+15364 : AyuHSeza : ¯PAK4AT.9,4.127,3. : ¯PAN4K4AT.9,4.127,3. : presumed wrong printing
+22501 : EndravAyava : ¯4,4,1,17.5,9,1.fgg. : ¯C2AT.BR.4,4,1,17.5,9,1.fgg. : inferred
+23253 : kaNkaparvan : ¯PAIPP.HAT : ¯AV.PAIPP. ‹hat› : inferred
+25101 : kartfgAmin : ¯77,Sch. : P.1,3,77,Sch. : inferred
+26310 : kARvya : ¯TA7N2D2JA-BR.HDSCHRR. : ¯TA7N2D2JA-BR.Hdschr. : Hdschr. not Hdschrr.
+31900 : krIqAparvata : ¯241,10,II,4,19. : ¯KA7D.241,10,II,4,19. : inferred
+34733 : gar : ¯Rv.2,29,2.3,10,9.7,5,1,10, ƒPage2.156-2ƒ ¯91,1 : ¯R2V.2,29,2.3,10,9.7,5,1.10,91,1 ƒPage2.156-2ƒ  : typo, also moved '91,1' as part of the R2V details
+37578 : grAham : ¯53,Sch. : ¯P.3,4,53,Sch. : inferred
+50869 : duD : ¯NAGH.2,12. : ¯NAIGH.2,12. : presume NAGH is wrong, NAIGH occurs ofteen, possibly nEGaRwuka
+55032 : DA : ¯GR2HJ.1,23.2,6. : ¯MA7N.GR2HJ.1,23.2,6. : Inferred
+60495 : nI : ¯C2R.1,8,4.9,2,4. : ¯MA7N.C2R.1,8,4.9,2,4. : inferred
+65309 : pA : ¯GR2HJ.2,4. : ¯MA7N.GR2HJ.2,4. : Inferred
+66662 : pASubanDika : ¯Grahj.2,4. : ¯MA7N.GR2HJ.2,4. : inferred
+66849 : piRqapitayajYa : ¯MA7G.Grhj.2,9.C2R.1,1,2.7,6.8,24. : ¯MA7N.GR2HJ.2,9. ¯MA7N.C2R.1,1,2.7,6.8,24. : typo, and inferred MA7N.C2R
+66988 : pitfmant : ¯GR2HJ.2,9. : ¯MA7N.GR2HJ.2,9. : Inferred
+67106 : pipIla : ¯VA7RAH. ‹Jogaj. 83› , ¯) : ¯VARA7H.JOGAJ.8,3 ) : VA7RAH is wrong (varAhamihira)
+67722 : putranAman : ¯GR2HJ.1,17. : ¯MA7N.GR2HJ.1,17. : Inferred
+70713 : prajYABadra : ¯Eitel.Ch. ‹B.› : ¯EITEL,Chin.B : text has EITEL,Ch.B. Change to conform with Bibliography
+72422 : pranIqa : ‹Ed.› ¯Romb.12,261,38. : ¯MBH.ed.Bomb.12,261,38. : typo, and inferred
+74060 : prAYc : ¯MBH.,.5,5145.ed.Bomb.5,124,24 : ¯MBH.5,5145. ¯MBH.ed.Bomb.5,124,24 : inferred
+75106 : prOga : ¯GR2HJ.1,6. : ¯MA7N.GR2HJ.1,6. : Inferred
+76158 : bastiSIrza : ¯VINUS.96,92) : ¯VISHN2US.96,92) : 
+78349 : Bakti : ¯PV. : ¯AV. : Presume PV.PRA7T is print mistake for AV.PRA7T
+78974 : Barts : ‹ed.› ¯KOSEG. : ¯PAN4K4AT.ed.KOSEG. : inferred
+80043 : BuKara : (¯Th.vi.S.443). : (¯R.GORR.Th.vi.S.443). : Inferred
+82767 : man : ¯GR2HJ.2,4. : ¯MA7N.GR2HJ.2,4. : Inferred
+83663 : marj : ¯GR2HJ.2,7.11. : ¯MA7N.GR2HJ.2,7.11. : Inferred
+86351 : mAriza : ¯MüLLER. : ¯M.MÜLLER. : MAX MÜLLER -> M.MÜLLER'S for consistency
+90246 : yam : ¯GR2HJ.1,11. : ¯MA7N.GR2HJ.1,11. : Inferred
+90984 : yu : ¯GR2HJ.1,9. : ¯MA7N.GR2HJ.1,9. : Inferred
+91092 : yuj :  ‹hat ed.› ¯KOSEG. :  ‹hat› ¯PAN4K4AT.ed.KOSEG. : inferred
+91310 : yoktra : ¯GR2HJ.1,11.14; : ¯MA7N.GR2HJ.1,11.14 ; : Inferred
+94113 : rAzwraBft : ¯GR2HJ.1,11. : ¯MA7N.GR2HJ.1,11. : Inferred
+94426 : rudra : ¯GR2HJ.1,4. : ¯MA7N.GR2HJ.1,4. : Inferred
+96730 : locanAYcala : ¯C2A7K. (¯PISCH.)16,2. : ¯C2A7K.ed.PISCH.16,2. : for uniformity
+98234 : vapASrapaRI : ¯GR2HJ.2,4. : ¯MA7N.GR2HJ.2,4. : Inferred
+100429 : vAtUlaBedAdikatantra : ¯OPP.) : ¯OPP.CAT) : for consistency with pwbib
+100478 : vAdanamAruta : ¯C2A7K.(¯PISCH.)65,9. : ¯C2A7K.ed.PISCH.65,9. : for uniformity
+102603 : vidIpaka : ¯MB.7,163,16) : ¯MBH.7,163,16) : Presume MB should be MBH
+104344 : vivarta : ¯GOVIND. : ¯GOVINDA7N. : for consistency of text with bibliography
+108466 : vyavahAra : ¯JOLLY,¯Sch.315.318. : ¯JOLLY,Schuld.315.318. : Assume Sch. is Schuld, as elsewhere with JOLLY.
+115351 : Srutar : ¯KUHN'S.Beitrr. : ¯KUHN'S.Beitr. : Abbreviation for Beiträge
+117255 : sakft : ¯PAIPP. : ¯AV.PAIPP. : inferred
+117455 : saMkasuka : ¯MAXMüller's.Ausg. ‹des› ¯R2V.V. ‹S. L). und› : ¯M.MÜLLER'S ‹Ausg. des› ¯R2V.V,S.L ). ‹und› : MAX MÜLLER'S -> M.MÜLLER'S for consistency
+119473 : saptaBUmika : ¯KOSEG. ‹Ausg. 44 , 18.› : ¯PAN4K4AT.ed.KOSEG.Ausg.44,18. : oinferred
+119833 : samatulita : ¯VA7RAH.Br2h.S.24,1. : ¯VARA7H.BR2H.S.24,1. : spelling error
+129324 : sezwi : ‹zu 5 , 25 , 1.› : ‹zu› ¯A7PAST.C2R.5,25,1. : inferred
+130467 : star : ¯GR2HJA7S. ‹(ed.› ¯BL.)2,7. : ¯GR2HJA7S.(ed.BLOOMFIELD.)2,7. : for consistency. BL. = BLOOMFIELD.
+131584 : sPur : ¯GOVIND. : ¯GOVINDA7N. : for consistency of text with bibliography
+132092 : svaDAninayanIya : ¯GOBH.C2ra7ddh.2,33.35. : ¯GOBH.C2RA7DDHAK.2,33.35. : presume variant abbreviation occurs only here
+133572 : har : ‹und ed.› ¯KOSEG.114,17.141,10. : ‹und› ¯PAN4K4AT.ed.KOSEG.114,17.141,10. : inferred
+134358 : hAkinI : ¯C2A7TANANDAT.4 : ¯C2A7KTA7N.4 : shortened for consistency with bibliography
+-----------------------------------------------------------------
+01-19-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/242
+Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+871 : aNkacCeda : ¯BHAR. ¯NA7T2JAC2. : ¯BHA7R.NA7T2JAC2. : BHAR -> BHA7R
+6803 : apratizeDa : ¯NJA7JAS.2. ƒPage1.080-1ƒ ¯1,53.5,1,5.8. : ¯NJA7JAS.2.1,53.5,1,5.8. ƒPage1.080-1ƒ : adjust page break for clarity of reference
+108828 : vyAsAzwaka : ¯BÜHLER.Rep.S. : ¯BÜHLER.Rep.No. : For consistency.
+88557 : me : ¯PISHEL . : ¯PISCHEL  : PISHEL spelling error
+-------------------------------------------------------------------------
+01-22-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/243
+Correction initiated by Dhaval Patel
+L code : Headword     : Old                : New                   : Comment
+128459	susTeTa	susTeTa	susTeya	PWG has susTeya with the same meaning.
+-------------------------------------------------------------------------
+05-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+Correction initiated by Dhaval Patel
+L code : Headword     : Old       : New         : Comment
+55763 : Dfzwadmumna : Dfzwadmumna : Dfzwadyumna : dmu
+-------------------------------------------------------------------------

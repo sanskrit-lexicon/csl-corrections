@@ -1,0 +1,80 @@
+
+This file documents changes made to the digitization of PWG in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-06-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-06-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130
+contains details supporting these changes.
+These changes initiated by Zilton Andrade Filho.
+L code	Headword	Old 	New	Comment
+66220	Acyadoha	Acyadoha	AcyAdoha	 print error
+66287	AtIzadIya	AtIzadIya	AtIzAdIya	 print error  (also in text)
+9704,67037	AzAqI	AzAqI	AzAQI	 print error
+11045	utpalavatI	utpalavatI	utpalAvatI	 print error
+11811	upadeSasahasrI	upadeSasahasrI	upadeSasAhasrI	 print error
+68912	ekavyavahArika	ekavyavahArika	ekavyAvahArika	 print error
+69068	EndravaruRa	EndravaruRa	EndrAvAruRa	 print error
+14805	kanyakumAri	kanyakumAri	kanyakumArI	 print error
+27963	jyezWasAmika	jyezWasAmika	jyEzWasAmika	 factual error (grammar).
+31311	trEyaruRa	trEyaruRa	trEyAruRa	 factual error
+32155	darSanavaraRIya	darSanavaraRIya	darSanAvaraRIya	 factual error
+52560	bAvASastrin	bAvASastrin	bAvASAstrin	 factual error
+100327	SudDAyu	SudDAyu	SudDAyU	 print error
+5473	ayATataTya	ayATataTya	ayaTAtaTya	 print error
+56075	BrUkuwi	BrUkuwi	BrUkuwI	 print error. NOT HEADWORD भ्रूकुटि und भ्रूकुटि -> भ्रूकुटि und भ्रूकुटी
+60785	mUKadUzaRa	mUKadUzaRa	muKadUzaRa	 print error
+32706	dAvikakUla	dAvikakUla	dAvikAkUla	 print error.  Also, error in MW72
+
+-----------------------------------------------------------------------
+11-12-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/137
+contains details supporting these changes.
+These changes initiated by Zilton Andrade Filho.
+L code	Headword	Old 	  	New	   Comment
+84210	rAjaSUka	rAjaSUka	rAjaSuka   	print error
+104715	saMDanAjit	saMDanAjit	saMDanajit 	print error
+108689	sAramIti	sAramIti	sAramiti	print error
+-----------------------------------------------------------------------
+11-30-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130
+contains details supporting these changes.
+These changes initiated by Marcis Gasuns.
+L code : Headword        : Old                  : New                : Comment
+82436 : yogaratnasamuccaya : yogaratnasamuccaya : yogaratnasamuccaya : f.->m. (headword ok)
+85462 : romodgama         : romodgama           : romodgama          : f. -> m. (headword ok)
+-----------------------------------------------------------------------
+11-30-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword  : Old     : New     : Comment
+26660 : jaMpatI    : jaMpatI : jampatI : dictionary convention
+-----------------------------------------------------------------------
+01-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword  : Old     : New     : Comment
+2144 : aDyArUWa : aDyArUWa : aDyArUQa : UW
+-----------------------------------------------------------------------
+05-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword  : Old     : New     : Comment
+46768 : pUvakowi : pUvakowi : pUrvakowi : pUv
+113679 : statipuWika : statipuWika : stutipAWaka : puW
+----------------------------------------------------------------------
+09/12/2017
+ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old  : New : Comment
+54650 : BAdvAjI : BAdvAjI : BArdvAjI : 
+40419 : nAqodBava : nAqodBava : nIqodBava : 
+48924 : prazyarza : prazyarza : pratyarza : 
+-----------------------------------------------------------------------

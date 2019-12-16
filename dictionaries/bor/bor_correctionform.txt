@@ -1,0 +1,48 @@
+Sanskrit Lexicon Correction Form History for BOR
+As of July 22, 2019
+7 correction records, with 0 PENDING
+
+Case 23519: 08/29/2016 dict=BOR, L= 8401, hw=fmiliar, user=bikelis
+old = fmiliar
+new = familiar
+comment = Typo in the original text
+status =  Corrected 09/16/2016
+------------------------------------------------------------------------
+
+Case 23518: 08/29/2016 dict=BOR, L= 8406, hw=family, user=bikelis
+old = kṛlam
+new = kulam
+status =  Corrected 09/16/2016
+------------------------------------------------------------------------
+
+Case 4933: 8/9/2015 dict=BOR, L=21530, hw=stone, user=bikelis
+old = aśaman, and later: aśamāpi, and also: tāmrāśaman
+new = aśman, aśmāpi, tāmrāśman
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 1062: 11/23/2014 dict=BOR, L=3359, hw=CERTAINLY, user=bikelis
+old = dhravaṁ jayāḥ 
+new = dhruvaṁ jayāḥ 
+comment = Typo... seems to be in the original book, not a transliteration error
+status =  Corrected 11/25/2014
+------------------------------------------------------------------------
+
+Case 1061: 11/22/2014 dict=BOR, L=13333, hw=LEAF, user=bikelis
+old = parṇānāmapyamijñaḥ
+new = parṇānāmapyabhijñaḥ
+status =  Corrected 11/25/2014
+------------------------------------------------------------------------
+
+Case 968: 11/22/2014 dict=BOR, L=3586, hw=CHINA, user=bikelis
+old = corange
+new = c. orange
+status =  Corrected 11/25/2014
+------------------------------------------------------------------------
+
+Case 308: 10/5/2014 dict=BOR, L=  , hw=kḷptaḥ, user=
+old = 
+new = 
+status = 10/7/2014.  NOT changed. Could not understand.
+------------------------------------------------------------------------
+

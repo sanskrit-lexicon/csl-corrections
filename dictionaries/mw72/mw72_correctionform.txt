@@ -1,0 +1,740 @@
+Sanskrit Lexicon Correction Form History for MW72
+As of July 22, 2019
+116 correction records, with 0 PENDING
+
+Case 24412: 05/14/2019 dict=MW72, L= 3990, hw=अप्रवृत्त, user=sanaatani
+old = commwenced
+new = commenced
+status = Corrected 07/17/2019
+------------------------------------------------------------------------
+
+Case 24293: 12/16/2018 dict=MW72, L= , hw=Pattra, user=
+old = Pattra
+new = 
+status =  01/16/2019 Not enough information
+------------------------------------------------------------------------
+
+Case 24205: 08/09/2018 dict=MW72, L= 1757, hw=अनार्षेय, user=sanaatani
+old = 
+new = अनार्षेय is the opposite of आर्षेय. Please compare meanings in 1757 and 9222
+comment = I am not sure. Pls check.
+status =  Corrected 09/13/2018.  Added [cf. <s>anArza</s>]
+------------------------------------------------------------------------
+
+Case 24033: 12/19/2017 dict=MW72, L= 19230, hw=जट्, user=klongwaters
+old = जट् is used as the headword for the listing जत
+new = List headword as जट
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24028: 12/08/2017 dict=MW72, L= 471, hw=ajjīrṇa, user=klongwaters
+old = ajjīrṇā comes up on the search list and heading for the adjective/neuter noun ajjīrṇa
+new = ajjīrṇa
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 23856: 09/12/2017 dict=MW72, L=49021, hw=sanaraqvipa, user=dhaval
+old = sanaraqvipa
+new = sanaradvipa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23855: 09/12/2017 dict=MW72, L=48554, hw=saNgf, user=dhaval
+old = saNgf
+new = saNgF
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23854: 09/12/2017 dict=MW72, L=3748, hw=apicya, user=dhaval
+old = apicya
+new = apIcya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23853: 09/12/2017 dict=MW72, L=3808, hw=apaej, user=dhaval
+old = apaej
+new = apej
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23852: 09/12/2017 dict=MW72, L=3607, hw=apAkaeman, user=dhaval
+old = apAkaeman
+new = apAkarman
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23851: 09/12/2017 dict=MW72, L=3083, hw=anuAramBa, user=dhaval
+old = anuAramBa
+new = anvAramBa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23850: 09/12/2017 dict=MW72, L=3081, hw=anuArabDa, user=dhaval
+old = anuArabDa
+new = anvArabDa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23849: 09/12/2017 dict=MW72, L=401, hw=acCE, user=dhaval
+old = acCE
+new = acCai
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23848: 09/12/2017 dict=MW72, L=4893, hw=aBisaNgf, user=dhaval
+old = aBisaNgf
+new = aBisaNgF
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23847: 09/12/2017 dict=MW72, L=4614, hw=aBimarDin, user=dhaval
+old = aBimarDin
+new = aBimardin
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23846: 09/12/2017 dict=MW72, L=4243, hw=aBicihnya, user=dhaval
+old = aBicihnya
+new = aBicihnaya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23535: 09/25/2016 dict=MW72, L= 5472, hw=amitra, user=klongwaters
+old = the word to be defined typed at the start of the definition is a-miotra
+new = it should be a-mitra
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23534: 09/21/2016 dict=MW72, L= 78, hw=akāraṇa, user=klongwaters
+old = The headword is listed with a terminal long a which should be short
+new = change to short a
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23371: 06/15/2016 dict=MW72, L=20236, hw=DOkana, user=dhaval
+old = DOkana
+new = QOkana
+comment = typo DOk
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23370: 06/15/2016 dict=MW72, L=35758, hw=BfRiwakA, user=dhaval
+old = BfRiwakA
+new = BfRwikA
+comment = typo Riw
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23320: 06/07/2016 dict=MW72, L=7238, hw=aShezas, user=ejf
+old = aShezas
+new = aSezas
+comment = typo 
+status =  Corrected 06/07/2016
+------------------------------------------------------------------------
+
+Case 22627: 05/13/2016 dict=MW72, L=39970, hw=rOmaSiya, user=dhaval
+old = rOmaSiya
+new = rOmaSIya
+comment = typo Siy
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22626: 05/13/2016 dict=MW72, L=6610, hw=avaluRaWana, user=dhaval
+old = avaluRaWana
+new = avaluRWana
+comment = typo RaW
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22625: 05/13/2016 dict=MW72, L=6121, hw=avakuRaWana, user=dhaval
+old = avakuRaWana
+new = avakuRWana
+comment = typo RaW
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22624: 05/13/2016 dict=MW72, L=5799, hw=arIlha, user=dhaval
+old = arIlha
+new = arI|a
+comment = typo lh
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22623: 05/13/2016 dict=MW72, L=3886, hw=aprajaYi, user=dhaval
+old = aprajaYi
+new = aprajajYi
+comment = typo aYi
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 21480: 04/14/2016 dict=MW72, L=24303, hw=niHziDavan, user=dhaval
+old = niHziDavan
+new = niHziDvan
+comment = typo Hz
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21479: 04/14/2016 dict=MW72, L=6855, hw=avikzobita, user=dhaval
+old = avikzobita
+new = avikzoBita
+comment = typo ob
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 18077: 03/30/2016 dict=MW72, L= L=12654, hw=ṛddha, user=
+old = stord, as grain;
+new = stored, as grain;
+comment = Typo LB see p= 0181-b
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 17960: 03/16/2016 dict=MW72, L=3508, hw=apaScAdaGUn, user=ejf
+old = apaScAdaGUn
+new = apaScAdaGvan
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17899: 03/04/2016 dict=MW72, L= 33439, hw=prak, user=klongwaters
+old = the a is given as short
+new = the a should be long  as it is from prāṅć (pra-aṅć), prāń, prāćī, prāk (cf page 652-b)
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 17890: 02/15/2016 dict=MW72, L= 28211, hw=परीक्ष, user=klongwaters
+old = Virama is missing. This is meant to be the finite verb.
+new = परीक्ष्
+status =  Corrected 02/18/2016
+------------------------------------------------------------------------
+
+Case 16972: 01/22/2016 dict=MW72, L=38415, hw=yamushadeva, user=dhaval
+old = yamushadeva
+new = yamuzadeva
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16971: 01/22/2016 dict=MW72, L=48948, hw=saqBAva, user=dhaval
+old = saqBAva
+new = sadBAva
+comment = typo qB
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16970: 01/22/2016 dict=MW72, L=28442, hw=paryuqBfta, user=dhaval
+old = paryuqBfta
+new = paryudBfta
+comment = typo qB
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16969: 01/22/2016 dict=MW72, L=5699, hw=araksha, user=dhaval
+old = araksha
+new = arakzas
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16968: 01/22/2016 dict=MW72, L=8154, hw=AcAika, user=dhaval
+old = AcAika
+new = AcArika
+comment = typo Ai
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 15433: 01/13/2016 dict=MW72, L=13201, hw=Olapoi, user=dhaval
+old = Olapoi
+new = Olapi
+comment = typo 
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15424: 01/09/2016 dict=MW72, L= , hw=brahman, user=lanaor
+old = 
+new = Search is not coming up with anything when I type 'brahman' and search for 'exact', only 'brahma' with 'prefix'. Also, scan of page 0692 is very blurry, no letters visible.
+comment = no data for key1=
+status =  Corrected 01/11/2016. See webtc2/init_query.py
+------------------------------------------------------------------------
+
+Case 9095: 12/17/2015 dict=MW72, L=18388, hw=cAtur2TAhnika, user=dhaval
+old = cAtur2TAhnika
+new = cAturTAhnika
+comment = typo 2
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 9094: 12/17/2015 dict=MW72, L=35687, hw=BUz2nu, user=dhaval
+old = BUz2nu
+new = BUzRu
+comment = typo 2n->R
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 4987: 9/15/2015 dict=MW72, L= All, hw=All, user=NA
+old = Apologies for a previous message. I can see the double Sanskrit-English and English-Sanskrit tool is available in the Advanced Search section
+new = Apologies for a previous message. I can see the double Sanskrit-English and English-Sanskrit tool is available in the Advanced Search section
+comment = Apologies for a previous message. I can see the double Sanskrit-English and English-Sanskrit tool is available in the Advanced Search section
+status =  Corrected 09/19/2015  (no correction required)
+------------------------------------------------------------------------
+
+Case 4986: 9/15/2015 dict=MW72, L=All, hw=All, user=NA
+old = Please put the Sanskrit-English and the English-Sanskrit search tools on the same page, as it used to be.
+new = Please put the Sanskrit-English and the English-Sanskrit search tools on the same page, as it used to be.
+comment = Please put the Sanskrit-English and the English-Sanskrit search tools on the same page, as it used to be.
+status =  Corrected 09/19/2015  (no correction required)
+------------------------------------------------------------------------
+
+Case 4943: 8/23/2015 dict=MW72, L= , hw=sarvaSas, user=
+old = 
+new = p. 1096, col. 3. 
+comment = 
+status =  NO CORRECTION REQUIRED. 08/29/2015
+------------------------------------------------------------------------
+
+Case 4899: 6/12/2015 dict=MW72, L=49915, hw=samAcar, user=
+old = porceed
+new = proceed
+status = Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 3276: 1/25/2015 dict=MW72, L=5805, hw=aryj, user=ejf
+old = aryj
+new = aruj
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3275: 1/25/2015 dict=MW72, L=18722, hw=cccU, user=ejf
+old = cccU
+new = cuccU
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3274: 1/25/2015 dict=MW72, L=50408, hw=samuqgranT, user=ejf
+old = samuqgranT
+new = samudgranT
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3273: 1/25/2015 dict=MW72, L=50268, hw=samuccyitvA, user=ejf
+old = samuccyitvA
+new = samuccayitvA
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3272: 1/25/2015 dict=MW72, L=48953, hw=saqvasaTa, user=ejf
+old = saqvasaTa
+new = sadvasaTa
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3271: 1/25/2015 dict=MW72, L=48952, hw=saqvanqva, user=ejf
+old = saqvanqva
+new = sadvandva
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3270: 1/25/2015 dict=MW72, L=32025, hw=pradezwri, user=ejf
+old = pradezwri
+new = pradezwf
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3269: 1/25/2015 dict=MW72, L=29131, hw=pAzRqaka, user=ejf
+old = pAzRqaka
+new = pAzaRqaka
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3268: 1/25/2015 dict=MW72, L=12809, hw=ezwri, user=ejf
+old = ezwri
+new = ezwf
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3267: 1/25/2015 dict=MW72, L=8426, hw=Adezwri, user=ejf
+old = Adezwri
+new = Adezwf
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3266: 1/25/2015 dict=MW72, L=5854, hw=arrka, user=ejf
+old = arrka
+new = arka
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3265: 1/25/2015 dict=MW72, L=5853, hw=arrk, user=ejf
+old = arrk
+new = ark
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3264: 1/25/2015 dict=MW72, L=4883, hw=aBisaMkruS, user=ejf
+old = aBisaMkruS
+new = aBisaNkruS
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3263: 1/25/2015 dict=MW72, L=4880, hw=aBisaMkruD, user=ejf
+old = aBisaMkruD
+new = aBisaNkruD
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3262: 1/25/2015 dict=MW72, L=5081, hw=abzyagni, user=ejf
+old = abzyagni
+new = aByagni
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3261: 1/25/2015 dict=MW72, L=3855, hw=apprakawa, user=ejf
+old = apprakawa
+new = aprakawa
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3260: 1/25/2015 dict=MW72, L=3498, hw=apapvrata, user=ejf
+old = apapvrata
+new = apavrata
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3259: 1/25/2015 dict=MW72, L=1180, hw=aDidaRqnetf, user=ejf
+old = aDidaRqnetf
+new = aDidaRqanetf
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3258: 1/25/2015 dict=MW72, L=974, hw=adadyraYc, user=ejf
+old = adadyraYc
+new = adadryaYc
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3257: 1/25/2015 dict=MW72, L=51304, hw=samnAj, user=ejf
+old = samnAj
+new = samrAj
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3256: 1/25/2015 dict=MW72, L=50470, hw=samuqvfh, user=ejf
+old = samuqvfh
+new = samudvfh
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3255: 1/25/2015 dict=MW72, L=50467, hw=samuqvft, user=ejf
+old = samuqvft
+new = samudvft
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3254: 1/25/2015 dict=MW72, L=50461, hw=samuqvij, user=ejf
+old = samuqvij
+new = samudvij
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3253: 1/25/2015 dict=MW72, L=50456, hw=samuqvas, user=ejf
+old = samuqvas
+new = samudvas
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3252: 1/25/2015 dict=MW72, L=50434, hw=samuqbuD, user=ejf
+old = samuqbuD
+new = samudbuD
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3251: 1/25/2015 dict=MW72, L=50432, hw=samuqbanD, user=ejf
+old = samuqbanD
+new = samudbanD
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3250: 1/25/2015 dict=MW72, L=50406, hw=samuqgE, user=ejf
+old = samuqgE
+new = samudgE
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3249: 1/25/2015 dict=MW72, L=50404, hw=samuqgF, user=ejf
+old = samuqgF
+new = samudgF
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3248: 1/25/2015 dict=MW72, L=50399, hw=samuqgam, user=ejf
+old = samuqgam
+new = samudgam
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3247: 1/25/2015 dict=MW72, L=50397, hw=samuqga, user=ejf
+old = samuqga
+new = samudga
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3246: 1/25/2015 dict=MW72, L=48794, hw=saYjf, user=ejf
+old = saYjf
+new = saYjF
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3245: 1/25/2015 dict=MW72, L=48544, hw=saNjuGukzu, user=ejf
+old = saNjuGukzu
+new = saYjuGukzu
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3244: 1/25/2015 dict=MW72, L=48543, hw=saNjuGukzA, user=ejf
+old = saNjuGukzA
+new = saYjuGukzA
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3243: 1/25/2015 dict=MW72, L=48527, hw=saNjagmAna, user=ejf
+old = saNjagmAna
+new = saYjagmAna
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3242: 1/25/2015 dict=MW72, L=46814, hw=Sirzan, user=ejf
+old = Sirzan
+new = SIrzan
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3241: 1/25/2015 dict=MW72, L=37773, hw=mUzpAyaRa, user=ejf
+old = mUzpAyaRa
+new = mUzyAyaRa
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3240: 1/25/2015 dict=MW72, L=37498, hw=mukuRdI, user=ejf
+old = mukuRdI
+new = mukuRwI
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3239: 1/25/2015 dict=MW72, L=24551, hw=nicumyuRa, user=ejf
+old = nicumyuRa
+new = nicumpuRa
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3238: 1/25/2015 dict=MW72, L=23836, hw=nanqi, user=ejf
+old = nanqi
+new = nandi
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3237: 1/25/2015 dict=MW72, L=18253, hw=camniz, user=ejf
+old = camniz
+new = camriz
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3236: 1/25/2015 dict=MW72, L=9144, hw=AroQri, user=ejf
+old = AroQri
+new = AroQf
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3235: 1/25/2015 dict=MW72, L=5677, hw=ayoccizwa, user=ejf
+old = ayoccizwa
+new = ayocCizwa
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3234: 1/25/2015 dict=MW72, L=5048, hw=aBIztu, user=ejf
+old = aBIztu
+new = aBIzta
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3233: 1/25/2015 dict=MW72, L=4397, hw=aBiniviDwa, user=ejf
+old = aBiniviDwa
+new = aBinivizwa
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3232: 1/25/2015 dict=MW72, L=5052, hw=abBukta, user=ejf
+old = abBukta
+new = aBukta
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3231: 1/25/2015 dict=MW72, L=4246, hw=abBicCAyam, user=ejf
+old = abBicCAyam
+new = aBicCAyam
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3230: 1/25/2015 dict=MW72, L=3502, hw=apaSavda, user=ejf
+old = apaSavda
+new = apaSabda
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3229: 1/25/2015 dict=MW72, L=3438, hw=apavakrf, user=ejf
+old = apavakrf
+new = apavaktf
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3228: 1/25/2015 dict=MW72, L=3350, hw=aparADRa, user=ejf
+old = aparADRa
+new = aparAhRa
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3227: 1/25/2015 dict=MW72, L=401, hw=acCE, user=ejf
+old = acCE
+new = acCe
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3226: 1/25/2015 dict=MW72, L=55021, hw=tfnAvarta, user=ejf
+old = tfnAvarta
+new = tfRAvarta
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3225: 1/25/2015 dict=MW72, L=38354, hw=yaTaFzi, user=ejf
+old = yaTaFzi
+new = yaTafzi
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3224: 1/25/2015 dict=MW72, L=38051, hw=muokzayizu, user=ejf
+old = muokzayizu
+new = mumokzayizu
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3223: 1/25/2015 dict=MW72, L=35646, hw=Buruan, user=ejf
+old = Buruan
+new = Burvan
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3222: 1/25/2015 dict=MW72, L=35643, hw=BuruaRyu, user=ejf
+old = BuruaRyu
+new = BuraRyu
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3221: 1/25/2015 dict=MW72, L=23572, hw=Dortia, user=ejf
+old = Dortia
+new = Dorita
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3220: 1/25/2015 dict=MW72, L=20796, hw=tArakia, user=ejf
+old = tArakia
+new = tArakin
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3219: 1/25/2015 dict=MW72, L=4297, hw=aBiah, user=ejf
+old = aBiah
+new = aBidah
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3218: 1/25/2015 dict=MW72, L=3650, hw=apAeC, user=ejf
+old = apAeC
+new = apArC
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3217: 1/25/2015 dict=MW72, L=3574, hw=apaastita, user=ejf
+old = apaastita
+new = apahastita
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3216: 1/25/2015 dict=MW72, L=2657, hw=anuSAanIya, user=ejf
+old = anuSAanIya
+new = anuSAsanIya
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 3215: 1/25/2015 dict=MW72, L=2656, hw=anuSAana, user=ejf
+old = anuSAana
+new = anuSAsana
+status =  Corrected 01/25/2015
+------------------------------------------------------------------------
+
+Case 2305: 1/5/2015 dict=MW72, L= , hw=antaḥkhyā, user=
+old = The upper right corner of the scanned page 43 shows the corner of page 45. Instead of page 44 again page 42 is given.
+new = Please replace the wrong scanned pages by the correct pages 43 and 44.
+comment = mistakes in scan pictures
+status =  Corrected 03/28/2016. New pages from Thomas for 43 and 44. Files are much bigger, but work fine.
+------------------------------------------------------------------------
+
+Case 2089: 1/2/2015 dict=MW72, L=619, hw=atas, user=unknown
+old = ciuse
+new = cause
+status =  Corrected 01/03/2015
+------------------------------------------------------------------------
+
+Case 754: 11/18/2014 dict=MW72, L=[L=40835] [p= 0876-c], hw=वक्रतु, user=Shalu
+old = वक्रतु
+new = वक्रतुण्डः
+comment = Even meaning (i.e. article) is given wrong in digital version) This is the total explanation as seen in the printed book OCR scan- //www.sanskrit-lexicon.uni-koeln.de/scans/MW72Scan/2014/web/webtc/servepdf.php?page=0876 Vakra-tunda, as, d, am, crooked-beaked, having a crooked face ; (as), m. a parrot ; N. of Ganesa (so called as represented with the trunk of an elephant).
+status =  Not corrected 12/02/2014. See discussion at https://github.com/sanskrit-lexicon/MW72/issues/2
+------------------------------------------------------------------------
+
+Case 695: 11/10/2014 dict=MW72, L=30107, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected 11/11/2014
+------------------------------------------------------------------------
+
+Case 694: 11/10/2014 dict=MW72, L=20894, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo, hiatus
+status =  Corrected 11/11/2014
+------------------------------------------------------------------------
+
+Case 602: 10/29/2014 dict=MW72, L=39231, hw=rasa, user=Sandhi Koufax
+old = Under the entry for rasAsvAda: "sipping of jices" 
+new = "sipping of juices"
+status =  Corrected 10/30/2014
+------------------------------------------------------------------------
+
+Case 601: 10/29/2014 dict=MW72, L=12124, hw=upAdhi, user=Sandhi Koufax
+old = porperties
+new = properties
+status =  Corrected 10/30/2014
+------------------------------------------------------------------------
+
+Case 100: 8/18/2014 dict=MW72, L= [L=13719] [p= 0204-b], hw=कर, user=Shalu
+old = vṛiddhi-kara
+new = vṛddhi-kara
+status =  8/24/2014 not changed. Refer github issue # 1 for mw72
+------------------------------------------------------------------------
+
+Case 99: 8/18/2014 dict=MW72, L=[L=13719] [p= 0204-b], hw=कर, user=Shalu
+old = kṛi
+new = kṛ
+status = 8/24/2014, not changed. Refer github issue # 1 for mw72
+------------------------------------------------------------------------
+

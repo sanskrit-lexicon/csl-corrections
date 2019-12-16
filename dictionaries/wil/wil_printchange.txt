@@ -1,0 +1,212 @@
+
+This file documents changes made to the digitization of WIL in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-15-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+
+-----------------------------------------------------------------------
+12-15-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword    : Old         : New         : Comment
+17156  : tarupaMkti  : tarupaMkti  : tarupaNkti  : Convention error.
+36218  : visPuliMga  : visPuliMga  : visPuliNga  : Convention error. WIL has 'liNga' as headword and not 'liMga'.
+
+-----------------------------------------------------------------------
+01-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword    : Old         : New         : Comment
+35577  : vimbeHzWa   : vimbeHzWa   : vimbOzWa    : eH  vimbeHzWa not grammatically possible. Author mentions vimbOzWa as alternate. SKD has vimbOzWaH.
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+195 : akzna : akzna : akzRa : 'zn' usually not possible
+22759 : pakznu : pakznu : pakzRu : 'zn' usually not possible. Confirm MW and other dictionaries
+-----------------------------------------------------------------------
+05-11-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+20224 : dvisamatriBUjA : dvisamatriBUjA : dvisamatriBujA : triBujA is triangle. So 'BUjA' is misprint
+-----------------------------------------------------------------------
+11-23-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/321
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+33019  : lupa  : Olux : Olupx :
+38744  : Suza  : SuzyAta : Suzyati :
+39499  : zada  : Ozawx : Ozadx : Devanagari 'w' and 'd' difficult to distinguish
+26966  : prAGAra : GF : Gf : 
+37197  : vyAGArita : GF : Gf : 
+32097  : rAjacihnaka : Cihka : cihna :
+14034  : gomanta : Jta : Jac :
+20107  : dvikakud : wH : daH : kakud and kakudaH are both endings
+23028  : patadBIru : pata4t : patat : Stray accent in print, coded as a4
+990    : aDarmmacArin : rIHriRI-ri : rIH-riRI-ri : print is missing a '-'
+-----------------------------------------------------------------------
+11-30-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 301
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+4767 : asTisaYcaya : asTisaMYcAyanaM : asTisaYcAyanaM : 
+6095 : AsPowa : AsPona : AsPota : 
+6028 : Asa : Asste : Asate : cf mw, pwg 
+12138 : kliSita : iwklizwa : iw klizwa : missing space
+8252 : ervAru : IbvAru : IrvvAru : 'r' missing; b/v unclear print
+11378 : kftoccEs : ucCEs : uccEs : 
+-----------------------------------------------------------------------
+11-30-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 301
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+2054 : aparavojJita : uJita : ujJita
+12921 : Kolmuka : utmuka : ulmuka : Print unclear
+36480 : vfttADyayanardDi : frdDi : fdDi :  The 'r' is print error
+1707 : anfRin : FRin : fRin
+14430 : Gasa : OGasla : OGasx : root with anubandhas
+8763 : kaRqUyanaka : kaRquyana : kaRqUyana
+-----------------------------------------------------------------------
+12-02-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 303
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+8756 : kaRqU : -ta : -te : 3rd sing. atmaneapada
+11671 : kENkaryya : kiMNkara : kiNkara
+9406 : karmman : kuMRqalaM : kuRqalaM
+11846 : kOtUhalAnvita : kEtUhala : kOtUhala
+-----------------------------------------------------------------------
+12-10-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 306
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+3582 : alpAkANkzin : kzIH-kziRI-kzi : kzI-kziRI-kzi : nom. sgn. of 'xin' is `xI`
+27772 : bahureKA : bahureKA : bahureKa: m. noun
+13572 : gIrvvARa : gIrbvARa : gIrbbARa : alternate form of gIrvvARa
+21966 : nirguRWI : guWI : guWi : refer to root guWa
+13795 : gUQasAkzin : guQa : gUQa :
+16835 : RI : guroHktoDamvinayati : guroHkroDamvinayati : ktoDam -> kroDam
+14323 : Gawita : GaWa : Gawa : Gawita is 'kta' of root Gawa
+-----------------------------------------------------------------------
+12-11-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 307,308
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+7081 : udGAwana : GaWa : Gawa :
+14322 : Gawika : GuWikA : GuwikA
+11319 : kftaveDana : Gova : Goza
+-----------------------------------------------------------------------
+12-12-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batches
+309-312
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+16599 : jyotsnA : Niva : NIp :
+5201 : AQaka : NIpa : NIp : missing virAma
+245 : agnAyI : NIpa : NIp : missing virAma
+3009 : ammaya : NIpa : NIp : missing virAma
+3280 : arjuna : NIpa : NIp : missing virAma
+28069 : brahmI : NIpa : NIp : missing virAma
+9884 : kAdambinI : NIpa : NIp : missing virAma
+22948 : pawuparRI : NIs : NIz :
+18026 : triMSaka : Nvun : kvun :
+15345 : cuwa :  cuMRwati : cuRwati
+15672 : Co : CyAti : Cyati
+36882 : vEdika : jiWa : NIp :
+16480 : jfBa : jfBmate : jfmBate :
+28358 : Basanta : Jaca : Jac
+31813 : rawantI : JaS : Jac. There is a जश् affix, but I think झच् is meant here
+5496  : ApatkAlika :  YiWa : YiW 
+27749 : bahupawu : wuH-WvI-wu -> wuH-wvI-wu
+5191 : Awabika : WaYa -> WaY
+6611 : uccEs : qEs -> qEsi   'qEsi' is uRAdi affix, as in nIvEs.
+-----------------------------------------------------------------------
+12-16-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batche 313
+Github user SergeA
+L code : Headword : Old  : New : Comment
+12166 : kvaRat : Ran-RaMntI-Rat : Ran-RantI-Rat 
+1522 : anunaya : RIYa : RIY
+1522 : anunaya : ana : anu
+17201 : tarbbawa : tarbva : tarbba
+16604 : jyOtsna : jyOtsnA : jyotsnA : cf. WIL1819
+16604 : jyOtsna : jyotsnI : jyOtsnI :  cf. WIL1819
+16604 : jyOtsna : jyotsnikA : jyOtsnikA :  cf. WIL1819
+19968 : drAKa : dAKf : drAKf :
+19060 : dIDI : dIDINa : dIDIN : Also, affix Na change to N
+5354 : Adfta : dfYa : dfY : 
+20302 : Danada : deNa : deN :
+20784 : DF : DFRAti : DfRAti : cf. WIL1819 or MW
+20785 : De : Dewa : Dew : Also, wa -> w, Na -> N
+41626 : sAmiDenya : DeRyaR : zeRyaR : cf. WIL1819, Abhyankar Dict. Sans. Grammar.
+-----------------------------------------------------------------------
+12-16-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 314
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+1161 : aDvara : DvF : Dvf : cf. WIL, MW
+2525 : aBinaya : nIY : RIY :  Cf WIL and WIL1819 णी
+3752 : avanAya : nIY : RIY :  Cf WIL and WIL1819 णी
+7390 : upanaya : nIY : RIY :  Cf WIL and WIL1819 णी
+2539 : aBinIta : nIY : RIY :  Cf WIL and WIL1819 णी
+335 : agraRI : nIY : RIY :  Cf WIL and WIL1819 णी
+23682 : parivarha : paribaI : paribarha : cf WIL paribarha
+6023 : AzAQa : pUrbva : pUrvva :
+-----------------------------------------------------------------------
+12-16-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 315-320
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+27214 : prI : prIYa : prIY
+27232 : pru :  pruNa : pruN
+27959 : bUkka : bUkvan : bUkkan
+28868 : BF : BFRAti : BfRAti : cf wil1819, mw
+30425 : mI : Ya : Y
+30538 : muwa : muMRwati : muRwati
+1471 : anugfhIta : mfhIta : gfhIta
+14397 : GanAmbu : mnu : mbu
+31497 : yuj : yuNa : yuN
+2599 : aBilAva : lUYa : lUY
+451 : aNgAraDAnikA : lyuW : lyuw :  cf wil1819
+33394 : vajrAGAta : vaMjra : vajra
+35577 : vimbOzWa : vimbOzWa : vimbozWa : cf wil1819
+9976 : kAmavihantf : vihantrf : vihantf
+5005 : AkroSaka : vuYa : vuY
+36888 : vEdehaka : vuYa : vuY
+34504 : vAriSa : SIM : SIN : cf root SI in WIL
+1651 : anuSaya : SINa : SIN
+1652 : anuSayitavya : SINa : SIN
+798 : atiSAyita : SINa : SIN
+793 : atiSaya : SINa : SIN
+39737 : saMSayAna : SINa : SIN
+39741 : saMSayitf : SINa : SIN
+13552 : giriSa : SIY : SIN : Wil1819 also shows Y. But under SI, only 'N' appears.
+16123 : jaleSaya : SINa : SIN
+8513 : kaNkaSAya : SIY : SIN
+11040 : kuSa : SIY : SIN
+11075 : kuSeSaya : SIY : SIN
+10987 : kuliSa : SIY : SIN
+17164 : taruSAyin : SIY : SIN
+6046 : Asava : zUYa : zUY
+6061 : Asuti : zUYa : zUY
+31979 : ravisaMjYaka : sajYaMka : saMjYaka
+22178 : nivivftsat : sanH-santI-sat : san-santI-sat
+24552 : pArSva : spfMSa : spfSa : M also in WIL1819
+36240 : visramBa : sraMmBa : sramBa
+44539 : hriRIyA : hfRINa : hfRIN
+6119 : Ahava : hveYa : hveY
+6157 : AhvAna :  hveYa : hveY
+6156 : Ahvaya : hveYa : hveY
+40698 : samAhva : hveYa : hveY
+38738 : SuSruvas : SruyI : vuzI : f.  SuSruvuzI per Kale 124. (thanks to SergeA)
+38738 : SuSruvas : vaH : vat : n. Also per Kale.
+-----------------------------------------------------------------------

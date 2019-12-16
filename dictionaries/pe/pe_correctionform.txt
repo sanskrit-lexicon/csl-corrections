@@ -1,0 +1,240 @@
+Sanskrit Lexicon Correction Form History for PE
+As of July 22, 2019
+37 correction records, with 0 PENDING
+
+Case 23859: 09/12/2017 dict=PE, L=5104, hw=pativratAmAhatmyaparva, user=dhaval
+old = pativratAmAhatmyaparva
+new = pativratAmAhAtmyaparva
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23858: 09/12/2017 dict=PE, L=1714, hw=danqa, user=dhaval
+old = danqa
+new = daRqa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23389: 06/15/2016 dict=PE, L=1635, hw=cUdAkarRa, user=dhaval
+old = cUdAkarRa
+new = cUqAkarRa
+comment = print error cUd
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 22632: 05/13/2016 dict=PE, L=5708, hw=rOBya, user=dhaval
+old = rOBya
+new = rEBya
+comment = typo Alphabetic misordering + other dictionaries have only rEBya as name of a man.
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22631: 05/13/2016 dict=PE, L=3579, hw=kolasvrUpa, user=dhaval
+old = kolasvrUpa
+new = kolasvarUpa
+comment = print error The description has svarUpa, whereas headword has svrUpa.
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22630: 05/13/2016 dict=PE, L=1187, hw=Bujakewu, user=dhaval
+old = Bujakewu
+new = Bujaketu
+comment = typo kew
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22567: 05/11/2016 dict=PE, L=145, hw=akftavrana, user=ejf
+old = akftavrana
+new = akftavraRa
+comment = typo 
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 21922: 05/02/2016 dict=PE, L=2746 , hw= इन्द्र, user=(nouser)
+old = Pāñcātī
+new = Pāñcālī
+comment = Print error
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21903: 04/26/2016 dict=PE, L= 921, hw=बलि, user=(nouser)
+old = (3) From his childhood Mahābali was a hater of the LB Brāhmanas. 
+new = `Brāhmanas' should be `Brāhmaṇas'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21488: 04/14/2016 dict=PE, L=8484, hw=viSAlAkSa, user=dhaval
+old = viSAlAkSa
+new = viSAlAkza
+comment = typo kS
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21487: 04/14/2016 dict=PE, L=1669, hw=daksasAvarRi, user=dhaval
+old = daksasAvarRi
+new = dakzasAvarRi
+comment = print error alphabetic misordering.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21486: 04/14/2016 dict=PE, L=153, hw=aksasUtrA, user=dhaval
+old = aksasUtrA
+new = akzasUtrA
+comment = typo ks
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 17962: 03/16/2016 dict=PE, L=4011, hw=lohitAranI, user=ejf
+old = lohitAranI
+new = lohitAraRI
+comment = print error  lohitAraRI Confirmed by inm,mw,pw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17961: 03/16/2016 dict=PE, L=1519, hw=cenkaRRarAja, user=ejf
+old = cenkaRRarAja
+new = ceNkaRRarAja
+comment = print error  Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 15469: 01/13/2016 dict=PE, L=4351, hw=maNivawwappAra, user=dhaval
+old = maNivawwappAra
+new = maRivawwappAra
+comment = print error Ni
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 4846: 5/16/2015 dict=PE, L=8505, hw=vizRupaNjara, user=ejf
+old = vizRupaNjara
+new = vizRupaYjara
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4845: 5/16/2015 dict=PE, L=8204, hw=veRkawuku, user=ejf
+old = veRkawuku
+new = veNkawuku
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4844: 5/16/2015 dict=PE, L=8082, hw=vAsizTa, user=ejf
+old = vAsizTa
+new = vAsizWa
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4843: 5/16/2015 dict=PE, L=8042, hw=vArksI, user=ejf
+old = vArksI
+new = vArkzI
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4842: 5/16/2015 dict=PE, L=7646, hw=tvaSwADara, user=ejf
+old = tvaSwADara
+new = tvazwADara
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4841: 5/16/2015 dict=PE, L=6374, hw=SataGaRtA, user=ejf
+old = SataGaRtA
+new = SataGaRwA
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4840: 5/16/2015 dict=PE, L=6237, hw=SAntparva, user=ejf
+old = SAntparva
+new = SAntiparvan
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4839: 5/16/2015 dict=PE, L=6195, hw=sAnKyAyana, user=ejf
+old = sAnKyAyana
+new = sANKyAyana
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4838: 5/16/2015 dict=PE, L=6152, hw=SAnqilI, user=ejf
+old = SAnqilI
+new = SARqilI
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4837: 5/16/2015 dict=PE, L=5788, hw=rzika, user=ejf
+old = rzika
+new = fzika
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4836: 5/16/2015 dict=PE, L=5506, hw=pUrnaBadra, user=ejf
+old = pUrnaBadra
+new = pUrRaBadra
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4835: 5/16/2015 dict=PE, L=4619, hw=muNja, user=ejf
+old = muNja
+new = muYja
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4834: 5/16/2015 dict=PE, L=3841, hw=kuNqala, user=ejf
+old = kuNqala
+new = kuRqala
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4833: 5/16/2015 dict=PE, L=3414, hw=kORdinya, user=ejf
+old = kORdinya
+new = kORqinya
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4832: 5/16/2015 dict=PE, L=2264, hw=ekahamsatIrTa, user=ejf
+old = ekahamsatIrTa
+new = ekahaMsatIrTa
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4831: 5/16/2015 dict=PE, L=2154, hw=qumquBa, user=ejf
+old = qumquBa
+new = quMquBa
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4830: 5/16/2015 dict=PE, L=1776, hw=dASArNa, user=ejf
+old = dASArNa
+new = dASArRa
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4829: 5/16/2015 dict=PE, L=1484, hw=cArudesRa, user=ejf
+old = cArudesRa
+new = cArudezRa
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4828: 5/16/2015 dict=PE, L=1303, hw=bfhadDla, user=ejf
+old = bfhadDla
+new = bfhadDala
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4827: 5/16/2015 dict=PE, L=754, hw=Arcoka, user=ejf
+old = Arcoka
+new = NO
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4826: 5/16/2015 dict=PE, L=616, hw=atiSrNga, user=ejf
+old = atiSrNga
+new = atiSfNga
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 4825: 5/16/2015 dict=PE, L=540, hw=aswANgayoga, user=ejf
+old = aswANgayoga
+new = azwANgayoga
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+

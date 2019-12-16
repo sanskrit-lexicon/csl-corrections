@@ -1,0 +1,49 @@
+This file documents changes made to the digitization of STC in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-19-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-19-2015
+The references  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/149 
+and https://github.com/sanskrit-lexicon/CORRECTIONS/issues/150
+containd details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old :       New       : Comment
+9057 : caYcarika : caYcarika : caYcarIka : Maybe lexicographer error also
+11149 : DarziRi : DarziRi : DarziRI : f. of Darzin
+11841 : nirAkaNkza : nirAkaNkza : nirAkANkza : lexicographer error
+15072 : prapiq : prapiq : prapIq : 
+15887 : balluka : balluka : Balluka : A lexicographer error.
+21285 : sanadIgirikanana : sanadIgirikanana : sanadIgirikAnana : kAnana is proper word for forest, not kanana.
+22796 : sAnaTya : sAnaTya : sAnATya : sAnaTya is grammatically not viable.
+20517 : SOnaHSePa : SOnaHSePa : SOnaHSepa : lexicographer error
+24183 : syUmaraSmI : syUmaraSmI : syUmaraSmi : Seems like there is some mark above 'i' and not 'I'.
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+2864 : aBijnA : aBijnA : aBijYA : print missing tilde over 'N'
+1628 : anujnA : anujnA : anujYA : print missing tilde over 'N'
+3956 : avajnA : avajnA : avajYA : print missing tilde over 'N'
+8247 : kfznAyati : kfznAyati : kfzRAyati : 'zn' usually not possible. Confirm MW kfzRAya
+13032 : parijnAna : parijnAna : parijYAna : print missing tilde over 'n'
+10152 : tEkznya : tEkznya : tEkzRya : 'zn' usually not possible. Confirm MW and many other dictionaries
+-----------------------------------------------------------------------
+09-16-2017
+reference:  https://github.com/sanskrit-lexicon/Cologne/issues/182
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+21939 : ucCrita : ucCrita : samucCrita : print forgot 'sam' prefix
+-----------------------------------------------------------------------
+09-16-2017
+ref:  https://github.com/sanskrit-lexicon/Cologne/issues/193
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+149250 : samyak : v. le suiv. : v. le suiv.[(samyañc)] : samyañc is next entry
+-----------------------------------------------------------------------
+

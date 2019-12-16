@@ -1,0 +1,272 @@
+Sanskrit Lexicon Correction Form History for VEI
+As of July 22, 2019
+42 correction records, with 0 PENDING
+
+Case 23933: 09/12/2017 dict=VEI, L=675, hw=kusurubindaOddalaki, user=dhaval
+old = kusurubindaOddalaki
+new = kusurubindaOddAlaki
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23932: 09/12/2017 dict=VEI, L=113, hw=amAvAsyaSARdilyAyana, user=dhaval
+old = amAvAsyaSARdilyAyana
+new = amAvAsyaSARqilyAyana
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23526: 09/13/2016 dict=VEI, L= 732, hw=kosa, user=ejf for gasuns
+old = kosa
+new = koSa (slp1)
+comment = Print error
+status =  Corrected 09/16/2016
+------------------------------------------------------------------------
+
+Case 21510: 04/14/2016 dict=VEI, L=184, hw=azAQOttarapArASarya, user=dhaval
+old = azAQOttarapArASarya
+new = azAQauttarapArASarya
+comment = typo QO. Multiple headwords; requires change to hw2.py to allow hiatus
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21509: 04/14/2016 dict=VEI, L=284, hw=aSvatTva, user=dhaval
+old = aSvatTva
+new = aSvatTya
+comment = typo Tv is not possible in patronymic. Ty is much more probable. Requires investigation.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 18046: 03/16/2016 dict=VEI, L=3418, hw=saMvartaAngirasa, user=ejf
+old = saMvartaAngirasa
+new = saMvartaANgirasa
+comment = print error  proper name. two words saMvarta + ANgirasa  (Angirasa seems print err.)
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 16995: 01/22/2016 dict=VEI, L=2906, hw=vAfzRivfdDa, user=dhaval
+old = vAfzRivfdDa
+new = vArzRivfdDa
+comment = typo Af
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 15487: 01/13/2016 dict=VEI, L=3699, hw=skanDhyA, user=dhaval
+old = skanDhyA
+new = skanDyA
+comment = print error Dh
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 4105: 4/19/2015 dict=VEI, L=3407, hw=SvetaketuaruReya, user=dhaval
+old = SvetaketuaruReya
+new = Svetaketu
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4104: 4/19/2015 dict=VEI, L=3316, hw=SunolAngUla, user=dhaval
+old = SunolAngUla
+new = SunolANgUla
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4103: 4/19/2015 dict=VEI, L=3311, hw=SunaHpuCa, user=dhaval
+old = SunaHpuCa
+new = SunaHpucCa
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4102: 4/19/2015 dict=VEI, L=3141, hw=SaNkuinTe, user=dhaval
+old = SaNkuinTe
+new = SaNku
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4101: 4/19/2015 dict=VEI, L=2102, hw=piakza, user=dhaval
+old = piakza
+new = plakza
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4100: 4/19/2015 dict=VEI, L=1595, hw=nIeya, user=dhaval
+old = nIeya
+new = nIcya
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4099: 4/19/2015 dict=VEI, L=764, hw=kanzya, user=dhaval
+old = kanzya
+new = kOzya
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4098: 4/19/2015 dict=VEI, L=592, hw=kArSkeyIputra, user=dhaval
+old = kArSkeyIputra
+new = kArSakeyIputra
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 239: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gas
+old = {??} frequently
+new = It is frequently
+comment = hard to read in book
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 238: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gas
+old = {??} term
+new = a term
+comment = hard to read in book
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 237: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gasyoun
+old = sy{??}bols
+new = symbols
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 236: 9/29/2014 dict=VEI, L=2288, hw=BfgavARa, user=gasyoun
+old = bci
+new = bei
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 235: 9/29/2014 dict=VEI, L=2315, hw=magaDa, user=gas
+old = su{??}itutes
+new = substitutes
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 234: 9/29/2014 dict=VEI, L=2533, hw=menA, user=gas
+old = Indsiche
+new = Indische
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 233: 9/29/2014 dict=VEI, L=2779, hw=vaqava, user=gas
+old = masouline
+new = masculine
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 232: 9/29/2014 dict=VEI, L=3051, hw=vedANga, user=gas
+old = Studicn
+new = Studien
+status =  Corrected 10/1/2014; Three other lines with this error also corrected.
+------------------------------------------------------------------------
+
+Case 231: 9/28/2014 dict=VEI, L=3771, hw=svedaja, user=gas
+old = mosquitos
+new = mosquitoes
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 230: 9/28/2014 dict=VEI, L=3346, hw=SOca, user=gasyoun
+old = pationymic-of
+new = patrionymic of
+comment = OCR
+status =  Corrected 10/1/2014; 'patronymic of'
+------------------------------------------------------------------------
+
+Case 229: 9/28/2014 dict=VEI, L=3277, hw=SiprA, user=gas
+old = sens
+new = sense
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 228: 9/28/2014 dict=VEI, L=3077, hw=vEdarBi, user=gasyoun
+old = patroymic
+new = patronymic
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 227: 9/28/2014 dict=VEI, L=2777, hw=vaNgfda, user=gasyoun
+old = {??}uman
+new = human
+comment = hard to read in book
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 226: 9/28/2014 dict=VEI, L=2774, hw=vakzaRA, user=gas
+old = lenotes
+new = denotes
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 225: 9/28/2014 dict=VEI, L=2653, hw=raSanA, user=gas
+old = ofter
+new = often
+comment = Typo in book
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 224: 9/28/2014 dict=VEI, L=857, hw=gavizwi, user=gasyoun
+old = seveal
+new = several
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 223: 9/28/2014 dict=VEI, L=832, hw=Kila, user=gas
+old = appeanded
+new = appended
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 222: 9/28/2014 dict=VEI, L=645, hw=kuru, user=gas
+old = importanm
+new = important
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 221: 9/28/2014 dict=VEI, L=640, hw=kumBa, user=gas
+old = occurence
+new = occurrence
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 220: 9/28/2014 dict=VEI, L=411, hw=Urjavya, user=gas
+old = occuring
+new = occurring
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 219: 9/28/2014 dict=VEI, L=393, hw=ulapa, user=gas
+old = reterred
+new = referred
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 218: 9/28/2014 dict=VEI, L=307, hw=ikzu, user=gas
+old = eyelasn
+new = eyelash
+comment = hard to read in book
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 217: 9/28/2014 dict=VEI, L=221, hw=AYjana, user=gas
+old = Whitneyi
+new = Whitney
+comment = hard to read in book
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 216: 9/28/2014 dict=VEI, L=146, hw=aryamRaHpanTA, user=gasyoun
+old = V dische Mythologie
+new = Vedische Mythologie
+comment = Typo in book
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 215: 9/28/2014 dict=VEI, L=13, hw=agnidagDa, user=gas
+old = Rituallitteratnr
+new = Rituallitteratur
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+
+Case 214: 9/28/2014 dict=VEI, L=5, hw=akza, user=gas
+old = der Deutscheu
+new = der Deutschen
+status =  Corrected 10/1/2014
+------------------------------------------------------------------------
+

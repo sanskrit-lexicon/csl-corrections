@@ -1,0 +1,66 @@
+Sanskrit Lexicon Correction Form History for KRM
+As of July 22, 2019
+9 correction records, with 0 PENDING
+
+Case 24397: 04/16/2019 dict=KRM, L= 376, hw=गमॢ, user=chandrasekharanr
+old = Footnote 4. ‘इषगमियमां छः’ (7-3-77) इति
+new = इषुगमियमां छः
+status = No change required. This phrase is used throughout the work thrice. Deliberately done so on part of the author.
+------------------------------------------------------------------------
+
+Case 23407: 06/17/2016 dict=KRM, L=651, hw=qINvihAyasA, user=ejf
+old = qINvihAyasA
+new = qIN
+comment = typo   vihAyasA  is the meaning
+status =  Corrected 06/17/2016
+------------------------------------------------------------------------
+
+Case 23369: 06/14/2016 dict=KRM, L=334, hw=KawwasaMvaraRe, user=dhaval
+old = KawwasaMvaraRe
+new = Kawwa
+comment = typo  saMvaraRe is explanation
+status =  Corrected 06/14/2016
+------------------------------------------------------------------------
+
+Case 23368: 06/14/2016 dict=KRM, L=392, hw=gAstutO, user=dhaval
+old = gAstutO
+new = gA
+comment = typo stutO is explanation.
+status =  Corrected 06/14/2016
+------------------------------------------------------------------------
+
+Case 21478: 04/14/2016 dict=KRM, L=1927, hw=ssvala, user=dhaval
+old = ssvala
+new = sKala
+comment = typo similar orthography
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 16967: 01/22/2016 dict=KRM, L=363, hw=Kerf, user=dhaval
+old = Kerf
+new = Korf
+comment = typo e->o
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 15468: 01/13/2016 dict=KRM, L=1853, hw=zex, user=dhaval
+old = zex
+new = zelf
+comment = typo ex
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15467: 01/13/2016 dict=KRM, L=328, hw=kzvex, user=dhaval
+old = kzvex
+new = kzvelf
+comment = typo ex
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15466: 01/13/2016 dict=KRM, L=555, hw=cex, user=dhaval
+old = cex
+new = celf
+comment = typo ex
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+

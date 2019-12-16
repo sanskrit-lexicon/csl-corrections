@@ -1,0 +1,1320 @@
+Sanskrit Lexicon Correction Form History for PWG
+As of July 22, 2019
+200 correction records, with 0 PENDING
+
+Case 24431: 07/01/2019 dict=PWG, L= 59390, hw=mA, user=h.c.jahr
+old = zuneist in verbeitenden
+new = zumeist in verbietenden
+comment = 2 Typos
+status =  Corrected 07/09/2019
+------------------------------------------------------------------------
+
+Case 24423: 06/14/2019 dict=PWG, L= 27838, hw=jJA, user=h.c.jahr
+old = innerwerden (also on page 148, abhi-vi-jJA)
+new = innewerden
+status =  Corrected 07/09/2019
+------------------------------------------------------------------------
+
+Case 24422: 06/14/2019 dict=PWG, L= 27838, hw=jJA, user=h.c.jahr
+old = innerwerden
+new = innewerden
+status =  Corrected 07/09/2019
+------------------------------------------------------------------------
+
+Case 24386: 03/25/2019 dict=PWG, L=109006, hw=siha, user=Johannes Schneider (jhs
+old = the anusvara in the headword is missing
+new = siMha
+status =  Corrected 07/09/2019
+------------------------------------------------------------------------
+
+Case 24298: 12/22/2018 dict=PWG, L=ID=47353, hw=paizAca, user=christian.ferstl
+old = pic2a10k4isch
+new = piśācisch
+comment = misinterpretation of diacritics, see  LB https://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/2013/web/webtc/servepdf.php?page=4-0881
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24255: 10/28/2018 dict=PWG, L=81983, hw=yAman, user=h.c.jahr
+old = das Angehend
+new = das Angehen
+status =  Corrected 11/28/2018
+------------------------------------------------------------------------
+
+Case 24236: 10/16/2018 dict=PWG, L=114765, hw=sru, user=h.c.jahr
+old = Schreihart
+new = Schreibart
+status =  Corrected 11/28/2018
+------------------------------------------------------------------------
+
+Case 24235: 10/15/2018 dict=PWG, L= 119883, hw=caT, user=h.c.jahr
+old = bammein
+new = bammeln
+comment = Typo (l instead of i)
+status =  Corrected 11/28/2018
+------------------------------------------------------------------------
+
+Case 24200: 07/01/2018 dict=PWG, L= 106590, hw=sarp　+ava, user=gharma
+old = 2) ... TS 4,2,2,1 ...
+new = 2) ... TS 4,2,7,1 ...
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24195: 06/18/2018 dict=PWG, L= Roman Unicode, hw=ṛ, user=Christian Ferstl LB christian.ferstl
+old = a) des Todels
+new = a) des Tadels
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24172: 05/07/2018 dict=PWG, L=ID=103816, hw=saMcAra, user=h.c.jahr
+old = Fahrte des Wildes
+new = Fährte des Wildes
+comment = Typo LB [Page7-0554]
+status =  Corrected 05/21/2018
+------------------------------------------------------------------------
+
+Case 24042: 12/28/2017 dict=PWG, L= 53377, hw=brahman, user=SergeA
+old = Seine Genossen sind: Brāhmaṇākchaṃsin
+new = Seine Genossen sind: Brāhmaṇācchaṃsin LB k>c
+comment = Typo or print error
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24020: 12/04/2017 dict=PWG, L= 54387, hw=भा, user=SergeA
+old = अपामग्नेश्च संयोगाद्धेम रूप्यं च नि र्बभौ  3, 113.
+new = अपामग्नेश्च संयोगाद्धेम रूप्यं च नि र्बभौ  5, 113.
+comment = Typo LB wrong chapter number
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 23907: 09/12/2017 dict=PWG, L=82610, hw=yOTyaM, user=dhaval
+old = yOTyaM
+new = yOTya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23906: 09/12/2017 dict=PWG, L=31267, hw=truwyavayaba, user=dhaval
+old = truwyavayaba
+new = truwyavayava
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23905: 09/12/2017 dict=PWG, L=48924, hw=prazyarza, user=dhaval
+old = prazyarza
+new = pratyarza
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23904: 09/12/2017 dict=PWG, L=39396, hw=nirgOrva, user=dhaval
+old = nirgOrva
+new = nirgOrava
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23903: 09/12/2017 dict=PWG, L=28484, hw=natsTa, user=dhaval
+old = natsTa
+new = tatsTa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23902: 09/12/2017 dict=PWG, L=40419, hw=nAqodBava, user=dhaval
+old = nAqodBava
+new = nIqodBava
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23901: 09/12/2017 dict=PWG, L=86922, hw=lozwAnI, user=dhaval
+old = lozwAnI
+new = lostAnI
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23900: 09/12/2017 dict=PWG, L=5984, hw=arDumuzwi, user=dhaval
+old = arDumuzwi
+new = arDamuzwi
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23899: 09/12/2017 dict=PWG, L=80128, hw=Batrya, user=dhaval
+old = Batrya
+new = Bavya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23898: 09/12/2017 dict=PWG, L=54650, hw=BAdvAjI, user=dhaval
+old = BAdvAjI
+new = BArdvAjI
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23897: 09/12/2017 dict=PWG, L=9238, hw=ArDya, user=dhaval
+old = ArDya
+new = ArGya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23896: 09/12/2017 dict=PWG, L=9251, hw=AjunAvaka, user=dhaval
+old = AjunAvaka
+new = ArjunAvaka
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23576: 11/21/2016 dict=PWG, L= 23670, hw=graha, user=gasyoun
+old = , ☉ ,
+new = , ☉ ,
+comment = Transliteration font issue, documented for later correction
+status =  12/08/2016. Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/324
+------------------------------------------------------------------------
+
+Case 23564: 11/05/2016 dict=PWG, L= 37308, hw=nakzatra, user=gas
+old = Hariv.) 27 , später 28
+new = 27 is part of the text, no markup
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23555: 10/20/2016 dict=PWG, L= 88594, hw=varman 1.3, user=jhs
+old = vamarmantra
+new = varmamantra
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23539: 10/09/2016 dict=PWG, L= 27838, hw=jYA, user=gasyoun
+old = Çâk. 12, 12, v. l. 
+new = v. l. is not part of the bibliography
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23392: 06/15/2016 dict=PWG, L=82089, hw=yAvayaddUzas, user=dhaval
+old = yAvayaddUzas
+new = yAvayaddvezas
+comment = typo ddU
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 22725: 05/29/2016 dict=PWG, L= 3551, hw=anyatra, user=sergiofreitas5
+old = als instr.
+new = als abl. — at 7) c)
+status =  Not changed 06/07/2016. See issue 298.
+------------------------------------------------------------------------
+
+Case 22658: 05/13/2016 dict=PWG, L=102461, hw=zawpajYa, user=dhaval
+old = zawpajYa
+new = zawprajYa
+comment = typo wp
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22657: 05/13/2016 dict=PWG, L=122427, hw=zIqIy, user=dhaval
+old = zIqIy
+new = zoqIy
+comment = typo zIq
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22656: 05/13/2016 dict=PWG, L=88444, hw=varRarpuzpa, user=dhaval
+old = varRarpuzpa
+new = varRapuzpa
+comment = typo rpu
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22655: 05/13/2016 dict=PWG, L=113679, hw=statipuWika, user=dhaval
+old = statipuWika
+new = stutipAWaka
+comment = print error puW
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22654: 05/13/2016 dict=PWG, L=78937, hw=pfpaDra, user=dhaval
+old = pfpaDra
+new = pfzaDra
+comment = typo pfp
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22653: 05/13/2016 dict=PWG, L=46768, hw=pUvakowi, user=dhaval
+old = pUvakowi
+new = pUrvakowi
+comment = print error pUv
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22652: 05/13/2016 dict=PWG, L=14424, hw=kawUkawa, user=dhaval
+old = kawUkawa
+new = kawUtkawa
+comment = typo wU
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22651: 05/13/2016 dict=PWG, L=74637, hw=Japaketana, user=dhaval
+old = Japaketana
+new = Jazaketana
+comment = typo Similar orthography
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22650: 05/13/2016 dict=PWG, L=8794, hw=AposUrti, user=dhaval
+old = AposUrti
+new = ApomUrti
+comment = typo pos
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 21906: 04/26/2016 dict=PWG, L=109351, hw=सिद्धान्त, user=vaibhav.niku
+old = Karmamîmâm5sâ
+new = Karmamîmâm̃sâ (कर्ममिमांसा, I think.)
+comment = OCR error. Please check for other occurences of `m5' too in your database. (Along with `m~' as mentioned in an earlier mail.) LB Anyway, these are trivial issues. The work already done by the University of Cologne is immense! Thanks!
+status =  Corrected as_roman.xml 05/04/2016
+------------------------------------------------------------------------
+
+Case 21905: 04/26/2016 dict=PWG, L= 68567, hw=उर्व, user=vaibhav.niku
+old =  ein Sohn Puram5ǵaja's 
+new = `Puram5ǵaja' should be `Puram̃ǵaja' (i.e., पुरङ्गज) LB The error may be common. I found another: LB Çam5karâḱârja (पुर [L=78730] )
+comment = common OCR mistake. "m~" 
+status =  Corrected as_roman.xml 05/04/2016
+------------------------------------------------------------------------
+
+Case 21495: 04/14/2016 dict=PWG, L=24650, hw=catuHzwi, user=dhaval
+old = catuHzwi
+new = catuHzazwa
+comment = typo Hz
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21494: 04/14/2016 dict=PWG, L=119905, hw=candraSoKara, user=dhaval
+old = candraSoKara
+new = candraSeKara
+comment = typo oK
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21493: 04/14/2016 dict=PWG, L=63515, hw=aniHzavya, user=dhaval
+old = aniHzavya
+new = anizavya
+comment = typo Hz
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 18035: 03/16/2016 dict=PWG, L=94787, hw=vfttasAden, user=ejf
+old = vfttasAden
+new = vfttasAdin
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17674: 01/27/2016 dict=PWG, L=63904, hw=antarveDa, user=gasyoun
+old = AHTapao4}a
+new = Антарабида
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 16988: 01/22/2016 dict=PWG, L=34729, hw=devaheuna, user=dhaval
+old = devaheuna
+new = devaheqana
+comment = typo It is an alternate to devaleLana. So, it must be 'qa'. 'qa' and 'u' are orthographically similar in PWG fonts.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 15479: 01/13/2016 dict=PWG, L=3290, hw=antafAvedI, user=dhaval
+old = antafAvedI
+new = antarAvedI
+comment = typo fA
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15478: 01/13/2016 dict=PWG, L=2144, hw=aDyArUWa, user=dhaval
+old = aDyArUWa
+new = aDyArUQa
+comment = print error UW
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 9076: 12/16/2015 dict=PWG, L=89378, hw=vAMgguRa, user=dhaval
+old = vAMgguRa
+new = vAgguRa
+comment = typo print smudge
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9075: 12/16/2015 dict=PWG, L=114950, hw=svaDIMti, user=dhaval
+old = svaDIMti
+new = svaDIti
+comment = typo print smudge
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9074: 12/16/2015 dict=PWG, L=26660, hw=jaMpatI, user=dhaval
+old = jaMpatI
+new = jampatI
+comment = print error c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9073: 12/16/2015 dict=PWG, L=117663, hw=hEMqimba, user=dhaval
+old = hEMqimba
+new = hEqimba
+comment = typo print smudge
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 6000: 12/07/2015 dict=PWG, L=121365, hw=BArikaM, user=gasyoun
+old = BArikaM
+new = BArika
+comment = typo print smudge
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5999: 12/07/2015 dict=PWG, L=121099, hw=pravaraM, user=gasyoun
+old = pravaraM
+new = pravara
+comment = typo print smudge
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5998: 12/07/2015 dict=PWG, L=118148, hw=aDihastyaM, user=gasyoun
+old = aDihastyaM
+new = aDihastya
+comment = typo print smudge
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5876: 12/01/2015 dict=PWG, L=87427, hw=vajralepa, user=gasyoun
+old = vajralepa
+new = vajralepa
+comment = typo f.->m. and einer->eines
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5875: 12/01/2015 dict=PWG, L=85462, hw=romodgama, user=gasyoun
+old = romodgama
+new = romodgama
+comment = print error f. -> m. (headword ok)
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5874: 12/01/2015 dict=PWG, L=82436, hw=yogaratnasamuccaya, user=gasyoun
+old = yogaratnasamuccaya
+new = yogaratnasamuccaya
+comment = print error f.->m. (headword ok)
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5873: 12/01/2015 dict=PWG, L=117822, hw=hrasvagaveDukAM, user=gasyoun
+old = hrasvagaveDukAM
+new = hrasvagaveDukA
+comment = typo print smudge
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5872: 12/01/2015 dict=PWG, L=78707, hw=putrIkaraRamImAMsAM, user=gasyoun
+old = putrIkaraRamImAMsAM
+new = putrIkaraRamImAMsA
+comment = typo print smudge
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5871: 12/01/2015 dict=PWG, L=32446, hw=dAqimba, user=gasyoun
+old = dAqimba
+new = dAqimba
+comment = typo f. -> m. (MW)  (headword ok)
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5308: 11/12/2015 dict=PWG, L=108689, hw=sAramIti, user=zaaf2
+old = sAramIti
+new = sAramiti
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5307: 11/12/2015 dict=PWG, L=104715, hw=saMDanAjit, user=zaaf2
+old = saMDanAjit
+new = saMDanajit
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5306: 11/12/2015 dict=PWG, L=89427, hw=vANG, user=zaaf2
+old = vANG
+new = vANkz
+comment =  typo
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5305: 11/12/2015 dict=PWG, L=84210, hw=rAjaSUka, user=zaaf2
+old = rAjaSUka
+new = rAjaSuka
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5304: 11/12/2015 dict=PWG, L=83629, hw=rarAWya, user=zaaf2
+old = rarAWya
+new = rarAwya
+comment =  typo
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5127: 11/06/2015 dict=PWG, L=40248, hw=niHzama, user=zaaf2
+old = duHpamam
+new = duHzamam
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5126: 11/06/2015 dict=PWG, L=32706, hw=dAvikakUla, user=zaaf2
+old = dAvikakUla
+new = dAvikAkUla
+comment =  print error.  Also, error in MW72
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5125: 11/06/2015 dict=PWG, L=60785, hw=mUKadUzaRa, user=zaaf2
+old = mUKadUzaRa
+new = muKadUzaRa
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5124: 11/06/2015 dict=PWG, L=73474, hw=caturdaSaguRAnAman, user=zaaf2
+old = caturdaSaguRAnAman
+new = caturdaSaguRanAman
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5123: 11/06/2015 dict=PWG, L=18257, hw=kuSAvindu, user=zaaf2
+old = kuSAvindu
+new = kuSavindu
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5122: 11/06/2015 dict=PWG, L=8144, hw=AjYApti, user=zaaf2
+old = AjYApti
+new = AjYapti
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5121: 11/06/2015 dict=PWG, L=56075, hw=BrUkuwi, user=zaaf2
+old = BrUkuwi
+new = BrUkuwI
+comment =  print error. NOT HEADWORD भ्रूकुटि und भ्रूकुटि -> भ्रूकुटि und भ्रूकुटी
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5120: 11/06/2015 dict=PWG, L=5473, hw=ayATataTya, user=zaaf2
+old = ayATataTya
+new = ayaTAtaTya
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5119: 11/06/2015 dict=PWG, L=102044, hw=Slizwakzepa, user=zaaf2
+old = Slizwakzepa
+new = SlizwAkzepa
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5118: 11/06/2015 dict=PWG, L=100327, hw=SudDAyu, user=zaaf2
+old = SudDAyu
+new = SudDAyU
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5117: 11/06/2015 dict=PWG, L=98856, hw=SAPakzi, user=zaaf2
+old = SAPakzi
+new = SAPAkzi
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5116: 11/06/2015 dict=PWG, L=86122, hw=lavaRakara, user=zaaf2
+old = lavaRakara
+new = lavaRAkara
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5115: 11/06/2015 dict=PWG, L=58902, hw=mahArodra, user=zaaf2
+old = mahArodra
+new = mahArOdra
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5114: 11/06/2015 dict=PWG, L=56059, hw=Brazwraja, user=zaaf2
+old = Brazwraja
+new = BrAzwraja
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5113: 11/06/2015 dict=PWG, L=52560, hw=bAvASastrin, user=zaaf2
+old = bAvASastrin
+new = bAvASAstrin
+comment =  factual error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5112: 11/06/2015 dict=PWG, L=40988, hw=neSika, user=zaaf2
+old = neSika
+new = nESika
+comment =  typo (poor print quality)
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5111: 11/06/2015 dict=PWG, L=36962, hw=DUlikadamba, user=zaaf2
+old = DUlikadamba
+new = DUlIkadamba
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5110: 11/06/2015 dict=PWG, L=76351, hw=dvadaSamahAvAkya, user=zaaf2
+old = dvadaSamahAvAkya
+new = dvAdaSamahAvAkya
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5109: 11/06/2015 dict=PWG, L=34774, hw=devAvasa, user=zaaf2
+old = devAvasa
+new = devAvAsa
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5108: 11/06/2015 dict=PWG, L=32155, hw=darSanavaraRIya, user=zaaf2
+old = darSanavaraRIya
+new = darSanAvaraRIya
+comment =  factual error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5107: 11/06/2015 dict=PWG, L=31311, hw=trEyaruRa, user=zaaf2
+old = trEyaruRa
+new = trEyAruRa
+comment =  factual error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5106: 11/06/2015 dict=PWG, L=27963, hw=jyezWasAmika, user=zaaf2
+old = jyezWasAmika
+new = jyEzWasAmika
+comment =  factual error (grammar).
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5105: 11/06/2015 dict=PWG, L=72954, hw=gfhacAra, user=zaaf2
+old = gfhacAra
+new = gfhAcAra
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5104: 11/06/2015 dict=PWG, L=19966, hw=krolAyana, user=zaaf2
+old = krolAyana
+new = krOlAyana
+comment =  NO CHANGE MADE(old opinion =  print error. 'kro' ungrammatical
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5103: 11/06/2015 dict=PWG, L=18587, hw=kftakama, user=zaaf2
+old = kftakama
+new = kftakAma
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5102: 11/06/2015 dict=PWG, L=14805, hw=kanyakumAri, user=zaaf2
+old = kanyakumAri
+new = kanyakumArI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5101: 11/06/2015 dict=PWG, L=69068, hw=EndravaruRa, user=zaaf2
+old = EndravaruRa
+new = EndrAvAruRa
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5100: 11/06/2015 dict=PWG, L=13446, hw=ekaSIti, user=zaaf2
+old = ekaSIti
+new = ekASIti
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5099: 11/06/2015 dict=PWG, L=68912, hw=ekavyavahArika, user=zaaf2
+old = ekavyavahArika
+new = ekavyAvahArika
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5098: 11/06/2015 dict=PWG, L=11811, hw=upadeSasahasrI, user=zaaf2
+old = upadeSasahasrI
+new = upadeSasAhasrI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5097: 11/06/2015 dict=PWG, L=11045, hw=utpalavatI, user=zaaf2
+old = utpalavatI
+new = utpalAvatI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5096: 11/06/2015 dict=PWG, L=9704,67037, hw=AzAqI, user=zaaf2
+old = AzAqI
+new = AzAQI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5095: 11/06/2015 dict=PWG, L=66287, hw=AtIzadIya, user=zaaf2
+old = AtIzadIya
+new = AtIzAdIya
+comment =  print error  (also in text)
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5094: 11/06/2015 dict=PWG, L=66220, hw=Acyadoha, user=zaaf2
+old = Acyadoha
+new = AcyAdoha
+comment =  OK  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5093: 11/06/2015 dict=PWG, L=3882, hw=aparAHRaka, user=zaaf2
+old = aparAHRaka
+new = aparAhRaka
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 4937: 8/15/2015 dict=PWG, L=25488, hw=citralekhaka, user=alexander.oneill
+old = Malar
+new = Maler
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4743: 5/12/2015 dict=PWG, L=106681, hw=sarva, user=jager
+old = sarba
+new = sarva
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
+
+Case 3604: 3/11/2015 dict=PWG, L=740, hw=aNgiras, user=gasyoun
+old = Wie diese (OldHebrew) , (OldHebrew)
+new = Wie diese (בני אלהים) , (בני אלים)
+comment = //lingvoforum.net/index.php?topic=75145.new
+status =  Corrected 03/18/2015
+------------------------------------------------------------------------
+
+Case 3603: 3/11/2015 dict=PWG, L=740, hw=aNgiras, user=gasyoun
+old = von den (OldHebrew)
+new = von den (מלאכים)
+status =  Corrected 03/18/2015
+------------------------------------------------------------------------
+
+Case 3214: 1/24/2015 dict=PWG, L=29078, hw=talpa, user=gasyoun
+old = 8prache
+new = Sprache
+comment = OCR
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1673: 12/18/2014 dict=PWG, L=43421, hw=parq, user=Dhaval
+old = pfj
+new = pfq
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1672: 12/18/2014 dict=PWG, L=69153, hw=OkzRoniyAna, user=Dhaval
+old = OkzRoniyAna
+new = OkzRonuyAna
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1671: 12/18/2014 dict=PWG, L=116509, hw=havizws, user=ejf
+old = havizws
+new = havizwas
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1670: 12/18/2014 dict=PWG, L=14285, hw=kacC, user=ejf
+old = kacC
+new = kacCa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1669: 12/18/2014 dict=PWG, L=72206, hw=ksvelya, user=ejf
+old = ksvelya
+new = kzvelya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1668: 12/18/2014 dict=PWG, L=10587, hw=kti, user=ejf
+old = kti
+new = ukti
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1667: 12/18/2014 dict=PWG, L=116706, hw=hastpa, user=ejf
+old = hastpa
+new = hastya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1666: 12/18/2014 dict=PWG, L=114741, hw=srazwwatva, user=ejf
+old = srazwwatva
+new = srazwftva
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1665: 12/18/2014 dict=PWG, L=110498, hw=suniztriMSa, user=ejf
+old = suniztriMSa
+new = sunistriMSa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1664: 12/18/2014 dict=PWG, L=105370, hw=samayodDyota, user=ejf
+old = samayodDyota
+new = samayoddyota
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1663: 12/18/2014 dict=PWG, L=96667, hw=vyAvarntana, user=ejf
+old = vyAvarntana
+new = vyAvartana
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1662: 12/18/2014 dict=PWG, L=87673, hw=vadBrI, user=ejf
+old = vadBrI
+new = vadDrI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1661: 12/18/2014 dict=PWG, L=82143, hw=yugapIrSvaga, user=ejf
+old = yugapIrSvaga
+new = yugapArSvaga
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1660: 12/18/2014 dict=PWG, L=60131, hw=mAtsna, user=ejf
+old = mAtsna
+new = mArtsna
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1659: 12/18/2014 dict=PWG, L=49333, hw=pravandDar, user=ejf
+old = pravandDar
+new = prabandDar
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1658: 12/18/2014 dict=PWG, L=43227, hw=parizvajYjana, user=ejf
+old = parizvajYjana
+new = parizvaYjana
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1657: 12/18/2014 dict=PWG, L=39321, hw=nirutrsava, user=ejf
+old = nirutrsava
+new = nirutsava
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1656: 12/18/2014 dict=PWG, L=13894, hw=OtkaRQya, user=ejf
+old = OtkaRQya
+new = OtkaRWya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1655: 12/18/2014 dict=PWG, L=13342, hw=ekalvya, user=ejf
+old = ekalvya
+new = ekalavya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1654: 12/18/2014 dict=PWG, L=8025, hw=AgNga, user=ejf
+old = AgNga
+new = ANga
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1653: 12/18/2014 dict=PWG, L=64718, hw=amarakaRwka, user=ejf
+old = amarakaRwka
+new = amarakaRwaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1652: 12/18/2014 dict=PWG, L=113796, hw=strIrDamiRI, user=ejf
+old = strIrDamiRI
+new = strIDarmiRI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1651: 12/18/2014 dict=PWG, L=122658, hw=sODrikamaya, user=ejf
+old = sODrikamaya
+new = sEDrikamaya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1650: 12/18/2014 dict=PWG, L=110320, hw=suduztara, user=ejf
+old = suduztara
+new = sudustara
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1649: 12/18/2014 dict=PWG, L=61122, hw=mumkaSUnya, user=ejf
+old = mumkaSUnya
+new = muzkaSUnya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1648: 12/18/2014 dict=PWG, L=59069, hw=mahASERqI, user=ejf
+old = mahASERqI
+new = mahASORqI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1647: 12/18/2014 dict=PWG, L=56983, hw=maDuvrAhmaRa, user=ejf
+old = maDuvrAhmaRa
+new = maDubrAhmaRa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1646: 12/18/2014 dict=PWG, L=55978, hw=BramarAmvAkzetra, user=ejf
+old = BramarAmvAkzetra
+new = BramarAmbAkzetra
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1645: 12/18/2014 dict=PWG, L=54151, hw=Baraqka, user=ejf
+old = Baraqka
+new = Baraqaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1644: 12/18/2014 dict=PWG, L=35118, hw=dozkulya, user=ejf
+old = dozkulya
+new = dOzkulya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1643: 12/18/2014 dict=PWG, L=34361, hw=dfztipanTan, user=ejf
+old = dfztipanTan
+new = dfzwipanTan
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1642: 12/18/2014 dict=PWG, L=33959, hw=duppariRAma, user=ejf
+old = duppariRAma
+new = duzpariRAma
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1641: 12/18/2014 dict=PWG, L=26911, hw=jalaDaragarjitaGozasusvaranakzatrarAjasaMkusumritABijYa, user=ejf
+old = jalaDaragarjitaGozasusvaranakzatrarAjasaMkusumritABijYa
+new = jalaDaragarjitaGozasusvaranakzatrarAjasaMkusumitABijYa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1640: 12/18/2014 dict=PWG, L=24198, hw=GoYculikA, user=ejf
+old = GoYculikA
+new = GeYculikA
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1639: 12/18/2014 dict=PWG, L=23945, hw=GaRtodara, user=ejf
+old = GaRtodara
+new = GaRwodara
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1638: 12/18/2014 dict=PWG, L=14921, hw=kapiSIzRI, user=ejf
+old = kapiSIzRI
+new = kapiSIrzRI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1637: 12/18/2014 dict=PWG, L=13425, hw=ekAdBacatvAriMSat, user=gasyoun
+old = ekAdBacatvAriMSat
+new = ekAdnacatvAriMSat
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1636: 12/18/2014 dict=PWG, L=13019, hw=ftpeya, user=ejf
+old = ftpeya
+new = ftapeya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1635: 12/18/2014 dict=PWG, L=10690, hw=uYcEstamAm, user=ejf
+old = uYcEstamAm
+new = uccEstamAm
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1634: 12/18/2014 dict=PWG, L=66125, hw=AKowSIrzaka, user=ejf
+old = AKowSIrzaka
+new = AKowaSIrzaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1633: 12/18/2014 dict=PWG, L=64291, hw=appEdIkzita, user=ejf
+old = appEdIkzita
+new = appaidIkzita
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1632: 12/18/2014 dict=PWG, L=111403, hw=sulERaka, user=ejf
+old = sulERaka
+new = sulaiRaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1631: 12/18/2014 dict=PWG, L=85390, hw=roDrazuzpiRI, user=ejf
+old = roDrazuzpiRI
+new = roDrapuzpiRI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1630: 12/18/2014 dict=PWG, L=52998, hw=bfCacCAtAtapa, user=ejf
+old = bfCacCAtAtapa
+new = bfhacCAtAtapa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1629: 12/18/2014 dict=PWG, L=34107, hw=dUrOpabdas, user=ejf
+old = dUrOpabdas
+new = dUraupabdas
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1628: 12/18/2014 dict=PWG, L=19231, hw=kOSori, user=ejf
+old = kOSori
+new = kESori
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1627: 12/18/2014 dict=PWG, L=661, hw=aNolaka, user=ejf
+old = aNolaka
+new = aNkolaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 641: 11/6/2014 dict=PWG, L=117134, hw=hiraRyaprOga, user=Dhaval/gasyoun
+old = hiraRyaprOga
+new = hiraRyaprauga
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 640: 11/6/2014 dict=PWG, L=108103, hw=sAtasEkA, user=Dhaval/gasyoun
+old = sAtasEkA
+new = sAtasaikA
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 639: 11/6/2014 dict=PWG, L=89192, hw=vasyEzwi, user=Dhaval/gasyoun
+old = vasyEzwi
+new = vasyaizwi
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 638: 11/6/2014 dict=PWG, L=47611, hw=prOgya, user=Dhaval/gasyoun
+old = prOgya
+new = praugya
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 637: 11/6/2014 dict=PWG, L=47610, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 636: 11/6/2014 dict=PWG, L=45964, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 635: 11/6/2014 dict=PWG, L=78028, hw=parOzRih, user=Dhaval/gasyoun
+old = parOzRih
+new = parauzRih
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 634: 11/6/2014 dict=PWG, L=37695, hw=namOkti, user=Dhaval/gasyoun
+old = namOkti
+new = namaukti
+comment = Typo,hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 633: 11/6/2014 dict=PWG, L=72393, hw=gEzwi, user=Dhaval/gasyoun
+old = gEzwi
+new = gaizwi
+comment = Typo, hiatus
+status =  Corrected 11/6/2014
+------------------------------------------------------------------------
+
+Case 584: 10/18/2014 dict=PWG, L=75584, hw=dA, user=ejf
+old = hinzuRügen
+new = italic, not Sanskrit
+comment = Markup
+status =  Corrected 10/18/2014
+------------------------------------------------------------------------
+
+Case 583: 10/18/2014 dict=PWG, L=54351, hw=Basad, user=ejf
+old = Hintertheil ... Weibes
+new = italic, not Sanskrit
+comment = Markup
+status =  Corrected 10/18/2014
+------------------------------------------------------------------------
+
+Case 582: 10/18/2014 dict=PWG, L=53488, hw=brahmavarcasin, user=ejf
+old = Brahma
+new = brahma
+status =  Corrected 10/18/2014
+------------------------------------------------------------------------
+
+Case 581: 10/18/2014 dict=PWG, L=13581, hw=ez, user=ejf
+old = ES (HK)
+new = eS (HK)
+status =  Corrected 10/18/2014
+------------------------------------------------------------------------
+
+Case 580: 10/18/2014 dict=PWG, L=13823, hw=ozadaSva, user=ejf
+old = OSant AND auSadazvi  (HK)
+new = oSant AND oSadazvi
+status =  Corrected 10/18/2014
+------------------------------------------------------------------------
+
+Case 579: 10/18/2014 dict=PWG, L=12752, hw=Urjasvant, user=ejf
+old = OpaDIH
+new = ozaDIH
+status =  Corrected 10/18/2014
+------------------------------------------------------------------------
+
+Case 578: 10/18/2014 dict=PWG, L=8713, hw=Apa, user=ejf
+old = bhUPatirbhuvabhartA (HK)
+new = bhUpatirbhuvabhartA
+status =  Corrected 10/18/2014
+------------------------------------------------------------------------
+
+Case 576: 10/16/2014 dict=PWG, L=2369, hw=anarGya, user=Matthias Ahlborn, 2011
+old = anarDyatva
+new = anarGyatva
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 575: 10/16/2014 dict=PWG, L=32405, hw=dA (7), user=?, 2012
+old = reinigeh
+new = reinigen
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 574: 10/16/2014 dict=PWG, L=9648, hw=ASraya, user=?, 2012
+old = Stiz
+new = Sitz
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 573: 10/16/2014 dict=PWG, L=56503, hw=maRq, user=?, 2012
+old = geschmäckt
+new = geschmückt
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 572: 10/16/2014 dict=PWG, L=103052, hw=saMsad, user=?,2012
+old = Gemeine
+new = Gemeinde
+comment = Probable scan error, based on sense
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 571: 10/16/2014 dict=PWG, L=85877, hw=laNGana, user=? 2011
+old = Wiederverheirathnng
+new = Wiederverheiratung
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 570: 10/16/2014 dict=PWG, L=82375, hw=yoga, user=Frank Ziesing, 2011
+old = ṣaḍyāga, aṣṭāyoga
+new = ṣaḍyoga, aṣṭāyoga
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 569: 10/16/2014 dict=PWG, L=40027, hw=nizAda, user=?, 2011
+old = bunserer
+new = b unserer
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 568: 10/16/2014 dict=PWG, L=8858, hw=ABAsa, user=mukundah
+old = sarvendrayavivarjitam
+new = sarvendriyavivarjitam
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 567: 10/16/2014 dict=PWG, L=65920, hw=asUy, user=matthias_ahlborn 2011
+old = tavAnaDe
+new = tavAnaGe
+status =  Corrected 10/16/2014
+------------------------------------------------------------------------
+
+Case 565: 10/16/2014 dict=PWG, L=7, hw=aMSa, user=gas
+old = aM/Sa
+new = a/MSa
+comment = OCR, https://github.com/drdhaval2785/SanskritSorting/issues/26
+status =  Corrected 10/17/2014
+------------------------------------------------------------------------
+
+Case 450: 10/13/2014 dict=PWG, L=122544, hw=sapasuganDA , user=gas
+old = sapasuganDA 
+new = sarpasuganDA
+comment = OCR
+status =  Corrected 10/17/2014
+------------------------------------------------------------------------
+
+Case 388: 10/9/2014 dict=PWG, L=56443, hw=maRivanDana, user=gas
+old = maRivanDana
+new = maRibanDana. Also maRivanDa -> maRibanDa. 
+comment = scan error
+status =  Corrected 10/17/2014
+------------------------------------------------------------------------
+
+Case 384: 10/9/2014 dict=PWG, L=62497, hw=akza, user=gas
+old = kṣān
+new = ‘kṣān
+comment =  is good only on PC, in book there is ‘
+status =  Not corrected. 10/17/2014 - the avagraha is alread there.
+------------------------------------------------------------------------
+
+Case 305: 10/5/2014 dict=PWG, L=66620, hw=Abaradvasava, user=gas
+old = Abaradvasava
+new = Abharadvasava
+comment = OCR
+status =  Corrected 10/7/2014
+------------------------------------------------------------------------
+
+Case 304: 10/5/2014 dict=PWG, L=113586, hw=stabhbakaritA, user=gas
+old = stabhbakaritA
+new = stambakaritA
+status =  Corrected 10/7/2014
+------------------------------------------------------------------------
+
+Case 293: 10/4/2014 dict=PWG, L=64636, hw=aByaYjanya, user=gas
+old = zukommmt
+new = zukommt
+comment = OCR
+status =  Corrected 10/7/2014.
+------------------------------------------------------------------------
+
+Case 292: 10/4/2014 dict=PWG, L=51851, hw=barsa, user=g
+old = kannn
+new = kann
+comment = OCR
+status =  Corrected 10/7/2014.
+------------------------------------------------------------------------
+
+Case 291: 10/4/2014 dict=PWG, L=33063, hw=diS, user=g
+old = bestimmmen
+new = bestimmen
+comment = OCR
+status =  Corrected 10/7/2014.
+------------------------------------------------------------------------
+
+Case 279: 10/2/2014 dict=PWG, L=48944, hw=pratvasthAtar, user=gas
+old = pratvasthAtar
+new = pratyasthAtar
+status =  Corrected 10/2/2014, to pratyavasthAtar.
+------------------------------------------------------------------------
+
+Case 278: 10/2/2014 dict=PWG, L=74600, hw=jyAtiSprakAza, user=gas
+old = jyAtiSprakAza
+new = jyotiSprakAza
+status =  Corrected 10/2/2014
+------------------------------------------------------------------------
+
+Case 193: 9/24/2014 dict=PWG, L=349, hw=agni, user=gasyoun
+old = (Russian)
+new = огнь
+status =  Corrected 10/2/2014
+------------------------------------------------------------------------
+
+Case 160: 9/15/2014 dict=PWG, L=104104, hw=satyaparAkama, user=gasyoun
+old = satyaparAkama
+new = satyaparAkrama
+status =  Corrected 9/16/2014 scan err; confirmed MW
+------------------------------------------------------------------------
+
+Case 159: 9/15/2014 dict=PWG, L=94515, hw=vIrabhradraka, user=gasyoun
+old = vIrabhradraka
+new = vIrabhadraka
+status =  Corrected 9/16/2014. Scan error, confirm MW and alphabetization
+------------------------------------------------------------------------
+
+Case 158: 9/15/2014 dict=PWG, L=94866, hw=vRMddhadAraka, user=gasyoun
+old = vRMddhadAraka
+new = vRddhadAraka
+comment = Typo, dirt in book
+status =  Corrected 9/16/2014
+------------------------------------------------------------------------
+
+Case 140: 9/11/2014 dict=PWG, L=47183, hw=pRSTamAMsAdana, user=gasyoun
+old = pRSTamAMsAdana
+new = pRSThamAMsAdana
+status =  Corrected 9/12/2014
+------------------------------------------------------------------------
+
+Case 139: 9/11/2014 dict=PWG, L=63401, hw=anardhyarAghava, user=gasyoun
+old = anardhyarAghava
+new = anarghyarAghava
+status =  Cprrected 9/12/2014
+------------------------------------------------------------------------
+
+Case 136: 9/11/2014 dict=PWG, L=54741, hw=bhAvArthadIpiphA, user=gasyoun
+old = bhAvArthadIpiphA
+new = bhAvArthadIpikA
+status =  Corrected 9/12/2014. Scan error
+------------------------------------------------------------------------
+
+Case 54: 4/27/2014 dict=PWG, L=57965, hw=marman, user=gasyoun
+old = Man zählt deren  107 NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.
+new = Man zählt deren 107
+comment = "107" should not be grey as part of the bibliographical reference (NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.), it is part of the quote.
+status =  Corrected 7/14/2014
+------------------------------------------------------------------------
+

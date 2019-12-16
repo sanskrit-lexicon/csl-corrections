@@ -1,0 +1,145 @@
+This file documents changes made to the digitization of CCS in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-30-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-25-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160
+contains details supporting these changes.
+These changes initiated by Marcis Gasuns
+L     : headword : old    : new     : comment
+28584 : strItva : strItva : strItva : f. -> n.  (headword ok)
+28649 : sTAvaratva : sTAvaratva : sTAvaratva : f. -> n.  (headword ok)
+29426 : hitopadeSa : hitopadeSa : hitopadeSa : f. -> m.  (headword ok)
+23640 : vESanta : vESanta : vESantA : 
+-----------------------------------------------------------------------
+01-28-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/201
+contains details supporting these changes.
+Dhaval Patel, Jim Funderburk
+L     : headword : old    : new     : comment
+26119 : saMntya : saMntya : santya : Print has M and n. Since CAE shows 'santya', use 'n'
+-----------------------------------------------------------------------
+04-04-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261
+contains details supporting these changes.
+Jim Funderburk
+L     : headword : old    : new     : comment
+185 : aGamazarRa : aGamazarRa : aGamarzaRa : 
+206 : aqgana : aqgana : aNgana : 
+354 : ataTi : a/taTi : a/tiTi : 
+997 : anUrAgin : anUrAgin : anurAgin : 
+3258 : uYcAvaca : uYcAvaca : uccAvaca : 
+3641 : uparartar : uparartar : upahartar : 
+3554 : upradrava : upradrava : upadrava : 
+4094 : Evareyin : Evareyin : Etareyin : 
+5135 : kalmala : kalmala : kulmala : 
+4609 : kasmAd : ka/smAd : ka/smAt : 
+5464 : kotukaguha : kotukaguha : kOtukagfha : 
+6073 : gadaBa : gadaBa : gardaBa/ : 
+6012 : ganta : ga/nta : ga/ntu : 
+11439 : cadInATa : cadInATa : nadInATa : 
+6956 : cAndAyaRa : cAndAyaRa : cAndrAyaRa : 
+7122 : cumbu : cumbu : cumb : cae has 'cumb'. ? Not sure if final 'u' could be a verb anubanDa. : ejf: Corrected 04/05/2016
+17864 : taRqUkapluti : taRqUkapluti : maRqUkapluti : 
+8407 : tAtfpARa : tAtfpARa : tAtfzARa : cf. mw. Participle of tfp (= tarp in ccs) : ejf: Corrected 04/05/2016
+8754 : tuRIra : tuRIra : tURIra : cf. MW : ejf: Corrected 04/05/2016
+9694 : diNganAga : diNganAga : diNnAga : cf. mw : ejf: Corrected 04/05/2016
+9695 : diNganATa : diNganATa : diNnATa : cf. mw : ejf: Corrected 04/05/2016
+29856 : draDIyaMs : draDIyaMs : draQIyaMs : supplement. Also draDizWa -> draQizWa in entry : ejf: Corrected 04/05/2016
+11081 : DArADiruWa : DArADiruWa : DArADirUQa : text has rUWa, but CAE, MW, etc have rUQa : ejf: Corrected 04/05/2016
+12151 : nidavaDi : nidavaDi : niravaDi : 
+12126 : nirantarokaRWA : nirantarokaRWA : nirantarotkaRWA : cf. cae, mw : ejf: Corrected 04/05/2016
+12738 : nUnaB : nUnaB : nUnam : B->m : ejf: Corrected 04/05/2016
+13189 : paktorRa : paktorRa : pattrorRa : text missing 'r'. pakt is typo : ejf: Corrected 04/05/2016
+15541 : patyutTAna : patyutTAna : pratyutTAna : print missing 'r' : ejf: Corrected 04/05/2016
+15548 : patyupahAra : patyupahAra : pratyupahAra : print missing 'r' : ejf: Corrected 04/05/2016
+15283 : pratvikramaRa : pratvikra/maRa : pratikra/maRa : scan has pratvikramaRa : ejf: Corrected 04/05/2016
+16681 : bAlarAmAyARa : bAlarAmAyARa : bAlarAmAyaRa : cf acc, mw, pw,pwg : ejf: Corrected 04/05/2016
+16730 : bAhUbAhAvi : bAhUbAhAvi : bAhUbAhavi : cf cae, mw, etc. : ejf: Corrected 04/05/2016
+17019 : brahmopanizada : brahmopanizada : brahmopanizad : cf acc, mw, etc. : ejf: Corrected 04/05/2016
+18674 : manayitavya : manayitavya : mAnayitavya : cf. cae, mw, etc. : ejf: Corrected 04/05/2016
+19514 : yatrodBata : yatrodBata : yatrodBUta : cf. cae, mw : ejf: Corrected 04/05/2016
+20670 : romararza : romararza : romaharza : 
+21859 : vAtopaSfzwa : vAtopaSfzwa : vAtopaspfzwa : cf. cae, and mw/pw vAtopasfzwa ? : ejf: Corrected 04/05/2016
+22291 : vivigIzA : vivigIzA : vijigIzA : 
+23672 : vOqra : vOqra : voqra : cf. cae. : ejf: Corrected 04/05/2016
+26694 : sammIlata : sammIlata : saMmIlita : 
+29003 : srargaloka : srarga/loka : svarga/loka : 
+29285 : harviryajYa : harviryajYa : haviryajYa : 
+-----------------------------------------------------------------------
+04-07-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264
+contains document references for these changes.
+Jim Funderburk
+L     : headword : old    : new     : comment
+5975 : gaRyasTala : gaRyasTala : gaRqasTala : cf. CAE
+7477 : jayADitya : jayADitya : jayAditya : cf. CAE, MW
+11306 : DvasakArin : DvasakArin : DvaMsakArin : Anusvara missing in print
+12567 : nizkicana : nizkicana : nizkiMcana : avagraha missing
+12707 : nIlapfzwa : nI/lapfzwa : nI/lapfzWa : cf. CAE, MW
+12835 : nEkavya : nEkavya : nEkatya : 
+13017 : paYcadaSat : pa/YcadaSat : pa/YcadaSan : 
+13145 : patanIta : patanIta : patanIya : Based on sense, and that oatanIta not in other dictionaries.
+13974 : pAYcaBOmika : pAYcaBOmika : pAYcaBOtika : cf. CAE
+18176 : madrajihva : madra/jihva : mandra/jihva : 
+18124 : mantArADana : mantArADana : mantrArADana : 
+18602 : mARavakra : mARavakra : mARavaka : 'r' is maybe print smudge
+19689 : yavasvin : yavasvi/n : yaSasvi/n : 
+21036 : lolokti : lolokti : lokokti : 
+22497 : viDaray : viDaray : viDuray : the 'u' diacritic missing on this bottom line
+23385 : vfzamanas : vf/zamanas : vf/zamaRas : cf. cae, mw for retroflex nasal
+24103 : Satruzah : Satruza/h : SatrUza/h : cf. cae, mw. Restores alphabetical order
+25747 : sakIrtana : sakIrtana : saMkIrtana : 
+25908 : sahomahant : saho/mahant : sato/mahant : Also mis-spelled in CAE
+27291 : sAtapana : sAtapana : sAntapana : cae, mw have sAMtapana.
+29081 : svAdizwa : svA/dizwa : svA/dizWa : mw, ap, etc. have 'W' as superl. of svAdu
+-----------------------------------------------------------------------
+04-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275
+contains document references for these changes.
+Jim Funderburk
+L     : headword : old    : new     : comment
+6610 : GArmAmbu : GArmAmbu : GarmAmbu : cf. PW, MW. Both cae and ccs have same mis-spelling
+9438 : daparja : daparja : darpaja : Also in cae
+10173 : dUradaSarna : dUradaSarna : dUradarSana : Also in cae
+11975 : nitedin : nitedi/n : nitod/in : 
+25276 : SrOtrasUtra : SrOtrasUtra : SrOtasUtra : also error in cae
+27907 : supratizwita : supratizwita : supratizWita : also error in cae
+28710 : snuzo : snuzo : snuzA : also error in cae
+-----------------------------------------------------------------------
+04-19-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290
+contains document references for these changes.
+Jim Funderburk
+L     : headword : old    : new     : comment
+2601 : Atmaboda : Atmaboda : AtmaboDa : cf mw, etc.
+3180 : INKa : INKa : INK : DAtu, missing virAma.
+5379 : kenezitopanizada : kenezitopanizada : kenezitopanizad : print missing virAma
+8725 : tuvizWama : tuvi/zWama : tuvi/zwama : presume 'zw' is correct, acc. to MW, PW
+11660 : nazwacezWa : nazwacezWa : nazwacezwa : 'cezwa' is word in cae and many others. Presume 'zW' is misprint
+12469 : nivedayitukAma : nivedayitukAma : nivedayizukAma : nivedayizu-kAma. nivedayizu is spelling in mw, pw and some other dictionaries. Presume 'itu' is misprint
+12478 : nivezwukAma : nivezwukAma : nivezwakAma : nivezwa from niviz; presume the 'wu' is misprint
+21274 : vanajyosnI : vanajyosnI : vanajyotsnI : vana-jyotsnI ; missing 't' presumed misprint
+22421 : vidyADaramahAcakravarnin : vidyADaramahAcakravarnin : vidyADaramahAcakravartin : cf MW, PW.
+28027 : suraBizWama : suraBi/zWama : suraBi/zwama : cf mw, pw.  presume 'zW' is misprint
+5014 : kulapa : kulapa : kutapa : alph. order, cf mw,pw
+-----------------------------------------------------------------------
+05-11-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L     : headword : old    : new     : comment
+29664 : hmas : hmas : hyas :  hm/hy (gestern, cf. pw.)
+----------------------------------------------------------------------
+09/12/2017
+ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old  : New : Comment
+16020 : pralhAda : pralhAda : prahlAda : 
+16021 : pralhAdana : pralhAdana : prahlAdana : 
+16022 : pralhAdin : pralhAdin : prahlAdin : 
+-----------------------------------------------------------------------

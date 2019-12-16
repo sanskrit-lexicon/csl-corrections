@@ -1,0 +1,81 @@
+
+This file documents changes made to the digitization of MW72 in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-22-2016.
+
+-----------------------------------------------------------------------
+11-22-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/320
+contains details supporting these changes.
+These changes initiated by Jim Funderburk.
+L code	Headword	Old 	New	Comment
+18416 : jala :   kańćaṭa  :  kaṅćaṭa  :  from guttural to palatal nasal
+23470 : DUpa :   kḷṛipta  :  klṛipta  :  lṛi is mw72 coding of vocalic 'l'
+486   : ajEqaka : aja-eḍeka : aja-eḍaka : 
+-----------------------------------------------------------------------
+11-30-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
+Jim Funderburk.
+L code	Headword	Old 	New	Comment
+10063 : Iq : īdāṅ : īḍāṅ : confirm VCP
+15593 : kfta : Kṛitoććhais : Kṛitoććais : from uććais 
+-----------------------------------------------------------------------
+12-01-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
+GitHub user SergeA
+L code	Headword	Old 	New	Comment
+20864 : tAvat : ćhobate : ćhobhate :
+17138 : garuqa : ḍānkita : ḍāńkita :
+17456 : guRa : guṇaih : guṇaiḥ :
+-----------------------------------------------------------------------
+12-02-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 308-310
+GitHub user SergeA
+L code	Headword	Old 	New	Comment
+21011 : tIrTa : dhvānksha : dhvāńksha : guttural nasal
+26992 : parama : Parameshṭhińa : Parameshṭhina : dental nasal
+11605 : upapOrRamAsam : paurnamāsi : paurṇamāsi : retroflex nasal
+-----------------------------------------------------------------------
+12-10-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 311-315
+GitHub user SergeA
+L code	Headword	Old 	New	Comment
+35975 : BrI : bhṛinīya : bhṛiṇīya 
+37865 : mfdu : Mṛidūtphala : Mṛidūtpala : confuses utphala for utpala "lotus"
+42070 : vAsizWa : lainga-purāṇa : laińga-purāṇa : dental nasal -> guttural
+40763 : loha :  Loha-śanku : Loha-śańku : dental nasal -> guttural
+12975 : om : vijayauńkārah : vijayauńkāraḥ : missing underdot final letter
+-----------------------------------------------------------------------
+12-13-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 316-318
+GitHub user SergeA
+L code	Headword	Old 	New	Comment
+45927 : vlI : vliṇāti : vlīnāti :
+47411 : SrI : Śrīmāla-māhātyma : Śrīmāla-māhātmya :
+25903 : nizad : śhī : shī : 
+----------------------------------------------------------------------
+09/12/2017
+ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old  : New : Comment
+48554 : saNgf : saNgf : saNgF : 
+-----------------------------------------------------------------------
+09/13/2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
+Technical note: These two corrections were actually made to the
+mw72 digitization in Jan 2015:
+  ref1: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/71
+  ref2: manualByLine02.txt
+However, they were not at that time identfied as print 'errors' ('changes').
+L code : Headword : Old  : New : Comment
+ 4881  : aBisaMkruD : aBisaMkruD : aBisaNkruD : enforce homorganic nasal consistency
+ 4884  : aBisaMkruS : aBisaMkruS : aBisaNkruS : enforce homorganic nasal consistency
+-----------------------------------------------------------------------
+03/14/2018
+ref: https://github.com/sanskrit-lexicon/Cologne/issues/215
+ejf
+L code : Headword : Old  : New : Comment
+3503   : apaSabda : Sanskṛit : Sanskrit : Not a Sanskrit word
+This change is made in about 120 instances.
+-----------------------------------------------------------------------
