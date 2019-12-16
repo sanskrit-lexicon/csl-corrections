@@ -59,3 +59,16 @@ Note: The following dictionaries xxx have material in dictionaries/xxx in
 * wil : chksort2.txt , factual_corrections.txt
 * yat : corrections_factual.txt
 
+## materials copied from Cologne server /php directory
+These are copied into a new 'app' directory of csl-corrections
+* all correction_form*.php and correction_form*.css files.
+  The main application entry point is app/correction_form.php
+* the correction_response directory.  This contains:
+  * cfr.tsv  Cumulative user-contributed correction form responses
+    The first one is dated 03/18/2014.
+  * cfr-yyyymmdd.tsv  individual daily correction form responses.
+    Since these are duplicated in cfr.tsv, the .gitignore for the
+    repository does not track them.  
+  * Three .zip files, containing snap-shots of cfr.tsv made in 2015, 2016, 2018.
+    Since git is now tracking everything, .gitignore has been modified
+    to ignore these.

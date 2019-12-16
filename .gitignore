@@ -2,3 +2,5 @@
 *~
 # Don't track 'temp' files
 temp*
+app/correction_response/cfr-*.tsv
+app/correction_response/*.zip
