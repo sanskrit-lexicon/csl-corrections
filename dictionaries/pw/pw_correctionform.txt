@@ -1,6 +1,82 @@
 Sanskrit Lexicon Correction Form History for PW
-As of July 22, 2019
-11776 correction records, with 0 PENDING
+As of December 17, 2019
+11787 correction records, with 11 PENDING
+
+Case 24537: 12/15/2019 dict=PW, L=5211, hw=antara, user=frank.ziesing
+old = — g) Zwischenzeit , Zeitraum Pañcat.183,3.  etasminnantare inzwischen , mittlerweile  39,16.43,21.45,2.  tasminnantare , atraāntare
+new = — g) Zwischenzeit , Zeitraum Pañcat.183,3.  etasminnantare inzwischen , mittlerweile  39,16.43,21.45,2.  tasminnantare , atrāntare
+comment = Typo: one "a" too much, wrong "atraāntare", correct "atrāntare"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24524: 11/26/2019 dict=PW, L= 87118, hw=mīl, user=frank.ziesing
+old = — Mit ud Caus. dass. LB — 1) (die Augen öffnen. unmīlita die Augen öffnend. 
+new = — Mit ud LB — 1) die Augen öffnen. unmīlita die Augen öffnend. 
+comment = Typo: delete "Caus. dass." and opening bracket "(die", put "die" in italics 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24519: 11/18/2019 dict=PW, L= 131499, hw=spṛhā, user=frank.ziesing
+old = Begehren , nach
+new = Begehren nach
+comment = Typo: there should be no comma between "Begehren" and "nach"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24479: 09/22/2019 dict=PW, L=79705, hw=bhās, user=frank.ziesing
+old = — Caus. erleuchten , erhellen. Mit prati Med. LB + mouse over "Med" results in tooltip "Medizin – medicine" 
+new = — Caus. erleuchten , erhellen.  LB [new line] — Mit prati Med. LB + mouse over "Med" could give tooltip like "Medium – ātmanepada"
+comment = Typo: A new line should be started for the new verbal prefix "prati". The tooltip for "Med" should be corrected 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24474: 09/15/2019 dict=PW, L=119017, hw=saṃdeha, user=frank.ziesing
+old = nasaṃdeḥ mitten im Satz und am Ende des Verses
+new = nasaṃdehaḥ mitten im Satz und am Ende des Verses
+comment = Typo wrong "nasaṃdeḥ", correct "nasaṃdehaḥ"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24470: 09/09/2019 dict=PW, L= 89316, hw=yaka , user=ferenc.ruzsa
+old = (f. yaka) 
+new = (f. yakā) 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24466: 08/26/2019 dict=PW, L=89765 , hw=yathā, user=frank.ziesing
+old = — 10) yathā yathā (einem tathā tathā oder aivaiva entsprechend)
+new = — 10) yathā yathā (einem tathā tathā oder evaiva entsprechend)
+comment = Typo wrong "aivaiva" correct "evaiva"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24462: 08/20/2019 dict=PW, L=68313, hw=puruṣārtha, user=frank.ziesing
+old = — a) die Angelegenheit — , des Ziel des Menschen
+new = — a) die Angelegenheit — , das Ziel des Menschen
+comment = Typo: it should be "das" and not "des" before "Ziel"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24460: 08/17/2019 dict=PW, L=78541 , hw=bhaj, user=frank.ziesing
+old = bhaj bhajāti , °te ābhaṅkta und ābhāṅkṣus P.  fehlerhaft für ābhākta und ābhākṣus
+new = bhaj bhajati , °te abhaṅkta und abhāṅkṣus BHĀG. P.  fehlerhaft für abhākta und abhākṣus
+comment = Typo: 5 times long ā where short a should be. Wrong "bhajāti" correct "bhajati", wrong "ābhaṅkta" correct "abhaṅkta", same with "ābhāṅkṣus" which should be "abhāṅkṣus", "ābhākta" should be "abhākta", "ābhākṣus" should be "abhākṣus" LB Additionally, looking at the scan, it seems that it is not a PĀṆINI citation but from Bhāgavata Purāṇa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24454: 08/05/2019 dict=PW, L= 118430, hw=sad, user=frank.ziesing
+old = — 10) in feindlicher Absicht auf Jmd losgehen. 
+new = — 10) [i]in feindlicher Absicht auf Jmd losgehen. [/i]
+comment = Typo: phrase should be in italics, as it is a translation and not a grammatical comment. P.s. you have to scroll down quite a bit to get there, it is under prefix ā + causative
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24442: 07/24/2019 dict=PW, L=43345, hw=jñānakanda, user=frank.ziesing
+old = jñānakanda m. N.pr. eines Schülers des Śaṃkavācāryā. 
+new = jñānakanda m. N.pr. eines Schülers des Śaṃkarācāryā. 
+comment = Typo: wrong "Śaṃkavācāryā", correct "Śaṃkarācāryā"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24440: 07/19/2019 dict=PW, L=122815, hw=saha , user=frank.ziesing
 old = — a) die Erde. In Verbindung mit lokadhātu bei den Buddhisten die Menschen bewohnte Welt

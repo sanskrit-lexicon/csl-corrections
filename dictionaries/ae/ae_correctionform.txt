@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for AE
-As of July 22, 2019
-91 correction records, with 0 PENDING
+As of December 17, 2019
+94 correction records, with 3 PENDING
+
+Case 24469: 09/06/2019 dict=AE, L= 11278, hw=Woman, user=sanaatani
+old = कुलांगमा
+new = कुलांगना. It is better to use the अनुनासिक of the कवर्ग - कुलाङ्गना। The svarAnunAsika (ं) is for अवर्गीयव्यञ्जनाः - संयम, संरम्भ, संलग्न, संवरण, संशय, संस्कार, संहार
+comment = Typo.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24448: 07/26/2019 dict=AE, L= 382, hw=Anhelation, user=sanaatani
+old = 
+new = 
+comment = None. A little while ago I wrongly suggested that it could be INHALATION. Pls ignore my suggestion. Anhelation is correct. Sorry for the inconvenience.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24447: 07/26/2019 dict=AE, L= 382, hw=Anhelation, user=sanaatani
+old = Is it inhalation?
+new = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24187: 06/01/2018 dict=AE, L=5874, hw=Join, user=sanaatani
 old = -er, s. तक्षकः, रथकारः, सूत्रधारः,  LB तष्टृ, m., तक्षन् m., काष्ठतक्ष् m., वर्धकिः  LB -ery, s. काष्टतक्षणं

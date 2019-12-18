@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History for STC
-As of July 22, 2019
-76 correction records, with 0 PENDING
+As of December 17, 2019
+80 correction records, with 4 PENDING
+
+Case 24509: 11/07/2019 dict=STC, L= 15705, hw=preS, user=Caujolle
+old = (2IṢ-) 
+new = (2 IṢ-) 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24494: 09/29/2019 dict=STC, L= 24206, hw=sva, user=Caujolle
+old = under svarūpa, "(gén. ifc. ; ifc. aussi ; qui a la forme de)"
+new = (gén. ifc. ; ifc. aussi : qui a la forme de)
+comment = Typo (the ":" had become ";" so we couldn't understand)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24485: 09/25/2019 dict=STC, L= 12787, hw=paJcama, user=Caujolle
+old =  m. (5(me,) puis 7me)
+new =  m. (5me, puis 7me)
+comment = encoding
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24444: 07/24/2019 dict=STC, L= 20894, hw=saMskR, user=Caujolle
+old = qui commencent. par k;) cf. samakarot saṃ-cakāra, etc. et v. saṃ-KṚ-)
+new = qui commencent par k; cf. sam-akarot, saṃ-cakāra, etc. et v. saṃ-KṚ-)
+comment = Typo (4 corrections (in excess, "." and  ")" , to add, "-" and "," ) ; note that the 4rd (,) was missing in the book). Note also that the abbreviation "cf." is not referenced (or maybe the abbreviations are not yet referenced in this dictionary, a pity as this one is more complete and reliable than the Burnouf one (one can noticed it has three authors (with Renou who is famous for his sanskrit grammar also) and is more recent, that explain why)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24438: 07/17/2019 dict=STC, L= 8130, hw=kula, user=Caujolle
 old = qui existent. dans chaque Varṣa. 
