@@ -164,7 +164,7 @@ if ($id != '?'){
  </label>
  </div>
 <textarea name="entry_old" rows="10" cols="30" class="ss-q-long" id="entry_old" dir="auto" aria-label="Old  The text that is wrong " readonly>
-<?php echo $txt; ?>
+<?php echo $txt;?>
 </textarea>
 
 <div class="error-message"></div>

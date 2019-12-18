@@ -26,12 +26,12 @@
  // Append 'out' to two files
  // (a) correction_response/cfr-yyyymmdd.tsv
  $filedate = date("Ymd");
- $fileout = "correction_response/cfr-$filedate.tsv";
- $fp = fopen($fileout,"a");
- fwrite($fp,"$out\n");
- fclose($fp);
+ //$fileout = "correction_response/cfr-$filedate.tsv";
+ //$fp = fopen($fileout,"a");
+ //fwrite($fp,"$out\n");
+ //fclose($fp);
  // (b) correction_response/cfr.tsv
- $fileout = "correction_response/cfr.tsv";
+ $fileout = "correction_response/cfr1.tsv";
  $fp = fopen($fileout,"a");
  fwrite($fp,"$out\n");
  fclose($fp);
