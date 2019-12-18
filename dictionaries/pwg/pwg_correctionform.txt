@@ -1,6 +1,36 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of July 22, 2019
-200 correction records, with 0 PENDING
+As of December 17, 2019
+205 correction records, with 5 PENDING
+
+Case 24526: 11/27/2019 dict=PWG, L= 35439, hw=droNa, user=h.c.jahr
+old = Trag
+new = Trog
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24459: 08/13/2019 dict=PWG, L= 19764, hw=kram, user=h.c.jahr
+old = parastAdarvAGkamate
+new = parastAdarvAGkramate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24458: 08/13/2019 dict=PWG, L= 101905, hw=zreyaMs, user=h.c.jahr
+old = aufgefuhrte
+new = aufgeführte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24457: 08/13/2019 dict=PWG, L= 102723, hw=sa, user=h.c.jahr
+old = Venbindung
+new = Verbindung
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24456: 08/13/2019 dict=PWG, L= 102722, hw=sa, user=h.c.jahr
+old = Ver Consonanten
+new = Vor Consonanten
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24431: 07/01/2019 dict=PWG, L= 59390, hw=mA, user=h.c.jahr
 old = zuneist in verbeitenden

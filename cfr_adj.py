@@ -9,7 +9,12 @@ funderburkjim@gmail.com Oct 18, 2014: Use 'dictionaries' subdirectory.
  Jul 18, 2015  Sort records by time, since Google doesn't append
    new records from Correction form to the end.
  Aug 2, 2015  Correct construction of sorttime.
+ Dec 17, 2019 python3 compatible
+ Dec 17, 2019 check_for_new function. Thus, if no new corrections for
+    a given dictionary xxx, then dictionaries/xxx/xxx_correctionform.txt is
+    not changed.
 """
+from __future__ import print_function
 import re,sys,os
 import codecs
 
@@ -24,9 +29,9 @@ class CFR(object):
   self.line = line
   self.n = n
   if len(parts)!= 8:
-   print "# of tab-parts should be 8, but is",len(parts)
+   print("# of tab-parts should be 8, but is",len(parts))
    out = "Error 1 for line %s:\n%s" %(n,line)
-   print out.encode('utf-8')
+   print(out.encode('utf-8'))
    exit(1)
   self.time = oneline(parts[0])
   # Jul 18, 2015 - Generate a sortable timefield
@@ -43,9 +48,9 @@ class CFR(object):
    self.sorttime = "%4d%02d%02d-%02d%02d%02d-%06d" %(yyyy,mm,dd,h,m,s,n)
   except:
    if n != 1:
-    print "ERROR time='%s'" % self.time
-    print n,line.encode('utf-8')
-    print re.split(r'[/: ]',self.time)
+    print("ERROR time='%s'" % self.time)
+    print(n,line.encode('utf-8'))
+    print(re.split(r'[/: ]',self.time))
     exit()
    else: # case n=1
     (mm,dd,yyyy,h,m,s) = (0,0,0,0,0,0)
@@ -61,9 +66,9 @@ class CFR(object):
   self.new = oneline(parts[5])
   self.comment = oneline(parts[6])
   email = oneline(parts[7])
-  self.email = email
+  self.email = email.rstrip()
   eparts = email.split(r':')
-  if eparts >= 2:
+  if len(eparts) >= 2:
    self.user = eparts[0]
    self.status = ':'.join(eparts[1:])
   else:
@@ -116,7 +121,7 @@ def generate_output(dcode,filename,recs):
  nfound = 0
  # recs is in ascending order of sorttime.  Read array backwards
  # so new data at the top.
- for i in xrange(m-1,-1,-1):
+ for i in range(m-1,-1,-1):
   rec = recs[i]
   if not (dcode in ['ALL',rec.dict]):
    continue
@@ -132,18 +137,63 @@ def generate_output(dcode,filename,recs):
  if dcode == "ALL":
   fileout = filename
  else:
-  dir = "%s/%s" %("dictionaries",dcode)
-  fileout = "%s/%s_%s" %(dir,dcode,filename)
+  dir = "%s/%s" %("dictionaries",dcode.lower())
+  # example: dcode = MW. filename = correctionform.txt
+  # fileout = dictionaries/mw_correctionform.txt
+  fileout = "%s/%s_%s" %(dir,dcode.lower(),filename)
   if not os.path.isdir(dir):
    if os.path.exists(dir):
-    print "ERROR: %s exists, but is not a directory" % dir
+    print("ERROR: %s exists, but is not a directory" % dir)
     exit(1)
-   os.mkdir(dir,0755)
- fout = codecs.open(fileout,'w','utf-8')
- for out in allarr:
-  fout.write("%s\n" % out)
- fout.close()
+   print('ERROR: Missing directory',dir)
+   exit(1)
+   #os.mkdir(dir,0755)
+ if dcode != 'ALL':
+  write_flag = check_for_new(allarr,fileout)
+ else: # always rewrite the global correctionform.txt file
+  write_flag = True
+ if write_flag:
+  print('rewriting',fileout,'(',npending,'pending )')
+  fout = codecs.open(fileout,'w','utf-8')
+  for out in allarr:
+   fout.write("%s\n" % out)
+  fout.close()
+  #if dcode != 'ALL':
+  # print('debug exit')
+  # exit(1)
+ else:
+  #print('No need to rewrite',fileout)
+  pass
  return npending
+
+def check_for_new(allarr,fileout):
+ """ returns flag indicating whether there is new
+     information in allarr
+ """
+ if not os.path.exists(fileout):
+  return True  # we need to rewrite this file
+ # fileout exists.  Get its lines
+ with codecs.open(fileout,"r","utf-8") as f:
+  lines = [x.rstrip() for x in f]
+ # compare allarr with lines
+ if len(allarr) != len(lines):
+  return True  
+ # same number of lines.  Probably no new info
+ # the 2nd line 'As of MONTH DD, yyyy' This will differ.
+ # but we expect other lines to be the same
+ rewrite = False
+ ndiff = 0
+ for i,line in enumerate(lines):
+  new = allarr[i]
+  if i == 1:
+   continue # 2nd line
+  if new.rstrip() != line.rstrip():
+   ndiff = ndiff + 1
+   rewrite = True
+   #print('old ',i+1,line.encode('utf-8'))
+   #print('new ',i+1,new.encode('utf-8'))
+ #print(ndiff,'differences in',fileout)
+ return rewrite
 
 def adjust(filein,fileout):
  f = codecs.open(filein,'r','utf-8')
@@ -167,7 +217,7 @@ def adjust(filein,fileout):
  # sort recsin in order of sorttime
  recs=sorted(recsin,key = lambda rec:rec.sorttime)
  # change 'n' based on sort order
- for j in xrange(0,len(recs)):
+ for j in range(0,len(recs)):
   rec = recs[j]
   out = "%s,%s,%s" %(rec.sorttime,rec.n,rec.lnum)
   rec.case = rec.n  # new
@@ -178,22 +228,21 @@ def adjust(filein,fileout):
   "MCI","YAT","MWE","INM","IEG","PE","ACC","BOP","KRM"]
 
  npending = generate_output("ALL",fileout,recs)
- print n,"lines read from",filein
- print npending,"cases are pending"
- #print "dbg exiting early"
+ print(n,"lines read from",filein)
+ print(npending,"cases are pending")
  for d in dictmap:
   d = d.upper() # Jan 25, 2017
   if d not in knowndicts:
    out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
-   print out.encode('utf-8')
+   print(out.encode('utf-8'))
    m = len(recs)
-   print "DBG: m=",m
-   for i in xrange(0,m):
+   print("DBG: m=",m)
+   for i in range(0,m):
     rec = recs[i]
     if rec.dict == d:
      outar=outputrec(rec,i)
      for out in outar:
-      print out.encode('utf-8')
+      print(out.encode('utf-8'))
   else:
    generate_output(d,fileout,recs)
 
