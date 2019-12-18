@@ -1,45 +1,45 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of December 17, 2019
-1139 correction records, with 6 PENDING
+As of December 18, 2019
+1139 correction records, with 0 PENDING
 
 Case 24534: 12/05/2019 dict=WIL, L= 35064, hw=विद्, user=tvitaly1
 old =  विट् to know
 new = विद् to know
 comment = विट्
-status = PENDING
+status = Corrected 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24533: 12/05/2019 dict=WIL, L= 35063, hw=विद, user=tvitaly1
 old = वेदे) To know.
 new = वेदि) To know.
 comment = वेदे
-status = PENDING
+status = Corrected 12/18/2019   
 ------------------------------------------------------------------------
 
 Case 24530: 11/30/2019 dict=WIL, L= , hw=, user=
 old = Yoga
 new = 
-status = PENDING
+status = Not enough information, 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24529: 11/30/2019 dict=WIL, L= , hw=, user=
 old = Yoga
 new = 
-status = PENDING
+status = Not enough information, 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24522: 11/20/2019 dict=WIL, L= ?, hw=विद, user=Vitaly tvitaly1
 old = विद r. 2nd cl. (वेत्ति वेदे)
 new = विद r. 2nd cl. (वेत्ति वेदि)
 comment = वेदे
-status = PENDING
+status = Corrected 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24517: 11/18/2019 dict=WIL, L=?, hw=विद, user=Vitaly tvitaly1
 old = विद r. 2nd cl. (वेत्ति वेदे - It's not correct, Wilson (Н.Н. Wilson, A Dictionary in Sanskrit and English, 2nd ed., Calcutta 1832) spelled it like this:वेदि) 
 new = विद r. 2nd cl. (वेत्ति वेदि) 
 comment = विद r. 2nd cl. (वेत्ति वेदे) bad for  वेदे | विद r. 2nd cl. (वेत्ति वेदि) correctly वेदि
-status = PENDING
+status = Corrected 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24414: 05/20/2019 dict=WIL, L= 1292, hw=anasūyu, user=czhao
