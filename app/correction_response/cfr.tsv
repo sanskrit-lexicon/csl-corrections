@@ -24454,10 +24454,10 @@
 08/04/2019 18:32:18	mw	 147486.1	ब्रुड् 			Typo	
 08/05/2019 20:09:32	PW	 118430	sad	— 10) in feindlicher Absicht auf Jmd losgehen. 	— 10) [i]in feindlicher Absicht auf Jmd losgehen. [/i]	Typo: phrase should be in italics, as it is a translation and not a grammatical comment. P.s. you have to scroll down quite a bit to get there, it is under prefix ā + causative	frank.ziesing@web.de
 08/08/2019 16:59:47	SKD	 21935	पुरातनः	ष्ट्युस्तुट्	ट्युस्तुट्	Typo. This issue is elaborated in https://github.com/sanskrit-lexicon/SKD/issues/7	chandrasekharanr@gmail.com
-08/13/2019 18:58:10	PWG	 102722	sa	Ver Consonanten	Vor Consonanten	Typo	h.c.jahr@gmx.de
-08/13/2019 18:59:44	PWG	 102723	sa	Venbindung	Verbindung	Typo	h.c.jahr@gmx.de
-08/13/2019 19:04:59	PWG	 101905	zreyaMs	aufgefuhrte	aufgeführte	Typo	h.c.jahr@gmx.de
-08/13/2019 19:10:04	PWG	 19764	kram	parastAdarvAGkamate	parastAdarvAGkramate	Typo	h.c.jahr@gmx.de
+08/13/2019 18:58:10	PWG	 102722	sa	Ver Consonanten	Vor Consonanten	Typo	h.c.jahr@gmx.de:Corrected 12/18/2019
+08/13/2019 18:59:44	PWG	 102723	sa	Venbindung	Verbindung	Typo	h.c.jahr@gmx.de:Corrected 12/18/2019
+08/13/2019 19:04:59	PWG	 101905	zreyaMs	aufgefuhrte	aufgeführte	Typo	h.c.jahr@gmx.de:Corrected 12/18/2019 (print change)
+08/13/2019 19:10:04	PWG	 19764	kram	parastAdarvAGkamate	parastAdarvAGkramate	Typo	h.c.jahr@gmx.de:Corrected 12/18/2019
 08/17/2019 17:22:33	PW	78541 	bhaj	bhaj bhajāti , °te ābhaṅkta und ābhāṅkṣus P.  fehlerhaft für ābhākta und ābhākṣus	bhaj bhajati , °te abhaṅkta und abhāṅkṣus BHĀG. P.  fehlerhaft für abhākta und abhākṣus	Typo: 5 times long ā where short a should be. Wrong "bhajāti" correct "bhajati", wrong "ābhaṅkta" correct "abhaṅkta", same with "ābhāṅkṣus" which should be "abhāṅkṣus", "ābhākta" should be "abhākta", "ābhākṣus" should be "abhākṣus" LB Additionally, looking at the scan, it seems that it is not a PĀṆINI citation but from Bhāgavata Purāṇa	frank.ziesing@web.de
 08/20/2019 00:17:17	mw	 62541	gaNakarNikA	<bot>Cucumis</bot> coloquinthida,	<bot>Cucumis coloquinthida</bot>,	markup	ejf
 08/20/2019 09:28:02	PW	68313	puruṣārtha	— a) die Angelegenheit — , des Ziel des Menschen	— a) die Angelegenheit — , das Ziel des Menschen	Typo: it should be "das" and not "des" before "Ziel"	frank.ziesing@web.de
@@ -24524,7 +24524,7 @@
 11/21/2019 02:00:22	MW	 194107	viklRp	Second attempt: I made a mistake on the first: let me try again: The citation searched for was "viklRp", produces headword "vikḷp" and the first (H1) entry is "vi-√ kḷp". The search for "vikLp", on the other hand, returns no match.	After looking at MW's "Dictionary of Nagari order" facing page 1: the headword IS incorrect AND there should be no match to it when the citation entered is "vikLp". Furthermore, MW pg 955,1 shows indeed devanagari for "viklṛp" and the MW's first entry is actually "vi-√ klṛp", and that root √ klṛp is indeed found on MW pg 308 column 2. So then, only citation for "viklRp" should match. The medial form of the letter under the "k" stands for "lṛ" (or in his terminology "lṛi" as in revelry (revelṛi).	Typo or mismatch from MW's designation of "lṛi" instead of every other grammarians designation of "ḷi" for the same nagari letter after "ṛī".	jimgknga@zoho.com
 11/26/2019 10:27:29	PW	 87118	mīl	— Mit ud Caus. dass. LB — 1) (die Augen öffnen. unmīlita die Augen öffnend. 	— Mit ud LB — 1) die Augen öffnen. unmīlita die Augen öffnend. 	Typo: delete "Caus. dass." and opening bracket "(die", put "die" in italics 	frank.ziesing@web.de
 11/27/2019 09:30:46	AP90	 25341	वाच्	वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तमे 	वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये   (last char only)	Typo	hrmndrsingh@gmail.com
-11/27/2019 17:17:27	PWG	 35439	droNa	Trag	Trog	Typo	h.c.jahr@gmx.de
+11/27/2019 17:17:27	PWG	 35439	droNa	Trag	Trog	Typo	h.c.jahr@gmx.de:Corrected 12/18/2019
 11/30/2019 08:06:39	CCS	 5038	kup	 aürnen (Dat. o. Gen.); p.p. kupita erzurnt,	 zürnen (Dat. o. Gen.); p.p. kupita erzürnt,	Typo "aürnen" should be "zürnen", and "erzurnt" schould be "erzürnt"	frank.ziesing@web.de
 11/30/2019 11:53:22	MW	 42763.2	कथम्	with नु it is sometimes = किमु	with नु it is sometimes = किम्	Typo	
 11/30/2019 19:37:33	WIL	 		Yoga		Typo	:Not enough information, 12/18/2019
