@@ -161,6 +161,8 @@ def generate_output(dcode,filename,recs):
   #if dcode != 'ALL':
   # print('debug exit')
   # exit(1)
+ elif npending != 0:
+  print(fileout,'(',npending,'pending )')
  else:
   #print('No need to rewrite',fileout)
   pass
