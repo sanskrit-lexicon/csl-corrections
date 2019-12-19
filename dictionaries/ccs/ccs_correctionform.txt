@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of December 17, 2019
-2231 correction records, with 2 PENDING
+As of December 19, 2019
+2231 correction records, with 0 PENDING
 
 Case 24527: 11/30/2019 dict=CCS, L= 5038, hw=kup, user=frank.ziesing
 old =  aürnen (Dat. o. Gen.); p.p. kupita erzurnt,
 new =  zürnen (Dat. o. Gen.); p.p. kupita erzürnt,
 comment = Typo "aürnen" should be "zürnen", and "erzurnt" schould be "erzürnt"
-status = PENDING
+status =  Corrected 12/19/2019
 ------------------------------------------------------------------------
 
 Case 24518: 11/18/2019 dict=CCS, L= 11126, hw=dhī, user=frank.ziesing
 old = einsicht
 new = Einsicht
 comment = Typo: a capital "E" should be used (as the word is a noun and German nouns start with uppercase letters).
-status = PENDING
+status = Corrected 12/19/2019
 ------------------------------------------------------------------------
 
 Case 24439: 07/18/2019 dict=CCS, L= 4057, hw=eva, user=frank.ziesing
