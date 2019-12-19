@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of December 17, 2019
-704 correction records, with 11 PENDING
+As of December 19, 2019
+704 correction records, with 10 PENDING
 
 Case 24493: 09/29/2019 dict=BUR, L= 11471, hw=pracodayāmi, user=Caujolle
 old = pousser qqn. à qqc., d.
 new = here, the qqc. abbreviation is not referenced (it seems that when a coma is just after the full stop of an abbreviation, the abbreviations are not referenced). 
 comment = There is also: pracodinī f. solanum jacquini, bot. where "bot." is not referenced. I see also same problem at entry "pracaṇḍamūrti" (id 11456); now i see that all the bot. are not referenced (a deliberate choice? It is maybe not so important one understand quite easely that it is the name of a plante and so that bot. means botanique (botanical). Regards
-status = PENDING
+status = Corrected 12/19/2019
 ------------------------------------------------------------------------
 
 Case 24492: 09/29/2019 dict=BUR, L= 11462, hw=pracinomi, user=C.
