@@ -1,37 +1,38 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 17, 2019
-1229 correction records, with 29 PENDING
+As of December 19, 2019
+1229 correction records, with 21 PENDING
 
 Case 24541: 12/17/2019 dict=MW, L= , hw=maatR^ikaa, user=
 old = 
 new = 
-status = PENDING
+status = Not enough information
 ------------------------------------------------------------------------
 
 Case 24540: 12/17/2019 dict=MW, L= 260415, hw=हथ, user=sanaatani
 old = हठ
 new = In Printed book page 1287,3 it is scripted Haṭha. Notice the diacritic mark of the letter ṭ.
 comment = Typo. Not infrequently I have encountered words that are present in MW but not in Apte. So I go about seeking clarification from my knowledgeable friends. That is how I learnt about हथ
-status = PENDING
+status = No correction needed.
 ------------------------------------------------------------------------
 
 Case 24536: 12/09/2019 dict=MW, L= 38784, hw=वर्षीयस्, user=bathalaramana
 old = compar. of व्रिद्ध
 new = compar. of वृद्ध
 comment = Transliteral
-status = PENDING
+status = Corrected on 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24535: 12/07/2019 dict=MW, L= 149160, hw=bhavānī, user=colin_kenney
 old = (fr. bhava; cf. iṅdrāṇī, rudraṇī, śarvāṇī and, Pāṇ. 4-1, 49 )
 new = (fr. bhava; cf. indrāṇī, rudrāṇī, śarvāṇī and, Pāṇ. 4-1, 49 )
 comment = Typo — "iṅdrāṇī" should be "indrāṇī", and "rudraṇī" should be "rudrāṇī".
-status = PENDING
+status = Corrected 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24532: 12/05/2019 dict=MW, L= , hw=naidAnika, user=
 old = 
 new = 
+comment = Typo:Not enough information
 status = PENDING
 ------------------------------------------------------------------------
 
@@ -58,28 +59,28 @@ status = PENDING
 Case 24516: 11/17/2019 dict=MW, L=96777.1, hw=dairghya, user=samm3
 old = dirgha
 new = dīrgha
-status = PENDING
+status = Corrected 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24515: 11/16/2019 dict=MW, L=14567, hw=अम्भस्, user=youngsinn.sohn
 old = fruit fulness, VS
 new = fruitfulness, VS
 comment = digitizing error
-status = PENDING
+status = Corrected 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24513: 11/15/2019 dict=MW, L=161686, hw=mA, user=geymonat
 old = ripur ayam mAjAyatAm + mAtvAM zapsye + mAjIvanyo duHkhadagdho jIvati + 
 new = ripur ayam mA jAyatAm + mA tvAM zapsye + mA jIvan yo duHkhadagdho jIvati + maIvam prArthyam
 comment = Typo: spaces should be restored between: 1) mA and  jAyatAm; 2) mA and tvAM; 3) mA and jIvan and yo; 4) maivam and prArthyam
-status = PENDING
+status = Corrected 12/18/2019
 ------------------------------------------------------------------------
 
 Case 24508: 11/04/2019 dict=MW, L= 63348, hw=gabhastipūta, user=pvstiles
 old = just wanted to add a further attestation, in case of interest
 new = TS I 4,2 
 comment = omission? 
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 24502: 10/27/2019 dict=MW, L= , hw=gam, user=
