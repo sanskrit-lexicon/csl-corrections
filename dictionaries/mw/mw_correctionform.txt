@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 19, 2019
-1229 correction records, with 21 PENDING
+As of December 20, 2019
+1229 correction records, with 11 PENDING
 
 Case 24541: 12/17/2019 dict=MW, L= , hw=maatR^ikaa, user=
 old = 
@@ -86,7 +86,7 @@ status = No change required.
 Case 24502: 10/27/2019 dict=MW, L= , hw=gam, user=
 old = 
 new = 
-status = PENDING
+status = Not enough information.
 ------------------------------------------------------------------------
 
 Case 24500: 10/15/2019 dict=MW, L=140826, hw=preman, user=geymonat
@@ -99,13 +99,13 @@ status = PENDING
 Case 24499: 10/15/2019 dict=MW, L= , hw=सासष्यते, user=bettadarasa
 old = सासह्यते instead of सासष्यते
 new = सासह्यते
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24498: 10/15/2019 dict=MW, L= , hw=असहिस्यत्, user=bettadarasa
 old = असहिष्यत् instead of असहिस्यत्
 new = 
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24497: 10/09/2019 dict=MW, L=26705 , hw=ālabh, user=
@@ -117,7 +117,7 @@ status = PENDING
 Case 24496: 10/08/2019 dict=MW, L=162924, hw= mānasa, user=samm3
 old = śārīrā
 new = śārīra
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24495: 09/30/2019 dict=MW, L= , hw=Samādhi, user=
@@ -137,26 +137,26 @@ Case 24487: 09/27/2019 dict=MW, L= 157985, hw=maya, user=samm3
 old = MW's contents concerning the word 'maya' seem to lack an important meaning, that is, ‘made of,’ ‘consisting or composed of'. 
 new = Cf. Apte Practical Sanskrit-English :  LB "maya :  a. (yī f.) An affix used to indicate ‘made of,’ ‘consisting or composed of,’ ‘full of’: kanakamaya, kāṣṭhamaya, tejomaya, jalamaya &c."  LB Is there any reason for the lack in MW ? LB Because in the word 'maya' that is a necessary meaning, it is necessary to supply the lack.     LB 
 comment = (the lack of the content)
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 24481: 09/23/2019 dict=MW, L=161686, hw=mA, user=geymonat
 old = ... ; exceptionally also with the Ind. of the aor. e.g., mA, kAlas tvAm aty-agAt, may not the season pass by thee, 
 new =  ; exceptionally also with the Ind. of the aor. e.g., mA kAlas tvAm aty-agAt, may not the season pass by thee, 
 comment = Typo: the comma after mA should be removed
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24478: 09/22/2019 dict=MW, L= 86231.1, hw=tuvigra, user=Caujolle
 old = fr. √ 2. grī
 new = fr. √ 2. gṝ  (gRR)
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24475: 09/19/2019 dict=MW, L= , hw=zazAGka, user=das.jiva
 old = Found this entry (missing in the new edition, found in the old.one. 
 new = m. `" hare-marked "' , the moon MBh. Ka1v. &c. ; camphor L. ; N. of a king Hcar. Sch. ; %{-kAnta} mfn. lovely as the mñmoon Jain. ; %{-kiraNa-prakhya} mfn. resembling a ray of the moon MBh. ; %{-kula} n. the lunar race Katha1s. ; %{ja} or %{-tanaya} m. `" the moon's son "' , the planet Mercury VarBr2S. ; %{-dhara} m. N. of a grammarian Cat. ; %{-pura} n. N. of a town (also %{-pUrvam@puram}) Katha1s. ; %{-bimba} n. n. the disk of the moon Jain. ; %{-bhAs} mfn. shining like the moon MW. ; %{-mukuTa} m. `" having the moon as diadem "'N. of S3iva Katha1s. ; %{-mUrti} m. `" having a hare-marked form "'N. of the moon MW. ; %{-lekhA} f. `" mñmoon-streak "' , the lunar crescent S3ak. ; %{-vatI} f. N. of a princess (after whom the 12th Lambaka of the Katha1-sarit-sa1gara is called) Katha1s. ; %{-vadanA} f. a moon-faced woman Ka1vya7d. ; %{-zatru} m. `" moon's foe "'N. of Ra1hu VarYogay. ; %{-zRGga} n. a horn or point of the moon's crescent (?) MW. [1060,2] ; %{-zekhara} m. `" moon-crested "'N. of S3iva BhP. ; %{-suta} m. (= %{zazA7Gka-ja}) VarBr2. ; %{-kA7rdha} m. the half-mñmoon ; %{-kA7rdha-mukha} mfn. having a head shaped like a half-mñmoon (said of an arrow) Ragh. ; %{-kA7rdhazekhara} m. N. of S3iva Ra1jat. ; %{-ko7pala} m. a kind of precious stone (= %{candra-kAnta})
-status = PENDING
+status = No correction required.
 ------------------------------------------------------------------------
 
 Case 24467: 09/01/2019 dict=MW, L= p= 215,2, hw=उपे, user=zaaf2
@@ -175,14 +175,14 @@ status = PENDING
 Case 24451: 07/31/2019 dict=MW, L= [p= 860,3], hw=रच्, user=zaaf2
 old = with चिङ्ताम्, or चिन्ताः
 new = with चिन्ताम्, or चिन्ताः
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24443: 07/24/2019 dict=MW, L= 197590, hw=vipad, user=geymonat
 old = ..., come to nought, perish die, ṢaḍvBr. ; MBh.  &c.:
 new = ..., come to nought, perish, die, ṢaḍvBr. ; MBh.  &c.:
 comment = Typo: a comma is missing between "perish" and "die" (perish, die). [such a major mistake!]
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24441: 07/21/2019 dict=MW, L= 141468, hw=plu, user=
