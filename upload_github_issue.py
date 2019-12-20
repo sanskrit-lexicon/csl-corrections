@@ -19,16 +19,14 @@ def read_pending_entries(tsvfile, lastcfrline):
 		if counter <= lst:
 			pass
 		elif not ':' in entry[-1]:
-			if len(entry) == 8:
-				date = entry[0]
-				dictionary = entry[1].lower()
-				lnum = entry[2].lstrip().rstrip()
-				headword = entry[3]
-				old = entry[4]
-				new = entry[5]
-				comment = entry[6]
-				email = entry[7]
-				result.append({'body': 'date:\t' + date + '\n' + 'dict:\t' + dictionary + '\n' + 'Lnum:\t'+ lnum + '\n' + 'hw:\t'+ headword + '\n' + 'old:\t' + old + '\n' + 'new:\t' + new + '\n' + 'comm:\t' + comment + '\n' + 'email:\t'+ email, 'title': dictionary + ':' + lnum})
+			date = entry[0]
+			dictionary = entry[1].lower()
+			lnum = entry[2].lstrip().rstrip()
+			headword = entry[3]
+			old = entry[4]
+			new = entry[5]
+			comment = entry[6]
+			result.append({'body': 'date:\t' + date + '\n' + 'dict:\t' + dictionary + '\n' + 'Lnum:\t'+ lnum + '\n' + 'hw:\t'+ headword + '\n' + 'old:\t' + old + '\n' + 'new:\t' + new + '\n' + 'comm:\t' + comment, 'title': dictionary + ':' + lnum})
 		counter += 1
 	codecs.open(lastcfrline, 'w', 'utf-8').write(str(counter))
 	return result
