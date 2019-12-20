@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of December 19, 2019
-704 correction records, with 10 PENDING
+As of December 20, 2019
+704 correction records, with 0 PENDING
 
 Case 24493: 09/29/2019 dict=BUR, L= 11471, hw=pracodayāmi, user=Caujolle
 old = pousser qqn. à qqc., d.
@@ -12,66 +12,66 @@ status = Corrected 12/19/2019
 Case 24492: 09/29/2019 dict=BUR, L= 11462, hw=pracinomi, user=C.
 old = — Pp. pracita comble, plein.
 new = Pp. is not referenced (again a problem with the capital i guess)
-status = PENDING
+status = Corrected 12/20/2019 as <ab>Pp.</ab> 282 cases. Also change burab_input.txt
 ------------------------------------------------------------------------
 
 Case 24491: 09/29/2019 dict=BUR, L= 8975, hw=devana, user=Caujolle
 old = 2 problems: M. F. N. are not referenced as abbreviations (masculin, féminin, neutre) and dés. is wrongly referenced; actually here it is the plural of the word word "dé"; i guess a rare case of ambiguity, I found three more occurences (look for "jeu de dés").
 new = 
-status = PENDING
+status = Corrected 12/20/2019 <ab>dés.</ab> ->dés 12 times meaning 'dice', not abbreviation for 'desiderative. 1600 M.F.N. -> <ab>M.</ab>, etc.
 ------------------------------------------------------------------------
 
 Case 24490: 09/28/2019 dict=BUR, L= 6629, hw=cit, user=Caujolle
 old =  il ne les aperśut pas; 
 new =  il ne les aperçut pas; 
 comment = The ś in sanskrit words were written ç, so in the process of changing those ç in ś, some French words were affected; that is, logically, all non italique words (that is, all French words) should not have any ś in them. I see also that the abbreviation "Actt. " is also here not referenced. I see that this abbreviation is not mentionned in the list, i think it means "activement". I see also that many abbreviations are still ignored by the software; for exemple see the word cira (7 occurences!) and ciraṇṭī for example. Regards,
-status = PENDING
+status = 12/20/2019 marked several thousand cases of abbreviations, with uppercase first letter. Will need to coordinate with burab_input.txt in csl-pywork/v02.
 ------------------------------------------------------------------------
 
 Case 24488: 09/27/2019 dict=BUR, L= 6914, hw=chettṛ, user=Caujolle
 old = fend ou tranche qqc., qui dissipe un doute, qui résoud und difficulté.
 new = the abbreviation qqc. (quelque chose) here is not referenced (maybe because a comma is after the dot?); note also that "résoud" is faulty, it should be "résout"; moreover it is "une" and not "und"
 comment = Typo and reference
-status = PENDING
+status = Corrected 12/20/2019. 'qqc.' not resolved.
 ------------------------------------------------------------------------
 
 Case 24484: 09/23/2019 dict=BUR, L= 2281, hw=AbhAs, user=Caujolle
 old = ābhāsvara m. Au pl. seult. les dieux du 12e ordre, Bd.  
 new = seult. is an abbreviation which has been forgotten in the list of the dict. it mean "seulement". But Bd. also is not referenced, it is for "buddhique" (I would rather write "bouddhique", much more commun)
 comment = reference
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24483: 09/23/2019 dict=BUR, L= 18758, hw=sumukha, user=Caujolle
 old = c. à d. the problem is that it is not referenced as c.-à-d. LB there are plenty cases of that (39), it would be nice to correct them; i also noted at jagannivāsa the case, "c-à d." which should also be corrected. Regards 
 new = to reference them properly
 comment = reference
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24482: 09/23/2019 dict=BUR, L= 9883, hw=niraJjana, user=Caujolle
 old = m à m. is not correcly referenced (i wander if i did not already mentionned this, ah yes, it was a different problem: some m à m. seems correctly referenced (see udāse; ullāpa; and sumukha) but it is only an illusion (see my previous correction form about that); here it is a different problem, probably more commun.
 new = to reference the whole expression ("m à m.")
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24480: 09/23/2019 dict=BUR, L= 17449, hw=sadha, user=Caujolle
 old = vd. LB 
 new = the abreviation vd. is not referenced (vd. is for vêdique, and Vd. for Vêda)
 comment = reference
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24477: 09/21/2019 dict=BUR, L= 2763, hw=ugra, user=Caujolle
 old = 1) ugraśāsana a. (śās) qui donne des ordres terribles; tyrannique; tr.-sévère. >2) ugraśekharā f. m à m. diadême de Śiva, c-à-d. le Gange; cf. Rāmāyaṇa I. >3) at aṅkura, notice "(greek)" instead the proper greek word
 new = 1) the abbreviation "tr." (très) has been forgotten (i mean it is not underlined and referred).  LB 2) the abbreviation "m à m." (mot à mot) is underlined like the others, but doesn't work. Moreover, same sentence, the abbreviation "cf." (confer) works but don't give the proper meaning, it gives "comparez" instead of "confer" (actually i notice that this comes from a mistake in the abbreviation table; they probably erased the entry for "comparez" (there is one plain "comparez" in the dict.) but erased the wrong abbreviation)
-status = PENDING
+status = Corrected 12/20/2019. Greek not marked
 ------------------------------------------------------------------------
 
 Case 24476: 09/21/2019 dict=BUR, L= ID=13181, hw=mahesvara, user=Caujolle
 old = tombèe
 new = tombée
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24387: 03/28/2019 dict=BUR, L= 2739, hw=Iza, user=Caujolle
