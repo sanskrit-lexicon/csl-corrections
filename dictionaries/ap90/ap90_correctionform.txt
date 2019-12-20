@@ -1,60 +1,60 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 17, 2019
-429 correction records, with 14 PENDING
+As of December 20, 2019
+429 correction records, with 1 PENDING
 
 Case 24531: 12/05/2019 dict=AP90, L= 2252, hw=अप्, user=hrmndrsingh
 old = आपः, अपः, अद्भिः, अद्भ्यः अपां and अप्सु,
 new = आपः, अपः, अद्भिः, अद्भयः अपां and अप्सु,
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 24525: 11/27/2019 dict=AP90, L= 25341, hw=वाच्, user=hrmndrsingh
 old = वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तमे 
 new = वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये   (last char only)
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24520: 11/19/2019 dict=AP90, L= 29024, hw=संज्ञा, user=hrmndrsingh
 old =   LB 1 Consciousness; संज्ञां लभ्, आपद् or प्रतिपढ् ‘to regain or recover one's, consciousness, come to one's senses.
 new = प्रतिपढ्  appears to be a typo for प्रतिपद्
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24512: 11/14/2019 dict=AP90, L=23422, hw=mRd, user=geymonat
 old = Caus. (mardayati) = mRdu q. v. above.
 new = Caus. (mardayati) = mRd q. v. above.
 comment = Typo: mRdu should be corrected into mRd
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24503: 10/29/2019 dict=AP90, L= 20836, hw=प्रश्नः, user=chandrasekharanr
 old = गङ्
 new = नङ्
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24486: 09/27/2019 dict=AP90, L= ID=22713, hw=maya, user=samm3
 old = ‘coneisting or composed of,’
 new = consisting or composed of 
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24473: 09/15/2019 dict=AP90, L= 28403, hw=श्रुत, user=radimnavyan
 old = श्रुतेनैब 
 new = श्रुतेनैव 
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24468: 09/04/2019 dict=AP90, L=26599, hw=विश्वसनीय, user=chandrasekharanr
 old = trnstworthy
 new = trustworthy
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24463: 08/21/2019 dict=AP90, L= 23810, hw=यावत्, user=chandrasekharanr
 old = तवत्
 new = तावत्
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24452: 08/04/2019 dict=AP90, L=12876, hw=ghana, user=geymonat
@@ -67,27 +67,27 @@ status = PENDING
 Case 24450: 07/31/2019 dict=AP90, L= 7869, hw=उत्था, user=chandrasekharanr
 old = उत्याप्यते ग्रावा
 new = उत्थाप्यते ग्रावा
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24449: 07/31/2019 dict=AP90, L=7869, hw=उत्था, user=chandrasekharanr
 old = --Caus. (उत्यापयति)
 new = --Caus. (उत्थापयति)
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24446: 07/25/2019 dict=AP90, L=26523, hw=vizada, user=geymonat
 old = — 5 ...prakamaM (aMtarAtmA)
 new = prakAmaM (aMtarAtmA)
 comment = Typo short a instead of long A in prakAmaM
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24445: 07/25/2019 dict=AP90, L= 26523, hw=vizad, user=geymonat
 old = yogatidrAtavizadaiH
 new = yoganidrAntavizadaiH
 comment = Typo °nidrAnta° should follow yoga° instead of °tidrAta° in the compound.
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24436: 07/15/2019 dict=AP90, L=27507, hw=शक्, user=chandrasekharanr
