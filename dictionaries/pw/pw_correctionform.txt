@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for PW
 As of December 20, 2019
-11787 correction records, with 4 PENDING
+11787 correction records, with 2 PENDING
 
 Case 24537: 12/15/2019 dict=PW, L=5211, hw=antara, user=frank.ziesing
 old = — g) Zwischenzeit , Zeitraum Pañcat.183,3.  etasminnantare inzwischen , mittlerweile  39,16.43,21.45,2.  tasminnantare , atraāntare
 new = — g) Zwischenzeit , Zeitraum Pañcat.183,3.  etasminnantare inzwischen , mittlerweile  39,16.43,21.45,2.  tasminnantare , atrāntare
 comment = Typo: one "a" too much, wrong "atraāntare", correct "atrāntare"
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24524: 11/26/2019 dict=PW, L= 87118, hw=mīl, user=frank.ziesing
@@ -20,7 +20,7 @@ Case 24519: 11/18/2019 dict=PW, L= 131499, hw=spṛhā, user=frank.ziesing
 old = Begehren , nach
 new = Begehren nach
 comment = Typo: there should be no comma between "Begehren" and "nach"
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24479: 09/22/2019 dict=PW, L=79705, hw=bhās, user=frank.ziesing
