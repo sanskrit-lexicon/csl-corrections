@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of December 17, 2019
-394 correction records, with 1 PENDING
+As of December 20, 2019
+394 correction records, with 0 PENDING
 
 Case 24504: 10/29/2019 dict=VCP, L= 26789, hw=द्विषत्, user=chandrasekharanr
 old = द्विध—शतृ
 new = द्विष—शतृ
-comment = Typo. Probably in the original too. So, please run this through a scholar
-status = PENDING
+comment = print error Probably in the original too. So, please run this through a scholar
+status = Corrected 12/20/2019, Print change.
 ------------------------------------------------------------------------
 
 Case 24407: 05/01/2019 dict=VCP, L= 36000, hw=ब्रू, user=chandrasekharanr

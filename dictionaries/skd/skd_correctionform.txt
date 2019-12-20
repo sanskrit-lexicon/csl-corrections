@@ -1,31 +1,31 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of December 17, 2019
-329 correction records, with 4 PENDING
+As of December 20, 2019
+329 correction records, with 0 PENDING
 
 Case 24514: 11/15/2019 dict=SKD, L= 27439, hw=मीमांसा, user=chandrasekharanr
 old = “मान् बधदान् LB शानभ्यो दीर्घश्चाभ्यासस्य ।” ३ । १ । ६ ।
 new = “मान् बधदान् LB शान्भ्यो दीर्घश्चाभ्यासस्य ।” ३ । १ । ६ ।      
 comment = शानभ्यो should be शान्भ्यो (please refer to Ashtadhyayi sutra 3-1-6)
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24510: 11/08/2019 dict=SKD, L=41818, hw=हिमवान्, user=chandrasekharanr
 old = “मङ्गा हिमवतो
 new = “गङ्गा हिमवतो
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24464: 08/22/2019 dict=SKD, L=37902, hw=समर्पणं, user=chandrasekharanr
 old = सॐपोन
 new = Do not know. Need to check with scholars. But I know that it is a typo.
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24455: 08/08/2019 dict=SKD, L= 21935, hw=पुरातनः, user=chandrasekharanr
 old = ष्ट्युस्तुट्
 new = ट्युस्तुट्
 comment = Typo. This issue is elaborated in https://github.com/sanskrit-lexicon/SKD/issues/7
-status = PENDING
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24437: 07/16/2019 dict=SKD, L=20965, hw=पाचकः, user=chandrasekharanr
