@@ -51,5 +51,9 @@ L code : Headword : Old  : New : Comment
 12/22/2019
 https://github.com/sanskrit-lexicon/csl-orig/issues/86#issue-541425782
 L code : Headword    : Old         : New         : Comment
-19566  : devaka  : mfn.:  : mfn.  : Removed extra colon
+19566  : devaka  : mfn.\:  : mfn.  : Removed extra colon
+-----------------------------------------------------------------------
+12/22/2019
+https://github.com/sanskrit-lexicon/csl-orig/issues/86#issuecomment-568268004
+n, changed to n.
 
