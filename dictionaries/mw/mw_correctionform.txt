@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 26, 2019
-1229 correction records, with 7 PENDING
+As of December 27, 2019
+1229 correction records, with 0 PENDING
 
 Case 24541: 12/17/2019 dict=MW, L= , hw=maatR^ikaa, user=
 old = 
@@ -38,7 +38,7 @@ status = 12/26/2019 Not enough information
 Case 24528: 11/30/2019 dict=MW, L= 42763.2, hw=कथम्, user=
 old = with नु it is sometimes = किमु
 new = with नु it is sometimes = किम्
-status = PENDING
+status = 12/27/2019  No change. 'kimu' does appear in BOP,BUR,SHS,SKD,VCP,WIL,YAT
 ------------------------------------------------------------------------
 
 Case 24523: 11/21/2019 dict=MW, L= 194107, hw=viklRp, user=jimgknga
@@ -110,7 +110,7 @@ status = Corrected 12/20/2019
 Case 24497: 10/09/2019 dict=MW, L=26705 , hw=ālabh, user=
 old = lamohayati
 new = lambhayati
-status = PENDING
+status = Corrected 12/27/2019
 ------------------------------------------------------------------------
 
 Case 24496: 10/08/2019 dict=MW, L=162924, hw= mānasa, user=samm3
@@ -122,14 +122,14 @@ status = Corrected 12/20/2019
 Case 24495: 09/30/2019 dict=MW, L= , hw=Samādhi, user=
 old = Samādhi
 new = Samādhi
-status = PENDING
+status = not enough information 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24489: 09/27/2019 dict=MW, L= 73297, hw=ci, user=Caujolle
 old = Desid. Caus.
 new = has to be in bold characters; Pass. also is not and should be
 comment = 
-status = PENDING
+status = Corrected 12/27/2019
 ------------------------------------------------------------------------
 
 Case 24487: 09/27/2019 dict=MW, L= 157985, hw=maya, user=samm3
@@ -162,13 +162,13 @@ Case 24467: 09/01/2019 dict=MW, L= p= 215,2, hw=उपे, user=zaaf2
 old = 1. उपे (उप-√ इ) P. -एति
 new = 1. उपे (उप-√ इ) P. -ऐति
 comment = It seems to be an error in the printed edition. Cf. परमं साम्यमुपैति Muṇḍ. Up.3.1.3. योगी परं स्थानमुपैति चाद्यम् Bg.8.28 (apud Apte). It could be that this is only MW’s method of presentation, and that the Sandhi should be understood and supplied by the reader (in this case उप+एति=उपैति), but this would be misleading and confusing for the user. MW itself adopts a different method in an analogous case: [p= 56,2] अपे (√ इ) P. Ā. अपैति (...).
-status = PENDING
+status = Corrected 12/27/2019 (print change)
 ------------------------------------------------------------------------
 
 Case 24465: 08/26/2019 dict=MW, L= 232191, hw=compact, user=natalia.fedorova
 old = compact
 new = contract
-status = PENDING
+status = No change 12/27/2019
 ------------------------------------------------------------------------
 
 Case 24451: 07/31/2019 dict=MW, L= [p= 860,3], hw=रच्, user=zaaf2
@@ -187,7 +187,7 @@ status = Corrected 12/20/2019
 Case 24441: 07/21/2019 dict=MW, L= 141468, hw=plu, user=
 old = or plāvayati
 new = or plavayati
-status = PENDING
+status = 12/27/2019 Not changed (cf ap90)
 ------------------------------------------------------------------------
 
 Case 24430: 06/29/2019 dict=MW, L=81841, hw= tattva, user=Caujolle
