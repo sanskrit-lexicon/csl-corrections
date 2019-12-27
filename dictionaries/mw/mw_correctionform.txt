@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
 As of December 27, 2019
-1229 correction records, with 0 PENDING
+1230 correction records, with 1 PENDING
+
+Case 24546: 12/27/2019 dict=MW, L= 106052, hw=nAradasaMhitA, user=Caujolle
+old = there is some problem here as the definition is not displayed
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24541: 12/17/2019 dict=MW, L= , hw=maatR^ikaa, user=
 old = 
