@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 20, 2019
-1229 correction records, with 11 PENDING
+As of December 26, 2019
+1229 correction records, with 7 PENDING
 
 Case 24541: 12/17/2019 dict=MW, L= , hw=maatR^ikaa, user=
 old = 
@@ -32,8 +32,7 @@ status = Corrected 12/18/2019
 Case 24532: 12/05/2019 dict=MW, L= , hw=naidAnika, user=
 old = 
 new = 
-comment = Typo:Not enough information
-status = PENDING
+status = 12/26/2019 Not enough information
 ------------------------------------------------------------------------
 
 Case 24528: 11/30/2019 dict=MW, L= 42763.2, hw=कथम्, user=
@@ -46,14 +45,14 @@ Case 24523: 11/21/2019 dict=MW, L= 194107, hw=viklRp, user=jimgknga
 old = Second attempt: I made a mistake on the first: let me try again: The citation searched for was "viklRp", produces headword "vikḷp" and the first (H1) entry is "vi-√ kḷp". The search for "vikLp", on the other hand, returns no match.
 new = After looking at MW's "Dictionary of Nagari order" facing page 1: the headword IS incorrect AND there should be no match to it when the citation entered is "vikLp". Furthermore, MW pg 955,1 shows indeed devanagari for "viklṛp" and the MW's first entry is actually "vi-√ klṛp", and that root √ klṛp is indeed found on MW pg 308 column 2. So then, only citation for "viklRp" should match. The medial form of the letter under the "k" stands for "lṛ" (or in his terminology "lṛi" as in revelry (revelṛi).
 comment = Typo or mismatch from MW's designation of "lṛi" instead of every other grammarians designation of "ḷi" for the same nagari letter after "ṛī".
-status = PENDING
+status =  12/26/2019. No change needed. Ref=https://github.com/sanskrit-lexicon/csl-orig/issues/74
 ------------------------------------------------------------------------
 
 Case 24521: 11/20/2019 dict=MW, L= 194107, hw=viklRp, user=jimgknga
 old = The citation searched for was "viklRp", produces headword "vikḷp" and the first (H1) entry is "vi-√ kḷp". The search for "vikLp", on the other hand, returns no match.
 new = MW pg 955,1 shows indeed devanagari for the current headword "vikḷp" (so that part is ok) BUT the MW's first entry is actually "vi-√ klṛp", and that root √ klṛp is indeed found on MW pg 308 column 2. So then, either only citation for "vikLp" should match or both can match if finding the "vi-" with its root "klRp" is desired as well.
 comment = Typo and inconsistent citation matches
-status = PENDING
+status = 12/26/2019. No change needed. Ref=https://github.com/sanskrit-lexicon/csl-orig/issues/74
 ------------------------------------------------------------------------
 
 Case 24516: 11/17/2019 dict=MW, L=96777.1, hw=dairghya, user=samm3
@@ -93,7 +92,7 @@ Case 24500: 10/15/2019 dict=MW, L=140826, hw=preman, user=geymonat
 old = preman a mn. love, affection,....
 new = preman, mn. love, affection,
 comment = Typo: a (in red, in the online version) should be cancelled and instead a comma (,) should be inserted (as in the scanned page)
-status = PENDING
+status = 12/26/2019 no change made. Ref=https://github.com/sanskrit-lexicon/csl-orig/issues/59
 ------------------------------------------------------------------------
 
 Case 24499: 10/15/2019 dict=MW, L= , hw=सासष्यते, user=bettadarasa

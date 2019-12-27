@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 20, 2019
-11787 correction records, with 2 PENDING
+As of December 26, 2019
+11787 correction records, with 1 PENDING
 
 Case 24537: 12/15/2019 dict=PW, L=5211, hw=antara, user=frank.ziesing
 old = — g) Zwischenzeit , Zeitraum Pañcat.183,3.  etasminnantare inzwischen , mittlerweile  39,16.43,21.45,2.  tasminnantare , atraāntare
@@ -13,7 +13,7 @@ Case 24524: 11/26/2019 dict=PW, L= 87118, hw=mīl, user=frank.ziesing
 old = — Mit ud Caus. dass. LB — 1) (die Augen öffnen. unmīlita die Augen öffnend. 
 new = — Mit ud LB — 1) die Augen öffnen. unmīlita die Augen öffnend. 
 comment = Typo: delete "Caus. dass." and opening bracket "(die", put "die" in italics 
-status = PENDING
+status = Corrected 12/26/2019
 ------------------------------------------------------------------------
 
 Case 24519: 11/18/2019 dict=PW, L= 131499, hw=spṛhā, user=frank.ziesing
