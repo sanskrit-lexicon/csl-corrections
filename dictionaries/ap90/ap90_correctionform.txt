@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 20, 2019
-429 correction records, with 1 PENDING
+As of December 28, 2019
+429 correction records, with 0 PENDING
 
 Case 24531: 12/05/2019 dict=AP90, L= 2252, hw=अप्, user=hrmndrsingh
 old = आपः, अपः, अद्भिः, अद्भ्यः अपां and अप्सु,
@@ -61,7 +61,7 @@ Case 24452: 08/04/2019 dict=AP90, L=12876, hw=ghana, user=geymonat
 old = -naH A cloud; ghanodayaH prAk tadanataraM payaH Ś. 7. 30;
 new = -naH A cloud; ghanodayaH prAk tadanantaraM payaH Ś. 7. 30;
 comment = Typo: tadanatarM should be corrected into tadanantaraM LB NB The mistake is in the scanned dictionary itself, but it has been corrected in the Revived & Enlarged Edition of the same V.S. Apte The Practical Sanskrit-English Dictionary (which in fact is quite a pity this online version of Apte dictionary doesn't take as the main source, seen that in many many entries it has more quotations from the sources and avoids some printing mistakes such as this one)
-status = PENDING
+status = Corrected 12/28/2019 print change
 ------------------------------------------------------------------------
 
 Case 24450: 07/31/2019 dict=AP90, L= 7869, hw=उत्था, user=chandrasekharanr
