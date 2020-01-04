@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 27, 2019
-11787 correction records, with 0 PENDING
+As of January 03, 2020
+11788 correction records, with 0 PENDING
+
+Case 24547: 12/29/2019 dict=PW, L=86451 , hw=mārjāra, user=joerg.gengnagel
+old = 1)  LB b) eine wilde Ratze.
+new = eine wilde Katze.
+status = Corrected 01/03/2020
+------------------------------------------------------------------------
 
 Case 24537: 12/15/2019 dict=PW, L=5211, hw=antara, user=frank.ziesing
 old = — g) Zwischenzeit , Zeitraum Pañcat.183,3.  etasminnantare inzwischen , mittlerweile  39,16.43,21.45,2.  tasminnantare , atraāntare

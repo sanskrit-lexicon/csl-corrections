@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 27, 2019
-1230 correction records, with 0 PENDING
+As of January 03, 2020
+1437 correction records, with 0 PENDING
+
+Case 24548: 01/03/2020 dict=mw, L= 144580, hw=bAlaboDa, user=ejf
+old = Wks.
+new = <ab>Wks.</ab>.  Add this to mwab_input.txt also
+comment = markup
+status = Corrected 01/03/2020
+------------------------------------------------------------------------
 
 Case 24546: 12/27/2019 dict=MW, L= 106052, hw=nAradasaMhitA, user=Caujolle
 old = there is some problem here as the definition is not displayed
@@ -20,6 +27,19 @@ old = हठ
 new = In Printed book page 1287,3 it is scripted Haṭha. Notice the diacritic mark of the letter ṭ.
 comment = Typo. Not infrequently I have encountered words that are present in MW but not in Apte. So I go about seeking clarification from my knowledgeable friends. That is how I learnt about हथ
 status = No correction needed.
+------------------------------------------------------------------------
+
+Case 24539: 12/15/2019 dict=mw, L=95539, hw=देव, user=zaaf2
+old = [missing text after this position (and ID=96278)]
+new = (Cf. Lat. dīvus, deus; Lit. devas; Old Pruss. divas)
+comment = Missing text. (ID=96278 should be included under देव)
+status = Corrected 12/26/2019
+------------------------------------------------------------------------
+
+Case 24538: 12/15/2019 dict=mw, L=73137, hw=चारु, user=zaaf2
+old = (Lat.) चरुस्
+new = (Lat.) carus
+status = Corrected 12/26/2019
 ------------------------------------------------------------------------
 
 Case 24536: 12/09/2019 dict=MW, L= 38784, hw=वर्षीयस्, user=bathalaramana
@@ -89,10 +109,37 @@ comment = omission?
 status = No change required.
 ------------------------------------------------------------------------
 
+Case 24507: 11/03/2019 dict=mw, L= 115666, hw=padmarAga, user=ejf
+old = of rubies,  Kāraṇḍ
+new = of rubies,  <ls>Kāraṇḍ.</ls>
+comment = markup
+status = Corrected 12/20/2019
+------------------------------------------------------------------------
+
+Case 24506: 11/03/2019 dict=mw, L= 262545, hw=hIna, user=ejf
+old = instr. abl. loc. acc., or comp.
+new = instr., abl., loc., acc., or comp.
+comment = Typo - missing commas
+status = Corrected 12/20/2019
+------------------------------------------------------------------------
+
+Case 24505: 11/03/2019 dict=mw, L= 234227, hw=samAna, user=ejf
+old = with instr. gen., or comp.
+new = with instr., gen., or comp.
+comment = Typo (missing comma)
+status = Corrected 12/20/2019
+------------------------------------------------------------------------
+
 Case 24502: 10/27/2019 dict=MW, L= , hw=gam, user=
 old = 
 new = 
 status = Not enough information.
+------------------------------------------------------------------------
+
+Case 24501: 10/21/2019 dict=mw, L= 68463, hw=granTa, user=ejf
+old = (of, Kath.)
+new = (of Kath.) -- no comma
+status = Corrected 12/20/2019
 ------------------------------------------------------------------------
 
 Case 24500: 10/15/2019 dict=MW, L=140826, hw=preman, user=geymonat
@@ -165,6 +212,18 @@ new = m. `" hare-marked "' , the moon MBh. Ka1v. &c. ; camphor L. ; N. of a king
 status = No correction required.
 ------------------------------------------------------------------------
 
+Case 24472: 09/12/2019 dict=mw, L= , hw=mameti, user=
+old = 
+new = 
+status = Not enough information.
+------------------------------------------------------------------------
+
+Case 24471: 09/12/2019 dict=mw, L= , hw=mameti, user=
+old = 
+new = 
+status = Not enough information.
+------------------------------------------------------------------------
+
 Case 24467: 09/01/2019 dict=MW, L= p= 215,2, hw=उपे, user=zaaf2
 old = 1. उपे (उप-√ इ) P. -एति
 new = 1. उपे (उप-√ इ) P. -ऐति
@@ -176,6 +235,19 @@ Case 24465: 08/26/2019 dict=MW, L= 232191, hw=compact, user=natalia.fedorova
 old = compact
 new = contract
 status = No change 12/27/2019
+------------------------------------------------------------------------
+
+Case 24461: 08/20/2019 dict=mw, L= 62541, hw=gaNakarNikA, user=ejf
+old = <bot>Cucumis</bot> coloquinthida,
+new = <bot>Cucumis coloquinthida</bot>,
+comment = markup
+status = Corrected 12/20/2019
+------------------------------------------------------------------------
+
+Case 24453: 08/04/2019 dict=mw, L= 147486.1, hw=ब्रुड् , user=
+old = 
+new = 
+status = Not enough information.
 ------------------------------------------------------------------------
 
 Case 24451: 07/31/2019 dict=MW, L= [p= 860,3], hw=रच्, user=zaaf2
@@ -308,10 +380,54 @@ comment = Typo: there is a capital i (I) to be corrected into normal i (i) being
 status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
+Case 24363: 02/17/2019 dict=mw, L= 209126, hw=vyavahAra, user=ejf
+old = with (saha or comp.)
+new = with (<s>saha</s> or comp.)
+comment = markup
+status =  Corrected 07/12/2019
+------------------------------------------------------------------------
+
 Case 24362: 02/16/2019 dict=MW, L= 70689, hw=°kṣus. , user=padhana123
 old = ṣ (second one)
 new = °kṣus. ->  °kṣus
 status =  No correction required. 07/05/2019
+------------------------------------------------------------------------
+
+Case 24361: 02/16/2019 dict=mw, L= 118615.2, hw=parIvfta, user=ejf
+old = H3B
+new = H3 --  And adjust 118615.3, 118615.4 3B -> 3A
+comment = markup
+status =  Corrected 07/19/2019
+------------------------------------------------------------------------
+
+Case 24360: 02/16/2019 dict=mw, L= 211359, hw=Sakuni, user=ejf
+old = counsels ten to misfortune
+new = counsels tend to misfortune
+status =  Corrected 07/05/2019
+------------------------------------------------------------------------
+
+Case 24359: 02/16/2019 dict=mw, L= 199809, hw=vilup, user=ejf
+old = wound, lacerate pull out or up
+new = wound, lacerate, pull out or up  [missing comma]
+status =  Corrected 07/05/2019
+------------------------------------------------------------------------
+
+Case 24357: 02/15/2019 dict=mw, L= 201614, hw=viz, user=ejf
+old = to work as a servant serve,
+new = to work as a servant, serve,
+status =  Corrected 07/05/2019
+------------------------------------------------------------------------
+
+Case 24356: 02/12/2019 dict=mw, L= 94798, hw=dUza, user=ejf
+old = kora-, paNkti
+new = kora-, paNkti-   [final '-' missing]
+status =  Corrected 07/05/2019
+------------------------------------------------------------------------
+
+Case 24354: 02/11/2019 dict=mw, L= 161713, hw=mAtra, user=ejf
+old =  having the measure of i.e. as large 
+new =  having the measure of,  i.e. as large   [missing comma]
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24353: 02/10/2019 dict=MW, L= 16824, hw=alga, user=jneokai
@@ -319,6 +435,19 @@ old = alga is not dual
 new = it should read:  alga, au, m. du. the groin
 comment = omission:  ,au, is missing
 status =  Corrected 07/19/2019
+------------------------------------------------------------------------
+
+Case 24352: 02/10/2019 dict=mw, L= 262351, hw=hastipa, user=ejf
+old = <ab n="elephants">el*</ab>-keeper
+new = <ab n="elephant">el*</ab>-keeper
+comment = markup
+status =  Corrected 07/05/2019
+------------------------------------------------------------------------
+
+Case 24351: 02/10/2019 dict=mw, L= 234107, hw=samAjYA, user=ejf
+old = Caus. -jnApayati 
+new = Caus. -jYApayati 
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24350: 02/09/2019 dict=MW, L= [ID=175512], hw=rasa, user=Caujolle
@@ -333,10 +462,22 @@ new = <the consonants k, c, ṭ, t, p, g, j, ḍ, d, b>
 status =  Corrected 02/08/2019
 ------------------------------------------------------------------------
 
+Case 24346: 02/04/2019 dict=mw, L= 102621, hw=na, user=gasyoun
+old = cf. a. mā
+new = cf. 1. mā
+status =  Corrected 02/08/2019
+------------------------------------------------------------------------
+
 Case 24345: 02/03/2019 dict=MW, L= ID=188979, hw=वस्न्य, user=youngsinn.sohn
 old = RV. x, 34, 1
 new = RV. x, 34, 3
 comment = Original Typo. This word is found in RV x.34.3, NOT in RV x.34.1  
+status =  Corrected 02/08/2019
+------------------------------------------------------------------------
+
+Case 24343: 02/03/2019 dict=mw, L= 211434, hw=SanKA, user=ejf
+old = pApa-SaNkA na katavyA
+new = pApa-SaNkA na kartavyA   (missing 'r')
 status =  Corrected 02/08/2019
 ------------------------------------------------------------------------
 
@@ -359,9 +500,40 @@ comment = Typo: between "prosecution of."and "course or tendency towards,"  a co
 status =  Corrected 02/02/2019
 ------------------------------------------------------------------------
 
+Case 24337: 01/22/2019 dict=mw, L= 125903.3, hw=puras, user=ejf
+old = dakṣimataḥpuraḥ,
+new = dakṣiṇataḥ puraḥ,
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
+Case 24336: 01/21/2019 dict=mw, L= 152536, hw=Bftyavarga, user=ejf
+old = one's s°, household
+new = one's s°s, household
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
 Case 24335: 01/21/2019 dict=MW, L= 92542, hw=दिग्नाग, user=giozaccaria02
 old = H3) [p= 480,1] LB दिग्—नाग See दिन्-. [ID=92542]
 new = H3) [p= 480,1] LB दिग्—नाग See दिङ्- [ID=92542]
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
+Case 24334: 01/20/2019 dict=mw, L= 4910, hw=ananuBUta, user=ejf
+old = not experienced unknown
+new = not experienced, unknown
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
+Case 24333: 01/20/2019 dict=mw, L= 227017, hw=saMskAra, user=ejf
+old = embellishment adornment
+new = embellishment, adornment
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
+Case 24332: 01/19/2019 dict=mw, L= 17643, hw=avanDya, user=ejf
+old = a-bandhya2 
+new = <hom>2.</hom a-bandhya 
+comment = markup
 status =  Corrected 02/02/2019
 ------------------------------------------------------------------------
 
@@ -379,10 +551,161 @@ comment = mṛṣṭvā is mentioned in the original text which scan is attached
 status =  Corrected 02/02/2019
 ------------------------------------------------------------------------
 
+Case 24328: 01/15/2019 dict=mw, L= 68252, hw=gOrI, user=ejf
+old = ‘Vāc or voice of the middle region of the air’,  i, 164, 41  according to, Naigh. i, 11  and, Nir. xi, 40 ) [L=68252]
+new = change so not marked as <bio>
+comment = markup
+status =  1/15/2019  Correction in webtc/disp.php
+------------------------------------------------------------------------
+
+Case 24326: 01/12/2019 dict=mw, L= 104855, hw=nah, user=ejf
+old = nadbihyas
+new = nadbhyas
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24325: 01/11/2019 dict=mw, L= 189253, hw=vah, user=ejf
+old = Uk
+new = Uh
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24324: 01/09/2019 dict=mw, L= 165861, hw=muz, user=ejf
+old = nom. mut
+new = nom. muṭ
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24323: 01/09/2019 dict=mw, L= 126761, hw=puz, user=ejf
+old = vitva-
+new = viSva-
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24322: 01/09/2019 dict=mw, L= 92593, hw=diS, user=ejf
+old = diso 'ntāt
+new = diśo 'ntāt
+comment = Presume print error
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24321: 01/09/2019 dict=mw, L= 92593, hw=diS, user=ejf
+old = diSi, diSi
+new = diSi diSi  (no comma)
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24319: 01/09/2019 dict=mw, L= 92231.1, hw=div, user=ejf
+old = This and several following have 'dyu' printed, and probably erroneous gender information.  
+new = Change so display closer to text
+comment = Typo/markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24318: 01/08/2019 dict=mw, L= 5105, hw=anapasPur, user=ejf
+old = án-apasphur ([RV. viii, 69, 10 ]) mf(ā)n. ‘not withdrawing’, 
+new = án-apasphur ([RV. viii, 69, 10 ]) mfn. ‘not withdrawing’, 
+comment = markup -- alternate spellings
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24317: 01/08/2019 dict=mw, L= 93614, hw=dur, user=ejf
+old = only duras acc. nom., and duras. pl.
+new = only duras , acc. nom., and duras., acc. pl.
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
 Case 24316: 01/08/2019 dict=MW, L=  ID=76419, hw=जघन, user=youngsinn.sohn
 old =  m. (√ जन्ह्) ([RV. i, 28, 2; v, 61, 3; vi, 75, 13 ])
 new =  m. (√जंह्) ([RV. i, 28, 2; v, 61, 3; vi, 75, 13 ])
 comment = digitizing error
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24314: 01/07/2019 dict=mw, L= 198777, hw=vimuKa, user=ejf
+old = putto flight
+new = put to flight
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24313: 01/05/2019 dict=mw, L= 261855, hw=hAlAhala, user=ejf
+old = panic.
+new = <ab n="particular">partic.</ab>
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24312: 01/02/2019 dict=mw, L= 86163, hw=tulyam, user=ejf
+old = <lex type="inh">n.</lex>
+new = <lex type="inh">ind.</lex>
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24311: 01/02/2019 dict=mw, L= 50373.1, hw=akiMcid, user=ejf
+old = H4B 
+new = H4 
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24310: 01/01/2019 dict=mw, L= 52898.2, hw=kulapAMsin, user=ejf
+old = f°amily
+new = <ab n="family">f°</ab>
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24309: 01/01/2019 dict=mw, L= 167122, hw=mfj, user=ejf
+old = Darma-mfy
+new = Darma-mfj
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24308: 01/01/2019 dict=mw, L= 139212, hw=prAk, user=ejf
+old = mfn
+new = <lex type="inh">ind.</lex>
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24307: 12/31/2018 dict=mw, L= 26263.1, hw=AruRyopanIzad, user=ejf
+old = AruRyopanIzad
+new = AruRIyopanizad (short 'i')
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24306: 12/30/2018 dict=mw, L= 128827, hw=pfzWa, user=ejf
+old = Raivata Ś°
+new = Raivata <ab n="Sāman">S°</ab>s
+comment = Typo/markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24305: 12/30/2018 dict=mw, L= 138246, hw=prastAVa, user=ejf
+old = prasstāvanā
+new = prastāvanā
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24304: 12/30/2018 dict=mw, L= 87045, hw=tEla, user=ejf
+old = <bot>sesamum</bot> oil
+new = sesamum oil
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24303: 12/28/2018 dict=mw, L= 116648.3, hw=paraspara, user=ejf
+old = ind.
+new = Remove the lex tag; 
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24302: 12/27/2018 dict=mw, L= 31432, hw=uttara, user=ejf
+old = for 1 see ...
+new = for <hom>1</hom> see ...
+comment = markup
 status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
@@ -392,10 +715,36 @@ new = at the churning
 status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
+Case 24300: 12/23/2018 dict=mw, L= 142302, hw=baka, user=ejf
+old = <bot> Ardea Nivea (often fig ... circumspection</bot>
+new = <bot> Ardea Nivea</bot> (often fig ... circumspection
+comment = markup
+status =  01/15/2019 correction to display of <bio> tag.
+------------------------------------------------------------------------
+
+Case 24299: 12/22/2018 dict=mw, L= 225095, hw=zaqaDikadaSan, user=ejf
+old = 10 6
+new = 10 + 6
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
 Case 24297: 12/22/2018 dict=MW, L= , hw=pravallika, user=
 old = 
 new = 
 status =  01/15/2019 not enough information. no such headword
+------------------------------------------------------------------------
+
+Case 24296: 12/18/2018 dict=mw, L= 112723, hw=nyaYc, user=ejf
+old = nīci
+new = nīcī
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24295: 12/17/2018 dict=mw, L=, hw=kf, user=Serge A
+old = 7-4, 92 ; Kāś. ]), also carkarīti or carikarīti or carīkarīti or cekrīyate (<!!!>[ib. Sch. Vop. ]<!!!>);    [L=54148]    kṛ   [cf. Hib. caraim, ‘I perform, execute’; ceard, ‘an art,
+new = [ib., Sch.; Vop.] lost punctuation. The meaning is [in the scholia to the previous source ; and also in Vopadeva]
+comment = 
+status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
 Case 24292: 12/15/2018 dict=MW, L= 92228, hw=div, user=Peter
@@ -418,10 +767,54 @@ new = zayyAs°
 status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
+Case 24286: 12/02/2018 dict=mw, L= 231128, hw=sanATa, user=ejf
+old = possessed of. possessing, 
+new = possessed of, possessing, 
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
 Case 24284: 12/02/2018 dict=MW, L=ID=123437 , hw=पाषी, user=youngsinn.sohn
 old =  f. = सिला, 
 new =  f. = शिला, 
 comment = digitizing error
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24283: 12/02/2018 dict=mw, L= 23434, hw=Atura, user=ejf
+old = Inf.
+new = <ab>Inf.</ab>
+comment = markup
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24282: 12/01/2018 dict=mw, L= 152993, hw=BErava, user=ejf
+old = Bh°'s,
+new = Bh°,   no apostrophe
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24281: 12/01/2018 dict=mw, L= 186471, hw=vayas, user=ejf
+old = 2. vi
+new = 1. v1
+comment = print error
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24280: 12/01/2018 dict=mw, L= 89389.02, hw=dakziRa, user=ejf
+old = °maṃ√ kṛ
+new = °ṇaṃ √ kṛ
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24278: 11/30/2018 dict=mw, L= 261855, hw=hAlAhala, user=ejf
+old = panic.
+new = <ab>partic.</ab>
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24277: 11/30/2018 dict=mw, L= 123987, hw=pitf, user=ejf
+old = pitriṇām
+new = pitṝṇām
 status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
@@ -439,15 +832,76 @@ comment = digitizing error
 status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
+Case 24272: 11/23/2018 dict=mw, L= 209272, hw=vyasana, user=ejf
+old = asūyā artha-dūṣaṇa vākpāruṣya
+new = asūyā, artha-dūṣaṇa,vākpāruṣya
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24270: 11/18/2018 dict=mw, L= 138903, hw=prAmARya, user=ejf
+old = established by proof. resting upon authority
+new = established by proof, resting upon authority
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24269: 11/18/2018 dict=mw, L= 164747, hw=mukuwa, user=ejf
+old = kirīt, a being
+new = kirīta being
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
 Case 24268: 11/18/2018 dict=MW, L= [ID=186393], hw=vapra, user=caujolle
 old = vapra n. lead, L.  (cf. varahra). [ID=186393]
 new = vapra n. lead, L.  (cf. vardhra). [ID=186393]
 status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
+Case 24267: 11/18/2018 dict=mw, L= 227141, hw=saMstuta, user=ejf
+old = acquainted familiar, 
+new = acquainted, familiar, 
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24266: 11/17/2018 dict=mw, L= 98513, hw=dvipa, user=ejf
+old = sc.
+new = Mark as abbreviation for scilicet
+comment = markup
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24265: 11/17/2018 dict=mw, L= 72402, hw=carca, user=ejf
+old = considering deliberation
+new = considering, deliberation
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
 Case 24263: 11/11/2018 dict=MW, L= ID=147007, hw=brahmavAdin, user=Caujolle
 old = (finī., Var.
 new = (inī f., Var.
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24262: 11/10/2018 dict=mw, L= 182615, hw=lip, user=ejf
+old = alispata
+new = alipata
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24260: 11/05/2018 dict=mw, L= 117687.2, hw=parityajya, user=ejf
+old = she exception 
+new = the exception 
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24259: 11/05/2018 dict=mw, L= 15804, hw=arRava, user=ejf
+old = ta nayitnus
+new = tanayitnus
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24258: 11/03/2018 dict=mw, L= 94428, hw=durga, user=ejf
+old = citadel stronghold
+new = citadel, stronghold
 status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
@@ -458,6 +912,38 @@ comment = Typo - not sure.
 status =  No correction needed. Sent reply. 11/27/2018
 ------------------------------------------------------------------------
 
+Case 24256: 10/30/2018 dict=mw, L= 186048, hw=vanodBava, user=ejf
+old = vanodBava
+new = vanodBavA.  H3B. Similar change for 186049, 186050
+comment = Typo and markup
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24253: 10/27/2018 dict=mw, L= 70211, hw=ghorākāra , user=ejf
+old = ghorāka°ra-rūpa
+new = gho°ra-rūpa
+comment = markup
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24252: 10/27/2018 dict=mw, L= 149896, hw=BAraBArin, user=ejf
+old = abbreviation 'l'  
+new = expansion should be 'load', not 'lowest'.  Several other cmpds have similar problem.
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24251: 10/27/2018 dict=mw, L= 153352, hw=Bos, user=ejf
+old = Hallo l,
+new = Hallo !,
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24250: 10/27/2018 dict=mw, L= 182291, hw=lAvaRya, user=ejf
+old = cr
+new = or
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
 Case 24249: 10/27/2018 dict=MW, L= Cologne record ID=162924, hw=mānasa, user=padana321
 old = śārirā
 new = śārīra 
@@ -465,10 +951,54 @@ comment = incorrect spelling
 status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
+Case 24248: 10/27/2018 dict=mw, L= 58750, hw=kzaRa, user=ejf
+old = eRa
+new = ena   (kzaRena)
+comment = print error
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24247: 10/27/2018 dict=mw, L= 149195, hw=Bavitavya, user=ejf
+old = bring
+new = being
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
 Case 24245: 10/24/2018 dict=MW, L=228852, hw=sac, user=geymonat
 old = to he connected with (instr.), Pat.  on Pāṇ. 1-4, 51 ;
 new = to be connected with (instr.), Pat.  on Pāṇ. 1-4, 51 ;
 comment = Typo: "he connected" wrong for "be connected"
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24241: 10/21/2018 dict=mw, L= 175969, hw=rahasyaBeda, user=ejf
+old = Gloss is missing, same as next word rahasyaBedana
+new =  the disclosure of a secret or mystery, Kāv. ; Kathās. 
+comment = markup
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24240: 10/21/2018 dict=mw, L= 16619, hw=alaMkfta, user=ejf
+old = ataM
+new = alaM
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24239: 10/20/2018 dict=mw, L= 139778.1, hw=prAtar, user=ejf
+old = next morning. to-morrow,
+new = next morning, to-morrow,
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24238: 10/20/2018 dict=mw, L= 139778, hw=pratar, user=ejf
+old = in the early morning. at daybreak, at dawn
+new = in the early morning, at daybreak, at dawn
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24237: 10/20/2018 dict=mw, L= 139819, hw=prAtaH, user=ejf
+old = in comp. fur
+new = in comp. for
 status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
@@ -486,9 +1016,73 @@ comment = Typo, wrong blank space
 status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
+Case 24232: 10/14/2018 dict=mw, L= 264113, hw=hEmavatI, user=ejf
+old = mf(I)n
+new = f. inherited
+comment = markup
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24231: 10/13/2018 dict=mw, L= 211995, hw=SatapAd, user=ejf
+old = mf(adī)n.
+new = mf(ādī)n.
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24230: 10/13/2018 dict=mw, L= 70253, hw=GrARacakzuS, user=ejf
+old = GrARacakzuS
+new = GrARacakzus
+comment = print error.  
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
 Case 24228: 10/11/2018 dict=MW, L= ID=162691.10, hw=mAdhyaMdina, user=Caujolle
 old = pl. N. of a branch of she Vājasaneyins,
 new = pl. N. of a branch of the Vājasaneyins,
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24227: 10/11/2018 dict=mw, L= 92440, hw=divyavijYAnavat, user=ejf
+old = = -jñana
+new = = -jñāna
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24226: 10/11/2018 dict=mw, L= 10658, hw=apradadi, user=ejf
+old = not, liberal
+new = not liberal
+comment = Typo, or print smudge
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24225: 10/10/2018 dict=mw, L= 232581, hw=saptaratnamaya, user=ejf
+old = mf(i)n
+new = mf(I)n   long I
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24224: 10/07/2018 dict=mw, L= 96810, hw=dEvadurvipAka, user=ejf
+old = Hit.
+new = <ls>Hit.</ls>
+comment = markup
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24223: 10/07/2018 dict=mw, L= 166651, hw=mftavat, user=ejf
+old = AtmAnam m°moTer saMdarSya
+new = AtmAnam m° saMdarSya
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24222: 10/07/2018 dict=mw, L= 15126, hw=araRyAni, user=ejf
+old = a, desert
+new = a wilderness, desert
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24221: 10/04/2018 dict=mw, L= 104682, hw=navaviMSaSati, user=ejf
+old = navaviMSaSati
+new = navaviMSati
 status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
@@ -506,10 +1100,23 @@ comment = iti cen (error ?) ---> iti ced (correction ?)
 status =  no change. n by sandhi 11/27/2018
 ------------------------------------------------------------------------
 
+Case 24216: 09/12/2018 dict=mw, L= 132538, hw=pratipad, user=ejf
+old = access, ingress. entrance
+new = access, ingress, entrance
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
 Case 24215: 09/12/2018 dict=MW, L= 209132, hw=vyavahAra, user=Peter
 old = matrikA
 new = mAtrikA
 status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24214: 09/09/2018 dict=mw, L= 81370, hw=ḍākinī, user=gasyoun
+old =  imp attending 
+new =  impattending 
+comment = OCR
+status =  no correction needed 09/13/2018
 ------------------------------------------------------------------------
 
 Case 24213: 08/25/2018 dict=MW, L= 169919, hw=yathArha, user=srhodes
@@ -536,11 +1143,30 @@ new =
 status =  09/11/2018 Cannot correct.
 ------------------------------------------------------------------------
 
+Case 24209: 08/19/2018 dict=mw, L= 133595, hw=pratIta, user=ejf
+old = acknow. ledged
+new = acknowledged,
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
 Case 24208: 08/18/2018 dict=MW, L= none, hw=pApa, user=torbium
 old = It is not a typo. The articles for words pApa, pApam are not displayed.
 new = 
 comment = A bug in programm
 status =  no correction needed 09/13/2018
+------------------------------------------------------------------------
+
+Case 24207: 08/14/2018 dict=mw, L= 158283, hw=marusTala, user=ejf
+old = Missing gloss 
+new = use 158284. OR merge 158283,4 into one entry.
+comment = markup
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24206: 08/13/2018 dict=mw, L= 203978, hw=vf, user=ejf
+old = vfnAti, vriRIte
+new = vfRAti, vfRIte
+status =  Corrected 09/13/2018
 ------------------------------------------------------------------------
 
 Case 24204: 07/31/2018 dict=MW, L= 104032, hw=nara, user=gasyoun
@@ -550,9 +1176,35 @@ comment = OCR
 status =  Corrected 09/13/2018
 ------------------------------------------------------------------------
 
+Case 24203: 07/25/2018 dict=mw, L= 20173.1, hw=aṣṭan, user=gasyoun
+old = asztuni
+new = asztůni
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24201: 07/08/2018 dict=mw, L= 69153, hw=glaha, user=ejf
+old = f.?
+new = <lex>f.</lex>?   
+comment = markup
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24199: 06/28/2018 dict=mw, L=182977 , hw=luptopamA, user=ejf
+old = Vam
+new = <ls>Vam</ls>  (a-macron)
+comment = markup
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
 Case 24198: 06/26/2018 dict=MW, L=31836, hw=utsaGga, user=torbium
 old = (√ sanj) the same in devangari √ सन्ज्
 new = According to the scan should be saJj (HK) √ सञ्ज्
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24196: 06/18/2018 dict=mw, L= 91664, hw=dAra, user=ejf
+old = probably not connected with s. dAra
+new = probably not connected with <hom>1.</hom> dAra
 status =  Corrected 09/13/2018
 ------------------------------------------------------------------------
 
@@ -570,6 +1222,18 @@ comment = Typo that little circle is misplaced: either it should be removed or p
 status =  Corrected 05/21/2018
 ------------------------------------------------------------------------
 
+Case 24183: 05/18/2018 dict=mw, L= 79002, hw=jAra, user=ejf
+old = a paramour of a, married woman
+new = a paramour of a married woman
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24182: 05/18/2018 dict=mw, L= 108607.04, hw=niDi, user=ejf
+old = अपां निधि, र्° of waters
+new = अपां निधि, r° of waters   (abbreviation of receptacle)
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
 Case 24181: 05/18/2018 dict=MW, L= L=2539, hw=atarkyasahasrazakti, user=caujolle
 old = in comp.ehensible powers. 
 new = incomprehensible powers. 
@@ -580,6 +1244,39 @@ Case 24180: 05/17/2018 dict=MW, L= 126940, hw=puṣṭi, user=czhao
 old = f. (or puṣṭi , esp. RV. )
 new = There should be an accent of final i of puṣṭi
 status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24179: 05/14/2018 dict=mw, L= 46908, hw=kA, user=ejf
+old = 2. का = कद्2 and 1. कु 
+new = 2. का = 2. कद् and 1. कु 
+status =  Corrected 05/15/2018
+------------------------------------------------------------------------
+
+Case 24178: 05/14/2018 dict=mw, L= 85219, hw=tila, user=ejf
+old = N. of a ch. of, PSarv. 
+new = N. of a ch. of PSarv. 
+comment = typo - remove comma
+status =  Corrected 05/15/2018
+------------------------------------------------------------------------
+
+Case 24177: 05/14/2018 dict=mw, L= 229179, hw=saMcit, user=ejf
+old = be aware of. perceive
+new = be aware of,  perceive
+status =  Corrected 05/15/2018
+------------------------------------------------------------------------
+
+Case 24176: 05/12/2018 dict=mw, L= 242417, hw=sAmAnya, user=ejf
+old = instr
+new = <ab>instr.</ab>
+comment = markup
+status =  Corrected 05/15/2018
+------------------------------------------------------------------------
+
+Case 24175: 05/12/2018 dict=mw, L= 242427, hw=sAmAnya, user=ejf
+old = n.
+new = ind.  and H2C
+comment = markup
+status =  Corrected 05/15/2018
 ------------------------------------------------------------------------
 
 Case 24173: 05/07/2018 dict=MW, L= 258962, hw=svapna, user=h.c.jahr
@@ -661,10 +1358,29 @@ comment = Because the stem is given, on the printed text, together with vividiSu
 status =  Corrected 05/14/2018
 ------------------------------------------------------------------------
 
+Case 24153: 04/12/2018 dict=mw, L= 97998, hw=dreSya, user=ejf
+old = dris
+new = driS
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
 Case 24152: 04/12/2018 dict=MW, L=L=91244 , hw=dAna, user=geymonat
 old = communicating, imparting, teaching (cf. brakma-)
 new = communicating, imparting, teaching (cf. brahma-)
 comment = Typo: brakma- is wrong for brahma-
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24151: 04/11/2018 dict=mw, L= 234226, hw=samAna, user=ejf
+old = samAnasmAs
+new = samAnasmAt
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24150: 04/11/2018 dict=mw, L= 168260, hw=mETuna, user=ejf
+old = Bogu
+new = Boga
+comment = Typo - print flaw
 status =  Corrected 05/14/2018
 ------------------------------------------------------------------------
 
@@ -694,6 +1410,19 @@ old = die
 new = dice
 comment = What is assumed to be a typo is present in the original MW scan. LB Page 3,1
 status =  Corrected 05/14/2018 (see next)
+------------------------------------------------------------------------
+
+Case 24140: 03/26/2018 dict=mw, L= 23282, hw=AQaka, user=ejf
+old = kudava
+new = in slp1, kuqava   (in print, missing dot under 'd')
+comment = print change
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24139: 03/26/2018 dict=mw, L= 51749, hw=kuqava, user=ejf
+old = it med.
+new = in med.
+status =  Corrected 05/14/2018
 ------------------------------------------------------------------------
 
 Case 24137: 03/23/2018 dict=MW, L=195937, hw=vividiSA, user=geymonat
@@ -800,6 +1529,33 @@ comment = Typo (also I wonder if it should be stated that the entry is not in th
 status =  Corrected 05/14/2018
 ------------------------------------------------------------------------
 
+Case 24112: 02/25/2018 dict=mw, L=135332 , hw=प्र- √बुध्, user=zaaf2
+old = Caus. -बोद्हयति
+new = Caus. -बोधयति
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24111: 02/22/2018 dict=mw, L= 192825, hw= vi, user=ejf
+old = Pan5cavBr 
+new = Panchavimsha Brahmana  add new item to ls. Ref wikipedia brahmana
+comment = markup
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24110: 02/22/2018 dict=mw, L= 137069, hw=praviS, user=ejf
+old = eari.e
+new = ear i.e.  Space needed)
+comment = markup
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24107: 02/16/2018 dict=mw, L= 101815, hw=Df, user=ejf
+old = scil
+new = <ab>scil.</ab>
+comment = markup
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
 Case 24105: 02/12/2018 dict=MW, L= L=80373, hw=jJAtR, user=Caujolle
 old = (v.l. sakskin)
 new = (v.l. sAkSin)
@@ -812,10 +1568,63 @@ new = kftakzaRa
 status =  Corrected 05/01/2018
 ------------------------------------------------------------------------
 
+Case 24103: 02/10/2018 dict=mw, L= 257112, hw=smf, user=ejf
+old = p. 1272
+new = p. 1271
+comment = markup
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24102: 02/09/2018 dict=mw, L= 17472, hw=avaDAv, user=ejf
+old = to run down drop down from
+new = to run down , drop down from
+comment = Typo - missing comma
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24100: 02/06/2018 dict=mw, L= 59668, hw=kzIra, user=ejf
+old = Asclepia rosea
+new = <bot>Asclepia rosea</bot>
+comment = markup
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24096: 02/03/2018 dict=mw, L= 170391, hw=yama, user=ejf
+old = in one hind...
+new = in one hand
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24095: 02/03/2018 dict=mw, L= 21382, hw=asTi, user=ejf
+old = ossis, ostis
+new = Not Sanskrit - Latin
+comment = markup
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
 Case 24093: 02/02/2018 dict=MW, L=L=179062, hw=rUpa, user=Caujolle
 old = ifc. f (ā) ., rarely f (ī) .)
 new = ifc. f (ā), rarely f (ī) )
 comment = strange
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24091: 02/01/2018 dict=mw, L= 4440, hw=aDizWA, user=ejf
+old = to stand upon, depend upon to inhabit abide to stand over 
+new = to stand upon, depend upon ; to inhabit , abide ; to stand over 
+comment = Typo - punctuation
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24088: 01/31/2018 dict=mw, L= 156626, hw=man, user=ejf
+old = tfRaya
+new = tfRAya
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24085: 01/29/2018 dict=mw, L= 131398.32, hw=prati, user=ejf
+old = in comparison with little
+new = ... with Indra
 status =  Corrected 05/14/2018
 ------------------------------------------------------------------------
 
@@ -1010,10 +1819,50 @@ new = Āryav.
 status =  Corrected 05/01/2018
 ------------------------------------------------------------------------
 
+Case 24049: 01/09/2018 dict=mw, L= 102315, hw=Druva, user=ejf
+old = DruvA
+new = missed gender on this through L=102318
+comment = markup
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24048: 01/05/2018 dict=mw, L= 155183, hw=matsara, user=ejf
+old = p. 176
+new = p. 776
+comment = Typo  (prior error is L=155078)
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24047: 01/05/2018 dict=mw, L= 155183, hw=matsara, user=ejf
+old = Un2 
+new = Un2.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24046: 12/31/2017 dict=mw, L= 254842.1, hw=stF, user=ejf
+old = stfnAti
+new = stfRAti
+comment = print mistake
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
 Case 24045: 12/31/2017 dict=MW, L= 71074, hw=catasṛ, user=Chuck Zhao czhao
 old = gen. °sṝṇām ṠBr.  iii, 3, 2, 13 ; or °sṝṇām [ Ved. Pāṇ.  6-4, 5 ] R.  i, 72, 12 and 73, 32
 new = The first °sṝṇām should be °sṛṇām, i.e. short ṛ
 comment = Typo. scan p383.3
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24044: 12/28/2017 dict=mw, L= 120532, hw=paSu, user=ejf
+old = mules arid asses
+new = mules and asses
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24043: 12/28/2017 dict=mw, L= 232903, hw=saBA, user=ejf
+old = also n. saBa
+new = also <lex n="alt">n.</lex>
+comment = markup
 status =  Corrected 01/02/2018
 ------------------------------------------------------------------------
 
@@ -1046,6 +1895,13 @@ Case 24035: 12/20/2017 dict=MW, L= 28548, hw=iti, user=troydeanharris
 old = et caetera
 new = et cetera
 status =  Done 12/20/2017  No change. et caetera is acceptable 
+------------------------------------------------------------------------
+
+Case 24034: 12/19/2017 dict=mw, L= 76043, hw=CedanIya, user=ejf
+old = Strychnos potatorum
+new = <bot>Strychnos potatorum</bot>
+comment = markup
+status =  Done 12/20/2017 Change previously made
 ------------------------------------------------------------------------
 
 Case 24032: 12/16/2017 dict=MW, L= 229804, hw=satya, user=
@@ -1087,6 +1943,12 @@ status = Corrected 12/20/2017  anudAtta instead of udAtta accent
 Case 24024: 12/07/2017 dict=MW, L=3508, hw=atri, user=
 old = atri
 new = átri
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24023: 12/07/2017 dict=mw, L= 81258, hw=wip, user=ejf
+old = root dip
+new = root qip
 status = Corrected 12/20/2017
 ------------------------------------------------------------------------
 
@@ -1145,6 +2007,26 @@ comment = digitizing error
 status = Corrected 12/20/2017
 ------------------------------------------------------------------------
 
+Case 24006: 11/19/2017 dict=mw, L= 28370, hw=Ahuka, user=ejf
+old = great, grandfather
+new = great-grandfather
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24005: 11/18/2017 dict=mw, L= 137491, hw=praSam, user=ejf
+old = appease, calm quench allay, 
+new = appease, calm, quench, allay, 
+comment = Typo - missing two commas
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24004: 11/15/2017 dict=mw, L= 258275, hw=svasTa, user=ejf
+old = sound well
+new = sound , well
+comment = Typo - missing comma
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
 Case 24003: 11/14/2017 dict=MW, L= 68252, hw=gaurI, user=geymonat
 old = The entry is incomplete (see the scanned version for details)
 new = Add everything that is found on the scanned version after ("vAc or voice of the middle region of the air ", i, 164, 41 according to Naigh.  i, 11 and Nir.  xi, 40 )
@@ -1159,10 +2041,47 @@ comment = Typo - lost accent
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
+Case 24000: 11/08/2017 dict=mw, L= 75713.3, hw=Cala, user=ejf
+old = m. form
+new = Should be a separate record for m. form
+comment = markup
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
 Case 23999: 11/06/2017 dict=MW, L= 50515, hw=kiri, user=ejf
 old = Batatas edulis 
 new = <bot>Batatas edulis </bot>
 comment = markup
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23998: 11/06/2017 dict=mw, L= 86163, hw=tulya, user=ejf
+old = n.
+new = tulyam,ind.
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23997: 11/06/2017 dict=mw, L= 121281, hw=pAwa, user=ejf
+old = turAtkara
+new = turotkara  (o<srs/>)
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23996: 11/05/2017 dict=mw, L= 138123, hw=प्रसारण, user=henrytaggart473
+old = 'stretching or spreading not' LB same error also under प्रसार [L=137976]
+new = 'stretching or spreading out'
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23994: 11/03/2017 dict=mw, L= 262876, hw=hita, user=ejf
+old = of ten
+new = often
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23992: 10/31/2017 dict=mw, L= 23898, hw=Adya, user=ejf
+old = Adya, m.
+new = AdyA, f.
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
@@ -1196,6 +2115,13 @@ new = the nave of a chariot's wheel (?)
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
+Case 23981: 10/23/2017 dict=mw, L= 18497, hw=avACid, user=ejf,SergeA
+old = avACid
+new = avAcCid
+comment = print error. Confer mw72/ cC after vowel
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
 Case 23979: 10/21/2017 dict=MW, L= 98082, hw=drORika, user=Peter
 old = a field sown with a dvApara of grain
 new = a field sown with a droRa of grain
@@ -1210,10 +2136,28 @@ comment = *
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
+Case 23977: 10/21/2017 dict=mw, L= 53305, hw=kuSa, user=ejf
+old = of and son of Lava
+new = of a son of Lava
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23976: 10/21/2017 dict=mw, L= 261610, hw=hariza, user=ejf
+old = harska
+new = harsha
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
 Case 23973: 10/19/2017 dict=MW, L= 19174, hw=avekS, user=geymonat
 old = (1. sg. ikSe)
 new = (1. sg. IkSe)
 comment = Typo: an erroneous ikSe (with short i) should be corrected with IkSe (with long I)
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23971: 10/17/2017 dict=mw, L= 256271, hw=snAyu, user=ejf
+old = she
+new = the
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
@@ -1242,6 +2186,24 @@ new = " country of भरत "
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
+Case 23950: 09/29/2017 dict=mw, L= 176191, hw=rAgin, user=ejf
+old = rAgin,  m.
+new = rAgiRI, f.   Also 176192, 176194
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23948: 09/16/2017 dict=mw, L= 211426, hw=SaNk, user=ejf
+old = regard is
+new = regard as
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23798: 09/08/2017 dict=mw, L= 208879, hw=vyaya, user=ejf
+old = griha
+new = gfha
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
 Case 23797: 09/07/2017 dict=MW, L= 1161,3, hw=samAmnAya, user=aprigliano
 old = pAzu-samAmnAyika.
 new = see pazu-samAmnAyika.
@@ -1257,6 +2219,32 @@ status =  Corrected 11/09/2017
 Case 23794: 09/03/2017 dict=MW, L= 165450, hw=mud, user=
 old = mumudithate
 new = mumudiṣate
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23792: 09/01/2017 dict=mw, L= 85945, hw=tumba, user=ejf
+old = Lagenaria vulgaris
+new = <bot>Lagenaria vulgaris</bot>
+comment = markup
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23791: 08/30/2017 dict=mw, L= 28684, hw=iq, user=ejf
+old = inst.
+new = <ab>inst.</ab>
+comment = markup
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23790: 08/29/2017 dict=mw, L= 1319, hw=agredaDizu, user=ejf
+old = agre-diDizu or -diDizu
+new = agre-diDizu or -diDizU
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23789: 08/29/2017 dict=mw, L= 1320, hw=agrediDizu, user=ejf
+old = diDizu or -diDizu
+new = diDizu or -diDizU
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
@@ -1278,10 +2266,37 @@ new = परि-शीलित
 status =  Corrected 11/09/2017
 ------------------------------------------------------------------------
 
+Case 23777: 08/19/2017 dict=mw, L= 76649, hw=jaqa, user=ejf
+old = jalhu
+new = ja|u   
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23776: 08/19/2017 dict=mw, L= 52150, hw=kunda, user=ejf
+old = Nerium odorum
+new = <bot>Nerium odorum</bot>
+comment = markup
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23775: 08/19/2017 dict=mw, L= 59844, hw=kzava, user=ejf
+old = Sinapis dichotoma
+new = <bot>Sinapis dichotoma</bot>
+comment = markup
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
 Case 23774: 08/18/2017 dict=MW, L= 199640, hw=vilas, user=geymonat
 old = Caus. -lAcayati
 new = Caus. -lAsayati
 comment = Typo: a "c" has to be corrected into an "s"
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23769: 08/09/2017 dict=mw, L= 21906, hw=ahiMsra, user=ejf
+old = Cactus Opuntia
+new = <bot>Cactus Opuntia</bot>
+comment = markup
 status =  Corrected 08/19/2017
 ------------------------------------------------------------------------
 
@@ -1316,6 +2331,13 @@ new = = dik-pravibh°
 status =  Corrected 08/19/2017
 ------------------------------------------------------------------------
 
+Case 23759: 07/20/2017 dict=mw, L= 70448, hw=cakrabAlA, user=ejf
+old = Hibiscus cannabinus 
+new = <bot>Hibiscus cannabinus </bot>
+comment = Markup
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
 Case 23758: 07/07/2017 dict=MW, L= 39047, hw=RSi, user=gas
 old = " to » ? "
 new = " to see? "
@@ -1336,10 +2358,152 @@ comment = Error in the book itself
 status =  Corrected 07/12/2017
 ------------------------------------------------------------------------
 
+Case 23754: 07/03/2017 dict=mw, L= 205154, hw=vfzAkapAyI, user=ejf
+old = Asparagus Racemosus 
+new = <bot>Asparagus Racemosus </bot>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23752: 06/30/2017 dict=mw, L= 245047, hw=sItAkuRqa, user=ejf
+old = consecrated to sitA...
+new = consecrated to sItA..
+comment = Typo, long vowel I
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23751: 06/27/2017 dict=mw, L= 95102, hw=dṛḍha-dasyu, user=ejf
+old = dṛhasyu
+new = dṛḍhasyu
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
 Case 23750: 06/27/2017 dict=MW, L= 59591, hw=kSepa, user=jneokai
 old = pain
 new = paint
 status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23749: 06/27/2017 dict=mw, L= 192835, hw=vikaNkawa, user=ejf
+old = Asteracantha Longifolia
+new = <bot>Asteracantha Longifolia</bot>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23747: 06/23/2017 dict=mw, L= 212393, hw=Satru, user=ejf
+old = Asparagus Racemosus
+new = <bot>Asparagus Racemosus</bot>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23744: 06/19/2017 dict=mw, L= 82536, hw=tantrikA, user=ejf
+old = Cocculus cordifolius
+new = <bot>Cocculus cordifolius</bot>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23743: 06/19/2017 dict=mw, L= 2171, hw=ajIgarta, user=ejf
+old = śunaḥ-śepa's 
+new = śunaḥśepha's 
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23742: 06/19/2017 dict=mw, L= 54951, hw=kfmiGna, user=ejf
+old = Vernonia anthelminthica
+new = <bot>Vernonia anthelminthica</bot>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23741: 06/19/2017 dict=mw, L= 176248, hw=rAja, user=ejf
+old = m. (ifc.) = rājan1
+new = m. (ifc.) = rājan <hom>1</hom>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23740: 06/18/2017 dict=mw, L= 105236,7, hw=nAgara, user=ejf
+old = nAgara, m.
+new = nAgarI, f.
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23739: 06/18/2017 dict=mw, L= 51944, hw=kuRqala, user=ejf
+old = Cocculus cordifolius 
+new = <bot>Cocculus cordifolius </bot>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23738: 06/18/2017 dict=mw, L= 51945, hw=kuRqala, user=ejf
+old = Mucuna pruritus
+new = <bot>Mucuna pruritus</bot>
+comment = markup
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23737: 06/14/2017 dict=mw, L= 4663, hw=aDyAvAhanika, user=ejf
+old = which, she receives
+new = which she receives  
+comment = Typo, no comma
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23736: 06/13/2017 dict=mw, L= 105237, hw=nAgara, user=ejf
+old = nAgara
+new = nAgarI, f.
+status =  Corrected 07/12/2017 (duplicate of below)
+------------------------------------------------------------------------
+
+Case 23735: 06/13/2017 dict=mw, L= 105236, hw=nAgara, user=ejf
+old = nAgara
+new = nAgarI
+status =  Corrected 07/12/2017 (duplicate)
+------------------------------------------------------------------------
+
+Case 23734: 06/13/2017 dict=mw, L= 66567, hw=gfhadruma, user=ejf
+old = Tectona grandis
+new = <bot>Tectona grandis</: Corrected 07/12/2017 : Corrected 07/12/2017 bot>
+comment = markup
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23733: 06/13/2017 dict=mw, L= 66566, hw=gfhadruma, user=ejf
+old =  Odina pennata
+new = <bot> Odina pennata</bot>
+comment = markup
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23731: 06/13/2017 dict=mw, L= 59669, hw=kzIrakaYcukin, user=ejf
+old = Lipeocercis serrata
+new = <bot>Lipeocercis serrata</bot>
+comment = markup
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23730: 06/13/2017 dict=mw, L= 45035, hw=karRikAra, user=ejf
+old = Cathartocarpus fistula
+new = <bot>Cathartocarpus fistula</bot>
+comment = markup
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23729: 06/12/2017 dict=mw, L= 262745, hw=hiMsA, user=ejf
+old = Asteracantha Longifolia
+new = <bot>Asteracantha Longifolia</bot>
+comment = markup
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23728: 06/12/2017 dict=mw, L= 262815, hw=hiNguparRI, user=ejf
+old = Gasdenia Gummifera
+new = <bot>Gardenia Gummifera</bot>
+comment = Typo, markup
+status =  Corrected 07/12/2017 
 ------------------------------------------------------------------------
 
 Case 23727: 06/11/2017 dict=MW, L= [L=30000.2], hw=उ, user=Youngsinn Sohn   youngsinn.sohn
@@ -1362,6 +2526,12 @@ new = under mahimán
 status =  Corrected 07/12/2017 
 ------------------------------------------------------------------------
 
+Case 23722: 06/09/2017 dict=mw, L= 170924, hw=yaSoDA, user=ejf
+old = yaSoDA
+new = yaSoDa
+status =  07/12/2017  no change required. DA is correct. cf AP; there is a separate word yaSoDa, with similar meaning.
+------------------------------------------------------------------------
+
 Case 23721: 06/04/2017 dict=MW, L= [L=135116], hw=prapatti, user=Caujolle
 old = it's not a simple typo, a part of the text is missing (after the reference, which itself is not properly fonctioning)
 new = 
@@ -1371,6 +2541,25 @@ status =  reference added to mwauthorities. 01/02/2018
 Case 23719: 06/04/2017 dict=MW, L= 73709, hw=3, user=
 old = Ka1mta1
 new = kAmtA
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23717: 06/03/2017 dict=mw, L= 69928, hw=GUrRa, user=ejf
+old = Erythraea centaureoides
+new = <bot>Erythraea centaureoides</bot>
+comment = markup
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23716: 06/03/2017 dict=mw, L= 101194, hw=Dik, user=ejf
+old = tvAmortava
+new = tvAm or tava 
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23715: 06/03/2017 dict=mw, L= 8930.2, hw=ap, user=ejf
+old = (Delta)
+new = Delete this.  It is English rendering of the Greek letter  δ
 status =  Corrected 07/12/2017 
 ------------------------------------------------------------------------
 
@@ -1394,6 +2583,19 @@ comment = Typo: a "non-" is missing
 status =  Corrected 07/12/2017 
 ------------------------------------------------------------------------
 
+Case 23709: 05/30/2017 dict=mw, L= 213393, hw=SayanEkadaSI, user=ejf
+old = SayanEkadaSI
+new = SayanEkAdaSI
+comment = Print error
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23706: 05/24/2017 dict=mw, L= 74205, hw=cira, user=ejf
+old = along
+new = a long
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
 Case 23704: 05/13/2017 dict=MW, L= 91164, hw=dah, user=
 old = dahṣat
 new = dakṣat
@@ -1406,10 +2608,29 @@ new = °kshur
 status =  Corrected 07/12/2017 
 ------------------------------------------------------------------------
 
+Case 23701: 05/12/2017 dict=mw, L= 79447, hw=jihma, user=ejf
+old = transverse. athwart
+new = transverse, athwart   [comma, not period]
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23700: 05/12/2017 dict=mw, L= 51408, hw=kuNkuma , user=ejf
+old = Crocus sativus
+new = <bot>Crocus sativus</bot>
+comment = markup
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
 Case 23699: 05/11/2017 dict=MW, L= 255372, hw=sthātṛ, user=
 old = sthā́tṛ́
 new = sthātṛ́
 status =  07/12/2017  no change made. Cannot see a problem.
+------------------------------------------------------------------------
+
+Case 23696: 05/05/2017 dict=mw, L= 242807, hw=sAra, user=ejf
+old = meaning.
+new = meaning
+status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
 Case 23694: 05/04/2017 dict=MW, L= 110540, hw=nizam, user=geymonat
@@ -1422,6 +2643,12 @@ status =  Corrected 05/08/2017 - involves change to disp.php for MW. ref https:/
 Case 23693: 05/04/2017 dict=MW, L=2565 , hw=ati, user=geymonat
 old = ,Intens.
 new = , intense
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
+
+Case 23691: 05/01/2017 dict=mw, L= 105725.7, hw=नाम, user=zaaf2
+old = अपि नामई*वं स्यात्
+new = अपि नामै*वं स्यात्
 status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
@@ -1451,6 +2678,25 @@ new = egardless of,
 status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
+Case 23684: 04/20/2017 dict=mw, L= 167430, hw=mfz, user=ejf
+old = arnrizat 
+new = amfzat
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
+
+Case 23683: 04/18/2017 dict=mw, L= 21154.3, hw=असृज्, user=zaaf2
+old = असृज् [p= 121] : क् mfn. (once द् TS.  vii) (m. or f. only Hariv.  9296) blood 
+new = असृज् [p= 121] : क् (once द् TS.  vii), n. (m. or f. only Hariv.  9296) blood
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
+
+Case 23682: 04/15/2017 dict=mw, L= 47732, hw=kAnta, user=ejf
+old = Piper aurantiacum
+new = <bot>Piper aurantiacum</bot>
+comment = markup
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
+
 Case 23681: 04/06/2017 dict=MW, L= 234068, hw=samāgama, user=
 old = saha gen.
 new = saha, gen.
@@ -1463,9 +2709,23 @@ new = as into water
 status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
+Case 23679: 04/04/2017 dict=mw, L= 87903, hw=tripada, user=ejf
+old = Cissus pedata 
+new = <bot>Cissus pedata</bot>
+comment = markup
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
+
 Case 23678: 04/04/2017 dict=MW, L= 42763.2, hw=katham, user=geymonat
 old = katkaM nu
 new = kathaM nu
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
+
+Case 23677: 04/01/2017 dict=mw, L= 74348, hw=cirBawa , user=ejf
+old = Cucumis utilissimus 
+new = <bot>Cucumis utilissimus </bot>
+comment = markup
 status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
@@ -1492,6 +2752,39 @@ old = m. belief firm conviction, trust,
 new = m. belief, firm conviction, trust, 
 comment = Typo, a comma missing
 status =  corrected 03/16/2017
+------------------------------------------------------------------------
+
+Case 23644: 02/22/2017 dict=mw, L= 50369, hw=किंचिद्छेष, user=zaaf2
+old = किंचिद्छेष
+new = किंचिच्छेष
+comment = Typo (observe that in the printed edition the form किंचिच् in the preceding entry is applied to the following किंचिच्छेष too. Sandhi rule does not allow किंचिद्छेष)
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
+
+Case 23643: 02/22/2017 dict=mw, L= 115454, hw=padya, user=ejf
+old = padya, m.
+new = padyA, f.
+comment = also 115455, same problem.
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
+
+Case 23641: 02/20/2017 dict=mw, L= 92769, hw=दीप्, user=zaaf2
+old = दिप्यति MBh.  pf. दिदीपे Ragh.  v, 47 ; fut. दीपिष्यते, दीपिता ; aor. अदीपि, अदिपिष्ट inf. दिपितुम्
+new = दीप्यति MBh.  pf. दिदीपे Ragh.  v, 47 ; fut. दीपिष्यते, दीपिता ; aor. अदीपि, अदीपिष्ट inf. दीपितुम्
+status =  Corrected 02/20/2017
+------------------------------------------------------------------------
+
+Case 23640: 02/20/2017 dict=mw, L= 92769, hw=दीप्, user=zaaf2
+old = Caus. दिपयति, °ते aor. अदीदिपत् or अदिदिपत्
+new = Caus. दीपयति, °ते aor. अदीदिपत् or अदिदीपत्
+status =  Corrected 02/20/2017
+------------------------------------------------------------------------
+
+Case 23637: 02/16/2017 dict=mw, L= 80152, hw=jfMBin, user=ejf
+old = Mimosa octandra
+new = <bot>Mimosa octandra</bot>
+comment = markup
+status =  Corrected 02/20/2017
 ------------------------------------------------------------------------
 
 Case 23636: 02/16/2017 dict=MW, L= L=21632, hw=अह, user=youngsinn.sohn
@@ -1522,6 +2815,12 @@ comment = markup
 status =  Corrected 02/20/2017
 ------------------------------------------------------------------------
 
+Case 23623: 01/20/2017 dict=mw, L= 112298, hw=nEkatya, user=ejf
+old = nEkatya
+new = nEkawya
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
 Case 23622: 01/17/2017 dict=MW, L= 202253, hw=viSvaJc, user=geymonat
 old = n.
 new = ind.
@@ -1536,6 +2835,24 @@ comment = mistake in reading the dictionary, where it's clear that we are not ta
 status =  Corrected 01/25/2017
 ------------------------------------------------------------------------
 
+Case 23619: 01/16/2017 dict=mw, L= 128909, hw=pF, user=ejf
+old = pUyamAna
+new = pUryamAna  (under passive forms)
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
+Case 23618: 01/16/2017 dict=mw, L= 209836, hw=vyApf, user=ejf
+old = priRute
+new = pfRute
+status =  Corrected 01/25/2017: Corrected 01/25/2017
+------------------------------------------------------------------------
+
+Case 23617: 01/16/2017 dict=mw, L= 1496, hw=aNga, user=ejf
+old = rendered by, well
+new = rendered  by well  (remove the comma)
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
 Case 23616: 01/14/2017 dict=MW, L= 130458, hw=pragATa, user=Peter
 old = Pragai
 new = {p}ragATa
@@ -1547,6 +2864,25 @@ Case 23614: 01/13/2017 dict=MW, L= , hw=अजस्र:, user=
 old = 
 new = 
 status =  Not enough information to correct,  01/25/2017
+------------------------------------------------------------------------
+
+Case 23613: 01/12/2017 dict=mw, L= 17018, hw=avakalpita, user=ejf
+old = SreRy'-Adi
+new = SreRy-Adi  (no avagraha)
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
+Case 23612: 01/11/2017 dict=mw, L= 178517, hw=rudra, user=ejf
+old = dru2 
+new = <hom>2</hom> dru
+comment = markup
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
+Case 23611: 01/09/2017 dict=mw, L= 58998, hw=kzapA, user=ejf
+old = for  1. ksk°
+new = for  1. ksh°
+status =  Corrected 01/25/2017
 ------------------------------------------------------------------------
 
 Case 23608: 01/06/2017 dict=MW, L= 166706, hw=mftyu, user=ejf
