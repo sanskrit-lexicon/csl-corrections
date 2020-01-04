@@ -15,7 +15,7 @@ def read_pending_entries(tsvfile, lastcfrline):
 	#print('lst=',lst)
 	counter = 0
 	result = []
-        pending_lines = [] # the lines and counter values corresponding to result
+	pending_lines = [] # the lines and counter values corresponding to result
 	for line in codecs.open(tsvfile, 'r', 'utf-8'):
 		entry = line.rstrip().split('\t')
 		if counter < lst:
@@ -43,7 +43,7 @@ def read_pending_entries(tsvfile, lastcfrline):
 def create_issue(entry):
 	username = os.environ['GITHUB_USER']
 	password = os.environ['GITHUB_PASSWORD']
-        print(username,password)
+	print(username,password)
 	#print('entry=',entry)
 	s = requests.Session()
 	s.auth = (username, password)
@@ -70,7 +70,7 @@ if __name__ == "__main__":
 		if status == requests.codes.created:
 			#update last_cfr_file
 			# note the '+1'
-			print('uploaded issue',entry.title)
+			print('uploaded issue',entry['title'])
 			codecs.open(lastcfrline, 'w', 'utf-8').write(str(counter+1))
 		else:
 			# some problem

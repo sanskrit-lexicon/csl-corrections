@@ -101,6 +101,7 @@ def outputrec(rec,i):
 
 def generate_output(dcode,filename,recs):
  allarr =[] # array of all output lines
+ #print('generate_output: dcode=',dcode)
  if dcode == "ALL":
   out = "Sanskrit Lexicon Correction Form History"
  else:
@@ -123,7 +124,7 @@ def generate_output(dcode,filename,recs):
  # so new data at the top.
  for i in range(m-1,-1,-1):
   rec = recs[i]
-  if not (dcode in ['ALL',rec.dict]):
+  if not (dcode in ['ALL',rec.dict.upper()]):  
    continue
   nfound = nfound + 1
   outar = outputrec(rec,i)
@@ -210,10 +211,11 @@ def adjust(filein,fileout):
    hrec = rec
    continue
   recsin.append(rec)
-  d = rec.dict
+  d = rec.dict.upper()
   if d not in dictmap:
    dictmap[d] = []
   dictmap[d].append(rec)
+ #print('check: dictmap keys=',dictmap.keys())
  f.close()
 
  # sort recsin in order of sorttime
