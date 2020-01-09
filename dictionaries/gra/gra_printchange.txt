@@ -60,4 +60,25 @@ L code : Headword : Old  : New : Comment
 6725   : mahAyya  : 697,8 : 679,8 : 
 6432   : BUrRI    : ásya spácas : ásya spáśas : 
 ----------------------------------------------------------------------
+01-09-2020
+Submitted by ejf.  
+Problem noticed by Mārcis Gasūns 
+(ref: https://github.com/sanskrit-lexicon/GRA/issues/5)
+These print changes are in the references to rgveda. In each case,
+a reference appears in the form xxx.y;  
+the period should be a comma, xxx,y
+L code : Headword : Old  : New : Comment
+616 : ap : 312.8 : 312,8
+1582 : Ayus : 287. 7 : 287,7
+4544 : draviRa : 861.13 : 861,13
+5079 :  nu :  644. 11 :  644,11
+5085 : nf : 116. 7 :  116,7
+5549 : pur : 862.18 : 862,18
+5905 : praTama :  803. 1 : 803,1
+6268 : brahman : 165. 2 :  165,2
+6401 : Buvana :  289. 10 :  289,10
+8890 : SUra :  460.6 :  460,6
+10036 : suzwuti : 320.1 :  320,1
+
+----------------------------------------------------------------------
 
