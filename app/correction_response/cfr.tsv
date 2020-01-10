@@ -24549,17 +24549,17 @@
 01/03/2020 22:13:50	mw	 144580	bAlaboDa	Wks.	<ab>Wks.</ab>.  Add this to mwab_input.txt also	markup	ejf:Corrected 01/03/2020
 01/04/2020 23:55:33	PW	25094 	kartavya	— 2) n. das Zuthuenden ,	— 2) n. das Zuthuende ,	Typo "n" too much	frank.ziesing@web.de:Corrected 01/10/2020
 01/05/2020 06:02:09	VCP	 36708	भू	सम् + योग्यत्वे अक० । सम्भाति	सम् + योग्यत्वे अक० । सम्भवति	Typo	chandrasekharanr@gmail.com
-01/06/2020 01:38:03	mw	 227696	sakft	7. sa + 1. kṛt)	<hom>7.</hom> sa + <hom>1.</hom>kṛt	markup	ejf
+01/06/2020 01:38:03	mw	 227696	sakft	7. sa + 1. kṛt)	<hom>7.</hom> sa + <hom>1.</hom>kṛt	markup	ejf:Corrected 01/10/2020
 01/06/2020 01:50:08	ap90	 10066	kaṭhinikā 	kaWinI	alternate headword	markup	ejf:Corrected 01/10/2020
-01/06/2020 02:02:24	mw	 221883	SOrya	Vārtt. 2.	Underlined, but no tool tip	markup	ejf
-01/08/2020 09:40:03	MW	 156872	manu	you missed 10th  and 11th Manu in the description of 14 Manus - (10) Brahma-sāvarṇi Manu, (11) Dharma-sāvarṇi Manu, 	the 10th Brahma-sāvarṇi; the 11th Dharma-sāvarṇi; 	Missed info	natalia.fedorova@mail.ru
-01/08/2020 14:58:05	MW	 189435	vA	1. vā ind. or (excluded, like the Lat. ve, from the first place in a sentence, and generally immediately following, rarely and only m.c. preceding, the word to which it refers), RV.  &c. 	note that here, in the abbreviation m.c. only the c is underlined and so instead of giving as meaning, "metri causâ", it gives erroneously,  "case". This mistake is  repeated all over the dictionary, it would be good to correct it. I went to the abbreviations page to find out the meaning.		Caujolle
+01/06/2020 02:02:24	mw	 221883	SOrya	Vārtt. 2.	Underlined, but no tool tip	markup	ejf:Corrected 01/10/2020. ref: https://github.com/sanskrit-lexicon/csl-orig/issues/100
+01/08/2020 09:40:03	MW	 156872	manu	you missed 10th  and 11th Manu in the description of 14 Manus - (10) Brahma-sāvarṇi Manu, (11) Dharma-sāvarṇi Manu, 	the 10th Brahma-sāvarṇi; the 11th Dharma-sāvarṇi; 	Missed info	natalia.fedorova@mail.ru:Corrected 01/10/2020
+01/08/2020 14:58:05	MW	 189435	vA	1. vā ind. or (excluded, like the Lat. ve, from the first place in a sentence, and generally immediately following, rarely and only m.c. preceding, the word to which it refers), RV.  &c. 	note that here, in the abbreviation m.c. only the c is underlined and so instead of giving as meaning, "metri causâ", it gives erroneously,  "case". This mistake is  repeated all over the dictionary, it would be good to correct it. I went to the abbreviations page to find out the meaning.		Caujolle:Corrected 01/10/2020
 01/08/2020 18:11:08	AP90	 86	akuśala	— laM	—  -laṃ	possible error in failing to convert from Itrans to standard romanization?	Erik Bjørn Pedersen, erik.pedersen@shaw.ca:Corrected 01/10/2020
 01/08/2020 19:04:46	AP90	 106	akra	— kraH	-kraḥ	possible error in conversion from Itrans to standard romanization (?)	Erik Bjørn Pedersen (erik.pedersen@shaw.ca):Corrected 01/10/2020
 01/08/2020 21:07:09	AP90	 247	aṃk	acurve.	a  curve.	omitted word space after indefinite article	Erik Bjørn Pedersen (erik.pedersen@shaw.ca):Corrected 01/10/2020
 01/08/2020 23:44:27	AP90	294	aṃgiraḥ	luminou	luminous	typo exists in original 1890 book; it's the last word on page 20.	Erik Bjørn Pedersen (erik.pedersen@shaw.ca):Corrected 01/10/2020
 01/09/2020 22:32:31	GRA	 10749	hoti	hoti	hotf	Typo	ejf, for Daniel Kölligan:Corrected 01/10/2020
-01/10/2020 09:29:46	MW	 213058	zam	sometimes joined with the verbs bhū, as, kṛ, dā, vah, yā, 	in the dict. display, the verb "as" is here not in green so it looks like an English word, making the sentence incomprehensible.		Happy Year 2020 Caujolle
+01/10/2020 09:29:46	MW	 213058	zam	sometimes joined with the verbs bhū, as, kṛ, dā, vah, yā, 	in the dict. display, the verb "as" is here not in green so it looks like an English word, making the sentence incomprehensible.		Happy Year 2020 Caujolle:Corrected 1/10/2020
 01/10/2020 12:24:58	BUR	 16528	zata	répèté	répété	Typo	Caujolle:Corrected 01/10/2020
-01/10/2020 15:57:14	MW	 106947	nir/nirguNa/nirguNamAnasa	 nirguṇamāmasa (title) and nir—gu°ṇa-māmasa	 nirguṇamānasa 	Typo	Caujolle
-01/10/2020 16:11:23	MW	 91664	dAra	strangely,  Vārtt. 4 is underlined but the explanation is not opening contrary to the other words around underlined			Caujolle
+01/10/2020 15:57:14	MW	 106947	nir/nirguNa/nirguNamAnasa	 nirguṇamāmasa (title) and nir—gu°ṇa-māmasa	 nirguṇamānasa 	Typo	Caujolle:Corrected 01/10/2020
+01/10/2020 16:11:23	MW	 91664	dAra	strangely,  Vārtt. 4 is underlined but the explanation is not opening contrary to the other words around underlined			Caujolle:Corrected 01/10/2020. ref: https://github.com/sanskrit-lexicon/csl-orig/issues/100

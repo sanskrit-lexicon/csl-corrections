@@ -1013,3 +1013,11 @@ user: zaaf2
 L code : Headword : Old  : New : Comment
 36910  : upe      : -eti : -Eti : confirmed (a) MW72, (b) AP
 -----------------------------------------------------------------------
+01-10-2020
+submitted by natalia.fedorova
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/101
+L code : Headword : Old  : New : Comment
+156872 : manu :   see below : see below
+text missed 10th  and 11th Manu in the description of 14 Manus.
+new:  the 10th Brahma-sāvarṇi; the 11th Dharma-sāvarṇi
+-----------------------------------------------------------------------

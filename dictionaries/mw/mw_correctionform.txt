@@ -1,53 +1,53 @@
 Sanskrit Lexicon Correction Form History for MW
 As of January 10, 2020
-1444 correction records, with 7 PENDING
+1444 correction records, with 0 PENDING
 
 Case 24564: 01/10/2020 dict=MW, L= 91664, hw=dAra, user=Caujolle
 old = strangely,  Vārtt. 4 is underlined but the explanation is not opening contrary to the other words around underlined
 new = 
 comment = 
-status = PENDING
+status = Corrected 01/10/2020. ref: https://github.com/sanskrit-lexicon/csl-orig/issues/100
 ------------------------------------------------------------------------
 
 Case 24563: 01/10/2020 dict=MW, L= 106947, hw=nir/nirguNa/nirguNamAnasa, user=Caujolle
 old =  nirguṇamāmasa (title) and nir—gu°ṇa-māmasa
 new =  nirguṇamānasa 
-status = PENDING
+status = Corrected 01/10/2020
 ------------------------------------------------------------------------
 
 Case 24561: 01/10/2020 dict=MW, L= 213058, hw=zam, user=Happy Year 2020 Caujolle
 old = sometimes joined with the verbs bhū, as, kṛ, dā, vah, yā, 
 new = in the dict. display, the verb "as" is here not in green so it looks like an English word, making the sentence incomprehensible.
 comment = 
-status = PENDING
+status = Corrected 1/10/2020
 ------------------------------------------------------------------------
 
 Case 24555: 01/08/2020 dict=MW, L= 189435, hw=vA, user=Caujolle
 old = 1. vā ind. or (excluded, like the Lat. ve, from the first place in a sentence, and generally immediately following, rarely and only m.c. preceding, the word to which it refers), RV.  &c. 
 new = note that here, in the abbreviation m.c. only the c is underlined and so instead of giving as meaning, "metri causâ", it gives erroneously,  "case". This mistake is  repeated all over the dictionary, it would be good to correct it. I went to the abbreviations page to find out the meaning.
 comment = 
-status = PENDING
+status = Corrected 01/10/2020
 ------------------------------------------------------------------------
 
 Case 24554: 01/08/2020 dict=MW, L= 156872, hw=manu, user=natalia.fedorova
 old = you missed 10th  and 11th Manu in the description of 14 Manus - (10) Brahma-sāvarṇi Manu, (11) Dharma-sāvarṇi Manu, 
 new = the 10th Brahma-sāvarṇi; the 11th Dharma-sāvarṇi; 
 comment = Missed info
-status = PENDING
+status = Corrected 01/10/2020
 ------------------------------------------------------------------------
 
 Case 24553: 01/06/2020 dict=mw, L= 221883, hw=SOrya, user=ejf
 old = Vārtt. 2.
 new = Underlined, but no tool tip
 comment = markup
-status = PENDING
+status = Corrected 01/10/2020. ref: https://github.com/sanskrit-lexicon/csl-orig/issues/100
 ------------------------------------------------------------------------
 
 Case 24551: 01/06/2020 dict=mw, L= 227696, hw=sakft, user=ejf
 old = 7. sa + 1. kṛt)
 new = <hom>7.</hom> sa + <hom>1.</hom>kṛt
 comment = markup
-status = PENDING
+status = Corrected 01/10/2020
 ------------------------------------------------------------------------
 
 Case 24548: 01/03/2020 dict=mw, L= 144580, hw=bAlaboDa, user=ejf
