@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of December 20, 2019
-394 correction records, with 0 PENDING
+As of January 10, 2020
+395 correction records, with 1 PENDING
+
+Case 24550: 01/05/2020 dict=VCP, L= 36708, hw=भू, user=chandrasekharanr
+old = सम् + योग्यत्वे अक० । सम्भाति
+new = सम् + योग्यत्वे अक० । सम्भवति
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24504: 10/29/2019 dict=VCP, L= 26789, hw=द्विषत्, user=chandrasekharanr
 old = द्विध—शतृ

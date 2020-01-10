@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 03, 2020
-11788 correction records, with 0 PENDING
+As of January 10, 2020
+11789 correction records, with 0 PENDING
+
+Case 24549: 01/04/2020 dict=PW, L=25094 , hw=kartavya, user=frank.ziesing
+old = — 2) n. das Zuthuenden ,
+new = — 2) n. das Zuthuende ,
+comment = Typo "n" too much
+status = Corrected 01/10/2020
+------------------------------------------------------------------------
 
 Case 24547: 12/29/2019 dict=PW, L=86451 , hw=mārjāra, user=joerg.gengnagel
 old = 1)  LB b) eine wilde Ratze.

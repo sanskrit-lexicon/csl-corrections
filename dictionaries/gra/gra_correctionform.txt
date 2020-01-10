@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of July 22, 2019
-380 correction records, with 0 PENDING
+As of January 10, 2020
+381 correction records, with 0 PENDING
+
+Case 24560: 01/09/2020 dict=GRA, L= 10749, hw=hoti, user=ejf, for Daniel Kölligan
+old = hoti
+new = hotf
+status = Corrected 01/10/2020
+------------------------------------------------------------------------
 
 Case 24416: 05/28/2019 dict=GRA, L= 1102, hw=áva, user=caio.geraldes
 old = 

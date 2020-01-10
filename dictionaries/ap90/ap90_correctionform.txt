@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 28, 2019
-429 correction records, with 0 PENDING
+As of January 10, 2020
+434 correction records, with 0 PENDING
+
+Case 24559: 01/08/2020 dict=AP90, L=294, hw=aṃgiraḥ, user=Erik Bjørn Pedersen (erik.pedersen
+old = luminou
+new = luminous
+comment = typo exists in original 1890 book; it's the last word on page 20.
+status = Corrected 01/10/2020
+------------------------------------------------------------------------
+
+Case 24558: 01/08/2020 dict=AP90, L= 247, hw=aṃk, user=Erik Bjørn Pedersen (erik.pedersen
+old = acurve.
+new = a  curve.
+comment = omitted word space after indefinite article
+status = Corrected 01/10/2020
+------------------------------------------------------------------------
+
+Case 24557: 01/08/2020 dict=AP90, L= 106, hw=akra, user=Erik Bjørn Pedersen (erik.pedersen
+old = — kraH
+new = -kraḥ
+comment = possible error in conversion from Itrans to standard romanization (?)
+status = Corrected 01/10/2020
+------------------------------------------------------------------------
+
+Case 24556: 01/08/2020 dict=AP90, L= 86, hw=akuśala, user=Erik Bjørn Pedersen, erik.pedersen
+old = — laM
+new = —  -laṃ
+comment = possible error in failing to convert from Itrans to standard romanization?
+status = Corrected 01/10/2020
+------------------------------------------------------------------------
+
+Case 24552: 01/06/2020 dict=ap90, L= 10066, hw=kaṭhinikā , user=ejf
+old = kaWinI
+new = alternate headword
+comment = markup
+status = Corrected 01/10/2020
+------------------------------------------------------------------------
 
 Case 24531: 12/05/2019 dict=AP90, L= 2252, hw=अप्, user=hrmndrsingh
 old = आपः, अपः, अद्भिः, अद्भ्यः अपां and अप्सु,
