@@ -1,5 +1,9 @@
+Jan 10, 2020 Changes to Vartt. abbreviations in mw. About 1200 lines changed.
+    ref: https://github.com/sanskrit-lexicon/csl-orig/issues/100
 Jan 9, 2020   Greek text in GRA; also 1 case of Hebrew text.
   see https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/gra/greek
+Dec 20, 2020  BUR capital abbreviations. about 4000 changes.
+  Ref : https://github.com/sanskrit-lexicon/csl-corrections/issues/5#issuecomment-568121482
 July 18, 2019 Corrections of c-cedilla to Ś/ś in STC.
   see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/430.
   roughly 655 changes.
