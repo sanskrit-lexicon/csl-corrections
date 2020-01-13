@@ -1,37 +1,37 @@
 Sanskrit Lexicon Correction Form History for MW
 As of January 13, 2020
-1449 correction records, with 5 PENDING
+1449 correction records, with 0 PENDING
 
 Case 24570: 01/12/2020 dict=mw, L= 125104, hw=puMsa, user=ejf
 old = for 2. puṃs
 new = for <hom>2.</hom> puṃs
 comment = markup
-status = PENDING
+status = Corrected 01/13/2020
 ------------------------------------------------------------------------
 
 Case 24569: 01/12/2020 dict=mw, L= 94067, hw=durnivAra, user=ejf
 old = to be kept back unrestrainable,
 new = to be kept back, unrestrainable,  (missing comma)
-status = PENDING
+status = Corrected 01/13/2020
 ------------------------------------------------------------------------
 
 Case 24568: 01/11/2020 dict=mw, L= 137153, hw=pravIRatA, user=ejf
 old = (no definition given)
-new = skill, proficiency, Kāv.  (Same as for pravIRatA)
+new = skill, proficiency, Kāv.  (Same as for pravIRatva)
 comment = Markup
-status = PENDING
+status = Corrected 01/13/2020
 ------------------------------------------------------------------------
 
 Case 24567: 01/11/2020 dict=mw, L= 144480, hw=bAla, user=ejf
 old = kunāra, or boys
 new = kumāra or boys
-status = PENDING
+status = Corrected 01/13/2020
 ------------------------------------------------------------------------
 
 Case 24566: 01/11/2020 dict=mw, L= 144474, hw=bAla, user=ejf
 old = per. sons and things
 new = persons and things
-status = PENDING
+status = Corrected 01/13/2020
 ------------------------------------------------------------------------
 
 Case 24564: 01/10/2020 dict=MW, L= 91664, hw=dAra, user=Caujolle
