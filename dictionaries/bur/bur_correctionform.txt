@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of January 10, 2020
-705 correction records, with 0 PENDING
+As of January 13, 2020
+706 correction records, with 1 PENDING
+
+Case 24565: 01/11/2020 dict=BUR, L= 1043, hw=abhava , user=Caujolle
+old = this entry begins by, "abhava abhava m. et abhāva..." 
+new = this entry is both for abhava and abhAva, so i suggest to add abhāva as an entry which sends to abhava
+comment = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24562: 01/10/2020 dict=BUR, L= 16528, hw=zata, user=Caujolle
 old = répèté
