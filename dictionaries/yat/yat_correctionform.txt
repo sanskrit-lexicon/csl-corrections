@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of December 19, 2019
-209 correction records, with 0 PENDING
+As of January 20, 2020
+210 correction records, with 0 PENDING
+
+Case 24574: 01/20/2020 dict=yat, L= 18342, hw=dArwwura, user=ejf
+old = dArwwura
+new = dArddura
+comment = Print error
+status = Corrected 01/20/2020
+------------------------------------------------------------------------
 
 Case 24511: 11/13/2019 dict=YAT, L= , hw=u-pratiBā, user=
 old = 

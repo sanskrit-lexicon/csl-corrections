@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for STC
-As of December 19, 2019
-80 correction records, with 0 PENDING
+As of January 20, 2020
+81 correction records, with 0 PENDING
+
+Case 24572: 01/15/2020 dict=STC, L= 8866, hw=go, user=Caujolle
+old = °yuta- a. v. fréquenté par les bestiaux ; nt. == gavyūti- (s. v.).
+new = °yuta- a. v. fréquenté par les bestiaux ; nt. = gavyūti- (s. v.).
+status = Corrected 01/20/2020
+------------------------------------------------------------------------
 
 Case 24509: 11/07/2019 dict=STC, L= 15705, hw=preS, user=Caujolle
 old = (2IṢ-) 

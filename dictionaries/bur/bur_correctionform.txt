@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of January 13, 2020
-706 correction records, with 0 PENDING
+As of January 20, 2020
+707 correction records, with 0 PENDING
+
+Case 24571: 01/14/2020 dict=BUR, L= 101, hw=agni , user=Caujolle
+old = agniṣṭha m. (sthā) poële à frire. 
+new = agniṣṭha m. (sthā) poêle à frire. 
+comment = Typo (poële is an old way of writing poêle, but is no more of use now, moreover most of the occurences of the word in this dictionary write anyway, poêle .) Please correct also the same under piṭhara [Cologne record ID=11073]
+status = Corrected 01/20/2020
+------------------------------------------------------------------------
 
 Case 24565: 01/11/2020 dict=BUR, L= 1043, hw=abhava , user=Caujolle
 old = this entry begins by, "abhava abhava m. et abhāva..." 
