@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 20, 2020
-1450 correction records, with 0 PENDING
+As of January 22, 2020
+1452 correction records, with 0 PENDING
+
+Case 24578: 01/22/2020 dict=mw, L= 112063, hw=nFMHpraRetra, user=ejf
+old = nFMHpraRetra
+new = nF~HpraRetra
+status = Corrected 01/22/2020
+------------------------------------------------------------------------
+
+Case 24577: 01/22/2020 dict=mw, L= 111941, hw=nFnHpraRetra , user=ejf
+old = nFnHpraRetra 
+new = nF~HpraRetra 
+status = Corrected 01/22/2020
+------------------------------------------------------------------------
 
 Case 24573: 01/16/2020 dict=mw, L= 151473, hw=Buvana, user=ejf
 old = (rarely m.) the world

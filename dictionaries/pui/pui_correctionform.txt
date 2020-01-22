@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of July 22, 2019
-644 correction records, with 0 PENDING
+As of January 22, 2020
+645 correction records, with 0 PENDING
+
+Case 24576: 01/21/2020 dict=pui, L= 9678, hw=BIzMacaRqika, user=ejf
+old = BIzMacaRqika
+new = BIzmacaRqika
+comment = print change
+status = Corrected 01/22/2020
+------------------------------------------------------------------------
 
 Case 24396: 04/15/2019 dict=PUI, L= 10078, hw=Manasa, user=v.haravu
 old = Manasa
