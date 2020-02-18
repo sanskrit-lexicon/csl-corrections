@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of January 10, 2020
-381 correction records, with 0 PENDING
+As of February 17, 2020
+382 correction records, with 0 PENDING
+
+Case 24591: 01/30/2020 dict=GRA, L= 5738, hw=pṛch, user=yiren_zhang_1997
+old = -ai [1. s. Iv.] sám 1) tvena 384,2. 
+new = -ai [1. s. Iv.] sám 1) tvena 314,2. 
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
 
 Case 24560: 01/09/2020 dict=GRA, L= 10749, hw=hoti, user=ejf, for Daniel Kölligan
 old = hoti

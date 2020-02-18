@@ -1,6 +1,56 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 10, 2020
-11789 correction records, with 0 PENDING
+As of February 17, 2020
+11797 correction records, with 0 PENDING
+
+Case 24610: 02/14/2020 dict=pw, L= 99683, hw=vahanI, user=ejf
+old = Av.
+new = <ab>Adv.</ab>
+status =  Corrected 02/17/20
+------------------------------------------------------------------------
+
+Case 24609: 02/14/2020 dict=pw, L= 86916, hw=miTyA, user=ejf
+old = mit Bu
+new = mit BU
+status =  Corrected 02/17/20
+------------------------------------------------------------------------
+
+Case 24608: 02/14/2020 dict=pw, L= 44879, hw=taruz, user=ejf
+old = paruzati
+new = taruzati
+status =  Corrected 02/17/20
+------------------------------------------------------------------------
+
+Case 24607: 02/14/2020 dict=pw, L= 17969, hw=utkaRW, user=ejf
+old = °RaWate
+new = °RWate
+status =  Corrected 02/17/20
+------------------------------------------------------------------------
+
+Case 24606: 02/12/2020 dict=pw, L= 82099, hw=mad, user=ejf
+old = mabd
+new = mand
+status =  Corrected 02/17/20
+------------------------------------------------------------------------
+
+Case 24605: 02/12/2020 dict=pw, L= 50422, hw=diS, user=ejf
+old = drS
+new = darS
+status =  Corrected 02/17/20
+------------------------------------------------------------------------
+
+Case 24589: 01/28/2020 dict=PW, L=46649, hw=tUzRIBAva, user=frank.ziesing
+old = tūṣṇībhāva m. wohl fehlerhaft für tūṣṇībhāva. 
+new = tūṣṇībhāva m. wohl fehlerhaft für tūṣṇīṃbhāva. 
+comment = Typo "ṃ" missing
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
+
+Case 24588: 01/28/2020 dict=PW, L=85901 , hw=mātra, user=frank.ziesing
+old = jātamātre beim blossen Erfahren , so v.a. für die bloss Nachweisung ;
+new = jātamātre beim blossen Erfahren , so v.a. für die blosse Nachweisung ;
+comment = Typo "e" is missing
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
 
 Case 24549: 01/04/2020 dict=PW, L=25094 , hw=kartavya, user=frank.ziesing
 old = — 2) n. das Zuthuenden ,

@@ -1,6 +1,30 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of January 13, 2020
-395 correction records, with 0 PENDING
+As of February 17, 2020
+399 correction records, with 0 PENDING
+
+Case 24597: 02/02/2020 dict=VCP, L= 28189.1, hw=navabaDU, user=ejf
+old = navabaDU
+new = navavaDU
+status = Corrected 02/17/2020 (vcp_hwextra.txt)
+------------------------------------------------------------------------
+
+Case 24596: 02/02/2020 dict=VCP, L= 14081.1, hw=kubera, user=ejf
+old = kubera
+new = kuvera
+status = Corrected 02/17/2020 (vcp_hwextra.txt)
+------------------------------------------------------------------------
+
+Case 24595: 02/02/2020 dict=VCP, L= 32958, hw=pUrRakuwa, user=ejf
+old = pUrRakuwa
+new = pUrRakUwa
+status = Corrected 02/17/2020 (vcp_hwextra.txt)
+------------------------------------------------------------------------
+
+Case 24594: 02/02/2020 dict=VCP, L= 32643, hw=pururavasa, user=ejf
+old = pururavasa
+new = purUravasa
+status = Corrected 02/17/2020 (vcp_hwextra.txt)
+------------------------------------------------------------------------
 
 Case 24550: 01/05/2020 dict=VCP, L= 36708, hw=भू, user=chandrasekharanr
 old = सम् + योग्यत्वे अक० । सम्भाति

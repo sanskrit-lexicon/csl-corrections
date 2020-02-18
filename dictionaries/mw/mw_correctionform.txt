@@ -1,6 +1,80 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 22, 2020
-1452 correction records, with 0 PENDING
+As of February 17, 2020
+1463 correction records, with 0 PENDING
+
+Case 24604: 02/08/2020 dict=mw, L= 22273, hw=Akara, user=ejf
+old = one who scatters i.e. distributes
+new = one who scatters, i.e. distributes
+comment = Typo missing comma
+status =  Corrected 02/17/20
+------------------------------------------------------------------------
+
+Case 24601: 02/03/2020 dict=MW, L=110831, hw=niṣkūṭa, user=
+old = niṣkūṭa
+new = niṣkuṭa
+comment = Concerns page 562 only, not 543
+status = Corrected 02/17/2020 changed to short 'u' (nizkuwa) in L=110831-110837.
+------------------------------------------------------------------------
+
+Case 24600: 02/03/2020 dict=MW, L= 74326, hw=चिरन्तनी, user=rurukumar4
+old = 
+new = 
+status = 02/17/2020  nothing to change. See cirantana in mw and ap90 (which gives fem. as 'nI'
+------------------------------------------------------------------------
+
+Case 24590: 01/29/2020 dict=MW, L= 208672, hw=viddha, user=wujastyk
+old = Entry 196262 viddha ends with reference to the appendix entry on p.1031.  The use of "a" and "b" in the online system suggests that there are two meanings for viddha, but that's not what MW is saying as far as I can see.  On p.1031, he's just referring the reader back to the first entry for more to read about the form viddha.
+new = 
+comment = wrongly suggesting two meanings for viddha.
+status = Nothing to change. 02/17/2020
+------------------------------------------------------------------------
+
+Case 24587: 01/28/2020 dict=MW, L= 97101, hw=dos, user=angirov
+old = dohṣu
+new = doḥṣu
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
+
+Case 24585: 01/27/2020 dict=mw, L= 145432, hw=bIjapUrarasa, user=ejf
+old = Should  be H4 under bIjapUra
+new = 
+comment = markup
+status = Corrected 02/17/2020 Changed L
+------------------------------------------------------------------------
+
+Case 24584: 01/27/2020 dict=mw, L= 145431.1, hw=bIjapUraka, user=ejf
+old = Should be under 145428
+new = 
+comment = markup
+status = Corrected 02/17/2020 Changed L
+------------------------------------------------------------------------
+
+Case 24583: 01/27/2020 dict=mw, L= 145431, hw=bIjapUra, user=ejf
+old = Should be under 145427
+new = 
+comment = markup
+status = Corrected 02/17/2020 Changed L
+------------------------------------------------------------------------
+
+Case 24582: 01/27/2020 dict=mw, L= 122668, hw=pArASara, user=ejf
+old = pArASara
+new = pArASarakalpika
+comment = markup
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
+
+Case 24580: 01/26/2020 dict=mw, L= 20696, hw=asamarTa, user=ejf
+old = Inf. dat. loc.,
+new = <ab>Inf.</ab> dat. loc.,
+comment = Markup. Check 'Inf.' in abbreviations for MW
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
+
+Case 24579: 01/26/2020 dict=mw, L= 134006, hw=pratyaBijYA, user=ejf
+old = of the identify
+new = of the identity
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
 
 Case 24578: 01/22/2020 dict=mw, L= 112063, hw=nFMHpraRetra, user=ejf
 old = nFMHpraRetra

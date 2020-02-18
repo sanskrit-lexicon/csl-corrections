@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of July 22, 2019
-155 correction records, with 0 PENDING
+As of February 17, 2020
+156 correction records, with 0 PENDING
+
+Case 24592: 01/31/2020 dict=acc, L= 7506, hw=cocacInIprakASa, user=ejf
+old = cocacInIprakASa
+new = covacInIprakASa ; also for L=39948
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
 
 Case 23811: 09/11/2017 dict=ACC, L=37452, hw=vESvatmyarahasya, user=dhaval
 old = vESvatmyarahasya

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of December 19, 2019
-2231 correction records, with 0 PENDING
+As of February 17, 2020
+2232 correction records, with 0 PENDING
+
+Case 24603: 02/08/2020 dict=CCS, L= 2859, 2860, 2861, 2862, hw=ālasya, ālāna, ālāpa, ālāpin, user=frank.ziesing
+old = ālasya n. Wassergt.  LB ālāna n. Trägheit.  LB ālāpa n. Pfahl zum Anbinden eines Elefanten.  LB ālāpin m. Rede, Gespräch; Gesang (der Vögel).
+new = ālasya n. Trägheit .  LB ālāna n. Pfahl zum Anbinden eines Elefanten.  LB ālāpa n. Rede, Gespräch; Gesang (der Vögel). LB ālāpin m. redend. 
+comment = Lots of Typos! LB There seems to be some mix up in a few lines. "ālasya" somehow got a translation fragment from the preceeding word. The correct translation  "Trägheit" is given to the following word ālāna (ID 2860). The translation for ālāna again is given in the following word "ālāpa",The following lemma ālāpin has now 2 entries (there should be only one) , the first (should be deleted) being the translation of "ālāpa", and the 2nd the correct one.
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
 
 Case 24527: 11/30/2019 dict=CCS, L= 5038, hw=kup, user=frank.ziesing
 old =  aürnen (Dat. o. Gen.); p.p. kupita erzurnt,

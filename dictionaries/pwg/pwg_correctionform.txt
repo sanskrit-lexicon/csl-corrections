@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of December 18, 2019
-205 correction records, with 0 PENDING
+As of February 17, 2020
+206 correction records, with 0 PENDING
+
+Case 24602: 02/03/2020 dict=PWG, L=82497, hw=yogin, user=Lubomír Ondračka LB ondracka
+old = yāgin
+new = yogin
+status = Corrected 02/17/2020
+------------------------------------------------------------------------
 
 Case 24526: 11/27/2019 dict=PWG, L= 35439, hw=droNa, user=h.c.jahr
 old = Trag
