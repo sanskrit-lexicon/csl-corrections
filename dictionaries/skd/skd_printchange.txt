@@ -116,3 +116,13 @@ L     : headword : old    : new     : comment
 263752 : BadravallikA :  puM : strI : 
 421613 : SElavalkalA :  puM : strI : 
 42054 : hemnA : hemnA : hemnaH :  to agree with puM gender
+----------------------------------------------------------------------
+02-24-2020
+The reference  https://github.com/sanskrit-lexicon/csl-corrections/issues/170
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L     : headword : old    : new     : comment
+36534 : SraBa : SraBa : Srama :
+37043 : za    : za    : zU    :
+37112 : zRuma : zRuma : zRusa : 
+----------------------------------------------------------------------
