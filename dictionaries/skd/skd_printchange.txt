@@ -126,3 +126,10 @@ L     : headword : old    : new     : comment
 37043 : za    : za    : zU    :
 37112 : zRuma : zRuma : zRusa : 
 ----------------------------------------------------------------------
+02-24-2020
+The reference  https://github.com/sanskrit-lexicon/csl-orig/issues/186
+contains details supporting this change.
+These changes initiated by Jim Funderburk
+L     : headword : old    : new     : comment
+35999 : SucaH    : SucaH  : Suca :
+----------------------------------------------------------------------
