@@ -87,4 +87,10 @@ L code : Headword : Old  : New : Comment
 Change submitted by user Lubomír Ondračka
 L code : Headword : Old  : New : Comment
 82497  : yAgin    : yAgin : yogin : missing 'o' vowel sign in Devanagari.
+-----------------------------------------------------------------------
+03/06/2020
+Change submitted by Jim Funderburk.
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/189
+L code : Headword : Old  : New : Comment
+114357 : sparS    : patyupa : pratyupa :
 ----------------------------------------------------------------------
