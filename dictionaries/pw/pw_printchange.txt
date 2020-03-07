@@ -279,3 +279,9 @@ Correction initiated by Dhaval Patel
 L code : Headword     : Old       : New         : Comment
 55763 : Dfzwadmumna : Dfzwadmumna : Dfzwadyumna : dmu
 -------------------------------------------------------------------------
+03-07-2020
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/191
+Correction initiated by Jim Funderburk
+L code : Headword     : Old       : New         : Comment
+81342  : BlaS         : BlaS      : BlAS        : change headword spelling
+-------------------------------------------------------------------------
