@@ -383,4 +383,11 @@ ref: https://github.com/sanskrit-lexicon/csl-orig/issues/131
 L code : Headword  : Old :       New       : Comment
 26985  : veSyaM    : veSyaM :  veSman :
 26986  : veSyA     : veSyA  :  veSyaM :
+-----------------------------------------------------------------------
+03-12-2020
+Source: Jim Funderburk.  
+Add periods after pada references.  Many of these are print changes,
+but not all changes were compared to the scanned images to confirm the
+print change status.  The changes made are shown in the reference:
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/195
 ----------------------------------------------------------------------
