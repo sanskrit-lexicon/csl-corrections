@@ -391,3 +391,9 @@ but not all changes were compared to the scanned images to confirm the
 print change status.  The changes made are shown in the reference:
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/195
 ----------------------------------------------------------------------
+03-12-2020
+Source: Jim Funderburk.  
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/197
+L code : Headword  : Old :       New       : Comment
+15941  : DanIyatI  : DanIyatI : DanIyati  : Denominative verb, 3rd sing.
+-----------------------------------------------------------------------
