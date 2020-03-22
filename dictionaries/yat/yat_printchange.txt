@@ -77,3 +77,31 @@ L code : Headword : Old  : New : Comment
 32702 : lAc : lAc : loc
 42338 : sUk : sUk : sUc
 ----------------------------------------------------------------------
+03/22/2020
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/202
+Source: jim funderburk
+In these verb entries, one or more lines had a 'with ' added before a 
+prefix.  The changes may be seen in the reference above.
+L code : Headword : number of lines with an extra 'with' added
+3804 : as : 1
+10016 : kuc : 1
+20012 : DA : 14
+20180 : DU : 2
+22484 : pat : 8
+22597 : pad : 9
+28177 : BU : 9
+29603 : mA : 2
+30071 : muc : 1
+30844 : yam : 6
+30928 : yA : 6
+31061 : yuj : 8
+32007 : ruD : 1
+32234 : lakz : 1
+32354 : lap : 4
+32357 : lab : 1
+32372 : laB : 1
+32441 : las : 1
+33051 : vaw : 6
+39117 : zaYja : 1
+39161 : zad : 1
+----------------------------------------------------------------------
