@@ -56,4 +56,14 @@ L code : Headword    : Old         : New         : Comment
 12/22/2019
 https://github.com/sanskrit-lexicon/csl-orig/issues/86#issuecomment-568268004
 n, changed to n.
-
+-----------------------------------------------------------------------
+03/24/2020
+https://github.com/sanskrit-lexicon/csl-orig/issues/203
+L code : Headword    : Old         : New       : Comment
+10653  : kuWa        :             :           : insert r.
+14421  : Gana        : Gana        : Gasa
+14475  : GfRa        :              :          : insert r.
+19371  : daza        : daza        : duza      : 'u' vowel sign missing
+25856  : pa          : pa          : pF        : 'F' vowel sign missing
+41068  : Sriy        : Sriy        : Sriz
+-----------------------------------------------------------------------
