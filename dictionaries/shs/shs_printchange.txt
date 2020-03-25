@@ -67,3 +67,21 @@ L code : Headword    : Old         : New       : Comment
 25856  : pa          : pa          : pF        : 'F' vowel sign missing
 41068  : Sriy        : Sriy        : Sriz
 -----------------------------------------------------------------------
+03/24/2020
+https://github.com/sanskrit-lexicon/csl-orig/issues/204
+Changes to spelling of prefixes.
+L code : Headword    : Old         : New       : Comment
+7857  : uha : ap : apa :
+15607  : Cida : uta : ut :
+16817  : RI : ap : apa :
+31138  : mA : an : anu :
+33399  : rAj : nisa : nis :
+34158, k1=lab, aba -> ava :
+34158, k1=lab, uda -> ud :
+34352  : liK : uda : ud :
+41466  : ziD : up : upa :
+45968  : smf : ap : apa :
+46524  : han : ap : apa :
+46807  : hA : ap : apa :
+47065  : hf : ap : apa :
+-----------------------------------------------------------------------
