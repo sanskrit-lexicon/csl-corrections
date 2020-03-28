@@ -1,0 +1,13 @@
+
+This file documents changes made to the digitization of KRM in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 03-28-2020.
+
+-----------------------------------------------------------------------
+03-28-2020
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/205
+ Jim Funderburk
+L code : Headword : Old  : New : Comment
+ 890   : dva      : dva  : dvf : vowel sign 'f' missing
+-----------------------------------------------------------------------
