@@ -315,3 +315,26 @@ L code : Headword : Old  : New : Comment
 101    : agni     : poële : poêle : impose consistency 
 11073  : piWara   : poële : poêle : impose consistency 
 -----------------------------------------------------------------------
+04-08-2020
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/207
+Source: Jim Funderburk
+
+L code : Headword : Old  : New : Comment
+  299  : atiBravImi : atiBravImi : atibravImi : verb is brU, not Bru
+ 2208  : AnartayAmi : nrt : nṛt : missing dot under 'r'
+ 3655  : EwiWam     : ethayāmi, eth : eṭhayāmi, eṭh : dot missing under 't'
+ 4557  : kAsyAmi    : f2  : f2.  : missing '.' after f2  (simple future)
+11094  : piparcizAmi : dés : dés. : missing '.'
+11353  : popomi     : aug  : aug. : missing '.'
+11846  : pradIvyAmi : dīv  : div  : The underlying verb is 'div', short 'i'
+12121  : prastApayAmi : stA : sTA : underlying verb is sTA (aspirated t)
+12590  : boBojmi    : aug  : aug. : missing '.'
+13043  : mandraye   : céébrer : célébrer : the 'l' is missing in print
+13836  : yaNg       : yaNg : yuNg : In Devanagari of print, 'u' vowel marker missing
+14132  : riraMse    : dés : dés. : missing '.'
+14594  : lobDAsmi   : f.  : f1.  : first future abbreviation
+16068  : vekzyAmi   : f2  : f2.  : 2nd future abbreviation
+16773  : SASrAmi    : aug  : aug. : missing '.'
+16828  : SiSayize   : dés : dés. : missing '.'
+19762  : hrepayAmi  : hri : hrī  : underlying verb has long 'i'
+-----------------------------------------------------------------------
