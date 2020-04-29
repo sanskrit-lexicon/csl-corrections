@@ -297,4 +297,10 @@ L code : Headword : Old :       New       : Comment
 17235 : helA : het + a, : hel + a10, : print partially missing, alph. order, derivation
 17286 : hrAd : HRAD, : HRA10D, : A/A10; alph. order, cf mw. etc;
 -----------------------------------------------------------------------
-
+04-29-2019
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/217
+These changes initiated by Jim Funderburk
+L code : Headword : Old :       New       : Comment
+6043   : tF       : {%tṝ,%} : {%TṜ,%} :
+9170   : pfzWAnuga : {%pṝṣṭhānuga,%} : {%pṛṣṭhānuga,%} :
+-----------------------------------------------------------------------
