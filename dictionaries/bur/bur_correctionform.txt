@@ -1,6 +1,39 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of January 20, 2020
-707 correction records, with 0 PENDING
+As of May 01, 2020
+712 correction records, with 5 PENDING
+
+Case 24646: 04/24/2020 dict=BUR, L= 9286, hw=dhava, user=Caujolle
+old = Irl.
+new = Irl. is an abbreviation for "irlandais" (Irish)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24645: 04/24/2020 dict=BUR, L= 9277, hw=dharma, user=Caujolle
+old = Bd.
+new = this abreviation doesn't seem to work; there are several occurences on this page. This is for "bouddhique"
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24642: 04/22/2020 dict=BUR, L=9476, hw=dhruva, user=Caujolle
+old = — S. m. l'étoile polaire: 
+new = this should begin on the next line in fact
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24641: 04/22/2020 dict=BUR, L= 9476, hw=dhruva, user=Caujolle
+old = — A l'ac. dhruvam certainement. 
+new = — À l'ac. dhruvam certainement. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24638: 04/18/2020 dict=BUR, L= 19354, hw=syUta, user=Caujolle
+old = Lignéc. descendance.  LB There is also an unnecessary empty line (blank line) before — S. m. sac.
+new = Lignée, descendance. LB and to take out the blank line (an error which might be replicated in some cases i guess)
+comment = Typo (3) 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24571: 01/14/2020 dict=BUR, L= 101, hw=agni , user=Caujolle
 old = agniṣṭha m. (sthā) poële à frire. 

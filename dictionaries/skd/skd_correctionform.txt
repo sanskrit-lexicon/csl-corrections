@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of February 17, 2020
-331 correction records, with 0 PENDING
+As of May 01, 2020
+332 correction records, with 0 PENDING
+
+Case 24616: 03/06/2020 dict=SKD, L=8663, hw=कृष्टपच्यः, user=chandrasekharanr
+old = कम्म- LB कर्त्तरि
+new = कर्म्म- LB कर्त्तरि
+comment = Typo. This typo is seen in the scanned version also. But I am sure this is a typo
+status =  Corrected 05/01/2020
+------------------------------------------------------------------------
 
 Case 24599: 02/02/2020 dict=skd, L= 24013.01, hw=balaH, user=ejf
 old = balaH

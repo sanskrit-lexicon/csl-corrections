@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for STC
-As of February 17, 2020
-82 correction records, with 0 PENDING
+As of May 01, 2020
+84 correction records, with 2 PENDING
+
+Case 24651: 04/29/2020 dict=STC, L= 22143, hw=saMpad, user=Caujolle
+old = aboutir on 
+new = aboutir ou 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24624: 03/27/2020 dict=STC, L= 11630, hw=nigraha, user=Caujolle
+old = emprisonnement. punition en général.
+new = emprisonnement, punition en général.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24593: 02/02/2020 dict=STC, L= 1441, hw=anitya, user=Caujolle
 old = dont. l'issue est 

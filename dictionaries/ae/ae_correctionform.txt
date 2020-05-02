@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AE
-As of December 18, 2019
-94 correction records, with 0 PENDING
+As of May 01, 2020
+95 correction records, with 0 PENDING
+
+Case 24632: 04/06/2020 dict=AE, L= 10468 etc., hw=Tooth etc., user=sanaatani
+old = See below
+new = I am not versed in व्याकरणशास्त्र, but I have stated here my observation on the usage of the अनुनासिक: LB 1.  वर्गीयव्यञ्जन: The अनुनासिक of the respective वर्गs should be used where such अनुनासिक immediately precedes those other consonants. E. g. LB a.  कवर्ग: शङ्कर, शृङ्खला, शृङ्गार, सङ्घात LB b.  चवर्ग: इञ्चर, वाञ्छा, मञ्जीर, झञ्झावात LB c.  टवर्ग: कण्टक, कुण्ठित, दण्ड, ढुण्ढि LB d.  तवर्ग: दन्ति, ग्रन्थ, मन्द, बन्धन LB e.  पवर्ग: कम्पन, गुम्फन, लम्ब, स्तम्भन LB 2.  अवर्गीयव्यञ्जन: The vowel-अनुनासिक (ं) is used where it immediately precedes the consonants. E. g. संयम, संरक्षण, संलग्न, संवरण, संशय, अरुंषिका/दंष्ट्र, संसार, संहरण (य to ह) LB 3.  In https://www.sanskrit-lexicon.uni-koeln.de/scans/AEScan/2014/web/webtc2/index.php it is spelled दंपती whereas in https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php it is spelled दम्पति. As per my above understanding, I feel म्प is apt; ंप isn’t. Other such examples in former website are: संघः, वांछा, कंटकः, दंतः LB Kindly clarify/ educate me.
+comment = Spello
+status = 05/01/2020 No correction needed.
+------------------------------------------------------------------------
 
 Case 24469: 09/06/2019 dict=AE, L= 11278, hw=Woman, user=sanaatani
 old = कुलांगमा

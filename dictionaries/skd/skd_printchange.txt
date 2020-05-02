@@ -134,3 +134,18 @@ L     : headword : old    : new     : comment
 35999 : SucaH    : SucaH  : Suca :
 36934 : zawwaH   : zawwaH : zawwa : 
 ----------------------------------------------------------------------
+05-01-2020
+Reference  https://github.com/sanskrit-lexicon/csl-orig/issues/186
+First change Submitted by user chandrasekharanr.
+Others by Jim Funderburk
+L     : headword : old    : new     : comment
+8663  : kfzwapacyaH : kamma-karttari : karmma-karttari : 
+59    : akAraRaM    : kamma          : karmma
+2868  : aSvinO      : kammaBir       : karmmaBir 
+6745  : karmmizWaH  : kamma          : karmma
+8338  : kuSaRqikA   : kAmyakammArTaM : kAmyakarmmArTaM 
+8952  : koNkaRaM    : kamma          : karmma
+24610 : BagolaH     : vizkammaKaRqaM : vizkarmmaKaRqaM
+
+
+----------------------------------------------------------------------

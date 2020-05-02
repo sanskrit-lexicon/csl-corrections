@@ -1,6 +1,104 @@
 Sanskrit Lexicon Correction Form History for MW
-As of February 17, 2020
-1463 correction records, with 0 PENDING
+As of May 01, 2020
+1478 correction records, with 15 PENDING
+
+Case 24649: 04/27/2020 dict=mw, L= 222848, hw=Sriti, user=ejf
+old = Sriti
+new = SritI  -- H2B
+comment = Typo, markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24648: 04/26/2020 dict=mw, L= df, hw=95065], user=ejf
+old = A-dri
+new = A-df
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24640: 04/21/2020 dict=MW, L=177346, hw=rAmacandra, user=Caujolle
+old =  m. ‘R°s-moon’, 
+new =  m. ‘R°-moon’, 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24636: 04/12/2020 dict=MW, L= all, hw=all, user=sanaatani
+old = NA
+new = NA
+comment = I need to see more than 1000 entries. E. g. I want to look up all words that have the letters क्र as substring. Now I am able to see only 1000 entries from अकडमचक्र to क्रोडकान्ता| There are still all the क्रs preceded वर्गीय and अवर्गीयव्यञ्जनs except those within the first 1000. As I remember, till about one or two years ago there was the ALL option. Please put it back. Or suggest me a way looking up the next 1000, and the next 1000 and the next till सह’क्र’म्य. Thanks in advance.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24631: 04/05/2020 dict=mw, L= 210275, hw=vyuz, user=ejf
+old =  (frvi- √2. vas) 
+new =  (fr. vi- √2. vas) 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24628: 03/30/2020 dict=mw, L= 141399, hw=plakz, user=ejf
+old = v.l. for blakz
+new = v.l. for Blakz
+comment = print change
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24627: 03/30/2020 dict=MW, L=110831– 110837, hw=niṣkūṭa, user=
+old = niṣkūṭa
+new = niṣkuṭa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24626: 03/30/2020 dict=mw, L= 127430, hw=pUR, user=ejf
+old = Dhātup. xxxii, 92     puRpUl
+new = Dhātup. xxxii, 93   puR, pUl
+comment = 93 is print change.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24622: 03/12/2020 dict=MW, L=185717 , hw=vana, user=
+old = raśrmi
+new = raśmi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24621: 03/08/2020 dict=MW, L= 216024, hw=śālā—vṛka, user=ferenc.ruzsa
+old = (cf. śālāvṛka).
+new = (cf. sālāvṛka).
+comment = Typo. LB The typo is present in the printed edition as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24620: 03/06/2020 dict=MW, L= 147318, hw=brAhmaNa, user=jackpaulryan
+old = brā́hmaṇá
+new = It might be brāhmaṇá. I'm not sure; I'm in first year Sanskrit.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24615: 02/25/2020 dict=MW, L=58725, hw=kvANa, user=geymonat
+old = The only reply to the query kvANa is: see  root kvaN 
+new = Insert the definition as given in the scanned version.
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24614: 02/24/2020 dict=mw, L= 102733, hw=nak, user=ejf
+old = as nomin, RV.
+new = as nomin. RV.
+comment = Typo  Is nomin. an abbreviation?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24613: 02/21/2020 dict=mw, L= 264650, hw=hmal, user=ejf
+old = hmalayati, or hmAlayati
+new = hmalayati or hmAlayati  (no comma)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24611: 02/18/2020 dict=MW, L= 19122, hw=avihita, user=geymonat
+old = for bidden
+new = forbidden
+comment = Typo: a space should be removed
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24604: 02/08/2020 dict=mw, L= 22273, hw=Akara, user=ejf
 old = one who scatters i.e. distributes

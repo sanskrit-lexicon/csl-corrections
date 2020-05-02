@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of July 22, 2019
-55 correction records, with 0 PENDING
+As of May 01, 2020
+56 correction records, with 1 PENDING
+
+Case 24650: 04/27/2020 dict=MWE, L= 28496, hw=STUDENT, user=yiren_zhang_1997
+old = śipyaḥ
+new = śiṣyaḥ
+comment = Typo. In the Printed book is also hard to distinguish, but it should be  śiṣyaḥ in Sanskrit. Also refer to PUPIL
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24320: 01/09/2019 dict=MWE, L= 31692, hw=yes, user=vaibhav.niku
 old = वाढं

@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for PW
-As of February 17, 2020
-11797 correction records, with 0 PENDING
+As of May 01, 2020
+11802 correction records, with 5 PENDING
+
+Case 24643: 04/24/2020 dict=PW, L=10397 , hw=avadhāraṇa, user=frank.ziesing
+old = — b) genaues Bestimmen , das Beschränken auf etwas Bestimmtes mit Ausschliessung alles Anders.
+new = — b) genaues Bestimmen , das Beschränken auf etwas Bestimmtes mit Ausschliessung alles Andern.
+comment = Typo: The last letter in the phrase should not be an "s" but an "n".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24633: 04/07/2020 dict=PW, L=55246, hw=dhāraṇa, user=Frank.ziesing
+old = — b) N.pr. eines Sohnes des Kāyapa und eines Fürsten der Csandravatsa. 
+new = — b) N.pr. eines Sohnes des Kaśyapa und eines Fürsten der Candravatsa. 
+comment = Typo: The names are rendered incorrect, it's "Kaśyapa" and "Candravatsa"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24619: 03/06/2020 dict=PW, L= 70750, hw=praṇava, user=frank.ziesing
+old = — 1) die heilige Silbe aim Nom.abstr. praṇavatva n.
+new = — 1) die heilige Silbe om Nom.abstr. praṇavatva n.
+comment = Typo: wrong: "aim", should be "om"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24618: 03/06/2020 dict=PW, L=83663, hw=marj, user=frank.ziesing
+old = — parimārṣṭm Śāk.83,7  fehlerhaft für parāmarṣṭm (von marś).
+new = — parimārṣṭum Śāk.83,7  fehlerhaft für parāmarṣṭum (von marś).
+comment = Typo "u" missing twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24617: 03/06/2020 dict=PW, L=83663, hw=marj, user=frank.ziesing
+old = — Mit parā abwischen , reinwaschen. Mit pari
+new = — Mit parā abwischen , reinwaschen.  LB — Mit pari
+comment = Typo: a new line should be started with m-dash for "Mit pari"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24610: 02/14/2020 dict=pw, L= 99683, hw=vahanI, user=ejf
 old = Av.
