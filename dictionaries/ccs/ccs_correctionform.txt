@@ -1,54 +1,54 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of May 01, 2020
-2239 correction records, with 7 PENDING
+As of May 02, 2020
+2239 correction records, with 0 PENDING
 
 Case 24647: 04/24/2020 dict=CCS, L= 6709, hw=cakṣas, user=frank.ziesing
 old = cakṣas n. Anglick
 new = cakṣas n. Anblick
 comment = Typo b instead of g in Anblick
-status = PENDING
+status =  05/02/2020 Corrected
 ------------------------------------------------------------------------
 
 Case 24644: 04/24/2020 dict=CCS, L= 1077, hw=antara, user=frank.ziesing
 old = (Comp. aṃntaratara Superl. āntaratama) LB  Zwischenzeit,Zeitraum, 
 new = (Comp. antaratara Superl. antaratama) LB  Zwischenzeit, Zeitraum, 
 comment = Typos: "aṃntaratara" should be "antaratara"  LB "āntaratama" should be "antaratama" LB and there should be a space between LB "Zwischenzeit,"  and "Zeitraum," 
-status = PENDING
+status =  05/02/2020 Corrected
 ------------------------------------------------------------------------
 
 Case 24639: 04/19/2020 dict=CCS, L= 5419, hw=kaivalya, user=frank.ziesing
 old = kaivalya n. ausschließlichkeit,
 new = kaivalya n. Ausschließlichkeit,
 comment = Typo: "Ausschließlichkeit" should start with upper case A
-status = PENDING
+status =  05/02/2020 Corrected
 ------------------------------------------------------------------------
 
 Case 24637: 04/12/2020 dict=CCS, L=25004 , hw=śaithilya, user=frank.ziesing
 old = śaithilya n. Losheit, Schlaff heit;
 new = śaithilya n. Losheit, Schlaffheit;
 comment = Typo: "Schlaffheit" is one word, should be written together
-status = PENDING
+status =  05/02/2020 Corrected
 ------------------------------------------------------------------------
 
 Case 24629: 03/30/2020 dict=CCS, L=18033, hw=mana, user=frank.ziesing
 old = mana [Cologne record ID=18033] [Printed book page 319-1] LB mana m. Du. ein best. Schmuck.          LB  mana [Cologne record ID=18037]
 new = mana [Cologne record ID=18033] [Printed book page 319-1] LB mana m. Du. ein best. Schmuck.    LB Now a new lemma should start       LB manas [Cologne record ID=18037]
 comment = Typo: the lemma "mana" got the lemma "manas" erronously added.The reason seems to me a tiny glitch in the typsetting of the original. The scan shows "manas" as मन स् where the स is not quite attached to the न as intended. I guess it probably happend unintended during the print run. 
-status = PENDING
+status =  05/02/2020. Corrected.
 ------------------------------------------------------------------------
 
 Case 24625: 03/28/2020 dict=CCS, L=10233 , hw=dṛśi, user=frank.ziesing
 old = dṛśi f. das Sehenm,
 new = dṛśi f. das Sehen,
 comment = Typo: the "m" is superfuous
-status = PENDING
+status =  05/02/2020. Corrected.
 ------------------------------------------------------------------------
 
 Case 24623: 03/24/2020 dict=CCS, L=9858, hw=du, user=frank.ziesing
 old = 2. du = 1. div spielen, nur dviṣāṇi. duḥkha unangenehm (zu Infin.). n. Ungemach, Beschwerde, Plage, Leid, Gram; auch adv. mit Not. traurig, schwer, kaum; duḥkha (°—), duḥkhena, duḥkhāt adv. dass.
 new = 2. du = 1. div spielen, nur dviṣāṇi.  LB Here a new lemma starts! Headword "duḥkha" LB duḥkha unangenehm (zu Infin.). n. Ungemach, Beschwerde, Plage, Leid, Gram; auch adv. mit Not. traurig, schwer, kaum; duḥkha (°—), duḥkhena, duḥkhāt adv. dass.
 comment = Typo: The lemma duḥkha is mistakenly listed at the end of lemma "du". I noticed this when I was looking for "duḥkha" and couldn'd find it. Looking into the scan however I found it. Wondering what had happend in the database I finally found it at the end of preceding lemma "du".
-status = PENDING
+status =  05/02/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24603: 02/08/2020 dict=CCS, L= 2859, 2860, 2861, 2862, hw=ālasya, ālāna, ālāpa, ālāpin, user=frank.ziesing

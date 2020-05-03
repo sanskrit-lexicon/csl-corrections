@@ -1021,3 +1021,21 @@ L code : Headword : Old  : New : Comment
 text missed 10th  and 11th Manu in the description of 14 Manus.
 new:  the 10th Brahma-sāvarṇi; the 11th Dharma-sāvarṇi
 -----------------------------------------------------------------------
+05-02-2020
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/236
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+141399 : plakz    : blakz : Blakz :
+-----------------------------------------------------------------------
+05-02-2020
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/234
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+127430 : pUR      : 92   : 93  : Reference to Westergaard for pUR.
+-----------------------------------------------------------------------
+05-02-2020
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/229
+User 	ferenc.ruzsa
+L code : Headword : Old  : New : Comment
+216024 : SAlAvfka : cf. SAlAvfka : cf. sAlAvfka :
+-----------------------------------------------------------------------

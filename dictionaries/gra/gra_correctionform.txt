@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of May 01, 2020
-383 correction records, with 1 PENDING
+As of May 02, 2020
+383 correction records, with 0 PENDING
 
 Case 24634: 04/07/2020 dict=GRA, L= 8985, hw=zru, user=kevin_peter_kelly
 old = Most of the lemma 1. śru is missing.
 new = 
 comment = parts missing
-status = PENDING
+status =  05/02/2020 Corrected
 ------------------------------------------------------------------------
 
 Case 24591: 01/30/2020 dict=GRA, L= 5738, hw=pṛch, user=yiren_zhang_1997

@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of May 01, 2020
-712 correction records, with 5 PENDING
+As of May 02, 2020
+714 correction records, with 7 PENDING
+
+Case 24654: 05/02/2020 dict=BUR, L= 1726, hw=aviSaya, user=Caujolle
+old = aviṣaya aviṣaya m. (a priv.) impercep. tibilité. 
+new = aviṣaya aviṣaya m. (a priv.) imperceptibilité. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24653: 05/02/2020 dict=BUR, L= 17421, hw=satya, user=Caujolle
+old =  — S. n. vérité; 
+new =  "— S. n. vérité; " should begin on a new line, like "— S. m. le plus élevé des 7 lokas," or "— S. f. sincérité, véracité." Moreover there should not be a blank line in between those lines
+comment = Please let me know when you will correct that blank line  problem  
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24646: 04/24/2020 dict=BUR, L= 9286, hw=dhava, user=Caujolle
 old = Irl.

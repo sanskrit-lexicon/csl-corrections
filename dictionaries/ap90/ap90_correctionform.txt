@@ -1,29 +1,29 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of May 01, 2020
-440 correction records, with 4 PENDING
+As of May 02, 2020
+440 correction records, with 0 PENDING
 
 Case 24652: 04/30/2020 dict=AP90, L= 29806, hw=सरकः, user=chandrasekharanr
 old = मृ --वुन्
 new = सृ --वुन्
-status = PENDING
+status =  05/02/2020 Corrected
 ------------------------------------------------------------------------
 
 Case 24635: 04/08/2020 dict=AP90, L= 11460, hw=केका, user=sadagopan.v
 old = shadja  samvadinii   kekaa   R.1,39
 new = shadja   samvaadinii   kekaa   R.1.39
-status = PENDING
+status =  05/02/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24630: 04/03/2020 dict=AP90, L=21648 , hw=bahu, user=geymonat
 old = kiM bahutA ‘why say much’, ‘in short’;
 new = kiM bahunA
-status = PENDING
+status =  05/02/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24612: 02/18/2020 dict=AP90, L=27693, hw=शर्वरी, user=chandrasekharanr
 old = इएशः
 new = ईशः
-status = PENDING
+status =  05/02/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24586: 01/28/2020 dict=AP90, L= 19052, hw=pIyUSaH, user=geymonat
