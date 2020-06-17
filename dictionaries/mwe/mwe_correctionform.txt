@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of May 02, 2020
-56 correction records, with 0 PENDING
+As of June 16, 2020
+57 correction records, with 0 PENDING
+
+Case 24686: 06/08/2020 dict=mwe, L= 1291, hw=ashes, user=ejf
+old = Barama
+new = Basma
+status = 06/16/2020 Corrected
+------------------------------------------------------------------------
 
 Case 24650: 04/27/2020 dict=MWE, L= 28496, hw=STUDENT, user=yiren_zhang_1997
 old = śipyaḥ
