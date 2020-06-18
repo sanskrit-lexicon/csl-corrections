@@ -338,3 +338,10 @@ L code : Headword : Old  : New : Comment
 16828  : SiSayize   : dés : dés. : missing '.'
 19762  : hrepayAmi  : hri : hrī  : underlying verb has long 'i'
 -----------------------------------------------------------------------
+04-08-2020
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/282
+Source: Odile Caujolle
+
+L code : Headword : Old  : New : Comment
+13515  : mUla     : mūlagrantha : mūlagrantha : added to list of cpds of mUla
+-----------------------------------------------------------------------

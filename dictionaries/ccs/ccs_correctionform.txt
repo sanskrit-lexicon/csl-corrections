@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of May 02, 2020
-2239 correction records, with 0 PENDING
+As of June 17, 2020
+2241 correction records, with 0 PENDING
+
+Case 24669: 05/16/2020 dict=CCS, L= 15221, hw=prajña, user=frank.ziesing
+old = jñatā f. Kenntnis, Wissen. 
+new = ??? LB New lemma: prajñatā f. Kenntnis, Wissen. 
+comment = No Typo! However something is wrong. I expected to find "°jñatā" in the scan, but the scan has no "°". If you look carefully at the scan, there is something odd with the indentation of "jñatā". It is not as indented as the preceding line of the paragraph. If you compare it with the following lemma "prajñapti", it seems to me that probably the intention of the author was a lemma "prajatā", but there must have been some problem with the metal movable type "pra". It may have been either too short or broken or whatever and only "jñatā² made in unto the paper. I guess the dictionary was typeset by hand, and this is an error which escaped the eye of the proofreader.
+status =  06/17/2020 Corrected new headword prajYatA.
+------------------------------------------------------------------------
+
+Case 24667: 05/16/2020 dict=CCS, L= 7153, hw=cetana, user=frank.ziesing
+old = f. cotanā Bewusstsein, Verstand. n. Wahrnehmung, 
+new = f. cetanā Bewusstsein, Verstand. n. Wahrnehmung, 
+comment = Typo should be "e" instead of "o" in "cetanā"
+status =  06/17/2020 Corrected.
+------------------------------------------------------------------------
 
 Case 24647: 04/24/2020 dict=CCS, L= 6709, hw=cakṣas, user=frank.ziesing
 old = cakṣas n. Anglick

@@ -396,4 +396,16 @@ Source: Jim Funderburk.
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/197
 L code : Headword  : Old :       New       : Comment
 15941  : DanIyatI  : DanIyatI : DanIyati  : Denominative verb, 3rd sing.
+----------------------------------------------------------------------
+06-17-2020
+Source: User chandrasekharanr
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/296
+L code : Headword  : Old :       New       : Comment
+23810  : yAvat     : donoting : denoting   : corrected in 1957 edition
+----------------------------------------------------------------------
+06-17-2020
+Source: User saurabh.kapoor
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/291
+L code : Headword  : Old :       New       : Comment
+26303  : viyat     : aky :       sky       : 1957 edition has 'sky'
 -----------------------------------------------------------------------

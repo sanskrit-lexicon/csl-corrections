@@ -1,6 +1,38 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of May 02, 2020
-383 correction records, with 0 PENDING
+As of June 17, 2020
+388 correction records, with 0 PENDING
+
+Case 24690: 06/12/2020 dict=GRA, L= , hw=tiṣṭhe, user=
+old = 
+new = 
+status = 06/17/2020 Insufficient information.
+------------------------------------------------------------------------
+
+Case 24673: 05/18/2020 dict=GRA, L= 8385, hw=vRdh, user=kevin_peter_kelly
+old = -ete ... 442,4
+new = -ete ... 422,4
+comment = citation error
+status = 06/17/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24672: 05/18/2020 dict=GRA, L= 9425, hw=samrAj, user=kevin_peter_kelly
+old = -Aja [du.]
+new = -AjA [du.]
+comment = Typo, also in print version
+status = 06/17/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24664: 05/12/2020 dict=GRA, L= 6533, hw=mad, user=kevin_peter_kelly
+old = Freunde
+new = Freude
+status = 06/17/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24663: 05/10/2020 dict=GRA, L= 10358, hw=sru, user=kevin_peter_kelly
+old = fleissen
+new = fliessen
+status = 06/17/2020 Corrected
+------------------------------------------------------------------------
 
 Case 24634: 04/07/2020 dict=GRA, L= 8985, hw=zru, user=kevin_peter_kelly
 old = Most of the lemma 1. śru is missing.

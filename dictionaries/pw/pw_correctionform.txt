@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for PW
-As of May 02, 2020
-11802 correction records, with 0 PENDING
+As of June 17, 2020
+11805 correction records, with 0 PENDING
+
+Case 24696: 06/15/2020 dict=PW, L= 25350, hw=kala, user=frank.ziesing
+old = und Gattin Marcci's (einer Personification
+new = und Gattin Marīci's (einer Personification
+comment = Typo "Marīci" instead of "Marcci"
+status = 06/17/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24686: 06/09/2020 dict=PW, L= 82274, hw=madya, user=frank.ziesing
+old = madya , mnadoa
+new = madya , madia
+status = 06/17/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24668: 05/16/2020 dict=PW, L=23823 , hw=katham, user=frank.ziesing
+old = kthaṃ kathaṃ cid dass. Naiṣ.6,57.
+new = kathaṃ kathaṃ cid dass. Naiṣ.6,57.
+comment = Typo an"a" is missing in the first "kathaṃ"
+status = 06/17/2020 Corrected
+------------------------------------------------------------------------
 
 Case 24643: 04/24/2020 dict=PW, L=10397 , hw=avadhāraṇa, user=frank.ziesing
 old = — b) genaues Bestimmen , das Beschränken auf etwas Bestimmtes mit Ausschliessung alles Anders.

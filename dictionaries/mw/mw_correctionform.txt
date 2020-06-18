@@ -1,94 +1,94 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 16, 2020
+As of June 17, 2020
 1493 correction records, with 0 PENDING
 
-Case 24698: 06/15/2020 dict=mw, L= 227023, hw=saMskAra, user=ejf
+Case 24697: 06/15/2020 dict=mw, L= 227023, hw=saMskAra, user=ejf
 old = sin contracted in the, womb and 
 new = sin contracted in the womb and 
 comment = Typo - extra comma
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24696: 06/14/2020 dict=mw, L= 183017, hw=lubDatA, user=ejf
+Case 24695: 06/14/2020 dict=mw, L= 183017, hw=lubDatA, user=ejf
 old = no text
 new = insert definition of lubDatva
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24694: 06/13/2020 dict=mw, L= 178825, hw=ruDira, user=ejf
+Case 24693: 06/13/2020 dict=mw, L= 178825, hw=ruDira, user=ejf
 old = the bloodred planet
 new = the blood-red planet
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24693: 06/13/2020 dict=mw, L= 93167, hw=dIrGarAva, user=ejf
+Case 24692: 06/13/2020 dict=mw, L= 93167, hw=dIrGarAva, user=ejf
 old = ‘making a prolonged noise or yell’ N. of a jackal
 new = ‘making a prolonged noise or yell,’ N. of a jackal
 comment = Typo - missing comma
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24692: 06/13/2020 dict=mw, L= 93826, hw=durita, user=ejf
+Case 24691: 06/13/2020 dict=mw, L= 93826, hw=durita, user=ejf
 old = difficulty, danger. discomfort, 
 new = difficulty, danger, discomfort, 
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24690: 06/11/2020 dict=mw, L= 211740, hw=SaW, user=ejf
+Case 24689: 06/11/2020 dict=mw, L= 211740, hw=SaW, user=ejf
 old = SATayati
 new = SAWayati
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24689: 06/11/2020 dict=mw, L= 94814, hw=dUzaRa, user=ejf
+Case 24688: 06/11/2020 dict=mw, L= 94814, hw=dUzaRa, user=ejf
 old = of fence
 new = offence
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24688: 06/10/2020 dict=MW, L= 156872, hw=manu, user=pvstiles
+Case 24687: 06/10/2020 dict=MW, L= 156872, hw=manu, user=pvstiles
 old = as the brother of Yama, who as a son of HE Sun is also called Vaivasvata
 new = son of THE Sun
 status = 06/16/2020 Corrected (duplicate)
 ------------------------------------------------------------------------
 
-Case 24685: 06/06/2020 dict=mw, L= 46081, hw=kalpa, user=ejf
+Case 24684: 06/06/2020 dict=mw, L= 46081, hw=kalpa, user=ejf
 old = the Kalpas.are not of equal
 new = the Kalpas are not of equal
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24684: 06/06/2020 dict=mw, L= 111134, hw=nihan, user=ejf
+Case 24683: 06/06/2020 dict=mw, L= 111134, hw=nihan, user=ejf
 old = -- mow
 new = = mow
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24683: 06/06/2020 dict=mw, L= 196502, hw=viDAtf, user=ejf
+Case 24682: 06/06/2020 dict=mw, L= 196502, hw=viDAtf, user=ejf
 old = distributing. arranging, 
 new = distributing, arranging, 
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24682: 06/04/2020 dict=MW, L= 156872, hw=manu, user=Mark Lundy
+Case 24681: 06/04/2020 dict=MW, L= 156872, hw=manu, user=Mark Lundy
 old = who as a son of he Sun
 new = who as a son of the Sun
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24679: 05/26/2020 dict=MW, L=165998 , hw=musta, user=
+Case 24678: 05/26/2020 dict=MW, L=165998 , hw=musta, user=
 old = Cyperue
 new = Cyperus
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24678: 05/26/2020 dict=MW, L= 141462.1, hw=plīhan, user=
+Case 24677: 05/26/2020 dict=MW, L= 141462.1, hw=plīhan, user=
 old = spleśena
 new = splezena
 status = 06/16/2020 Corrected
 ------------------------------------------------------------------------
 
-Case 24671: 05/17/2020 dict=MW, L= https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-corrections/app/correction_form.php?dict=MW, hw=Sanskrit word, user=pranavarthananda
+Case 24670: 05/17/2020 dict=MW, L= https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-corrections/app/correction_form.php?dict=MW, hw=Sanskrit word, user=pranavarthananda
 old = 
 new = it seems that the DhAtu " puSp " is missing
 comment = 
