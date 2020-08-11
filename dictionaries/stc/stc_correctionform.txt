@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for STC
-As of June 17, 2020
-85 correction records, with 0 PENDING
+As of August 10, 2020
+86 correction records, with 0 PENDING
+
+Case 24714: 07/10/2020 dict=STC, L= 16146, hw=bhAgya, user=Caujolle
+old = nt. sg. ou pl. lot., destinée, 
+new = nt. sg. ou pl. lot, destinée,  LB the book itself is defective, but i think it is clear that the dot should not be there.
+comment = Print change
+status =  08/10/2020 Corrected. Ref https://github.com/sanskrit-lexicon/csl-orig/issues/337
+------------------------------------------------------------------------
 
 Case 24665: 05/12/2020 dict=STC, L= 12445, hw=niṣpanda, user=Caujolle
 old = qqf. err. pour ni-syanda

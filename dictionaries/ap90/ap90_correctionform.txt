@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of June 17, 2020
-443 correction records, with 0 PENDING
+As of August 10, 2020
+446 correction records, with 3 PENDING
+
+Case 24720: 07/20/2020 dict=AP90, L= 303, hw=aMguli, user=mukesh
+old = When I type a~Nguli, it is not recognizing the word, even though it is the correct ITRANS for the word.
+new = a~Nguli
+comment = Transliteration scheme
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24717: 07/16/2020 dict=AP90, L= 13565, hw=छदिः, user=chandrasekharanr
+old = The ro of
+new = The roof
+comment = Typo. This is seen in the book also. But this has been fixed in the 1957 edition
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24708: 07/03/2020 dict=AP90, L= 10574, hw= kashmala, user=mukesh
+old = It is not a typo.
+new = When I search for this word using 'Exact' or 'Substring' mode, it shows up but not when I use 'Prefix'. It would be more convenient if 'Prefix' also includes 'Exact'
+comment = Logic
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24679: 06/03/2020 dict=AP90, L= यावत् , hw=23810, user=chandrasekharanr
 old = donoting --  LB (b) just, then, in the meantime (donoting an action intended to be done immediately)

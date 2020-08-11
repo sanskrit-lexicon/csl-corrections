@@ -1,6 +1,46 @@
 Sanskrit Lexicon Correction Form History for PW
-As of June 17, 2020
-11805 correction records, with 0 PENDING
+As of August 10, 2020
+11811 correction records, with 6 PENDING
+
+Case 24737: 08/09/2020 dict=PW, L= 84930, hw=mahālakṣmī, user=frank.ziesing
+old = — 1) die grosse Lakṣmi , Nārāyaṇ's Śakti. Wird auch mit der Durgā und der Sarasavati identificirt ; 
+new = — 1) die grosse Lakṣmi , Nārāyaṇa's Śakti. Wird auch mit der Durgā und der Sarasvati identificirt ; 
+comment = Typo Nārāyaṇ should be Nārāyaṇa ; Sarasavati should be Sarasvati 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24735: 08/05/2020 dict=PW, L= 39789, hw=ci, user=h.c.jahr
+old = deer Länge nach
+new = der Länge nach
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24727: 07/31/2020 dict=PW, L= 25867, hw=kazyapa, user=h.c.jahr
+old = Genie
+new = Genien
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24724: 07/25/2020 dict=PW, L= 82796, hw=manas, user=h.c.jahr
+old = aus Körper
+new = aus dem Körper
+comment = Typo, missing word
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24702: 06/20/2020 dict=PW, L= 38391, hw=cakṣus, user=frank.ziesing
+old = — b) das. LB [Page2206-1] LB Sehen
+new = — b) das LB [Page2206-1] LB Sehen.
+comment = Typo The full stop should be after "Sehen" and not after "das"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24700: 06/19/2020 dict=PW, L=883, hw=aṅkay, user=frank.ziesing
+old = āṅkita gekennzeichnet , 
+new = aṅkita gekennzeichnet , 
+comment = Typo: first a of aṅkita should be short
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24696: 06/15/2020 dict=PW, L= 25350, hw=kala, user=frank.ziesing
 old = und Gattin Marcci's (einer Personification

@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of June 17, 2020
-723 correction records, with 0 PENDING
+As of August 10, 2020
+726 correction records, with 0 PENDING
+
+Case 24733: 08/05/2020 dict=bur, L= 5922, hw=guNa, user=Caujolle
+old =  triguṇa le triple śataguṇa le centuple, 
+new =  triguṇa le triple, śataguṇa le centuple, 
+comment = Typo (a coma is missing)
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24732: 08/04/2020 dict=bur, L= 2151, hw=Adi, user=Caujolle
+old = A la fin des composés, ce mot joue le rôle d'a.
+new = the a. (for "adjectif") is not referenced, probably because of the ' before it.  Also, the A at the beginning of the sentence should be an À.
+comment = reference missing
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24699: 06/19/2020 dict=BUR, L= 9808, hw=nidhAna, user=Caujolle
+old = lieu ou vase où l'on garde qqe.
+new = lieu ou vase où l'on garde qqc.
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
 
 Case 24676: 05/23/2020 dict=BUR, L= 4119, hw=karmin, user=Caujolle
 old = karmibhyac ca adhikā y' g' le yogin

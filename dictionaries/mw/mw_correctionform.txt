@@ -1,6 +1,131 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 17, 2020
-1493 correction records, with 0 PENDING
+As of August 10, 2020
+1513 correction records, with 0 PENDING
+
+Case 24731: 08/04/2020 dict=MW, L= , hw=dhA, user=deborahsilver22
+old = 
+new = The search takes you to the entry for dha on 508 rather than the correct entry for dhA on page 513 column 2
+comment = Search goes to the wrong page
+status =  08/10/2020 No change made.
+------------------------------------------------------------------------
+
+Case 24730: 08/03/2020 dict=MW, L=246403, hw=sutAra, user=geymonat
+old = m. a partic. per. fume, Suśr.
+new = m. a partic. perfume, Suśr.
+comment = Typo: a dot should be removed in order to form the coorect word "perfume"
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24729: 08/03/2020 dict=MW, L=43312, hw=kaMdhara, user=geymonat
+old = the fact that the stem is also femminine is stated without giving the final -A
+new = add the information missing (present in the printed text) NB the research kaMdharA gives no results, as if the word didn't exist
+comment = An information is missing (i.e. the fact that the stem is also kaMdharA)
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24728: 08/02/2020 dict=MW, L= ID=254911, hw=styai, user=siddharthabrahmacarii
+old = page 193 in Whitney Roots
+new = page 194 in Whitney Roots
+comment = Link to the book
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24725: 07/26/2020 dict=MW, L=256400, hw=स्नेहलवण, user=sanaatani
+old = (a partic. mixture of oil and) SALE
+new = Is it SALT?
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24719: 07/20/2020 dict=MW, L= 122462, hw=pAraNa, user=theunborn
+old = a could (as ‘crossing’, sc. the sky),
+new = a cloud (as ‘crossing’, sc. the sky),
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24718: 07/18/2020 dict=MW, L= 89551, hw= dagdhamandirasāra, user=Caujolle
+old =  one who has burned the, best of mansions. 
+new =  one who has burned the best of mansions. 
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24715: 07/11/2020 dict=MW, L= 54156, hw=kRta, user=Caujolle
+old = N. of the four dice in opposition to the fifth die called kali
+new = N. of the four dice in opposition to the [first] die called kali
+status =  08/10/2020 No change made. Ref https://github.com/sanskrit-lexicon/csl-orig/issues/338
+------------------------------------------------------------------------
+
+Case 24713: 07/10/2020 dict=MW, L= 244050, hw=siJcana, user=sanaatani
+old = Spello rather
+new = सिञ्चन is not listed in Apte. I think the correct form is (सेक>)सेचन. Please let me know if I am right.
+comment = Spello
+status =  08/10/2020 No change. Ref https://github.com/sanskrit-lexicon/csl-orig/issues/336
+------------------------------------------------------------------------
+
+Case 24712: 07/08/2020 dict=MW, L= 163546, hw=mArtaRqa, user=Peter Scharf
+old = (later form of मर्ताण्ड q.v.)
+new = (later form of मार्ताण्ड q.v.)
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24711: 07/05/2020 dict=MW, L= 18684, hw=avikṣobha, user=
+old = avikṣobha
+new = ávikṣobha
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24710: 07/05/2020 dict=MW, L= avikā, hw=18629, user=
+old = (avikā)
+new = (avíkā)
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24709: 07/05/2020 dict=MW, L= 18629, hw=avikā, user=
+old = avikā f.
+new = avikā́ f. 
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24707: 06/28/2020 dict=mw, L= 184615, hw=vac, user=ejf
+old = inf. vAktum
+new = inf. va/ktum
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24706: 06/28/2020 dict=mw, L= 155187.1, hw=manT, user=ejf
+old = mATati
+new = ma/Tati
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24705: 06/28/2020 dict=mw, L= 146435, hw=bfh, user=ejf
+old = bṛnhati 
+new = bṛṃhati  
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24704: 06/23/2020 dict=mw, L= 175933, hw=rahaH, user=ejf
+old = 2. rakas
+new = 2. rahas
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24703: 06/22/2020 dict=MW, L= 99700.1, hw=dhmā, user=wujastyk
+old = Intens. dhāmāyate
+new = Intens. dādhmāyate
+status =  08/10/2020 already corrected.
+------------------------------------------------------------------------
+
+Case 24701: 06/20/2020 dict=MW, L=105912, hw=nArAyaNa, user=Caujolle
+old = for a distance of 4 cubits from he water, L.
+new = for a distance of 4 cubits from the water, L.
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
+
+Case 24698: 06/18/2020 dict=MW, L=108203, hw= nicāy, user=padhana123
+old = -cāyyā
+new = -cāyya
+status =  08/10/2020 Corrected
+------------------------------------------------------------------------
 
 Case 24697: 06/15/2020 dict=mw, L= 227023, hw=saMskAra, user=ejf
 old = sin contracted in the, womb and 
