@@ -1,6 +1,58 @@
 Sanskrit Lexicon Correction Form History for MW
-As of August 10, 2020
-1513 correction records, with 0 PENDING
+As of October 03, 2020
+1521 correction records, with 0 PENDING
+
+Case 24767: 09/22/2020 dict=MW, L= 101815, hw=dhR, user=geymonat
+old = (dhriyate) so be firm, keep steady, RV.  &c. &c.; 
+new = to be firm
+comment = Typo: "so" is wrong for "to"
+status =  10/1/2020 Corrected 
+------------------------------------------------------------------------
+
+Case 24766: 09/21/2020 dict=MW, L= 225814, hw=saMraB, user=ejf
+old = of.
+new = of,
+status =  10/1/2020 Corrected 
+------------------------------------------------------------------------
+
+Case 24757: 09/16/2020 dict=MW, L= 42763, hw=kaTam, user=ejf
+old = MftyuH ,
+new = no comma
+status =  10/1/2020 Corrected 
+------------------------------------------------------------------------
+
+Case 24756: 09/16/2020 dict=MW, L= 182704, hw=liS, user=ejf
+old = ris
+new = riS
+status =  10/1/2020 Corrected 
+------------------------------------------------------------------------
+
+Case 24754: 09/10/2020 dict=MW, L= 257473, hw=syAt, user=Mark Lundy / ceruchi111
+old = In the translations of the Jaina formulas, the translation for formula #6 seems to go with formula #7, and there is no translation provided after formula #7. The misplaced translation also has the "is" and "is not" out of order (but this may be intentional).
+new = 6. syAn nAsti cAvaktavyaH, 'perhaps it is not and is not expressible in words'; 7. syAd asti ca nAsti cAvaktavyaH, 'perhaps it is and is not and is not expressible in words'
+comment = Misplaced translation, missing translation
+status = : 10/1/2020 Corrected 
+------------------------------------------------------------------------
+
+Case 24746: 08/31/2020 dict=MW, L= 70776, hw=cha~nchala, user=natalia.fedorova
+old = moving to and fro
+new = moving to and from
+status =  10/1/2020 Not changed. 'fro' is correct
+------------------------------------------------------------------------
+
+Case 24741: 08/18/2020 dict=MW, L= , hw=hRidaya, user=khushmarolia51
+old = 
+new = 
+comment = Unable to access hR... words.
+status =  10/1/2020  No change made. Sent email. User should enter 'hRdaya'
+------------------------------------------------------------------------
+
+Case 24739: 08/16/2020 dict=MW, L= ID=152101, hw=भूमन्, user=youngsinn.sohn
+old = a being (pl) the aggregate of all existing things, RV.
+new = a being, (pl.) the aggregate of all existing things, RV.
+comment = digitising error
+status =  10/10/2020 Corrected.
+------------------------------------------------------------------------
 
 Case 24731: 08/04/2020 dict=MW, L= , hw=dhA, user=deborahsilver22
 old = 

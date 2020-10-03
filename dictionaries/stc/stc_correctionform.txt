@@ -1,6 +1,38 @@
 Sanskrit Lexicon Correction Form History for STC
-As of August 10, 2020
-86 correction records, with 0 PENDING
+As of October 01, 2020
+91 correction records, with 5 PENDING
+
+Case 24758: 09/16/2020 dict=STC, L= 19237, hw=vizvAsa, user=Caujolle
+old = vi-śvāsa- m. confiance (dan, loc.);
+new = vi-śvāsa- m. confiance (dans, loc.);
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24750: 09/01/2020 dict=STC, L= 19193, hw=vizArada, user=Caujolle
+old = expert. habile, 
+new = expert, habile, 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24749: 09/01/2020 dict=STC, L= 1600, hw=anugraha, user=Caujolle
+old = encouragement. (donné à).;
+new = encouragement (donné à) ;
+comment = Typo (2 extra dots)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24748: 09/01/2020 dict=STC, L= 23392, hw=supratiSTha, user=Caujolle
+old = qui est entièrement. dans (loc.) ; 
+new = qui est entièrement dans (loc.) ; 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24745: 08/27/2020 dict=STC, L= 21572, hw=sama, user=Caujolle
+old = °bhara- a. avec la même décharge (de flèches; d'après le comment.). 
+new = here "comment." is not referenced; it is an abbreviation for "commentaire"
+comment = abbreviation's reference; another occurence is at sanna, ID=21392; and under sapta, ID=21508 (but here there is an extra blanc before the dot); see also under yathA, id 17072, "n'importe comment , " which should be corrected as "n'importe comment, " (extra blank); again an extra blank "à commenter . " (before the dot) at vyākhyā ID=19834
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24714: 07/10/2020 dict=STC, L= 16146, hw=bhAgya, user=Caujolle
 old = nt. sg. ou pl. lot., destinée, 

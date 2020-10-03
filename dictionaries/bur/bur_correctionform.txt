@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of August 10, 2020
-726 correction records, with 0 PENDING
+As of October 01, 2020
+729 correction records, with 3 PENDING
+
+Case 24744: 08/27/2020 dict=bur, L= 19420, hw=svayam, user=Caujolle
+old = svayam svayam indéc. (sva) moi-mème;
+new = svayam svayam indéc. (sva) moi-même;
+comment = Typo (the ^ missing)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24740: 08/18/2020 dict=bur, L=2148 , hw=Adarza, user=Caujolle
+old =  manuserit original. 
+new =  manuscrit original. Note also the non referenced abbreviation "simplt." which mean "simplement"
+comment = Typo +
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24737: 08/11/2020 dict=bur, L= 12194, hw=prANa, user=Caujolle
+old = pāṇāyāma m. (ā; yam) exercice pieux qui 
+new = prāṇāyāma m. (ā; yam) exercice pieux qui 
+comment = Typo, the R is missing (prāṇa, not pāṇa); a spelling mistake from the book
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24733: 08/05/2020 dict=bur, L= 5922, hw=guNa, user=Caujolle
 old =  triguṇa le triple śataguṇa le centuple, 

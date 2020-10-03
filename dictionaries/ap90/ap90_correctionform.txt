@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of August 10, 2020
-446 correction records, with 3 PENDING
+As of October 01, 2020
+449 correction records, with 6 PENDING
+
+Case 24762: 09/18/2020 dict=AP90, L= 25979, hw=विध, user=Satish Kothari    satishkoth
+old = In Sl No 1,  वहुविध
+new = बहुविध
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24761: 09/18/2020 dict=AP90, L= 29800, hw=सम्यच्, user=Satish Kothari,    satishkoth
+old = In No 6 (ind.), सम्बक् should be सम्यक्
+new = In No 6 (ind.), सम्बक् should be सम्यक्
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24751: 09/06/2020 dict=AP90, L= , hw=Kashvi, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24720: 07/20/2020 dict=AP90, L= 303, hw=aMguli, user=mukesh
 old = When I type a~Nguli, it is not recognizing the word, even though it is the correct ITRANS for the word.

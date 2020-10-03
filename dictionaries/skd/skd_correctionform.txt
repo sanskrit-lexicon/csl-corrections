@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of June 16, 2020
-333 correction records, with 0 PENDING
+As of October 01, 2020
+335 correction records, with 2 PENDING
+
+Case 24742: 08/19/2020 dict=SKD, L= 37768, hw=सन्नयासः, user=radimnavyan
+old = न्यासः । हथा–
+new = न्यासः। यथा–
+comment = Typo in printed book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24738: 08/13/2020 dict=SKD, L= 39569, hw=सुभाषितः, user=Shalu
+old = मुष्ठु 
+new = सुष्ठु 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24659: 05/06/2020 dict=SKD, L= 27150, hw=मान्धाता , user=chandrasekharanr
 old = घेट् + तृच्

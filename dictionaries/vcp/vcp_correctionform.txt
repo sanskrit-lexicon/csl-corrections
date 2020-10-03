@@ -1,12 +1,18 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of August 10, 2020
-400 correction records, with 1 PENDING
+As of October 03, 2020
+401 correction records, with 0 PENDING
+
+Case 24768: 09/22/2020 dict=VCP, L= 8371, hw=इरा, user=Nirav Raval. My id is niravraval
+old = मूमौ,mūmau
+new = The correct word should be bhumau, LB The current word doe not make any sense. the word Bhumau is in the printed form.
+status =  10/1/2020 Corrected 
+------------------------------------------------------------------------
 
 Case 24716: 07/16/2020 dict=VCP, L=6593, hw=आढ्यम्भवन, user=chandrasekharanr
 old = अनाद्य आद्योभवत्यनेन आद्य + भू—करणे LB ख्युन् मुम् उप० स० । अनाद्यस्य आद्यभवनसाधने ।
 new = अनाढ्य आढ्योभवत्यनेन आढ्य + भू—करणे LB ख्युन् मुम् उप० स० । अनाढ्यस्य आढ्यभवनसाधने ।
 comment = Typo.  LB BUT, this word is wrong as the language does not allow the formation of this word.  LB Please look at the Panini sutras 3-2-56 आढ्यसुभगस्थूलपलितनग्नान्धप्रियेषु च्व्य्र्थेष्वच्वौ कृञः करणे ख्युन् । and  LB 3-2-57 कर्तरि भुवः खिष्णुच्खुकञौ ।
-status = PENDING
+status =  10/1/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24597: 02/02/2020 dict=VCP, L= 28189.1, hw=navabaDU, user=ejf

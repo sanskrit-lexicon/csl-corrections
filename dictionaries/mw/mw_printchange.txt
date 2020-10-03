@@ -1045,3 +1045,15 @@ Jim Funderburk
 L code : Headword : Old  : New : Comment
 121944 : pAdapASI : Kaquka : KaqukA :
 -----------------------------------------------------------------------
+10-01-2020
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/393
+Gerard Huet
+L code : Headword : Old  : New : Comment
+208528 : vyatitF  : <ab>sg.</ab> <ab>du.</ab>: <ab>sg.</ab>: remove du.
+-----------------------------------------------------------------------
+10-03-2020
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/378
+User: Mark Lundy
+L code : Headword : Old  : New : Comment
+257473 : syAt: 6 & 7: ... : Changed translation. See reference .
+-----------------------------------------------------------------------

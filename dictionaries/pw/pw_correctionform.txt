@@ -1,8 +1,28 @@
 Sanskrit Lexicon Correction Form History for PW
-As of August 10, 2020
-11811 correction records, with 6 PENDING
+As of October 01, 2020
+11814 correction records, with 9 PENDING
 
-Case 24737: 08/09/2020 dict=PW, L= 84930, hw=mahālakṣmī, user=frank.ziesing
+Case 24753: 09/08/2020 dict=PW, L= 21348, hw=ṛcchā, user=frank.ziesing
+old = ṛcchā f. in ydṛcchā. 
+new = ṛcchā f. in yadṛcchā. 
+comment = Typo "a" missing in yadṛcchā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24752: 09/08/2020 dict=PW, L= 132016, hw=svacchanda, user=frank.ziesing
+old = — b) vom eigenen Willen anhängig , unbeschränkt  ebend.  
+new = — b) vom eigenen Willen abhängig , unbeschränkt  ebend.  
+comment = Typo "anhängig " should be "abhängig "
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24743: 08/26/2020 dict=PW, L= 79595, hw=bhAvana, user=h.c.jahr
+old = fordernd
+new = fördernd
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24736: 08/09/2020 dict=PW, L= 84930, hw=mahālakṣmī, user=frank.ziesing
 old = — 1) die grosse Lakṣmi , Nārāyaṇ's Śakti. Wird auch mit der Durgā und der Sarasavati identificirt ; 
 new = — 1) die grosse Lakṣmi , Nārāyaṇa's Śakti. Wird auch mit der Durgā und der Sarasvati identificirt ; 
 comment = Typo Nārāyaṇ should be Nārāyaṇa ; Sarasavati should be Sarasvati 
