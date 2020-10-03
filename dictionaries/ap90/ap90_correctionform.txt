@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of October 01, 2020
-449 correction records, with 6 PENDING
+As of October 03, 2020
+450 correction records, with 7 PENDING
+
+Case 24770: 10/01/2020 dict=AP90, L=17765, hw=पर, user=chandrasekharanr
+old = — 9 Highest, greatest
+new = — 6 Highest, greatest
+comment = Typo. This is there in the original pdf itself. I see this error in the 1957 edition too!!
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24762: 09/18/2020 dict=AP90, L= 25979, hw=विध, user=Satish Kothari    satishkoth
 old = In Sl No 1,  वहुविध

@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for MW
 As of October 03, 2020
-1521 correction records, with 0 PENDING
+1523 correction records, with 0 PENDING
+
+Case 24771: 10/02/2020 dict=MW, L= बलीवदौ, hw=बलीवदौ, user=nakshatra
+old = ghgu p[oy
+new = 
+comment = uyt7r
+status =  10/3/2020 Invalid input. Cannot correct.
+------------------------------------------------------------------------
+
+Case 24769: 10/01/2020 dict=MW, L= 1323, hw=अग्रेभ्रू, user=chandrasekharanr
+old = Pāṇ. 4, 40
+new = Pāṇ. vi. 4, 40
+status =   10/3/2020 corrected.
+------------------------------------------------------------------------
 
 Case 24767: 09/22/2020 dict=MW, L= 101815, hw=dhR, user=geymonat
 old = (dhriyate) so be firm, keep steady, RV.  &c. &c.; 
