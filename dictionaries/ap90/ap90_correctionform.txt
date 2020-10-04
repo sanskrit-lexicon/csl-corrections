@@ -1,51 +1,51 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of October 03, 2020
-450 correction records, with 7 PENDING
+As of October 04, 2020
+450 correction records, with 0 PENDING
 
 Case 24770: 10/01/2020 dict=AP90, L=17765, hw=पर, user=chandrasekharanr
 old = — 9 Highest, greatest
 new = — 6 Highest, greatest
 comment = Typo. This is there in the original pdf itself. I see this error in the 1957 edition too!!
-status = PENDING
+status =   10/4/2020 corrected.
 ------------------------------------------------------------------------
 
 Case 24762: 09/18/2020 dict=AP90, L= 25979, hw=विध, user=Satish Kothari    satishkoth
 old = In Sl No 1,  वहुविध
 new = बहुविध
-status = PENDING
+status =  10/4/2020 Corrected 
 ------------------------------------------------------------------------
 
 Case 24761: 09/18/2020 dict=AP90, L= 29800, hw=सम्यच्, user=Satish Kothari,    satishkoth
 old = In No 6 (ind.), सम्बक् should be सम्यक्
 new = In No 6 (ind.), सम्बक् should be सम्यक्
-status = PENDING
+status =  10/4/2020 Corrected 
 ------------------------------------------------------------------------
 
 Case 24751: 09/06/2020 dict=AP90, L= , hw=Kashvi, user=
 old = 
 new = 
-status = PENDING
+status =  10/4/2020.  Not enough information to correct.
 ------------------------------------------------------------------------
 
 Case 24720: 07/20/2020 dict=AP90, L= 303, hw=aMguli, user=mukesh
 old = When I type a~Nguli, it is not recognizing the word, even though it is the correct ITRANS for the word.
 new = a~Nguli
 comment = Transliteration scheme
-status = PENDING
+status =  10/4/2020  No correction needed. Ref https://github.com/sanskrit-lexicon/csl-orig/issues/343
 ------------------------------------------------------------------------
 
 Case 24717: 07/16/2020 dict=AP90, L= 13565, hw=छदिः, user=chandrasekharanr
 old = The ro of
 new = The roof
 comment = Typo. This is seen in the book also. But this has been fixed in the 1957 edition
-status = PENDING
+status =  10/4/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24708: 07/03/2020 dict=AP90, L= 10574, hw= kashmala, user=mukesh
 old = It is not a typo.
 new = When I search for this word using 'Exact' or 'Substring' mode, it shows up but not when I use 'Prefix'. It would be more convenient if 'Prefix' also includes 'Exact'
 comment = Logic
-status = PENDING
+status =  10/4/2020 Not changed. Ref https://github.com/sanskrit-lexicon/csl-orig/issues/331
 ------------------------------------------------------------------------
 
 Case 24679: 06/03/2020 dict=AP90, L= यावत् , hw=23810, user=chandrasekharanr
