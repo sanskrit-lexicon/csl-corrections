@@ -24719,9 +24719,9 @@
 07/18/2020 10:54:47	MW	 89551	 dagdhamandirasāra	 one who has burned the, best of mansions. 	 one who has burned the best of mansions. 	Typo	Caujolle: 08/10/2020 Corrected
 07/20/2020 14:33:50	MW	 122462	pAraNa	a could (as ‘crossing’, sc. the sky),	a cloud (as ‘crossing’, sc. the sky),	Typo	theunborn@gmail.com: 08/10/2020 Corrected
 07/20/2020 14:49:56	AP90	 303	aMguli	When I type a~Nguli, it is not recognizing the word, even though it is the correct ITRANS for the word.	a~Nguli	Transliteration scheme	mukesh@hotmail.com: 10/4/2020  No correction needed. Ref https://github.com/sanskrit-lexicon/csl-orig/issues/343
-07/22/2020 20:18:12	PWG	 47961	prajApati	im Ṛv.  nur ein Mal vorkommt, wo ein Zusatzvers  10, 21, 10	im Ṛv.  nur ein Mal vorkommt, wo ein Zusatzvers  10, 121, 10	Electronic version and the PWG original scan both refer to RV 10, 21, 10. I think it is a mistake in the original dictionary as prajApati occurs in 10, 121, 10 as described and it does not occur in 10, 21, 10.	h.c.jahr@gmx.de
+07/22/2020 20:18:12	PWG	 47961	prajApati	im Ṛv.  nur ein Mal vorkommt, wo ein Zusatzvers  10, 21, 10	im Ṛv.  nur ein Mal vorkommt, wo ein Zusatzvers  10, 121, 10	Electronic version and the PWG original scan both refer to RV 10, 21, 10. I think it is a mistake in the original dictionary as prajApati occurs in 10, 121, 10 as described and it does not occur in 10, 21, 10.	h.c.jahr@gmx.de: 10/4/2020 Corrected. Print change.
 07/22/2020 20:27:59	CCS	 16499	barh	2. barh bRhati (mur Partic.	2. barh bRhati (nur Partic.	Typo (n instead of m)	h.c.jahr@gmx.de
-07/24/2020 09:39:44	PWG	 18383	kuha	trgendwo	irgendwo 	Typo	h.c.jahr@gmx.de 
+07/24/2020 09:39:44	PWG	 18383	kuha	trgendwo	irgendwo 	Typo	h.c.jahr@gmx.de : 10/4/2020 Corrected.
 07/25/2020 18:43:12	PW	 82796	manas	aus Körper	aus dem Körper	Typo, missing word	h.c.jahr@gmx.de 
 07/26/2020 14:06:59	MW	256400	स्नेहलवण	(a partic. mixture of oil and) SALE	Is it SALT?	Typo	sanaatani@gmail.com: 08/10/2020 Corrected
 07/26/2020 22:12:22	CCS	 25138	zraddhA	Vertrauen, Treu	Vertrauen, Treue	Typo	h.c.jahr@gmx.de 
@@ -24732,7 +24732,7 @@
 08/04/2020 09:34:50	MW	 	dhA		The search takes you to the entry for dha on 508 rather than the correct entry for dhA on page 513 column 2	Search goes to the wrong page	deborahsilver22@gmail.com: 08/10/2020 No change made.
 08/04/2020 16:46:53	bur	 2151	Adi	A la fin des composés, ce mot joue le rôle d'a.	the a. (for "adjectif") is not referenced, probably because of the ' before it.  Also, the A at the beginning of the sentence should be an À.	reference missing	Caujolle: 08/10/2020 Corrected
 08/05/2020 05:56:03	bur	 5922	guNa	 triguṇa le triple śataguṇa le centuple, 	 triguṇa le triple, śataguṇa le centuple, 	Typo (a coma is missing)	Caujolle: 08/10/2020 Corrected
-08/05/2020 09:21:18	PWG	 102035	ślāghya	ślāghya (von ślāgh) adj. = ślādhanīya	ślāghya (von ślāgh) adj. = ślāghanīya	Typo dha for gha	Christian Ferstl
+08/05/2020 09:21:18	PWG	 102035	ślāghya	ślāghya (von ślāgh) adj. = ślādhanīya	ślāghya (von ślāgh) adj. = ślāghanīya	Typo dha for gha	Christian Ferstl: 10/4/2020 Corrected.
 08/05/2020 17:22:58	PW	 39789	ci	deer Länge nach	der Länge nach	Typo	h.c.jahr@gmx.de
 08/09/2020 08:18:17	PW	 84930	mahālakṣmī	— 1) die grosse Lakṣmi , Nārāyaṇ's Śakti. Wird auch mit der Durgā und der Sarasavati identificirt ; 	— 1) die grosse Lakṣmi , Nārāyaṇa's Śakti. Wird auch mit der Durgā und der Sarasvati identificirt ; 	Typo Nārāyaṇ should be Nārāyaṇa ; Sarasavati should be Sarasvati 	frank.ziesing@web.de
 08/11/2020 11:33:39	bur	 12194	prANa	pāṇāyāma m. (ā; yam) exercice pieux qui 	prāṇāyāma m. (ā; yam) exercice pieux qui 	Typo, the R is missing (prāṇa, not pāṇa); a spelling mistake from the book	Caujolle

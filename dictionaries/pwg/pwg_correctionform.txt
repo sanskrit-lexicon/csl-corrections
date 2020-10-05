@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of August 10, 2020
-211 correction records, with 3 PENDING
+As of October 04, 2020
+211 correction records, with 0 PENDING
 
 Case 24734: 08/05/2020 dict=PWG, L= 102035, hw=ślāghya, user=Christian Ferstl
 old = ślāghya (von ślāgh) adj. = ślādhanīya
 new = ślāghya (von ślāgh) adj. = ślāghanīya
 comment = Typo dha for gha
-status = PENDING
+status =  10/4/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24723: 07/24/2020 dict=PWG, L= 18383, hw=kuha, user=h.c.jahr
 old = trgendwo
 new = irgendwo 
-status = PENDING
+status =  10/4/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24721: 07/22/2020 dict=PWG, L= 47961, hw=prajApati, user=h.c.jahr
 old = im Ṛv.  nur ein Mal vorkommt, wo ein Zusatzvers  10, 21, 10
 new = im Ṛv.  nur ein Mal vorkommt, wo ein Zusatzvers  10, 121, 10
 comment = Electronic version and the PWG original scan both refer to RV 10, 21, 10. I think it is a mistake in the original dictionary as prajApati occurs in 10, 121, 10 as described and it does not occur in 10, 21, 10.
-status = PENDING
+status =  10/4/2020 Corrected. Print change.
 ------------------------------------------------------------------------
 
 Case 24694: 06/14/2020 dict=PWG, L= 56235, hw=maGgala, user=h.c.jahr
