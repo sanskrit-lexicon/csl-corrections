@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of August 10, 2020
-2243 correction records, with 2 PENDING
+As of October 05, 2020
+2243 correction records, with 0 PENDING
 
 Case 24726: 07/26/2020 dict=CCS, L= 25138, hw=zraddhA, user=h.c.jahr
 old = Vertrauen, Treu
 new = Vertrauen, Treue
-status = PENDING
+status =  10/5/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24722: 07/22/2020 dict=CCS, L= 16499, hw=barh, user=h.c.jahr
 old = 2. barh bRhati (mur Partic.
 new = 2. barh bRhati (nur Partic.
 comment = Typo (n instead of m)
-status = PENDING
+status =  10/5/2020 Corrected.
 ------------------------------------------------------------------------
 
 Case 24669: 05/16/2020 dict=CCS, L= 15221, hw=prajña, user=frank.ziesing
