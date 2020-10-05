@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of October 04, 2020
-335 correction records, with 0 PENDING
+As of October 05, 2020
+336 correction records, with 0 PENDING
+
+Case 24772: 10/05/2020 dict=SKD, L= 36762, hw=श्लोकः, user=Nirav Raval (niravraval
+old = In the following citation from Ramayan (Bala kanda, Chapter 2, verse 15) LB “मा निपाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः । LB the word निपाद is incorrect. 
+new = It should be "nishad" (निषाद). LB The correct version of the verse is: LB मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः । LB यत्क्रौंचमिथुनादेकमवधी काममोहितम् ।। LB 
+status =  10/5/2020 Corrected.
+------------------------------------------------------------------------
 
 Case 24742: 08/19/2020 dict=SKD, L= 37768, hw=सन्नयासः, user=radimnavyan
 old = न्यासः । हथा–
