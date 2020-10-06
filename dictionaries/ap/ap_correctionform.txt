@@ -1,35 +1,35 @@
 Sanskrit Lexicon Correction Form History for AP
-As of October 01, 2020
-500 correction records, with 5 PENDING
+As of October 05, 2020
+500 correction records, with 0 PENDING
 
-Case 24765: 09/20/2020 dict=AP, L=1471-2, hw=विशिष् , user=torbium
+Case 24765: 09/20/2020 dict=AP, L=30346, hw=विशिष् , user=torbium
 old = सर्बेषामेब
 new = सर्वेषामेव
-status = PENDING
+status =  10/5/2020 Corrected 
 ------------------------------------------------------------------------
 
-Case 24764: 09/20/2020 dict=AP, L=1471-2, hw=विशिष्, user=torbium
+Case 24764: 09/20/2020 dict=AP, L=30346, hw=विशिष्, user=torbium
 old = बिशिष्यते
 new = विशिष्यते
-status = PENDING
+status =  10/5/2020 Corrected 
 ------------------------------------------------------------------------
 
 Case 24763: 09/20/2020 dict=AP, L=1471-2, hw=विशिष्, user=torbium
 old = In the 3rd meaning LB पुनरकाण्डविबर्तनदारुणो
 new = पुनरकाण्डविवर्तनदारुणो
-status = PENDING
+status =  10/5/2020 Corrected 
 ------------------------------------------------------------------------
 
-Case 24760: 09/17/2020 dict=AP, L=p= 0744-1, hw=ज्ञानम्, user=torbium
+Case 24760: 09/17/2020 dict=AP, L=15779, hw=ज्ञानम्, user=torbium
 old = after -विज्ञानम् in the quotation given LB 1 sacred and miscellaneous knowledge; तत्प्राज्ञेन विनीतेन ज्ञानबिज्ञानबेदिना Ms. 18. 41.
 new = ज्ञानबिज्ञानबेदिना -> ज्ञानविज्ञानवेदिना
-status = PENDING
+status =  10/5/2020 Corrected 
 ------------------------------------------------------------------------
 
-Case 24759: 09/17/2020 dict=AP, L=p=1434-2, hw=विज्ञानम्, user=torbium
+Case 24759: 09/17/2020 dict=AP, L=29469, hw=विज्ञानम्, user=torbium
 old = In 4th meaning: LB (the whole of the 7th Adhyāya of Bg. explains ज्ञान and बिज्ञान).
 new = बिज्ञान -> विज्ञान
-status = PENDING
+status =  10/5/2020 Corrected 
 ------------------------------------------------------------------------
 
 Case 23982: 10/23/2017 dict=ap, L= 5425, hw=avACid, user=ejf/sergeA
