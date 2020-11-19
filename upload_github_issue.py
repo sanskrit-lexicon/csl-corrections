@@ -42,11 +42,13 @@ def read_pending_entries(tsvfile, lastcfrline):
 
 def create_issue(entry):
 	username = os.environ['GITHUB_USER']
-	password = os.environ['GITHUB_PASSWORD']
-	print(username,password)
+	#password = os.environ['GITHUB_PASSWORD']
+	token = os.environ['GITHUB_ACCESS_TOKEN']
+	#print(username,password)
 	#print('entry=',entry)
 	s = requests.Session()
-	s.auth = (username, password)
+	#s.auth = (username, password)
+	s.auth = (username, token)
 	r = s.post('https://api.github.com/repos/sanskrit-lexicon/csl-orig/issues', json.dumps(entry))
 	#print('status code returns:',r.status_code)
 	#if r.status_code == requests.codes.created:
