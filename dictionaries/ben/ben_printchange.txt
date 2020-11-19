@@ -304,3 +304,16 @@ L code : Headword : Old :       New       : Comment
 6043   : tF       : {%tṝ,%} : {%TṜ,%} :
 9170   : pfzWAnuga : {%pṝṣṭhānuga,%} : {%pṛṣṭhānuga,%} :
 -----------------------------------------------------------------------
+11-17-2020
+ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/17
+  These print changes noticed while correcting many English spelling errors.
+Dhaval Patel, Sampada Savardekar, Jim Funderburk
+L code : Headword : Old :       New       : Comment
+5189   : Cid      : terminanations : terminations : 
+5584   : waMkAra  : imitatative : imitative
+6572   : durdarSatA : Loathesomeness : Loathsomeness : 
+6982   : DA       : Wothy : Worthy :
+7021   : Dik      : dissatifaction : dissatisfaction : 
+8372   : parivAha : brimfull : brimful :
+13064  : vArttika : Commentatory : Commentary  : Archaic
+-----------------------------------------------------------------------
