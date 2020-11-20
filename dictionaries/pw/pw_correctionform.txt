@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of October 05, 2020
-11814 correction records, with 0 PENDING
+As of November 19, 2020
+11815 correction records, with 0 PENDING
+
+Case 24776: 10/15/2020 dict=PW, L= 82767, hw=man, user=frank.ziesing
+old = kiṃ bahn manyase
+new = kiṃ bahu manyase
+comment = Typo should be "bahu" instead of "bahn"
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 24753: 09/08/2020 dict=PW, L= 21348, hw=ṛcchā, user=frank.ziesing
 old = ṛcchā f. in ydṛcchā. 

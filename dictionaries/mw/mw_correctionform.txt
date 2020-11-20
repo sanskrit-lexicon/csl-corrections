@@ -1,6 +1,73 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 03, 2020
-1523 correction records, with 0 PENDING
+As of November 19, 2020
+1533 correction records, with 0 PENDING
+
+Case 24790: 11/03/2020 dict=mw, L= 16915.2, hw=alpAlpaBAs, user=ejf
+old = l°ittle
+new = <ab n="little">l°</ab>
+comment = markup
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24789: 10/31/2020 dict=MW, L= 169114.1, hw=yah, user=gasyoun
+old = ἄγος,ἅζομαι
+new = ἄγος, ἅζομαι
+comment = OCR
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24787: 10/29/2020 dict=MW, L= 84605, hw=तालावचर, user=rah2k
+old = तादाव्॰
+new = ताडाव्॰
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24785: 10/27/2020 dict=Mw, L= 156776, hw=manas, user=Ejf
+old = 6 with
+new = With not part of ls
+comment = Markup
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24784: 10/25/2020 dict=MW, L= 154821, hw=maRisraj, user=ejf
+old = garland of jewel
+new = garland of jewels
+comment = abbreviation
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24783: 10/25/2020 dict=MW, L= 122554, hw=pAraj, user=ejf
+old = nom. orak
+new = nom. rak
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24782: 10/25/2020 dict=MW, L= 120009, hw=parvatarAj, user=ejf
+old = a very high mountains
+new = a very high mountain
+comment = Abbreviation
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24780: 10/21/2020 dict=Mw, L= 25235, hw=ABA, user=ejf
+old = ABa
+new = Change headboard for adjective
+comment = Markup
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24778: 10/20/2020 dict=mw, L=97846, hw=द्रु, user=zaaf2
+old = ind.p. द्रुट्वा
+new = ind.p. द्रुत्वा
+comment = Typo (the dot under the t belongs to the line below)
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24777: 10/17/2020 dict=mw, L= 126134.8, hw=purI, user=ejf
+old = n. 
+new = Remove n.
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 24771: 10/02/2020 dict=MW, L= बलीवदौ, hw=बलीवदौ, user=nakshatra
 old = ghgu p[oy

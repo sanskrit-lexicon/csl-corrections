@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of October 04, 2020
-450 correction records, with 0 PENDING
+As of November 19, 2020
+452 correction records, with 0 PENDING
+
+Case 24794: 11/17/2020 dict=AP90, L= 24086, hw=राजन्, user=kjkk2717
+old =  -तालः, --ताली the belet-nut tree.
+new =  -तालः, --ताली the betel-nut tree.
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24786: 10/29/2020 dict=AP90, L= 15598, hw=darSaka, user=ejf
+old = dfa-nic
+new = dfS-Ric
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 24770: 10/01/2020 dict=AP90, L=17765, hw=पर, user=chandrasekharanr
 old = — 9 Highest, greatest

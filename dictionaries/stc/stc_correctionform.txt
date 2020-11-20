@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for STC
-As of October 05, 2020
-91 correction records, with 0 PENDING
+As of November 19, 2020
+93 correction records, with 0 PENDING
+
+Case 24793: 11/15/2020 dict=STC, L= 16171, hw=bhArata, user=Caujolle
+old = "relatif ou appartenant. aux Bh." and "(qqf. = mahā°) f. "
+new = "relatif ou appartenant aux Bh." and "(qqf. = mahā°) ; f. "
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24775: 10/14/2020 dict=STC, L= 17872, hw=vara, user=Caujolle
+old = not. safran; 
+new = nt. safran; 
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 24758: 09/16/2020 dict=STC, L= 19237, hw=vizvAsa, user=Caujolle
 old = vi-śvāsa- m. confiance (dan, loc.);

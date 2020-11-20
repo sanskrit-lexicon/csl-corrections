@@ -1,6 +1,38 @@
 Sanskrit Lexicon Correction Form History for AP
-As of October 05, 2020
-500 correction records, with 0 PENDING
+As of November 19, 2020
+505 correction records, with 0 PENDING
+
+Case 24797: 11/18/2020 dict=AP, L=1460-1, hw=वियुज् , user=torbium
+old = अजानता मया सैब पत्रैः शाखा बियोजिता
+new = सैब -> सैव LB बियोजिता -> वियोजिता
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24796: 11/18/2020 dict=AP, L=1460-1, hw=वियुज् , user=torbium
+old = पुरो बियुक्ते मिथुने कृपाबती <- LB प्राणैर्न बियोजयति <- LB असुभिर्न बियुज्यते <- LB न व्रतेन बियुज्यते <-
+new = पुरो बियुक्ते मिथुने कृपाबती -> पुरो वियुक्ते मिथुने कृपावती LB प्राणैर्न बियोजयति -> प्राणैर्न वियोजयति LB असुभिर्न बियुज्यते -> असुभिर्न वियुज्यते LB न व्रतेन बियुज्यते -> न व्रतेन वियुज्यते 
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24795: 11/18/2020 dict=AP, L= 1460-1, hw=वियोगः, user=torbium
+old = त्वयोपस्थितबियोगस्य <- LB तपो-बनस्यापि <- LB समबस्था <-  
+new = त्वयोपस्थितबियोगस्य -> त्वयोपस्थितवियोगस्य LB तपो-बनस्यापि -> तपो-वनस्यापि LB समबस्था ->  समवस्था
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24774: 10/12/2020 dict=AP, L= 1297, hw=ananta, user=maximilianhoth
+old = YudhiṢṭhira's
+new = Yudhiṣṭhira's
+comment = Typo LB small ṣ instead of capital Ṣ LB compare page 74 of Scan
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24773: 10/12/2020 dict=AP, L=35988, hw=syandana, user=maximilianhoth
+old = war-chaiot
+new = war-chariot
+comment = Typo LB 'r' is missing in 'chariot' LB see syandanaḥ on page 1733-2 of the scan
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 24765: 09/20/2020 dict=AP, L=30346, hw=विशिष् , user=torbium
 old = सर्बेषामेब

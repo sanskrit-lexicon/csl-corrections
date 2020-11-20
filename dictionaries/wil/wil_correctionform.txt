@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of October 04, 2020
-1144 correction records, with 0 PENDING
+As of November 19, 2020
+1145 correction records, with 0 PENDING
+
+Case 24788: 10/30/2020 dict=WIL, L= 4024, hw=avidya, user=Caujolle
+old = 2 Not relating to knowledge. f. (dyā) 
+new = after the first period one should have change line/paragraph
+comment = 
+status = : Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 24755: 09/10/2020 dict=WIL, L= , hw=Sky blue, user=Phamchikhang99
 old = 

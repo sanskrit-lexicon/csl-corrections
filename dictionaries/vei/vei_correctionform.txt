@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for VEI
-As of July 22, 2019
-42 correction records, with 0 PENDING
+As of November 19, 2020
+43 correction records, with 0 PENDING
+
+Case 24791: 11/03/2020 dict=VEI, L=2656, hw=rasA, user=toe5sst.mt31415
+old = atinosphere
+new = atmosphere
+comment = Typo, '-in-' should be '-m-' . LB Printed book page 2-209.
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 23933: 09/12/2017 dict=VEI, L=675, hw=kusurubindaOddalaki, user=dhaval
 old = kusurubindaOddalaki

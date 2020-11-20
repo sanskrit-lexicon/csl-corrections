@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of October 05, 2020
-729 correction records, with 0 PENDING
+As of November 19, 2020
+732 correction records, with 0 PENDING
+
+Case 24792: 11/06/2020 dict=bur, L= 11732, hw=pratIka, user=Caujolle
+old = en gén. portion
+new = gén. is an abbreviation, here it is not referenced. it is for "général"
+comment = reference
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24781: 10/24/2020 dict=bur, L= 14742, hw=vara, user=Caujolle
+old = Vd. is not referenced
+new = the reference is "Véda, védique" and this abbreviation is properly referenced in other places and here it is just due to the following ";" 
+comment = reference. Note also here essuiemains which should be essuie-mains
+status = : Corrected 11/19/2020
+------------------------------------------------------------------------
+
+Case 24779: 10/21/2020 dict=bur, L= 4853, hw=kula, user=Caujolle
+old = particult. 
+new = this abbreviation which means "particulièrement" is not referenced
+comment = reference; by the way, i noticed for Bd. or bd., "buddhique, bouddhique"; better would be to make a choice, better would be bouddhique, the now form in our French dictionaries (even if still some uses buddhique in scholar circles, bouddhique is the present form in our French dictionaries and used by normal French persons)
+status =  Corrected 11/19/2020
+------------------------------------------------------------------------
 
 Case 24744: 08/27/2020 dict=bur, L= 19420, hw=svayam, user=Caujolle
 old = svayam svayam indéc. (sva) moi-mème;
