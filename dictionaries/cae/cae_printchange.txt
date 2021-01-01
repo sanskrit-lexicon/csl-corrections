@@ -89,7 +89,7 @@ L code : Headword : Old  : New : Comment
 17940 : payomaca : payomaca : payomuc : last line of scan column
 17958 : praradAropasevana : praradAropasevana : paradAropasevana : 
 18229 : paribfhana : paribfhana : paribfMhaRa : cf ap90, etc.
-18790 : sOpAka : sOpAka : pARqusOpAka : the ellipsis symbol ° missing
+18790 : sOpAka : sOpAka : pARqusOpAka : the ellipsis symbol Â° missing
 19846 : pfTakisTati : pfTakisTati : pfTaksTiti : 'k' not printed as 'half-k'
 20091 : prakapita : prakapita : prakampita : prakapita doesn't make sense, prakampita is in pw, mw with similar sense. prakampita still out of alphabetical order
 20269 : patApa : patApa : pratApa : 
@@ -161,8 +161,8 @@ L code : Headword : Old  : New : Comment
 848 : aDarmizwa : aDarmizwa : aDarmizWa : cf mw, pw, etc. cae has DarmizWa
 2294 : aBiDAnakoMSa : aBiDAnakoMSa : aBiDAnakoSa : aBiDAnakoSa  cf. PW
 2507 : aBrAvakAMSika : aBrAvakAMSika : aBrAvakASika : the anusvAra may be print smudge. cf MW, PW
-2508 : aBrAvakAMSin : {aBrAvakAMSin}1{aBrAvakAM°Sin} : {aBrAvakASin}1{aBrAvakA°Sin} : the anusvAra may be print smudge. cf MW, PWG
-2554 : amarzip : {amarzip}1{ama°rzip} : {amarzin}1{ama°rzin} : cf CCS, mw, pw. The 'p' appears to be .
+2508 : aBrAvakAMSin : {aBrAvakAMSin}1{aBrAvakAMÂ°Sin} : {aBrAvakASin}1{aBrAvakAÂ°Sin} : the anusvAra may be print smudge. cf MW, PWG
+2554 : amarzip : {amarzip}1{amaÂ°rzip} : {amarzin}1{amaÂ°rzin} : cf CCS, mw, pw. The 'p' appears to be .
 2578 : amitavikram : amitavikram : amitavikrama : cf MW, VCP.  Presume the virAma a 
 2651 : ambucArim : ambucArim : ambucArin : cf mw.
 3619 : asayatAtman : asayatAtman : asaMyatAtman : print missing anusvAra
@@ -214,9 +214,9 @@ L code : Headword : Old  : New : Comment
 28558 : vasupatri : vasupatri : vasupati : 'r' is wrong ('lord of wealth')
 28701 : vAcyarTa : vAcyarTa : vAcyArTa : cf ccs, mw, pw
 29537 : vidvatta : vidvatta : vidvattA : cf mw, also by gender
-29892 : vimarzana : {vimarzana}1{vima°rzana} : {vimarzaRa}1{vima°rzaRa} : cf MW; by sandhi, should be 'zaRa', not 'zana'
+29892 : vimarzana : {vimarzana}1{vimaÂ°rzana} : {vimarzaRa}1{vimaÂ°rzaRa} : cf MW; by sandhi, should be 'zaRa', not 'zana'
 30520 : visaMnnAha : visaMnnAha : visaMnAha : Three nasals wrong. cf mw, pw. mw72 = visannAha
-30760 : vfttasapanna : {vfttasapanna}1{vftta°sapanna} : {vfttasaMpanna}1{vftta°saMpanna} : cf ccs, mw, pw
+30760 : vfttasapanna : {vfttasapanna}1{vfttaÂ°sapanna} : {vfttasaMpanna}1{vfttaÂ°saMpanna} : cf ccs, mw, pw
 30797 : vfdDaSarmas : vfdDaSarmas : vfdDaSarman : cf. PW.  No other word ends in Sarmas in any dictionary.
 31526 : vrada : vrada : vrad : verbs don't have anubanDa in CAE, so virAma missing.
 31789 : Satrutapa : Satrutapa : SatruMtapa : Missing anusvAra. cf, MW, PW, CCS, etc
@@ -267,4 +267,113 @@ These changes initiated by Dr. Dhaval Patel
 L code : Headword : Old  : New : Comment
 22471 : brAhymya : brAhymya : brAhmya : 
 8426 : kenezitopanizada : kenezitopanizada : kenezitopanizad : 
+----------------------------------------------------------------------
+12/31/2020
+ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/25
+These changes initiated by Github user AnnaRybakovaT, check by Jim Funderburk
+L code : Headword : Old  : New : Comment
 -----------------------------------------------------------------------
+304 : aNga : sollicitation :  solicitation :
+841 : aDarottara : topsyturvy :  topsy-turvy :
+1037 : anantara : adjoing :  adjoining :
+1356 : anItijYa : indiscrect :  indiscreet :
+1562 : anuspazwa : seeh :  seen :
+1716 : anDas : Somaplant :  Soma plant :
+2317 : aBipluta : suffereing :  suffering :
+2863 : arTatas : intruth :  in truth :
+3046 : alpabudDa : sarcely :  scarcely :
+3131 : avaDUta : sparned :  spurned :
+3146 : avanejana : washwater :  wash water :
+4035 : Agama : knowl edge :  knowledge :
+4051 : AgrayaRa : firstfruits :  first fruits :
+4628 : Alocana : seing :  seeing :
+5057 : izwakAmaduh : wondercow :  wonder cow :
+5106 : IraRa : sqeezing :  squeezing :
+5767 : upapArSva : shoulderblade :  shoulder blade :
+5922 : upAdAna : appropiating :  appropriating :
+5927 : upADyAya : subteacher :  sub teacher :
+6244 : fju : nonest :  honest :
+6282 : ftAvfD : holyminded :  holy-minded :
+6388 : ekapad : imcomplete :  incomplete :
+6490 : ekAnta : lonelines :  loneliness :
+6778 : OpAsana : do mestic :  domestic :
+6970 : kanizka : Indoscythic :  Indo-Scythic :
+7164 : karRAwakalaha : Karnatic :  Carnatic :
+7339 : kalyARasUcaka : fortume :  fortune :
+7397 : kAkatAlIya : palmfruit :  palm-fruit :
+7512 : kAmandakI : Budhhistic :  Buddhistic :
+7827 : kIkasa : vertebre :  vertebra :
+8112 : kuSalapraSna : wellfare :  welfare :
+8593 : kOsumBa : safflor :  safflower :
+8839 : kzAra : alcali :  alkali :
+8884 : kzIravfkza : milktree :  milk-tree :
+9177 : gaRaka : astrologue :  astrologer :
+9299 : gamya : understod :  understood :
+10070 : GftAcI : greazy :  greasy :
+10252 : catuzpaTa : eross :  crossway :
+11090 : jaraRyA : decrepitade :  decrepitude :
+11434 : jIvita : subistence :  subsistence :
+13077 : tvazwf : workmann :  workman :
+13148 : dakziRapavana : wird :  wind :
+13219 : daRqavyUha : arraging :  arranging :
+13810 : dIpana : kinding :  kindling :
+13991 : durjAta : illborn :  ill- born :
+14942 : dvitIya : accusativ :  accusative :
+15484 : DUmay : darkenend :  darkened :
+15901 : naravAhin : palankin :  palanquin :
+16025 : nazwAsu : inaminate :  inanimate :
+16730 : nirnAsa : snubnosed :  snub-nosed :
+17011 : nizeDa : probition :  prohibition :
+17382 : nErukta : etymogically :  etymologically :
+17814 : pad : insruction :  instruction :
+18140 : pariRadDa : encirled :  encircled :
+18143 : pariRAma : od :  food :
+19712 : pUrvaka : ealier :  earlier :
+20004 : pOtinAsikya : stencn :  stench :
+20258 : pratardana : destoyer :  destroyer :
+23325 : Bram : fasely :  falsely :
+23562 : matsara : exhilarater :  exhilarator :
+25085 : muh : ert :  err :
+25128 : mUla : neighbourhoud :  neighbourhood :
+25370 : merusarzapa : mustardseed :  mustard seed :
+25441 : modaka : smeetmeat :  sweetmeat :
+25507 : mlA : langish :  languish :
+25833 : yam : excercise :  exercise :
+25911 : yaSasvant : glourious :  glorious :
+27105 : ruD : shutup :  shut up :
+27105 : ruD : withold :  withhold :
+27538 : lApu : insrument :  instrument :
+27696 : loka : splace :  space :
+28035 : vaDya : scape-grace :  scapegrace :
+28039 : vaDyaparyAya : excecute :  execute :
+28209 : vara : fullfilled :  fulfilled :
+28642 : vAkya : periphasis :  periphrasis :
+28699 : vAja : Rbhus :  Ṛbhus :
+29075 : viMSa : twentifold :  twentyfold :
+31200 : vESva : Vicve :  Viśve :
+31349 : vyAkaraRa : paration :  separation :
+31554 : SaMs : recife :  recite :
+32048 : Salalita : squills :  quills :
+32251 : SAMBava : Cambhu :  Śambhu :
+32252 : SAmya : peae :  peace :
+32975 : SUrasAti : batte :  battle :
+33423 : Srutitas : reveiation :  revelation :
+33922 : saMsfp : deitis :  deities :
+34217 : saMgraha : totalily :  totality :
+34367 : saMjYA : technic :  technical :
+34583 : sadAsA : alwas :  always :
+34622 : sadyoarTa : quickling :  quickly :
+34907 : sapatnakzayaRa : rivats :  rivals :
+35266 : samAna : similiar :  similar :
+35329 : samAyukta : pepared :  prepared :
+35376 : samAsokti : succint :  succinct :
+35417 : samIpa : neihbourhood :  neighbourhood :
+36271 : sahaskfta : strenghtened :  strengthened :
+36407 : sahya : resistibls :  resistible :
+36876 : sidDa : pertected :  perfected :
+37896 : sUnAcakraDvajavant : oilmanufacturers :  oil manufacturers :
+38273 : sKal : folter :  falter :
+38273 : sKal : eor :  err :
+38733 : smAram : rembrance :  remembrance :
+39252 : svEra : in pendence :  independence :
+39830 : hU : emoulously :  emulously :
