@@ -1,6 +1,54 @@
 Sanskrit Lexicon Correction Form History for AP
-As of November 19, 2020
-505 correction records, with 0 PENDING
+As of January 12, 2021
+513 correction records, with 0 PENDING
+
+Case 24820: 01/07/2021 dict=AP, L= 1182-1, hw=भज्, user=torbium
+old = 2 To obtain for oneself, share in, partake of; पित्र्यं बा भजते शीलम् Ms. 10. 59.
+new = बा -> वा
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24819: 01/07/2021 dict=AP, L= 1182-1, hw=भज्, user=torbium
+old = In the 20th meaning LB भाबं भज् to show love for &c. &c.). -Caus.
+new = भाबं -> भावं
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24818: 01/07/2021 dict=AP, L=1182-1, hw=भज्, user=torbium
+old = 10 To be attached or devoted to; आसन्नमेब नृपतिर्भजते मनुष्यं विद्याबिहीनमकुलीनमसंस्कृतं बा Pt. 1. 35.
+new = आसन्नमेब -> आसन्नमेव LB विद्याबिहीन -> विद्याविहीन LB बा -> वा
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24817: 01/07/2021 dict=AP, L=1182-1, hw=भज्, user=torbium
+old = In the 5th meaning.  LB अभितप्तमयोऽपि मार्दबं भजते कैब कथा शरीरिषु R. 8. 43; Māl. 3. 9; U. 1. 35.
+new = मार्दबं -> मार्दवं LB कैब -> कैव
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24816: 01/07/2021 dict=AP, L= 1182-1, hw=भज्, user=torbium
+old = In the 5th meaning. LB 1. 74; न भेजिरे भीमबिषेण भीतिम् Bh. 2.
+new = भीमबिषेण -> भीमविषेण
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24815: 01/07/2021 dict=AP, L= 1182-1, hw=भज्, user=torbium
+old = 3 To accept, receive; चामुण्डे भगबति मन्त्रसाधनादाबुद्दिष्टामुपनिहितां भजस्ब पूजाम् Māl. 5. 25. LB 4 LB (a) To resort to, betake oneself to, have recourse to; शिलातलं भेजे K. 179; मातर्लक्ष्मि भजस्ब कंचिदपरम् Bh. 3. 64; न
+new = भजस्ब -> भजस्व
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24814: 01/06/2021 dict=AP, L= 0744-1, hw=ज्ञानम्, user=torbium
+old = 5 The organ of intelligence, sense, intellect; कच्चिज्ज्ञानानि सर्वणि प्रसन्नानि तवाच्युत Mb. 12. 45. 18.
+new = सर्वणि -> सर्वाणि
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24813: 01/06/2021 dict=AP, L=0963-1, hw=पर, user=torbium
+old = 11 Final, last. 12 (At the end of comp.) Having anything as ths highest object ...
+new = In the electronic version the 12th meaning should begin in a new line and have the number "12" formatted with bold.
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
 
 Case 24797: 11/18/2020 dict=AP, L=1460-1, hw=वियुज् , user=torbium
 old = अजानता मया सैब पत्रैः शाखा बियोजिता

@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PW
-As of November 19, 2020
-11815 correction records, with 0 PENDING
+As of January 12, 2021
+11817 correction records, with 0 PENDING
+
+Case 24802: 12/03/2020 dict=PW, L= 65135, hw=paś, user=frank.ziesing
+old = — 8) sich umsehen nach aufsuchen.
+new = — 8) sich umsehen nach , aufsuchen.
+comment = Typo: comma missing
+status =  Corrected 01/11/2021
+------------------------------------------------------------------------
+
+Case 24799: 11/21/2020 dict=PW, L= 2363, hw=atha, user=frank.ziesing
+old = — 11) atha vā und atha — vā LB — a) oder auch , oder auch , oder  66,1.67,9.147,22.
+new = — 11) atha vā und atha — vā LB — a) oder auch , oder  66,1.67,9.147,22.
+comment = Typo: one "oder auch" too much
+status =  Corrected 01/11/2021
+------------------------------------------------------------------------
 
 Case 24776: 10/15/2020 dict=PW, L= 82767, hw=man, user=frank.ziesing
 old = kiṃ bahn manyase

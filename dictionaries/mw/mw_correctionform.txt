@@ -1,6 +1,65 @@
 Sanskrit Lexicon Correction Form History for MW
-As of November 19, 2020
-1533 correction records, with 0 PENDING
+As of January 12, 2021
+1542 correction records, with 0 PENDING
+
+Case 24823: 01/09/2021 dict=MW, L= 149136, hw=Bhavana, user=
+old = 
+new = 
+status =  01/12/2021 Insufficient information
+------------------------------------------------------------------------
+
+Case 24812: 01/06/2021 dict=mw, L=, hw=kf, user=SergeA
+old = See, Naigh. ii, 1 and ; Pāṇ. 7-4, 65 ),  to do repeatedly, RV. ; AV. ; TS. ;  <!!!>Class.<!!!> carkarti or carikarti or carīkarti ([Pāṇ. 7-4, 92 ; Kāś. ]), also carkarīti or
+new = Looks like wrong mark-up. Why so bold? "Class." = forms (of intensive) in Classical Sanskrit.
+comment = 
+status =  01/12/2021 Corrected.
+------------------------------------------------------------------------
+
+Case 24811: 01/05/2021 dict=MW, L= 192970, hw=वि॑—घटिका , user=
+old = 1/23
+new = 1/60
+comment = vighatika is 1/60 of ghatika
+status =  Corrected 1/11/2021
+------------------------------------------------------------------------
+
+Case 24809: 01/01/2021 dict=mw, L= 200389, hw=2. विश्, user=zaaf2
+old = the people κατ᾽, ἐξοχήν
+new = the people κατ᾽ ἐξοχήν
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24808: 12/21/2020 dict=MW, L=127816, hw=pUrva, user=geymonat
+old = smita-pUrvA-vAk
+new = smita-pUrvA vAk
+comment = Typo: the sign - between pUrvA and vAk has to be removed
+status =  01/12/2021 Corrected.
+------------------------------------------------------------------------
+
+Case 24807: 12/18/2020 dict=MW, L= 206064, hw=veditṛ, user=samm3
+old = veditṛ veditṛ or veditṛ
+new = veditṛ 
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24806: 12/17/2020 dict=mw, L=, hw=deva, user=jimfunderburk
+old = (H1)  [Printed book page 492,2]  deva   mf(ī)n. (fr. 3. div) <!!!>heavenly, divine (<!!!>also said of terrestrial things of high excellence), RV. ; AV. ; VS. ; ŚBr.
+new = Jim 2nd test of 12-27-2020.  No change required
+comment = 
+status =  01/12/2021 test.
+------------------------------------------------------------------------
+
+Case 24805: 12/17/2020 dict=mw, L=95520, hw=deva, user=ejf
+old = 15, 5 ; TS. iii, 5, 4, 1   [ID=95520]    [Printed book page 492,3]     (pl. t<!!!>he gods as the heavenly<!!!> or shining ones; विश्वे देवास्, all the gods, RV. ii, 3, 4 
+new = a test correction no change
+comment = 
+status =  01/12/2021 Test
+------------------------------------------------------------------------
+
+Case 24804: 12/17/2020 dict=mw, L= 10066, hw=any, user=ejf
+old = This is a test -- 
+new = no correction needed
+status =  01/12/2021 Test
+------------------------------------------------------------------------
 
 Case 24790: 11/03/2020 dict=mw, L= 16915.2, hw=alpAlpaBAs, user=ejf
 old = l°ittle

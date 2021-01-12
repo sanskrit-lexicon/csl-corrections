@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of October 04, 2020
-211 correction records, with 0 PENDING
+As of January 12, 2021
+212 correction records, with 0 PENDING
+
+Case 24824: 01/10/2021 dict=PWG, L=7-0484, hw=saMsAra, user=bayer
+old = https://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/2020/web/webtc/indexcaller.php LB A click on "printed book page" leads to the first page of the dictionary, not the requested page.
+new = 
+comment = faulty link? LB Keep up the good work.
+status =  01/12/2021 Corrected.
+------------------------------------------------------------------------
 
 Case 24734: 08/05/2020 dict=PWG, L= 102035, hw=ślāghya, user=Christian Ferstl
 old = ślāghya (von ślāgh) adj. = ślādhanīya

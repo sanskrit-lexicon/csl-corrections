@@ -1,6 +1,36 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of October 05, 2020
-336 correction records, with 0 PENDING
+As of January 12, 2021
+341 correction records, with 0 PENDING
+
+Case 24822: 01/08/2021 dict=SKD, L= 41108, hw=svarA, user=Peter Scharf
+old = vidOyatAm
+new = vidIyatAm
+status =  01/12/2021  Corrected (viDO -> viDI)
+------------------------------------------------------------------------
+
+Case 24821: 01/08/2021 dict=SKD, L= 41108, hw=svarA, user=Peter Scharf
+old = strarAM
+new = svarAM
+status =  01/12/2021  Corrected
+------------------------------------------------------------------------
+
+Case 24803: 12/15/2020 dict=SKD, L=3-116, hw=पापं, user=radimnavyan
+old = अघर्म्मम्।
+new = अधर्म्मम्।
+status =  Corrected 01/12/2021
+------------------------------------------------------------------------
+
+Case 24801: 11/23/2020 dict=SKD, L= 3876, hw=आश्रुः , user=Shalu
+old = आश्रुः
+new = आशुः
+status =  Corrected 01/11/2021
+------------------------------------------------------------------------
+
+Case 24800: 11/23/2020 dict=SKD, L= 3877, hw= आश्रु, user=Shalu
+old =  आश्रु
+new =  आशु
+status =  Corrected 01/11/2021
+------------------------------------------------------------------------
 
 Case 24772: 10/05/2020 dict=SKD, L= 36762, hw=श्लोकः, user=Nirav Raval (niravraval
 old = In the following citation from Ramayan (Bala kanda, Chapter 2, verse 15) LB “मा निपाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः । LB the word निपाद is incorrect. 

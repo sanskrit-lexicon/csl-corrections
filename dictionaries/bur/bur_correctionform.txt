@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of November 19, 2020
-732 correction records, with 0 PENDING
+As of January 12, 2021
+734 correction records, with 0 PENDING
+
+Case 24810: 01/04/2021 dict=BUR, L= 12994, hw=madhu, user=Caujolle
+old = Hello, several, first notice that the abreviation "bot." (many occurrences here) doesn't work (a problem i guess related to the fact it is here at the end of sentences); note also "esp. de de datte." (a misprint in the book) should be "esp. de datte." Also "c. à d." (several occurences here, and probably in the whole dictionary i guess) should be "c.-à-d." (i.e.) also one occurrence of "c. a d." (not properly referenced and writen), same, to be replaced by "c.-à-d." also two occurences of "sansevière" (a plant name) mispelt (sanseviére & sanseviere).  LB Also Burnouf on this link "https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/simple-search/v1.0/list-0.2s.html" is one of the last dictionaries of Koel univ which still display nicely the text in grey without adding on top a grey highlighting (not to speak of the big highlighting on the whole line in MM instead of the previous discreet one)
+new = several, first notice that the abreviation "bot." (many occurrences here) doesn't work (a problem i guess related to the fact it is here at the end of sentences); note also "esp. de de datte." (a misprint in the book) should be "esp. de datte." Also "c. à d." (several occurences here, and probably in the whole dictionary i guess) should be "c.-à-d." (i.e.) also one occurrence of "c. a d." (not properly referenced and writen), same, to be replaced by "c.-à-d." also two occurences of "sansevière" (a plant name) mispelt (sanseviére & sanseviere).  LB Also Burnouf on this link "https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/simple-search/v1.0/list-0.2s.html" is one of the last dictionaries of Koel univ which still display nicely the text in grey without adding on top a grey highlighting (not to speak of the big highlighting on the whole line in MM instead of the previous discreet one)
+comment = Typo, etc.
+status =  Corrected 1/11/2021
+------------------------------------------------------------------------
+
+Case 24798: 11/20/2020 dict=bur, L= 8972, hw=deva, user=Caujolle
+old = strangely, in: LB — S. f. devā hibiscus mutabilis et marsilea quadrifolia, bot. LB — S. f. devī mère de famille [offrant le sacrifice], Vd.   LB "S." ("substantif") is not referenced
+new = to reference "S." as "substantif") 
+comment = reference
+status =  Corrected 01/11/2021
+------------------------------------------------------------------------
 
 Case 24792: 11/06/2020 dict=bur, L= 11732, hw=pratIka, user=Caujolle
 old = en gén. portion
