@@ -23,3 +23,87 @@ L code : Headword : Old  : New : Comment
 983 : BojanaAkzayanI : BojanaAkzayanI : BojanAkzayiRI : ? Bojana+akzayiRI.  Note change 'ya' to 'yi'
 7814 : SASukAniwanka : SASukAniwanka : SASukAniwaNka :  waNka is Sanskrit word (hatchet).  See SASukAni  in IEG for waNka spelling.
 -----------------------------------------------------------------------
+02-07-2021
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/51
+These changes initiated by Dr. Sampada Savardekar
+L code : Headword : Old  : New : Comment
+29 : aBIzwadevatA : tulelary : tutelary :
+108 : ADipatra : amortgage : a mortgage :
+270 : alIpaka : samething : same thing :
+361 : aNka : appelation : appellation :
+564 : azwAdaSaprakfti : cummunities : communities :
+843 : BAgahAra : procuce : produce :
+875 : BARqaBftavahitra : wagonfull : wagonful :
+970 : BogikapAla : cesscollector : cess collector :
+1009 : BUmi : divison : division :
+1044 : boDi : knowledege : knowledge :
+1054 : brahmacArin : celebacy : celibacy :
+1062 : brahmakzatra : intercouse : intercourse :
+1141 : calamartigaRqa : transalated : translated :
+1143 : calivaMdIli : whoey : whey :
+1211 : caturTa : liqour : liquor :
+1230 : cOrAsI : simetimes : sometimes :
+1257 : CAtra : celebate : celibate :
+1307 : coradaRqavarjya : theives : thieves :
+1478 : deSa : seventytwo : seventy two :
+1562 : DAnyamAza : eaual : equal :
+1678 : dIpotsava : fesival : festival :
+1745 : duHsADasADanika : expeditionery : expeditionary :
+1813 : ekAdaSaSata : hudred : hundred :
+1820 : ekapAtra : designion : designation :
+1913 : gaRin : eclesiastic : ecclesiastic :
+1942 : gOtamIputra : metronynic : metronymic :
+1975 : GawikAgfhakaraRa : deparment : department :
+2133 : guRapatra : propriteors : proprietors :
+2356 : jayapatra : cetificate : certificate :
+2532 : kaRikkA : commin : common :
+2558 : kara : emergecy : emergency :
+2628 : kArukara : indentified : identified :
+2697 : KAdyawapAkika : propbably : probably :
+2752 : Kila : unclutivated : uncultivated :
+2874 : kzetrapa : supreintendent : superintendent :
+2927 : kumAravftti : occury : occurs :
+3023 : liNga : emlem : emblem :
+3087 : mahAdAnika : somtimes : sometimes :
+3123 : mahAkowwapAla : frot : fort :
+3125 : mahAkzani : serveral : several :
+3155 : mahAmaRqaleSvara : insciriptions : inscriptions :
+3228 : mahArAjakula : officiald : official :
+3228 : mahArAjakula : esignation : designation :
+3282 : mahAsatI : committeed : committed :
+3465 : mArgaRa : begger : beggar :
+3476 : ma : equvalent : equivalent :
+3691 : nARI : corrution : corruption :
+3768 : niDi : reposistory : repository :
+3818 : niryAmaka : licenced : licensed :
+3841 : nivartana : localties : localities :
+4229 : pAtAla : indicare : indicate :
+4321 : pOzaDa : abandoment : abandonment :
+4417 : prabanDa : hymnical : hymnal :
+4565 : pratiSUrika : gladitorial : gladiatorial :
+4608 : prAveSya : revenure : revenue :
+5237 : SaNKa : mblem : emblem :
+5242 : saNkramaRa : religiousduties : religious duties :
+5276 : saptANga : constitutent : constituent :
+5384 : sOgataparivrAjaka : medicant : mendicant :
+5399 : sAyana : precission : precession :
+5632 : SrIrudra : caled : called :
+5760 : surahI : inviobability : inviolability :
+6247 : utpanna : acertained : ascertained :
+6250 : utpawwa : expecially : especially :
+6438 : vArika : superivision : supervision :
+6460 : vasadBogamaryAdA : yb : by :
+6705 : vizvagdevA : quardruple : quadruple :
+6720 : vittabanDa : mortage : mortgage :
+6771 : vyAzeDa : countrary : contrary :
+6954 : parihftapaNgotkowa : saparately : separately :
+7017 : sakxptopakxptaka : occassional : occasional :
+7157 : AqippaccE : perquisities : prerequisites :
+7159 : AqukkalEppuram : enowment : endowment :
+7190 : ASuvikalkAsu : maintaing : maintaining :
+7221 : elavE : creamatorium : crematorium :
+7318 : mAqukARikkE : visting : visiting :
+7453 : svarRAdAyam : prefession : profession :
+7492 : ulvari : revenued : revenue :
+7492 : ulvari : levie : levied :
+-----------------------------------------------------------------------
