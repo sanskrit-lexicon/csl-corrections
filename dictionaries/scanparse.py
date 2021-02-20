@@ -67,9 +67,14 @@ def write_items_other(items,fileout):
  print(len(a),"records written to",fileout)
 
 if __name__ == "__main__":
- filein = sys.argv[1]
- fileout = sys.argv[2]
- fileout1 = sys.argv[3]
+ try:
+  filein = sys.argv[1]
+  fileout = sys.argv[2]
+  fileout1 = sys.argv[3]
+ except:
+  print('Usage: python scanparse.py xxx_error.txt temp1.txt temp2.txt')
+  print('Use temp1.txt in xxx/xxx_printchange.txt')
+  exit(1)
  with codecs.open(filein,"r","utf-8") as f:
   lines = [x.rstrip('\r\n') for x in f]
  items = init_items(lines)
