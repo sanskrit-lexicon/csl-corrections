@@ -1,0 +1,23 @@
+This file documents changes made to the digitization of LAN in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 02-19-2021
+
+
+-----------------------------------------------------------------------
+02-19-2021
+Ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/52
+
+These changes initiated by Dr. Sampada Savardekar
+L code : Headword : Old  : New : Comment
+129 : adurmaNgala : deelension : declension :
+374 : ayas : ferreus : ferreous :
+983 : oMkfta : accompanled : accompanied :
+1073 : kavi : eld : old :
+1308 : Kala : comparationis : comparations :
+2471 : paraspara : caseforms : case forms :
+3023 : BU : pereeptible : perceptible :
+3996 : vft : weoran : OK :
+4650 : sumeka : stablished : established :
+4769 : snAyu : presentstem : present stem :
+-----------------------------------------------------------------------
