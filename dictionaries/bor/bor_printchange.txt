@@ -1,0 +1,104 @@
+This file documents changes made to the digitization of BOR in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 03-19-2021.
+
+-----------------------------------------------------------------------
+03-19-2021
+See  https://github.com/sanskrit-lexicon/csl-corrections/issues/53
+
+These changes noted by Dr. Sampada Savardekar
+
+L code : Headword : Old :       New       : Comment
+-----------------------------------------------------------------------
+385 : affect : infuence : influence :
+756 : and : omited : omitted :
+765 : anger : deeprooted : deep-rooted :
+863 : antiquated : oldfashioned : old-fashioned :
+1574 : bank : cmbank : embank :
+1740 : bear : immediatly : immediately :
+1961 : bespeak : encage : engage :
+1989 : better : freind : friend :
+2079 : birth : discent : descent :
+2384 : botch : blocth : botch :
+2424 : bow : nokSed : notched :
+2487 : bravery : fearlessnes : fearlessness :
+2614 : bring : fekS : fetch :
+2828 : but : ommitted : omitted :
+3154 : carve : barders : borders :
+3414 : chance : hight : high :
+3423 : change : samething : something :
+3529 : cherish : childern : children :
+3830 : cling : trce : tree :
+3888 : clumsiness : inelegancy : inelegance :
+4156 : communicate : meditatian : meditation :
+4370 : confess : acknowlege : acknowledge :
+4527 : constancy : perserverance : perseverance :
+4933 : courtesy : politness : politeness :
+5127 : cross : intrument : instrument :
+5205 : cuckold : expe : expr :
+5396 : dance : altendance : attendance :
+5673 : defile : polute : pollute :
+5970 : despite : depise : despise :
+6090 : dialect : speeech : speech :
+6362 : disease : oppressd : oppressed :
+6471 : disorder : threwn : thrown :
+6638 : distrustfully : apprehensivly : apprehensively :
+6946 : drill : excercise : exercise :
+7545 : encrust : lncrust : incrust :
+7701 : entry : diifficulty : difficulty :
+8057 : exercise : disquistion : disquisition :
+8235 : extol : whe : who :
+8328 : fag : druge : drudge :
+8394 : falsify : couterfeit : counterfeit :
+8394 : falsify : proove : prove :
+8488 : fate : foltowing : following :
+8819 : firm : instuction : instruction :
+9015 : flour : barlly : barley :
+9465 : from : diesire : desire :
+9632 : galaxy : spendid : splendid :
+10206 : grasp : cach : each :
+10301 : grievously : excedingly : exceedingly :
+10349 : ground : fruitfut : fruitful :
+10570 : hand : ect : etc :
+12094 : inefficient : incapaple : incapable :
+12763 : isosceles : trangle : triangle :
+12888 : jolt : pleasat : pleasant :
+13064 : knighthood : collectivelly : collectively :
+13069 : knock : sumbit : submit :
+13336 : league : rearely : rarely :
+13357 : learning : eact : each :
+13389 : leech : reptlile : reptile :
+13613 : line : drap : draw :
+14269 : mastication : requirting : requiring :
+14285 : maternal : peoperty : property :
+15287 : near : caming : coming :
+15460 : nod : asesnt : assent :
+15612 : nursery-man : occasionlly : occasionally :
+16616 : peace : intej : interj. :
+16854 : personal : pronous : pronouns :
+17842 : procrastinate : dilay : delay :
+18266 : pushing : foward : forward :
+18600 : ration : expt : expr. :
+18841 : refuge : eneimies : enemies :
+18846 : refusal : curcumlo : circumlo. :
+19213 : retreat : adode : abode :
+19230 : return : befilting : befitting :
+19378 : riotous : tumultous : tumultuous :
+19542 : ruler : intsrument : instrument :
+19582 : rusk : buiscit : biscuit :
+19914 : scourge : dreadul : dreadful :
+20388 : ship : wecked : wrecked :
+20421 : short : eath : death :
+20891 : snuff : tobacoo : tobacco :
+20959 : solemn : accasions : occasions :
+21232 : sport : amusment : amusement :
+21278 : squadron : shps : ships :
+21298 : squint : syed : eyed :
+21546 : stop : ceasation : cessation :
+22107 : synonym : synoymous : synonymous :
+22355 : terribly : exccedingly : exceedingly :
+22582 : time : onother : another :
+23842 : viciousness : amimals : animals :
+24013 : vulnerable : assailabe : assailable :
+24489 : worst : overthow : overthrow :
