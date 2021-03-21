@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of October 05, 2020
-389 correction records, with 0 PENDING
+As of March 20, 2021
+390 correction records, with 0 PENDING
+
+Case 24831: 01/19/2021 dict=GRA, L= 1, hw=title of work!, user=pvstiles
+old = Grassman for Grassmann 
+new = Grassmann
+status =  03/20/2021 Need to correct author's name in several places.
+------------------------------------------------------------------------
 
 Case 24747: 09/01/2020 dict=GRA, L= 8979, hw=zri, user=kevin_peter_kelly
 old = 447,4

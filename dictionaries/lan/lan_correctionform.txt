@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for LAN
+As of March 20, 2021
+1 correction records, with 0 PENDING
+
+Case 24850: 02/23/2021 dict=lan, L=99, hw=atas, user=gasyoun
+old = etc.; w. correl. yatas, 363; hence; and so, 394, 4221; so then, 7312. [pron. <!!!>root a<!!!>, 502.]  [ID=99]        अञ्च् अञ्च् अञ्ज् अञ्जलि अञ्जस् अट् अटनी अटवी अण्ड
+new = `a` is a Sanskrit word and should be bolded
+comment = 
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+

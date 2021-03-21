@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for VEI
-As of November 19, 2020
-43 correction records, with 0 PENDING
+As of March 20, 2021
+44 correction records, with 0 PENDING
+
+Case 24841: 02/09/2021 dict=VEI, L= 1, hw=Deo, user=DR VIJAY SHANKARL
+old = 
+new = 
+status =  03/21/2021 Insufficient Information
+------------------------------------------------------------------------
 
 Case 24791: 11/03/2020 dict=VEI, L=2656, hw=rasA, user=toe5sst.mt31415
 old = atinosphere

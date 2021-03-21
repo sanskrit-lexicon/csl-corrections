@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for AE
-As of June 17, 2020
-96 correction records, with 0 PENDING
+As of March 20, 2021
+98 correction records, with 0 PENDING
+
+Case 24827: 01/16/2021 dict=ae, L=34, hw=about, user=SergeA
+old = old’ paṃcavarṣadeśīyaḥ. 3 (Regard- -ing) ādhikṛtya, prati, uddiśya; saṃbaddha- <!!!>-anuviddha gata-<!!!>viśaye in comp.; ‘I ask a. my friend’ mitragataṃ pṛcchāmi; parājayā- -nuviddhā
+new = -anuviddha-gata- (hyphen)
+comment = 
+status =  03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24826: 01/16/2021 dict=ae, L=34, hw=about, user=SergeA
+old = 3 (Regard- -ing) ādhikṛtya, prati, uddiśya; saṃbaddha- -anuviddha gata-<!!!>viśaye<!!!> in comp.; ‘I ask a. my friend’ mitragataṃ pṛcchāmi; parājayā- -nuviddhā ālāpāḥ
+new = viṣaye
+comment = 
+status =  03/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24680: 06/03/2020 dict=AE, L=8784 in Apte E-S, 99903 in MW, and p. 857 in Apte S-E, hw=dharma, user=sanaatani
 old = ---

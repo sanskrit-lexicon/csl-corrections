@@ -1,6 +1,87 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 12, 2021
-1542 correction records, with 0 PENDING
+As of March 20, 2021
+1555 correction records, with 0 PENDING
+
+Case 24869: 03/19/2021 dict=MW, L= 1353, hw=agha, user=geymonat
+old = agha m. sin, impurity, Mn.  &c. 
+new = agha is neuter: that "m." it's wrong
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24866: 03/17/2021 dict=MW, L= 89389.46, hw=dakSiNAt, user=josephine.brill
+old = दक्षिणात् a ind. abl. from or on the right side, Pāṇ. 5-3, 4  [ID=89389.46]
+new = refers to Pāṇ. 5-3, 4  but should rather refer to Pāṇ. 5-3, 34  
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24859: 03/06/2021 dict=MW, L= 27875, hw=3. आस्, user=zaaf2
+old = P. अस्यति
+new = P. आस्यति
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24858: 03/04/2021 dict=MW, L=35521, hw=upari, user=h.c.jahr
+old = Germ. öber
+new = Germ. über
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24854: 03/02/2021 dict=MW, L= 139611, hw=prANabhaya, user=theunborn
+old = "fear for l" ---  'l' should be expanded to 'life' here.
+new = fear for _life_
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24853: 03/02/2021 dict=MW, L= 40194, hw=evam, user=theunborn
+old = "ind."  -- should be replaced by "and"
+new = but occurs in later hymns _and_ in the Brāhmaṇas
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24849: 02/22/2021 dict=MW, L=105725.8, hw=nAma, user=theunborn
+old = mA@nAma@akAsyaM@kuryAt
+new = mA@nAma@akAryaM@kuryAt
+comment = Typo - akAsyaM should be replaced with akAryaM
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24845: 02/12/2021 dict=MW, L= 29659, hw=izwikA, user=drdhaval2785
+old = इष्तका should be इष्टका
+new = 
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24843: 02/12/2021 dict=mw, L= 1, hw=Meek, user=
+old = Meek
+new = 
+status =  03/21/2021  Insufficient information
+------------------------------------------------------------------------
+
+Case 24842: 02/11/2021 dict=MW, L= 1, hw=shrotram, user=
+old = 
+new = 
+status =  03/21/2021  Insufficient information
+------------------------------------------------------------------------
+
+Case 24833: 01/22/2021 dict=MW, L= 144321, hw=bAdha, user=Caujolle
+old = 
+new = bAdhA should send to bAdha (which says "also ā, f."), instead of giving a negative answer
+comment = 
+status =  03/20/2021.  No correction.
+------------------------------------------------------------------------
+
+Case 24832: 01/21/2021 dict=MW, L= ID=139189, hw=प्राञ्च्, user=youngsinn.sohn
+old =  or -√ नि] 
+new =  or -√ नी] 
+comment = digitisation error
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
+
+Case 24828: 01/17/2021 dict=MW, L=256271, hw=snAyu, user=op.littunen
+old = yhe
+new = the
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
 
 Case 24823: 01/09/2021 dict=MW, L= 149136, hw=Bhavana, user=
 old = 

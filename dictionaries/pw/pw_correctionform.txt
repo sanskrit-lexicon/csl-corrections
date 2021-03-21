@@ -1,6 +1,39 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 12, 2021
-11817 correction records, with 0 PENDING
+As of March 20, 2021
+11822 correction records, with 0 PENDING
+
+Case 24870: 03/19/2021 dict=PW, L= 85275, hw=mahita, user=frank.ziesing
+old = — 1) Adj. s.u. 1. maha. 
+new = — 1) Adj. s.u. 1. mah. 
+comment = Typo: the reference is to "mah" and not to "maha"
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24864: 03/14/2021 dict=PW, L= 73516, hw=prasAda, user=h.c.jahr
+old = 3) Verklärtheit des Gesichts). LB  11) die einem Idol dargebotenen Speise.
+new = 3) Verklärtheit (des Gesichts). LB  11) die einem Idol dargebotene Speise.
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24861: 03/08/2021 dict=PW, L= 107429, hw=veSa, user=h.c.jahr
+old = ein angenommenes Aeussere
+new = ein angenommenes Aeusseres
+comment = Typo, which is also present in the Original. In PWG, it is correctly written.
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24860: 03/07/2021 dict=PW, L= 69437, hw=pRthivI, user=h.c.jahr
+old = on drei Erden
+new = von drei Erden
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24830: 01/19/2021 dict=PW, L= 86502, hw=mārṣṭi, user=Harry Falk, falk
+old = non existence
+new = die letzten Seiten von Band 5 fehlen einfach. Ich suchte mārṣṭi, das gibt es einmal auf s. 73, ich habe aber Probleme mit S. 748. und die gibt es nicht, ich kann auch nicht im Suchformular eine bestimme Seite anspringen. Das wäre aber sinnvoll.
+comment = scans missing
+status = :03/21/2021  Not corrected yet. clarification requested
+------------------------------------------------------------------------
 
 Case 24802: 12/03/2020 dict=PW, L= 65135, hw=paś, user=frank.ziesing
 old = — 8) sich umsehen nach aufsuchen.

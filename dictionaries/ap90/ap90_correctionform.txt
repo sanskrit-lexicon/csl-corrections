@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of November 19, 2020
-452 correction records, with 0 PENDING
+As of March 20, 2021
+453 correction records, with 0 PENDING
+
+Case 24851: 02/25/2021 dict=AP90, L=28048, hw=शील् , user=chandrasekharanr
+old = शलिति, शलियति
+new = शीलति, शीलयन्ति
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24794: 11/17/2020 dict=AP90, L= 24086, hw=राजन्, user=kjkk2717
 old =  -तालः, --ताली the belet-nut tree.

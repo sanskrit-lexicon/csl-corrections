@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of October 05, 2020
-2243 correction records, with 0 PENDING
+As of March 20, 2021
+2247 correction records, with 0 PENDING
+
+Case 24857: 03/04/2021 dict=CCS, L= 24425, hw=zAnti, user=h.c.jahr
+old = 1. Rugigwerden LB 2. Heimagang
+new = 1. Ruhigwerden LB 2. Heimgang
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24847: 02/19/2021 dict=CCS, L= 13345, hw=parama, user=frank.ziesing
+old = [i]auch compar. höher,[/i] 
+new = [i]auch compar.[/i] höher, 
+comment = Typo: The word "höher" is a translation and should be put in roman type, not in italics
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
+
+Case 24844: 02/12/2021 dict=CCS, L= 11309, hw=dhvaja, user=frank.ziesing
+old = dhvaja m. (n.) feldzeichen, 
+new = dhvaja m. (n.) Feldzeichen, 
+comment = Typo: F in "Feldzeichen" should be upper case
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
+
+Case 24838: 01/30/2021 dict=CCS, L= 2208, hw=aśuci, user=frank.ziesing
+old = °bhakṣaṇa n. das Essen von Uneinem.
+new = °bhakṣaṇa n. das Essen von Unreinem.
+comment = Typo: "r" is missing in "Unreinem"
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
 
 Case 24726: 07/26/2020 dict=CCS, L= 25138, hw=zraddhA, user=h.c.jahr
 old = Vertrauen, Treu

@@ -1,6 +1,37 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of January 12, 2021
-341 correction records, with 0 PENDING
+As of March 20, 2021
+346 correction records, with 0 PENDING
+
+Case 24852: 02/26/2021 dict=SKD, L=27578, hw=मुदा, user=chandrasekharanr
+old = र्षःह 
+new = हर्षः  ?
+comment = The book also has a typo. Should it be changed?
+status = 03/20/2021 Corrected print change
+------------------------------------------------------------------------
+
+Case 24846: 02/19/2021 dict=SKD, L=41079, hw=स्वप्नक्, user=chandrasekharanr
+old = निदाशीलः
+new = निद्राशीलः
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24840: 02/06/2021 dict=SKD, L=36002, hw=शुचिः, user=Shalu
+old = ज्यैष्ठमासः
+new = ज्येष्ठमासः
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
+
+Case 24839: 02/06/2021 dict=SKD, L=36002, hw=शुचिः, user=Shalu
+old = ग्रौष्मः
+new = ग्रीष्मः
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
+
+Case 24834: 01/25/2021 dict=SKD, L= 6703, hw=कर्ब्बुरं, user=radimnavyan
+old = खर्णम्
+new = स्वर्णम्
+status = 03/21/2021 Corrected.
+------------------------------------------------------------------------
 
 Case 24822: 01/08/2021 dict=SKD, L= 41108, hw=svarA, user=Peter Scharf
 old = vidOyatAm

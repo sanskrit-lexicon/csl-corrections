@@ -1,6 +1,36 @@
 Sanskrit Lexicon Correction Form History for AP
-As of January 12, 2021
-513 correction records, with 0 PENDING
+As of March 20, 2021
+518 correction records, with 0 PENDING
+
+Case 24868: 03/18/2021 dict=AP, L= 10218, hw= उपायः , user=torbium
+old = 4 Effort, exertion; वश्यात्मना तु यतता शक्योऽबाप्तुमुपायतः (योगः)
+new = शक्योऽबाप्तुमुपायतः -> शक्योऽवाप्तुमुपायतः
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24867: 03/18/2021 dict=AP, L= 26867, hw=यत्, user=torbium
+old = 6 To join, associate with. 7 To go, proceed
+new = 6 To join, associate with.  LB 7 To go, proceed LB the 7th meaning in the new line.
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24865: 03/16/2021 dict=AP, L=30143, hw=विरुद्ध, user=amram.peter
+old = unfawful
+new = unlawful
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24863: 03/12/2021 dict=AP, L=29187, hw=विकल, user=torbium
+old = in the 5th meaning - पूर्बसुकृतम्
+new = पूर्वसुकृतम्
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24862: 03/12/2021 dict=AP, L=29187, hw=विकल, user=torbium
+old = in 4th meaning - बिरहेण
+new = विरहेण
+status = 03/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24820: 01/07/2021 dict=AP, L= 1182-1, hw=भज्, user=torbium
 old = 2 To obtain for oneself, share in, partake of; पित्र्यं बा भजते शीलम् Ms. 10. 59.

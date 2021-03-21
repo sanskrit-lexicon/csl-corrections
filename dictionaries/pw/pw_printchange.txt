@@ -285,3 +285,9 @@ Correction initiated by Jim Funderburk
 L code : Headword     : Old       : New         : Comment
 81342  : BlaS         : BlaS      : BlAS        : change headword spelling
 -------------------------------------------------------------------------
+03-20-2021
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/508
+Correction initiated by User h.c.jahr
+L code : Headword     : Old       : New         : Comment
+107429 : veza  : ein angenommenes Aeussere : ein angenommenes Aeusseres :
+-------------------------------------------------------------------------
