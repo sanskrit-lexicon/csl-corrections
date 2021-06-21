@@ -1,6 +1,36 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of March 20, 2021
-58 correction records, with 0 PENDING
+As of June 21, 2021
+63 correction records, with 0 PENDING
+
+Case 24920: 05/08/2021 dict=MWE, L= 2971, hw=breeze, user=sanaatani
+old = षवनः
+new = पवनः?
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24919: 05/06/2021 dict=MWE, L= 618, hw=क्षिप्र, user=sanaatani
+old = Against the English word ALLEGRO is शीघं
+new = शीघ्रं
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24918: 05/06/2021 dict=MWE, L= 8021, hw=क्षिप्र, user=sanaatani
+old = One of the English words is DIRECTILY
+new = DIRECTLY
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24916: 05/03/2021 dict=MWE, L=29718, hw=Toward, user=h.c.jahr
+old = uttarAM dizatuddizva
+new = uttarAM dizatuddizya
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24915: 04/29/2021 dict=MWE, L= 8957, hw=drinr, user=sanaatani
+old = drinr
+new = Is it drink?
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24825: 01/12/2021 dict=MWE, L=18423, hw=Lustrous, user=sanaatani
 old = सुपभः

@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of March 20, 2021
-402 correction records, with 0 PENDING
+As of June 21, 2021
+410 correction records, with 0 PENDING
+
+Case 24934: 05/29/2021 dict=VCP, L= ID=29512, hw=नील, user=ragav.bharat
+old = ८ मङ्कलघोषे त्रिका०
+new = ८ मङ्गलघोषे त्रिका०
+status =  06/21/2021 Corrected print change
+------------------------------------------------------------------------
+
+Case 24932: 05/26/2021 dict=VCP, L= ID=30833, hw=परि, user=bharadwaj
+old = मर्मप्रवचनीयौ 
+new = कर्मप्रवचनीयौ
+status =  06/21/2021 duplicate
+------------------------------------------------------------------------
+
+Case 24931: 05/26/2021 dict=VCP, L= ID=30833, hw=परि, user=bharadwaj
+old = मर्मप्रवचनीयौ 
+new = कर्मप्रवचनीयौ
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24926: 05/19/2021 dict=VCP, L= ID=43769, hw=शुचि, user=ragav.bharat
+old = मूर्ये
+new = सूर्ये
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24874: 03/25/2021 dict=VCP, L= 32685, hw=purogama, user=david_buchta
+old = purīgantari
+new = purogantari
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24873: 03/22/2021 dict=VCP, L=21199, hw=जि, user=chandrasekharanr
+old = सुग्रीवो राधवेणानुप कितः”
+new = सुग्रीवो राधवेणानुपालितः” 
+status =  06/20/2021 Duplicate
+------------------------------------------------------------------------
+
+Case 24872: 03/22/2021 dict=VCP, L=21199, hw=जि, user=chandrasekharanr
+old = सुग्रीवो राधवेणानुप कितः”
+new = सुग्रीवो राधवेणानुपालितः” 
+status =  06/20/2021 Corrected to राघवेणानुपालितः
+------------------------------------------------------------------------
+
+Case 24871: 03/22/2021 dict=VCP, L=21199, hw=जि, user=chandrasekharanr
+old = अधि + आधिक्येम जये “सपत्नांश्चाधिजोयास्म” भट्टिः ।
+new = अधि + आधिक्येन जये “सपत्नांश्चाधिजीयास्म” भट्टिः ।
+comment = 2 Typos आधिक्येम & सपत्नांश्चाधिजीयास्म
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24848: 02/19/2021 dict=VCP, L=36447, hw=भार्गव , user=chandrasekharanr
 old = षार्वत्यां 

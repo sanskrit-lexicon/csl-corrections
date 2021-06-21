@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of March 20, 2021
-390 correction records, with 0 PENDING
+As of June 21, 2021
+391 correction records, with 0 PENDING
+
+Case 24875: 03/27/2021 dict=GRA, L= 701, line 17, hw=ná, user=pvstiles
+old =  221,17
+new =  221,7
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24831: 01/19/2021 dict=GRA, L= 1, hw=title of work!, user=pvstiles
 old = Grassman for Grassmann 

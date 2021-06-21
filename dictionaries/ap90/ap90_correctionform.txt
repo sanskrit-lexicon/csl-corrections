@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of March 20, 2021
-453 correction records, with 0 PENDING
+As of June 21, 2021
+456 correction records, with 0 PENDING
+
+Case 24935: 05/31/2021 dict=ap90, L=, hw=nyAyaH, user=gasyoun
+old = invariable  concomitance between two persons or things; (e. g. where there <!!!>is A.<!!!>, there is B; where there is not B, there is not A.). 21. viṣakṛminyāyaḥ The
+new = A. -> A print error
+comment = 
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24896: 04/08/2021 dict=AP90, L=10741, hw=kAyaH, user=geymonat
+old = paropakārairnatu
+new = paropakārairna tu
+comment = Typo: "tu" should not be attached to "na"
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24891: 04/04/2021 dict=AP90, L=22244, hw=भू, user=chandrasekharanr
+old = --IV. 1 U. (भावयति-ते) 1 To think, reflect.
+new = --IV. 10 U. (भावयति-ते) 1 To think, reflect.
+comment = Typo. This is a typo in the print version of the book also. But this was fixed in the 1957 ed.
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24851: 02/25/2021 dict=AP90, L=28048, hw=शील् , user=chandrasekharanr
 old = शलिति, शलियति

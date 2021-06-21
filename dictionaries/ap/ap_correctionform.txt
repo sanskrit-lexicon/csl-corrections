@@ -1,6 +1,43 @@
 Sanskrit Lexicon Correction Form History for AP
-As of March 20, 2021
-518 correction records, with 0 PENDING
+As of June 21, 2021
+524 correction records, with 0 PENDING
+
+Case 24937: 06/13/2021 dict=ap, L= 7834, hw=आश्रमः, user=torbium
+old = बानप्रस्थ the life of an anchorite or hermit
+new = बानप्रस्थ -> वानप्रस्थ
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24911: 04/24/2021 dict=ap, L=2334, hw=अन्तर्, user=torbium
+old = In the 4th meaning ज्बलयति तनूमन्तर्दाहः
+new = ज्बलयति -> ज्वलयति
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24910: 04/24/2021 dict=ap, L= 2334, hw=अन्तर्, user=torbium
+old = (b) By way of seizing or holding; अन्तर्हत्बा गतः (हतं परिगृह्य). LB [Page0119-1]
+new = अन्तर्हत्बा -> अन्तर्हत्वा
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24900: 04/14/2021 dict=ap, L= 3489, hw=अभिन्न, user=torbium
+old = 2 Unaffected; क्लेशलेशैर-भिन्नम् Ś. 2. 4
+new = Although on the scanned page there is written क्लेशलेशैर-भिन्नम् because of hyphenation, the more helpful writing in the digital format according to the sense (see the headword) would be  क्लेशलेशैर् अभिन्नम् or क्लेशलेशैरभिन्नम्
+comment = Improvement
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24878: 03/29/2021 dict=AP, L= 10254, hw=उभय, user=torbium
+old = उभयीं सिद्धिमुभाबबापतुः
+new = सिद्धिमुभाबबापतुः -> सिद्धिमुभाववापतुः
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24877: 03/29/2021 dict=AP, L=10254, hw=उभय, user=torbium
+old = Ś. 7; उभयमानशिरे बसुधाधिपाः
+new = बसुधाधिपाः -> वसुधाधिपाः
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24868: 03/18/2021 dict=AP, L= 10218, hw= उपायः , user=torbium
 old = 4 Effort, exertion; वश्यात्मना तु यतता शक्योऽबाप्तुमुपायतः (योगः)

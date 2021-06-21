@@ -1,6 +1,192 @@
 Sanskrit Lexicon Correction Form History for MW
-As of March 20, 2021
-1555 correction records, with 0 PENDING
+As of June 21, 2021
+1585 correction records, with 0 PENDING
+
+Case 24939: 06/17/2021 dict=mw, L= 78877, hw=jAbAlopanizad, user=ejf
+old = an, Up.
+new = an Up.
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24938: 06/17/2021 dict=mw, L= 146081, hw=bfhajjAtaka, user=ejf
+old = svEpa-jAtaka
+new = svalpa-jAtaka
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24936: 06/12/2021 dict=MW, L= 146081, hw=bfhajjAtaka, user=ejf
+old = svEpa
+new = svalpa
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24930: 05/22/2021 dict=mw, L=133873 , hw=प्रत्यञ्च्, user=Centr1s
+old = Sorry, typo is in original - अर्वाञ्च् is mistake
+new = 
+status =  06/21/2021 not changed
+------------------------------------------------------------------------
+
+Case 24929: 05/22/2021 dict=mw, L= 133874, hw=प्रत्यञ्च्, user=centr1s
+old = coming (opp. to अन्वाञ्च्, ‘going’)
+new = coming (opp. to अर्वाञ्च्, ‘going’)
+status =  06/21/2021  not changed
+------------------------------------------------------------------------
+
+Case 24928: 05/21/2021 dict=MW, L= ID=150996, hw=भीम, user=ragav.bharat
+old = terrible awful formidable,
+new = terrible, awful, formidable,
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24927: 05/19/2021 dict=MW, L= 232304, hw=saputrajJAtibAndhava, user=theunborn
+old = jJA should be changed to jA
+new = saputrajAtibAndhava
+status =  06/21/2021 not changed
+------------------------------------------------------------------------
+
+Case 24925: 05/17/2021 dict=MW, L=31479, hw=utthA, user=h.c.jahr
+old = to cause, to stand up
+new = to cause to stand up
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24924: 05/14/2021 dict=MW, L=151555, hw=bhU, user=h.c.jahr
+old = lauded property
+new = landed property
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24923: 05/12/2021 dict=MW, L= 153388, hw=bhaupāla, user=
+old = the son of a prince, a king
+new = the son of a king, a prince
+comment = Mistake in the original edition
+status =  06/21/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24922: 05/09/2021 dict=MW, L= 92231, hw=3. दिव् , user=zaaf2
+old = 3. दिव् दिव्, द्यु (nom. द्यौस्
+new = 3. दिव्, द्यु (nom. द्यौस्
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24908: 04/24/2021 dict=MW, L= 189801, hw=vAGkS, user=geymonat
+old = (connected with √ vāñck cf. kāṅkṣ) 
+new = (connected with √ vāñch cf. kāṅkṣ) 
+comment = Typo. + NB The page scanned pointed to (936) is the next one: vAGkS in the last entry of the previous page  (935)
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24907: 04/21/2021 dict=MW, L= 123794, hw=piNDada (Kyoto-Harvard), user=Ziheng Tan, zihengtan_9206
+old = No description texts for this and the next 4 words as well. 
+new = 
+comment = Missing entries 
+status =  06/20/2021  Cannot find error here.
+------------------------------------------------------------------------
+
+Case 24906: 04/19/2021 dict=MW, L= 133647, hw=pratyayasarga, user=donnelsen
+old = Buddha
+new = Buddhi
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24904: 04/17/2021 dict=MW, L=28119, hw=Astika, user=josephine.brill
+old = Reference to Pāṇ. 4-2, 60
+new = Pāṇ. 4-4, 60
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24901: 04/15/2021 dict=MW, L= 264875, hw=ह्वे, user=zaaf2
+old = ह्वयां-आस and ह्वयां-चक्रे
+new = ह्वयाम्-आस and ह्वयां-चक्रे
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24899: 04/13/2021 dict=MW, L=241054, hw=sākṣika, user=Dorji Wangchuk
+old = agai-s°
+new = agni-s°
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24898: 04/13/2021 dict=MW, L=141172 , hw=proccar, user=geymonat
+old = Caus. -carayati, to cause to sound, Pañcat. 
+new = Caus. -cArayati, to cause to sound, Pañcat. 
+comment = Typo the causative has long a -cArayati
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24897: 04/12/2021 dict=MW, L=183230, hw=लोक, user=torbium
+old = to make room grant freedom
+new = to make room, grant freedom
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24894: 04/06/2021 dict=MW, L=18613.1, hw=avi, user=hamsa.vadhur.mama.38
+old = Gk. ὄϊ-ς-s
+new = Gk. ὄϊ-s
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24890: 04/02/2021 dict=MW, L=40648.1, hw=ojodātama, user=hamsa.vadhur.mama.38
+old = Zd. aogazdactema
+new = Zd. aogazdaçtema
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24888: 04/01/2021 dict=MW, L=40119.1, hw=enas, user=hamsa.vadhur.mama.38
+old = Zd. aenaGh
+new = Zd. aenaṅh
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24887: 04/01/2021 dict=MW, L= 25119, hw=āprapadam, user=
+old = 4-2, 8
+new = 5-2, 8
+comment = Mistake in the printed edition
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24886: 04/01/2021 dict=MW, L=39020.05, hw=ṛṣabha, user=hamsa.vadhur.mama.38
+old = Zd. arSan
+new = Zd. arshan
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24885: 04/01/2021 dict=MW, L= 3462, hw=atyākara, user=
+old = atyākara
+new = atyākāra
+status =  06/20/2021 Corrected headword.
+------------------------------------------------------------------------
+
+Case 24884: 03/31/2021 dict=MW, L= 21660.05, hw=aham, user=hamsa.vadhur.mama.38
+old = Zd. aSem
+new = Zd. azem
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24883: 03/31/2021 dict=MW, L= 249255, hw=सुर, user=zaaf2
+old = (see below)
+new = 
+comment = This word in not included among the search results in the dropdown sidebar of the “list-0.2” version of the dictionary.
+status =  06/20/2021 Not sure.
+------------------------------------------------------------------------
+
+Case 24882: 03/30/2021 dict=MW, L=225593.1, hw=sa 6, user=hamsa.vadhur.mama.38
+old = cf. Zd. hā, hA;
+new = cf. Zd. hō.  hā;
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24879: 03/30/2021 dict=MW, L= 196890, hw=विना, user=zaaf2
+old = exceptionally ifc.,g. e.g. शुचि-विना
+new = exceptionally ifc., e.g. शुचि-विना
+status =  06/20/2021 corrected
+------------------------------------------------------------------------
+
+Case 24876: 03/28/2021 dict=MW, L= 30009, hw=उक्त, user=zaaf2
+old = (p.p. of √वच् q.v., उक्त, RV. )
+new = (p.p. of √वच् q.v.)
+status =  06/20/2021 Not changed. Appendix revision.
+------------------------------------------------------------------------
 
 Case 24869: 03/19/2021 dict=MW, L= 1353, hw=agha, user=geymonat
 old = agha m. sin, impurity, Mn.  &c. 

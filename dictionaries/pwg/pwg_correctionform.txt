@@ -1,6 +1,43 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of March 20, 2021
-217 correction records, with 0 PENDING
+As of June 21, 2021
+223 correction records, with 0 PENDING
+
+Case 24917: 05/03/2021 dict=PWG, L=38048, hw=naz, user=h.c.jahr
+old = falschlich
+new = fälschlich
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24905: 04/18/2021 dict=PWG, L=96204, hw=vyagra, user=h.c.jahr
+old = besonnens Worte
+new = besonnene Worte
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24903: 04/17/2021 dict=PWG, L=15071, hw=kar, user=h.c.jahr
+old = duH khitAnAM
+new = duHkhitAnAM
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24902: 04/17/2021 dict=pwg, L=, hw=gur, user=gasyoun
+old = essen)   33. 21.  gūr, gūryate verletzen; gehen   26, 45.   — ati aufjauchzen, <!!!>aufschreien(?)<!!!>: mṛgo nāśnoṃ ati yajjuguryāt  Ṛv. 1, 173, 2.  — apa zurückweisen, Missbilligung
+new = aufschreien(?) -> aufschreien (?)
+comment = 
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24893: 04/05/2021 dict=PWG, L=16287, hw=kAnta, user=h.c.jahr
+old = Fühling
+new = Frühling
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24892: 04/04/2021 dict=PWG, L=30096, hw=turya, user=h.c.jahr
+old = quatrieme
+new = quatrième
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24856: 03/04/2021 dict=PWG, L=52860, hw=buddhagayā, user=imliushi
 old = Luddhisten

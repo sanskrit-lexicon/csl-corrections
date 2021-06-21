@@ -1,6 +1,56 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of March 20, 2021
-2247 correction records, with 0 PENDING
+As of June 21, 2021
+2255 correction records, with 0 PENDING
+
+Case 24914: 04/26/2021 dict=CCS, L=21381, hw=var, user=h.c.jahr
+old = vorethalten (Gen.).
+new = vorenthalten (Gen.).
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24913: 04/26/2021 dict=CCS, L=21382, hw=var, user=h.c.jahr
+old = ge- währen
+new =  gewähren
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24912: 04/26/2021 dict=CCS, L=21381, hw=var, user=h.c.jahr
+old =  (versteck in— Instr.*
+new =  (versteckt in— Instr.*
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24909: 04/24/2021 dict=CCS, L=6510, hw=grabh, user=h.c.jahr
+old = flüssigkeiten
+new = Flüssigkeiten
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24895: 04/06/2021 dict=CCS, L=6279, hw=guru, user=h.c.jahr
+old = gurIyas
+new = garIyas
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24889: 04/02/2021 dict=CCS, L= 9390, hw=dama, user=h.c.jahr
+old = wohnung
+new = Wohnung
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24881: 03/30/2021 dict=CCS, L= 3134, hw= iṣ, user=frank.ziesing
+old = suchen, außuchena,
+new = suchen, aufsuchen,
+comment = Typo, the translation should be: "aufsuchen" and not außuchena
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24880: 03/30/2021 dict=CCS, L= 3134, hw=iṣ, user=frank.ziesing
+old = 2. iṣ, ecchati, °te,
+new = 2. iṣ, icchati, °te,
+comment = Typo: must be icchati, not ecchati
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24857: 03/04/2021 dict=CCS, L= 24425, hw=zAnti, user=h.c.jahr
 old = 1. Rugigwerden LB 2. Heimagang

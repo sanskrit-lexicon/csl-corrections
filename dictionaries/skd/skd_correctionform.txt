@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of March 20, 2021
-346 correction records, with 0 PENDING
+As of June 21, 2021
+348 correction records, with 0 PENDING
+
+Case 24933: 05/27/2021 dict=SKD, L= ID=40472, hw=स्तुभः, user=ragav.bharat
+old = चातुर्म्मास्ये षु नित्यानां हविषां योनिरग्रहः । LB चतुर्भिः सहितः पुत्त्रैर्भानोरेवान्वयः स्तुभः ॥”)
+new = चातुर्मास्येषु नित्यानां हविषां योनिरग्रहः । LB चतुर्भिः सहितः पुत्त्रैर्भानोरेवान्वयः स्तुभः ॥”)
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24921: 05/08/2021 dict=SKD, L=3196, hw=आकृतिः, user=radimnavyan
+old = न्यागमते
+new = न्यायमते
+status =  06/20/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24852: 02/26/2021 dict=SKD, L=27578, hw=मुदा, user=chandrasekharanr
 old = र्षःह 
