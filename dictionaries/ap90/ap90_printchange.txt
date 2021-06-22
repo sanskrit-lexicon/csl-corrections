@@ -556,3 +556,15 @@ L code : Headword  : Old :       New       : Comment
 32003 : kalhaRa : contemporay : contemporary :
 32101 : aMDra : modren : modern :
 ----------------------------------------------------------------------
+06-21-2021
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/548
+user chandrasekharanr
+L code : Headword  : Old :       New       : Comment
+22244  : BU        : 1 U.  :  10 U. :
+----------------------------------------------------------------------
+06-21-2021
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/592
+user: Dr. Marcis Gasuns
+L code : Headword  : Old :       New       : Comment
+17489  : nyAyaH    : where there is A., there is B : where there is A, there is B  : A. -> A
+----------------------------------------------------------------------
