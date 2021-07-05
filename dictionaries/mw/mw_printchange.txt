@@ -1103,4 +1103,142 @@ ref: https://github.com/sanskrit-lexicon/csl-orig/issues/580
 User: anonymous.  checked by Funderburk
 L code : Headword : Old  : New : Comment
 153388 : BOpAla   : the son of a prince, a king : the son of a king, a prince
+-----------------------------------------------------------------------
+07-05-2021
+ref: https://github.com/sanskrit-lexicon/MWS/issues/110
+Changes identified as print changes by Dr. Sampada Savardekar.
+L code : Headword : Old  : New : Comment
+ 68783 : grAhiPala : Feronica elephantum : Feronia elephantum 
+ 22231 : AkfticCattrA : Achyrantes Aspera : Achyranthes Aspera 
+ 224086 : SlezmaGana : Pandarus Odoratissimus : Pandanus Odoratissimus 
+ 177190 : rADA : Clytoria Ternatea : Clitoria Ternatea 
+ 45980 : kaliNga : Wrightia antidysenteria : Wrightia antidysenterica 
+ 45985 : kaliNga : Wrightia antidysenteria : Wrightia antidysenterica 
+ 45987 : kaliNgabIja : Wrightia antidysenteria : Wrightia antidysenterica 
+ 45991 : kaliNgaka : Wrightia antidysenteria : Wrightia antidysenterica 
+ 173147 : rakzoGna : Semecarpus Anocardium : Semecarpus Anacardium 
+ 43616 : kapItana : Acacia Sirisa : Acacia Sirissa 
+ 173386 : raktakAYcana : Baubinia Variegata : Bauhinia Variegata 
+ 28230 : AsPota : Bahinia Variegata : Bauhinia Variegata 
+ 2954 : atiguhA : Hemionites Cordifolia : Hemionitis Cordifolia 
+ 211827 : SatakumBA : Phyalis Flexuosa : Physalis Flexuosa 
+ 35714 : upavawa : Buchnania Latifolia : Buchanania Latifolia 
+ 191757 : vArAhANgI : Croton Polyandrium : Croton Polyandrum 
+ 182142 : lANgalaka : Methonia Superba : Methonica Superba 
+ 182150 : lANgalikI : Methonia Superba : Methonica Superba 
+ 40143 : eraRqapattrikA : Croton Polyandron : Croton Polyandrum 
+ 43466 : kapipippalI : Scindapus Officinalis : Scindapsus Officinalis 
+ 10363 : apehivAtA : Poederia Foetida : Paederia Foetida 
+ 87456 : trayI : Venonia anthelminthica : Vernonia anthelminthica 
+ 179490 : revawa : Morunga : Moringa 
+ 95539.01 : devA : Marsilia Quadrifolia : Marsilea Quadrifolia 
+ 246660 : sudIrGaGarmA : Marsilia Quadrifolia : Marsilea Quadrifolia 
+ 97603 : draviRanASana : Hyperanthera Moriaga : Hyperanthera Moringa 
+ 248015 : suBaYjana : Hyperanthera Morunga : Hyperanthera Moringa 
+ 53456 : kuSika : Vatika Robusta : Vatica Robusta 
+ 57478 : kOSika : Vatika robusta : Vatica robusta 
+ 141918 : PalAmla : Rumex Vericarius : Rumex Vesicarius 
+ 121605 : pARqurAga : Artemesia Indica : Artemisia Indica 
+ 251640 : sUryalatA : Polanisla Icosandra : Polanisia Icosandra 
+ 111544 : nIlapattra : Scirpus Kysor : Scirpus Kysoor 
+ 159294 : mahAkacCa : Cedrena Toona : Cedrela Toona 
+ 458 : akza : Eleocarpus Ganitrus : Elaeocarpus Ganitrus 
+ 213464 : SarakARqa : Sacclsarum Sara : Saccharum Sara  vague
+ 93197 : dIrGavfnta : Colosanthes Indica : Calosanthes Indica 
+ 93199 : dIrGavfntaka : Colosanthes Indica : Calosanthes Indica 
+ 103179 : nawa : Colosanthes Indica : Calosanthes Indica 
+ 261416 : haritA : Sesbana Aegyptiaca : Sesbania Aegyptiaca 
+ 159892 : mahAnimba : Melia Bukajun : Melia Bukayun 
+ 47092 : kAkasPUrja : Diospyrus tomentosa : Diospyros tomentosa 
+ 146659 : brahmacAraRI : Clerodendrum Siphoantus : Clerodendrum Siphonanthus 
+ 115541 : padmA : Clerodendrum Siphorantus : Clerodendrum Siphonanthus 
+ 220273 : SUra : Arthocarpus Locucha : Artocarpus Lacucha 
+ 182060 : lAkuca : Arhocarpus Locucha : Artocarpus Lacucha 
+ 164857 : muKa : Artocarpus Locuchs : Artocarpus Lacucha 
+ 223327 : SrIhastinI : Heliotroplum Indicum : Heliotropium Indicum 
+ 5885 : anirmAlyA : Mendicago Esculenta : Medicago Esculenta 
+ 46809 : kazAyin : Artocarpus Lakucha : Artocarpus Lacucha 
+ 60711 : Kagavaktra : Artocarpus Lakucha : Artocarpus Lacucha 
+ 98650 : dvirePagaRasaMkulA : Rosa Glanulifera : Rosa Glandulifera 
+ 138373 : prasTikA : Hibiscus Cannabhinus : Hibiscus Cannabinus 
+ 16154 : arDacandrA : Convolvulus Torpethum : Convolvulus Turpethum 
+ 16162 : arDacandrikA : Convolvulus Torpethum : Convolvulus Turpethum 
+ 184694.2 : vacA : Acorus Colamus : Acorus Calamus 
+ 14198.24 : amftA : Ocymum Sanctum : Ocimum Sanctum 
+ 119545 : parRAsi : Ocymum Sanctum : Ocimum Sanctum 
+ 190866 : vAnala : Ocymum Sanctum : Ocimum Sanctum 
+ 192232 : vAvaya : Ocymum Sanctum : Ocimum Sanctum 
+ 202596 : vizRuvallaBA : Ocymum Sanctum : Ocimum Sanctum 
+ 208023 : vEzRavI : Ocymum Sanctum : Ocimum Sanctum 
+ 202225 : vizvaksenakAntA : Diascorea : Dioscorea 
+ 202227 : vizvaksenapriyA : Diascorea : Dioscorea 
+ 158394 : maruvaka : Vanguieria Spinosa : Vangueria Spinosa 
+ 175502 : rasa : Vanguieria Spinosa : Vangueria Spinosa 
+ 190916 : vAntikft : Vanguieria Spinosa : Vangueria Spinosa 
+ 201747 : vizapuzpa : Vanguieria Spinosa : Vangueria Spinosa 
+ 201749 : vizapuzpaka : Vanguieria Spinosa : Vangueria Spinosa 
+ 214108 : SalAkA : Vanguieria Spinosa : Vangueria Spinosa 
+ 214129 : Salya : Vanguieria Spinosa : Vangueria Spinosa 
+ 214176 : Salyaka : Vanguieria Spinosa : Vangueria Spinosa 
+ 224380 : Svasana : Vanguieria Spinosa : Vangueria Spinosa 
+ 211239 : Sakawa : Arum Colacasia : Arum Colocasia 
+ 95163 : dfQavalkala : Artocarpus Locucha : Artocarpus Lacucha 
+ 175388 : ravipriya : Artocarpus Locucha : Artocarpus Lacucha 
+ 215931 : SAla : Artocarpus Locucha : Artocarpus Lacucha 
+ 256150 : sTUlaskanDa : Artocarpus Locucha : Artocarpus Lacucha 
+ 246561 : sudarSanA : Coculus Tomentosus : Cocculus Tomentosus 
+ 218318 : SItapallava : Ardisea Solanacea : Ardisia Solanacea 
+ 8387 : antrI : Convolvolus Argenteus : Convolvulus Argenteus 
+ 235313 : samudraSoza : Convolvolus Argenteus : Convolvulus Argenteus 
+ 227607 : sakawa : Angeissus Latifolia : Anogeissus Latifolia 
+ 32406 : udarka : Vanguiera Spinosa : Vangueria Spinosa 
+ 42444 : kaRwakin : Vanguiera Spinosa : Vangueria Spinosa 
+ 42462 : kaRWa : Vanguiera Spinosa : Vangueria Spinosa 
+ 68501 : granTiPala : Vanguiera spinosa : Vangueria spinosa 
+ 83661 : taskara : Vanguiera spinosa : Vangueria spinosa 
+ 155465 : madana : Vanguiera Spinosa : Vangueria Spinosa 
+ 155481 : madanakaRwaka : Vanguiera Spinosa : Vangueria Spinosa 
+ 155513 : madanaPala : Vanguiera Spinosa : Vangueria Spinosa 
+ 162487 : mAdana : Vanguiera Spinosa : Vangueria Spinosa 
+ 183796 : lohakaRwaka : Vanguiera Spinosa : Vangueria Spinosa 
+ 194685 : vicakila : Vanguiera Spinosa : Vangueria Spinosa 
+ 155158 : matsyAkzI : Hincha Repens : Hingcha Repens 
+ 20806 : asaru : Bhumea Lacera : Blumea Lacera 
+ 48164 : kAmalatA : Ipomaea : Ipomoea 
+ 150702 : Bikzu : Sphaerantus Mollis : Sphaeranthus Mollis 
+ 256643 : sparSasaMkocin : Diascorea Globosa : Dioscorea Globosa 
+ 124447 : piSAcI : Valerian : Valeriana 
+ 180927 : laGumAMsI : Valerian : Valeriana 
+ 250950 : sUkzmapattrI : Valerian : Valeriana 
+ 103184 : nawA : Caesalpina Banducella : Caesalpina Bonducella 
+ 153948 : makarAkAra : Caesalpina Banducella : Caesalpina Bonducella 
+ 141778 : Palatraya : Xylacarpus Granatum : Xylocarpus Granatum 
+ 31659.5 : utpAdikA : Basilla Rubra : Basella Rubra 
+ 69441 : Gana : Cyperus Hexastachys communis : Cyperus Hexastachyus communis 
+ 155407 : madaSAka : Portulaca Quadrifiga : Portulaca Quadrifida 
+ 43314 : kaMDara : Ameranthus Oleraceus : Amaranthus Oleraceus 
+ 154577 : maqaka : Eleusine Corocana : Eleusine Coracana 
+ 181191 : laYCana : Eleusine Corocana : Eleusine Coracana 
+ 183039 : loBanI : Sphaerantus : Sphaeranthus 
+ 1951 : ajaganDA : Ocymum Gratissimum : Ocimum Gratissimum 
+ 1952 : ajaganDikA : Ocymum Gratissimum : Ocimum Gratissimum 
+ 14494 : ambucAmara : Valisneria : Vallisneria 
+ 14505 : ambutAla : Valisneria : Vallisneria 
+ 58885 : kzatriyavarA : Curcumis : Cucumis 
+ 59929 : kzudracirBitA : Curcumis : Cucumis 
+ 1988 : ajamoda : Ligusticum Ajwaen : Ligusticum Ajowan 
+ 1989 : ajamodA : Ligusticum Ajwaen : Ligusticum Ajowan 
+ 1990 : ajamodikA : Ligusticum Ajwaen : Ligusticum Ajowan 
+ 28909 : induleKA : Ligusticum Ajwaen : Ligusticum Ajowan 
+ 221106 : SElaBeda : Coleus Scutellaroides : Coleus Scutellarioides 
+ 162249 : mAtf : Sphaerantus Indicus : Sphaeranthus Indicus 
+ 14000 : amalAtaka : Gomphraena Globosa : Gomphrena Globosa 
+ 14000.1 : amalAnaka : Gomphraena Globosa : Gomphrena Globosa 
+ 14657.1 : amlAna : Gomphraena Globosa : Gomphrena Globosa 
+ 161065 : mahAsahA : Gomphraena Globosa : Gomphrena Globosa 
+ 223975 : SlakzRapattraka : Diaspyros Ebenaster : Diospyros Ebenaster 
+ 14506 : ambuda : Cyperus Hexastychius Communis : Cyperus Hexastachyus Communis 
+ 14521 : ambupattrA : Cyperus Hexastychius Communis : Cyperus Hexastachyus Communis 
+ 94431 : durgakAraka : Bhojpatra : Bhojpattra 
+ 92837 : dIpikA : Calmus : Calamus 
 ----------------------------------------------------------------------
