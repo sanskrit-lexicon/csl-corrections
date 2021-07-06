@@ -1241,4 +1241,12 @@ L code : Headword : Old  : New : Comment
  14521 : ambupattrA : Cyperus Hexastychius Communis : Cyperus Hexastachyus Communis 
  94431 : durgakAraka : Bhojpatra : Bhojpattra 
  92837 : dIpikA : Calmus : Calamus 
+-----------------------------------------------------------------------
+07-06-2021
+ref: https://github.com/sanskrit-lexicon/MWS/issues/110
+Changes identified as print changes by Jim Funderburk
+L code : Headword : Old  : New : Comment
+90718  : dalanirmoka : Bhojpattra  : Bhojpatra  : changes for consistency
+145168 : bindupattra : Bhojpattra  : Bhojpatra
+216876 : Siti        : Bhojpattra  : Bhojpatra
 ----------------------------------------------------------------------
