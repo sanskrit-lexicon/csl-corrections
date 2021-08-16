@@ -105,3 +105,73 @@ L code : Headword : number of lines with an extra 'with' added
 39117 : zaYja : 1
 39161 : zad : 1
 ----------------------------------------------------------------------
+08/16/2021
+ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/73
+Source: jim funderburk
+L code : Headword : Old  : New : Comment
+222 : AMgnatretA : housholder : householder :
+927 : aDyagni : mariage : marriage :
+1512 : antra : intrail : entrail :
+2823 : ardDacandrAkAra : menniscus : meniscus :
+2850 : ardDAsana : sameseat : same seat :
+3116 : avacCedaka : predicater : predicator :
+3149 : avadAna : achievment : achievement :
+4832 : AnuzaNgika : eliptical : elliptical :
+6350 : udakaSAka : quatic : aquatic :
+6598 : udvApa : anticedent : antecedent :
+8357 : kanyAdUzaka : violater : violator :
+9176 : kAkakaRa : incurrable : incurable :
+9369 : kApyakAra : vowal : Avowal :
+9703 : kAlAntaraviza : venemous : venomous :
+10479 : kuverAkzI : turmpet : trumpet :
+11244 : kozakAra : crysalis : chrysalis :
+11341 : kOSala : salution : salutation :
+11358 : kOSeya : peticoat : petticoat :
+12057 : Kawaka : negociating : negotiating :
+12717 : gamyamAna : travelsed : traversed :
+12906 : gAtu : gandharba : gandharva :
+13210 : gulaYcakanda : esculentroot : esculent root :
+13236 : guhyaBAzita : muntra : mantra :
+13759 : gleya : exhaustable : exhaustible :
+14286 : campeSa : tural : OK :
+14784 : cIri : vail : veil :
+15328 : jap : speakto : speak to :
+17477 : trayIDarmma : injoined : enjoined :
+17857 : daRqaDara : ceptre : sceptre :
+19164 : devasaBya : attendent : attendant :
+20234 : DUrttamaRqala : sembly : OK :
+21132 : niculita : anexpanded : unexpanded :
+21198 : niDAna : divinetreasury : divine treasury :
+21421 : nirUQaman : ackowledged : acknowledged :
+21764 : nizkAlaka : smeered : smeared :
+21845 : nistuzita : skined : skinned :
+21923 : nIla : saphire : sapphire :
+22250 : paNkamaRquka : bibalve : bivalve :
+22473 : paRya : negociable : negotiable :
+24040 : pArSvaSUla : stich : stitch :
+25161 : pOrogava : kitchin : kitchen :
+26041 : pramAdikA : defloured : deflowered :
+26509 : prARanta : hickup : hiccup :
+27487 : bratati : extention : extension :
+27925 : BARqa : mimickry : mimicry :
+28348 : BfNgAra : criket : cricket :
+29434 : mahABuja : strongarm : strong arm :
+31123 : yogakzema : articlesnot : articles not :
+31123 : yogakzema : divisibleamong : divisible among :
+31374 : raYjaka : stimulous : stimulus :
+31523 : ramya : ariver : a river :
+31773 : rAjita : resplendant : resplendent :
+32614 : lUtA : aspiders : a spider's :
+32614 : lUtA : surine : urine :
+32846 : vaMSya : kingsman : kinsman :
+32866 : vaktavya : speek : speak :
+33430 : varzavara : eu nuch : eunuch :
+35660 : vizamamaya : inequallity : inequality :
+35701 : vizahara : andidote : antidote :
+36627 : vorapawwI : mattrass : mattress :
+36925 : vyAvfti : skreening : screening :
+38011 : SilAkuwwaka : chissel : chisel :
+38690 : SOBa : suspened : suspended :
+39610 : saNkrama : localiy : locally :
+44741 : avyaBicArin : stedfast : steadfast :
+----------------------------------------------------------------------

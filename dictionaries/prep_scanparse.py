@@ -7,6 +7,7 @@ to two lines:
 L:k1:word:correction
 ; scan error
 
+;also, when ':typo' is at end of lines, similarly handles
 """
 import sys,re,codecs
 
@@ -21,6 +22,10 @@ def adjust_lines(lines):
    a = ':'.join(parts[:4])
    ans.append(a)
    ans.append('; scan error')
+  elif (len(parts) == 5) and (parts[-1].strip() == 'typo'):
+   a = ':'.join(parts[:4])
+   ans.append(a)
+   ans.append('; typo')
   elif (len(parts) == 5):
    a = ':'.join(parts[:4])
    ans.append(a)
