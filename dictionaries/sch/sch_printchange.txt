@@ -53,3 +53,13 @@ L code : Headword : Old  : New : Comment
 24129  : vivftti  : i. e. lands." : i. e. lands. :
 28245  : utsaNga  :  ºÜbersteuer" :  ºÜbersteuer :
 -----------------------------------------------------------------------
+09/30/2021
+Jim Funderburk Corrections related to comparison with PWK - vn
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/77
+L code : Headword : Old  : New : Comment
+11766  : kzveda   : kzveda : kzveqa : print diacritic dot under 'd'
+7147   : Amikzapayasya : Amikzapayasya : AmikzApayasya :
+9229   : ekonapaYcASaDA : ekonapaYcASaDA : ekonapaYcASadDA :
+9272   : evaMvAdiR : evaMvAdiR : evaMvAdin :
+10372  : kAmarupin : kAmarupin : kAmarUpin :
+-----------------------------------------------------------------------
