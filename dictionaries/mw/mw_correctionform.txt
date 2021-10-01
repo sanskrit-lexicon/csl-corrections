@@ -1,6 +1,175 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 21, 2021
-1585 correction records, with 0 PENDING
+As of September 30, 2021
+1612 correction records, with 0 PENDING
+
+Case 24989: 08/30/2021 dict=MW, L= 326, hw=a-kṛta, user=O.F.
+old = unprepared, in comp.ete
+new = unprepared, incomplete
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24987: 08/24/2021 dict=mw, L= 254101, hw=skandapurARa, user=ejf
+old = Kāśī or, Benares 
+new = Kāśī or Benares 
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24986: 08/24/2021 dict=mw, L= 177704, hw=rAyamukuwa, user=ejf
+old = No gloss
+new = N. of author   (also several other entries similarly changed)
+comment = markup/typo
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24981: 08/23/2021 dict=mw, L= 48409, hw=kAmandakI, user=ejf
+old = she
+new = the
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24980: 08/22/2021 dict=mw, L= 189102, hw=vasati, user=ejf
+old = vasatim-kri
+new = vasatim-kf
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24979: 08/22/2021 dict=mw, L= 262136, hw=haste, user=ejf
+old = haste-<s>kf</s>
+new = <s>haste-kf</s>
+comment = markup
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24978: 08/22/2021 dict=mw, L= 15249, hw=arAti, user=ejf
+old = is
+new = <s>is</s>
+comment = markup
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24977: 08/18/2021 dict=MW, L=146065, hw=bṛhacchandenduśekhara, user=Sharon Ben-dor LB sharonbendor
+old = The typo is in the printed book - first 'n' in bṛhacchandenduśekhara
+new = bṛhacchabdenduśekhara LB (Instead of 'n' in chanda it should be 'b'- chabda)
+comment = Typo in the printed book
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24976: 08/12/2021 dict=MW, L=235807 , hw=samṛ, user=
+old = ricchati
+new = ṛcchati
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24975: 08/10/2021 dict=MW, L= 234529, hw=samāruh, user=
+old = under. take
+new = undertake
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24972: 08/07/2021 dict=mw, L= 46836, hw=kazwa, user=ejf
+old = kazwa n. H1B
+new = kazwam ind. H1C
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24971: 08/07/2021 dict=mw, L= 193869, hw=vikalIkf, user=ejf
+old = krita
+new = kfta
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24970: 08/07/2021 dict=mw, L= 193869, hw=vikalIkf, user=ejf
+old = Page 954, 1
+new = Page 953,3
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24968: 08/06/2021 dict=MW, L=108320, hw=nitambin, user=Owen
+old = nitambin f.
+new = nitambinī f.
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24967: 08/01/2021 dict=mw, L= 105841, hw=nAmita, user=ejf
+old = nasm
+new = nam
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24965: 08/01/2021 dict=MW, L= 4130, hw=aDika, user=ejf
+old = aDika n. 2b
+new = aDikam ind. 2c
+comment = markup
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24964: 08/01/2021 dict=mw, L= 5714, hw=anAsTA, user=ejf
+old = unfixedness want of confidence
+new = unfixedness, want of confidence
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24963: 07/30/2021 dict=MW, L= ID=259572, hw=sva-stha, user=
+old = p. 1271
+new = p. 1277
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24959: 07/26/2021 dict=MW, L= 18629, hw=avikā, user=
+old = (avikā)
+new = (avíkā)
+status =  09/30/2021 no change required
+------------------------------------------------------------------------
+
+Case 24958: 07/26/2021 dict=MW, L= 18629, hw=avikā, user=
+old = avikā f. 
+new = avikā́ f.
+status =  09/30/2021 no change required
+------------------------------------------------------------------------
+
+Case 24957: 07/24/2021 dict=mw, L= 243198, hw=sArDa, user=ejf
+old = 1) pc = 1210-1.  2) periods instead of commas
+new = 1209-3 for pc.  Change punctuation
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24952: 07/21/2021 dict=mw, L= 137182, hw=pravara, user=ejf
+old = 4 10 5 
+new = 4 or 5
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24949: 07/10/2021 dict=mw, L= 166701, hw=mftyu, user=ejf
+old = Local abbreviation for 'd' is 'disease'
+new = Should be 'death'.  Also other compounds of mftyu
+comment = markup
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24948: 07/10/2021 dict=mw, L= 252348, hw=sevyatA, user=ejf
+old = Missing definition
+new = Add definition from sevyatva
+comment = markup
+status = 09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24946: 07/08/2021 dict=MW, L=200853 , hw=viśram, user=
+old = śrāmyate, vy-aśrāmi, -śrāmyatām, -śrāmayati
+new = śrā̆myate, vy-aśrā̆mi, -śrā̆myatām, -śrā̆mayati
+status =  09/30/2021  A display problem, not a digitization error. Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/639
+------------------------------------------------------------------------
+
+Case 24945: 06/29/2021 dict=MW, L=16095 , hw=ard, user=
+old = after ma
+new = after mā
+status =  09/30/2021 Corrected
+------------------------------------------------------------------------
+
+Case 24941: 06/22/2021 dict=MW, L= 15715, hw=arcā, user=
+old = 2, 101 )
+new = 5-2, 101)
+status =  09/30/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24939: 06/17/2021 dict=mw, L= 78877, hw=jAbAlopanizad, user=ejf
 old = an, Up.

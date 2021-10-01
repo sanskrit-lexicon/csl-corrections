@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of June 21, 2021
-223 correction records, with 0 PENDING
+As of October 01, 2021
+225 correction records, with 0 PENDING
+
+Case 24988: 08/28/2021 dict=PWG, L= 7256, hw=as, user=h.c.jahr
+old = da hinauf steht mit der Gang nicht frei
+new = da hinauf steht mir der Gang nicht frei
+status = 10/01/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24947: 07/09/2021 dict=PWG, L= 32151, hw=darzana, user=h.c.jahr
+old = Erwahntsein
+new = Erwähntsein
+status = 10/01/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24917: 05/03/2021 dict=PWG, L=38048, hw=naz, user=h.c.jahr
 old = falschlich

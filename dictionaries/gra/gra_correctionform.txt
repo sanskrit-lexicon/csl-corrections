@@ -1,6 +1,42 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of June 21, 2021
-391 correction records, with 0 PENDING
+As of September 30, 2021
+397 correction records, with 0 PENDING
+
+Case 24995: 09/28/2021 dict=GRA, L=3921, hw=trātṛ́, user=
+old = -ā́ 10,351,1;
+new = -ā́ 1) 351,1;
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24994: 09/28/2021 dict=GRA, L=3713 , hw=tavás, user=
+old = -ásām 10,224,3 (tavástamas).
+new = -ásām 1) 224,3 (tavástamas).
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24985: 08/24/2021 dict=GRA, L=5736, hw=pṛc, user=
+old = āupa-
+new = ā-, upa-
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24984: 08/24/2021 dict=GRA, L=6034, hw=prā, user=
+old = kratucarṣaṇi-
+new = kratu-, carṣaṇi-
+status =  09/30/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24953: 07/22/2021 dict=GRA, L= 4726, hw=dhur, user=
+old = -ūṛ́ṣú
+new = -ūrṣú
+status =  09/30/2021 corrected, but not sure of correction.
+------------------------------------------------------------------------
+
+Case 24951: 07/20/2021 dict=GRA, L= 4649, hw=dham, dhmA, user=
+old = Part. II. dhamātá
+new = Part. II. dhmātá
+status =  09/30/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24875: 03/27/2021 dict=GRA, L= 701, line 17, hw=ná, user=pvstiles
 old =  221,17

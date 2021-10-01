@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of June 21, 2021
-456 correction records, with 0 PENDING
+As of October 01, 2021
+459 correction records, with 0 PENDING
+
+Case 24983: 08/24/2021 dict=AP90, L= 28325, hw=zyAma, user=th.malten
+old = glossyblack
+new = glossy-black OR glossy black
+comment = deletion of hypen at the end of a line
+status = 10/01/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24982: 08/24/2021 dict=AP90, L= 25042, hw=vara, user=th.malten
+old = sonin-law
+new = son-in-law
+status = 10/01/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24966: 08/01/2021 dict=AP90, L= 8318, hw=udvartanaM, user=geymonat
+old = caṭulaśapharodvartanaprokṣitāni Me. 40.
+new = caṭulaśapharodvartanaprekṣitāni Me. 40.
+comment = Typo prokṣitāni should be prekṣitāni
+status = 10/01/2021 corrected. print change
+------------------------------------------------------------------------
 
 Case 24935: 05/31/2021 dict=ap90, L=, hw=nyAyaH, user=gasyoun
 old = invariable  concomitance between two persons or things; (e. g. where there <!!!>is A.<!!!>, there is B; where there is not B, there is not A.). 21. viṣakṛminyāyaḥ The

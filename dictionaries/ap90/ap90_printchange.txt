@@ -573,4 +573,10 @@ Source: User AndhraBharati
 Ref: https://github.com/sanskrit-lexicon/AP90/issues/24#issuecomment-907699250
 L code : Headword : Old  : New : Comment
 12741  : gOqaH    : M. P. : K. P. : ls reference corrected
+-----------------------------------------------------------------
+10-01-2021
+Source: User geymonat
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/659
+L code : Headword : Old  : New : Comment
+8318   : udvrtanaM : cawulaSaParodvartanaprokzitAni : cawulaSaParodvartanaprekzitAni
 ----------------------------------------------------------------------

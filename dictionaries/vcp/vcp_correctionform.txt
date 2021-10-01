@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of June 21, 2021
-410 correction records, with 0 PENDING
+As of October 01, 2021
+411 correction records, with 0 PENDING
+
+Case 24942: 06/23/2021 dict=VCP, L=36967, hw=भृति, user=ragav.bharat
+old = सूल्ये
+new = मूल्ये
+status = 10/01/2021 Corrected
+------------------------------------------------------------------------
 
 Case 24934: 05/29/2021 dict=VCP, L= ID=29512, hw=नील, user=ragav.bharat
 old = ८ मङ्कलघोषे त्रिका०

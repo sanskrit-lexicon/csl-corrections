@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of June 21, 2021
-2255 correction records, with 0 PENDING
+As of October 01, 2021
+2257 correction records, with 0 PENDING
+
+Case 24992: 09/07/2021 dict=CCS, L= 20995, hw=loka, user=h.c.jahr
+old = Wossenschaft
+new = Wissenschaft
+status = 10/01/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24991: 09/07/2021 dict=CCS, L= 20995, hw=loka, user=h.c.jahr
+old = meist 2, 3, 0. 7 angen.
+new = meist 2, 3, o. 7 angen.
+status = 10/01/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24914: 04/26/2021 dict=CCS, L=21381, hw=var, user=h.c.jahr
 old = vorethalten (Gen.).

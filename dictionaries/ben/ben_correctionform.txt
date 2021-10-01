@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for BEN
-As of July 22, 2019
-463 correction records, with 0 PENDING
+As of October 01, 2021
+464 correction records, with 0 PENDING
+
+Case 24954: 07/23/2021 dict=BEN, L=2521, hw=RkSa, user=h.c.jahr
+old = (greek)
+new = ἄρκτος
+status = 10/01/2021 Corrected
+------------------------------------------------------------------------
 
 Case 23615: 01/14/2017 dict=BEN, L=11922, hw=रज, user=pcipolla
 old = poilen

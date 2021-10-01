@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for BOP
-As of July 22, 2019
-30 correction records, with 0 PENDING
+As of October 01, 2021
+31 correction records, with 0 PENDING
+
+Case 24956: 07/23/2021 dict=BOP, L= 1594, hw=RkSa, user=h.c.jahr
+old = (greek)
+new = ἄρκτος
+status = 10/01/2021 Corrected
+------------------------------------------------------------------------
 
 Case 23817: 09/11/2017 dict=BOP, L=2025, hw=kANGin, user=dhaval
 old = kANGin

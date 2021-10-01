@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for STC
-As of June 21, 2021
-94 correction records, with 0 PENDING
+As of October 01, 2021
+96 correction records, with 0 PENDING
+
+Case 24993: 09/08/2021 dict=STC, L= 23764, hw=sūtra, user=O.F.
+old = corde, cordon, fit LB (Śrauta- Gṛhya- et DharmaSūtra ) ; traité original (opp. aux commentaires )
+new = corde, cordon, fil LB (Śrauta- Gṛhya- et DharmaSūtra) ; traité original (opp. aux commentaires)
+status = 10/01/2021 corrected
+------------------------------------------------------------------------
+
+Case 24973: 08/08/2021 dict=STC, L= 10299, hw=dagdha, user=Caujolle
+old = °kilbiṣa- a. dont les péchés sont brûlés. détruits, effacés. 
+new = °kilbiṣa- a. dont les péchés sont brûlés, détruits, effacés. 
+status = 10/01/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24940: 06/21/2021 dict=STC, L= 20892, hw=saṃskāra, user=Caujolle
 old = the "bouddh." abbreviation is not referenced (i noticed (at least) 16 such occurences). 
