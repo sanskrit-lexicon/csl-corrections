@@ -349,3 +349,9 @@ L code : Headword : Old :       New       : Comment
 4980   : cit (2nd homonym) : Sānkhya Aph.  : Sāṅkhya Aph.
 15950  : sAMsidDika :  Sāukhya Aph. : Sāṅkhya Aph.
 -----------------------------------------------------------------------
+10-02-2021
+ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/33
+Jim Funderburk
+L code : Headword : Old :       New       : Comment
+10424  : BaRqila  : siriṣa : śirīṣa : consistent with entry mUzika
+-----------------------------------------------------------------------
