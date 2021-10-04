@@ -355,3 +355,11 @@ Jim Funderburk
 L code : Headword : Old :       New       : Comment
 10424  : BaRqila  : siriṣa : śirīṣa : consistent with entry mUzika
 -----------------------------------------------------------------------
+10-04-2021
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/633
+  genders not italicized. Benfey uses italics for Sanskrit text.
+Dr. Dhaval Patel
+L code : Headword : Old :       New       : Comment
+1611   : Amalaka  : {%<ab>n.</ab>%} : <ab>n.</ab> :
+518    : anta     : {%Keśa-,%} {%<ab>m.</ab>%} : {%Keśa-,%} <ab>m.</ab> :
+-----------------------------------------------------------------------
