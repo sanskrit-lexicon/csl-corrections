@@ -111,3 +111,9 @@ ref: https://github.com/sanskrit-lexicon/csl-orig/issues/469
 L code : Headword : Old  : New : Comment
 29512  : nIla     : maNkalaGoze: maNgalaGoze :
 -----------------------------------------------------------------------
+10-25-2021
+Source: Github User Neelesh Bodas
+ref: https://github.com/sanskrit-lexicon/csl-json/issues/6
+L code : Headword : Old  : New : Comment
+32768  : puzwi    : अन्नादिना उपचयकरणे : अन्नादिनोपचयकरणे : remove space
+-----------------------------------------------------------------------
