@@ -83,3 +83,65 @@ ref:  https://github.com/sanskrit-lexicon/csl-orig/issues/612
 L code : Headword : Old  : New : Comment
 905 : asura : Varuna : Varuṇa :
 4080 : gOrI : Varuna : Varuṇa :
+----------------------------------------------------------------------
+12/13/2021
+ref:  https://github.com/sanskrit-lexicon/INM/issues/4
+Corrections noticed by Github user @Andhrabharati
+L code : Headword : Old  : New : Comment
+40 : acAryamuKya : AcAryamuKya : 
+72 : aSrama : ASrama : 
+78 : aSramavAsa : ASramavAsa : 
+122 : aSvayuja : ASvayuja : not sure, as both words exist in mw.
+148 : aDiraTi : ADiraTi : not sure
+189 : adityaparvata : Adityaparvata : 
+190 : adityapaTa : AdityapaTa : 
+192 : adityapratima : Adityapratima : 
+228 : aGaRwin : aGaRwaGaRwin : per addendum
+270 : ahas : ahar : per addendum
+271 : ahas : ahar : per addendum
+328 : ajagaraparvan : Ajagaraparvan : 
+369 : akfti : Akfti : 
+484 : amUrtarayasa : amUrtarayasa : homonym 1 added
+485 : amUrtarayasa : AmUrtarayasa : homonym 2 added
+602 : aNgirasa : ANgirasa : 
+711 : apagA : ApagA : per addendum
+712 : apagA : ApagA : per addendum
+713 : apagAsuta : ApagAsuta : 
+714 : apageya : Apageya : 
+736 : apava : Apava : 
+753 : apta : Apta : 
+763 : araRyaka : AraRyaka : 
+764 : araRyaka : AraRyaka : 
+765 : araRyakaparvan : AraRyakaparvan : 
+784 : Ardracarman : ArdracarmAbaravfta : per addendum
+831 : arzwizeRa : ArzwizeRa : 
+840 : aruja : Aruja : 
+853 : aruRi : AruRi : 
+917 : asurAyaRi : AsurAyaRi : per addendum
+925 : atapana : Atapana : 
+942 : aTida : aWida : 
+958 : AtiTi : atiTi : 
+1027 : avikzita : Avikzita : 
+1112 : bahuvadyAH : bahuvAdyAH : 
+1113 : bahuvedya : bahuvidya : 
+1672 : BuvaH : Buvas : per addendum
+1673 : BuvaH : Buvas : per addendum
+3422 : Darmagupta : Darmagup : per addendum
+3441 : DarmAranya : DarmAraRya : 
+3448 : Darmavid : Darmaviduttama : per addendum
+3466 : DAtu : DAtuuttama : per addendum; not sure
+3591 : dInakft : dinakft : per addendum
+4367 : hanUmadBImasamvAda : hanUmadBImasaMvAda : 
+5008 : kASisuta : kASisutA : 
+5102 : kAkudika : kAkudIka : per addendum
+5712 : KaSira : KaSIra : per addendum
+5808 : koRvaSira : konvaSira : 
+6209 : kuntInandana : kuntinandana : 
+6210 : kuntInandana : kuntinandana : 
+6894 : maheSvarapada : mAheSvarapada : 
+6895 : maheSvarapura : mAheSvarapura : 
+7378 : mftyuprajApatisamvAda : mftyuprajApatisaMvAda : 
+8234 : patitri : patatri : 
+9542 : sarasvatItArkzyasamvAda : sarasvatItArkzyasaMvAda : 
+9915 : simhaketu : siMhaketu : 
+----------------------------------------------------------------------
