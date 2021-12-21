@@ -1,53 +1,60 @@
 Sanskrit Lexicon Correction Form History for PW
-As of September 30, 2021
-11829 correction records, with 0 PENDING
+As of December 20, 2021
+11830 correction records, with 0 PENDING
+
+Case 24977: 08/18/2021 dict=PW, L=146065, hw=bṛhacchandenduśekhara, user=Sharon Ben-dor LB sharonbendor
+old = The typo is in the printed book - first 'n' in bṛhacchandenduśekhara
+new = bṛhacchabdenduśekhara LB (Instead of 'n' in chanda it should be 'b'- chabda)
+comment = Typo in the printed book
+status = Corrected 09/30/2021
+------------------------------------------------------------------------
 
 Case 24969: 08/06/2021 dict=PW, L= 16724, hw=iDA, user=h.c.jahr
 old = eines feierliche
 new = eine feierliche
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24962: 07/29/2021 dict=PW, L= 76654, hw=bādha, user=frank.ziesing
 old = 2. bādha m. etwas Drang.
 new = 2. bādha m. etwa Drang.
 comment = Typo "s" shouldn't be there in "etwa"
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24961: 07/26/2021 dict=PW, L= 110681, hw=śarīra, user=frank.ziesing
 old = — 5) Lieb , so v.a. Person.
 new = — 5) Leib , so v.a. Person.
 comment = Typo Should bei "ei" in "Leib"
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24960: 07/26/2021 dict=PW, L= 110681, hw=śarīra, user=frank.ziesing
 old = — 2) Lieb , Körper.
 new = — 2) Leib , Körper.
 comment = Typo: should be "ei" in "Leib" and not "Lieb"
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24950: 07/16/2021 dict=PW, L= 113983, hw=śṛṅgāṭa, user=frank.ziesing
 old = das dreieckige Nuss.
 new = die dreieckige Nuss.
 comment = Typo: should be "die" instead of "das"
-status = 09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24944: 06/28/2021 dict=PW, L= 923, hw=aṅga , user=frank.ziesing
 old = sechs zum Veda ( śikṣā , vyākaraṇa , chandas , nirukta , kalpa und uyotiṣ)  72,20.  Daher 
 new = sechs zum Veda ( śikṣā , vyākaraṇa , chandas , nirukta , kalpa und jyotiṣa)  72,20.  Daher 
 comment = Typo, wrong: "uyotiṣ", correct: "jyotiṣa"
-status =  09/30/2021 Corrected
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24943: 06/26/2021 dict=PW, L= 120224, hw=samādhāna, user=frank.ziesing
 old = — 4) das Versöhen , Aussöhnen.
 new = — 4) das Versöhnen , Aussöhnen.
 comment = Typo "n" missing in Versöhnen 
-status =  09/30/2021 Corrected
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24870: 03/19/2021 dict=PW, L= 85275, hw=mahita, user=frank.ziesing

@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of June 21, 2021
-63 correction records, with 0 PENDING
+As of December 20, 2021
+65 correction records, with 0 PENDING
+
+Case 25031: 11/17/2021 dict=MWE, L= 9762, hw=enrolment, user=sanaatani
+old = नानलिखनं
+new = ?
+comment = --
+status = 12/20/2021 corrected to nAmaliKanaM
+------------------------------------------------------------------------
+
+Case 25010: 10/16/2021 dict=MWE, L= 8493, hw=dissipate, user=h.c.jahr
+old = kR
+new = kRR
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24920: 05/08/2021 dict=MWE, L= 2971, hw=breeze, user=sanaatani
 old = षवनः

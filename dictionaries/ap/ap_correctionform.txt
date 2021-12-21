@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 21, 2021
-524 correction records, with 0 PENDING
+As of December 21, 2021
+527 correction records, with 0 PENDING
+
+Case 25034: 11/29/2021 dict=ap, L= A. Peter, hw=बालुका , user=amram.peter
+old = बालुका 
+new = वालुका 
+status = 12/20/2021 corrected
+------------------------------------------------------------------------
+
+Case 25003: 10/05/2021 dict=ap, L=29133, hw=वाह्, user=torbium
+old = बाहते
+new = वहते
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25002: 10/05/2021 dict=ap, L=29140, hw=वाहिन् , user=torbium
+old = बेत्ति
+new = वेत्ति
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24937: 06/13/2021 dict=ap, L= 7834, hw=आश्रमः, user=torbium
 old = बानप्रस्थ the life of an anchorite or hermit

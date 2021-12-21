@@ -93,7 +93,10 @@ if __name__ == "__main__":
         if status == requests.codes.created:
             #update last_cfr_file
             # note the '+1'
-            print('uploaded issue',entry['title'])
+            try:
+                print('uploaded issue',entry['title'])
+            except:
+                print('uploaded issue at line',counter+1)
             codecs.open(lastcfrline, 'w', 'utf-8').write(str(counter+1))
         else:
             # some problem

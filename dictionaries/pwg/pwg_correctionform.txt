@@ -1,17 +1,23 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of October 01, 2021
-225 correction records, with 0 PENDING
+As of December 20, 2021
+226 correction records, with 0 PENDING
+
+Case 25040: 12/09/2021 dict=PWG, L= 9367, hw=Alaya, user=h.c.jahr
+old = Temple
+new = Tempel
+status = 12/20/2021 corrected
+------------------------------------------------------------------------
 
 Case 24988: 08/28/2021 dict=PWG, L= 7256, hw=as, user=h.c.jahr
 old = da hinauf steht mit der Gang nicht frei
 new = da hinauf steht mir der Gang nicht frei
-status = 10/01/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24947: 07/09/2021 dict=PWG, L= 32151, hw=darzana, user=h.c.jahr
 old = Erwahntsein
 new = Erwähntsein
-status = 10/01/2021 Corrected
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24917: 05/03/2021 dict=PWG, L=38048, hw=naz, user=h.c.jahr
@@ -33,7 +39,7 @@ status =  06/20/2021 Corrected
 ------------------------------------------------------------------------
 
 Case 24902: 04/17/2021 dict=pwg, L=, hw=gur, user=gasyoun
-old = essen)   33. 21.  gūr, gūryate verletzen; gehen   26, 45.   — ati aufjauchzen, <!!!>aufschreien(?)<!!!>: mṛgo nāśnoṃ ati yajjuguryāt  Ṛv. 1, 173, 2.  — apa zurückweisen, Missbilligung
+old = essen)  33. 21. gūr, gūryate verletzen; gehen  26, 45.  — ati aufjauchzen, <!!!>aufschreien(?)<!!!>: mṛgo nāśnoṃ ati yajjuguryāt  Ṛv. 1, 173, 2.  — apa zurückweisen, Missbilligung
 new = aufschreien(?) -> aufschreien (?)
 comment = 
 status =  06/20/2021 Corrected
@@ -78,7 +84,7 @@ status = 03/21/2021 Corrected.
 ------------------------------------------------------------------------
 
 Case 24835: 01/28/2021 dict=pwg, L=114414, hw=spfS, user=SergeA
-old = 64.  kṣiti° (so v. a. Mensch)  Ragh. 8, 80.  mātṛvargacaraṇa°   11, 7.  bahu°  <!!!>Spr. (II) 7248<!!!>.   Bhāg. P. 10, 37, 7.   — b) berührend so v. a. reichend bis: gagana°  Ragh.
+old = 64. kṣiti° (so v. a. Mensch)  Ragh. 8, 80. mātṛvargacaraṇa°  11, 7. bahu°  <!!!>Spr. (II) 7248<!!!>.  Bhāg. P. 10, 37, 7.  — b) berührend so v. a. reichend bis: gagana°  Ragh.
 new = Here "(II)" refers to the second edition, which greatly differs from the 1st one. It shuld be marked in the source list as  Indische Sprüche. Sanskrit und Deutsch. Herausgegeben von Otto Böhtlingk. Zweite vermehrte und verbesserte Auflage. 1870-1873
 comment = 
 status =  03/20/2021  Requires tooltip change. Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/482

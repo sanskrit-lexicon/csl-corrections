@@ -1,25 +1,45 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of October 01, 2021
-459 correction records, with 0 PENDING
+As of December 20, 2021
+462 correction records, with 0 PENDING
+
+Case 25025: 11/09/2021 dict=ap90, L=, hw=kUpaH, user=SergeA
+old = well.  2 A flask, bottle.  3 The navel.  Comp. — अंकः, अंगः  horripilation. <!!!>— कच्छपः, मंडूकः, की<!!!> (lit.) a tortoise or frog in a well; (fig.) an inexperienced person, one who
+new = here is a problem: book gives -कच्छपः, -मंडूकः, -की which means in compound -कच्छपः, -मंडूकः and -मंडूकी (!!) where last की is not a separate word in compound , but an alternate ending for the previous , and this is not clear for the reader
+comment = 
+status = 12/20/2021 print change
+------------------------------------------------------------------------
+
+Case 25015: 10/22/2021 dict=AP90, L=25305, hw=वह्, user=chandrasekharanr
+old = वक्षयति-ते
+new = वक्ष्यति-ते
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25005: 10/08/2021 dict=AP90, L= 23769, hw=yAtrA, user=geymonat
+old = — 8 ....maintenance; yātrāmātrapra. siddhyarthaṃ Ms. 4. 3;  LB 
+new = — 8 ....maintenance; yātrāmātraprasiddhyarthaṃ Ms. 4. 3;  LB 
+comment = Typo: there is a non-sensical dot between pra and siddhyarthaM to be removed
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24983: 08/24/2021 dict=AP90, L= 28325, hw=zyAma, user=th.malten
 old = glossyblack
 new = glossy-black OR glossy black
 comment = deletion of hypen at the end of a line
-status = 10/01/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24982: 08/24/2021 dict=AP90, L= 25042, hw=vara, user=th.malten
 old = sonin-law
 new = son-in-law
-status = 10/01/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24966: 08/01/2021 dict=AP90, L= 8318, hw=udvartanaM, user=geymonat
 old = caṭulaśapharodvartanaprokṣitāni Me. 40.
 new = caṭulaśapharodvartanaprekṣitāni Me. 40.
 comment = Typo prokṣitāni should be prekṣitāni
-status = 10/01/2021 corrected. print change
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24935: 05/31/2021 dict=ap90, L=, hw=nyAyaH, user=gasyoun

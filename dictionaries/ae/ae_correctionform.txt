@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for AE
-As of March 20, 2021
-98 correction records, with 0 PENDING
+As of December 20, 2021
+99 correction records, with 0 PENDING
+
+Case 25035: 11/29/2021 dict=AE, L= 4968, hw=home, user=SergeA
+old = gṛhaj-jāta,
+new = gṛhaja-jāta,
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24827: 01/16/2021 dict=ae, L=34, hw=about, user=SergeA
 old = old’ paṃcavarṣadeśīyaḥ. 3 (Regard- -ing) ādhikṛtya, prati, uddiśya; saṃbaddha- <!!!>-anuviddha gata-<!!!>viśaye in comp.; ‘I ask a. my friend’ mitragataṃ pṛcchāmi; parājayā- -nuviddhā

@@ -579,4 +579,10 @@ Source: User geymonat
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/659
 L code : Headword : Old  : New : Comment
 8318   : udvrtanaM : cawulaSaParodvartanaprokzitAni : cawulaSaParodvartanaprekzitAni
+-----------------------------------------------------------------
+12-21-2021
+Source: User SergeA
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/724
+L code : Headword : Old  : New : Comment
+11341  : kUpaH : -kI  : -maMqUkI : for clarity
 ----------------------------------------------------------------------

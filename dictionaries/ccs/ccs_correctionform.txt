@@ -1,17 +1,36 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of October 01, 2021
-2257 correction records, with 0 PENDING
+As of December 20, 2021
+2260 correction records, with 0 PENDING
+
+Case 25026: 11/10/2021 dict=CCS, L= 380-2, hw=vacas, user=franziska.groehn
+old = m
+new = n
+comment = Typo LB Vacas ist neutrum, nicht maskulinum.
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25008: 10/10/2021 dict=CCS, L= 21635, hw=vas, user=h.c.jahr
+old = aufhlaten
+new = aufhalten
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25007: 10/10/2021 dict=CCS, L=28653, hw=sthita, user=Claus Sandler
+old = sthita
+new = sthiti
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24992: 09/07/2021 dict=CCS, L= 20995, hw=loka, user=h.c.jahr
 old = Wossenschaft
 new = Wissenschaft
-status = 10/01/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24991: 09/07/2021 dict=CCS, L= 20995, hw=loka, user=h.c.jahr
 old = meist 2, 3, 0. 7 angen.
 new = meist 2, 3, o. 7 angen.
-status = 10/01/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24914: 04/26/2021 dict=CCS, L=21381, hw=var, user=h.c.jahr

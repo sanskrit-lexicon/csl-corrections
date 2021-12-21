@@ -1,11 +1,17 @@
 Sanskrit Lexicon Correction Form History for MD
-As of October 01, 2021
-14 correction records, with 0 PENDING
+As of December 20, 2021
+15 correction records, with 0 PENDING
+
+Case 24997: 10/01/2021 dict=MD, L= ID=18471, hw= संस्थ, user=sanderrosenkilde
+old = gnly
+new = only
+status = 12/20/2021 Need abbreviation markup.
+------------------------------------------------------------------------
 
 Case 24996: 09/29/2021 dict=MD, L= 15403, hw=रोमन्, user=sanderrosenkilde
 old = gnly
 new = only
-status = 10/01/2021 No change made. abbreviation for "generally"
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24418: 06/04/2019 dict=MD, L= 4487, hw=udaya, user=pvstiles

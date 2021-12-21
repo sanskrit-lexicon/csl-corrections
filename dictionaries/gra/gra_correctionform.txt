@@ -1,41 +1,65 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of September 30, 2021
-397 correction records, with 0 PENDING
+As of December 20, 2021
+401 correction records, with 0 PENDING
+
+Case 25001: 10/05/2021 dict=GRA, L=sthirá, hw=10277, user=
+old = -ébhis 1) áṅgais 89,8.
+new = -és 1) áṅgais 89,8.
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25000: 10/05/2021 dict=GRA, L=pūṣán, hw=5727, user=
+old = -au
+new = -an
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24999: 10/05/2021 dict=GRA, L=āśír, hw=1629, user=
+old = 893,10; 6.
+new = 893, 6.
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 24998: 10/02/2021 dict=GRA, L=1016, hw=aruṇá, user=
+old = -ī́s [G. s. für ías?] 140,13. 3 (hávam).
+new = -ī́s [G. s. für ías?] 3) 121,3 (hávam).
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24995: 09/28/2021 dict=GRA, L=3921, hw=trātṛ́, user=
 old = -ā́ 10,351,1;
 new = -ā́ 1) 351,1;
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24994: 09/28/2021 dict=GRA, L=3713 , hw=tavás, user=
 old = -ásām 10,224,3 (tavástamas).
 new = -ásām 1) 224,3 (tavástamas).
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24985: 08/24/2021 dict=GRA, L=5736, hw=pṛc, user=
 old = āupa-
 new = ā-, upa-
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24984: 08/24/2021 dict=GRA, L=6034, hw=prā, user=
 old = kratucarṣaṇi-
 new = kratu-, carṣaṇi-
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24953: 07/22/2021 dict=GRA, L= 4726, hw=dhur, user=
 old = -ūṛ́ṣú
 new = -ūrṣú
-status =  09/30/2021 corrected, but not sure of correction.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24951: 07/20/2021 dict=GRA, L= 4649, hw=dham, dhmA, user=
 old = Part. II. dhamātá
 new = Part. II. dhmātá
-status =  09/30/2021 Corrected
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24875: 03/27/2021 dict=GRA, L= 701, line 17, hw=ná, user=pvstiles

@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of October 01, 2021
+As of December 20, 2021
 737 correction records, with 0 PENDING
 
 Case 24974: 08/08/2021 dict=BUR, L= 7649, hw=tatas , user=Caujolle
 old = talas marque l'apodose des phrases commençant par yadi si.
 new = tatas (not talas)
-status = :10/01/2021 Corrected print change
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24955: 07/23/2021 dict=BUR, L= 3471, hw=RkSa, user=h.c.jahr
 old = (greek)
 new = ἄρκτος
-status = 10/01/2021 Corrected
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24829: 01/18/2021 dict=BUR, L= 10257, hw=nIla, user=Caujolle

@@ -1,174 +1,355 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 30, 2021
-1612 correction records, with 0 PENDING
+As of December 20, 2021
+1640 correction records, with 0 PENDING
+
+Case 25045: 12/17/2021 dict=MW, L= 227256, hw=saṃsthita, user=Vladimir Grekov, v.g.000002
+old = directed to wards
+new = directed towards
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25044: 12/14/2021 dict=MW, L= 85094, hw=tirodhā, user=Vladimir Grekov, v.g.000002
+old = BhP. &c. -2.
+new = BhP. &c.
+comment = Wrong unit recognition: this "-2." belongs (in the paper dictionary) to the next unit: "– 2. dhā́"
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25043: 12/13/2021 dict=MW, L= 85104, hw=tirohita, user=Vladimir Grekov, v.g.000002
+old = with drawn
+new = withdrawn
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25042: 12/12/2021 dict=mw, L= 229045, hw=sajjIkf, user=ejf
+old = a how
+new = a bow
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25041: 12/11/2021 dict=MW, L=105827, hw=nāman, user=bhutanic
+old = ID=105825]
+new = viṣṇu-śarma-nāmā paṇḍitah
+comment = Typo: paṇḍitah > paṇḍitaḥ
+status = 12/20/2021 corrected
+------------------------------------------------------------------------
+
+Case 25039: 12/05/2021 dict=MW, L= 170148, hw=yad, user=Vladimir Grekov, v.g.000002
+old = [accord. to, Pāṇ. iii, 3, 148 after
+new = [accord. to Pāṇ. iii, 3, 148 after
+comment = Programming
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25038: 12/05/2021 dict=MW, L= 170148, hw=yad, user=Vladimir Grekov, v.g.000002
+old = yad vā - yadi vā, ‘if-or it’
+new = yad vā - yadi vā, ‘if-or if’
+status = 12/20/2021 corrected
+------------------------------------------------------------------------
+
+Case 25037: 12/05/2021 dict=MW, L= 170148, hw=yad, user=Vladimir Grekov, v.g.000002
+old = pīṭha sarpī
+new = pīṭha-sarpī
+comment = Bad scan
+status = 12/20/2021 corrected
+------------------------------------------------------------------------
+
+Case 25036: 11/30/2021 dict=MW, L= 115152.1, hw=pathin, user=Vladimir Grekov, v.g.00000
+old = patĭ
+new = pątĭ
+comment = Scan
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25033: 11/23/2021 dict=mw, L=, hw=sad, user=gasyoun
+old = adma-, antarikṣa-, apsu-sad 
+new = sádā Sanskrit markup missing
+comment = 
+status = 12/20/2021 corrected
+------------------------------------------------------------------------
+
+Case 25032: 11/20/2021 dict=MW, L= 201893, hw=viṣad, user=KR
+old = Printed book page 996,3
+new = Printed book page 996,2
+status = 12/20/2021 corrected
+------------------------------------------------------------------------
+
+Case 25030: 11/13/2021 dict=MW, L= 197709, hw=viparyaya, user=Vladimir Grekov, v.g.000002
+old = min
+new = ruin
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25028: 11/12/2021 dict=MW, L= 9999, hw=jangidsravankumar5@gmail.com, user=
+old = Ddup
+new = jangidsravankumar5@gmail.com
+status = 12/20/2021 bad issue
+------------------------------------------------------------------------
+
+Case 25027: 11/11/2021 dict=MW, L= 239409, hw=salAvRkI, user=klmankodi
+old = q.v. sAlAvRkI
+new = There is no entry for sAlAvRkI
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25024: 11/05/2021 dict=MW, L= , hw=Portugues, user=
+old = 
+new = 
+status = 12/20/2021  Malformed correction.
+------------------------------------------------------------------------
+
+Case 25023: 11/04/2021 dict=MW, L= 130035, hw=pra-kṛti , user=Arlo Griffiths <arlo.griffiths
+old = of which are usually enumerated
+new = of which 7 are usually enumerated
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25022: 11/01/2021 dict=MW, L= , hw=akash, user=
+old = 
+new = 
+status = 12/20/2021  Malformed correction.
+------------------------------------------------------------------------
+
+Case 25021: 10/24/2021 dict=mw, L=, hw=BAravi, user=ejf
+old = :  bhā́—ravi a   m. N. of the author of the Kirātārjunīya (first mentioned <!!!>in an, Inscr.<!!!> of 634 A.D.)  [ID=149432]   (H1)  [Printed book page 753,3] :  bhā-ravi b
+new = in an Inscr. (no comma)
+comment = 
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25020: 10/24/2021 dict=mw, L=, hw=mAGa, user=ejf
+old = māghá   m. (scil. māsa) the month Māgha (which has its full moon in the <!!!>const° M°,<!!!> and corresponds to our January-February), ŚBr. 
+new = M° : Maghā  (not Māgha)
+comment = 
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25019: 10/24/2021 dict=mw, L=, hw=BAgavata, user=ejf
+old = divine, MBh.; Hariv.; Pur.  [ID=149603]    bhāgavata   m. a follower or <!!!>worshipper of Bh° or Viṣṇu<!!!>, ib. (cf. IW. 321, 1)  [ID=149604]      N. of a king, VP.  [ID=149605]
+new = tooltip: bhagavat (not bhagavati)
+comment = 
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25018: 10/24/2021 dict=MW, L= 165859, hw=muṣ, user=
+old = noṣayati
+new = moṣayati
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25017: 10/24/2021 dict=mw, L=, hw=SUdra, user=ejf
+old = a Śūdra, a man of the fourth or lowest of the four original classes or castes (<!!!>whose only business accord. to<!!!> Mn. i, 91, was to serve the three higher classes; in RV. ix, 20, 12, the
+new = whose only business, accord. to (comma)
+comment = 
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25016: 10/24/2021 dict=mw, L=, hw=somaSarman, user=ejf
+old = (H3)  [Printed book page 1250,3]  सो॑म—शर्मन्   m. N. of various <!!!>men, pur, Pañcat.<!!!> 
+new = <ls>Pur.</ls>; Pa...
+comment = 
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25014: 10/22/2021 dict=mw, L=, hw=vfkza, user=ejf
+old = and fruit (See Mn. i, 47; but also applied to any tree and other plants, <!!!>often = wood See<!!!> comp.), RV. 
+new = often = wood, see
+comment = 
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25012: 10/19/2021 dict=MW, L= 28747, hw=इति, user=vaibhav.niku
+old = इत्यादि, et caetera
+new = et cætera
+status = 12/20/2021 no change made, See https://github.com/sanskrit-lexicon/csl-orig/issues/711
+------------------------------------------------------------------------
+
+Case 25011: 10/18/2021 dict=MW, L= 137180, hw=pravṛ, user=
+old = vṛṇite
+new = vṛṇīte
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25009: 10/12/2021 dict=MW, L=entry missing, hw=entry missing, user=chandan.mazumdar
+old = Blank page against "pulaha", although the word exists in page 638, Col. 1 in MW dictionary.
+new = 
+comment = Blank entry
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25006: 10/09/2021 dict=mw, L= 59054, hw=kzamA, user=ejf
+old = (= 2. क्ष॑म्) 
+new = (= \<hom>2.\</hom> क्ष॑म्) 
+comment = markup
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
+
+Case 25004: 10/08/2021 dict=MW, L= 231964, hw=saṃnikṛṣ, user=
+old = -kṛ hya
+new = -kṛṣya
+status = 12/20/2021 corrected.
+------------------------------------------------------------------------
 
 Case 24989: 08/30/2021 dict=MW, L= 326, hw=a-kṛta, user=O.F.
 old = unprepared, in comp.ete
 new = unprepared, incomplete
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24987: 08/24/2021 dict=mw, L= 254101, hw=skandapurARa, user=ejf
 old = Kāśī or, Benares 
 new = Kāśī or Benares 
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24986: 08/24/2021 dict=mw, L= 177704, hw=rAyamukuwa, user=ejf
 old = No gloss
 new = N. of author   (also several other entries similarly changed)
 comment = markup/typo
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24981: 08/23/2021 dict=mw, L= 48409, hw=kAmandakI, user=ejf
 old = she
 new = the
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24980: 08/22/2021 dict=mw, L= 189102, hw=vasati, user=ejf
 old = vasatim-kri
 new = vasatim-kf
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24979: 08/22/2021 dict=mw, L= 262136, hw=haste, user=ejf
 old = haste-<s>kf</s>
 new = <s>haste-kf</s>
 comment = markup
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24978: 08/22/2021 dict=mw, L= 15249, hw=arAti, user=ejf
 old = is
 new = <s>is</s>
 comment = markup
-status =  09/30/2021 corrected.
-------------------------------------------------------------------------
-
-Case 24977: 08/18/2021 dict=MW, L=146065, hw=bṛhacchandenduśekhara, user=Sharon Ben-dor LB sharonbendor
-old = The typo is in the printed book - first 'n' in bṛhacchandenduśekhara
-new = bṛhacchabdenduśekhara LB (Instead of 'n' in chanda it should be 'b'- chabda)
-comment = Typo in the printed book
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24976: 08/12/2021 dict=MW, L=235807 , hw=samṛ, user=
 old = ricchati
 new = ṛcchati
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24975: 08/10/2021 dict=MW, L= 234529, hw=samāruh, user=
 old = under. take
 new = undertake
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24972: 08/07/2021 dict=mw, L= 46836, hw=kazwa, user=ejf
 old = kazwa n. H1B
 new = kazwam ind. H1C
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24971: 08/07/2021 dict=mw, L= 193869, hw=vikalIkf, user=ejf
 old = krita
 new = kfta
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24970: 08/07/2021 dict=mw, L= 193869, hw=vikalIkf, user=ejf
 old = Page 954, 1
 new = Page 953,3
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24968: 08/06/2021 dict=MW, L=108320, hw=nitambin, user=Owen
 old = nitambin f.
 new = nitambinī f.
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24967: 08/01/2021 dict=mw, L= 105841, hw=nAmita, user=ejf
 old = nasm
 new = nam
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24965: 08/01/2021 dict=MW, L= 4130, hw=aDika, user=ejf
 old = aDika n. 2b
 new = aDikam ind. 2c
 comment = markup
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24964: 08/01/2021 dict=mw, L= 5714, hw=anAsTA, user=ejf
 old = unfixedness want of confidence
 new = unfixedness, want of confidence
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24963: 07/30/2021 dict=MW, L= ID=259572, hw=sva-stha, user=
 old = p. 1271
 new = p. 1277
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
-Case 24959: 07/26/2021 dict=MW, L= 18629, hw=avikā, user=
+Case 24959: 07/26/2021 dict=MW, L= 18628, hw=avikā, user=
 old = (avikā)
 new = (avíkā)
-status =  09/30/2021 no change required
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
-Case 24958: 07/26/2021 dict=MW, L= 18629, hw=avikā, user=
+Case 24958: 07/26/2021 dict=MW, L= 18628, hw=avikā, user=
 old = avikā f. 
 new = avikā́ f.
-status =  09/30/2021 no change required
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24957: 07/24/2021 dict=mw, L= 243198, hw=sArDa, user=ejf
 old = 1) pc = 1210-1.  2) periods instead of commas
 new = 1209-3 for pc.  Change punctuation
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24952: 07/21/2021 dict=mw, L= 137182, hw=pravara, user=ejf
 old = 4 10 5 
 new = 4 or 5
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24949: 07/10/2021 dict=mw, L= 166701, hw=mftyu, user=ejf
 old = Local abbreviation for 'd' is 'disease'
 new = Should be 'death'.  Also other compounds of mftyu
 comment = markup
-status =  09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24948: 07/10/2021 dict=mw, L= 252348, hw=sevyatA, user=ejf
 old = Missing definition
 new = Add definition from sevyatva
 comment = markup
-status = 09/30/2021 corrected.
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24946: 07/08/2021 dict=MW, L=200853 , hw=viśram, user=
 old = śrāmyate, vy-aśrāmi, -śrāmyatām, -śrāmayati
 new = śrā̆myate, vy-aśrā̆mi, -śrā̆myatām, -śrā̆mayati
-status =  09/30/2021  A display problem, not a digitization error. Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/639
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24945: 06/29/2021 dict=MW, L=16095 , hw=ard, user=
 old = after ma
 new = after mā
-status =  09/30/2021 Corrected
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24941: 06/22/2021 dict=MW, L= 15715, hw=arcā, user=
 old = 2, 101 )
 new = 5-2, 101)
-status =  09/30/2021 Corrected
+status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
 Case 24939: 06/17/2021 dict=mw, L= 78877, hw=jAbAlopanizad, user=ejf
@@ -445,7 +626,7 @@ status =  01/12/2021 Insufficient information
 ------------------------------------------------------------------------
 
 Case 24812: 01/06/2021 dict=mw, L=, hw=kf, user=SergeA
-old = See, Naigh. ii, 1 and ; Pāṇ. 7-4, 65 ),  to do repeatedly, RV. ; AV. ; TS. ;  <!!!>Class.<!!!> carkarti or carikarti or carīkarti ([Pāṇ. 7-4, 92 ; Kāś. ]), also carkarīti or
+old = See, Naigh. ii, 1 and; Pāṇ. 7-4, 65),  to do repeatedly, RV.; AV.; TS.;  <!!!>Class.<!!!> carkarti or carikarti or carīkarti ([Pāṇ. 7-4, 92; Kāś.]), also carkarīti or
 new = Looks like wrong mark-up. Why so bold? "Class." = forms (of intensive) in Classical Sanskrit.
 comment = 
 status =  01/12/2021 Corrected.
@@ -478,14 +659,14 @@ status =  Corrected 01/12/2021
 ------------------------------------------------------------------------
 
 Case 24806: 12/17/2020 dict=mw, L=, hw=deva, user=jimfunderburk
-old = (H1)  [Printed book page 492,2]  deva   mf(ī)n. (fr. 3. div) <!!!>heavenly, divine (<!!!>also said of terrestrial things of high excellence), RV. ; AV. ; VS. ; ŚBr.
+old = (H1)  [Printed book page 492,2]  deva   mf(ī)n. (fr. 3. div) <!!!>heavenly, divine (<!!!>also said of terrestrial things of high excellence), RV.; AV.; VS.; ŚBr.
 new = Jim 2nd test of 12-27-2020.  No change required
 comment = 
 status =  01/12/2021 test.
 ------------------------------------------------------------------------
 
 Case 24805: 12/17/2020 dict=mw, L=95520, hw=deva, user=ejf
-old = 15, 5 ; TS. iii, 5, 4, 1   [ID=95520]    [Printed book page 492,3]     (pl. t<!!!>he gods as the heavenly<!!!> or shining ones; विश्वे देवास्, all the gods, RV. ii, 3, 4 
+old = 15, 5; TS. iii, 5, 4, 1  [ID=95520]    [Printed book page 492,3]     (pl. t<!!!>he gods as the heavenly<!!!> or shining ones; विश्वे देवास्, all the gods, RV. ii, 3, 4 
 new = a test correction no change
 comment = 
 status =  01/12/2021 Test
@@ -1857,7 +2038,7 @@ status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
 Case 24295: 12/17/2018 dict=mw, L=, hw=kf, user=Serge A
-old = 7-4, 92 ; Kāś. ]), also carkarīti or carikarīti or carīkarīti or cekrīyate (<!!!>[ib. Sch. Vop. ]<!!!>);    [L=54148]    kṛ   [cf. Hib. caraim, ‘I perform, execute’; ceard, ‘an art,
+old = 7-4, 92; Kāś.]), also carkarīti or carikarīti or carīkarīti or cekrīyate (<!!!>[ib. Sch. Vop.]<!!!>);    [L=54148]    kṛ   [cf. Hib. caraim, ‘I perform, execute’; ceard, ‘an art,
 new = [ib., Sch.; Vop.] lost punctuation. The meaning is [in the scholia to the previous source ; and also in Vopadeva]
 comment = 
 status =  Corrected 01/15/2019
