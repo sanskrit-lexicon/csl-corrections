@@ -366,3 +366,20 @@ Source: Odile Caujolle
 L code : Headword : Old  : New : Comment
 7649   : tatas    : talas : tatas :
 -----------------------------------------------------------------------
+04-27-2022
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/794
+Source: Odile Caujolle
+Change A at beginning of sentence to À.  47 instances.
+-----------------------------------------------------------------------
+04-28-2022
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/799
+Source: Odile Caujolle
+* mœlle -> moelle 24   
+* cœrciteur -> coerciteur  1 
+* cœrcition ->coercition  3 
+* alœ -> aloe 3 
+* siége -> siège (41) 
+* pœme -> poème (1) 
+* œil-debœuf -> œil-de-bœuf 1 
+* Moëlle -> Moelle 1 
+* sœbhadreya -> saubhadreya 1 

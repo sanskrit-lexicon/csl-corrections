@@ -585,4 +585,10 @@ Source: User SergeA
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/724
 L code : Headword : Old  : New : Comment
 11341  : kUpaH : -kI  : -maMqUkI : for clarity
+-----------------------------------------------------------------
+04-27-2022
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/846
+L code : Headword : Old  : New : Comment
+21509  : Put      : iliquids : liquids :
 ----------------------------------------------------------------------

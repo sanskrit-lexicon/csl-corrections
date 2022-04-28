@@ -1,6 +1,32 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of November 19, 2020
-1145 correction records, with 0 PENDING
+As of April 27, 2022
+1149 correction records, with 0 PENDING
+
+Case 25120: 03/13/2022 dict=wil, L=, hw=aDIna, user=ejf
+old = book page 023]   aDIna  mfn. (-naH-nA-naM) 1 Docile. 2 Dependant. E. aDi, <!!!>and Ina a<!!!> master.    [ID=1074]      ▲ aDivedanIyA aDiSraya aDiSrayaRI aDiSrita
+new = and ina 
+comment = 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25098: 02/03/2022 dict=wil, L=, hw=BaNgura, user=ejf
+old = 2 Fraudulent, crafty, dishonest. m. (-रः) The bend or elbow of a river. E. <!!!>भञ्ज to break, aff. थुरच्.<!!!>    [ID=28160]      ▲ भग्नी भग्नोद्यम भङ्कारी भङ्क्तृ भङ्ग भङ्गभाज्
+new = भञ्ज to break, aff. घुरच्.
+comment = 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25048: 12/23/2021 dict=wil, L= 35993, hw=viSvAsapAtra, user=ejf
+old = -caM  and pAca
+new = -traM and pAtra
+status =  corrected 04/27/20
+------------------------------------------------------------------------
+
+Case 25047: 12/23/2021 dict=wil, L= 25937, hw=praRiDi, user=ejf
+old = GA
+new = DA
+status =  corrected 04/27/20
+------------------------------------------------------------------------
 
 Case 24788: 10/30/2020 dict=WIL, L= 4024, hw=avidya, user=Caujolle
 old = 2 Not relating to knowledge. f. (dyā) 

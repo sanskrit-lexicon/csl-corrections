@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of December 20, 2021
-401 correction records, with 0 PENDING
+As of April 27, 2022
+402 correction records, with 0 PENDING
+
+Case 25061: 01/04/2022 dict=GRA, L= 8468, hw=vedhas, user=pvstiles
+old = -ás 1) rā́jā 887,16; 293,4. 
+new = -ā́s 1) 
+comment = Typo (I think) 
+status =  corrected 04/27/20
+------------------------------------------------------------------------
 
 Case 25001: 10/05/2021 dict=GRA, L=sthirá, hw=10277, user=
 old = -ébhis 1) áṅgais 89,8.

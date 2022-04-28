@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of December 20, 2021
-226 correction records, with 0 PENDING
+As of April 27, 2022
+229 correction records, with 0 PENDING
+
+Case 25131: 03/27/2022 dict=PWG, L= 21820, hw=gamana, user=h.c.jahr
+old = Geben zu, in, nach
+new = Gehen zu, in, nach
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25124: 03/16/2022 dict=PWG, L= 96204, hw=vyagra, user=h.c.jahr
+old = auf einen bestimmten Punkt richtend
+new = auf keinen bestimmten Punkt richtend
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25119: 03/13/2022 dict=PWG, L=85148, hw=rUpay, user=h.c.jahr
+old = Eühnensprache
+new = Bühnensprache
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
 
 Case 25040: 12/09/2021 dict=PWG, L= 9367, hw=Alaya, user=h.c.jahr
 old = Temple

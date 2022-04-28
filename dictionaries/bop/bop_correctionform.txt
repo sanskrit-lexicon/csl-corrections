@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for BOP
-As of December 20, 2021
-31 correction records, with 0 PENDING
+As of April 27, 2022
+32 correction records, with 0 PENDING
+
+Case 25133: 03/28/2022 dict=BOP, L= 8155, hw=sakRt, user=h.c.jahr
+old = gr. (greek) vocum se-mel, si- LB mul, sim-plex, (greek)
+new = gr. ἁ vocum se-mel, si- LB mul, sim-plex, ἁ-πλοῦς
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
 
 Case 24956: 07/23/2021 dict=BOP, L= 1594, hw=RkSa, user=h.c.jahr
 old = (greek)

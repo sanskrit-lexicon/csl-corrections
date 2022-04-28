@@ -1,6 +1,54 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of December 20, 2021
-737 correction records, with 0 PENDING
+As of April 28, 2022
+744 correction records, with 0 PENDING
+
+Case 25146: 04/21/2022 dict=BUR, L= 2739, hw=Iza, user=Caujolle
+old = de la charrue. ou le timon. 
+new = de la charrue, ou le timon. 
+status =  Corrected 04/28/2022
+------------------------------------------------------------------------
+
+Case 25136: 04/09/2022 dict=BUR, L= 4002, hw=kambala, user=Caujolle
+old = couverte d'une étoile de laine et traînée par des bœufs.
+new = couverte d'une étoffe de laine et traînée par des bœufs.  LB 
+comment = Typo (the book is there not properly printed, some ink is missing, leading to this mistake.) The correct word is "étoffe" ("étoile" is incorrect).
+status =  Corrected 04/28/2022
+------------------------------------------------------------------------
+
+Case 25121: 03/14/2022 dict=BUR, L= 19697, hw=hetu, user=Caujolle
+old = "l'ab." is not referenced. it is "ab." which should be referenced and the reference is "ablatif". L'  is the article (the French la or le -the- becomes l' before a vowel). There seems to be fithteen such occurences. And when it is only "ab." (elsewhere) it is properly referenced.
+new = "l'ab." is not referenced. it is "ab." which should be referenced and the reference is "ablatif". L'  is the article (the French la or le -the- becomes l' before a vowel). There seems to be fithteen such occurences. And when it is only "ab." (elsewhere) it is properly referenced.
+comment = reference 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25097: 02/02/2022 dict=BUR, L= 16777, hw=zAs, user=Caujolle
+old = the problem is that zAstra (an important word) which should be under that headword -if not having its proper headword-, is not there, but under zAsa (this is absurd). (a mistake in the printing of the book). I would suggest to put at least zAsayAmi as a head word to correct the problem. (I could find zAstra only after looking to the scan and thought it was maybe under zAsa, (even if not logical regarding the meaning of zAsa)).
+new = the problem is that zAstra (an important word) which should be under that headword -if not having its proper headword-, is not there, but under zAsa (this is absurd). (a mistake in the printing of the book). I would suggest to put at least zAsayAmi as a head word to correct the problem.
+comment = words not accessible
+status =  04/28/2022 Problem not solved.
+------------------------------------------------------------------------
+
+Case 25096: 01/30/2022 dict=BUR, L= 12994, hw=madhura, user=Caujolle
+old = mœlle
+new = moelle
+comment = There are just a few words using oe and not œ in French, here, mainly only this one (in 21 entries) and its derivative "moelleux" (at least 2 occurences (i mean in two entries)) are used and need to be corrected. Also, "cœrciteur" (at antaryāmin) and "cœrcition" (at yama and yāma ). I noticed also gœnsis instead of goensis (Latin) on the paper book . Also at kanyā it should be aloe and aloes. LB There are just a few words using oe and not œ in French, here, mainly only this one (in 21 entries) and its derivative "moelleux" (at least 2 occurences (i mean in two entries)) are used and need to be corrected. Also, "cœrciteur" (at antaryāmin) and "cœrcition" (at yama and yāma ). I noticed also gœnsis instead of goensis (Latin) on the paper book . Also at kanyā it should be aloe and aloes. I noticed also on the way that the abbreviation "ang." is not referenced, it stand for "anglais" (it appears also as "angl." and there it is referenced but as "Anglais"; this should be corrected as "anglais" ("Anglais" mean "English man") ) OK, LB At karman typos : LB L'Acte. en métapaysique; > L'Acte, en métaphysique; (2 corrections : coma and h) LB  l'Acte producteur des choses, l'acte suprême de Brahmā. (coma and not dot) LB L'Acte symbolique du culte, l'Œuvre sainte;  LB la pratique des cérémonies pœuses [opposée a la religion spéculative]. > pieuses instead of  pœuses.  LB -  siége, no it is siège (there is at least 42 occurrences of this mistake) LB -  at kḷp pœme instead of poème LB -  at gavākṣa œil-debœuf instead of œil-de-bœuf LB -  under bala, LB balakṣa m. (kṣai) blaucheur; pâleur. LB It should be blancheur, not blaucheur LB Moëlle also is present and it is written so in the paper book, but it is a mistake, it should be in fact « moelle » (moëlle has been used long ago but) all the other occurrences of the word in the dictionary write « moelle », so better to keep moelle, to be consistent. LB -  Under  bhaginī : sœuren-la-Loi should be « sœur-en-la-Loi » LB -  Under śaṇa "anglo sax." Is not referenced, it should it stand for « anglo-saxon » LB -  Under saubhadra : sœbhadreya is a mistake, it is saubhadreya (on the paper book the letter has been put up side down leading to look like œ (as in this disctionary they use an ao ligature for au (and this ao ligature whih doesn’t exist in the French i think the just put the œ one up side down for creating it ; but here they forgot to reverse it) LB So now i checked all the œ of the dictionary (and more on the way) ; for the Latin i checked the paper dictionary but i cannot garantee that the dictionary is not mistaken . Regards LB 
+status =  04/28/2022 corrected
+------------------------------------------------------------------------
+
+Case 25092: 01/26/2022 dict=BUR, L= 1435, hw=artha, user=Caujolle
+old = advt.
+new = advt.
+comment = reference, advt. stand for "adverbialement"
+status =  corrected 04/28/2022
+------------------------------------------------------------------------
+
+Case 25091: 01/26/2022 dict=BUR, L= 15840, hw=vizeSa , user=Happy New Year 2022 to you also, regards, Caujolle.
+old = A l'i. viceṣeṇa viceṣeṇa 
+new = A l'i. vizeṣeṇa
+comment = Typo; but also the i. is not referenced (probably because of the " l' ") it should be. i. stand here for "instrumental" (this should be corrected in many places of the dictionary). Moreover the A should be À (wherever the A is begining a sentence, it is and should be À; in the past the accents where not always put on capitals for economical or practical reasons but now it is no more the case so it looks strange that the A which are and should be À are not having their accent.
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
 
 Case 24974: 08/08/2021 dict=BUR, L= 7649, hw=tatas , user=Caujolle
 old = talas marque l'apodose des phrases commençant par yadi si.

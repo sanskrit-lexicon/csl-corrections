@@ -1,6 +1,94 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 20, 2021
-462 correction records, with 0 PENDING
+As of April 27, 2022
+475 correction records, with 0 PENDING
+
+Case 25148: 04/26/2022 dict=AP90, L= 22618, hw=madhya, user=geymonat
+old = madhyetagaraṃ inside the city
+new = madhyenagaraṃ inside the city
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25143: 04/15/2022 dict=ap90, L=, hw=Put, user=ejf
+old = word generally used in composition with kṛ. and imitative of the sound made by <!!!>blowing into iliquids<!!!> 
+new = blowing into liquids (print change)
+comment = 
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25142: 04/14/2022 dict=ap90, L=, hw=uttara, user=ejf
+old = ttareadhare daṃtāḥ Śat. Br. ; avanatottarakāyaṃ R. 9. 60 ; P. II. 2. 1.  3 (a)  <!!!>Laterlatter,<!!!> following, subsequent (opp. pūrva); pūrvameghaḥ, uttarameghaḥ, °bhīmāṃsā;
+new = Later-latter,
+comment = 
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25135: 04/04/2022 dict=ap90, L=, hw=prakopaH, user=ejf
+old = prakopāya na śāṃtaye Pt. 1. 389.   3 Insurrection, rebellion, mutiny; as in <!!!>praṃkṛti°<!!!> popular disturbance.  4 An attack.  5 (Medic.) Excess, superabundance.
+new = prakṛti° 
+comment = 
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25127: 03/21/2022 dict=AP90, L= 15565, hw=दूर्वा, user=sanaatani
+old = ---
+new = The English equivalent is GRAMA-grass. You may want to include it. Please ensure before including. Thanks
+comment = ---
+status =  no change 04/27/2022
+------------------------------------------------------------------------
+
+Case 25126: 03/21/2022 dict=AP90, L= 15240, hw=दर्भः, user=sanaatani
+old = ---
+new = The English equivalent is HALFA grass. You may think of including this info. Please ensure and then include. Thanks
+comment = None
+status =  no change 04/27/2022
+------------------------------------------------------------------------
+
+Case 25105: 02/17/2022 dict=AP90, L= 23839, hw=युतिः , user=chandrasekharanr
+old = युक्तिन्
+new = यु-क्तिन्
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25102: 02/06/2022 dict=ap90, L=, hw=kawaH, user=ejf
+old = [Printed book page 0368-c]  कटः  1 A straw mat; Ms. 2. 204.   2 The hip.  3 <!!!>Hipand loins<!!!>; the hollow above the hips.  4 The temples of an elephant; कंडूयमानेन कटं
+new = Hip and loins
+comment = 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25089: 01/25/2022 dict=AP90, L=2679, hw=अपास् , user=chandrasekharanr
+old = अपास् [अप्-अस्]
+new = अपास् [अप-अस्]
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25086: 01/22/2022 dict=AP90, L= 5669  , hw=अह्, user=vanillapapa
+old = आत्य
+new = आत्थ
+comment = Typo page 0217-b
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25085: 01/20/2022 dict=ap90, L=, hw=tAvat, user=ejf
+old = tAvat  [Printed book page 0537-a]  tAvat  a. (Correlative of <!!!>yAvatM<!!!>  q. v.) 1 So much, that much, so many; te tu yAvaMta evAjO tAvAMSca dadfSe sa
+new = yAvat   ( dot over t a print smudge)
+comment = 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25080: 01/18/2022 dict=ap90, L=, hw=dur, user=ejf
+old = or narrow passage through a wood or over a stream, mountain 
+new = remove ab markup on pass.
+comment = 
+status =  corrected 04/27/20
+------------------------------------------------------------------------
+
+Case 25079: 01/18/2022 dict=ap90, L=, hw=raB, user=ejf
+old = raB  [Printed book page 0904-b]  raB  1 A. (raBate, rabDa; caus.   <!!!>raMBayatite<!!!>; desid. ripsate) 1 To begin.  2 To clasp, embrace.  3 To long for, be eager.
+new = raMBayati-te
+comment = 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
 
 Case 25025: 11/09/2021 dict=ap90, L=, hw=kUpaH, user=SergeA
 old = well.  2 A flask, bottle.  3 The navel.  Comp. — अंकः, अंगः  horripilation. <!!!>— कच्छपः, मंडूकः, की<!!!> (lit.) a tortoise or frog in a well; (fig.) an inexperienced person, one who

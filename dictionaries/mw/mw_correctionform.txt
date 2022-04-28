@@ -1,6 +1,422 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 20, 2021
-1640 correction records, with 0 PENDING
+As of April 27, 2022
+1702 correction records, with 0 PENDING
+
+Case 25147: 04/23/2022 dict=mw, L=, hw=haraRa, user=ejf
+old = bali-haraṇī darvī, ‘a ladle containing an oblation’), ĀśvGṛ.   [ID=260758]      <!!!>taking away. removing<!!!> (e.g. rajo-h° ‘removing dust’), Kauś.   [ID=260759]    haraṇa   m. ‘taker’, a
+new = taking away, removing
+comment = 
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25145: 04/20/2022 dict=MW, L=211813, hw=śata, user=
+old = pañca-śatā, rathān
+new = pañca-śatān rathān
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25144: 04/16/2022 dict=mw, L=, hw=samuddiSya, user=ejf
+old = (with acc.) with reference or regard to, on account or in behalf or i<!!!>n honour of. at,<!!!> against, towards, to, MBh. ; Kāv.  
+new = n honour of, at, 
+comment = 
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25141: 04/12/2022 dict=MW, L= 139778, hw=prātar, user=
+old = prātar
+new = prātár
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25140: 04/10/2022 dict=mw, L=, hw=rakzaka, user=ejf
+old = (H2)  [Printed book page 859,3]  rakṣaka   mf(ikā)n. = <!!!>rakṣa1<!!!> Kathās. ; Pañcat. ; Hit.  (cf. aṅga-, go-, dhana-r° 
+new = <hom>1</hom> rakza
+comment = 
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25139: 04/10/2022 dict=MW, L= 85178, hw=tiryañc, user=
+old =  tiras + añ
+new =  tiras + añc
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25137: 04/10/2022 dict=mw, L=, hw=badaksAna, user=ejf
+old = (H1)  [Printed book page 719,3]  badaksāna   the country <!!!>Bādakṣān, Bhpr.  (v.l. bad°).<!!!>   [ID=142419]      ▲ baḍā bałā baḍāha baḍiśa ..baḍiśayuta baṇij baṇḍa
+new = Bādakṣān, Bhpr.  (v.l. bād°).
+comment = 
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25134: 04/03/2022 dict=mw, L=, hw=atyantaSas, user=ejf
+old = (H3)  [Printed book page 1310,1]  aty-antaśas   ind. in an exaggerated <!!!>manner, exeessively,<!!!> Baudh.   [ID=3426.1]      ▲ atyanta (atyantam) (atyantāya) ..atyantakopana
+new = exeessively -> excessively
+comment = 
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25129: 03/27/2022 dict=MW, L= 233555, hw=samantAt, user=Caujolle
+old = ‘on all sides, around’, ‘or, wholly, completely’ ; there is three such occurences (that is, also under samantam and samantatas)
+new = ‘on all sides, around’, or ‘wholly, completely’
+status =  Corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25128: 03/24/2022 dict=MW, L= 80472, hw=Jñānâjñāna-kr̥ita, user=lvl.101
+old = ज्ञानाझ्ञानकृत
+new = ज्ञानाज्ञानकृत
+status =  Cannot find error. 04/26/2022
+------------------------------------------------------------------------
+
+Case 25118: 03/12/2022 dict=mw, L=, hw=taTA, user=ejf
+old = for thus (it has been said), for instance, Ragh. ; Śak.  
+new = °TEva exactly so, in like manner  [ remove 'ta']. Several similar changes
+comment = 
+status =  error not found 04/26/2022
+------------------------------------------------------------------------
+
+Case 25117: 03/06/2022 dict=MW, L= 59553, hw=kSipra, user=chandan.mazumdar
+old = ID=59553 is a part of reference in ID=59552, and not a separate entry.
+new = ID=59552 and ID=59553 are likely to be coupled together
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25116: 03/04/2022 dict=MW, L= 184615, hw=vac, user=v.g.000002
+old = with, double acc.
+new = with double acc.
+comment = extra wrong comma
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25115: 03/04/2022 dict=MW, L= 184615, hw=vac, user=Vladimir Grekov, v.g.000002
+old = (nom. L.  also loc.)
+new = (nom., L. also loc.)
+comment = Coma missing; which changes the sense.
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25114: 02/27/2022 dict=mw, L=, hw=upahataka, user=ejf
+old = (H2)  [Printed book page 211,3]  upahataka   mfn. <!!!>ill-rated,<!!!> unfortunate, unlucky, L.   [ID=36457]      ▲ upasvāvat upasvid .upasveda
+new = ill-fated, 
+comment = 
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25113: 02/26/2022 dict=mw, L=, hw=svArTa, user=ejf
+old = (its) own inherent or true meaning, hav° a natural or literal meaning, hav° <!!!>a similar m°<!!!> (= sārtha), pleonastic, MW.   [ID=258413]  (H3C)  [Printed book page 1277,3]
+new = a similar m°   tooltip = meaning, not merit
+comment = 
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25112: 02/26/2022 dict=mw, L=, hw=jana, user=ejf
+old = [ID=76736]    jana   m. (g. vṛṣādi) creature, living being, man, person, race (<!!!>pañca janās, ‘the five races’ = p kṛṣṭayas,<!!!> RV. iii, viii ff. ; MBh. iii, 14160), people, subjects (the sg. used
+new = pañca janās, ‘the five races’ = p* kṛṣṭayas,  Degree sign (pañca)
+comment = 
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25111: 02/26/2022 dict=mw, L=, hw=saMhatatva, user=ejf
+old = book page 1122,3]  saṃ-hata—tva   n. id., Pañcat.  (v.l.)  [ID=227382]      <!!!>complexity. compactness,<!!!> close combination, W.   [ID=227383]      ▲ saṃhan .saṃha ..saṃhatala
+new = complexity, compactness, 
+comment = 
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25110: 02/26/2022 dict=mw, L=, hw=kIrtita, user=ejf
+old = book page 285,2]  kīrtita   mfn. said, mentioned, asserted  [ID=50830]      <!!!>celebrated known, notorious.<!!!>  [ID=50831]      ▲ ..kīrtiyuta ..kīrtiratha ..kīrtirāja ..kīrtirāta
+new = celebrated; known, notorious.
+comment = 
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25109: 02/24/2022 dict=MW, L= 122999, hw=पार्श्व, user=zaaf2
+old = अयः, on both sides
+new = अयोः, on both sides
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25108: 02/23/2022 dict=MW, L= 54148, hw=kṛ, user=Vladimir Grekov, v.g.000002
+old = Caus. ... (double acc. instr. and acc. [see, Pāṇ. i, 4, 53]
+new = Caus. ... (double acc., instr. & acc. [see, Pāṇ. i, 4, 53]
+comment = The comma omitted, which changes the sense.
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25107: 02/23/2022 dict=MW, L= 54148, hw=kṛ, user=Vladimir Grekov, v.g.000002
+old = śirasā-√kṛ, to place on one's the head
+new = śirasā-√kṛ, to place on the head
+comment = Added "one's", and the sense is lost.
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25106: 02/18/2022 dict=mw, L=, hw=Dfta, user=ejf
+old = (H2)  [Printed book page 519,2]  dhṛta   mfn. held, borne, <!!!>maintained, supported kept,<!!!> possessed  [ID=101818]      used, practised, observed, RV.  
+new = maintained, supported, kept, 
+comment = 
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25104: 02/16/2022 dict=MW, L= 222870, hw=śrī, user=Vladimir Grekov, v.g.000002
+old = Śri-Durgā
+new = Śrī-Durgā
+comment = short i instead of the long ī
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25103: 02/15/2022 dict=MW, L= , hw=narayana, user=
+old = narayana
+new = 
+status =  insufficient information.  04/26/2022
+------------------------------------------------------------------------
+
+Case 25101: 02/06/2022 dict=MW, L= 186282, hw=vapaṇa, user=christiane
+old = an unfortunate glitch in the scan of the respective page of MWW. When looking at the scanned page one realises that the entry should actually read "vapana", the "n" unfortunately however is almost exactly above the "Ś" from "ŚBr" (Śatapathabrāhmaṇa) thus rendering the lemma to vapaṇa instead of vapana.
+new = Should not be a separate entry in the first place but added to "vapana"
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25100: 02/05/2022 dict=MW, L= 108127, hw=nigraha, user=geymonat
+old = vadhanigt°
+new = vadhanigr°
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25099: 02/03/2022 dict=MW, L= 204114.1, hw=vṛka, user=
+old = Lith. vílas
+new = Lith. vìlkas (but correct is Lith. vil̃kas)
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25093: 01/28/2022 dict=MW, L= 19416, hw=aś, user=Vladimir Grekov, v.g.000002
+old = perf. ā́sa
+new = perf. ā́śa
+comment = s instead of ś
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25090: 01/25/2022 dict=MW, L= 185176, hw=vaṭa, user=Owen
+old = Indian fig. tree
+new = Indian fig tree
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25088: 01/25/2022 dict=mw, L=, hw=avaman, user=ejf
+old = fut. -maMsyati, MBh. iv, 444 )  to despise, treat contemptuously, MBh.  
+new = to repudiate, refuse  [comma]
+comment = 
+status =  corrected 04/26/2022
+------------------------------------------------------------------------
+
+Case 25087: 01/24/2022 dict=MW, L= 213009, hw=śamī, user=Vladimir Grekov, v.g.000002
+old = vāgnji
+new = vāguji
+comment = n insted of u
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25084: 01/20/2022 dict=mw, L=, hw=kulin, user=ejf
+old = g. balAdi  [ID=53070]  (H2B)  [Printed book page 295,3]  kulinI   f. the plant <!!!>Impatiens balsamina,<!!!> L.   [ID=53071]  ←  (H1)  [Printed book page 296,1] :  kulin b   See kula.
+new = <bot>Impatiens balsamina</bot> add bot markup
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25083: 01/20/2022 dict=mw, L=, hw=Sulka, user=ejf
+old = RV.   [ID=219861]      the prize of a contest, MBh.   [ID=219862]      <!!!>toil, tax, duty,<!!!> customs (esp. money levied at ferries, passes, and roads), Gaut. ; Āpast. ;
+new = toll, tax, duty,
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25082: 01/20/2022 dict=mw, L=, hw=kzaya, user=ejf
+old = page 1325,3]    the accent is on the last syllable in the sense ‘destruction’, <!!!>accord, to, Pāṇ. iii, 3, 56<!!!> and vi, 1, 63.  [ID=59377.1]    [Printed book page 328,1]    fall (as of
+new = accord. to Pāṇ. iii, 3, 56 
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25081: 01/20/2022 dict=mw, L=, hw=muktahasta, user=ejf
+old = (H3)  [Printed book page 821,1]  mukta—hasta   mf(A)n. <!!!>open. handed<!!!>, liberal, Mn. ; Hit.   [ID=165138]      loosed, let go, MW.   [ID=165139]
+new = open-handed
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25078: 01/16/2022 dict=mw, L=, hw=vihIna, user=ejf
+old = absent, R. ; VarBṛS.   [ID=203180]      destitute or deprived of, free from <!!!>(instr. abl., or comp.),<!!!> MBh. ; Kāv.  
+new = (instr., abl., or comp.) [comma after instr.]
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25076: 01/15/2022 dict=mw, L=, hw=prastu, user=ejf
+old = to sing, chant (in general, esp. said of the Prastotṛ), Br. ; Lāṭy. ; ChUp. ; <!!!>to come to speak of introduce as a topic<!!!>, Prab. ; Hit. ; BhP. ; to undertake, commence, begin, Mālav. ; Dhūrtas. ;
+new = to come to speak of,  introduce as a topic [comma]
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25075: 01/14/2022 dict=mw, L= 170246, hw=yadvA, user=ejf
+old = yantave ...
+new = yantave is a separate entry 
+comment = markup
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25074: 01/14/2022 dict=mw, L=, hw=sahas, user=ejf
+old = [ID=240011]    sahas   n. strength, power, force, victory (sahasas putra or <!!!>°sah sUnu<!!!> m. ‘son of strength’, N. of Agni in RV. ; sahasA ind. See below; sahoBiH ind.
+new = °saH sUnu   (not 'h' but visarga
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25073: 01/14/2022 dict=mw, L=, hw=rasa, user=ejf
+old = [Printed book page 869,2]  rasa   m. (ifc. f(A). ) the sap or juice of plants, <!!!>Juice of fruit<!!!>, any liquid or fluid, the best or finest or prime part of anything, essence,
+new = juice of fruit
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25072: 01/12/2022 dict=MW, L= 124041, hw=pitṛdevatya, user=Vladimir Grekov, v.g.000002
+old = pitṛ́—devatyá n. = daivatya
+new = pitṛ—devatyá n. = -daivatya LB or pitṛ—devatyá n. = pitṛ́-daivatya
+comment = 1) wrong accentuation (in detail see my previous message); LB 2) defis before daivatya is omitted; this causes wrong reference.
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25071: 01/12/2022 dict=MW, L= 124040, hw=pitṛdevatya, user=Vladimir Grekov
+old = pitṛ́—devatyá mfn. = prec.
+new = pitṛ—devatyà mfn. = pitṛ́—devata
+comment = 1) ṛ should not be stressed, the common rule is that only 1 syllable in a word may be accented; LB 2) devatya bears not acute, but grave acent in the originale; LB 3) because this realization of the Lexicon is broken, one can't see what is "prec."; this "prec." must be specified explicitly (as it takes place, for example, with the "next" in the ("next") "pitṛdaivata" subarticle). (Such kind of "prec."'s are numerous in this machine lexicon.)
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25070: 01/12/2022 dict=mw, L= 15910, hw=arTadUzaRa, user=ejf
+old = one e own
+new = one's own
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25067: 01/09/2022 dict=MW, L= 41336.3, hw=ka, user=Vladimir Grekov, v.g.000002
+old = Examples of cid with the interrogative are common vā and api are not so common
+new = Examples of cid with the interrogative are common; vā and api are not so common
+comment = ";" is dropped. Generally, in this article and others such omissions are quite common throughout the Lexicon (not in the paper book).
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25066: 01/08/2022 dict=MW, L= 55577, hw=kḷpta, user=Vladimir Grekov, v.g.000002
+old = fixed, settled, prescribed, Mn. iii, 69  [ID=55577] LB xi, 27 [ID=55578]
+new = fixed, settled, prescribed, Mn. iii, 69; xi, 27  [ID=55577]
+comment = These 2 items must be merged.
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25065: 01/08/2022 dict=MW, L= 189096, hw=vas, user=Vladimir Grekov, v.g.000002
+old = ‘t° keep aloof’
+new = ‘to keep aloof’
+comment = bad scan
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25064: 01/07/2022 dict=MW, L= 35739, hw=upavas, user=Vladimir Grekov, v.g.000002
+old = ŚBr. i, 6 ; LB  xi ; KātyŚr. ; ŚāṅkhGṛ. ; Mn.  &c.;
+new = ŚBr. i, 6;  xi; KātyŚr.; ŚāṅkhGṛ.; Mn. &c.;
+comment = these 2 rows must be merged and form 1 row
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25062: 01/04/2022 dict=MW, L=127296 , hw=pusta, user=chandan.mazumdar
+old = Hyperlink to reference [Kathā] not provided
+new = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25060: 01/03/2022 dict=MW, L= 227603 etc., hw=sa, user=Vladimir Grekov, v.g.000002
+old = sa a (to be similarly prefixed to the following) :
+new = Delete the item or fill with content
+comment = Only shallow remained of  the paper book's content. Such are 17 items under this headword.
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25059: 01/03/2022 dict=MW, L= 20166.6, hw=aṣāḍha, user=Vladimir Grekov, v.g.000002
+old = sg. or pl. N. of two lunar mansions (distinguished as pinvā and uttara,
+new = (ā́ or ā́s), f. sg. or pl. N. of two lunar mansions (distinguished as pinvā and uttarā,
+comment = 1) dropped beginning of the item; 2) in 'uttarā' not recognized macron.
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25058: 01/03/2022 dict=MW, L= 20166, hw=aṣāḍha, user=Vladimir Grekov, v.g.000002
+old = á-ṣālha
+new = á-ṣāḷha
+comment = unrecognized dot under the l
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25057: 01/01/2022 dict=MW, L= 54858, hw=kṛp, user=Vladimir Grekov, v.g.000002
+old = RV. ; AV. v, 19, 3 : cl. 10. P. kṛpayati
+new = evidently, must be divided to 2 items
+comment = 
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25056: 12/29/2021 dict=MW, L=  230870, hw=sadyaskrī, user=Dorji Wangchuk
+old = sadyah-k°
+new = sadyaḥ-k°
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25055: 12/29/2021 dict=MW, L=244748 , hw=sidhra , user=chandan.mazumdar
+old = sidhma1
+new = 1. sidhma  LB (as per page 1217, col. 1 of MW)
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25054: 12/27/2021 dict=mw, L= 210308, hw=vyUha, user=ejf
+old = A-saMhata-
+new = a-saMhata-
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25053: 12/27/2021 dict=mw, L= 142087, hw=Palgu, user=ejf
+old = a falsehood lie, 
+new = a falsehood, lie, 
+comment = Typo - missing comma
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25052: 12/27/2021 dict=mw, L= 180721, hw=lagna, user=ejf
+old = kzitije, lagnam, 
+new = kzitije lagnam, 
+comment = Typo  remove comma
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25051: 12/25/2021 dict=MW, L= 229504.1, hw=sat, user=Vladimir Grekov, v.g.000002
+old = Lith. sās, ésas; Slav. sy, sašta.
+new = Lith. są̄s, ė́sąs; Slav. sy, sąšta.
+comment = Bad and not corrected scan; the original is dubious after "Slav" (must be: Slav.  sąštĭ or sąštŭ)
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25050: 12/25/2021 dict=MW, L= 229504.1, hw=sat, user=Vladimir Grekov, v.g.000002
+old = pra-sens
+new = præ-sens
+comment = Bad and not corrected scan
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25049: 12/24/2021 dict=mw, L= 175486, hw=rasa, user=ejf
+old = Juice of fruit
+new = juice of fruit
+status =  corrected 04/26/20
+------------------------------------------------------------------------
+
+Case 25046: 12/21/2021 dict=mw, L= 5144, hw=anaBiYa, user=ejf
+old = unacquainted with, ignorant Comm. on 
+new = unacquainted with, ignorant, Comm. on 
+comment = Typo (missing comma)
+status =  corrected 04/26/20
+------------------------------------------------------------------------
 
 Case 25045: 12/17/2021 dict=MW, L= 227256, hw=saṃsthita, user=Vladimir Grekov, v.g.000002
 old = directed to wards

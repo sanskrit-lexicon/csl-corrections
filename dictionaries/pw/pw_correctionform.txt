@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 20, 2021
-11830 correction records, with 0 PENDING
+As of April 27, 2022
+11834 correction records, with 0 PENDING
+
+Case 25132: 03/28/2022 dict=PW, L= 70750, hw=praṇava, user=frank.ziesing
+old = — 1) die heilige Silbe aim
+new = — 1) die heilige Silbe om
+comment = Typo correct "om", wrong "aim"
+status =  No change made 04/27/2022 issue 885 in csl-orig
+------------------------------------------------------------------------
+
+Case 25069: 01/11/2022 dict=PW, L= 43318, hw=jñā, user=frank.ziesing
+old = Mit vi …… LB — 1) …… LB Etwas in Etwas (Loc.) erkennen , — sehen , wissen , 
+new = Etwas in Etwas (Loc.) [i]erkennen , — sehen , wissen ,[/i] 
+comment = Typo: the words "erkennen, — sehen , wissen" should be in italics
+status =  corrected 04/27/20
+------------------------------------------------------------------------
+
+Case 25068: 01/11/2022 dict=PW, L= 113816, hw=śūnya, user=frank.ziesing
+old = — b) Nicht , Abwesenheit von Allem , das Nichtdasein von (im Comp. vorangehend) ; bei den Buddhisten die Zeichen Leere.
+new = — b) Nichts , Abwesenheit von Allem , das Nichtdasein von (im Comp. vorangehend) ; bei den Buddhisten die Zeichen Leere.
+comment = Typo; final "s" missing in "Nichts"
+status =  corrected 04/27/20
+------------------------------------------------------------------------
+
+Case 25063: 01/05/2022 dict=PW, L= 60063, hw=niṣedha, user=frank.ziesing
+old = — 3) das Verneinen , Wiedersprechen. vivāda v.l.
+new = — 3) das Verneinen , Widersprechen. vivāda v.l.
+comment = Typo: in "Widersprechen" there was a superfluous "e"
+status =  corrected 04/27/20
+------------------------------------------------------------------------
 
 Case 24977: 08/18/2021 dict=PW, L=146065, hw=bṛhacchandenduśekhara, user=Sharon Ben-dor LB sharonbendor
 old = The typo is in the printed book - first 'n' in bṛhacchandenduśekhara

@@ -1,6 +1,53 @@
 Sanskrit Lexicon Correction Form History for STC
-As of December 20, 2021
-97 correction records, with 0 PENDING
+As of April 27, 2022
+104 correction records, with 0 PENDING
+
+Case 25138: 04/10/2022 dict=STC, L= 9894, hw=taraṅga, user=Caujolle
+old = vague, onde ; ondoiement, mouvement. ondoyant, sautillant , 
+new = vague, onde ; ondoiement, mouvement ondoyant, sautillant, 
+comment = Typo, (an extra dot and an extra blank)
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25130: 03/27/2022 dict=STC, L=24003, hw=stu, user=Caujolle
+old = pass. être célébré ;
+new = the abbreviation "pass." is not referenced. "pass" is for "passif"
+comment = reference; this frequent abbreviation has not been referenced in the whole dictionary
+status =  Corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25125: 03/19/2022 dict=STC, L= 14178, hw=pracaNDa, user=Caujolle
+old = et un are terribles (dieu de l'amour). 
+new = et un arc terribles (dieu de l'amour). 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25123: 03/14/2022 dict=STC, L= 12925, hw=pari, user=Caujolle
+old = See that the "rar." is here not referenced (seemingly because the coma which follow the dot). 
+new = the reference is "rarement" (and it is already used for the other "rar.")
+comment = reference
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25122: 03/14/2022 dict=STC, L=11560, hw=niH, user=Caujolle
+old = niḥ préf.; 
+new = préf. is not referenced; it should; the reference is "préfixe" LB There are 16 such "préf." to reference in the dict. LB Regards
+comment = reference
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25095: 01/30/2022 dict=STC, L= 21330, hw=saMtul, user=Caujolle
+old = mettre en balance (fig..  
+new = mettre en balance (fig.).  
+comment = a parenthesis is missing
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
+
+Case 25094: 01/29/2022 dict=STC, L= 20672, hw=sa, user=Caujolle
+old = ou muni de. 
+new = ou muni de, 
+status =  corrected 04/27/2022
+------------------------------------------------------------------------
 
 Case 25029: 11/12/2021 dict=STC, L= 5765, hw=āsaṅga, user=Caujolle, Regards
 old = "(fig.)" is not referenced

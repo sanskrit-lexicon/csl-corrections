@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for SCH
-As of January 22, 2020
-74 correction records, with 0 PENDING
+As of April 27, 2022
+75 correction records, with 0 PENDING
+
+Case 25077: 01/15/2022 dict=SCH, L= ID=8336, hw=udgrāhaṇikā, user=owen171190
+old = 159,3
+new = 158,3
+comment = Reference page was wrongly indicated by Schmidt.
+status =  corrected 04/27/20
+------------------------------------------------------------------------
 
 Case 24575: 01/21/2020 dict=sch, L= 16401, hw=nayavartMan, user=ejf
 old = nayavartMan
