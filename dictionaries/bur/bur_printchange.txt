@@ -388,3 +388,10 @@ Source: Odile Caujolle
 * serum -> sérum (3) 
 * gœnsis -> goensis (2)
 * Alœ  -> alœ  (5)
+-----------------------------------------------------------------------
+05-12-2022
+Ref: https://github.com/sanskrit-lexicon/BUR/issues/3
+https://github.com/sanskrit-lexicon/BUR/blob/master/issue3/odile.txt
+Source: Odile Caujolle
+L code : Headword : Old  : New : Comment
+16048  : vfzAkapi : Gærî : Gaorî : See comment in odile.txt
