@@ -392,6 +392,7 @@ Source: Odile Caujolle
 05-12-2022
 Ref: https://github.com/sanskrit-lexicon/BUR/issues/3
 https://github.com/sanskrit-lexicon/BUR/blob/master/issue3/odile.txt
-Source: Odile Caujolle
+Source: Odile Caujolle, user Andhrabharati
 L code : Headword : Old  : New : Comment
-16048  : vfzAkapi : Gærî : Gaorî : See comment in odile.txt
+16048  : vfzAkapi : Gærî : <s1 slp1="gOrI">Gaurī</s1> : 
+-----------------------------------------------------------------------
