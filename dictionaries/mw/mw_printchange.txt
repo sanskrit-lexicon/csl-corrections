@@ -1298,5 +1298,43 @@ Ref: https://github.com/sanskrit-lexicon/MWS/issues/121#issuecomment-1111307586
 User Andhrabharati
 L code : Headword : Old  : New : Comment
 84423  : tArukzAyaRi : <ls>VRJ.</ls> : <ls>VĀJ</ls> : vAjasaneyi saMhitA
+----------------------------------------------------------------------
+07-26-2022
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+User Andhrabharati. ejf.
+Changes in spelling of literary source abbreviations.
+See also change_1.txt in repository sanskrit-lexicon/mws at
+directory mwauthorities/ls/issue135.
+
+L code : Headword : Old  : New : Comment
+18326 : avasAna :  AAnukr. : AV.Anukr.
+242045 : sAMnatya :  AAnukr. : AV.Anukr.
+15443 : aruRaketubrAhmaRa :  AitrAnukr. : ĀtrAnukr.
+154884 : maRqavAwa :  Divyâs. : Divyâv.
+238764 : sarvaSakti :  Jam. : Jaim.
+35718 : upavad :  Kop. : Vop.
+4353.2 : aDirUQi :  Naith. : Naiṣ.
+31839 : utsaNgaka :   Nastar. : Hastar.
+159275 : maharjagat :  NādapUp. : NādabUp.
+93709 : duravaDAraRa :  Parvad. : Sarvad.
+196112 : vidAya :   Pañcav. : Pañcar.
+196516 : viDAtrI :   Pañcav. : Pañcar.
+204509 : vftti :   Pañcav. : Pañcar.
+96949 : dEhika :  PhP. : BhP.
+26802 : Alijana :  Prasamar. : Prasannar.
+113650 : paYcatiktaGfta :  Rasav. : Rasar.
+81501 : QAlin :   Rudraj. : Rudray.
+81520 : Qola :   Rudraj. : Rudray.
+185782 : vanacarya :  SaṃjUp. : SaṃnyUp.
+230828 : sadAhuta :  SāmarBr. : SāmavBr.
+199067.70 : virajaloka :  VB. : VP.
+132015 : pratyantadeSa :  Śāṅkh. : ŚāṅkhBr.
+133576 : pratIrADa :  Śāṅkh. : ŚāṅkhBr.
+19144.2 : avIraGnasTa :  Kāth. : Kath.
+113730.2 : paYcapadI :  Bañc. : Pañc.
+195690 : vidyA :  Manu : Manu.
+197343 : vinDya :  Manu : Manu.
+201542 : viSvAmitra :  Manu : Manu.
+109787.2 : nirmita :  Manu : Manu.
 -------------------------------------------------------
 
