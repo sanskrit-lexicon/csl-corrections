@@ -1355,5 +1355,28 @@ L code : Headword : Old  : New : Comment
 85284  : tilaSas : Mbh. : MBh. : literary source abbreviation
 149132 : Bavana  : Mbh. : MBh. : literary source abbreviation
 176591 : rAjarzi : Mbh. : MBh. : literary source abbreviation
--------------------------------------------------------
+----------------------------------------------------------------------
+08-04-2022
+user Andhrabharati
+L code : Headword : Old  : New : Comment
+204509 : vftti    : Pañcav. : Pañcat. : probable. cf. PWG dictionary
+   Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1197086090
+83755  : tARqin   : TaṇḍināmUp. : TāṇḍBr. 
+   Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1204935174
+94911  : dUre     : TśUp. :  ĪśUp.
+   Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1204952191
 
+-------------------------------------------------------
+08-04-2022
+user Andhrabharati
+REF: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1205011851L
+
+ code : Headword : Old  : New : Comment
+15785 : arjuneSvaratIrTa : <ls>ŚivaP. <ab>Rev.</ab></ls> : <ls>SkandaP. Rev.</ls>
+19685 : aSokeSvaratIrTa : same 
+19925.1 : aSvaparRI     : same
+20083 : aSvAvatI        : same
+21784 : ahalyeSvaratIrTa : same
+22849 : ANgiraseSvaratIrTa : same
+
+-------------------------------------------------------
