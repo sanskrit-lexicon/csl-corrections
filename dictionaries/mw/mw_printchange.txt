@@ -1393,3 +1393,18 @@ user Andhrabharati
   Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1206697427
 
 -------------------------------------------------------
+08-28-2022
+user Andhrabharati
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/137
+ code : Headword : Old  : New : Comment
+32084.1 : udaDinemi  : Ragh.) : Ragh. : remove parenthesis
+-------------------------------------------------------
+08-28-2022
+Jim Funderburk
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/137
+punctuation at end of quoted text placed AFTER the ending quote.
+‘some text,’ -> ‘some text’,
+‘some text;’ -> ‘some text’;
+‘some text.’ -> ‘some text’.
+There are many instances 
+-------------------------------------------------------
