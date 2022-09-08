@@ -3,10 +3,21 @@
     Mar 17, 2014
    Accepts some url parameters:
     dict  A dictionary identifier
+   Sep 7, 2022. Avoid xss security flaw with $_GET['dict']
 */
- $dict = $_GET['dict'];
- if (!$dict) {$dict = '?';}
-
+ $dict_default = '?';
+ $dict = $dict_default;
+ if (isset($_GET['dict'])) {
+  $dicta = $_GET['dict'];
+  // $payload = '"' . "><svG onLoad=prompt('xss')>";
+  // echo($payload); // this executes the javascript prompt
+  $dictb = preg_replace('|[^A-Za-z0-9]|','',$dicta);
+  if(strlen($dictb) > 8) {
+   $dictb = $dict;
+  }
+  $dict = $dictb;
+ } 
+ 
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "//www.w3.org/TR/html4/strict.dtd">
 <html>
