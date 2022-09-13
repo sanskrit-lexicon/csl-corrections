@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of September 12, 2022
-1151 correction records, with 2 PENDING
+As of September 13, 2022
+1151 correction records, with 0 PENDING
 
 Case 25265: 09/03/2022 dict=wil, L=, hw=vfti, user=ejf
 old = that of the Piper betel, which in many parts of India is surrounded and  <!!!>screened my<!!!> mats. 5 Hiding, secreting. E. वृ to choose, aff. क्तिन्.    [ID=36468]
 new = screened by
 comment = 
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25217: 07/09/2022 dict=WIL, L= https://www.sanskrit-lexicon.uni-koeln.de/scans/WILScan/2020/web/webtc2/index.php, hw= जन, user=longbamboo983
+Case 25217: 07/09/2022 dict=WIL, L= 15796, hw= जन, user=longbamboo983
 old = r. 4th cl. (जयते)
 new = r. 4th cl. (जायते)
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25120: 03/13/2022 dict=wil, L=, hw=aDIna, user=ejf
