@@ -25164,7 +25164,7 @@
 05/13/2022 23:33:38	PW	 16765	iti	1. iti Adv. [i]so , auf Ausgesprochenes oder Gedachtes hinweisend und am Ende oder Anfange stehend. In gebundener Rede bleibt es nicht selten dem Hörer oder Leser überlassen , das Wort richtig zu verbinden.[/i]	1. iti Adv. [i]so[/i] , auf Ausgesprochenes oder Gedachtes hinweisend und am Ende oder Anfange stehend. In gebundener Rede bleibt es nicht selten dem Hörer oder Leser überlassen , das Wort richtig zu verbinden.	Typo: a pretty long explanation which is not a translation is erroneously set in italics. The italics should end after "so", which is a translation.	frank.ziesing@web.de
 05/14/2022 23:45:43	PW	 124578	sārvabhauma	— b) [i]im Yoga für alle Geisteszustände geltend[/i]	— b) im Yoga [i]für alle Geisteszustände geltend[/i]	Typo: the words "im Yoga" should not be in italics, as they only qualify the following translation	frank.ziesing@web.de
 05/16/2022 17:10:43	MW	 91164.1	dah	degú	degù	wrong accent	Vladimir Grekov, v.g.000002@gmail.com: Corrected 09/12/2022
-05/17/2022 22:28:32	PWG	 	sthā			wird nicht gefunden	peter.meyer@ws-ag.ch
+05/17/2022 22:28:32	PWG	 	sthā			wird nicht gefunden	peter.meyer@ws-ag.ch: 09/12/2022 identify as bug in display. issue #873
 05/18/2022 10:28:13	STC	 16689	mānasa	mānasa- nt. n. 	2 mānasa- nt. n. 	Typo	Caujolle
 05/19/2022 03:05:04	MW	 ed	d a	a a	v v 	Typoe	 dsdc: bad error submission: 09/12/2022
 05/22/2022 07:33:41	BUR	 7690	tandravāya	orthogr.	'orthogr.' stands for 'orthographe'	reference missing	Caujolle
@@ -25259,7 +25259,7 @@
 08/24/2022 03:34:18	ap90		viSeza	U. 4.  parimalaviSezAn Pt. 1 : kadalIviSezAH Ku. 1. 36.   7 A different <!!!>or vari ous object,<!!!> various particulars (pl.); prAmAdastvAM tulayitumalaM yatra tEstErviSezEH Me.	or various object [remove space]		ejf
 08/24/2022 12:03:52	BUR	 14188	rudra	Les LB Rudras	Les 11 Rudras  LB  or Les onze Rudras	Typo	Caujolle
 08/27/2022 04:03:50	ap90		puMs		calI (puMScalI)  [cI -> lI]		ejf
-08/27/2022 14:20:24	PWG	 	vart	'Could not find headword vart in dictionary PWG'	activte/insert the entry for vart (which e.g. 'vRt' refers to)	missing entry	antonia.ruppel@lmu.de
+08/27/2022 14:20:24	PWG	 	vart	'Could not find headword vart in dictionary PWG'	activte/insert the entry for vart (which e.g. 'vRt' refers to)	missing entry	antonia.ruppel@lmu.de: 09/12/2022 identify as bug in display. issue #873
 08/30/2022 13:53:05	AP90	 918	adhas	अधस् — अक्षजः [अक्षात् इंद्रियाज्जायते इति अक्षजं प्रत्यक्षज्ञानं, तदधरं ग्राहकत्वाभावात् हीनं यत्य सः Tv.	towards the end should be yasya instead of yatya	Typo	czhao@sadbhuja.com
 09/01/2022 13:33:33	MW	26705 	ālabh	-lamohayati	-lambhayati	Typo	:Corrected 09/12/2022
 09/02/2022 18:17:14	SKD	 27096	माधवः 	मुधोरपत्यं	मधोरपत्यं	Typo	chandrasekharanr@gmail.com:Corrected 09/12/2022
