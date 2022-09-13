@@ -1,6 +1,67 @@
 Sanskrit Lexicon Correction Form History for BOR
-As of July 22, 2019
-7 correction records, with 0 PENDING
+As of September 12, 2022
+17 correction records, with 10 PENDING
+
+Case 25268: 09/03/2022 dict=BOR, L=17756, hw=priestless, user=
+old = wrong headword
+new = change the headword to "priestess"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25267: 09/03/2022 dict=BOR, L=11949, hw=ncubation, user=
+old = wrong headword
+new = change the headword to "incubation"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25266: 09/03/2022 dict=BOR, L=9697, hw=garner, user=
+old = definition at id 9697 does not belong to the "garner" headword but to the headword "garnet"
+new = add the headword "garnet" for id 9697
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25239: 07/28/2022 dict=BOR, L= 2458, hw=brahmin, user=
+old = (1) bāhmaṇaḥ
+new = (1) brāhmaṇaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25238: 07/28/2022 dict=BOR, L= 5, hw=abandonment, user=
+old = sannpāsaḥ.
+new = sannyāsaḥ.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25232: 07/18/2022 dict=BOR, L= 743, hw=angestor, user=
+old = angestor [Typo in the headword itself]
+new = ancestor
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25231: 07/17/2022 dict=BOR, L= 571, hw=all-knowing, user=
+old = sarvañjaḥ (ñjā, ñjaṃ)
+new = sarvajñaḥ (jñā, jñaṃ)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25230: 07/17/2022 dict=BOR, L= 1890, hw=belly, user=
+old = [This is not a typo] the entry for "Belly (subst.)" is missing, and some of it is inside the previous keyword (ID 1889) "Bellows".
+new = ?
+comment = Missing entry
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25218: 07/09/2022 dict=BOR, L= 19325, hw=ride, user=
+old = yudhde'dhirūḍhaḥ makaraṃ mahattaram
+new = yuddhe'dhirūḍhaḥ makaraṃ mahattaram
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25197: 06/18/2022 dict=BOR, L= , hw=About, user=csaligram
+old = मवत्योः
+new = भवत्योः
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23519: 08/29/2016 dict=BOR, L= 8401, hw=fmiliar, user=bikelis
 old = fmiliar

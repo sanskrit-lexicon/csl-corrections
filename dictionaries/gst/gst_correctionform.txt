@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for GST
-As of July 22, 2019
-7 correction records, with 0 PENDING
+As of September 12, 2022
+8 correction records, with 1 PENDING
+
+Case 25228: 07/16/2022 dict=GST, L= , hw=no headword, user=frank.ziesing
+old = 
+new = 
+comment = There seems to be a bug in the list view of the Goldstücker dictionary. It finds only words which are in the list on the left.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23838: 09/12/2017 dict=GST, L=4791, hw=aparAhletana, user=dhaval
 old = aparAhletana

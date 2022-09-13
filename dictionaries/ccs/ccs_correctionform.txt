@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of December 20, 2021
-2260 correction records, with 0 PENDING
+As of September 12, 2022
+2263 correction records, with 3 PENDING
+
+Case 25202: 06/28/2022 dict=CCS, L= 20715, hw=lakṣaṇa, user=frank.ziesing
+old = Andeutung. d. i. indirecte bezeichnung (rh.). n. Merkmal, Zeichen, Attribut, Glücks- o. Vorzugsmerkmal, Geschlechtsmerkmal d. i. -teile); Bezeichnung, Definition, Be- nennung, Art, Spezies, Ziel, Richthung, Vernlassung, Gelegenheit.
+new = Andeutung. d. i. indirecte Bezeichnung (rh.). n. Merkmal, Zeichen, Attribut, Glücks- o. Vorzugsmerkmal, Geschlechtsmerkmal [i](d. i. [/i]-teile); Bezeichnung, Definition, Benennung, Art, Spezies, Ziel, Richtung, Veranlassung, Gelegenheit.
+comment = Lots of typos here! LB 1) should be capital "B" in "Bezeichnung" LB 2) in " d. i. -teile)" the opening bracket is missing, "-teile" should not be in italics LB 3) "Be- nennung" is hyphenation for space reasons, so it should be rendered as "Benennung" LB 4) "Richtung" without an "h" after the "t" LB 5) "a" missing in "Veranlassung"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25171: 05/24/2022 dict=CCS, L= 13458, hw=parigraha, user=Frank.Ziesing
+old = parigraha m. das Umfassen, Einfassung, das Annehmen, Ergreifen; Begünstigung, Gnabe,
+new = parigraha m. das Umfassen, Einfassung, das Annehmen, Ergreifen; Begünstigung, Gnade,
+comment = Typo: should be "Gnade" and not "Gnabe"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25150: 04/30/2022 dict=CCS, L= 2208, hw=aśuci, user=frank.ziesing
+old = °bhakṣaṇa n. das Essen von Uneinem.
+new = °bhakṣaṇa n. das Essen von Unreinem.
+comment = Typo "r" missing in Unreinem
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25026: 11/10/2021 dict=CCS, L= 380-2, hw=vacas, user=franziska.groehn
 old = m

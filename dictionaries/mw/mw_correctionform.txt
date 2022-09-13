@@ -1,6 +1,427 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 27, 2022
-1702 correction records, with 0 PENDING
+As of September 13, 2022
+1764 correction records, with 0 PENDING
+
+Case 25276: 09/12/2022 dict=MW, L= 101481, hw=dhū, user=Vladimir Grekov, v.g.000002
+old = so shake or move violently
+new = to shake ...
+comment = s instead of t
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25274: 09/11/2022 dict=MW, L= 168318, hw=mokṣ, user=Vladimir Grekov, v.g.000002
+old = to wish to free one's self. seek deliverance
+new = to wish to free one's self, seek deliverance
+comment = dot instead of comma
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25273: 09/11/2022 dict=MW, L= 198796, hw=vimuc, user=Vladimir Grekov, v.g.000002
+old = to be freed or delivered ... (abl. adv. in -tas gen., or instr.)
+new = to be freed or delivered ... (abl. adv. in -tas, gen., or instr.)
+comment = Missing coma after -tas
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25272: 09/11/2022 dict=MW, L= 165082, hw=muc, user=Vladimir Grekov, v.g.000002
+old = Intens. momucyate or monokti
+new = Intens. momucyate or momokti
+comment = monokti instead of momokti
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25271: 09/07/2022 dict=MW, L= ID=84881.1, hw=तितिरु, user=youngsinn.sohn
+old =  = पसंग
+new =  = पतंग 
+comment = digitisation error
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25263: 09/01/2022 dict=MW, L=26705 , hw=ālabh, user=
+old = -lamohayati
+new = -lambhayati
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25256: 08/22/2022 dict=mw, L=, hw=sAra, user=ejf
+old = pith or solid interior of anything, RV.  
+new = strength, power  (comma)
+comment = 
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25255: 08/21/2022 dict=MW, L= 129956, hw=prakṛ, user=v.g.000002
+old = (only Ā. by, Pāṇ. i, 3, 32)
+new = (only Ā. by Pāṇ. i, 3, 32)
+comment = Extra comma. In plenty of places, not only here, careless placement of commas (apparently automatic) makes the meaning dark.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25252: 08/17/2022 dict=MW, L= 39066, hw=ṛṣi, user=Vladimir Grekov, v.g.000002
+old = Cyprinus Ṛṣi
+new = Cyprinus Rishi
+comment = The two words are the nomenclature name of a fish, the genus of carps, and must be written exactly so.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25251: 08/17/2022 dict=MW, L= 39058, hw=ṛṣi, user=Vladimir Grekov, v.g.000002
+old = xi, 236 236 ; Śak. ; Ragh.  &c.
+new = 
+comment = Must be added to the previous "ID".
+status = Corrected 09/12/2022:Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25250: 08/15/2022 dict=mw, L=, hw=kva, user=ejf
+old = <!!!>kva cid = kasminiS-cid, Pañcat<!!!>.  [ID=58684.26] anywhere, somewhere, to any place, in a certain place,
+new = kva cid = kasmiMS-cid, Pañcat
+comment = 
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25249: 08/14/2022 dict=MW, L= 56770, hw=kośa, user=Vladimir Grekov, v.g.000002
+old = with, Buddh.
+new = with Buddh.
+comment = Extra comma; "Buddh." is highlighted as if it were a reference to some work; really it means just "Buddhists"; highlighting must be removed.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25248: 08/13/2022 dict=MW, L= 56779, hw=kośa, user=Vladimir Grekov, v.g.000002
+old = kókkos
+new = κόκκος
+comment = mixed up the alphabets
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25247: 08/10/2022 dict=MW, L= ??, hw=diś, user=wujastyk
+old = Nothing appears on the screen
+new = 
+comment = absent data
+status = Corrected previously 09/12/2022
+------------------------------------------------------------------------
+
+Case 25246: 08/05/2022 dict=MW, L= 5397, hw=anas, user=Vladimir Grekov, v.g.000002
+old = off spring
+new = offspring
+comment = space
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25245: 08/03/2022 dict=MW, L= 75913, hw=chid, user=Vladimir Grekov, v.g.000002
+old = cutting off. cutting through
+new = cutting off, cutting through
+comment = dot instead of comma
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25244: 08/03/2022 dict=MW, L= 75907, hw=chid, user=Vladimir Grekov, v.g.000002
+old = to cause to cut off or through, Mn. viii, 277 ; 282 f. f.  and 292 ; Cāṇ.  :
+new = ... 282 f. & 292 ...
+comment = extra f.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25243: 08/02/2022 dict=MW, L= 166328, hw=mūla, user=Vladimir Grekov, v.g.000002
+old = chief principal cf. below
+new = chief, principal, cf. below
+comment = commas change meaning
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25242: 08/02/2022 dict=MW, L= 166327, hw=mūla, user=Vladimir Grekov, v.g.000002
+old = mama mūtam
+new = mama mūlam
+comment = t instead of l
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25236: 07/22/2022 dict=MW, L= 131333, hw=pratap, user=Vladimir Grekov, v.g.000002
+old = MBh.  and e.;
+new = MBh. &c;
+comment = 
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25235: 07/21/2022 dict=MW, L= 26932, hw=Alocana, user=Caujolle
+old = fn.
+new = f.n.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25234: 07/20/2022 dict=MW, L=242484.1 , hw=sAmi, user=chandan.mazumdar
+old = jb. &c. &c.
+new = Could it be "ib. &c. &c." ?????
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25226: 07/16/2022 dict=MW, L= 91215, hw=dā, user=Vladimir Grekov, v.g.000002
+old = án-āśīr-.
+new = <see> án-āśīr-.
+comment = In the original, it is clear that "see" is meant. But when the text is broken, the clearness disappears completely. Angle parentheses <> may be the sign that something is added which is absent in the original text.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25225: 07/16/2022 dict=MW, L= 91214, hw=dā, user=Vladimir Grekov, v.g.000002
+old = ‘giving, granting’ See 
+new = ‘giving, granting,’ see  LB or: ‘giving, granting’, see 
+comment = Such it is in the original; the manner to delete punctuation and make 'see' to 'See' obscures understanding and distances from the original.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25222: 07/15/2022 dict=mw, L=, hw=bahu, user=ejf
+old = somewhat ; cf. bahu-tṛṇa, bahu-trivarṣa and, Pāṇ. v, 3, 68; bahu-√man = <!!!>to think much of esteem highly<!!!>, prize, value)  [ID=143501]    [Printed book page 724,3]  bahú   n. the pl.
+new = to think much of, esteem highly COMMA
+comment = 
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25216: 07/06/2022 dict=MW, L= 12831, hw=abhisampad, user=v.g.000002
+old = id.
+new = 
+comment = In the original ("printed book") it is clear that "id." means content of the previous article, abhisampatti; but here, in the "electronic" form it is absolutely unclear. The means must be found to resolve situation.
+status =  09/12/2022 see https://github.com/sanskrit-lexicon/csl-orig/issues/923
+------------------------------------------------------------------------
+
+Case 25214: 07/02/2022 dict=MW, L= 95474, hw=dṛṣad, user=Vladimir Grekov; v.g.000002
+old = GS. , Kāv.  &c.
+new = ; GS. , Kāv.  &c.
+comment = This record ("id") must be the end of the previous one (95473)
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25213: 07/01/2022 dict=MW, L= 2140, hw=ajina, user=Vladimir Grekov, v.g.000002
+old = a couch seat
+new = a couch, seat
+comment = comma missing
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25212: 07/01/2022 dict=mw, L=, hw=satvara, user=ejf
+old = 1138,1]  sa—tvara   mf(A)n. having or making haste, speedy, expeditious, quick <!!!>(amind.<!!!> and compar. -taram ind.), 
+new = am ind. (space missing)
+comment = 
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25211: 06/30/2022 dict=MW, L=99909, hw=dharma, user=
+old = the ethical precepts of Buddhism (or the principal dharma called sūsra,
+new = the ethical precepts of Buddhism (or the principal dharma called sūtra,
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25210: 06/30/2022 dict=MW, L=240374.1, hw=sahāvasthitatā, user=
+old = [in the mw.txt file] LB <s>sa<srs/>hA<srs/>vasTita—tA</s> ¦
+new = <s>sahA<srs/>vasTita—tA</s> ¦
+comment = One <srs/> tag too many
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25209: 06/30/2022 dict=MW, L=238983, hw=sarvātman, user=
+old = sarvAtman (sarv° or °vat°)
+new = sarvAtman (sarv° or °vāt°)
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25208: 06/30/2022 dict=MW, L=235739, hw=samupe, user=
+old = sam-upe (-upa- 5 √i) -upaïti
+new = sam-upe (-upa- 5 √i) -upaiti
+comment = Possible typo, never seen aï (ai in slp1), i think it should be ai (E in slp1)
+status = Corrected 09/12/2022 (duplicate)
+------------------------------------------------------------------------
+
+Case 25207: 06/30/2022 dict=MW, L=235739, hw=samupe, user=
+old = sam-upe (-upa- 5 √i) -upaïti
+new = sam-upe (-upa- 5 √i) -upaiti
+comment = Possible typo, never seen aï (ai in slp1), i think it should be ai (e in slp1)
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25206: 06/30/2022 dict=mw, L=, hw=niHsf, user=ejf
+old = without bahit 
+new = without bahis
+comment = 
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25205: 06/29/2022 dict=MW, L=161558, hw=mahīna, user=
+old = mahī°na (°hina)
+new = mahī°na (°hīna)
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25204: 06/29/2022 dict=MW, L=122723, hw=pāridheya, user=
+old = g. śubhradi.
+new = g. śubhrādi.
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25203: 06/29/2022 dict=MW, L=18497, hw=avācchid, user=
+old = <s>avAc<srs/>-√ Cid</s> ¦ 
+new = <s>avA<srs/>c-√ Cid</s> ¦ 
+comment = misplaced xml tag in the original mw.txt
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25201: 06/28/2022 dict=mw, L=, hw=tadDita, user=ejf
+old = m. (scil. pratyaya) an affix forming nouns from other nouns (opposed to <!!!>1. kft)<!!!>, noun formed thus, derivative noun (tad-Dita mfn. ‘good for that or him’, is
+new = <hom>1.</hom> kft
+comment = 
+status = Corrected 09/12/2022 (previously corrected)
+------------------------------------------------------------------------
+
+Case 25200: 06/27/2022 dict=mw, L=, hw=DErya, user=ejf
+old = VS. ; Kāṭh.   [ID=102068]  ←    [Printed book page 520,2] :  2. DErya   n. (<!!!>2. DIra<!!!>) firmness, constancy, calmness, patience, gravity, fortitude, courage,
+new = <hom>2.</hom> DIra.  Similarly <hom>1.<hom> DIra in previous entry
+comment = 
+status = Corrected 09/12/2022 (previously corrected)
+------------------------------------------------------------------------
+
+Case 25199: 06/21/2022 dict=mw, L=, hw=raha, user=ejf
+old = (H2)  [Printed book page 871,1]  रह   m. <!!!>= रहस्2 L.<!!!>   [ID=175926]   
+new = = रहस्2  = <hom>2.</hom> <s>rahas</s>  
+comment = 
+status = Corrected 09/12/2022 (previously corrected)
+------------------------------------------------------------------------
+
+Case 25198: 06/20/2022 dict=MW, L= 202929, hw=visphar, user=geymonat
+old = Caus. -spharayati 
+new = Caus. -sphArayati 
+comment = Typo: short a is wrong for long A
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25195: 06/18/2022 dict=MW, L=107639, hw=nis, user=
+old = [cf. nih-śūnya, niṣ-kevala, nir-muṇḍa]
+new = [cf. niḥ-śūnya, niṣ-kevala, nir-muṇḍa]
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25191: 06/12/2022 dict=MW, L= 17474, hw=avadhīr, user=
+old = ava-dhīraya
+new = avadhīrya
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25182: 06/09/2022 dict=mw, L=, hw=Baya, user=ejf
+old = (H1)  [Printed book page 747,1]  bhaya   n. (√bhī) fear, <!!!>alarm dread apprehension<!!!>  [ID=148577]      fear of (abl. gen. or comp.) or for (comp.), RV.  
+new = alarm, dread, apprehension [comma]
+comment = 
+status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25181: 06/09/2022 dict=mw, L=, hw=AsvAdya, user=ejf
+old = to be tasted or enjoyed, MBh. ; Kathās.   [ID=28270]      having a good taste, <!!!>palatable delicious.<!!!>  [ID=28271]  ←  (H3)  [Printed book page 1320,3] :  ā-svādya b   n. food, Daś.
+new = palatable, delicious. [comma]
+comment = 
+status = Corrected 09/12/2022 duplicate
+------------------------------------------------------------------------
+
+Case 25178: 06/05/2022 dict=mw, L=, hw=AsvAdya, user=ejf
+old = to be tasted or enjoyed, MBh. ; Kathās.   [ID=28270]      having a good taste, <!!!>palatable delicious<!!!>.  [ID=28271]  ←  (H3)  [Printed book page 1320,3] :  ā-svādya b   n. food,
+new = palatable, delicious [comma]
+comment = 
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25176: 05/30/2022 dict=MW, L= ID=204312, hw=वृक्त, user=youngsinn.sohn
+old = वृक्त b mfn. bent, tumed, twisted &c
+new = वृक्त b mfn. bent, turned, twisted &c
+comment = digitisation error
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25175: 05/29/2022 dict=MW, L=182615, hw=lip, user=
+old = leliyate
+new = lelipyate
+status =  Corrected 09/12/2022 duplicate
+------------------------------------------------------------------------
+
+Case 25174: 05/29/2022 dict=MW, L=182615, hw=lip, user=
+old = leliyate
+new = lelipyate
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25173: 05/29/2022 dict=mw, L=, hw=sfj, user=ejf
+old = 69 ), TS. ; AV. ; ŚBr. ; ŚrS. ;  (in older language only Ā.) to emit from <!!!>one's self i.e. create<!!!>, procreate, produce, beget, RV.  
+new = one's self, i.e. create (comma after self)
+comment = 
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25172: 05/27/2022 dict=MW, L= 230505, hw=sad, user=Vladimir Grekov, v.g.000002
+old = [cf. pres. stem]
+new = [cf. pres. stem]
+comment = "stem" must not be marked as if it were the sanskrit text
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25170: 05/23/2022 dict=MW, L= 111126, hw=nisvanita, user=geymonat
+old = ni-°svanita n.
+new = ni-°svanita, n., °svAna, m., id., MBh
+comment = The entry is incomplete
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25168: 05/19/2022 dict=MW, L= ed, hw=d a, user=dsdc
+old = a a
+new = v v 
+comment = Typoe
+status =  bad error submission: 09/12/2022
+------------------------------------------------------------------------
+
+Case 25165: 05/16/2022 dict=MW, L= 91164.1, hw=dah, user=Vladimir Grekov, v.g.000002
+old = degú
+new = degù
+comment = wrong accent
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25162: 05/12/2022 dict=MW, L= 19040, hw=aviśeṣa, user=frank.ziesing
+old = a-viśeṣāt ind. or in comp. aviśṣa-
+new = a-viśeṣāt ind. or in comp. aviśeṣa-
+comment = Typo: "e" missing in aviśṣa-, should be aviśeṣa-
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25159: 05/10/2022 dict=MW, L=47344, hw=kAjala, user=chandan.mazumdar
+old = 
+new = "Caraka,  vi, 2." should be in reference, but the hyperlink is missing
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25158: 05/09/2022 dict=MW, L= 165605, hw=munī, user=geymonat
+old = munī f. a female Muni (also ī),
+new = muni f. a female Muni (also ī),
+comment = Typo munī f. should be muni f. 
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25156: 05/08/2022 dict=MW, L= 177695, hw=राम्या, user=youngsinn.sohn
+old = रा॑म्या रा॑म्या (RV. ) or राम्या॑ (AV. ), f. night.
+new = रा॑म्या (RV. ) or राम्या॑ (AV. ), f. night.
+comment = Typo (repeated word)
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25153: 05/03/2022 dict=MW, L= 122382, hw=पायु, user=youngsinn.sohn
+old = 2. पायु m. (√ 3. पा; for 1. पायु See col.s)
+new = 2. पायु m. (√ 3. पा; for 1. पायु See col.I)
+comment = digitisation error
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25151: 05/01/2022 dict=MW, L= 262717, hw=hi, user=
+old = hāyuyati
+new = hāyayati
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25149: 04/29/2022 dict=mw, L=, hw=druh, user=ejf
+old = druh   cl. 4. P. dru/hyati (ep. and metr. also Ā. °te), Br. ; MBh. ; R.  <!!!>
+new = (pf. dudro/ha, 
+comment = 
+status =  Corrected 09/12/2022
+------------------------------------------------------------------------
 
 Case 25147: 04/23/2022 dict=mw, L=, hw=haraRa, user=ejf
 old = bali-haraṇī darvī, ‘a ladle containing an oblation’), ĀśvGṛ.   [ID=260758]      <!!!>taking away. removing<!!!> (e.g. rajo-h° ‘removing dust’), Kauś.   [ID=260759]    haraṇa   m. ‘taker’, a

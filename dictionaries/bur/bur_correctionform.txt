@@ -1,6 +1,51 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of April 28, 2022
-744 correction records, with 0 PENDING
+As of September 12, 2022
+751 correction records, with 7 PENDING
+
+Case 25259: 08/24/2022 dict=BUR, L= 14188, hw=rudra, user=Caujolle
+old = Les LB Rudras
+new = Les 11 Rudras  LB  or Les onze Rudras
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25241: 08/02/2022 dict=BUR, L=7655 , hw=tattva, user=Caujolle
+old = ch.
+new = this abbreviation stand for "chose" (the reference is missing)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25193: 06/13/2022 dict=BUR, L= 17726, hw=samAdhi, user=Caujolle
+old = méditatation 
+new = méditation 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25180: 06/05/2022 dict=BUR, L= 10890, hw=pavitra, user=Caujolle
+old = N.-O. and den. are underligned but nothing happens when the mouse is on them (contrary to the other underlined words on the same page)
+new = 
+comment = reference
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25169: 05/22/2022 dict=BUR, L= 7690, hw=tandravāya, user=Caujolle
+old = orthogr.
+new = 'orthogr.' stands for 'orthographe'
+comment = reference missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25155: 05/05/2022 dict=BUR, L= 17117, hw=zrI, user=Caujolle
+old = 1) Trou fart à un mur 2) Also on the previous line, the final dot is missing (after the symbol).
+new = 1) Trou fait à un mur 2) .
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25154: 05/05/2022 dict=BUR, L=13483, hw= muSTi, user=Caujolle
+old = orfévre
+new = orfèvre
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25146: 04/21/2022 dict=BUR, L= 2739, hw=Iza, user=Caujolle
 old = de la charrue. ou le timon. 

@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of April 27, 2022
-229 correction records, with 0 PENDING
+As of September 12, 2022
+231 correction records, with 2 PENDING
+
+Case 25261: 08/27/2022 dict=PWG, L= , hw=vart, user=antonia.ruppel
+old = 'Could not find headword vart in dictionary PWG'
+new = activte/insert the entry for vart (which e.g. 'vRt' refers to)
+comment = missing entry
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25166: 05/17/2022 dict=PWG, L= , hw=sthā, user=peter.meyer
+old = 
+new = 
+comment = wird nicht gefunden
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25131: 03/27/2022 dict=PWG, L= 21820, hw=gamana, user=h.c.jahr
 old = Geben zu, in, nach

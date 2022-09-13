@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of December 20, 2021
-349 correction records, with 0 PENDING
+As of September 12, 2022
+350 correction records, with 1 PENDING
+
+Case 25264: 09/02/2022 dict=SKD, L= 27096, hw=माधवः , user=chandrasekharanr
+old = मुधोरपत्यं
+new = मधोरपत्यं
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24990: 09/01/2021 dict=SKD, L= 16911, hw=devaH, user=drdhaval2785
 old = pitan

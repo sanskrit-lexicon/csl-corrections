@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of April 27, 2022
-1149 correction records, with 0 PENDING
+As of September 12, 2022
+1151 correction records, with 2 PENDING
+
+Case 25265: 09/03/2022 dict=wil, L=, hw=vfti, user=ejf
+old = that of the Piper betel, which in many parts of India is surrounded and  <!!!>screened my<!!!> mats. 5 Hiding, secreting. E. वृ to choose, aff. क्तिन्.    [ID=36468]
+new = screened by
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25217: 07/09/2022 dict=WIL, L= https://www.sanskrit-lexicon.uni-koeln.de/scans/WILScan/2020/web/webtc2/index.php, hw= जन, user=longbamboo983
+old = r. 4th cl. (जयते)
+new = r. 4th cl. (जायते)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25120: 03/13/2022 dict=wil, L=, hw=aDIna, user=ejf
 old = book page 023]   aDIna  mfn. (-naH-nA-naM) 1 Docile. 2 Dependant. E. aDi, <!!!>and Ina a<!!!> master.    [ID=1074]      ▲ aDivedanIyA aDiSraya aDiSrayaRI aDiSrita

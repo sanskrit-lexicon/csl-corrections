@@ -1,6 +1,118 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of April 27, 2022
-475 correction records, with 0 PENDING
+As of September 12, 2022
+492 correction records, with 17 PENDING
+
+Case 25270: 09/07/2022 dict=ap90, L=, hw=manasvin, user=ejf
+old = manasvin  [Printed book page 0841-c]  manasvin  a. [praśastaṃ manaḥ <!!!>asttrasya<!!!> vini] 1 Wise, intelligent, clever,  highsouled, high-minded; R. 1. 32 ;   Pt.
+new = astvasya
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25269: 09/05/2022 dict=ap90, L=, hw=sAmAnya, user=ejf
+old = Subhāsh; R. 14. 67 ; Ku. 2. 26.   2 Alike, equal, same.  3 Ordinary, <!!!>of an, average<!!!> or middle degree; sāmānyā stu parārthamudyamabhṛtaḥ svārthavirodhena ye   Bh.
+new = of an average  (print change)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25262: 08/30/2022 dict=AP90, L= 918, hw=adhas, user=czhao
+old = अधस् — अक्षजः [अक्षात् इंद्रियाज्जायते इति अक्षजं प्रत्यक्षज्ञानं, तदधरं ग्राहकत्वाभावात् हीनं यत्य सः Tv.
+new = towards the end should be yasya instead of yatya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25260: 08/27/2022 dict=ap90, L=, hw=puMs, user=ejf
+old = 
+new = calI (puMScalI)  [cI -> lI]
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25258: 08/24/2022 dict=ap90, L=, hw=viSeza, user=ejf
+old = U. 4.  parimalaviSezAn Pt. 1 : kadalIviSezAH Ku. 1. 36.   7 A different <!!!>or vari ous object,<!!!> various particulars (pl.); prAmAdastvAM tulayitumalaM yatra tEstErviSezEH Me.
+new = or various object [remove space]
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25254: 08/18/2022 dict=ap90, L=, hw=vihvala, user=ejf
+old = R. 8. 37.   2 Overcome with fear, alarmed.  3 Delirious, beside oneself.  <!!!>4 Afflic ted, distressed<!!!>; Bh. 3. 59 ;   Ku. 4. 4.   5 Desponding.  6 Fused, liquid.
+new = 4 Afflicted, distressed (remove space)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25253: 08/18/2022 dict=ap90, L=, hw=viplavaH, user=ejf
+old = viplavaH  [Printed book page 0983-b]  viplavaH  1 Floating or <!!!>drifting about floating in different<!!!> directions.  2 Opposition, contrariety.  3  Confusion, perplexity.  4 Tumult,
+new = drifting about, floating in different (comma)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25237: 07/23/2022 dict=AP90, L= 27693, hw=zarvarI, user=geymonat
+old = — Comp. iezaH the moon.  
+new = - Comp. — IzaH the moon.  
+comment = Typo iezaH wrong for — IzaH (N.B a line is missing befoore IzaH; also the line before Comp. is too long)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25215: 07/04/2022 dict=AP90, L=Printed book page 0707-a, hw=पुण्य, user=sanaatani
+old = The second comp. word: पुण्य+अहं - पुण्vAहं भवंतो ब्रुवंतु | Is it पुण्yAहं भवंतो ब्रुवंतु 
+new = I may be wrong. But the words that follow such instruction are अस्तु पुण्याहं
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25190: 06/11/2022 dict=AP90, L= 2340, hw=apati, user=arun90
+old = tika
+new = --tika
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25189: 06/11/2022 dict=AP90, L=31390 , hw=hAsya, user=arun90
+old = pada vī
+new = padavī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25188: 06/11/2022 dict=AP90, L= 14696, hw=tilaH, user=arun90
+old = kidṛṃ
+new = kiṭṭaṁ
+comment = Printing error -- should be kiṭṭaṁ, but the two look similar (किट्टं, किदृं)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25187: 06/11/2022 dict=AP90, L=3, hw=aMzu, user=arun90
+old = padṛṃ
+new = paṭṭaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25186: 06/11/2022 dict=AP90, L=11, hw=aMzuH, user=arun90
+old = patiḥ bhṛt, bāṇaḥ bhartṛ
+new = --patiḥ --bhṛt, --bāṇaḥ --bhartṛ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25185: 06/11/2022 dict=AP90, L= 313, hw=aMghri, user=arun90
+old = parṇī rṇikā
+new = parṇī -rṇikā
+comment = Typo -- missing dash
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25184: 06/11/2022 dict=AP90, L= 32170, hw=siMDudaSeH, user=arun90
+old = siMDudaSeH
+new = siMDudeSaH
+comment = Typo, presumably -- can't find the word on the original PDF
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25183: 06/11/2022 dict=AP90, L= 16369, hw=naraH, user=arun90
+old = -- rśādūlaḥ
+new = -- śārdūlaḥ
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25148: 04/26/2022 dict=AP90, L= 22618, hw=madhya, user=geymonat
 old = madhyetagaraṃ inside the city
