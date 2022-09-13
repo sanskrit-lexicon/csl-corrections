@@ -1,39 +1,39 @@
 Sanskrit Lexicon Correction Form History for PW
-As of September 12, 2022
-11839 correction records, with 5 PENDING
+As of September 13, 2022
+11839 correction records, with 0 PENDING
 
 Case 25223: 07/16/2022 dict=PW, L= 98343, hw=2. var, user=frank.ziesing
 old = werden (um ein Mädchen , Acc.)
 new = werben (um ein Mädchen , Acc.)
 comment = Typo should be "b" instead of _"d" in "werben"
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25164: 05/14/2022 dict=PW, L= 124578, hw=sārvabhauma, user=frank.ziesing
 old = — b) [i]im Yoga für alle Geisteszustände geltend[/i]
 new = — b) im Yoga [i]für alle Geisteszustände geltend[/i]
 comment = Typo: the words "im Yoga" should not be in italics, as they only qualify the following translation
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25163: 05/13/2022 dict=PW, L= 16765, hw=iti, user=frank.ziesing
 old = 1. iti Adv. [i]so , auf Ausgesprochenes oder Gedachtes hinweisend und am Ende oder Anfange stehend. In gebundener Rede bleibt es nicht selten dem Hörer oder Leser überlassen , das Wort richtig zu verbinden.[/i]
 new = 1. iti Adv. [i]so[/i] , auf Ausgesprochenes oder Gedachtes hinweisend und am Ende oder Anfange stehend. In gebundener Rede bleibt es nicht selten dem Hörer oder Leser überlassen , das Wort richtig zu verbinden.
 comment = Typo: a pretty long explanation which is not a translation is erroneously set in italics. The italics should end after "so", which is a translation.
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25161: 05/12/2022 dict=PW, L= L6435, hw=apApaviddha, user=Thomas
 old = beheftet
 new = behaftet
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25152: 05/03/2022 dict=PW, L= 109333, hw=śakti, user=frank.ziesing
 old = — 1) das Können , ; Kraft , Fähigkeit , Geschick , — zu 
 new = — 1) das Können , Vermögen ; Kraft , Fähigkeit , Geschick , — zu 
 comment = Typo one word is missing, namely "Vermögen" 
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25132: 03/28/2022 dict=PW, L= 70750, hw=praṇava, user=frank.ziesing
