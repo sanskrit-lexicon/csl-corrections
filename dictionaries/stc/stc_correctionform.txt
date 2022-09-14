@@ -1,99 +1,99 @@
 Sanskrit Lexicon Correction Form History for STC
-As of September 12, 2022
-119 correction records, with 15 PENDING
+As of September 13, 2022
+119 correction records, with 0 PENDING
 
 Case 25257: 08/23/2022 dict=STC, L= 24495, hw=hṛdaya, user=Caujolle
 old = i noticed that the oe has not been transformed into œ in coeur (cœur), etc. as i thought it was, 
 new = then i checked in the Burnouf, and there it has been changed. There are some exceptions to that writing (very rare) which i did previously communicate to you, i supposed when you did change the Burnouf dict. You could please find the email and change it also in Stoupak dict.
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25233: 07/19/2022 dict=STC, L= 17451, hw=ruṣ, user=
+Case 25233: 07/19/2022 dict=STC, L= 17451, hw=ruṣ, user=Caujolle
 old = ; ruṣita- ruṣṭā-
 new = ; ruṣita- ruṣṭa-
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25229: 07/17/2022 dict=STC, L= 24557, hw=hrī, user=
+Case 25229: 07/17/2022 dict=STC, L= 24557, hw=hrī, user=Caujolle
 old = 1 HRĪ- -jihreti ;
 new = 1 HRĪ- jihreti ;
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25227: 07/16/2022 dict=STC, L= 22435, hw=samyaJc, user=Caujolle
 old = '-samyaṅ' and also '-samyak', '-samyaktva-' and '-°darśanasaṃpanna-'
 new = 'samyaṅ'   'samyak-'   'samyaktva-'   '°darśanasaṃpanna-'
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25224: 07/16/2022 dict=STC, L= 10865, hw=duh, user=
+Case 25224: 07/16/2022 dict=STC, L= 10865, hw=duh, user=Caujolle
 old = adūduhat (adhukṣat adhaukṣīl);
 new = adūduhat (adhukṣat adhaukṣīt);
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25221: 07/15/2022 dict=STC, L= 24573, hw=hvṛ, user=
+Case 25221: 07/15/2022 dict=STC, L= 24573, hw=hvṛ, user=Caujolle
 old = ; hrata-
 new = ; hruta-
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25220: 07/11/2022 dict=STC, L= 16905, hw=mṛj, user=
+Case 25220: 07/11/2022 dict=STC, L= 16905, hw=mṛj, user=Caujolle
 old = 16905
 new = MṚJ- mārṣṭi mṛṣṭe mārijati
 comment = MṚJ- mārṣṭi mṛṣṭe mārjati
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25219: 07/09/2022 dict=STC, L= 17087, hw=yam, user=
+Case 25219: 07/09/2022 dict=STC, L= 17087, hw=yam, user=Caujolle
 old = yamituā °yamya — 
 new = yamitvā °yamya — 
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25196: 06/18/2022 dict=STC, L=16774 , hw=mi, user=
+Case 25196: 06/18/2022 dict=STC, L=16774 , hw=mi, user=Caujolle
 old = 2 MI- v. MI-.
 new = 2 MI- v. MĪ-.
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25194: 06/14/2022 dict=STC, L= 17776, hw=vac, user=
+Case 25194: 06/14/2022 dict=STC, L= 17776, hw=vac, user=caujolle
 old = avocal -ta avoci;
 new = avocat -ta avoci;
-status = PENDING
+status = Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25192: 06/13/2022 dict=STC, L= 21798, hw=samAdhi, user=Caujolle
 old = désign. is not referenced
 new = désign.  is for "désignation"
 comment = reference
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25179: 06/05/2022 dict=STC, L= 13560, hw=pavitra, user=Caujolle
 old = 14(e) and 12(e)
 new = 14e and 12e (of course the e should better be a superscript)
 comment = ?
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
-Case 25177: 06/03/2022 dict=STC, L=8160, hw=kuśala, user=
+Case 25177: 06/03/2022 dict=STC, L=8160, hw=kuśala, user=Caujolle
 old = first line: "approprie"
 new = "approprié"
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25167: 05/18/2022 dict=STC, L= 16689, hw=mānasa, user=Caujolle
 old = mānasa- nt. n. 
 new = 2 mānasa- nt. n. 
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25157: 05/08/2022 dict=STC, L= 9986, hw=tAmasa, user=Caujolle
 old = le tamas (s. v.), 
 new = the abbreviation "s. v." is not properly referenced.
 comment = reference
-status = PENDING
+status =  Corrected 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25138: 04/10/2022 dict=STC, L= 9894, hw=taraṅga, user=Caujolle
