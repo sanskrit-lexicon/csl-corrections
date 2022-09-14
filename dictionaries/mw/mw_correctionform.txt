@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 13, 2022
-1764 correction records, with 0 PENDING
+As of September 14, 2022
+1765 correction records, with 0 PENDING
+
+Case 25277: 09/14/2022 dict=MW, L= 101159, hw=dhāv, user=Vladimir Grekov, v.g.000002
+old = run a race (ājim), Br.  run as fast as possible
+new = run a race (ājim), Br.,  run as fast as possible
+comment = comma missing after "Br."
+status = Corrected 09/14/2022
+------------------------------------------------------------------------
 
 Case 25276: 09/12/2022 dict=MW, L= 101481, hw=dhū, user=Vladimir Grekov, v.g.000002
 old = so shake or move violently
