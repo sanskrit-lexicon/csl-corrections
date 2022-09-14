@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of September 14, 2022
-1765 correction records, with 0 PENDING
+1766 correction records, with 0 PENDING
 
 Case 25277: 09/14/2022 dict=MW, L= 101159, hw=dhāv, user=Vladimir Grekov, v.g.000002
 old = run a race (ājim), Br.  run as fast as possible
@@ -139,6 +139,12 @@ old = mama mūtam
 new = mama mūlam
 comment = t instead of l
 status = Corrected 09/12/2022
+------------------------------------------------------------------------
+
+Case 25240: 08/01/2022 dict=MW, L= LB , hw=x, user=
+old = x.
+new = x.
+status =  Garbage entry removed 09/12/2022
 ------------------------------------------------------------------------
 
 Case 25236: 07/22/2022 dict=MW, L= 131333, hw=pratap, user=Vladimir Grekov, v.g.000002

@@ -239,6 +239,11 @@ def adjust(filein,fileout):
   if d not in knowndicts:
    out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
    print(out.encode('utf-8'))
+   dmrecs = dictmap[d]
+   print(len(dmrecs),"records for the unknown dictionary")
+   dmrec = dmrecs[0]
+   line = dmrec.line
+   print('line=',line)
    m = len(recs)
    print("DBG: m=",m)
    for i in range(0,m):
