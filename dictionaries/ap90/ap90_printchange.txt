@@ -597,4 +597,10 @@ Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/975
 L code : Headword : Old  : New : Comment
 30119  : sAmAnya  : of an, average : of an average :
+-----------------------------------------------------------------
+12-22-2022
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1003
+L code : Headword : Old  : New : Comment
+28153  : SUnya    : valid : void : cf. AP57
 ----------------------------------------------------------------------

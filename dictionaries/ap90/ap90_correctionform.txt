@@ -1,61 +1,61 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 22, 2022
-500 correction records, with 8 PENDING
+As of December 23, 2022
+500 correction records, with 0 PENDING
 
 Case 25345: 12/22/2022 dict=ap90, L=, hw=galita, user=ejf
 old = p. p. [gal-kta] 1 Dropped or fallen down. 2 Melted. 3  Oozed, flowing. 4 <!!!>Lost, vanished, de. prived.<!!!> 5 Untied, got loose. 6 Emptied, leaked away. 7 Filtered. 8 Decayed, impaired.
 new = Lost, vanished, deprived.
 comment = 
-status = PENDING
+status =  Corrected 12/22/2022
 ------------------------------------------------------------------------
 
 Case 25334: 12/01/2022 dict=AP90, L= All, hw=All, user=srividyan
 old = No typo - showing unicode characters; search is also not working 
 new = 
 comment = Appears to be a software issue. I use these dictionaries almost daily, but since yesterday I see errors on all words. I tried Apte and other Sanskrit to English dictionaries 
-status = PENDING
+status =  12/22/2022 problem previously solved.
 ------------------------------------------------------------------------
 
 Case 25299: 10/04/2022 dict=ap90, L=, hw=vezw, user=ejf
 old = vezw  [Printed book page 1012-a]  vezw  1 A. (<!!!>vezwwate<!!!>) 1 To surround, enclose, encompass, envelop. 2 To wind or twist round. 3 To
 new = vezwate 
 comment = 
-status = PENDING
+status =  12/22/2022 corrected.
 ------------------------------------------------------------------------
 
 Case 25296: 09/30/2022 dict=ap90, L=, hw=SUnya, user=ejf
 old = 1052-b]  śūnya  a. [śūnāyai prāṇivadhāya hiṃtaṃ  rahasyasthānatvāt yat Tv. ] 1 <!!!>Empty, valid.<!!!> 2 Vacant (applied also to the heart, glances 
 new = Empty, void.  (print change. cf ap57)
 comment = 
-status = PENDING
+status =  12/22/2022 corrected.
 ------------------------------------------------------------------------
 
 Case 25295: 09/29/2022 dict=ap90, L=, hw=apakAraH, user=ejf
 old = 0103-c]  apakāraḥ  1 Harm, wrong, injury, hurt, offence, misdeed, wrong deed (<!!!>opp. apakāra<!!!>); svalpenāpyapakāreṇa brāhmaṇyamiva duṣyati Pt. 1. 66 ;   upakartrāriṇā
 new = opp. upakāra
 comment = 
-status = PENDING
+status =  12/22/2022 corrected.
 ------------------------------------------------------------------------
 
 Case 25291: 09/23/2022 dict=ap90, L=, hw=saMskAraH, user=ejf
 old = impression on the memory; saMskAramAtrajanyaM jYAnaM  smftiH T. S.  14 <!!!>A purificatory, rite a sacred<!!!> rite or ceremony; saMskArArTaM  SarIrasya Ms. 2. 66 ; R. 10. 78 ; (Manu
 new = A purificatory rite, a sacred [change comma placement. print change]
 comment = 
-status = PENDING
+status =  12/22/2022 corrected.
 ------------------------------------------------------------------------
 
 Case 25286: 09/19/2022 dict=ap90, L=, hw=nizev, user=ejf
 old = 202. 4 To resort to, inhabit, frequent; Ku. 5. 76.  5 To use,  (pb)  employ; <!!!>viṣatāṃ niṣovitam<!!!>apakriyayā  samupaiti sarvamiti satyamadaḥ Śi. 9. 68. 6 To wait upon, attend.
 new = viṣatāṃ niṣevitam (zov -> zev)
 comment = 
-status = PENDING
+status =  12/22/2022 corrected.
 ------------------------------------------------------------------------
 
 Case 25278: 09/15/2022 dict=ap90, L=, hw=kfSa, user=ejf
 old = kṛśa  [Printed book page 0421-a]  kṛśa  a. [kṛś -kta ni°] (<!!!>Compar. kaśīyas<!!!>; superl. kraśiṣṭha) 1 Lean, weak, feeble, emaciated; kṛśatanuḥ, kṛśodari 
 new = Compar. kraśīyas
 comment = 
-status = PENDING
+status = 12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25270: 09/07/2022 dict=ap90, L=, hw=manasvin, user=ejf

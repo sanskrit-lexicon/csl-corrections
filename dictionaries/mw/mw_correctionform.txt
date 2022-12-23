@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW
 As of December 23, 2022
-1804 correction records, with 0 PENDING
+1805 correction records, with 0 PENDING
+
+Case 25348: 12/23/2022 dict=MW, L= , hw=Meaning , user=
+old = Swayam
+new = 
+status =  12/22/2022 insufficient information.
+------------------------------------------------------------------------
 
 Case 25343: 12/16/2022 dict=MW, L= 101899, hw=dhRti, user=Caujolle
 old = dhṛti m. wish kṣatrasya = kṣatra-dh°, Lāṭy.  [ID=101899]
