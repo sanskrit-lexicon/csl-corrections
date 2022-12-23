@@ -238,10 +238,11 @@ def adjust(filein,fileout):
   d = d.upper() # Jan 25, 2017
   if d not in knowndicts:
    out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
-   print(out.encode('utf-8'))
+   #print(out.encode('utf-8'))
    dmrecs = dictmap[d]
    print(len(dmrecs),"records for the unknown dictionary")
    dmrec = dmrecs[0]
+   print('sorttime=',dmrec.sorttime)
    line = dmrec.line
    print('line=',line)
    m = len(recs)

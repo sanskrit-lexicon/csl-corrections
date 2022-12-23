@@ -39,7 +39,8 @@ def read_pending_entries(tsvfile, lastcfrline):
             bodytxt = 'date:\t' + date + '\n' + 'dict:\t' + dictionary + '\n' + 'Lnum:\t'+ lnum + '\n' + 'hw:\t'+ headword + '\n' + 'old:\t' + old + '\n' + 'new:\t' + new + '\n' + 'comm:\t' + comment
             title=dictionary + ':' + lnum
             #print('bodytxt computed')
-            result.append({'body': bodytxt,'title':title})
+            #result.append({'body': bodytxt,'title':title})
+            result.append({'body': bodytxt,'title':title,'date':date})
             #print('result computed')
             pending_line = (counter,line)
             #print('pendline_line computed')
@@ -51,6 +52,10 @@ def read_pending_entries(tsvfile, lastcfrline):
     except Exception as e:
      print('read_pending_entries error: iline=',iline)
      print("exception=",e)
+     print('error at entry date=',date)
+     print('len(entry) = ',len(entry))
+     #print('line=',line)
+     #print('entry=',entry)
      exit(1)
         
     #print('ending counter=',counter)
@@ -100,8 +105,11 @@ if __name__ == "__main__":
             codecs.open(lastcfrline, 'w', 'utf-8').write(str(counter+1))
         else:
             # some problem
+            # usually this is a 403, as there is a limit to how many
+            # can be uploaded at one time.  J
             print('Error posting: requests status = ',status)
             print('counter = ',counter)
             #print('line = ',line)
+            print('entry date=',entry['date'])
             print('entry title=',entry['title'])
             break

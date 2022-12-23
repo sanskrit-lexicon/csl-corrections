@@ -1,6 +1,256 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 14, 2022
-1766 correction records, with 0 PENDING
+As of December 23, 2022
+1804 correction records, with 0 PENDING
+
+Case 25343: 12/16/2022 dict=MW, L= 101899, hw=dhRti, user=Caujolle
+old = dhṛti m. wish kṣatrasya = kṣatra-dh°, Lāṭy.  [ID=101899]
+new = dhṛti m. with kṣatrasya = kṣatra-dh°, Lāṭy.  [ID=101899]
+status =  Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25342: 12/14/2022 dict=MW, L= , hw=svādu, user=seandgaffney
+old = chirming
+new = charming
+status =  Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25341: 12/08/2022 dict=MW, L= 28693.5, hw=इळा, user=zaaf2
+old = Only the beginning of the entry is shown when searching for इळा. The full entry only appears when searching for इडा
+new = Both forms should be treated equally.
+comment = Incorrect entry display 
+status =  Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25335: 12/03/2022 dict=MW, L= 112618, hw=nau, user=sartma
+old = nau
+new = naú
+comment = missing Vedic accent
+status =  Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25331: 11/18/2022 dict=MW, L= 112078, hw=netṛ, user=
+old = "(netṛ́)" is omitted as a specification of the stress in the meaning "leader, guide, conductor (with gen. or ifc.)"
+new = a
+comment = b
+status = 12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25330: 11/17/2022 dict=MW, L= 112034, hw=nṛt, user=
+old = narīnṛtīti
+new = narī̆nṛtīti
+status =  Changed 12/22/2022
+------------------------------------------------------------------------
+
+Case 25329: 11/17/2022 dict=MW, L= 112034, hw=nṛt, user=
+old = narīnartti
+new = narī̆nartti
+status =  Changed 12/22/2022
+------------------------------------------------------------------------
+
+Case 25328: 11/17/2022 dict=MW, L= 111960, hw=nṛpatvaṃkṛ, user=
+old = nṛ-pa—tvaṃ—√kṛ -tvaṃ-√kṛ
+new = nṛ-pa—tvaṃ—√kṛ
+status =  Changed 12/22/2022
+------------------------------------------------------------------------
+
+Case 25327: 11/17/2022 dict=MW, L= 111941, hw=nṛm̐ḥ-praṇetra, user=
+old = nṛm̐ḥ-praṇetra
+new = nṛm̐́ḥ-praṇetra
+comment = missing accent
+status =  Changed 12/22/2022
+------------------------------------------------------------------------
+
+Case 25325: 11/17/2022 dict=MW, L= 111905, hw=nṛśṛṅga, user=
+old = example, of
+new = example of
+status =  Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25324: 11/17/2022 dict=MW, L= 111903, hw=nṛśaṃsa, user=
+old = narā-s°
+new = narā-ś°
+status =  Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25323: 11/17/2022 dict=MW, L= 111894, hw=nṛvat, user=
+old = RV. 2. 
+new = RV. LB (-2 belongs to the next ID)
+comment =  Typo
+status =  12/22/2022 confirm already corrected
+------------------------------------------------------------------------
+
+Case 25322: 11/17/2022 dict=MW, L=111893, hw=nṛlokapāla, user=
+old = BhP. 1. 
+new = BhP. LB (the -1 belongs to the next ID)
+status =  12/22/2022 confirm already corrected
+------------------------------------------------------------------------
+
+Case 25321: 11/17/2022 dict=MW, L= 111889, hw=nṛyajña, user=
+old = 5Mahā-yajñas
+new = 5 Mahā-yajñas
+comment = a space missing
+status =  12/22/2022 confirm already corrected
+------------------------------------------------------------------------
+
+Case 25319: 11/10/2022 dict=MW, L=14161, hw=amuṣya, user=Owen Fl
+old = gen. sg. of adac
+new = gen. sg. of adas
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25317: 11/02/2022 dict=MW, L=139294.1 , hw=prāg—udīcī, user=sven
+old = aiś
+new = diś
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25315: 10/31/2022 dict=MW, L= 161686.15, hw=mā, user=Vladimir Grekov, v.g.000002
+old = See
+new = see
+comment = wrong capital letter
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25314: 10/31/2022 dict=MW, L= 161686.15, hw=mā, user=Vladimir Grekov, v.g.000002
+old = may l not
+new = may I not
+comment = l (el) instead of I (ai)
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25313: 10/31/2022 dict=MW, L= 161686.05, hw=mā, user=Vladimir Grekov, v.g.000002
+old = māyathā
+new = mā yathā
+comment = missing space
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25312: 10/31/2022 dict=MW, L= 161686.05, hw=mā, user=Vladimir Grekov, v.g.000002
+old = 176 in the sense of, ‘that
+new = 176; in the sense of ‘that
+comment = missing semicolon, extra comma
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25311: 10/29/2022 dict=MW, L= 264863, hw=hvṛ, user=Vladimir Grekov, v.g.000002
+old = fall, down
+new = fall down
+comment = wrong comma
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25307: 10/08/2022 dict=MW, L= 29966, hw=īṣā, user=v.g.000002
+old = xi, 3, 9; ŚBr. ; KātyŚr. ; MBh.  &c.
+new = AV. viii, 8, 23; xi, 3, 9; ŚBr. ; KātyŚr. ; MBh.  &c.
+comment = Text of this line must be the last part of the previous one (id 29965)
+status =  12/22/2022 corrected
+------------------------------------------------------------------------
+
+Case 25305: 10/06/2022 dict=MW, L= 206989, hw=वैदिक, user=pankajdoharey
+old = If you click the printed edition of the dictionary the word is "Vaidika" pronounced as "Vaidi" + "Ka", while in Devanagari it is written as "Vaidic" (वैदिक) .
+new = Either the Devanagri version should be vaidika (वैदिका) or English word should be "Vedic" to mirror Devanagari.  The reason of confusion actually arrives because i am not sure how did we arrive at this word from "veda", which sandhi can we utilize to create this word Vaidic (Vedic) from the word Ved/Veda? LB 
+comment = Typo/Logical error.  Any information on this matter will be greatly appreciated.
+status =  12/22/2022 comment added at csl-orig
+------------------------------------------------------------------------
+
+Case 25304: 10/05/2022 dict=MW, L=40704 , hw=om, user=chandan.mazumdar
+old = 
+new = In Devanagari Unicode output, "a (Viṣṇu)" should be corrected as "अ (Viṣṇu)"
+status =  12/22/2022 Corrected.
+------------------------------------------------------------------------
+
+Case 25303: 10/05/2022 dict=MW, L= , hw=Rama, user=
+old = 
+new = 
+status =  12/22/2022  insufficient information
+------------------------------------------------------------------------
+
+Case 25302: 10/04/2022 dict=MW, L=2412, hw=aṇu, user=
+old = aṇu
+new = áṇu
+status =  12/22/2022 no change required at this time.
+------------------------------------------------------------------------
+
+Case 25301: 10/04/2022 dict=MW, L=27846 , hw=ASTra, user=chandan.mazumdar
+old = 
+new = additional entries, e.g. "a prick or goad for driving cattle" OR "an extensive forest" etc. are missing. Please check the printed copy of the dictionary.
+comment = missing entries
+status =  12/22/2022 no change required.
+------------------------------------------------------------------------
+
+Case 25298: 10/02/2022 dict=MW, L= 163895, hw=mās, user=Vladimir Grekov, v.g.000002
+old = candra. and sūrya-mās
+new = candra- and sūrya-mās
+comment = dot instead of defis after candra
+status =  12/22/2022 Correction made
+------------------------------------------------------------------------
+
+Case 25297: 10/02/2022 dict=MW, L= 92231, hw=div, user=geymonat
+old = div div, dyu ..... acc. dyām divam;
+new = div, dyu ..... acc. dyām, divam;
+comment = Typo div is repeated twice + a comma is lacking between dyām and divam
+status =  12/22/2022 Problem not found in current display.
+------------------------------------------------------------------------
+
+Case 25294: 09/27/2022 dict=mw, L=, hw=cOra, user=ejf
+old = mfn. (√cur) thievish, HPariś. ii, 170  (= corá g. prajñādi; g. chattrādi) <!!!>a thief. robber<!!!>, Mn. iv , viii , xi  (ifc.), Hariv.  
+new = a thief, robber  (period -> comma)
+comment = 
+status =  12/22/2022 corrected.
+------------------------------------------------------------------------
+
+Case 25293: 09/27/2022 dict=MW, L= 185664, hw=vaDU, user=ejf
+old = woman, young wife spouse any wife 
+new = woman, young wife, spouse, any wife 
+status =  12/22/2022 corrected.
+------------------------------------------------------------------------
+
+Case 25292: 09/26/2022 dict=MW, L= 103825, hw=नम्, user=youngsinn.sohn
+old = subject or submit, one's self (with gen. dat. or acc.), RV.  &c. &c.
+new = subject or submit one's self (with gen. dat. or acc.), RV.  &c. &c. LB 
+comment = Digitisation error
+status =  12/22/2022 corrected.
+------------------------------------------------------------------------
+
+Case 25290: 09/21/2022 dict=mw, L=, hw=sma, user=ejf
+old = relative, or prep. or verb, while in later language it frequently follows iti, <!!!>na and nā́ [cf. 1. mā́]<!!!>; it is also joined with a pres. tense or pres. participle to give them a past
+new = na and mā́ [cf. 1. mā́]  nA/ -> mA
+comment = 
+status =  12/22/2022 corrected.
+------------------------------------------------------------------------
+
+Case 25289: 09/20/2022 dict=MW, L= 191546, hw=vārivāna, user=
+old = vārivāna
+new = vārivāha
+comment = Typo in the headword itself!
+status =  12/22/2022 corrected.
+------------------------------------------------------------------------
+
+Case 25287: 09/20/2022 dict=mw, L=, hw=avaso, user=ejf
+old = to take, one's abode 
+new = to take one's abode [remove comma]
+comment = 
+status =  12/22/2022 corrected.
+------------------------------------------------------------------------
+
+Case 25285: 09/19/2022 dict=MW, L= 246256, hw=sucira, user=
+old = at, ‘after
+new = āt, ‘after
+status = Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25284: 09/17/2022 dict=mw, L=, hw=bahulI, user=ejf
+old = (H3)  [Printed book page 726,2]  bahulī—√bhū   P. -bhavati, <!!!>to be come widespread<!!!>, spread, increase (intrans.), Kāv. ; Pañcat. ; to become public or known,
+new = to become widespread (remove space)
+comment = 
+status = Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25283: 09/15/2022 dict=MW, L= 164188, hw=mitradruh, user=
+old = nom. mitra-druh
+new = nom. mitra-dhruk
+status = Corrected 12/22/2022
+------------------------------------------------------------------------
 
 Case 25277: 09/14/2022 dict=MW, L= 101159, hw=dhāv, user=Vladimir Grekov, v.g.000002
 old = run a race (ājim), Br.  run as fast as possible

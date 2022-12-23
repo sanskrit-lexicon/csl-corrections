@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of September 13, 2022
-1151 correction records, with 0 PENDING
+As of December 22, 2022
+1152 correction records, with 1 PENDING
+
+Case 25279: 09/15/2022 dict=wil, L=, hw=vyADita, user=ejf
+old = [Printed book page 819]   vyADita  mfn. (-taH-tA-taM) Sick, ill, diseased. E. <!!!>vyAGi sickness<!!!>, and itac aff.    [ID=37225]     vyAqi vyAtta vyAtyukzI vyAdAna vyADa
+new = vyADi sickness
+comment = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25265: 09/03/2022 dict=wil, L=, hw=vfti, user=ejf
 old = that of the Piper betel, which in many parts of India is surrounded and  <!!!>screened my<!!!> mats. 5 Hiding, secreting. E. वृ to choose, aff. क्तिन्.    [ID=36468]
