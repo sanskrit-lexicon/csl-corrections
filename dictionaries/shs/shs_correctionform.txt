@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of December 22, 2022
-162 correction records, with 1 PENDING
+As of December 23, 2022
+162 correction records, with 0 PENDING
 
-Case 25332: 11/19/2022 dict=SHS, L= https://www.sanskrit-lexicon.uni-koeln.de/scans/SHSScan/2020/web/webtc/indexcaller.php, hw=uttrāsa, user=shztg
+Case 25332: 11/19/2022 dict=SHS, L= , hw=uttrāsa, user=shztg
 old = uttrāsa [Printed book page 117-b] LB uttrāsa LB m. (-saḥ) Eear, terror. LB E. uta much, and trāsa fear. [ID=6840]
 new = m. (-saḥ) Fear, terror.
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 24174: 05/10/2018 dict=SHS, L= , hw=vaiśeṣikaḥ, user=

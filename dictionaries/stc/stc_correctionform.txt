@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for STC
-As of December 22, 2022
-121 correction records, with 2 PENDING
+As of December 23, 2022
+121 correction records, with 0 PENDING
 
 Case 25344: 12/18/2022 dict=STC, L= 20654, hw=SaS, user=Caujolle
 old = ṣo devant Page748-2 d qui devient. ḍ, 
 new = ṣo devant Page748-2 d qui devient ḍ, 
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25306: 10/06/2022 dict=STC, L= 24251, hw=svarNa, user=Caujolle
 old = poids (d'un kanṣa) d'or
 new = poids (d'un karṣa) d'or
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25257: 08/23/2022 dict=STC, L= 24495, hw=hṛdaya, user=Caujolle

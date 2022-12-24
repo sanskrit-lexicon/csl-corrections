@@ -1,60 +1,60 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of December 22, 2022
-759 correction records, with 8 PENDING
+As of December 23, 2022
+759 correction records, with 0 PENDING
 
 Case 25339: 12/03/2022 dict=BUR, L= 5029, hw=kRzAzva, user=Caujolle
 old = kereçàspa
 new = kerezàspa (z in HK)
 comment = the ç used by the auther to transcribe the palatal s that you transcribe by ś
-status = PENDING
+status =  12/22/2022  changed to kĕrĕçàspa.
 ------------------------------------------------------------------------
 
 Case 25338: 12/03/2022 dict=BUR, L= 3186, hw=upari, user=Caujolle
 old = the reference for "angl." is erroneous. It should be "anglais" that is all. (the "English" in bracket was probably given by me to translate to you the meaning of the word "anglais", but was not supposed to be part of the reference) 
 new = 
 comment = reference
-status = PENDING
+status =  12/22/2022 changed.
 ------------------------------------------------------------------------
 
 Case 25337: 12/03/2022 dict=BUR, L= 1817, hw=azva, user=Caujolle
 old = lith. the reference for this is "lithuanien"
 new = Note also that "[D'une racine perdue aś aller, gr. ἰϰνέομαι] Zd. aspa; lith. aszwa; lat. equus; gr. ἵππος. " should 1) be on a next line. 2) a period is missing after the greek word. ("ἰϰνέομαι.")
 comment = reference
-status = PENDING
+status = 12/22/2022  changes made
 ------------------------------------------------------------------------
 
 Case 25336: 12/03/2022 dict=BUR, L= 3630, hw=eva, user=Caujolle
 old = Zd. does not have its reference which is "zend".
 new = 
 comment = reference
-status = PENDING
+status = 12/22/2022 add 'Zd.' to burab_input.txt
 ------------------------------------------------------------------------
 
 Case 25333: 11/24/2022 dict=BUR, L= , hw=Kâm̃kchî, user=
 old = Kâm̃tchî LB 
 new = 
-status = PENDING
+status = 12/22/2022  Insufficient information
 ------------------------------------------------------------------------
 
 Case 25282: 09/15/2022 dict=BUR, L= 10528, hw=parikara, user=Caujolle
 old = Dietmction, discernement.  LB Cortége
 new = Distinction, discernement.  LB Cortège
 comment = Typo. Cortége appears in at least 19 occurences (19 headwords) and should be corrected
-status = PENDING
+status = 12/22/2022 all changed
 ------------------------------------------------------------------------
 
 Case 25281: 09/15/2022 dict=BUR, L= 1856, hw=as, user=Caujolle
 old = de la pers.
 new = add the reference which is "personne"
 comment = reference missing inspite of been underligned
-status = PENDING
+status = 12/22/2022 no change required. Tooltip works.
 ------------------------------------------------------------------------
 
 Case 25280: 09/15/2022 dict=BUR, L= 10383, hw=paca, user=Caujolle
 old = pacala m. (sfx. ata) feu;  LB pacalikalpa a. ... LB pacalpuṭa m. hibiscus phœnicus, bot. 
 new = pacata m. (sfx. ata) feu;  LB pacatikalpa a. ... LB pacatpuṭa m. hibiscus phœniceus, bot. 
 comment = Typos, three t and one e
-status = PENDING
+status = 12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25259: 08/24/2022 dict=BUR, L= 14188, hw=rudra, user=Caujolle

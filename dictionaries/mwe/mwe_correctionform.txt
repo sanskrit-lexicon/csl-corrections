@@ -1,11 +1,18 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of December 22, 2022
-67 correction records, with 1 PENDING
+As of December 23, 2022
+68 correction records, with 0 PENDING
 
 Case 25340: 12/05/2022 dict=MWE, L= 15910, hw=influenza, user=anil.bharadia
 old = साधारणश्लेप्मरोगः
 new = साधारणश्लेष्मरोगः
-status = PENDING
+status =  Corrected 12/22/2022
+------------------------------------------------------------------------
+
+Case 25309: 10/19/2022 dict=MWE, L= ID=23351, hw=present, user=samm321
+old = varttamānaḥ
+new = vartamānaḥ
+comment = varttamānaḥ : tt => t  LB =>  vartamānaḥ
+status = 12/22/2022 not an error.
 ------------------------------------------------------------------------
 
 Case 25275: 09/12/2022 dict=MWE, L= 23876, hw=Provisional, user=sanaatani

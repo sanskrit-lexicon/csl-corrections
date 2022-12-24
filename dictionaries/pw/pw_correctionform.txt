@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 22, 2022
-11841 correction records, with 2 PENDING
+As of December 23, 2022
+11841 correction records, with 0 PENDING
 
 Case 25326: 11/17/2022 dict=PW, L= 87518, hw=mud, user=frank.ziesing
 old = — Caus. LB — 1) erfreuen. anumodita erfreut. 
 new = — Caus. LB — 1) erfreuen. [/i]anumodita [i]erfreut. 
 comment = Typo: could be debatable, as in the printed version "anumodita" is in devanāgarī. However for the sake of conformity I would set "anumodita" in roman type and not in italics.
-status = PENDING
+status =  12/22/2022 no change made.
 ------------------------------------------------------------------------
 
 Case 25320: 11/15/2022 dict=PW, L= 71584, hw=pratiṣṭha, user=frank.ziesing
 old = — 2) *m. N.pr. des Vaters von Supārśva (einem Jaina-Arhaut). 
 new = — 2) *m. N.pr. des Vaters von Supārśva (einem Jaina-Arhant). 
 comment = Typo, should be "Arhant" instead of "Arhaut"
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25223: 07/16/2022 dict=PW, L= 98343, hw=2. var, user=frank.ziesing

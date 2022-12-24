@@ -423,3 +423,10 @@ L code : Headword : Old  : New : Comment
 18459 : sAraRa     : pœderia : pæderia
 18460 : sAraRi     : Pœderia : Pæderia
 -----------------------------------------------------------------------
+12-22-2022
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/987
+Source: Odile Caujolle
+L code : Headword : Old  : New : Comment
+10383  : paca     : phœnicus : phœniceus :
+19528  : parikara : cortége  : cortège : also 20 others change. Ref .../issues/989
+-----------------------------------------------------------------------
