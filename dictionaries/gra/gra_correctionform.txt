@@ -1,47 +1,47 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of December 22, 2022
-409 correction records, with 6 PENDING
+As of December 24, 2022
+409 correction records, with 0 PENDING
 
 Case 25318: 11/05/2022 dict=gra, L=, hw=makzIkA, user=gasyoun
 old = makṣīkā  [Printed book page 0969]  mákṣ<!!!>ī<!!!>kā,  f., Fliege, Biene [von mákṣā, ursprünglich  Deminutīv]. -ā vām mádhumat …
 new = mákṣīkā -> mákṣikā
 comment = 
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25316: 11/02/2022 dict=GRA, L=724 , hw=apravīta, user=pvstiles
 old = outdated and inaccurate entry 
 new = -ā 303,9  |  -āḥ [N. p. f.] 289,5
 comment = outdated and inaccurate entry; corrected in later editions 
-status = PENDING
+status =  12/22/2022 added
 ------------------------------------------------------------------------
 
 Case 25310: 10/26/2022 dict=GRA, L= 5737, hw=pṛc, user=pvstiles
 old = Stamm II. pipṛc:  LB -kta [3. pl.] sám 3) óṣadhīs mádhvā 288,21.
 new = Stamm II. pipṛc:  LB -kta [2. pl.] 
 comment = False parsing. Corrected in later editions
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25308: 10/13/2022 dict=GRA, L= 1306, hw=as, user=pvstiles
 old = -sa [s. s.] 1) 955,2.
 new = -sa [3. s.] 1) 955,2.
 comment = Typo LB It seems an early version of Graßmann has been used. Later editions correct it. 
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25300: 10/04/2022 dict=GRA, L=2848 , hw=khadira, user=pvstiles
 old = 287,9
 new = 287,19
 comment = Typo (corrected in Graßmann–Kozianka) 
-status = PENDING
+status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
 Case 25288: 09/20/2022 dict=GRA, L= 4679, hw=dhāmasaś, user=pvstiles
 old = -ś for -c
 new = headword should be dhāmsac
 comment = mis-scan
-status = PENDING
+status =  12/22/2022 corrected.
 ------------------------------------------------------------------------
 
 Case 25160: 05/11/2022 dict=GRA, L= 5957, hw=práyasvat, user=pvstiles
