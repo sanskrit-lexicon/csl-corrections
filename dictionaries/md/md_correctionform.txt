@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for MD
-As of December 20, 2021
-15 correction records, with 0 PENDING
+As of March 07, 2023
+18 correction records, with 0 PENDING
+
+Case 25405: 03/06/2023 dict=MD, L= kumAra, hw=kumāra, user=shztg
+old = child,body
+new = child,boy
+status = 03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25383: 02/18/2023 dict=md, L=, hw=kAnana, user=ejf
+old = kAnana  [Printed book page 066-1]  kAnana kānana, n. forest (sts. with vana):  <!!!>-auta, n.<!!!> forest region, forest.  [ID=5728]      ▲ kARva kAtantra kAtara kAtarya
+new = -anta, n.
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25382: 02/18/2023 dict=md, L=, hw=AliNg, user=ejf
+old = page 042-2]  AliNg ā-liṅg, I.P. Ā. or X.P. embrace.  prati, return an embrace. <!!!>sum, embrace<!!!>.  [ID=3868]      ▲ Alakzya AlaMkArika Alapana Alamba AlamBa Alaya Alarka
+new = sam, embrace
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
 
 Case 24997: 10/01/2021 dict=MD, L= ID=18471, hw= संस्थ, user=sanderrosenkilde
 old = gnly

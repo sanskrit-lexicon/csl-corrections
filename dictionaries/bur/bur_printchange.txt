@@ -430,3 +430,26 @@ L code : Headword : Old  : New : Comment
 10383  : paca     : phœnicus : phœniceus :
 19528  : parikara : cortége  : cortège : also 20 others change. Ref .../issues/989
 -----------------------------------------------------------------------
+03-07-2023
+Submitted by Odile Caujolle.
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1080
+Change abbreviation 'Ep.' to 'Ép.' épithète
+The 16 instances follow 
+{#ISa#}¦ {%īśa%} <ab>m.</ab> maître; seigneur. || <ab>Ép.</ab> de <s1 slp1="Siva">Śiva</s1>. -- <ab>F.</ab>
+souverain; maître; seigneur. <lbinfo n="6"/> || Le Seigneur, Dieu. || <ab>Ép.</ab> de <s1 slp1="Siva">Śiva</s1>, de
+l'aurore ou qui s'éveille dès l'aurore] le feu, le feu sacré. || <ab>Ép.</ab>
+vers; savant, instruit. -- <ab>S.</ab> <ab>m.</ab> poète. || <ab>Ép.</ab> du soleil comme
+roi, en <ab>gén.</ab> || <ab>Ép.</ab> de <s1 slp1="rAma">Rāma</s1>.
+<P>{%ghanavāhana%} <ab>a.</ab> {%(vah)%} porté sur un nuage. || <ab>Ép.</ab> de
+{#jizRu#}¦ {%jiṣṇu%} <ab>a.</ab> {%(ji;%} <ab>sfx.</ab> {%snu)%} victorieux. || <ab>Ép.</ab>
+{#trikAya#}¦ {%trikāya%} <ab>a.</ab> {%(kāya)%} qui a trois corps. || <ab>Ép.</ab> du
+qui sait tout. || <ab>Ép.</ab> du <s1 slp1="budDa">Buddha</s1>.
+triangulaire <ab>(?)</ab>, <ab>Vd.</ab> || <ab>Ép.</ab> d'une portion du <s1 slp1="sAmaveda">Sāma-veda</s1>. -- <ab>S.</ab> <ab>m.</ab>
+<P>{%devavrata%} <ab>a.</ab> dévot, pieux. || <ab>Ép.</ab> de <s1 slp1="BIzma">Bhīṣma</s1>.
+{#narasiMha#}¦ {%narasiṃha%} <ab>m.</ab> <ab>mms.</ab> || <ab>Ép.</ab> de <s1 slp1="vizRu">Viṣṇu</s1>.
+<P>{%nīlalohita%} <ab>m.</ab> couleur violette. || <ab>Ép.</ab> de <s1 slp1="Siva">Śiva</s1>. -- <ab>F.</ab> <ab>esp.</ab> de
+{#nEzaDa#}¦ {%naiṣadha%} <ab>a.</ab> du pays des <s1 slp1="nizaDa">Niṣadha</s1>s. || <ab>Ép.</ab> du roi
+conque, coquille, en <ab>gén.</ab> || <ab>Ép.</ab> du feu.
+<s1 slp1="rudra">Rudra</s1>, chef des <s1 slp1="marut">Marut</s1>s et époux de <s1 slp1="pfSni">Pṛśni</s1> {%(pṛśni)%}, <ab>Vd.</ab> || <ab>Ép.</ab>
+
+-----------------------------------------------------------------------

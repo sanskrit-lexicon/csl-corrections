@@ -1,6 +1,32 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 23, 2022
-11841 correction records, with 0 PENDING
+As of March 07, 2023
+11845 correction records, with 0 PENDING
+
+Case 25389: 02/20/2023 dict=PW, L= 94657, hw=rūpajīva, user=frank.ziesing
+old = rūpajīva Adj. R.2 , 36 , 3 fehlerhaft für rūpajīva.       
+new = rūpajīva Adj. R.2 , 36 , 3 fehlerhaft für rūpājīva.       
+comment = Typo. In the last rūpājīva there should be a long ā in the middle. it seems this lemma relegates to "rūpājīva", saying that the version with short "a" in the middle is false.
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25388: 02/20/2023 dict=PW, L=59224, hw=nirguṇa, user=frank.ziesing
+old = — 5) keine Vorzüge besitzen ,
+new = — 5) keine Vorzüge besitzend ,
+comment = Typo: "d" missing
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25379: 02/07/2023 dict=PW, L= 9972, hw=alasa, user=h.c.jahr
+old = trage
+new = träge
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25378: 02/05/2023 dict=PW, L= 97408, hw=vajra, user=h.c.jahr
+old = Seasamblüthe
+new = Sesamblüthe
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
 
 Case 25326: 11/17/2022 dict=PW, L= 87518, hw=mud, user=frank.ziesing
 old = — Caus. LB — 1) erfreuen. anumodita erfreut. 

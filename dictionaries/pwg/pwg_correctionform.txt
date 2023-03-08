@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of September 13, 2022
-231 correction records, with 0 PENDING
+As of March 07, 2023
+233 correction records, with 0 PENDING
+
+Case 25351: 01/05/2023 dict=PWG, L= 86814, hw=loNI, user=Caujolle
+old = d. i.  LB the reference is missing
+new = d. i.
+comment = reference
+status =  03/07/2023 '<ab>d. i.</ab>' markup added.
+------------------------------------------------------------------------
+
+Case 25350: 12/25/2022 dict=PWG, L= 88354, hw=vareNya, user=Caujolle
+old = tatsaviturva reṇyaṃ bhargo devatsya dhīmahi 
+new = tat savitur vareṇyaṃ bhargo devasya dhīmahi  LB 
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
 
 Case 25261: 08/27/2022 dict=PWG, L= , hw=vart, user=antonia.ruppel
 old = 'Could not find headword vart in dictionary PWG'

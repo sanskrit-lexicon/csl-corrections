@@ -1,6 +1,69 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of December 23, 2022
-759 correction records, with 0 PENDING
+As of March 08, 2023
+768 correction records, with 0 PENDING
+
+Case 25396: 02/22/2023 dict=BUR, L= 3966, hw= kapivallī , user=Caujolle
+old = mms que kapittha.
+new = mms. que kapittha.
+comment = Reference, mms is here for the reference "mms.", so it should be corrected as "mms."
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25395: 02/22/2023 dict=BUR, L= 15300, hw=vij, user=Caujolle
+old =  mms que vic. 
+new =  mms. que vic. 
+comment = reference, mms is here for the reference "mms." so it should be corrected as "mms."
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25394: 02/22/2023 dict=BUR, L= 15971, hw=bIja, user=Caujolle
+old = it would be nice to create an entry "bīja" saying: "Voir à vīja"  ("See at vīja")
+new = 
+comment = 
+status =  : 03/07/2023 no change made.
+------------------------------------------------------------------------
+
+Case 25393: 02/21/2023 dict=BUR, L= 8705, hw=didhiSApya, user=Caujolle
+old = didhiṣāpya didhiṣāpya m. [pf. de l'inus. LB didhiṣāpayāmi (dhā)]
+new = didhiṣāpya didhiṣāpya m. [pf. de l'inus. didhiṣāpayāmi (dhā)]
+comment = this should be on the same line (didhiṣāpayāmi is not a second entry)
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25392: 02/21/2023 dict=BUR, L= 13753, hw=yazas, user=Caujolle
+old = yaśas n. (yaś inus.) gloire, éclat, splendeur. 
+new = the abbreviation "inus." is not referenced, it stand for "inusité". There seems to be 8 such occurences in the dict.
+comment = abbreviation reference missing
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25368: 01/28/2023 dict=BUR, L= 2739, hw=Iza, user=Caujolle
+old = Ep. de Śiva. 
+new = Here 'Ep.' is not referenced; it stand for 'épithète' (or [but not necessary], here, 'Épithète') (and should be written 'Ép.') I found 16 occurences. (it is the capital letter version of 'ép.' and should be written 'Ép.')
+comment = référence and 'typo'
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25365: 01/25/2023 dict=BUR, L= 14881, hw=vaza, user=Caujolle
+old = — M. maison de prostituèes. 
+new = — M. maison de prostituées. 
+comment = Typo (accent)
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25356: 01/13/2023 dict=BUR, L=3461, hw=USma, user=Caujolle
+old = [ś, ṣ, s, h, s, ᳲ devant k, ᳲ devant p,
+new = the second s is not an s (it is a sign somewhat like the yin yang sign) ; anyway i wonder what it means. Same for the ᳲ sig n (what does it mean?)
+comment = Typo, reference
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25353: 01/11/2023 dict=BUR, L= 14801, hw=varga, user=Caujolle
+old = t. d'arithm.          
+new = "d'arithm." is not referenced. Anyway, "t. d'arithm." should be a single reference, as "terme d'arithmétique". This appears four times in the dictionary.
+comment = reference
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
 
 Case 25339: 12/03/2022 dict=BUR, L= 5029, hw=kRzAzva, user=Caujolle
 old = kereçàspa

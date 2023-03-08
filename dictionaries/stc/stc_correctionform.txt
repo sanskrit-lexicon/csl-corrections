@@ -1,6 +1,78 @@
 Sanskrit Lexicon Correction Form History for STC
-As of December 23, 2022
-121 correction records, with 0 PENDING
+As of March 08, 2023
+132 correction records, with 0 PENDING
+
+Case 25400: 03/02/2023 dict=STC, L= 7404, hw=aiśvara, user=Caujolle
+old = appartenant. à Śiva ; 
+new = appartenant à Śiva ; 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25381: 02/14/2023 dict=STC, L= 15247, hw=pravac, user=Caujolle
+old = prokta- v. s. v. 
+new = here it is normally a single reference "v. s. v." whereas it is here processed as two ("v." and "s. v.") resulting in redondance. (Other occurences seem ok, they are properly processed)
+comment = reference
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25376: 02/02/2023 dict=STC, L= 16009, hw=bṛhant, user=Caujolle
+old = bṛhant- -atī- (propr. partic. de BṚH-)
+new = propr. is not referenced and stand for "proprement"
+comment = reference (13 occurences)
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25372: 01/29/2023 dict=STC, L= 13869, hw=puras, user=Caujolle
+old = prép. avant. (temps et lieu) ; 
+new = prép. avant (temps et lieu) ; 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25370: 01/28/2023 dict=STC, L= 20593, hw=zreyasa, user=Caujolle
+old = ifc. śreyas- (v. le suiv.). 
+new = ifc. v. śreyas- (v. le suiv.).     LB 'suiv.' is to be referenced; it stand for 'le mot ou l'entrée suivante' (many occurences)
+comment = Typo and reference
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25369: 01/28/2023 dict=STC, L= 10953, hw=daivata, user=Caujolle
+old = (qqf. coll.)
+new = 'coll.' is not referenced, it stand for, 'collectif'. Frequent abbreviation.
+comment = reference
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25366: 01/26/2023 dict=STC, L= 14199, hw=pracodita, user=Caujolle
+old = mis en mouvement, poussé , excité; ordonné, commandé; annoncé, proclamé . 
+new = mis en mouvement, poussé, excité ; ordonné, commandé ; annoncé, proclamé.  (4 mistakes)
+comment = Typo; in case you correct the general problem of lacking the unbreakable space before the ";" etc. (: ! ?) please do also solve the many extra space before the dot or before the coma. 
+status =  03/07/2023 no change
+------------------------------------------------------------------------
+
+Case 25362: 01/17/2023 dict=STC, L= 14119, hw=prakRti, user=Caujolle
+old = for example, because before the ";" there is no unbreakable space but instead an ordinary space, i find a line beginning with ";". that of course is not normal (it may not appear on your screen because we dont have the same "zoom").
+new = unbreakable spaces before ; : ! ? and  »
+status =  03/07/2023 no change.
+------------------------------------------------------------------------
+
+Case 25361: 01/17/2023 dict=STC, L= 17458, hw=rUpa, user=Caujolle
+old = caractère, caractéristique , 
+new = caractère, caractéristique, LB  (all along the dict. there are occurences like this with a blank before a coma (which blank should not be there), or before a dot (same remark).
+status =  03/07/2023 corrected.
+------------------------------------------------------------------------
+
+Case 25360: 01/17/2023 dict=STC, L= 9894, hw=taraGga, user=Caujolle
+old = In French, before ; : ! and ? (4 cases) there should be a blank, and that blanc should be a non-breaking space. That is also true for « (here the unbreakable space should be after it) and » (here the unbreakable space should be before); example "« comment va la santé ? »" [for « and », the blank is often here (in the dict.) but it in general is not unbreakable].
+new = So here for example it should look like: "m. vague, onde ; ondoiement, mouvement ondoyant, sautillant, remous, va et vient."
+status =  03/07/2023 corrected.
+------------------------------------------------------------------------
+
+Case 25358: 01/15/2023 dict=STC, L= 13729, hw=pArtha, user=Caujolle
+old = pārtha- m. métron. de Yudhiṣṭhira,
+new = métron. is the abbreviation for métronyme
+comment = ref missing
+status =  03/07/2023 corrected.
+------------------------------------------------------------------------
 
 Case 25344: 12/18/2022 dict=STC, L= 20654, hw=SaS, user=Caujolle
 old = ṣo devant Page748-2 d qui devient. ḍ, 

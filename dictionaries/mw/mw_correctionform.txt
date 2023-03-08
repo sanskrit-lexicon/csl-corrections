@@ -1,6 +1,102 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 23, 2022
-1805 correction records, with 0 PENDING
+As of March 07, 2023
+1820 correction records, with 0 PENDING
+
+Case 25397: 02/26/2023 dict=MW, L=117265, hw=parigraha, user=owen171190
+old = 2 gift or present
+new = a gift or present
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25390: 02/20/2023 dict=MW, L=176387, hw=rājadhānikā, user=
+old = The definition is simply missing. This entry as 3 headwords (with rājadhānaka and rājadhāna), they all have the same problem
+new = add the definition
+comment = omission 
+status = 03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25387: 02/19/2023 dict=MW, L= Santoṣa, hw=Santoṣa, user=
+old = Santoṣa
+new = Santoṣa
+status =  03/07/2023 insufficient information.
+------------------------------------------------------------------------
+
+Case 25385: 02/18/2023 dict=MW, L= 226236, hw= saṃvidhā, user=Caujolle
+old = to make use of. act or proceed with (instr.),
+new = to make use of, act or proceed with (instr.),
+comment = Typo 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25374: 01/30/2023 dict=MW, L= 200610, hw=vizeSa, user=Caujolle
+old = the 5th cate gory or Padārtha,
+new = the 5th category or Padārtha,
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25373: 01/30/2023 dict=MW, L= 149697, hw=bhAj, user=Caujolle
+old = sensible of. devoted to, 
+new = sensible of, devoted to, 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25371: 01/28/2023 dict=MW, L=162066, hw=mAThavya, user=chandan.mazumdar
+old = Missing hyperlink
+new = Reference "Śak " as śakuntalā (most likely) is not provided in the hyperlink
+comment = Missing hyperlink
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25364: 01/25/2023 dict=MW, L= ID=89160, hw=त्वेष, user=youngsinn.sohn
+old = त्वेष mf(आ)n. vehement, impetuous, causing fear awful, RV.
+new = त्वेष mf(आ)n. vehement, impetuous, causing fear, awful, RV.
+comment = digitisation error
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25363: 01/18/2023 dict=MW, L= [ID=210350], hw=vyoman, user=samm3
+old = vyoman m.
+new = vyoman n.
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25359: 01/15/2023 dict=MW, L= 41156, hw=aupoditeya, user=Caujolle
+old = aupoditeya temp_change_page_0238.txtm. a descendant of Aupoditī, ŚBr. i.  
+new = aupoditeya, as, m. a descendant of Aupoditī, ŚBr. i.  
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25357: 01/14/2023 dict=MW, L= , hw=adhī (√ i), user=seandgaffney
+old = adhy-eti, or adhy-eti 
+new = adhy-éti, or ádhy-eti
+status =  03/07/2023 No correction needed.
+------------------------------------------------------------------------
+
+Case 25355: 01/12/2023 dict=MW, L= 80017, hw=जुष्, user=youngsinn.sohn
+old = to like, be fond of delight in (acc. or gen.), enjoy, RV.  (with तन्वाम् or °वस्, ‘to be delighted’,  iii, 1, 1; x, 8, 3 ), AV.  &c.;
+new = to like, be fond of, delight in (acc. or gen.), enjoy, RV.  (with तन्वाम् or °वस्, ‘to be delighted’,  iii, 1, 1; x, 8, 3 ), AV.  &c.;
+comment = digitisation error
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25354: 01/11/2023 dict=MW, L= 187224, hw=vargIya, user=Caujolle
+old = ka-vargīya, a guttural, pa-vargīya, a palatal
+new = "ka-vargīya, a guttural, ca-vargīya, a palatal".   I believe the mistake is a typo from the Monier-Williams; the correction is also logical as ca-vargīya comes after the ka-vargīya. Of course, it could also be "ka-vargīya, a guttural, pa-vargīya, a labial". As pa-varga is the last varga (ka-varga been the first).
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25352: 01/05/2023 dict=MW, L= 216797, hw=śikhin, user=shztg
+old = of the second Buddhi
+new = of the second Buddha
+status =  03/07/2023 Corrected
+------------------------------------------------------------------------
+
+Case 25349: 12/24/2022 dict=MW, L=80585 , hw=jyeṣṭhatāti, user=
+old = 5-4, 61
+new = 5-4, 41
+comment = MW's error
+status =  03/07/2023 Corrected (print change)
+------------------------------------------------------------------------
 
 Case 25348: 12/23/2022 dict=MW, L= , hw=Meaning , user=
 old = Swayam

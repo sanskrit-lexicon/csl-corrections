@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP
-As of September 14, 2022
-527 correction records, with 0 PENDING
+As of March 08, 2023
+529 correction records, with 0 PENDING
+
+Case 25406: 03/07/2023 dict=ap, L= 0979-2, hw=परिपन्थिन्, user=torbium
+old = बशमागच्छेत्
+new = वशमागच्छेत्
+status = 03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25386: 02/19/2023 dict=Ap, L= 0689-1, hw=घ्न, user=torbium
+old = बालध्नः, वातध्नः, पित्तध्नः; depriving one of, taking away; पुण्यध्न, धर्मध्न
+new = बालघ्नः वातघ्नः, पित्तघ्नः; depriving one of, taking away; पुण्यघ्न, धर्मघ्न
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
 
 Case 25034: 11/29/2021 dict=ap, L= A. Peter, hw=बालुका , user=amram.peter
 old = बालुका 

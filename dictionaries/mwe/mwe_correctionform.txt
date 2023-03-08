@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of December 23, 2022
-68 correction records, with 0 PENDING
+As of March 07, 2023
+69 correction records, with 0 PENDING
+
+Case 25403: 03/03/2023 dict=MWE, L= , hw=summer, user=emeraldo
+old =  grīpmaḥ
+new = grīṣma 
+comment = The graphic signs for p and the cerebral sibilant are confused.
+status =  03/07/2023 corrected  
+------------------------------------------------------------------------
 
 Case 25340: 12/05/2022 dict=MWE, L= 15910, hw=influenza, user=anil.bharadia
 old = साधारणश्लेप्मरोगः

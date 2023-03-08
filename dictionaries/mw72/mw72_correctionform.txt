@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of December 23, 2022
+As of March 07, 2023
 117 correction records, with 0 PENDING
 
-Case 25346: 12/22/2022 dict=MW72, L= "><img src=a onerror=prompt(1)>, hw="><img src=a onerror=prompt(1)>, user=
-old = "><img src=a onerror=prompt(1)>
-new = "><img src=a onerror=prompt(1)>
-comment = "><img src=a onerror=prompt(1)>
-status =  12/22/2022 xss trial 
+Case 25346: 12/22/2022 dict=MW72, L= dummy , hw=trial, user=
+old = xx
+new = xx
+comment = trial
+status =  12/22/2022
 ------------------------------------------------------------------------
 
 Case 24412: 05/14/2019 dict=MW72, L= 3990, hw=अप्रवृत्त, user=sanaatani

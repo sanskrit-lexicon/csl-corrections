@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of December 23, 2022
-1152 correction records, with 0 PENDING
+As of March 07, 2023
+1153 correction records, with 0 PENDING
+
+Case 25384: 02/18/2023 dict=wil, L=, hw=svABAvika, user=ejf
+old = book page 965]   svABAvika  mfn. (-kaH-kI-kaM) Natural, peculiar, inherent. E. <!!!>svaBAba<!!!> natural property or nature, Wak aff.    [ID=43788]      ▲ svADInatA
+new = svaBAva 
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
 
 Case 25279: 09/15/2022 dict=wil, L=, hw=vyADita, user=ejf
 old = [Printed book page 819]   vyADita  mfn. (-taH-tA-taM) Sick, ill, diseased. E. <!!!>vyAGi sickness<!!!>, and itac aff.    [ID=37225]     vyAqi vyAtta vyAtyukzI vyAdAna vyADa

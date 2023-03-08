@@ -1,6 +1,68 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 23, 2022
-500 correction records, with 0 PENDING
+As of March 07, 2023
+509 correction records, with 0 PENDING
+
+Case 25404: 03/06/2023 dict=ap90, L=, hw=sarva, user=ejf
+old = Agni. — sADanaH Śiva. — sidDiH f. universal success. (— m.) the Bilva tree. — <!!!>syaM<!!!>  1 everything, the whole of one's  (pb)  possessions; as in sarvasvadaMqaH,
+new = svaM   [everything, ...]
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25402: 03/03/2023 dict=ap90, L=, hw=vf, user=ejf
+old = vavAra rAmasya vanaprayARaM Bk. 3. 6.  2 To choose for oneself (Atm.); vfRate  <!!!>hivimfSya<!!!>kAriRaM guRalubDAH svayameva saMpadaH Ki. 2. 30 ; yadeva vavre tadapaSyadAhftaM
+new = hi vimfSya [add space]
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25401: 03/03/2023 dict=ap90, L=, hw=vf, user=ejf
+old = vf  [Printed book page 1005-a]  vf  I. 1 5 9 U. (varati-te,  <!!!>vfRotivfRute<!!!>, vfRAti-vfRIte, vfta; pass. vriyate) 1 To choose, select, select as a boon;
+new = vfRoti-vfRute [add hyphen]
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25399: 03/01/2023 dict=ap90, L=, hw=dur, user=ejf
+old = — atikrama a.  1 difficult to be overcome or conquered,  unconquerable; <!!!>sbaBAvo<!!!> duratikramaH  ‘nature cannot be changed’;   svajAtirduratikramA Pt. 1.   2
+new = svaBAvo
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25398: 02/27/2023 dict=AP90, L= 0872-c, hw=मूढ, user=vanillapapa
+old = मुह-क्त
+new = मुह्-क्त
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
+
+Case 25380: 02/09/2023 dict=ap90, L=, hw=vid, user=ejf
+old = uBayorvidaMte PalaM Bg. 5. 4 ; Y. 3. 192.  2 To find, discover, recognise; yaTA <!!!>Denusarhasrezu<!!!> vatso viMdati mAtaraM Subhāṣ. ;   (pb)  Ms. 8. 109.  3 To feel, experience;
+new = Denusahasrezu 
+comment = 
+status =  03/07/2023 corrected 
+------------------------------------------------------------------------
+
+Case 25377: 02/04/2023 dict=ap90, L=, hw=paScima, user=ejf
+old = a. [paScAdBavaH qimac] 1 Being behind, hindmost. 2 Last (in time or space); <!!!>pAScite<!!!> vayasi vartamAnasya   K. 25 ; R. 19. 1 , 54 ;   paScimAdyAminIyAmAtprasAdamiva
+new = paScime
+comment = 
+status =  03/07/2023 corrected 
+------------------------------------------------------------------------
+
+Case 25375: 02/02/2023 dict=ap90, L=, hw=dakza, user=ejf
+old = on the right side. 4 South, southern; as in dakziRavAyu, dakziRadik. 5 <!!!>Sitvated<!!!> to the south. 6 Sincere, straightforward, honest, impartial. 7 Pleasing,
+new = Situated
+comment = 
+status =  03/07/2023 corrected 
+------------------------------------------------------------------------
+
+Case 25367: 01/27/2023 dict=ap90, L=, hw=nirmita, user=ejf
+old = nfpaH Ms. 7. 5 ; 1. 13.  2 (a) To build, form, construct; snAyunirmitA ete <!!!>pASAH H<!!!>  1 (b) To cause to be settled,  colonize (as a town 
+new = pASAH  (remove extra visarga)
+comment = 
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
 
 Case 25345: 12/22/2022 dict=ap90, L=, hw=galita, user=ejf
 old = p. p. [gal-kta] 1 Dropped or fallen down. 2 Melted. 3  Oozed, flowing. 4 <!!!>Lost, vanished, de. prived.<!!!> 5 Untied, got loose. 6 Emptied, leaked away. 7 Filtered. 8 Decayed, impaired.

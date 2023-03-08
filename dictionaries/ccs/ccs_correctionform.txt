@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of September 13, 2022
-2263 correction records, with 0 PENDING
+As of March 07, 2023
+2264 correction records, with 0 PENDING
+
+Case 25391: 02/21/2023 dict=CCS, L= 15501, hw=pratyaya, user=frank.ziesing
+old = Vorstellung, Grund, Ursachel; 
+new = Vorstellung, Grund, Ursache; 
+comment = Typo superfluous "l" at the end of "Ursache"
+status =  03/07/2023 corrected
+------------------------------------------------------------------------
 
 Case 25202: 06/28/2022 dict=CCS, L= 20715, hw=lakṣaṇa, user=frank.ziesing
 old = Andeutung. d. i. indirecte bezeichnung (rh.). n. Merkmal, Zeichen, Attribut, Glücks- o. Vorzugsmerkmal, Geschlechtsmerkmal d. i. -teile); Bezeichnung, Definition, Be- nennung, Art, Spezies, Ziel, Richthung, Vernlassung, Gelegenheit.
