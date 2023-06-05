@@ -4,3 +4,5 @@ Replacement for sanskrit-lexicon/CORRECTIONS. User corrections to sanskrit-lexic
 See README-init.md for how this repository was initialized.
 
 (debug text)
+(debug text from local)
+
