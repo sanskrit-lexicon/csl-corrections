@@ -1,6 +1,50 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of March 08, 2023
-768 correction records, with 0 PENDING
+As of June 07, 2023
+775 correction records, with 0 PENDING
+
+Case 25523: 06/05/2023 dict=BUR, L= 735, hw=anusaṃhita, user=Caujolle
+old = conforme à la. saṃhitā. 
+new = conforme à la saṃhitā. 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25522: 06/04/2023 dict=BUR, L=10047, hw=nirvṛta , user=Caujolle
+old = nirvṛli ; but also under nirvṛtta ID 10048 nirvṛlli 
+new = nirvṛti ; nirvṛtti 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25481: 05/15/2023 dict=BUR, L= 2923, hw=udaya , user=Caujolle
+old = Tg. is not referenced, seemingly because of the capital letter (the "tg." are properly referenced)
+new = 
+comment = 
+status = 06-05-2023 changed burab_input in csl-pywork
+------------------------------------------------------------------------
+
+Case 25478: 05/10/2023 dict=BUR, L= 10567, hw=paricinomi, user=Caujolle
+old = ètre 
+new = être 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25476: 05/08/2023 dict=BUR, L= 8477, hw=darśana , user=Caujolle
+old = ètre 
+new = être 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25475: 05/07/2023 dict=BUR, L=2923 , hw=udaya , user=Caujolle
+old = Tg. 
+new = "Tg. " stands for "terme grammatical" (very frequent)
+comment = reference; I also noticed on the way, "nég." for "négatif" (see at ariphita)
+status = corrected burab_input.txt 06-05-2023
+------------------------------------------------------------------------
+
+Case 25423: 03/14/2023 dict=BUR, L= 6442, hw=car, user=Caujolle
+old = l'àne mange avec plaisir 
+new = l'âne mange avec plaisir 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25396: 02/22/2023 dict=BUR, L= 3966, hw= kapivallī , user=Caujolle
 old = mms que kapittha.

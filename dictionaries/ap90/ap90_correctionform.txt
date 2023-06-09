@@ -1,6 +1,51 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of March 07, 2023
-509 correction records, with 0 PENDING
+As of June 07, 2023
+516 correction records, with 0 PENDING
+
+Case 25517: 06/02/2023 dict=AP90, L= 12171, hw=khid, user=srhodes
+old = khiṃdati
+new = khidati
+status = 06-05-2023 no change
+------------------------------------------------------------------------
+
+Case 25487: 05/20/2023 dict=ap90, L=25556, hw=vAsaraH, user=ejf
+old = page 0963-c]  vAsaraH -raM  A day (of the week). — raH N. of a Nāga. Comp. — <!!!>sagaMH morning<!!!>.                   [ID=25555]      ▲ vAzpaH vAs vAsaH vAsaka vAsanaM
+new = saMgaH morning
+comment = 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25485: 05/19/2023 dict=ap90, L=17788, hw=paras, user=ejf
+old = Ved. In future, afterwards. Comp. — kṛṣṇa a. very black. — puṃsā Ved. a woman <!!!>net<!!!> satisfied with her husband (and therefore seeking for a paramour). — puruṣa a.
+new = not
+comment = 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25473: 05/06/2023 dict=AP90, L= 22582, hw=madaḥ, user=srhodes
+old = (pb) pasion; 
+new = (pb) passion; 
+comment = Typo; [located under the compound mada-aṃdha a. (1)].
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25451: 04/17/2023 dict=AP90, L= 17657, hw=paṃḍā, user=srhodes
+old = apūṃrva
+new = apūrvam
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25440: 04/01/2023 dict=AP90, L=340 , hw=acchāvākaḥ, user=srhodes
+old = udrātṛ
+new = udgātṛ
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25412: 03/12/2023 dict=AP90, L= 0510-b, hw=जागृ, user=vanillapapa
+old = जागार्ति
+new = जागर्ति
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25404: 03/06/2023 dict=ap90, L=, hw=sarva, user=ejf
 old = Agni. — sADanaH Śiva. — sidDiH f. universal success. (— m.) the Bilva tree. — <!!!>syaM<!!!>  1 everything, the whole of one's  (pb)  possessions; as in sarvasvadaMqaH,

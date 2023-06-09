@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of March 07, 2023
-117 correction records, with 0 PENDING
+As of June 07, 2023
+118 correction records, with 0 PENDING
+
+Case 25455: 04/22/2023 dict=MW72, L= , hw=rāgapratighamānaiḥ, user=
+old = rāgapratighamānaiḥ
+new = 
+status =  06-05-2023 insufficient information
+------------------------------------------------------------------------
 
 Case 25346: 12/22/2022 dict=MW72, L= dummy , hw=trial, user=
 old = xx

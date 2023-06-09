@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AE
-As of December 20, 2021
-99 correction records, with 0 PENDING
+As of June 07, 2023
+100 correction records, with 0 PENDING
+
+Case 25409: 03/11/2023 dict=ae, L=7729, hw=pause, user=ejf
+old = pause  [Printed book page 334]  Pause,  v. i. <!!!>vi-up-ram<!!!> 1 P, nivft;
+new = vi-upa-ram   [print error]
+comment = 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25035: 11/29/2021 dict=AE, L= 4968, hw=home, user=SergeA
 old = gṛhaj-jāta,

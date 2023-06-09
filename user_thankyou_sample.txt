@@ -1,0 +1,20 @@
+Dear Friend:
+Dear Friend -
+  Thank you for the corrections to MW dictionary.
+  The corrections have been installed.
+  
+Regards,
+
+ Jim Funderburk
+
+You wrote:
+Case 25413: 03/14/2023 dict=MW, L= 1500, hw=aNgIkf, user=michaelnm.meyer
+old = <pc>7,</pc>
+new = <pc>7,2</pc>
+
+Case 25414: 03/14/2023 dict=MW, L=20303, hw=azwAstanA, user=michaelnm.meyer
+old = <pc>116,3cd</pc>
+new = <pc>116,3</pc>
+ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/NNNN
+
+

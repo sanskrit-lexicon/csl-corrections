@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for PW
-As of March 07, 2023
-11845 correction records, with 0 PENDING
+As of June 07, 2023
+11851 correction records, with 0 PENDING
+
+Case 25511: 05/29/2023 dict=PW, L= 32121, hw=kliś, user=frank.ziesing
+old = — a) geplagt , gequält , belästgt
+new = — a) geplagt , gequält , belästigt
+comment = Typo "i" is missing in "belästigt"
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25510: 05/29/2023 dict=PW, L= 31701, hw=kram, user=frank.ziesing
+old = — 2) zu Ind (Loc.) gehen , 
+new = — 2) zu Jmd (Loc.) gehen , 
+comment = Typo: should be "Jmd" instead of "Ind"
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25493: 05/23/2023 dict=PW, L= 24903, hw=karṇa, user=frank.ziesing
+old = — 1) Ohr karṇe is's Ohr
+new = — 1) Ohr karṇe in's Ohr
+comment = Typo: there should be an "n" instead of an "s" in "in's Ohr"
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25488: 05/21/2023 dict=PW, L= 13388, hw=ākāra, user=frank.ziesing
+old = ākāramudvah eine wichtige Miene machen
+new = ākāramudvaha eine wichtige Miene machen
+comment = Typo: I believe "ākāramudvah" doesn't make sense. However the The scan is not quite clear, as there is a strange horizontal line under the h, but it doesn't look like an avagraha. Anyhow, "ākāramudvaha" would make sense. 
+status =  06-05-2023 no change made
+------------------------------------------------------------------------
+
+Case 25437: 03/27/2023 dict=PW, L= 134540, hw=hiṃs, user=frank.ziesing
+old = — Desid. jihiṃsiṣati verletze u.s.w. wollen.
+new = — Desid. jihiṃsiṣati verletzen u.s.w. wollen.
+comment = Typo "n" missing in verletzen
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25408: 03/10/2023 dict=PW, L= 48121, hw=tryambaka, user=frank.ziesing
+old = trayāṇaṃ vdānāmambako vaktā
+new = trayāṇaṃ vedānāmambako vaktā
+comment = Typo "e" missing in vdānām
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25389: 02/20/2023 dict=PW, L= 94657, hw=rūpajīva, user=frank.ziesing
 old = rūpajīva Adj. R.2 , 36 , 3 fehlerhaft für rūpajīva.       

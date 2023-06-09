@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MD
-As of March 07, 2023
-18 correction records, with 0 PENDING
+As of June 07, 2023
+19 correction records, with 0 PENDING
+
+Case 25431: 03/21/2023 dict=MD, L= 7313, hw=ca, user=shztg
+old = ththā ca, moreover
+new = tathā ca, moreover
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25405: 03/06/2023 dict=MD, L= kumAra, hw=kumāra, user=shztg
 old = child,body

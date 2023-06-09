@@ -1,6 +1,46 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of March 08, 2023
-410 correction records, with 0 PENDING
+As of June 07, 2023
+416 correction records, with 0 PENDING
+
+Case 25513: 05/30/2023 dict=GRA, L=10283 , hw=sthūṇā, user=pvstiles
+old =  Sā́ule
+new = Säule
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25505: 05/28/2023 dict=GRA, L= 7736, hw=varcas, user=pvstiles
+old = várcas, n., Glanz, namentlich 1) den Agni giebt oder empfängt; 2) der Sonne; 2) bildlich Glanz, Ansehen, Herrlichkeit
+new = The second 2) should be 3) 
+comment = Typo (in the original) 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25470: 05/02/2023 dict=GRA, L= 8336, hw=vR, user=pvstiles
+old = -uṣva sám prá agnés várma pī́vasā 642,7.
+new = 842,7
+comment = Graßmann error
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25464: 04/29/2023 dict=GRA, L= 5524, hw=pī́vas        , user=pvstiles
+old = -asa 842,7
+new = -asā (not -asa) 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25459: 04/25/2023 dict=GRA, L= 2801, hw=kṣip, user=pvstiles
+old = Aor. des Caus. cikṣipa:  LB -as [C.] mā́ tvácam, śárīram 842,1. 
+new = This form is no longer taken as belonging to this verb, but to kṣā. LB See Geldner Note 1b. 
+comment = Misassignment by Graßmann. LB So ADDITION (?) 
+status = yet to be done 06-05-2023
+------------------------------------------------------------------------
+
+Case 25454: 04/19/2023 dict=GRA, L= 255, hw=atra, user=Yuzuki Tsukagoshi (juzki13
+old = 163,5. 7; 164,1. 6. 21 (wo yátra entspricht). 33; LB Reference is not working
+new = 163,5. 7 indicates to refer 163,5 and 163,7. LB 164,1. 6. 21 (wo yátra entspricht). 33 does also 164,1, 164,6, 164,21, and 164,33.
+comment = Reference
+status = :corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25407: 03/07/2023 dict=GRA, L= 816, hw=abhiṣṭi, user=pvstiles
 old = Omission of entry

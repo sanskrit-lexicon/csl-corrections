@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of March 07, 2023
-1153 correction records, with 0 PENDING
+As of June 07, 2023
+1154 correction records, with 0 PENDING
+
+Case 25516: 06/01/2023 dict=WIL, L=42324, hw=सुरदीर्धिका, user=
+old = wrong headword
+new = suradīrghikā instead of °dhikā
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25384: 02/18/2023 dict=wil, L=, hw=svABAvika, user=ejf
 old = book page 965]   svABAvika  mfn. (-kaH-kI-kaM) Natural, peculiar, inherent. E. <!!!>svaBAba<!!!> natural property or nature, Wak aff.    [ID=43788]      ▲ svADInatA

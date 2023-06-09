@@ -1,6 +1,469 @@
 Sanskrit Lexicon Correction Form History for MW
-As of March 07, 2023
-1820 correction records, with 0 PENDING
+As of June 07, 2023
+1893 correction records, with 0 PENDING
+
+Case 25525: 06/05/2023 dict=MW, L= 141403, hw=plakSa, user=chandan.mazumdar
+old = a side door or the space at the s° of a d°
+new = "s°" is identified as "space". Would it not be "side" instead ?
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25519: 06/02/2023 dict=MW, L= 119023, hw=parisara, user=srhodes
+old = a veils
+new = a vein
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25518: 06/02/2023 dict=MW, L=242592, hw= sāmpratam, user=samm3
+old =  sāmpratam
+new = sāṃpratam [m -> ṃ]
+comment = [m -> ṃ] LB The number of errors of this kind is not a few in MW(1899), which causes  the inconvenience of searching words. (Thanks)
+status =  06-05-2023 no change
+------------------------------------------------------------------------
+
+Case 25515: 05/31/2023 dict=MW, L= 19215, hw=avairahatya, user=srhodes
+old = (a-virahatya)
+new = (a-vīrahatya)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25514: 05/31/2023 dict=MW, L= 175419, hw=ravīndra, user=srhodes
+old = sunrendra
+new = surendra
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25512: 05/30/2023 dict=MW, L= 10076, hw=apālamba, user=srhodes
+old = a kind of break
+new = a kind of brake
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25509: 05/29/2023 dict=MW, L= 18497, hw=avācchid, user=srhodes
+old = avāc-√chid
+new = avā-√chid
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25508: 05/29/2023 dict=MW, L= 18501.1, hw=avākchruti, user=srhodes
+old = WRONG PLACEMENT
+new = avākchruti SHOULD BE PLACED UNDER (avāc)-1; THIS MUST BE A SANDHI VARIANT OF avākśruti
+comment = WRONG PLACEMENT
+status = no change 06-05-2023
+------------------------------------------------------------------------
+
+Case 25507: 05/29/2023 dict=MW, L= 18418, hw=avasphūrj, user=srhodes
+old = (p. -sphūjat)
+new = (p. -sphūrjat)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25506: 05/28/2023 dict=MW, L= 14107, hw=amitragha, user=geymonat
+old = mfn. killing, enemies, MBh. ; R. 
+new = mfn. killing enemies, MBh. ; R. 
+comment = Typo The comma between "killing" and "enemies" should be removed
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25504: 05/27/2023 dict=MW, L= 18165, hw=avaśuṣ, user=srhodes
+old = śṣyats
+new = -śuṣyati
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25503: 05/27/2023 dict=MW, L= 18128, hw=avavraśca, user=srhodes
+old = splinter chip
+new = splinter, chip
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25502: 05/27/2023 dict=MW, L= 18163, hw=avaśī, user=srhodes
+old = Imper. -śīyatam)
+new = Imper. -śīyatām)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25501: 05/26/2023 dict=MW, L= 17765, hw=avamajj, user=srhodes
+old = (p. f. majjanti)
+new = (p. f. majjantī)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25500: 05/25/2023 dict=MW, L= 17842, hw=avayu, user=srhodes
+old = (p. fem. -yuvati)
+new = (p. fem. -yuvatī)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25499: 05/25/2023 dict=MW, L=17826 , hw=avamṛśya, user=srhodes
+old = an-vamṛlsya
+new = an-vamṛsya
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25498: 05/25/2023 dict=MW, L= 17665, hw=avapāka, user=srhodes
+old = no momentum
+new = no omentum
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25497: 05/25/2023 dict=mw, L=14479, hw=ambI, user=ejf
+old = (H2)  [Printed book page 83,3]  ambI   f. = <!!!>ambI, q.v.,<!!!> RV. viii, 72, 5 (acc. ambyAm) 
+new = ambi/, q.v.,
+comment = 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25496: 05/24/2023 dict=MW, L= 17645, hw=avapaṭ, user=srhodes
+old = Pass. -pātyate
+new = Pass. -pāṭyate
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25495: 05/24/2023 dict=MW, L= 17396, hw=avadīp, user=srhodes
+old = (p. -dipyamāna) 
+new = (p. -dīpyamāna) 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25494: 05/24/2023 dict=MW, L= 92661, hw=dīna, user=srhodes
+old = (fr. √3. di?)
+new = (fr. √3. dī?)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25492: 05/23/2023 dict=MW, L=21146, hw=asūyu, user=srhodes
+old = (See an-asuyu.)
+new = (See an-asūyu.)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25491: 05/23/2023 dict=MW, L= 17388, hw=avadāta, user=srhodes
+old = (√das)
+new = (√dai)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25490: 05/23/2023 dict=MW, L= 17218, hw=avaci, user=srhodes
+old = ind.p. -icitya;
+new = ind.p. -citya;
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25489: 05/21/2023 dict=MW, L= , hw=Sivagami, user=
+old = 
+new = 
+status = 06-05-2023 insufficient information
+------------------------------------------------------------------------
+
+Case 25486: 05/19/2023 dict=MW, L= 10197, hw=apibhū, user=srhodes
+old = to be in AV. ; LB to have part in RV. ;
+new = to be in, AV. ; LB to have part in, RV. ;
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25484: 05/18/2023 dict=mw, L=105793, hw=nAmaliNga, user=ejf
+old = book page 536,2]  nāma—liṅga   n. the gender of nouns or a wk. treating <!!!>there of<!!!> L.   [ID=105793]      ▲ ...nāmamālikā ..nāmamāhātmya ..nāmamudrā
+new = thereof  (no space)
+comment = 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25483: 05/17/2023 dict=MW, L= 80834, hw=jyautsna, user=srhodes
+old = a full moon light
+new = a full moon night
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25480: 05/12/2023 dict=MW, L= 255492, hw=sthApaka, user=Caujolle, regards
+old = I noticed that the abbreviations "Caus." stands here for "Causal" whereas i would rather say "Causative" 
+new = 
+comment = reference
+status =  06-05-2023 tooltip change to 'Causal, Causative' change to csl-pywork, mw abbrevs
+------------------------------------------------------------------------
+
+Case 25479: 05/10/2023 dict=mw, L= 184814, hw=vajra, user=ejf
+old =  Dala-pūrvins,
+new = Daśa-pūrvins,
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25477: 05/10/2023 dict=MW, L= 91554, hw=dāḍimīsāra, user=srhodes
+old = = dādima
+new = = dāḍima
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25474: 05/07/2023 dict=MW, L= 239532, hw=savikalpa, user=Caujolle
+old = one cannot access to savikalpaka by searching savikalpa - prefix LB one can access to it by savikal - prefix, which is not natural
+new = 
+status =  06-05-2023 no change
+------------------------------------------------------------------------
+
+Case 25471: 05/05/2023 dict=MW, L= 8962.2, hw=apataram, user=srhodes
+old = pa—taram
+new = apa—taram
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25469: 05/01/2023 dict=MW, L= 25838.3, hw=āyāsya, user=srhodes
+old = The Hierarchical placement for this word might be incorrect.
+new = This word might be better listed below the word "āyāsa" which is (ID=25826)
+comment = Possible Hierarchical Placement Error
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25468: 05/01/2023 dict=MW, L=25838.2 , hw=āyāsita, user=srhodes
+old = The Hierarchical placement for this word might be incorrect.
+new = This word might be better listed below the word "āyāsa" which is (ID=25826)
+comment = Possible Hierarchical Placement Error
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25467: 05/01/2023 dict=MW, L= 25838.1, hw=āyāsana, user=srhodes
+old = The Hierarchical placement for this word might be incorrect.
+new = This word might be better listed below the word "āyāsa" which is (ID=25826)
+comment = Possible Hierarchical Placement Error
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25466: 05/01/2023 dict=MW, L= 25837.2, hw=āyāsadayin, user=srhodes
+old = The Hierarchical placement for this word is incorrect.
+new = This word should be listed below the word "āyāsa" which is (ID=25826)
+comment = Hierarchical Placement Error
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25465: 05/01/2023 dict=MW, L= 5546, hw=anānudiṣṭa, user=srhodes
+old = with ānu or anu
+new = with ānu for anu
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25463: 04/28/2023 dict=MW, L= 17121, hw=avagīta, user=srhodes
+old = (√gas)
+new = (√gai)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25462: 04/27/2023 dict=MW, L=145978 , hw=bubhukṣā, user=srhodes
+old = appetise
+new = appetite
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25461: 04/26/2023 dict=MW, L= 263184, hw=हि॑रण्य, user=sergiofreitas5
+old = हिरण्य—कशिपु॑ m. N. of a Daitya king (...).
+new = हि॑रण्य—कशिपु॑ m. N. of a Daitya king (...).
+comment = Typo. Being the king's name, it seems it's a bahuvrIhi compound. So, the accent falls on the first member of the compound. There are many instances like this one in the electronic edition.
+status =  06-05-2023 change previously made
+------------------------------------------------------------------------
+
+Case 25458: 04/25/2023 dict=MW, L= 169508, hw=yajñāyajñiya, user=srhodes
+old = fr. yājñā-yajñā
+new = fr. yajñā-yajñā
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25457: 04/25/2023 dict=MW, L= 169508, hw=yajñāyajñiya, user=srhodes
+old = yajñāyajñiya
+new = yajñāyajñīya
+comment = Typo (this is an error in the original manuscript; you may check with Pāṇini sūtra 5.2.59).
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25456: 04/24/2023 dict=MW, L= 7684, hw=anūkṣ, user=srhodes
+old = ānu … ukṣamāṇa
+new = anūkṣamāṇa
+comment = Typo (I am pretty sure about this)... but I could be wrong.
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25453: 04/17/2023 dict=MW, L= 212912, hw=śama, user=srhodes
+old = abstraction from eternal objects
+new = abstraction from external objects
+comment = Typo    (This must be an error in the original manuscript)
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25452: 04/17/2023 dict=MW, L= asdf, hw=asdf, user=asdf
+old = asdfasd
+new = asdf
+comment = Typoasdf
+status =  06-05-2023  This is a joke, I guess.
+------------------------------------------------------------------------
+
+Case 25449: 04/16/2023 dict=MW, L= 6797.1, hw=anuprapattavya, user=srhodes
+old = WRONG PLACEMENT SEE NEXT
+new = I believe that this word belongs under "anuprapad" as the future passive participle form.
+comment = Wrong Placement
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25448: 04/14/2023 dict=MW, L=165601 , hw=muni, user=ktopar
+old = nien
+new = men
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25447: 04/13/2023 dict=MW, L= 246809, hw=sudhanvan, user=srhodes
+old = of a king of SāṃkāŚya
+new = of a king of Sāṃkāśya
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25446: 04/12/2023 dict=MW, L= 78984, hw=jāyānujīvin, user=srhodes
+old = = jāyānujīva
+new = = jāyājīva
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25445: 04/11/2023 dict=MW, L= 90523, hw=darbhapuṣpa, user=srhodes
+old = = -kusunma
+new = = -kusuma
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25443: 04/08/2023 dict=MW, L= 136199, hw=prayatātman, user=srhodes
+old = mfn. id.
+new = mfn. pious-minded, devout, ascetic; (taken from the word prayatamānasa).
+comment = Typo; The problem with listing a definition as "id." is that when a word or two is added in between the two "identical" words, then the "identical definition" becomes misleading.
+status = changed 06-05-2023
+------------------------------------------------------------------------
+
+Case 25442: 04/04/2023 dict=MW, L= 144474, hw=bAla, user=geymonat
+old = (in law) a minor (minors are classified as kunāra, or boys under 5 years of age, ...
+new = (in law) a minor (minors are classified as kumāra, or boys under 5 years of age, ...
+comment = Typo kunāra for kumāra
+status =  06-05-2023 no change required
+------------------------------------------------------------------------
+
+Case 25441: 04/01/2023 dict=MW, L= 91063, hw=daśan, user=czhao
+old = loc. °sasu
+new = loc. °śasu
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25439: 03/29/2023 dict=MW, L=3159 , hw=atiri, user=srhodes
+old = ati-raj
+new = ati-rai
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25438: 03/28/2023 dict=MW, L= H1, hw=avibhakta, user=leopard
+old = BHAG XII.16
+new = BHAG XIII.16
+comment = wrong chapter cited
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25436: 03/26/2023 dict=MW, L= 123, hw=tad, user=shztg
+old = tad tad (ind.) yathā ‘in such a manner as follows’,
+new = tad (ind.) yathā ‘in such a manner as follows’,
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25429: 03/16/2023 dict=MW, L=[ID=50060], hw=kāṣṭhādhirohaṇa, user=D Lamb dlhlamb
+old = n. ascending the funeral pile
+new = the funeral PYRE
+comment = possibly mispronunciation of the original term, therefore heard in a way as to make the inappropriate term seem reasonable ?
+status =  06-05-2023 no change made
+------------------------------------------------------------------------
+
+Case 25428: 03/16/2023 dict=MW, L=[ID=50060], hw=kāṣṭhādhirohaṇa, user=D Lamb
+old = n. ascending the funeral pile
+new = the funeral PYRE
+comment = possibly mispronunciation of the original term, therefore heard in a way as to make the inappropriate term seem reasonable ?
+status =  06-05-2023 no change made
+------------------------------------------------------------------------
+
+Case 25427: 03/16/2023 dict=MW, L=[ID=50060], hw=kāṣṭhādhirohaṇa, user=D Lamb
+old = n. ascending the funeral pile
+new = the funeral PYRE
+comment = possibly mispronunciation of the original term, therefore heard in a way as to make the inappropriate term seem reasonable ?
+status =  06-05-2023 no change made
+------------------------------------------------------------------------
+
+Case 25426: 03/16/2023 dict=MW, L=[ID=50060], hw=kāṣṭhādhirohaṇa, user=D Lamb
+old = n. ascending the funeral pile
+new = the funeral PYRE
+comment = possibly mispronunciation of the original term, therefore heard in a way as to make the inappropriate term seem reasonable ?
+status =  06-05-2023 no change made
+------------------------------------------------------------------------
+
+Case 25425: 03/16/2023 dict=MW, L= ID=73326], hw=citādhirohaṇa, user=D Lamb     dlhlamb
+old = . ascending the funeral pile
+new = the funeral PYRE
+comment = possibly hearing a mispronunciation? mishearing, and then misapplication of similar-sounding terms.
+status =  06-05-2023 no change made
+------------------------------------------------------------------------
+
+Case 25424: 03/16/2023 dict=MW, L= 8863, hw=anvārohaṇa, user=D Lamb   dlhlamb
+old = n. (a widow's) ascending the funeral pile 
+new = the funeral PYRE
+comment = pronunciation error, therefore inappropriate term used 
+status =  06-05-2023 no change made
+------------------------------------------------------------------------
+
+Case 25422: 03/14/2023 dict=MW, L=240231, hw=sahapatnIka, user=michaelnm.meyer
+old = <pc>1194,`</pc>
+new = <pc>1194,1</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25421: 03/14/2023 dict=MW, L=21921, hw=ahimakara, user=michaelnm.meyer
+old = <pc>125,</pc>
+new = <pc>125,2</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25420: 03/14/2023 dict=MW, L=262974, hw=himakara, user=michaelnm.meyer
+old = <pc>1298,4 </pc>
+new = <pc>1298,4</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25419: 03/14/2023 dict=MW, L=170759, hw=yavila, user=michaelnm.meyer
+old = <pc>847,3 </pc>
+new = <pc>847,3</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25418: 03/14/2023 dict=MW, L=231038, hw=saniti, user=michaelnm.meyer
+old = <pc>1140,4</pc>
+new = <pc>1140,3</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25417: 03/14/2023 dict=MW, L=239557, hw=saviDa, user=michaelnm.meyer
+old = <pc>1190,4cd</pc>
+new = <pc>1190,3</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25416: 03/14/2023 dict=MW, L=128969.1, hw=peroja, user=michaelnm.meyer
+old = <pc>648,q</pc>
+new = <pc>648,2</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25415: 03/14/2023 dict=MW, L=128969, hw=peraja, user=michaelnm.meyer
+old = <pc>648,q</pc>
+new = <pc>648,2</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25414: 03/14/2023 dict=MW, L=20303, hw=azwAstanA, user=michaelnm.meyer
+old = <pc>116,3cd</pc>
+new = <pc>116,3</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25413: 03/14/2023 dict=MW, L= 1500, hw=aNgIkf, user=michaelnm.meyer
+old = <pc>7,</pc>
+new = <pc>7,2</pc>
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25397: 02/26/2023 dict=MW, L=117265, hw=parigraha, user=owen171190
 old = 2 gift or present

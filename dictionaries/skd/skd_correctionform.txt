@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of September 13, 2022
-350 correction records, with 0 PENDING
+As of June 07, 2023
+352 correction records, with 0 PENDING
+
+Case 25450: 04/16/2023 dict=SKD, L= 4213, hw=इरा, user=niravraval
+old = word कासं is incorrect. It should be कामं . 
+new = For the word इरा  in the definition the word कासं is incorrect. It should be कामं . the word इरा  is defined correctly in Apte Sanskrit dictionary 1890 and iVacspatyam 1873 in the online dictionaries on this website. It is also defined as कामं in ekaakshar kosha.
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25430: 03/18/2023 dict=SKD, L=28954, hw=रक्षा, user=Shalu
+old = गोभूत्रेण (4-079-b])
+new = गोमूत्रेण 
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25264: 09/02/2022 dict=SKD, L= 27096, hw=माधवः , user=chandrasekharanr
 old = मुधोरपत्यं

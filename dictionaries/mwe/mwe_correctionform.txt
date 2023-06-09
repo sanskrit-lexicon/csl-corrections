@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of March 07, 2023
-69 correction records, with 0 PENDING
+As of June 07, 2023
+70 correction records, with 0 PENDING
+
+Case 25434: 03/25/2023 dict=MWE, L= 22116, hw=perhaps, user=h.c.jahr
+old = apinAna
+new = may this be in correct and should mean: LB apinAma LB ?
+comment = In the printed book it indeed says apinAna, but maybe this is a typo in the book? LB Compare with possibly (ID 23002), where apinAma is provided for the meaning of perhaps. LB api-nAma / api nAma is also mentioned in MW and PWG.
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25403: 03/03/2023 dict=MWE, L= , hw=summer, user=emeraldo
 old =  grīpmaḥ

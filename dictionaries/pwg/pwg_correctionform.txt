@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of March 07, 2023
-233 correction records, with 0 PENDING
+As of June 07, 2023
+236 correction records, with 0 PENDING
+
+Case 25460: 04/26/2023 dict=PWG, L= 7452, hw=asūy, user=juzki13
+old = a̱sū̱yannabhyàcākaśa̱ṃ tasmā̀ aspṛhaya̱ṃ punàḥ
+new = a̱sū̱yannabhyàcākaśa̱ṃ tasmā́ aspṛhaya̱ṃ punáḥ
+comment = Typo LB (It is one of the examples with an accent typo. Other words also have to be corrected.)
+status =  06-05-2023 no change
+------------------------------------------------------------------------
+
+Case 25435: 03/25/2023 dict=PWG, L= 38462, hw=nAman, user=h.c.jahr
+old = Wirtragen
+new = Wir tragen
+status = corrected 06-05-2023
+------------------------------------------------------------------------
+
+Case 25433: 03/25/2023 dict=PWG, L= 24117, hw=ghRNa, user=h.c.jahr
+old = Veracatung
+new = Verachtung
+status = corrected 06-05-2023
+------------------------------------------------------------------------
 
 Case 25351: 01/05/2023 dict=PWG, L= 86814, hw=loNI, user=Caujolle
 old = d. i.  LB the reference is missing
