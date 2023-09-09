@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of June 07, 2023
-352 correction records, with 0 PENDING
+As of September 08, 2023
+354 correction records, with 0 PENDING
+
+Case 25593: 09/06/2023 dict=SKD, L= 4096, hw=इत्यं, user=Shalu
+old = य
+new = थ
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25581: 08/21/2023 dict=SKD, L= 13111, hw=जटी, user=Shalu
+old = पर्कटीवृज्ञः 
+new = पर्कटीवृक्षः
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
 
 Case 25450: 04/16/2023 dict=SKD, L= 4213, hw=इरा, user=niravraval
 old = word कासं is incorrect. It should be कामं . 

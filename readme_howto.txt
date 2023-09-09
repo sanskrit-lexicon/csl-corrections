@@ -1,13 +1,19 @@
-Using Winscp app, login to cologne and
-, navigate to scans/csl-corrections/app/correction_response
-edit (in emacs) cfr.tsv
-Save cfr.tsv (at Cologne) to local file
-  /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/cfr.tsv
-  (This overwrites the previous file).
+# Download app/correction_response/cfr.tsv from Cologne server
+sh download_cfr.sh
+Note: This first step is not ideal.
+Reason: Cannot push csl-corrections from cologne server to Github.
+------------
+# edit cfr.tsv and remove 'bad lines'
+ -- e.g. incomplete or hacker garbage)
 ------------------------------------
 sh redo_cfr.sh
   This analyzes the 'new' items in cfr.tsv and marks
-  in the relevant 'dictionaries/xxx/xxx_correctionform.txt files
+  in the relevant 'dictionaries/xxx/xxx_correctionform.txt files]
+  Note: there may be 'bad line' messages.
+    Edit cfr.tsv and either delete or revise the bad lines.
+    rerun redo_cfr.sh
+
+------------------------------------
 
 Our task will be to
 (a) make changes in local  cfr.tsv for pending items
@@ -18,19 +24,19 @@ Our task will be to
     Handle these in local version
     At cologne, git restore app/correction_response/cfr.tsv
 (3) At cologne, git pull.
-
-
-    
 -----------------------------------------------
 a. Get a new personal access token at Github
 b. Modify /c/Users/<WINDOWS-USER/.bashrc
 c. restart git bash and navigate back to csl-corrections
-d. sh post_github_issues.sh
+----------------------------------------------
+sh post_github_issues.sh
    1. This creates issues at github.com/sanskrit-lexicon/csl-orig for
       pending items
       It modifies file 'last_cfr_line.txt'
+      Prints messages: "uploaded issue pw:37314"  for each issue.
    2. There can only be about 20 at a time.  When this limit is exceeded,
-      a '403' error will be posted.
+      a '403' error will be posted:
+      "Error posting: requests status =  403"
    3a. wait a few seconds (maybe a minute), and redo 1.
    3b. Keep doing this all are issues are initialized (no 403 message).
 ----------------------------------------------

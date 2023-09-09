@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of March 07, 2023
-2264 correction records, with 0 PENDING
+As of September 08, 2023
+2266 correction records, with 0 PENDING
+
+Case 25589: 08/29/2023 dict=CCS, L= 3006, hw=āha, user=frank.ziesing
+old = āha s. āha.
+new = āha s. aha.
+comment = Typo: redirects to "aha", with short a
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25555: 07/16/2023 dict=CCS, L= 6715, hw=cakṣus, user=frank.ziesing
+old = cakṣus sechend;
+new = cakṣus sehend;
+comment = Typo: superfluous "c" in "sehend"
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
 
 Case 25391: 02/21/2023 dict=CCS, L= 15501, hw=pratyaya, user=frank.ziesing
 old = Vorstellung, Grund, Ursachel; 

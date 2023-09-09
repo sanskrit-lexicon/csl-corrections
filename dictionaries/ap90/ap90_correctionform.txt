@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of June 07, 2023
-516 correction records, with 0 PENDING
+As of September 08, 2023
+521 correction records, with 0 PENDING
+
+Case 25586: 08/25/2023 dict=ap90, L=, hw=SanEs, user=ejf
+old = degrees, little by little; धर्मं संचिनुय च्छनैः;   Ku. 3. 59 ; Ms. 3. 217.  3 <!!!>Successive ly, in due<!!!> order, Ms. 1. 15.  4  Mildly, softly. 5 Tardily, sluggishly. 6 Independently.
+new = Successively, in due  [no space]
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25584: 08/24/2023 dict=ap90, L=, hw=tAvat, user=ejf
+old = 4 Indeed, (to  (pb)  emphasize an expression); त्वमेव  तावत्प्रथमो राजद्रोही <!!!>Mu  1 ‘thou thyself’<!!!>; त्वमेव तावत्परिचिंतय स्वयं Ku. 5. 67.  5 Truly, really (to express  assent);
+new = <ls>Mu 1.</ls>; ‘thou thyself’
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25580: 08/18/2023 dict=ap90, L=, hw=nirmita, user=ejf
+old = 0634-a]  निर्मित  p. p. 1 Constructed, built, formed, prepared, made 
+new = Artificial (remove space at line break)
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25570: 08/04/2023 dict=ap90, L=, hw=akzara, user=ejf
+old = ब्रह्माक्षरसमुद्भवं 3. 15 ; यथा सतः पुरुषात्केशलोमानि  तथाक्षरात्संभवतीह विश्वं <!!!>Chān. Up.<!!!>  4 Religious austerity, penance. 5 Sacrifice. 6 Water. 7 The sky. 8 Final
+new = <ls>Chān. Up.</ls>  (correct markup) 
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25567: 08/02/2023 dict=ap90, L=, hw=Suc, user=ejf
+old = [Printed book page 1049-c]  शुच्   I. 1 P. (शोचति) 1 To be sorry, grieve for, <!!!>bewall,<!!!> mourn; अरोदीद्रावणोऽशोचीन्मोहं चाशिश्रियत्परं Bk. 15. 71 ; 21. 6 ; Bg. 16. 5.
+new = bewail,
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
 
 Case 25517: 06/02/2023 dict=AP90, L= 12171, hw=khid, user=srhodes
 old = khiṃdati

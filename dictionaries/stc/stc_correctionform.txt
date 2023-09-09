@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for STC
-As of June 08, 2023
-140 correction records, with 0 PENDING
+As of September 08, 2023
+141 correction records, with 0 PENDING
+
+Case 25528: 06/11/2023 dict=STC, L= 12512, hw=nistattva , user=Caujolle
+old = qui u est pas compris
+new = qui n'est pas compris
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
 
 Case 25524: 06/05/2023 dict=STC, L= 11175, hw=dhārā, user=Caujolle
 old = (fig.aussi) 

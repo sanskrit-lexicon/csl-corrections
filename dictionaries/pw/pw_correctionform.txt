@@ -1,6 +1,97 @@
 Sanskrit Lexicon Correction Form History for PW
-As of June 07, 2023
-11851 correction records, with 0 PENDING
+As of September 08, 2023
+11864 correction records, with 0 PENDING
+
+Case 25571: 08/05/2023 dict=PW, L= 88944, hw=maitrīkaruṇānudita, user=frank.ziesing
+old = maitrīkaruṇānudita
+new = 88944 LB maitrīkaruṇāmudita LB 
+comment = Typo: should be mudita with m 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25559: 07/17/2023 dict=PW, L= 49183, hw=darh, user=frank.ziesing
+old = — 3) dahyati °te fest sein. LB — 4) *derhati (vṛddhau). 
+new = — 3) dṛhyati °te fest sein. LB — 4) *darhati (vṛddhau). 
+comment = Typo, the glyphs of "dṛ" and "da" are quite similar, so it seems to have resulted in several scanning errors in this lemma. 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25558: 07/17/2023 dict=PW, L= 49183, hw=darh, user=frank.ziesing
+old = — 6) daḍham Adv. LB *dahita befestigt , fest.
+new = — 6) dṛḍham Adv. LB *dṛhita befestigt , fest.
+comment = Typo: should be "ṛ" in dṛḍham and *dṛhita
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25557: 07/17/2023 dict=PW, L= 49183, hw=darh, user=frank.ziesing
+old = hart stark (von Sachen und Personen).  LB — e) heftig stark
+new = hart , stark (von Sachen und Personen).  LB — e) heftig , stark
+comment = Typo: commas missing, between "hart stark" and "heftig stark"
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25556: 07/17/2023 dict=PW, L= 50773, hw=duḥkha, user=frank.ziesing
+old = — 1) Adj. (f. ā) unbehaglich unangenehm
+new = — 1) Adj. (f. ā) unbehaglich , unangenehm
+comment = Typo: there needs to be a comma between "unbehaglich" and "unangenehm"
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25554: 07/16/2023 dict=PW, L= 49180, hw=darśin, user=frank.ziesing
+old = — 1) sehend , gewahr , werdend
+new = — 1) sehend , gewahr  werdend
+comment = Typo: superfluous comma between "gewahr" and "werdend" 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25552: 07/15/2023 dict=PW, L= 41676, hw=japa, user=frank.ziesing
+old = ein auf diese Weiser hergesagtes Gebet.
+new = ein auf diese Weise hergesagtes Gebet.
+comment = Typo: superfluous "r" at the end of "Weise"
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25551: 07/15/2023 dict=PW, L= 41636, hw=janman, user=frank.ziesing
+old = śudrajanman m. ein von einem Śūdra Erzeugter
+new = śūdrajanman m. ein von einem Śūdra Erzeugter
+comment = Typo: should be a long ū in śūdrajanman
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25543: 07/02/2023 dict=PW, L= 39903, hw=citta, user=frank.ziesing
+old = — 1) Adj. s.u. 4. cita. 
+new = — 1) Adj. s.u. 4. cit. 
+comment = Typo: superfluous "a". 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25542: 07/02/2023 dict=PW, L= 37314, hw=grabh, user=frank.ziesing
+old = pakṣaṃn grah Jmds Seite — , Partei ergreifen für
+new = pakṣaṃ grah Jmds Seite — , Partei ergreifen für
+comment = Typo: superfluous "n"
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25540: 06/29/2023 dict=PW, L=12184, hw=as, user=frank.ziesing
+old = — 6) saṃlyasta hingestreckt , ausgestreckt , ausgebreitet , hingelagert.
+new = — 6) saṃnyasta hingestreckt , ausgestreckt , ausgebreitet , hingelagert.
+comment = Typo "l" is wrong, should be "n"
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25539: 06/28/2023 dict=PW, L= 17429, hw=īkṣ, user=frank.ziesing
+old = — 4) achte — ,
+new = — 4) achten — ,
+comment = Typo "n" missing
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25538: 06/28/2023 dict=PW, L= 17279, hw=iṣ, user=frank.ziesing
+old = — α) in act. Bed. yadi māṃ a jīvitumicchasi
+new = — α) in act. Bed. yadi māṃ ca jīvitumicchasi
+comment = Typo "c" missing
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
 
 Case 25511: 05/29/2023 dict=PW, L= 32121, hw=kliś, user=frank.ziesing
 old = — a) geplagt , gequält , belästgt

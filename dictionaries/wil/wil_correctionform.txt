@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of June 07, 2023
-1154 correction records, with 0 PENDING
+As of September 08, 2023
+1155 correction records, with 0 PENDING
+
+Case 25563: 07/26/2023 dict=wil, L=, hw=awavi, user=ejf
+old = [Printed book page 014]   अटवि  f. (-विः) A forest, or wood. E. अट to go, <!!!>and अटि affix<!!!>, or ङीष् being added अटवी ut infra;  birds, 
+new = and अवि affix. cf. SKD 
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
 
 Case 25516: 06/01/2023 dict=WIL, L=42324, hw=सुरदीर्धिका, user=
 old = wrong headword

@@ -244,7 +244,7 @@ def adjust(filein,fileout):
    dmrec = dmrecs[0]
    print('sorttime=',dmrec.sorttime)
    line = dmrec.line
-   print('line=',line)
+   print('bad line=',line)
    m = len(recs)
    print("DBG: m=",m)
    for i in range(0,m):

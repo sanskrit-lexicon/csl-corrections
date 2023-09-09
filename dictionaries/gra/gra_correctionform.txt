@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of June 07, 2023
-416 correction records, with 0 PENDING
+As of September 08, 2023
+420 correction records, with 0 PENDING
+
+Case 25560: 07/19/2023 dict=GRA, L= 12424, hw=bhU, user=pvstiles
+old = 0942 In the list of meanings, there is no 8). It goes from 7) to 9). Meaning 8) is referred to later in the entry
+new = Who knows?
+comment = Original Grassmann mistake
+status = 09/08/2023 Jim made up a change
+------------------------------------------------------------------------
+
+Case 25550: 07/12/2023 dict=GRA, L= 10132, hw=sRj, user=louis.falkenstein
+old = 634,15
+new = 534,15
+comment = Typo  LB (Location: sub Part. II, sṛṣṭā́s: ā́pas ná)
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25546: 07/04/2023 dict=GRA, L= 4084, hw=dabh, user=pvstiles
+old = dambhaya:  LB -as 5) púras 54,6.  LB -AS 5) ójas dāsásya 660,6. — 6) vádhar dāsásya 848,8. 
+new = capitalised -AS should read -a
+status =  Corrected 09/08/2023
+------------------------------------------------------------------------
+
+Case 25544: 07/03/2023 dict=GRA, L= 2645, hw=kR, user=pvstiles
+old = Entry incomplete.  LB I may be wrong but its looks like the electronic entry ends part way down column 343, while the paper book goes on to column 345
+new = Include all the original text to column 345
+comment = Scanning? 
+status = 09/08/2023 no change
+------------------------------------------------------------------------
 
 Case 25513: 05/30/2023 dict=GRA, L=10283 , hw=sthūṇā, user=pvstiles
 old =  Sā́ule

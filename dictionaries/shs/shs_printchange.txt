@@ -925,3 +925,9 @@ L code : Headword    : Old         : New       : Comment
 21842 : nirantara : Indentical : Identical :
 37759 : vizayAtmaka : Indentical :  Identical :
 -----------------------------------------------------------------------
+12/22/2019
+User correction.
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1311
+L code : Headword    : Old         : New         : Comment
+32605  : yAga        : Gaj         : GaY         : confirmed skd.
+-----------------------------------------------------------------------

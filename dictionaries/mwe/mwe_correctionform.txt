@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of June 07, 2023
-70 correction records, with 0 PENDING
+As of September 08, 2023
+73 correction records, with 0 PENDING
+
+Case 25569: 08/02/2023 dict=MWE, L=21215, hw=outer, user=samm3
+old = [supplementary report] LB The word 'bāhyaḥ' is also written as 'vāhya' in later language according to WM. [cf. bāhya mf(ā)n. (fr. bahis; in later language also written vāhya, q.v.; m. nom. pl. bāhye, ŚBr. )] LB But I did not find any references or usages regarding whether words except 'vāhyaḥ' in ID21215(WM) are usable.  
+new =  LB 
+status = 09/08/2023
+------------------------------------------------------------------------
+
+Case 25568: 08/02/2023 dict=MWE, L=21215, hw=outer, user=samm3
+old = All words that begin with the letter 'v' LB ex) vahiḥsthaḥ
+new = -> b LB ex) bahiḥsthaḥ
+status = 09/08/2023 no change
+------------------------------------------------------------------------
+
+Case 25532: 06/16/2023 dict=MWE, L= 559a, hw=out, user=sanaatani
+old = वहिस्, वहिर्गम्, वहिर्भू;
+new = Is it that n all these cases the first letter should be ब; not व?
+status =  09/08/2023 no change
+------------------------------------------------------------------------
 
 Case 25434: 03/25/2023 dict=MWE, L= 22116, hw=perhaps, user=h.c.jahr
 old = apinAna

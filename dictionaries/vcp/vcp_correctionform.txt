@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of June 07, 2023
-412 correction records, with 0 PENDING
+As of September 08, 2023
+415 correction records, with 0 PENDING
+
+Case 25594: 09/06/2023 dict=VCP, L= 8171, hw=इदा, user=Shalu
+old = इदानामित्यर्थे 
+new = इदानीमित्यर्थे 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25575: 08/11/2023 dict=VCP, L= 47563, hw=स्वर, user=Shalu
+old = दृषो
+new = वृषो
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25527: 06/07/2023 dict=VCP, L= 25611, hw=दुह, user=chandrasekharanr
+old = बहिर्निस्मारणे
+new = बहिर्निस्सारणे
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
 
 Case 25520: 06/03/2023 dict=VCP, L= 41549, hw=vidh, user=ejf
 old = २ प्रकारे 

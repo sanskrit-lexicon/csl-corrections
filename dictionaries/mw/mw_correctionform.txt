@@ -1,6 +1,224 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 07, 2023
-1893 correction records, with 0 PENDING
+As of September 08, 2023
+1927 correction records, with 0 PENDING
+
+Case 25592: 09/04/2023 dict=MW, L= , hw=श्रम्, user=aprigliano
+old = स्रामयति
+new = श्रामयति
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25590: 09/01/2023 dict=MW, L= 239449, hw=savanaśas, user=srhodes
+old = the l°
+new = the l°s  ('the libations')
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25588: 08/25/2023 dict=MW, L=58322, hw=kroṣṭu, user=
+old = The English words "must" and "may" are tagged as sanskrit words.  LB Also kroṣṭṝ should be kroṣṭṛ 
+new = They should be tagged as italic. LB Also change kroṣṭṝ to kroṣṭṛ 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25587: 08/25/2023 dict=MW, L=58322, hw=kroṣṭu, user=
+old = The English words "must" and "may" are tagged as sanskrit words. 
+new = They should be tagged as italic.
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25585: 08/24/2023 dict=MW, L= 259776.1, hw=svāhā, user=shztg
+old = More than 15 lines are left out.
+new = Please see the missed content after “the Rudra Paśu-pati), RV. ; &c.” on page  1284,3 of the Printed book.
+status = 09/08/2023 no change
+------------------------------------------------------------------------
+
+Case 25583: 08/23/2023 dict=MW, L=89380, hw=dakṣādhvaradhvansaka, user=
+old = dakṣādhvaradhvansaka should be dakṣādhvaradhvaṃsaka (the underlined "n" in MW is "ṃ")
+new = The headword should be dakṣādhvaradhvaṃsaka 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25582: 08/23/2023 dict=MW, L=138871, hw=prādhvansana, user=
+old = prādhvansana should be prādhvaṃsana (the underlined "n" in MW is "ṃ")
+new = The headword should be prādhvaṃsana
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25579: 08/15/2023 dict=MW, L=110913 , hw=niṣṭu, user=srhodes
+old = and -astant)
+new = and -astaut)
+status = 09/08/2023 duplicate 
+------------------------------------------------------------------------
+
+Case 25578: 08/15/2023 dict=MW, L=110913 , hw=niṣṭu, user=srhodes
+old = and -astant)
+new = and -astaut)
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25577: 08/14/2023 dict=mw, L=, hw=SaraRAgata, user=ejf
+old = page 1057,1]  शरणागत   mfn. come for pr°, one who comes for refuge or pr°, a <!!!>refugee. fugitive<!!!>, Mn. ; MBh.  
+new = refugee, fugitive  [period -> comma]
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25576: 08/13/2023 dict=MW, L= 84881.1, hw=तितिरु, user=youngsinn.sohn
+old = पसंग
+new = पतंग
+comment = digitization error
+status = 09/08/2023 no change required. 
+------------------------------------------------------------------------
+
+Case 25574: 08/10/2023 dict=MW, L= 107490, hw=niṣkula, user=srhodes
+old = (°taṃ √kṛ
+new = (°aṃ √kṛ
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25573: 08/09/2023 dict=mw, L=, hw=vfj, user=ejf
+old = ; वर्जिष्यति, ib. ; वर्क्ष्यति, °ते, Br. ; inf. वृजे, वृञ्जसे, वृजध्यै, RV. ; <!!!>वजितुम्<!!!> or वृञ्जितुम् Gr.; ind.p. वृक्त्वी, RV. ; -वृज्य, -वर्गम्, Br.  
+new = वर्जितुम्
+comment = 
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25572: 08/07/2023 dict=MW, L=13972, hw=amarṣavat, user=Owen Flawers
+old = comma lacking: not bearing, intolerant passionate, wrathful
+new = not bearing, intolerant, passionate, wrathful
+status = 09/08/2023 corected
+------------------------------------------------------------------------
+
+Case 25566: 07/31/2023 dict=MW, L= 104772, hw=nazwa, user=ejf
+old = lost sight of invisible
+new = lost sight of, invisible
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25565: 07/30/2023 dict=MW, L= 107773, hw=niḥṣṭan, user=srhodes
+old = ni-ṣṭanat for niḥ-ṣiṭ°
+new = ni-ṣṭanat for niḥ-ṣṭ°
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25564: 07/29/2023 dict=MW, L= 16653, hw=alarka, user=Caujolle
+old = Calatropis Gigantea
+new = Calotropis Gigantea
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25562: 07/25/2023 dict=MW, L=208630, hw=vyatyāsa, user=Deepro Chakraborty
+old = invettedly
+new = invertedly
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25561: 07/24/2023 dict=MW, L=102812, hw=nakra, user=natalia.fedorova
+old = the sign of the zodiac Scorpio
+new = the sign of the zodiac Capricorn
+comment = meaning
+status = 09/08/2023 not changed
+------------------------------------------------------------------------
+
+Case 25553: 07/16/2023 dict=MW, L= 145535, hw=bīriṇa, user=srhodes
+old = vīrṇa
+new = vīriṇa
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25549: 07/11/2023 dict=MW, L=236749, hw=sam-baddha, user=samm3
+old = sam-baddha / सम्बद्ध
+new = saṃ-baddha [m -> ṃ]
+comment = transliteration
+status =  :09/08/2023 no change
+------------------------------------------------------------------------
+
+Case 25548: 07/06/2023 dict=MW, L=182209, hw=lāṭānuprāśa, user=
+old = wrong headword: lāṭānuprāśa
+new = it is lāṭānuprāsa
+comment = typo in headword
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25547: 07/05/2023 dict=MW, L=154347, hw=majj, user=srhodes
+old = Prec. majjtāt
+new = Prec. majjyāt
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25545: 07/04/2023 dict=MW, L= 152558, hw=bhṛgu, user=srhodes
+old = Brahmā skin
+new = Brahmā's skin
+status = 09/08/2023 corrected
+------------------------------------------------------------------------
+
+Case 25541: 07/02/2023 dict=mw, L=, hw=gfhIta, user=ejf
+old = (H2)  [Printed book page 362,3]  गृहीत   mfn. (√ग्रह्, <!!!>but See<!!!> गृभाय) grasped, taken, seized, caught, held, laid hold of ChUp. ; ĀśvGṛ.  
+new = but see
+comment = 
+status = 09/06/2023 corrected
+------------------------------------------------------------------------
+
+Case 25537: 06/25/2023 dict=MW, L=171154, hw=yāmā, user=
+old = 1) same problem as ID 171153, headword is yāma, not yāmā LB 2) it's yāma-syā̑rkaḥ, not yama-syā̑rkaḥ 
+new = 1) change headword to yāma LB 2) change yama-syā̑rkaḥ to yāma-syā̑rkaḥ 
+comment = 1) Wrong headword  LB 2) Typo
+status = 09/08/2023 corrected.
+------------------------------------------------------------------------
+
+Case 25536: 06/25/2023 dict=MW, L=171153 , hw=yāmā, user=
+old = Yāma "night watch" is masculine, not feminine. There is a misunderstanding of the following "(ifc. f. ā)"
+new = correct headword to yāma
+comment = Error in headword::09/08/2023 corrected.
+status = 09/08/2023 corrected.
+------------------------------------------------------------------------
+
+Case 25535: 06/22/2023 dict=MW, L= 32724, hw=udeyivas, user=srhodes
+old = WRONG PLACEMENT
+new = WRONG PLACEMENT (this word should be listed under "udi" - that is the verbal root "i" with "ud" prefix.
+comment = WRONG PLACEMENT
+status =  :09/08/2023 no change
+------------------------------------------------------------------------
+
+Case 25534: 06/20/2023 dict=MW, L= 54892, hw=kṛpāvaita, user=srhodes
+old = kṛpāvaita
+new = kṛpādvaita
+comment = Typo (in the Headword!!!)
+status = 09/08/2023 corrected.
+------------------------------------------------------------------------
+
+Case 25533: 06/18/2023 dict=MW, L= 41312.1, hw=auṣṭīna, user=srhodes
+old = auṣṭīna
+new = auṣṭhīna
+status = 09/08/2023 corrected.
+------------------------------------------------------------------------
+
+Case 25531: 06/14/2023 dict=mw, L=, hw=tad, user=ejf
+old = या सा श्री, ‘that very fortune which’, MBh. vii, 427), RV.  
+new = (तद्) .  n.  similar with next ind.
+comment = 
+status =  09/08/2023 no change
+------------------------------------------------------------------------
+
+Case 25530: 06/13/2023 dict=mw, L=, hw=trE, user=ejf
+old = pl. °यध्वम् and त्राध्वम्, RV. ; ep. त्राति, त्रातु, त्राहि; aor. Subj. <!!!>त्रासते<!!!>, 2. du. त्रासाथे Prec. त्रासीथाम्, RV. ; inf. त्रातुम्, MBh.  
+new = त्रासते -> तित्रासते  ?
+comment = 
+status =  09/08/2023 no change
+------------------------------------------------------------------------
+
+Case 25529: 06/11/2023 dict=MW, L= 263161, hw=hiraNmaya, user=chandan.mazumdar
+old = 
+new = The word "varsha" is correctly copied from the printed dictionary. However, the word actually should be "varSa", as in the dictionary, "S" must have been presented as "sh". There is no actual sanskrit word "varsha/वर्स्ह". Please check. For example, in headword "harivarSa", it is mentioned "varSa", and same should be here as well.
+status =  09/08/2023 no change
+------------------------------------------------------------------------
+
+Case 25526: 06/07/2023 dict=MW, L= 208305, hw=vy—odana, user=pvstiles
+old = RV. viii, 52, 9.
+new = RV. viii, 63, 9.
+comment = Seems to be an error by MW ?? 
+status =  Corrected 09/08/2023
+------------------------------------------------------------------------
 
 Case 25525: 06/05/2023 dict=MW, L= 141403, hw=plakSa, user=chandan.mazumdar
 old = a side door or the space at the s° of a d°
