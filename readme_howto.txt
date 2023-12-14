@@ -45,11 +45,11 @@ To give your token an expiration, select Expiration, then choose a default optio
 Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select repo. A token with no assigned scopes can only access public information.
 
 click Generate token.  Click copy
- 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
+ ghp_xxxx
 
 ------
 edit ~/Users/jimfu/.bashrc
-export GITHUB_ACCESS_TOKEN='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'
+export GITHUB_ACCESS_TOKEN='ghp_xxxx'
 
 start a new git bash terminal
 cd /c/xampp/htdocs/cologne/csl-corrections
