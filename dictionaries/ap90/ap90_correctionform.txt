@@ -1,6 +1,73 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of September 08, 2023
-521 correction records, with 0 PENDING
+As of December 13, 2023
+531 correction records, with 0 PENDING
+
+Case 25715: 11/21/2023 dict=ap90, L=, hw=prajYa, user=ejf
+old = page 0730-c]  प्रज्ञा  9 U. 1 To know, know about, be acquainted with. 2 To <!!!>be a ware of,<!!!> find out. 3 To discern, distinguish. — Caus. (प्रज्ञपयति) 1 To show, point out
+new = be aware of,
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25712: 11/18/2023 dict=ap90, L=, hw=hfd, user=ejf
+old = n. (This word has no forms for the fist five inflections, and is optionally <!!!>substituted for हदय<!!!> after acc. dual) 1 The mind, heart. = 2 The chest, bosom, breast; इमां हृदि
+new = substituted for हृदय 
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25685: 11/05/2023 dict=AP90, L= 4072, hw=arI|a, user=
+old = Using a pipe | in the xml file.
+new = 
+status = 12/12/2023 no change
+------------------------------------------------------------------------
+
+Case 25673: 10/29/2023 dict=ap90, L=, hw=prayuj, user=ejf
+old = 3. 36.  6 To  perform, do; Ku. 7. 86 ; 17. 12.  7 To represent on the stage, <!!!>act, per. form<!!!>; उत्तरं रामचरितं तत्प्रणीतं  प्रयोक्ष्यते U. 1. 2 ; Ku. 5. 35 ; परिषदि
+new = act, perform
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25670: 10/28/2023 dict=ap90, L=, hw=taq, user=ejf
+old = 2. 5 ; (नौः) ताडिता मारुतैर्यथा Rām. ; R. 3. 61 ;   Ku. 5. 24 ; Bh. 1. 50.  2 <!!!>To beat. strike<!!!>, punish by beating, hit; लालयेत्पंच वर्षाणि दश वर्षाणि ताडयेत् Chāṇ. 11 , 12 ;
+new = To beat, strike [comma]
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25669: 10/28/2023 dict=ap90, L=, hw=upekz, user=ejf
+old = consider, have regard to; एवमुच्चावच नर्थान् प्राहुः ते उपेक्षितव्याः Nir.  6 <!!!>To look at. regard<!!!>, perceive; प्रासादरथा ह्युपैक्षत Nala. 22. 5.                     [ID=9152]
+new = To look at, regard
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25648: 10/15/2023 dict=AP90, L= 14783, hw=तुर, user=chandrasekharanr
+old = Advaneing
+new = Advancing
+comment = Typo in the print version also. This error is fixed in the 1957 edition
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25622: 09/23/2023 dict=ap90, L=, hw=SraMB, user=ejf
+old = श्रंभ्  [Printed book page 1059-a]  श्रंभ्  1 A. (<!!!>श्रंमते<!!!>, श्रब्ध) 1 To be careless or inattentive, be  negligent. 2 To err.
+new = श्रंभ्
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25619: 09/22/2023 dict=AP90, L= 29594, hw=समुपस्थितिः, user=ejf
+old = समुपस्यानं
+new = समुपस्थानं
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25607: 09/17/2023 dict=AP90, L=28348 , hw=śrath, user=srhodes
+old = (Two Typos)      śrayati   AND   śrayapati
+new = (Two Corrections)     śrathati   AND   śrathayati
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25586: 08/25/2023 dict=ap90, L=, hw=SanEs, user=ejf
 old = degrees, little by little; धर्मं संचिनुय च्छनैः;   Ku. 3. 59 ; Ms. 3. 217.  3 <!!!>Successive ly, in due<!!!> order, Ms. 1. 15.  4  Mildly, softly. 5 Tardily, sluggishly. 6 Independently.

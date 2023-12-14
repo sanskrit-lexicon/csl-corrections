@@ -1,6 +1,185 @@
 Sanskrit Lexicon Correction Form History for PW
-As of September 08, 2023
-11864 correction records, with 0 PENDING
+As of December 13, 2023
+11890 correction records, with 0 PENDING
+
+Case 25758: 12/12/2023 dict=PW, L= 6247, hw=apavighna, user=frank.ziesing
+old = accittātāpavighnaṃ te geht es ohne Hindernisse bei dir her? 
+new = kaccittātāpavighnaṃ te geht es ohne Hindernisse bei dir her? 
+comment = Typo: "k" ist missing at the beginning of the phrase
+status = 12/13/2023 corrected
+------------------------------------------------------------------------
+
+Case 25757: 12/12/2023 dict=PW, L= 44899, hw=tarkajñāna, user=frank.ziesing
+old = tarkajñāna n. ein auf philosophischem
+new = tarkajñāna n. eine auf philosophischem
+comment = Typo: should be "eine" instead of "ein"
+status = 12/13/2023 corrected
+------------------------------------------------------------------------
+
+Case 25756: 12/12/2023 dict=PW, L= 44363, hw=tan, user=frank.ziesing
+old = — Caus. ā tanayati anspannen, straff machen. 
+new = — Caus. ā tānayati anspannen, straff machen. 
+comment = Typo: "tānayati" 1st "a" should be long
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25755: 12/12/2023 dict=PW, L= 44171, hw=tatas, user=frank.ziesing
+old = — 9〉 tataḥ kṣāṇāt und tataḥ kṣāṇam sogleich darauf. 
+new = — 9〉 tataḥ kṣaṇāt und tataḥ kṣaṇam sogleich darauf. 
+comment = Typo: kṣaṇa's 1st a should be short, not long
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25750: 12/10/2023 dict=PW, L= 4360, hw=anucāraka, user=frank.ziesing
+old = anucāraka n. Diener
+new = anucāraka m. Diener
+comment = Typo: should be "m." instead of "n."
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25723: 11/30/2023 dict=PW, L= 119860, hw=samadhigama, user=frank.ziesing
+old = samadhigama m. das Versehen, Begreifen. 
+new = samadhigama m. das Verstehen, Begreifen. 
+comment = Typo "t" missing in "Verstehen"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25721: 11/27/2023 dict=PW, L= 125867, hw=sukhasacāra, user=frank.ziesing
+old = sukhasacāra
+new = sukhasaṃcāra
+comment = Typo: in the headword an "ṃ" is missing 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25716: 11/21/2023 dict=PW, L= 128604, hw=sūkṣmabhūta , user=frank.ziesing
+old = sūkṣmabhūta n. ein feine Element
+new = sūkṣmabhūta n. ein feines Element
+comment = Typo: "s" missing in "feines"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25706: 11/13/2023 dict=PW, L= 1617, hw=atas, user=frank.ziesing
+old = ahaḥ param dass. 191,26. 213,12. 216,11 noch immer 291,8. 
+new = ataḥ param dass. 191,26. 213,12. 216,11 noch immer 291,8. 
+comment = Typo: wrong "ahaḥ", correct "ataḥ"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25704: 11/13/2023 dict=PW, L=20910 , hw=uṣṇasamaya , user=th.malten
+old = °śamayāy
+new = °samayāy
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25700: 11/11/2023 dict=PW, L= 97954, hw=vanadhārā, user=th.malten
+old = Alle
+new = Allee
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25699: 11/11/2023 dict=PW, L= 129365, hw=saindhavaka, user=th.malten
+old = Anwohnern
+new = Anwohner
+comment = wrong expansion of abbreviation
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25697: 11/11/2023 dict=PW, L= 22435, hw=aikāhika, user=th.malten
+old = Dieber LB Opfereigen
+new = Fieber LB Opfer eigen
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25689: 11/06/2023 dict=PW, L= 117576, hw=saṅga, user=frank.ziesing
+old = — 3) Hand des Herzens,
+new = — 3) Hang des Herzens,
+comment = Typo; "Hand" is wrong, should be "Hang"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25687: 11/05/2023 dict=PW, L= 77335, hw=budh, user=frank.ziesing
+old = 1. budh , bhodhati,
+new = 1. budh , bodhati,
+comment = Typo should be "b" without "h"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25684: 11/05/2023 dict=PW, L= 114812, hw=śraddhā, user=frank.ziesing
+old = — b) Lust, Verlagen,
+new = — b) Lust, Verlangen,
+comment = Typo: an "n" is missing in "Verlangen"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25682: 11/03/2023 dict=PW, L= 116780, hw=saṃvṛtti, user=frank.ziesing
+old = (saṃvṛtti fehlerhaft)
+new = (sāṃvṛtti fehlerhaft)
+comment = Typo: according to the scan it should be a long ā in "sāṃvṛtti" 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25679: 11/02/2023 dict=PW, L= 25327, hw=karś, user=frank.ziesing
+old = karś , kṛśayti
+new = karś , kṛśyati
+comment = Typo: order of "y" and "a" should be reversed to "kṛśyati"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25672: 10/28/2023 dict=PW, L= 101532, hw=vāhin , user=frank.ziesing
+old = — β) fleissend nach oder in einer best. Tiefe. 
+new = — β) fliessend nach [/i]oder[i] in einer best. Tiefe. 
+comment = Typo: should be "ie" instead of "ei" in fliessend + the word "oder" shouldn't be in italics
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25636: 10/07/2023 dict=PW, L= 80154, hw=bhuvana, user=frank.ziesing
+old = — b) Welt , die Erde. bhvanadvaya n. Himmel und Erde , bhvanatraya
+new = — b) Welt , die Erde. bhuvanadvaya n. Himmel und Erde , bhuvanatraya
+comment = Typo: twice "u" is missing, in bhuvanadvaya and bhuvanatraya
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25632: 10/04/2023 dict=PW, L= 79254, hw=bhāga, user=frank.ziesing
+old =  jyeṣṭhasya pāṇḍuputrasya bhago madrādhipaḥ ( klapta)
+new =  jyeṣṭhasya pāṇḍuputrasya bhāgo madrādhipaḥ ( kḷpta)
+comment = Typo, must be "bhāgo" instead of "bhago", and "kḷpta" instead of "klapta"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25616: 09/21/2023 dict=PW, L= 125322, hw=sidh, user=frank.ziesing
+old = — Mit ā LB — 1) antreiben Comm. zu Lāṭy. 8,6,3.  LB — 2) āmiddha verhaftet
+new = — Mit ā LB — 1) antreiben Comm. zu Lāṭy. 8,6,3.  LB — 2) āsiddha verhaftet
+comment = Typo: should bei "s" in "āsiddha" indtesd of "āmiddha"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25615: 09/21/2023 dict=PW, L= 70265, hw=prakāśa, user=frank.ziesing
+old = — h) Kapital , Abschnitt.
+new = — h) Kapitel , Abschnitt.
+comment = Typo: should be an "e" in Kapitel, not an "a", which changes the meaning 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25614: 09/20/2023 dict=PW, L= 1265, hw=ajaya, user=frank.ziesing
+old = 1. ajaya m. Niederlage in jayajaya. 
+new = 1. ajaya m. Niederlage in jayājayau. 
+comment = Typo: should be "jayājayau" instead of "jayajaya"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25613: 09/20/2023 dict=PW, L= 33212, hw=khacitra, user=frank.ziesing
+old = so v.a. eine Unding.      
+new = so v.a. ein Unding.      
+comment = Typo 1 "e" too much, should be only "ein"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25610: 09/20/2023 dict=PW, L= 55246, hw=dhāraṇa, user=frank.ziesing
+old = — 5) n. dhāraṇ
+new = — 5) n. dhāraṇa
+comment = Typo: "a" missing
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25571: 08/05/2023 dict=PW, L= 88944, hw=maitrīkaruṇānudita, user=frank.ziesing
 old = maitrīkaruṇānudita

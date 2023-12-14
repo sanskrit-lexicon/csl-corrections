@@ -1,6 +1,701 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 08, 2023
-1927 correction records, with 0 PENDING
+As of December 13, 2023
+2038 correction records, with 0 PENDING
+
+Case 25763: 12/13/2023 dict=MW, L= 242001, hw=sāṃdīpani, user=srhodes
+old = (fr. sam-dipana)
+new = (fr. saṃ-dipana)
+status = 12/13/2023 corrected
+------------------------------------------------------------------------
+
+Case 25762: 12/13/2023 dict=MW, L= 242126, hw=sāpīḍa, user=srhodes
+old = w.r. for sotpo.)
+new = w.r. for sotpīḍa)
+status = 12/13/2023 corrected
+------------------------------------------------------------------------
+
+Case 25761: 12/13/2023 dict=MW, L=232221 , hw=sapin, user=srhodes
+old = nith-ṣapin
+new = niṣ-ṣapin
+status = 12/13/2023 corrected
+------------------------------------------------------------------------
+
+Case 25760: 12/13/2023 dict=MW, L= 242069, hw=sāṃnyāsika, user=srhodes
+old = (fr. sam-nyāsa) 
+new = (fr. saṃ-nyāsa) 
+status = 12/13/2023 corrected
+------------------------------------------------------------------------
+
+Case 25759: 12/13/2023 dict=MW, L= 242051, hw=sāṃnāyya, user=srhodes
+old = any, substance
+new = any substance
+comment = Typo (REMOVE COMMA)
+status = 12/13/2023 corrected
+------------------------------------------------------------------------
+
+Case 25754: 12/12/2023 dict=MW, L= 210257, hw=vyupaśam, user=srhodes
+old = -śamyati
+new = -śāmyati
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25753: 12/12/2023 dict=MW, L= 210255, hw=vyupaviś, user=srhodes
+old = -visati
+new = -viśati
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25752: 12/12/2023 dict=MW, L=208527 , hw=vyatitan, user=srhodes
+old = vy-atanvāsām
+new = vy-atanvātām • (BUT should the listing actually be "vyatyatanvātām"?).
+comment = Typo (But why is the listing under "vi-ati-" although the "ati" portion is missing in the form listed?
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25751: 12/11/2023 dict=MW, L=inflected forms, hw=dhī, user=samm3
+old = The inflected form of 'dhī (f)' seems wrong in nom. of  Pl. LB It seems to be needed to check whether other inflected forms of  'dhī (f)' are wrong or not. LB Thanks. 
+new = 
+status = 12/12/2023 help requested
+------------------------------------------------------------------------
+
+Case 25749: 12/10/2023 dict=MW, L= 239452, hw=savanastha, user=srhodes
+old = a a
+new = a
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25748: 12/09/2023 dict=MW, L= 208946, hw=vyavakrośana, user=srhodes
+old = (√krus)
+new = (√kruś)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25747: 12/09/2023 dict=MW, L= 208949.2, hw=vyavagaḍha, user=srhodes
+old = vyavagaḍha
+new = vyavagāḍha
+comment = Typo (Headword Typo)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25746: 12/09/2023 dict=MW, L= 208949.3, hw=vyavagaḍhavat, user=srhodes
+old = vyavagaḍhavat
+new = vyavagāḍhavat
+comment = Typo (Headword Typo)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25745: 12/09/2023 dict=MW, L= 208959, hw=vyavadā, user=srhodes
+old = -dayā
+new = -dāya
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25744: 12/08/2023 dict=MW, L= 19296, hw=avyapohya, user=srhodes
+old = in contestable
+new = incontestable
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25743: 12/08/2023 dict=MW, L= 209544, hw=vyāghūrṇ, user=srhodes
+old = -ghurṇati
+new = -ghūrṇati
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25742: 12/07/2023 dict=MW, L= 209706, hw=vyādhāma, user=srhodes
+old = India's thunderbolt
+new = Indra's thunderbolt
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25741: 12/07/2023 dict=MW, L= 14132, hw=amilātaka, user=srhodes
+old = = a-malataka
+new = = a-malātaka
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25740: 12/07/2023 dict=MW, L= 209876, hw=vyāmarśa, user=srhodes
+old = rubbing out erasure
+new = rubbing out, erasure
+comment = Typo (Add the comma  'punctuation mark')
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25739: 12/07/2023 dict=MW, L= 188205, hw=valg, user=srhodes
+old = (vavāgire v.l. vavalihire)
+new = (vavalgire, v.l. vavalbhire)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25738: 12/07/2023 dict=MW, L= 188205, hw=valg, user=srhodes
+old = pf. vavaiga
+new = pf. vavalga
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25737: 12/06/2023 dict=MW, L= 209998, hw=vyāvap, user=srhodes
+old = cyāvayadti
+new = cyāvayāti  (double check)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25736: 12/06/2023 dict=MW, L= 210115, hw=vyāsuki, user=srhodes
+old = Vyādi
+new = Vyāḍi
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25735: 12/05/2023 dict=MW, L= 134378, hw=pratyudyama, user=srhodes
+old = (TāṇḍBr. ) f. (ŚāṅkhBr. )
+new = (TāṇḍBr. ), ā, f. (ŚāṅkhBr. )
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25734: 12/05/2023 dict=MW, L= 210165, hw=vyuta, user=srhodes
+old = (√vac)
+new = (√ve)
+comment = Typo (Please Let Me Know If At Some Point I Hold the Record For Most Corrections Submitted)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25733: 12/04/2023 dict=MW, L= 208092, hw=vaisarjanīya, user=srhodes
+old = = vaiśarjana
+new = = vaisarjana
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25732: 12/04/2023 dict=MW, L= 208093, hw=vaisarjina, user=srhodes
+old = = vaiśarjana
+new = = vaisarjana
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25731: 12/04/2023 dict=MW, L= 208141, hw=voḍhave, user=srhodes
+old = vaisarjanīya (KātyŚr. ) and vaisarjina (ŚBr. ), n. pl. = vaiśarjana., Ved. inf. of √1. vah.
+new = vołhave, Ved. inf. of √1. vah.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25730: 12/04/2023 dict=MW, L= 208142, hw=vołhave, user=srhodes
+old = vaisarjanīya (KātyŚr. ) and vaisarjina (ŚBr. ), n. pl. = vaiśarjana., Ved. inf. of √1. vah.
+new = vołhave, Ved. inf. of √1. vah.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25729: 12/03/2023 dict=MW, L= 208097, hw=vaisādṛśya, user=srhodes
+old = (fr. vi-sadriśa)
+new = (fr. vi-sadṛśa)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25728: 12/03/2023 dict=MW, L= 208092, hw=vaisarjanīya, user=srhodes
+old = pl. = vaiśarjana.
+new = pl. = vaisarjana.
+status = 12/12/2023 duplicate
+------------------------------------------------------------------------
+
+Case 25727: 12/03/2023 dict=MW, L= 208092, hw=vaisarjanīya, user=srhodes
+old = pl. = vaiśarjana.
+new = pl. = vaisarjana.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25726: 12/02/2023 dict=MW, L= 200557, hw=viśālākṣī, user=srhodes
+old = viśālākṣa m. N. of one of the Mātṛs attendant on Skanda
+new = N. of one of the Mātṛs attendant on Skanda (FEMININE LISTING!)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25725: 12/02/2023 dict=MW, L= 199710, hw=vilātavya, user=srhodes
+old = ve-√lī
+new = vi-√lī
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25724: 12/02/2023 dict=MW, L= 207624, hw=vairāṭa, user=srhodes
+old = (fr. vināṭa)
+new = (fr. virāṭa)
+status = 12/12/2023 duplicate
+------------------------------------------------------------------------
+
+Case 25722: 11/30/2023 dict=MW, L= 207624, hw=vairāṭa, user=srhodes
+old = (fr. vināṭa)
+new = (fr. virāṭa)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25719: 11/24/2023 dict=MW, L= 90585, hw=darśa, user=srhodes
+old = prity-
+new = priya-
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25717: 11/22/2023 dict=MW, L= 126120, hw=puro—vāta, user=erik.seldeslachts
+old = -mārnta
+new = -māruta
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25713: 11/19/2023 dict=MW, L= 141310, hw=proṣṭila, user=srhodes
+old = (for prauṣṭh°?)
+new = (for proṣṭh°?)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25711: 11/18/2023 dict=MW, L= 141249, hw=prodgata, user=srhodes
+old = (pra-udy°)
+new = (pra-udg°)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25710: 11/15/2023 dict=MW, L= prādhva, hw=139981, user=srhodes
+old = prādhva m. after the precedent of
+new = (prādhvam)   after the precedent of
+comment = Typo (The indeclinable definitions continue, neither is it Masculine nor a separate listing).
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25709: 11/14/2023 dict=MW, L= 139132, hw=prāch, user=srhodes
+old = See 3. prās.
+new = See 3. prāś.
+comment = Typo (This must be a misprint in the original text).
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25708: 11/14/2023 dict=MW, L= 139018, hw=prāhlādanīya, user=srhodes
+old = w.r. for pra-ht°
+new = w.r. for pra-hl°
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25707: 11/14/2023 dict=MW, L=138995 , hw=prāsūtika, user=srhodes
+old = (fr. sūti)
+new = (fr. -sūti)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25705: 11/13/2023 dict=MW, L= 138874, hw=prāprābandha, user=srhodes
+old = prāprābandha
+new = prābandha
+comment = Typo (This listing is CORRECT according to the printing). I am questioning if the original PRINTING is correct? WHY prā-prā-bandha?
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25703: 11/13/2023 dict=MW, L= prāṇītya, hw=prāṇītya, user=srhodes
+old = for mītya
+new = for -mītya
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25702: 11/12/2023 dict=MW, L= 138911, hw=prāmodika, user=srhodes
+old = (fr. -mīta)
+new = (fr. -moda)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25701: 11/12/2023 dict=MW, L= 139297, hw=prāggaṅgam, user=srhodes
+old = See prāg-āṅga n.
+new = see prāg-āṅgam.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25698: 11/11/2023 dict=MW, L= 138757, hw=prahvalikā, user=srhodes
+old = pra-hvalikā n. a for beautiful body
+new = prahvala n. a beautiful body
+comment = Typo (HEADWORD TYPO!!!!)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25696: 11/10/2023 dict=MW, L= 137705, hw=praśliṣṭa, user=srhodes
+old = (√iliṣ)
+new = (√śliṣ)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25695: 11/09/2023 dict=MW, L= 137483, hw=praśak, user=srhodes
+old = also, A.
+new = also, Ā.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25694: 11/09/2023 dict=MW, L= 244297, hw=sidh, user=srhodes
+old = Pāṇ. vii, 3, 113
+new = Pāṇ. viii, 3, 113
+comment = Typo (Note that this is an ERROR in the original printing. You may check the rules of Pāṇini to verify this).
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25692: 11/07/2023 dict=MW, L= 188672, hw=vasāvī, user=srhodes
+old = (fr. z. vasu)
+new = (fr. 1. vasu)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25691: 11/07/2023 dict=MW, L= 136804, hw=pravardaka, user=srhodes
+old = pravardaka
+new = pravardhaka
+comment = Typo  (*Note the typo in both the headword and listing).
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25686: 11/05/2023 dict=MW, L= 235730, hw=samupāś, user=srhodes
+old = -upāślnāti
+new = -upāśnāti
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25678: 10/31/2023 dict=MW, L= 120944.1, hw=pā, user=srhodes
+old = pīpīte
+new = pipīte
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25676: 10/30/2023 dict=MW, L=atna , hw=ID=3390, user=chandan.mazumdar
+old = Present entry: LB atna or atnu m. (√at), the sun
+new = Corrected entry: LB atna, as, or atnu, us, m. (√at), the sun LB Similar error of missing 'as' is also there for "atyaMhas" (ID=3392)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25675: 10/30/2023 dict=MW, L=atya, hw=ID=3391, user=chandan.mazumdar
+old = Present entry:  LB atya (2, 3) m. a courser, steed
+new = Corrected entry: LB atya (2, 3) as, m. a courser, steed
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25674: 10/29/2023 dict=MW, L= 134003, hw=pratyabhicita, user=srhodes
+old = (√1. cī)
+new = (√1. ci)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25671: 10/28/2023 dict=MW, L= 152343, hw=bhUri, user=geymonat
+old = bhUrI ind.
+new = bhUri ind.
+comment = Misinterpretation of what is written in the dictionary (that long I refers to the feminine of bhUri) bhUrI as indeclinable is a monstrum horrendum!
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25668: 10/27/2023 dict=MW, L= 133694, hw=pratīcchaka, user=srhodes
+old = See pratiṣ
+new = See pratīṣ   (I think this must be so).
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25667: 10/27/2023 dict=MW, L= 133470, hw=pratistambh, user=srhodes
+old = -sṭabhate
+new = -stabhate   (I think that the apparent marking is dust or something).
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25666: 10/27/2023 dict=MW, L= 28074, hw=āsṛ, user=srhodes
+old = -śāryate
+new = -sāryate
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25665: 10/27/2023 dict=mw, L=, hw=Durya, user=ejf
+old = (H2)  [Printed book page 517,3]  धुर्य   mfn. (w.r. धूर्य) <!!!>fit o be<!!!> harnessed, able to draw or bear (Pāṇ. iv, 4, 77)  [ID=101459]      being at
+new = fit to be  
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25664: 10/25/2023 dict=MW, L= 133171, hw=pratiśraya, user=srhodes
+old = a receptacle recipient
+new = a receptacle, recipient
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25662: 10/25/2023 dict=MW, L= 133169, hw=pratiśobhita, user=srhodes
+old = (v.l. for pari-s°)
+new = (v.l. for pari-ś°)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25661: 10/25/2023 dict=MW, L= 133166, hw=pratiśṝ, user=srhodes
+old = -śṛnāti
+new = -śṛṇāti
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25660: 10/24/2023 dict=mw, L=, hw=aNga, user=ejf
+old = attention, assent or desire, and sometimes impatience, it may be rendered by <!!!>well  [ID=1496]      indeed, true, please, rather quick<!!!>  [ID=1496.1]      किम् अङ्ग, how much rather!  [ID=1496.2]  ←  (H1)  [Printed
+new = punctuation is wrong
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25659: 10/22/2023 dict=MW, L= 230256, hw=sadukti, user=srhodes
+old = g° w°
+new = g° w°s   (i.e. good words)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25658: 10/22/2023 dict=MW, L= 132499, hw=pratinyas, user=srhodes
+old = (for different persons) deposit
+new = (for different persons), deposit
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25657: 10/20/2023 dict=MW, L= pratidru, hw=pratidru, user=srhodes
+old = -adu bruvat
+new = -adudruvat
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25656: 10/20/2023 dict=MW, L= 132370, hw=pratitij, user=srhodes
+old = titigahi
+new = -titigdhi
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25655: 10/20/2023 dict=MW, L= 132415, hw=pratihiteṣu, user=srhodes
+old = °hitāyīn
+new = °hitāyin
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25654: 10/19/2023 dict=MW, L= 84885, hw=titīrṣā, user=srhodes
+old = √tṛ
+new = √tṝ    (or maybe you prefer √tṛī)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25653: 10/18/2023 dict=MW, L= 132047.1, hw=pratyavayavam, user=srhodes
+old = ()
+new = 
+comment = Typo   (delete the empty parenthesis)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25652: 10/17/2023 dict=MW, L= 131830.1, hw=prativāsaram, user=srhodes
+old = = -tad-dinam
+new = = tad-dinam
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25651: 10/16/2023 dict=MW, L= 254259, hw=skund, user=srhodes
+old = āpravane
+new = āpravaṇe
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25650: 10/16/2023 dict=MW, L= 131675, hw=pratibhaṭīkṛ, user=srhodes
+old = mfn. (°ṭī-√kṛ, to equalize to, Naiṣ. ; m. an adversary, Rājat. )
+new = to equalize to.
+status = 12/12/2023 no change
+------------------------------------------------------------------------
+
+Case 25649: 10/16/2023 dict=MW, L= 131674, hw=pratibhaṭa, user=srhodes
+old = (THIS SHOULD BE ADDED HERE) »»» "m. an adversary, Rājat."
+new = (THIS SHOULD BE ADDED HERE) »»» "m. an adversary, Rājat."
+comment = Typo  (missing listing).
+status =  :12/12/2023 no change
+------------------------------------------------------------------------
+
+Case 25647: 10/15/2023 dict=MW, L= 131548.1, hw=pratināma, user=srhodes
+old = prati—nā°ma °ma, 
+new = prati—nā°ma   OR   °ma,  BUT NOT BOTH!
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25646: 10/15/2023 dict=MW, L= 132293, hw=praticodanā, user=srhodes
+old = = smriti
+new = = smṛti
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25645: 10/14/2023 dict=mw, L=231935, hw=saMnah, user=ejf
+old = clothe or furnish with (instr.), AV.  
+new = one's self, dress  [period -> comma]
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25644: 10/13/2023 dict=MW, L= 130953, hw=prajinv, user=srhodes
+old = -jincti
+new = -jinoti
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25643: 10/13/2023 dict=mw, L=258581, hw=svayam, user=ejf
+old = one's self (applicable to all persons, e.g. myself, thyself, himself 
+new = ... self, spontaneously [missing comma]
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25642: 10/12/2023 dict=mw, L=156633, hw=mata, user=ejf
+old = Śambara, Hariv.  (v.l. मन)  [ID=156632]    मत   n. a thought, idea, opinion, <!!!>sentiment, view, belief. doctrine<!!!>, MBh. ; Kāv.  
+new = sentiment, view, belief, doctrine 
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25640: 10/11/2023 dict=MW, L= 208142, hw= vołhave, user=mccomas.taylor
+old =  vołhave
+new = typo
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25638: 10/10/2023 dict=MW, L= 4531, hw=adhīlohakarṇa, user=srhodes
+old = addhyāloha-karna
+new = addhyāloha-karṇa
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25637: 10/09/2023 dict=MW, L= 3917, hw=advayavādin, user=srhodes
+old = (cf. advaita-vadin.)
+new = (cf. advaita-vādin.)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25635: 10/06/2023 dict=MW, L= 107813, hw=nika, user=srhodes
+old = prujā-pateḥ
+new = prajā-pateḥ
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25634: 10/06/2023 dict=mw, L=18839, hw=avasAyin, user=ejf
+old = book page 105,3]  अव-सायिन्   mfn. ‘taking up one's abode, settling’, see <!!!>अन्ताव्° and and अन्ते-ऽव्°<!!!>, यत्र-कामाव्°.  [ID=18339]      ▲ अवसो .अवसा b .अवसातृ .अवसान 2 ..अवसानदर्श
+new = अन्ताव्° and अन्ते-ऽव्°
+comment = 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25633: 10/05/2023 dict=MW, L= 108014, hw=nikhid, user=srhodes
+old = -khldati
+new = -khidati
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25631: 10/03/2023 dict=MW, L= 82, hw=अंशुक, user=yves.codet
+old = चीनांशुक doesn't appear correctly (probably an extra space before the anusvāra)
+new = चीनांशुक
+status =  12/12/2023 no change made
+------------------------------------------------------------------------
+
+Case 25630: 10/02/2023 dict=MW, L= 104535, hw=नवयौवण, user=Centr1s
+old = नवयौवण 
+new = नवयौवन
+comment = Typo. 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25626: 09/25/2023 dict=MW, L=151316, hw=bhujaṃgabhuj, user=
+old = The abbreviation sº is for snake/serpent, not for "species"
+new = Replace species by serpent in the extended form of sº
+comment = Mistake
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25625: 09/24/2023 dict=MW, L= 109496, hw=nirṛch, user=srhodes
+old = as under
+new = asunder
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25624: 09/24/2023 dict=MW, L= 88388.1, hw=tri—śula-paṭṭita-dhara, user=ferenc.ruzsa
+old = tri—śula-paṭṭita-dhara
+new = tri—śūla-paṭṭiśa-dhara
+comment = Typo (two in one headword!)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25623: 09/23/2023 dict=MW, L= 111284, hw=nīśāra, user=srhodes
+old = (√śṛ) 
+new = EITHER  (√śṛī) WHICH DOES NOT MAKE SENSE OR (√śṝ) PLEASE EMAIL ME THE ANSWER
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25621: 09/22/2023 dict=MW, L=111111 , hw=nisneha, user=srhodes
+old = nīḥ-sneha
+new = niḥ-sneha
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25620: 09/22/2023 dict=MW, L= 111067, hw=nisumbha, user=srhodes
+old = See ni-s°.
+new = See ni-ś°.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25609: 09/18/2023 dict=MW, L=125107 , hw=puṃsāka, user=
+old = the entry puṃsāka should be puṃsaka
+new = puṃsaka
+comment = Typo in the entry
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25608: 09/17/2023 dict=MW, L= 19863, hw=aślika, user=srhodes
+old = a-ślika See 2. a-śri. 
+new = a-ślīka See 2. a-śrī.
+comment = Typo  (TWO TYPOS corrected above)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25606: 09/15/2023 dict=MW, L= 19345, hw=avyavasta, user=srhodes
+old = √sī)
+new = √si)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25605: 09/14/2023 dict=MW, L= 19146, hw=avīratā, user=srhodes
+old = (a-vsra-) f. want of sons, RV. iii, 16, 5 (dat. °tāyaī)
+new = (a-vīra-) f. want of sons, RV. iii, 16, 5 (dat. °tāyai)
+comment = TWO Typos Here (at beginning and end).
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25604: 09/14/2023 dict=MW, L= 19148, hw=avīrahan, user=srhodes
+old = not pernicious to meu
+new = not pernicious to men
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25603: 09/14/2023 dict=MW, L= 226060, hw=saṃvadita, user=srhodes
+old = saṃvadita
+new = saṃvādita
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25602: 09/13/2023 dict=MW, L= 196143, hw=viduṣita, user=srhodes
+old = viduṣita
+new = vidūṣita
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25601: 09/12/2023 dict=MW, L= 18934, hw=avibhraṃsin, user=srhodes
+old = avibhraṃsin
+new = avibhraṃśin
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25600: 09/12/2023 dict=MW, L= 18748.1, hw=avijānaka, user=srhodes
+old = This placement may be incorrect; I believe that this word is from the verbal root √jña and NOT the verbal root √jan. (My humble opinion).
+new = Adjust the Hierarchical Listing.
+comment = Hierarchical Listing Error
+status =  12/12/2023 no change
+------------------------------------------------------------------------
+
+Case 25599: 09/11/2023 dict=MW, L= 16733.1, hw=ali, user=srhodes
+old =  a corrupt pronunciation for aryas
+new =  a corrupt pronunciation for arayas
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25597: 09/09/2023 dict=MW, L= 224693, hw= śvetamandāraka, user=Caujolle
+old = śveta—mandāra (Cat. ) or śveta—mandā°raka (L. ), m. a kind of tree.,
+new = śveta—mandāra (Cat. ) or śveta—mandā°raka (L. ), m. a kind of tree.
+comment = Typo, an extra comma at the end
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25596: 09/08/2023 dict=MW, L= 14749.1, hw=ayamāsya, user=srhodes
+old = the fuller form of a yāsya
+new = the fuller form of a-yāsya
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25592: 09/04/2023 dict=MW, L= , hw=श्रम्, user=aprigliano
 old = स्रामयति

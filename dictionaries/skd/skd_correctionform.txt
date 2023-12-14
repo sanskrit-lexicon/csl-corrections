@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of September 08, 2023
-354 correction records, with 0 PENDING
+As of December 13, 2023
+355 correction records, with 0 PENDING
+
+Case 25639: 10/10/2023 dict=SKD, L=12818, hw=चैतन्यः, user=k.krishnachaitanya
+old = भगवद-तारविशेषः and श्रीभवानुवाच
+new = भगवदवतारविशेषः and श्रीभगवानुवाच
+comment = Typo.  Can I please be intimated once the correction is made.  Also I have submitted my request at https://github.com/ashtadhyayi-com/data/pull/256.  Is there a single place to change where the corrections are reflected both at sanskrit-lexicon.uni-koeln.de and ashtadhyayi-com?
+status = 12/12/2023. change previously made.
+------------------------------------------------------------------------
 
 Case 25593: 09/06/2023 dict=SKD, L= 4096, hw=इत्यं, user=Shalu
 old = य

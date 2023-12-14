@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of September 08, 2023
-2266 correction records, with 0 PENDING
+As of December 13, 2023
+2270 correction records, with 0 PENDING
+
+Case 25618: 09/21/2023 dict=CCS, L= 82, hw=akṣa, user=frank.ziesing
+old = 2. akṣa m. Achese.
+new = 2. akṣa m. Achse.
+comment = Typo: one "e" too much in "Achse"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25617: 09/21/2023 dict=CCS, L= 15445, hw=pratiṣṭha, user=frank.ziesing
+old = pratiṣṭha f. Widerstand
+new = pratiṣṭhi f. Widerstand
+comment = Typo: "i" in pratiṣṭhi
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25612: 09/20/2023 dict=CCS, L=20526, hw=rudh, user=frank.ziesing
+old = einschlißen. einsperren in (Loc), belagen,
+new = einschließen. einsperren in (Loc), belagern,
+comment = Typo "e" missing in "einschließen" and "r" missing in "belagern"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25611: 09/20/2023 dict=CCS, L= 19631, hw=yam, user=frank.ziesing
+old = mit eigehaltenem o. gezügeltem —
+new = mit eingehaltenem o. gezügeltem —
+comment = Typo "n" missing in "eingehaltenem" 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25589: 08/29/2023 dict=CCS, L= 3006, hw=āha, user=frank.ziesing
 old = āha s. āha.

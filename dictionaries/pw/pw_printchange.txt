@@ -291,3 +291,11 @@ Correction initiated by User h.c.jahr
 L code : Headword     : Old       : New         : Comment
 107429 : veza  : ein angenommenes Aeussere : ein angenommenes Aeusseres :
 -------------------------------------------------------------------------
+09-25-2023
+Ref:https://github.com/sanskrit-lexicon/PWK/issues/88#issuecomment-1733437857
+Correction initiated by Github author @Andhrabharati
+L code : Headword     : Old       : New         : Comment
+25977  : kAkakulAyaganDika:
+old: <ab n="a.u. = ab usu - as usual ?">a. u.</ab>
+new: <ab>v. u.</ab>
+-------------------------------------------------------------------------

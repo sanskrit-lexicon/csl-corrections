@@ -1,6 +1,31 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of September 08, 2023
-163 correction records, with 0 PENDING
+As of December 13, 2023
+167 correction records, with 0 PENDING
+
+Case 25720: 11/27/2023 dict=SHS, L= 28829, hw=bṝ, user=srhodes
+old = bṝ more usually.
+new = vṝ more usually.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25718: 11/24/2023 dict=SHS, L= 41454, hw=ṣāḍva, user=srhodes
+old = ṣāḍva
+new = ṣāḍava
+comment = Typo (Headword Typo!)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25677: 10/30/2023 dict=SHS, L= 4422, hw=aṣṭāpadapatra, user=srhodes
+old = Cold-leaf
+new = Gold-leaf
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25663: 10/25/2023 dict=SHS, L= 26671, hw=pratiśraya, user=srhodes
+old = Helf    (and maybe also »»»  "śrī to serve")
+new = Help      (and maybe also »»»  "śri to serve")
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25595: 09/06/2023 dict=SHS, L= 32605, hw=yAga, user=22mansidhariwal
 old = घज्

@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for AP
-As of September 08, 2023
-530 correction records, with 0 PENDING
+As of December 13, 2023
+531 correction records, with 0 PENDING
+
+Case 25627: 09/25/2023 dict=AP, L= ID=6372, hw=ākāṅkṣ, user=Christian Ferstl  LB christian.ferstl
+old = ācakāḍkṣa, ākāḍkṣantī, ākāḍkṣan and ākāḍkṣā 
+new = ācakāṅkṣa, ākāṅkṣantī, ākāṅkṣan and ākāṅkṣā 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25591: 09/03/2023 dict=ap, L= 35451, hw=saudha, user=christian.ferstl
 old = white-wahed

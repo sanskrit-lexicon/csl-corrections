@@ -1,6 +1,39 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of June 07, 2023
-236 correction records, with 0 PENDING
+As of December 13, 2023
+241 correction records, with 0 PENDING
+
+Case 25690: 11/07/2023 dict=PWG, L= 53787, hw=bhagavatī, user=shztg
+old = bhagavatī, s. u. bhagavant .
+new = bhagavatī, s. u. bhagavat .
+status = 12/12/2023 no change
+------------------------------------------------------------------------
+
+Case 25681: 11/02/2023 dict=PWG, L= 63704, hw=anurañjana , user=frank.ziesing
+old = kṣatriyāśca pravartante sarvavarṇāturañjanaiḥ
+new = kṣatriyāśca pravartante sarvavarṇānurañjanaiḥ
+comment = Typo: there should be an "n" instead of a "t" in sarvavarṇānurañjanaiḥ (sarva-varṇa-anu-rañjanaiḥ)
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25680: 11/02/2023 dict=PWG, L= 119359, hw=karṣ, user=frank.ziesing
+old = — 3) an sich ziehen, in seine Gewalt bekommen, überwältigen: nakraḥ svasthānamāsādya gajendramapi karṣiti
+new = — 3) an sich ziehen, in seine Gewalt bekommen, überwältigen: nakraḥ svasthānamāsādya gajendramapi karṣati
+comment = Typo: last word should be "karṣati", not "karṣiti"
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25629: 09/30/2023 dict=PWG, L= 15523, hw=karman, user=frank.ziesing
+old = — 7) Schicksal, = śubhāśubha H. an.  Dagegen heisst es Ak. 3, 4, 21, 157  : bhāgyaṃ karma śubhāśumam Schicksal ist das gute und böse Werk
+new = ... bhāgyaṃ karma śubhāśubham Schicksal ist das gute und böse Werk
+comment = Typo: should be a "bh" in śubhāśubham and not an "m". However this is a tricky one as the scan of this page is a bit illegible. The word in question looks like "śubhāśumam" but on closer inspection, there is a difference between the final letter "m" and the preceeding letter, which to me looks like a "bh" where the top somehow got too much ink. 
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
+
+Case 25628: 09/27/2023 dict=PWG, L= 11999, hw=upari, user=christian.ferstl
+old = paṇyasyoyari
+new = paṇyasyopari
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25460: 04/26/2023 dict=PWG, L= 7452, hw=asūy, user=juzki13
 old = a̱sū̱yannabhyàcākaśa̱ṃ tasmā̀ aspṛhaya̱ṃ punàḥ

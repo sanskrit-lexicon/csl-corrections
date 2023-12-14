@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of September 08, 2023
-73 correction records, with 0 PENDING
+As of December 13, 2023
+74 correction records, with 0 PENDING
+
+Case 25641: 10/11/2023 dict=MWE, L= 23159, hw=precedent, user=sanaatani
+old = पूर्व्वदृष्ठान्तः
+new = Should it be पूर्व्वदृष्टान्तः? I am not very sure though.
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25569: 08/02/2023 dict=MWE, L=21215, hw=outer, user=samm3
 old = [supplementary report] LB The word 'bāhyaḥ' is also written as 'vāhya' in later language according to WM. [cf. bāhya mf(ā)n. (fr. bahis; in later language also written vāhya, q.v.; m. nom. pl. bāhye, ŚBr. )] LB But I did not find any references or usages regarding whether words except 'vāhyaḥ' in ID21215(WM) are usable.  

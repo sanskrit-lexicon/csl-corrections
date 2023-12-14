@@ -1465,6 +1465,22 @@ Odile Caujolle
 https://github.com/sanskrit-lexicon/csl-orig/issues/1280
  code : Headword : Old  : New : Comment
 16653 : alarka : Calatropis : Calotropis : current spelling from online resources.
-
+-------------------------------------------------------
+10-10-2023
+User srhodes
+https://github.com/sanskrit-lexicon/csl-orig/issues/1363
+ code : Headword : Old  : New : Comment
+ 132293 : praticodanA : smriti :  smfti (SLP1)
+ 133694 : pratIcCaka : pratiz  :  pratIz  (slp1)
+ 244297 : siD : Pāṇ. vii , 3, 113 : Pāṇ. viii, 3, 113
+ 137764 : prAprAbanDa :  prAprAbanDa : prAbanDa : https://github.com/sanskrit-lexicon/csl-orig/issues/1422
+ 139132 : prAC : prA/s : prA/S : https://github.com/sanskrit-lexicon/csl-orig/issues/1426
+ 208527 : vyatitan : vy-atanvAtAm : vyaty-atanvAtAm : https://github.com/sanskrit-lexicon/csl-orig/issues/1469
+-------------------------------------------------------
+10-28-2023
+User geymonat
+https://github.com/sanskrit-lexicon/csl-orig/issues/1388
+ code : Headword : Old  : New : Comment
+ 152344 : BUri   : BUrI ind. : BUri ind.  : confirm mw72
 -------------------------------------------------------
 

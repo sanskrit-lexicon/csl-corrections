@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of September 08, 2023
-420 correction records, with 0 PENDING
+As of December 13, 2023
+421 correction records, with 0 PENDING
+
+Case 25693: 11/08/2023 dict=GRA, L=4709, hw=dhI, user=dicten
+old = á 1〉 achten auf [G.];
+new = ā 1〉 achten auf [G.];
+comment = Typo: á for ā
+status = 12/12/2023 corrected
+------------------------------------------------------------------------
 
 Case 25560: 07/19/2023 dict=GRA, L= 12424, hw=bhU, user=pvstiles
 old = 0942 In the list of meanings, there is no 8). It goes from 7) to 9). Meaning 8) is referred to later in the entry

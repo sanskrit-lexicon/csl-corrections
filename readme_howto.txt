@@ -1,8 +1,14 @@
-# Download app/correction_response/cfr.tsv from Cologne server
-sh download_cfr.sh
-Note: This first step is not ideal.
-Reason: Cannot push csl-corrections from cologne server to Github.
-------------
+# login to cologne server
+# cd to scans/csl-corrections
+# git add .
+git commit -m "user corrections"
+git push
+--------------------------------------
+# in local installation,
+# cd to /c/xampp/htdocs/cologne/csl-corrections
+git pull
+
+--------------------------------------
 # edit cfr.tsv and remove 'bad lines'
  -- e.g. incomplete or hacker garbage)
 ------------------------------------
@@ -25,10 +31,31 @@ Our task will be to
     At cologne, git restore app/correction_response/cfr.tsv
 (3) At cologne, git pull.
 -----------------------------------------------
-a. Get a new personal access token at Github
-b. Modify /c/Users/<WINDOWS-USER/.bashrc
-c. restart git bash and navigate back to csl-corrections
 ----------------------------------------------
+----------------------------------------------
+PERSONAL ACCESS TOKEN CLASSIC 12-12-2023
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+In the left sidebar, click  Developer settings.
+xx In the left sidebar, under  Personal access tokens, click Fine-grained tokens.
+In the left sidebar, under  Personal access tokens, click Tokens (classic).
+Select Generate new token, then click Generate new token (classic).
+In the "Note" field, give your token a descriptive name.
+To give your token an expiration, select Expiration, then choose a default option or click Custom to enter a date.
+  # 30 days
+Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select repo. A token with no assigned scopes can only access public information.
+
+click Generate token.  Click copy
+ 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
+
+------
+edit ~/Users/jimfu/.bashrc
+export GITHUB_ACCESS_TOKEN='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'
+
+start a new git bash terminal
+cd /c/xampp/htdocs/cologne/csl-corrections
+
+------------------------------------------------
+
 sh post_github_issues.sh
    1. This creates issues at github.com/sanskrit-lexicon/csl-orig for
       pending items
@@ -39,6 +66,13 @@ sh post_github_issues.sh
       "Error posting: requests status =  403"
    3a. wait a few seconds (maybe a minute), and redo 1.
    3b. Keep doing this all are issues are initialized (no 403 message).
+------------------------------------------------
+sh redo_cfr.sh
+add "LRV" to 'knowndicts' in cfr_adj.py
+mkdir dictionaries/lrv
+
+------------------------------------------------
+------------------------------------------------
 ----------------------------------------------
 corrections for mw
 ------------------
