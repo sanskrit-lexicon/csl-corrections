@@ -1,6 +1,43 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 13, 2023
-2038 correction records, with 0 PENDING
+As of December 15, 2023
+2044 correction records, with 0 PENDING
+
+Case 25770: 12/15/2023 dict=MW, L= 243197, hw=sārdra, user=srhodes
+old = m. fn.
+new = mfn.
+status = 12-15-2023 corrected
+------------------------------------------------------------------------
+
+Case 25769: 12/15/2023 dict=MW, L= 242564, hw=sāmoḍha, user=srhodes
+old = sāmādbhava
+new = sāmodbhava
+status = 12-15-2023 corrected
+------------------------------------------------------------------------
+
+Case 25768: 12/15/2023 dict=MW, L= 242395, hw=sāmavāyika, user=srhodes
+old = (fr. samavoya) 
+new = (fr. samavāya) 
+status = 12-15-2023 corrected
+------------------------------------------------------------------------
+
+Case 25766: 12/14/2023 dict=MW, L= 241353, hw=sāñjali, user=srhodes
+old = in supplication See
+new = in supplication, see
+comment = Typo (ADD the 'comma" AND 'lower case' the letter 's')
+status = 12-15-2023 corrected
+------------------------------------------------------------------------
+
+Case 25765: 12/14/2023 dict=MW, L= 241348, hw=sAYcADara, user=srhodes
+old = See sācādhara
+new = See sañcādhara
+status = 12-15-2023 corrected
+------------------------------------------------------------------------
+
+Case 25764: 12/14/2023 dict=MW, L= 241326, hw=sāci, user=srhodes
+old = away
+new = awry
+status = 12-15-2023 corrected
+------------------------------------------------------------------------
 
 Case 25763: 12/13/2023 dict=MW, L= 242001, hw=sāṃdīpani, user=srhodes
 old = (fr. sam-dipana)

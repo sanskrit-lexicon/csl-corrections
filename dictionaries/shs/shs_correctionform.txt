@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of December 13, 2023
-167 correction records, with 0 PENDING
+As of December 15, 2023
+168 correction records, with 0 PENDING
+
+Case 25767: 12/14/2023 dict=SHS, L= 16610, hw=jha, user=srhodes
+old = the classing of cymbals
+new = the clashing of cymbals
+status = 12-15-2023 corrected
+------------------------------------------------------------------------
 
 Case 25720: 11/27/2023 dict=SHS, L= 28829, hw=bṝ, user=srhodes
 old = bṝ more usually.
