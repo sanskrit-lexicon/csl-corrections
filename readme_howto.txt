@@ -176,4 +176,23 @@ initial push of the cologne repository to Github. (authentication problem).
 That's it.
 Now we're ready for the next handling of user corrections.
 ---------------------------------------------------
-
+hwnorm1c.sqlite
+The simple-search display system  (ref csl-apidev repository) uses
+hwnorm1c.sqlite binary file.
+This binary file is generated in the hwnorm1 repository (local installation)
+and then moved, locally, to csl-apidev.
+The details are https://github.com/sanskrit-lexicon/hwnorm1/blob/master/sanhw1/readme.txt.
+Here is a copy of those instructions (as of 12-15-2023)
+The sanhw1/redo.sh script remakes
+ sanhw1.txt and hwnorm1c.txt, which are tracked by git
+ hwnorm1c.sqlite, which is NOT tracked by git.
+ The redo.sh script ends with the comment:
+   If your are ready, move hwnorm1c.sqlite to csl-apidev by this command:
+     mv hwnorm1c.sqlite ../../csl-apidev/simple-search/hwnorm1/
+This 'mv' step is to be done.
+Then, two repositories need to be synced to Github:
+  this hwnorm1 repository
+  the csl-apidev repository.
+Finally, on the Cologne server, the hwnorm1 and csl-apidev repositories
+  need to be pulled.
+  
