@@ -299,3 +299,9 @@ L code : Headword     : Old       : New         : Comment
 old: <ab n="a.u. = ab usu - as usual ?">a. u.</ab>
 new: <ab>v. u.</ab>
 -------------------------------------------------------------------------
+12-25-2023
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/100
+Thomas Malten
+L code : Headword     : Old       : New         : Comment
+24579  : karaRa       : Rechstsprache : Rechssprache : 
+-------------------------------------------------------------------------
