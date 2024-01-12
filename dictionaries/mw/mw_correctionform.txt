@@ -1,6 +1,629 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 15, 2023
-2044 correction records, with 0 PENDING
+As of January 12, 2024
+2140 correction records, with 96 PENDING
+
+Case 25884: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
+old = to bejoined
+new = to be joined
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25882: 01/12/2024 dict=MW, L= 237403.1, hw=saṃvartavāta, user=srhodes
+old = WRONG HIERARCHICAL PLACEMENT
+new = See Printed book page (follow the link)
+comment = WRONG HIERARCHICAL PLACEMENT
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25881: 01/12/2024 dict=MW, L= 237401, hw=samrāḍāsandī, user=srhodes
+old = foe
+new = for
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25880: 01/11/2024 dict=MW, L= 237206, hw=sammuc, user=srhodes
+old = -muncati
+new = -muñcati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25879: 01/11/2024 dict=MW, L= 237167, hw=sammikṣ, user=srhodes
+old = cf. √1. miksk;
+new = cf. √1. mikṣ;
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25878: 01/11/2024 dict=MW, L= 237079, hw=sambhrāj, user=srhodes
+old = shine brightly. sparkle
+new = shine brightly, sparkle
+comment = Typo - (a 'comma' should be in place of the 'period')
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25877: 01/11/2024 dict=MW, L= 236838, hw=sambhakṣ, user=srhodes
+old = -bhakṣoyati
+new = -bhakṣayati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25876: 01/11/2024 dict=MW, L=236834 , hw=sambṛh, user=srhodes
+old = -babraha
+new = -babarha
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25875: 01/10/2024 dict=MW, L= 236626, hw=samprasū, user=srhodes
+old = -sāte
+new = -sūte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25874: 01/09/2024 dict=MW, L= 236410, hw=samprathā, user=srhodes
+old = suprathāh
+new = suprathāḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25873: 01/09/2024 dict=MW, L= 236407, hw=sampratyaya, user=srhodes
+old = See sam-prati
+new = See sam-pratī  OR  (sam-prati-√i)
+comment = Typo - must be a printing error. This should be corrected in one way or another.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25872: 01/09/2024 dict=MW, L=236322, hw=sampraṇud, user=srhodes
+old = nudati
+new = ṇudati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25871: 01/07/2024 dict=MW, L= 119058, hw=paristṛ, user=srhodes
+old = pariśtarītavai
+new = paristarītavai
+comment = Typo - (after checking the citing of Pāṇ. vi, 2, 51, and looking at the manuscript, I have concluded the correction above; the printing looks too weak too merit the letter ś, and the cited rule concerns accent not sandhi).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25870: 01/07/2024 dict=MW, L= 119058, hw=paristṛ, user=srhodes
+old = pariśtarītavai
+new = paristarītavai
+comment = Typo - (after checking the citing of Pāṇ. vi, 2, 51, and looking at the manuscript, I have concluded the correction above; the printing looks too weak too merit the letter ś, and the cited rule concerns accent not sandhi).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25869: 01/05/2024 dict=MW, L= 235668, hw=samupaṣṭambha, user=srhodes
+old = = sam-uvastambha
+new = = sam-upastambha
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25868: 01/04/2024 dict=MW, L= 235747, hw=samupoḍha, user=srhodes
+old = -upolha
+new = -upołha  OR  -upoḷha  (You Choose!)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25867: 01/04/2024 dict=MW, L= 235620, hw=samupajñā, user=srhodes
+old = -janite
+new = -jānīte
+comment = Typo - (This correction is correct. Previously I missed the first long vowel).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25866: 01/04/2024 dict=MW, L= 235620, hw=samupajñā, user=srhodes
+old = -janite
+new = -janīte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25864: 01/03/2024 dict=MW, L= 235499, hw=samudbandhana, user=srhodes
+old = is. hanging up
+new = n. hanging up
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25863: 01/03/2024 dict=MW, L= 235462, hw=samuddṝ, user=srhodes
+old = -diryate
+new = -dīryate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25862: 01/02/2024 dict=MW, L= 32257, hw=udāja, user=srhodes
+old = a selected portion, = uddhāra
+new = leading out (soldiers to war); marching out
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25861: 01/02/2024 dict=MW, L= 235188, hw=samutpīḍana, user=srhodes
+old = (√pīd)
+new = (√pīḍ)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25860: 01/02/2024 dict=MW, L= 237403.1, hw=saṃvartavāta, user=srhodes
+old = Listing under samrāḍ
+new = CORRECT THE PLACEMENT OF THIS WORD
+comment = Hierarchy Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25859: 01/02/2024 dict=MW, L= 236667, hw=samprāp, user=srhodes
+old = Listing under samprānta
+new = Independent Listing
+comment = Hierarchy Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25858: 01/02/2024 dict=MW, L=236557 , hw=sanaprokta, user=srhodes
+old = sana-prokta
+new = Sam-prokta
+comment = Typo - HEADWORD TYPO!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25857: 01/02/2024 dict=MW, L=1927, hw=aj, user=srhodes
+old = fr. √vi)
+new = fr. √vī)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25856: 01/01/2024 dict=MW, L= 15739, hw=arj, user=srhodes
+old = (aor. arjījat,
+new = (aor. arjijat,
+comment = Typo & (HAPPY NEW YEAR!)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25855: 01/01/2024 dict=MW, L= 16541, hw=alakzita, user=ejf
+old = un-characterized having no particular mark
+new = uncharacterized, having no particular mark
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25854: 01/01/2024 dict=MW, L=235786 , hw=samūḍha, user=srhodes
+old = (or -ūlha)
+new = YOU CHOOSE BETWEEN THE TWO:  (or -ūḷha)   OR   (or -ūłha)  
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25853: 01/01/2024 dict=MW, L= 235783, hw=samūh, user=srhodes
+old = (ind.p. -bham, q.v.)
+new = (ind.p. -oham, q.v.)
+comment = Typo - (this typo is located in the first listing above the ID number cited)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25852: 01/01/2024 dict=MW, L= 235524, hw=samudyamin, user=srhodes
+old = exerting one's self. strenuous
+new = exerting one's self, strenuous
+comment = Typo - ('comma' rather than 'period')
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25851: 01/01/2024 dict=MW, L=235113 , hw=samutkampin, user=srhodes
+old = Listing under samutkaṇṭha
+new = Independent Listing
+comment = Hierarchy Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25850: 12/31/2023 dict=MW, L= 102255.2, hw=dhrāj, user=srhodes
+old = dhrāj
+new = REMOVE!
+comment = Typo – I must call this listing into question. In the printed text there is no such "separate" listing. "dhrāj" is listed under "dhraj". However I must say that I have not found this verbal form listed in the dhātupāṭha. Therefore it may be an error. But certainly it is NOT printed in Sir Monier Williams' Dictionary as a SEPARATE listing.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25849: 12/31/2023 dict=MW, L=185406, hw=vatsa, user=erik.seldeslachts
+old = Nerium Aitidysentericum
+new = Nerium Antidysentericum
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25848: 12/31/2023 dict=MW, L= 131110, hw=praṇaś, user=srhodes
+old = Caus. -ṇāśyati
+new = Caus. -ṇāśayati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25847: 12/31/2023 dict=MW, L= 104760, hw=naś, user=srhodes
+old = naṃṣum
+new = naṃṣṭum
+comment = Typo - (second inf. form under 2. naś cl.4.P.)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25846: 12/31/2023 dict=MW, L= 200039, hw=vivāsa 4, user=srhodes
+old = vi- √2. vac)
+new = vi- √2. vas)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25845: 12/31/2023 dict=MW, L= 234653, hw=samāvyadh, user=srhodes
+old = -viddhyati
+new = -vidhyati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25843: 12/30/2023 dict=MW, L=234608 , hw=samāvāya, user=srhodes
+old = under sam-avāp.
+new = under sam-ave,
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25842: 12/30/2023 dict=MW, L=234629 , hw=samāvṛj, user=srhodes
+old = one's self. appropriate
+new = one's self, appropriate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25841: 12/30/2023 dict=MW, L= 234597, hw=samopta, user=srhodes
+old = m. thrown in together, mixed, mingled
+new = mfn. thrown in together, mixed, mingled
+comment = Typo – This is clearly a "past participle form."  Therefore, I consider that it should be available for use in all three genders according to the context. Also, the words listed in this translation are clearly adjectives (not nouns). So I strongly disagree that this is a "masculine" word as printed in the manuscript. If you agree with my reasoning, then I hope we make the correction online. The online edition of Sir Williams' Dictionary should not 'honor' mistakes which have been confirmed in the printed edition.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25840: 12/30/2023 dict=MW, L= 221615, hw=śobhana, user=srhodes
+old = the astron. Yogas. ; L.
+new = the astron. Yogas, L.;
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25838: 12/29/2023 dict=MW, L= 234528, hw=samārudh, user=srhodes
+old = only ind.p. rdhya)
+new = only ind.p. -rudhya)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25837: 12/29/2023 dict=MW, L= 234087, hw=samācam, user=srhodes
+old = observances cf. ā-√cam
+new = observances, cf. ā-√cam
+comment = Typo - (add the 'comma')
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25836: 12/29/2023 dict=MW, L= 234080, hw=samāgalita, user=srhodes
+old = (√gai)
+new = (√gal)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25835: 12/28/2023 dict=MW, L= 233869, hw=samavasru, user=srhodes
+old = -sru-utya)
+new = -srutya)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25832: 12/27/2023 dict=MW, L= 23212, hw=āñch, user=srhodes
+old = anāñcha
+new = ānāñcha
+comment = Typo – I believe that this is an error in the printing (or Monier Himself). Please reference the rule Pāṇini 7.4.70 where the initial vowel a (short or long) will become long and then the augment nuṭ (n) will be added by Pāṇini rule 7.4.71. The augment nuṭ is ONLY added after a long vowel ā of the reduplicate. Therefore the optional form must be ānāñcha. (Do we honor Monier's printing error? OR do we make the correction? OR is my reasoning wrong?)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25831: 12/26/2023 dict=MW, L= 233676, hw=samabhivīkṣ, user=srhodes
+old = P. -vīkṣate, to perceive, become aware of
+new = Ā. -vīkṣate, to perceive, become aware of
+comment = Typo - There is clearly a printing error here. The question is "what is the correction?" In my view, based upon the definition given and the form "-vīkṣate", we must conclude that this verbal form is ātmanepadī.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25830: 12/25/2023 dict=MW, L=66184.1 , hw=gūrd, user=srhodes
+old = gurdate or gurd°
+new = gurdate or gūrd°
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25827: 12/25/2023 dict=MW, L= 233627, hw=samapoh, user=srhodes
+old = -apāhati
+new = -apohati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25826: 12/24/2023 dict=MW, L= 9357, hw=apabhū, user=srhodes
+old = -bhutu
+new = -bhūtu
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25825: 12/24/2023 dict=MW, L= 233464, hw=samadhyāsita, user=srhodes
+old = (as a scat)
+new = (as a seat)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25824: 12/24/2023 dict=MW, L= 233448, hw=samadhiśī, user=srhodes
+old = -sāyayati
+new = -śāyayati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25823: 12/23/2023 dict=MW, L= 233694, hw=samabhiṣyand, user=srhodes
+old = Hierarchy Error
+new = Independent Listing (not under samabhiṣṭhā)
+comment = Hierarchy Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25822: 12/23/2023 dict=MW, L= 233618, hw=samanveṣaṇa, user=srhodes
+old = every. where
+new = everywhere
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25821: 12/22/2023 dict=MW, L= 202077, hw=viṣayātmaka, user=srhodes
+old = sensual carnal
+new = sensual, carnal
+comment = Typo - (add 'comma')
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25819: 12/22/2023 dict=MW, L= 153058, hw=bhaiṣajya, user=srhodes
+old = bhiṣaj, or bhiṣaja g. gargādi
+new = bhiṣaj or bhiṣaja, g. gargādi
+comment = Typo - (remove one 'comma' and add one 'comma')
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25818: 12/22/2023 dict=MW, L= 153058, hw=bhaiṣajya, user=srhodes
+old = bhiṣaj, or bhiṣaja
+new = bhiṣaj or bhiṣaja
+comment = Typo - (remove the 'comma').
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25817: 12/22/2023 dict=MW, L= 179760, hw=rocana, user=srhodes
+old = (ruci-ruce r°)
+new = (Ruci-ruce r°)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25815: 12/21/2023 dict=MW, L= 51743, hw=kuṭheraka, user=srhodes
+old = Ocimum, gratissimum
+new = Ocimum gratissimum
+comment = Typo - remove the "comma".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25814: 12/21/2023 dict=MW, L=51446 , hw=kujjiśa, user=srhodes
+old = (cf. kudiśa.)
+new = (cf. kuḍiśa).
+comment = Typo - This is definitely a printed error. I hope that you correct this in the online version. I believe that propagating a confirmed error for posterity is a mistake.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25813: 12/21/2023 dict=MW, L= 263004, hw=himajhaṇṭi, user=srhodes
+old = (cf. ku-jjihaṭi).
+new = (cf. ku-jjhaṭi).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25812: 12/21/2023 dict=MW, L= 263004, hw=himajhaṇṭi, user=srhodes
+old = (cf. ku-jjihaṭi).
+new = (cf. ku-jjhaṭi).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25809: 12/20/2023 dict=MW, L= 226605, hw=saṃśuc, user=srhodes
+old = (-sucyati)
+new = (-śucyati)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25808: 12/20/2023 dict=MW, L= 66884, hw=go, user=srhodes
+old = gavāṃ vrata N. of a Sāman; gavāṃ tīrtha See go t°;
+new = gavāṃ vrata, N. of a Sāman; gavāṃ tīrtha, see go t°;
+comment = Typo – (add the two missing 'commas' and lowercase on the word "see").
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25807: 12/20/2023 dict=mw, L= 12, hw=12, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25806: 12/20/2023 dict=MW, L= 58471, hw=krauñca, user=srhodes
+old = with vyūha = °cāruṇa
+new = with vyūha = °cārṇa
+comment = Typo – This may be an error in the printed text. I do not find the word "krauñcāruṇa", but I do find the word "krauñcārṇa" meaning "a kind of battle array." My reasoning is that since the word "krauñcārṇa" clearly exists, what is the point of referencing the word "krauñcāruṇa" which cannot be found.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25805: 12/20/2023 dict=MW, L= 153856, hw=bhreṣ, user=srhodes
+old = (pf. bibreṣa
+new = (pf. bibhreṣa
+comment = Typo – I believe this is an error in the printed text. Unless this is an exceptional case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25804: 12/20/2023 dict=MW, L= 178029, hw=rij, user=srhodes
+old = (cf. √1. riñj)
+new = (cf. √1. rej)
+comment = Typo – I am certain that this is an error in the printed text. There is no Verbal Root listed as "riñj". But there is the root "rej", which is very similar in conjugation to the current listing "rij". My view is that a verified mistake in the printed text should be corrected in the online edition. There is no sense in "propagating" errors that I have been confirmed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25803: 12/20/2023 dict=MW, L= 63712, hw=gayāśikhara, user=srhodes
+old = (Gayā-śiras)
+new = (-śiras) OR (Gaya-śiras)
+comment = Typo – I wanted to clarify my view here as follows. Under the word “gaya”, Sir Monier Williams gives the reference "(= -śiras)” when he specifies “Name of a mountain near Gayā.” Now here, Williams has given the definition “the mountain Gaya (-śiras) near Gayā”. Here I believe that “(-śiras)” is meant to indicate that this is the “same mountain” previously mentioned, in order to clarify that this is not a “second mountain.” So I interpret “(-śiras)” as meaning “Gayaśiras”. Furthermore, the word “Gayāśiras” is cited next, so it would not make sense that Williams intends to reference the next word listed by including “(-śiras)” here. Williams is simply clarifying that these several words (here and following) are all synonymous with the initial mentioning of the mountain “Gayaśiras”.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25799: 12/19/2023 dict=MW, L= 99446, hw=dhanāyas, user=srhodes
+old = dhanāyas
+new = dhanāyus
+comment = Typo (Headword!!!)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25798: 12/19/2023 dict=MW, L= 89885.1, hw=dadru, user=srhodes
+old = (also dara°
+new = (also dard° 
+comment = Typo (I am fairly certain that this is a misprint based on the other variations listed below).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25797: 12/19/2023 dict=MW, L= 89888, hw=dadrughna, user=srhodes
+old = (also dara°)
+new = (also dard°)
+comment = Typo (I am fairly certain this must be a misprint based on the other variations listed below).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25796: 12/19/2023 dict=MW, L=89889 , hw=89889, user=srhodes
+old = (v.l. dara°).
+new = (v.l. dard°).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25795: 12/19/2023 dict=MW, L= dadrūṇa, hw=dadrūṇa, user=srhodes
+old = (also dara°).
+new = (also dard°).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25794: 12/19/2023 dict=mw, L=rene, hw=r, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25793: 12/19/2023 dict=MW, L= 111656, hw=nīlācala, user=srhodes
+old = w.r. for līt°.
+new = w.r. for līl°.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25792: 12/19/2023 dict=MW, L= 240910, hw=sāṃvāśina, user=srhodes
+old = (fr. saṃ-vāśin)
+new = See note below
+comment = CURIOUS (I always wonder what it means when Sir Monier Williams cites a word that does not exist anywhere in his own dictionary as being the source of a derivative word. I suppose it is all theoretical, but if the 'theory' is sound, then the 'source word' should find a place in his own dictionary with a proposed meaning).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25791: 12/19/2023 dict=MW, L= 240914, hw=sāṃvittika, user=srhodes
+old = HIERARCHY INCORRECT
+new = Independent Listing (unrelated to sāṃvāhika directly above)
+comment = HIERARCHY INCORRECT
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25790: 12/19/2023 dict=MW, L=240934, hw=sāṃsiddhika, user=srhodes
+old = (fr. saṃesiddhi)
+new = (fr. saṃsiddhi)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25789: 12/19/2023 dict=MW, L= 63712, hw=gayāśikhara, user=srhodes
+old = (Gayā-śiras)
+new = (-śiras)
+comment = Typo (I am unsure whether Sir Monier Williams intended this parenthetical listing to be "Gayaśiras" or "Gayāśiras"). Please let me know your conclusion.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25788: 12/18/2023 dict=MW, L=187442.1, hw=varṇāśramadīpa, user=srhodes
+old = varṇāśramadīpa
+new = varṇāśramadharmadīpa
+comment = Typo (I believe that this Headword is incorrect. If you look at the listing for the word "varṇāśramadharma", you will see (also °madīpa, m.). I take this to mean "varṇāśramadharmadīpa". Otherwise "varṇāśramadīpa" would have been listed separately in the original manuscript.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25787: 12/18/2023 dict=MW, L=187442.1, hw=varṇāśramadīpa, user=srhodes
+old = varṇāśramadīpa
+new = varṇāśramadharmadīpa
+comment = Typo (I believe that this Headword is incorrect. If you look at the listing for the word "varṇāśramadharma", you will see (also °madīpa, m.). I take this to mean "varṇāśramadharmadīpa". Otherwise "varṇāśramadīpa" would have been listed separately in the original manuscript.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25786: 12/18/2023 dict=MW, L= 240944, hw=sāṃsraviṇa, user=srhodes
+old = -vṛkṣasya vṛkṣaṃ
+new = =vṛkṣasya vṛkṣaṃ
+comment = Typo (no hyphen, but rather '=')
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25784: 12/17/2023 dict=MW, L= 258426, hw=svārthasiddhi, user=srhodes
+old = (= sādhana)
+new = (= -sādhana) 
+comment = Typo (I believe that this is an error in the original printed manuscript; in other words, "svārthasiddhi" = "svārthasādhana" and NOT just "sādhana").
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25782: 12/17/2023 dict=MW, L= 243579, hw=sāha, user=srhodes
+old = (also ṣāha ifc.)
+new = (also sāha ifc.)
+comment = Typo (I am guessing here. Please check if this is an error in the original manuscript. OR if this is correct. Please let me know.)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25781: 12/17/2023 dict=MW, L= 243354, hw=sāłhhṛ, user=srhodes
+old = sāłhhṛ
+new = sāłhṛ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25780: 12/17/2023 dict=MW, L= 173134, hw=rakṣitaka, user=srhodes
+old = only in dāra-s°
+new = only in dāra-r°
+comment = Typo (I believe this is a misprint in the original manuscript. Please see the word 'dārarakṣitaka').
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25779: 12/16/2023 dict=MW, L= 257348, hw=smṛtivirodha, user=srhodes
+old = (= smṛty or vir°,
+new = (= smṛtyor virodha,
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25778: 12/16/2023 dict=MW, L= 243727, hw=sina, user=srhodes
+old = stuck fist
+new = stuck fast
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25777: 12/16/2023 dict=MW, L= 214221.2, hw=śalāluglapsa, user=srhodes
+old = = -udumbara-phala-stabaka
+new = = udumbara-phala-stabaka
+comment = Typo (remove the initial hyphen)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25776: 12/16/2023 dict=MW, L= 214221.1, hw=śalālugrapsa, user=srhodes
+old = = -udumbara-phala-stabaka
+new = = udumbara-phala-stabaka
+comment = Typo (remove the initial hyphen)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25774: 12/16/2023 dict=MW, L=238387, hw=sarvadaivatya, user=srhodes
+old = = -sārnad°
+new = = sārvad°
+comment = Typo (also note no initial 'hyphen')
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25773: 12/16/2023 dict=MW, L= 243332, hw=sālambana, user=srhodes
+old = (See ār°)
+new = (see āl°).
+comment = Typo (note 'lowercase' as well).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25772: 12/16/2023 dict=MW, L= 244294, hw=sitīvāra, user=srhodes
+old = v.l. sitār°
+new = v.l. sitāv°
+comment = Typo (Also check that the word sitāvāra is nowhere to be found. Consider 'sitāvara' as the correct variation).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25771: 12/15/2023 dict=MW, L= ID=184900, hw=vajra—danta, user=erik.seldeslachts
+old = boor
+new = boar
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25770: 12/15/2023 dict=MW, L= 243197, hw=sārdra, user=srhodes
 old = m. fn.

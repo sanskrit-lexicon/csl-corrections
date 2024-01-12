@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of December 13, 2023
-355 correction records, with 0 PENDING
+As of January 12, 2024
+356 correction records, with 1 PENDING
+
+Case 25802: 12/19/2023 dict=SKD, L=36711, hw=श्रोणिः, user=czhao
+old = श्रोण मंघाते
+new = श्रोण संघाते
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25639: 10/10/2023 dict=SKD, L=12818, hw=चैतन्यः, user=k.krishnachaitanya
 old = भगवद-तारविशेषः and श्रीभवानुवाच

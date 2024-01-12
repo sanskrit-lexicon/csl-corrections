@@ -1,6 +1,70 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of December 15, 2023
-168 correction records, with 0 PENDING
+As of January 12, 2024
+178 correction records, with 10 PENDING
+
+Case 25839: 12/30/2023 dict=SHS, L= 39019, hw=vyāma, user=srhodes
+old = E. bi
+new = E. vi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25834: 12/28/2023 dict=SHS, L= 18927, hw=dita, user=srhodes
+old = E. dī
+new = E. do
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25833: 12/27/2023 dict=SHS, L= 1313, hw=anādi, user=srhodes
+old = uncreate
+new = uncreated
+comment = Typo - (very likely a printing error)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25829: 12/25/2023 dict=SHS, L= 46221, hw=svarga, user=srhodes
+old = E. mu
+new = E. su
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25828: 12/25/2023 dict=SHS, L= 46221, hw=svarga, user=srhodes
+old = E. mu
+new = E. su
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25820: 12/22/2023 dict=SHS, L= , hw=kulmāṣa, user=srhodes
+old = 2. Forced riee.
+new = 2. Forced rice.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25816: 12/21/2023 dict=SHS, L= , hw=śūnya, user=srhodes
+old = 4. Dovoid of.
+new = 4. Devoid of.
+comment = Typo – Printing Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25811: 12/20/2023 dict=SHS, L= 10580, hw=kucita, user=srhodes
+old = E. kuv
+new = E. kuc
+comment = Typo – This is clearly an error in the printing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25801: 12/19/2023 dict=SHS, L= 2934, hw=amedhyalepa, user=srhodes
+old = Mearing
+new = Smearing
+comment = Typo (an error in the original printing)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25800: 12/19/2023 dict=SHS, L= 34490, hw=lepa, user=srhodes
+old = Polution
+new = Pollution
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25767: 12/14/2023 dict=SHS, L= 16610, hw=jha, user=srhodes
 old = the classing of cymbals

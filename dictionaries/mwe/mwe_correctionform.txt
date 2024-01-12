@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of December 13, 2023
-74 correction records, with 0 PENDING
+As of January 12, 2024
+77 correction records, with 3 PENDING
+
+Case 25883: 01/12/2024 dict=MWE, L= , hw=go, user=emeraldo
+old = go [Printed book page 312-a] LB To GO , v. n. gam (c. 1. gacchati, gantuṃ), yā (c. 2. yāti -tuṃ), i (c. 2. eti LB -tuṃ), mṛ (c. 1. sarati, sarttuṃ), car (c. 1. carati -rituṃ), pad (c. 4. padyate,
+new = sṛ instead of mṛ  LB mṛ means to die, sṛ means to go
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25844: 12/30/2023 dict=MWE, L= Duz, hw=duz, user=
+old = Not working completely 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25810: 12/20/2023 dict=MWE, L= 22740, hw=feather, user=sanaatani
+old = किराटः
+new = Should it be किरीटः?
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25641: 10/11/2023 dict=MWE, L= 23159, hw=precedent, user=sanaatani
 old = पूर्व्वदृष्ठान्तः
