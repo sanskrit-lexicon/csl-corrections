@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 12, 2024
-11893 correction records, with 3 PENDING
+As of January 13, 2024
+11893 correction records, with 2 PENDING
 
 Case 25865: 01/03/2024 dict=PW, L= 7362, hw=abhidharma, user=frank.ziesing
 old = abhidharma m. die Metaphysiker Buddhisten.
 new = abhidharma m. die Metaphysik der Buddhisten.
 comment = Typo: instead of "…physiker" it should be "…physik der" 
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25785: 12/18/2023 dict=PW, L= 117718, hw=saṃghāta, user=frank.ziesing

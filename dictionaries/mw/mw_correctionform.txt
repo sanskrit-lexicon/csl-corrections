@@ -1,131 +1,124 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 12, 2024
-2140 correction records, with 96 PENDING
+As of January 13, 2024
+2139 correction records, with 65 PENDING
 
-Case 25884: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
+Case 25883: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
 old = to bejoined
 new = to be joined
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25882: 01/12/2024 dict=MW, L= 237403.1, hw=saṃvartavāta, user=srhodes
+Case 25881: 01/12/2024 dict=MW, L= 237403.1, hw=saṃvartavāta, user=srhodes
 old = WRONG HIERARCHICAL PLACEMENT
 new = See Printed book page (follow the link)
 comment = WRONG HIERARCHICAL PLACEMENT
-status = PENDING
+status = Data comes from addendum. No change required.
 ------------------------------------------------------------------------
 
-Case 25881: 01/12/2024 dict=MW, L= 237401, hw=samrāḍāsandī, user=srhodes
+Case 25880: 01/12/2024 dict=MW, L= 237401, hw=samrāḍāsandī, user=srhodes
 old = foe
 new = for
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25880: 01/11/2024 dict=MW, L= 237206, hw=sammuc, user=srhodes
+Case 25879: 01/11/2024 dict=MW, L= 237206, hw=sammuc, user=srhodes
 old = -muncati
 new = -muñcati
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25879: 01/11/2024 dict=MW, L= 237167, hw=sammikṣ, user=srhodes
+Case 25878: 01/11/2024 dict=MW, L= 237167, hw=sammikṣ, user=srhodes
 old = cf. √1. miksk;
 new = cf. √1. mikṣ;
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25878: 01/11/2024 dict=MW, L= 237079, hw=sambhrāj, user=srhodes
+Case 25877: 01/11/2024 dict=MW, L= 237079, hw=sambhrāj, user=srhodes
 old = shine brightly. sparkle
 new = shine brightly, sparkle
 comment = Typo - (a 'comma' should be in place of the 'period')
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25877: 01/11/2024 dict=MW, L= 236838, hw=sambhakṣ, user=srhodes
+Case 25876: 01/11/2024 dict=MW, L= 236838, hw=sambhakṣ, user=srhodes
 old = -bhakṣoyati
 new = -bhakṣayati
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25876: 01/11/2024 dict=MW, L=236834 , hw=sambṛh, user=srhodes
+Case 25875: 01/11/2024 dict=MW, L=236834 , hw=sambṛh, user=srhodes
 old = -babraha
 new = -babarha
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25875: 01/10/2024 dict=MW, L= 236626, hw=samprasū, user=srhodes
+Case 25874: 01/10/2024 dict=MW, L= 236626, hw=samprasū, user=srhodes
 old = -sāte
 new = -sūte
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25874: 01/09/2024 dict=MW, L= 236410, hw=samprathā, user=srhodes
+Case 25873: 01/09/2024 dict=MW, L= 236410, hw=samprathā, user=srhodes
 old = suprathāh
 new = suprathāḥ
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25873: 01/09/2024 dict=MW, L= 236407, hw=sampratyaya, user=srhodes
+Case 25872: 01/09/2024 dict=MW, L= 236407, hw=sampratyaya, user=srhodes
 old = See sam-prati
 new = See sam-pratī  OR  (sam-prati-√i)
 comment = Typo - must be a printing error. This should be corrected in one way or another.
-status = PENDING
+status = 01-12-2024 corrected. Typo. Not a print error. It has a caret above.
 ------------------------------------------------------------------------
 
-Case 25872: 01/09/2024 dict=MW, L=236322, hw=sampraṇud, user=srhodes
+Case 25871: 01/09/2024 dict=MW, L=236322, hw=sampraṇud, user=srhodes
 old = nudati
 new = ṇudati
-status = PENDING
-------------------------------------------------------------------------
-
-Case 25871: 01/07/2024 dict=MW, L= 119058, hw=paristṛ, user=srhodes
-old = pariśtarītavai
-new = paristarītavai
-comment = Typo - (after checking the citing of Pāṇ. vi, 2, 51, and looking at the manuscript, I have concluded the correction above; the printing looks too weak too merit the letter ś, and the cited rule concerns accent not sandhi).
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25870: 01/07/2024 dict=MW, L= 119058, hw=paristṛ, user=srhodes
 old = pariśtarītavai
 new = paristarītavai
 comment = Typo - (after checking the citing of Pāṇ. vi, 2, 51, and looking at the manuscript, I have concluded the correction above; the printing looks too weak too merit the letter ś, and the cited rule concerns accent not sandhi).
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25869: 01/05/2024 dict=MW, L= 235668, hw=samupaṣṭambha, user=srhodes
 old = = sam-uvastambha
 new = = sam-upastambha
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25868: 01/04/2024 dict=MW, L= 235747, hw=samupoḍha, user=srhodes
 old = -upolha
 new = -upołha  OR  -upoḷha  (You Choose!)
-status = PENDING
+status = Kept upoḷha
 ------------------------------------------------------------------------
 
 Case 25867: 01/04/2024 dict=MW, L= 235620, hw=samupajñā, user=srhodes
 old = -janite
 new = -jānīte
 comment = Typo - (This correction is correct. Previously I missed the first long vowel).
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25866: 01/04/2024 dict=MW, L= 235620, hw=samupajñā, user=srhodes
 old = -janite
 new = -janīte
-status = PENDING
+status = No correction needed.
 ------------------------------------------------------------------------
 
 Case 25864: 01/03/2024 dict=MW, L= 235499, hw=samudbandhana, user=srhodes
 old = is. hanging up
 new = n. hanging up
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25863: 01/03/2024 dict=MW, L= 235462, hw=samuddṝ, user=srhodes
 old = -diryate
 new = -dīryate
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25862: 01/02/2024 dict=MW, L= 32257, hw=udāja, user=srhodes
@@ -137,7 +130,7 @@ status = PENDING
 Case 25861: 01/02/2024 dict=MW, L= 235188, hw=samutpīḍana, user=srhodes
 old = (√pīd)
 new = (√pīḍ)
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25860: 01/02/2024 dict=MW, L= 237403.1, hw=saṃvartavāta, user=srhodes
@@ -158,32 +151,32 @@ Case 25858: 01/02/2024 dict=MW, L=236557 , hw=sanaprokta, user=srhodes
 old = sana-prokta
 new = Sam-prokta
 comment = Typo - HEADWORD TYPO!
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25857: 01/02/2024 dict=MW, L=1927, hw=aj, user=srhodes
 old = fr. √vi)
 new = fr. √vī)
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25856: 01/01/2024 dict=MW, L= 15739, hw=arj, user=srhodes
 old = (aor. arjījat,
 new = (aor. arjijat,
 comment = Typo & (HAPPY NEW YEAR!)
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25855: 01/01/2024 dict=MW, L= 16541, hw=alakzita, user=ejf
 old = un-characterized having no particular mark
 new = uncharacterized, having no particular mark
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25854: 01/01/2024 dict=MW, L=235786 , hw=samūḍha, user=srhodes
 old = (or -ūlha)
 new = YOU CHOOSE BETWEEN THE TWO:  (or -ūḷha)   OR   (or -ūłha)  
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25853: 01/01/2024 dict=MW, L= 235783, hw=samūh, user=srhodes
@@ -197,7 +190,7 @@ Case 25852: 01/01/2024 dict=MW, L= 235524, hw=samudyamin, user=srhodes
 old = exerting one's self. strenuous
 new = exerting one's self, strenuous
 comment = Typo - ('comma' rather than 'period')
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25851: 01/01/2024 dict=MW, L=235113 , hw=samutkampin, user=srhodes
@@ -217,20 +210,20 @@ status = PENDING
 Case 25849: 12/31/2023 dict=MW, L=185406, hw=vatsa, user=erik.seldeslachts
 old = Nerium Aitidysentericum
 new = Nerium Antidysentericum
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25848: 12/31/2023 dict=MW, L= 131110, hw=praṇaś, user=srhodes
 old = Caus. -ṇāśyati
 new = Caus. -ṇāśayati
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25847: 12/31/2023 dict=MW, L= 104760, hw=naś, user=srhodes
 old = naṃṣum
 new = naṃṣṭum
 comment = Typo - (second inf. form under 2. naś cl.4.P.)
-status = PENDING
+status = 01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25846: 12/31/2023 dict=MW, L= 200039, hw=vivāsa 4, user=srhodes
@@ -622,7 +615,7 @@ status = PENDING
 Case 25771: 12/15/2023 dict=MW, L= ID=184900, hw=vajra—danta, user=erik.seldeslachts
 old = boor
 new = boar
-status = PENDING
+status = 01-12-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25770: 12/15/2023 dict=MW, L= 243197, hw=sārdra, user=srhodes
