@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of January 14, 2024
-2139 correction records, with 53 PENDING
+2139 correction records, with 23 PENDING
 
 Case 25883: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
 old = to bejoined
@@ -323,13 +323,13 @@ status = 01-14-2024 corrected
 Case 25825: 12/24/2023 dict=MW, L= 233464, hw=samadhyāsita, user=srhodes
 old = (as a scat)
 new = (as a seat)
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25824: 12/24/2023 dict=MW, L= 233448, hw=samadhiśī, user=srhodes
 old = -sāyayati
 new = -śāyayati
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25823: 12/23/2023 dict=MW, L= 233694, hw=samabhiṣyand, user=srhodes
@@ -342,28 +342,28 @@ status = PENDING
 Case 25822: 12/23/2023 dict=MW, L= 233618, hw=samanveṣaṇa, user=srhodes
 old = every. where
 new = everywhere
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25821: 12/22/2023 dict=MW, L= 202077, hw=viṣayātmaka, user=srhodes
 old = sensual carnal
 new = sensual, carnal
 comment = Typo - (add 'comma')
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25819: 12/22/2023 dict=MW, L= 153058, hw=bhaiṣajya, user=srhodes
 old = bhiṣaj, or bhiṣaja g. gargādi
 new = bhiṣaj or bhiṣaja, g. gargādi
 comment = Typo - (remove one 'comma' and add one 'comma')
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25818: 12/22/2023 dict=MW, L= 153058, hw=bhaiṣajya, user=srhodes
 old = bhiṣaj, or bhiṣaja
 new = bhiṣaj or bhiṣaja
 comment = Typo - (remove the 'comma').
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25817: 12/22/2023 dict=MW, L= 179760, hw=rocana, user=srhodes
@@ -376,7 +376,7 @@ Case 25815: 12/21/2023 dict=MW, L= 51743, hw=kuṭheraka, user=srhodes
 old = Ocimum, gratissimum
 new = Ocimum gratissimum
 comment = Typo - remove the "comma".
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25814: 12/21/2023 dict=MW, L=51446 , hw=kujjiśa, user=srhodes
@@ -389,32 +389,32 @@ status = PENDING
 Case 25813: 12/21/2023 dict=MW, L= 263004, hw=himajhaṇṭi, user=srhodes
 old = (cf. ku-jjihaṭi).
 new = (cf. ku-jjhaṭi).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25812: 12/21/2023 dict=MW, L= 263004, hw=himajhaṇṭi, user=srhodes
 old = (cf. ku-jjihaṭi).
 new = (cf. ku-jjhaṭi).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25809: 12/20/2023 dict=MW, L= 226605, hw=saṃśuc, user=srhodes
 old = (-sucyati)
 new = (-śucyati)
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25808: 12/20/2023 dict=MW, L= 66884, hw=go, user=srhodes
 old = gavāṃ vrata N. of a Sāman; gavāṃ tīrtha See go t°;
 new = gavāṃ vrata, N. of a Sāman; gavāṃ tīrtha, see go t°;
 comment = Typo – (add the two missing 'commas' and lowercase on the word "see").
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25807: 12/20/2023 dict=mw, L= 12, hw=12, user=
 old = 
 new = 
-status = PENDING
+status = Insufficient information
 ------------------------------------------------------------------------
 
 Case 25806: 12/20/2023 dict=MW, L= 58471, hw=krauñca, user=srhodes
@@ -449,45 +449,45 @@ Case 25799: 12/19/2023 dict=MW, L= 99446, hw=dhanāyas, user=srhodes
 old = dhanāyas
 new = dhanāyus
 comment = Typo (Headword!!!)
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25798: 12/19/2023 dict=MW, L= 89885.1, hw=dadru, user=srhodes
 old = (also dara°
 new = (also dard° 
 comment = Typo (I am fairly certain that this is a misprint based on the other variations listed below).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25797: 12/19/2023 dict=MW, L= 89888, hw=dadrughna, user=srhodes
 old = (also dara°)
 new = (also dard°)
 comment = Typo (I am fairly certain this must be a misprint based on the other variations listed below).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25796: 12/19/2023 dict=MW, L=89889 , hw=89889, user=srhodes
 old = (v.l. dara°).
 new = (v.l. dard°).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25795: 12/19/2023 dict=MW, L= dadrūṇa, hw=dadrūṇa, user=srhodes
 old = (also dara°).
 new = (also dard°).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25794: 12/19/2023 dict=mw, L=rene, hw=r, user=
 old = 
 new = 
-status = PENDING
+status = Insufficient information
 ------------------------------------------------------------------------
 
 Case 25793: 12/19/2023 dict=MW, L= 111656, hw=nīlācala, user=srhodes
 old = w.r. for līt°.
 new = w.r. for līl°.
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25792: 12/19/2023 dict=MW, L= 240910, hw=sāṃvāśina, user=srhodes
@@ -507,7 +507,7 @@ status = PENDING
 Case 25790: 12/19/2023 dict=MW, L=240934, hw=sāṃsiddhika, user=srhodes
 old = (fr. saṃesiddhi)
 new = (fr. saṃsiddhi)
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25789: 12/19/2023 dict=MW, L= 63712, hw=gayāśikhara, user=srhodes
@@ -535,14 +535,14 @@ Case 25786: 12/18/2023 dict=MW, L= 240944, hw=sāṃsraviṇa, user=srhodes
 old = -vṛkṣasya vṛkṣaṃ
 new = =vṛkṣasya vṛkṣaṃ
 comment = Typo (no hyphen, but rather '=')
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25784: 12/17/2023 dict=MW, L= 258426, hw=svārthasiddhi, user=srhodes
 old = (= sādhana)
 new = (= -sādhana) 
 comment = Typo (I believe that this is an error in the original printed manuscript; in other words, "svārthasiddhi" = "svārthasādhana" and NOT just "sādhana").
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25782: 12/17/2023 dict=MW, L= 243579, hw=sāha, user=srhodes
@@ -555,7 +555,7 @@ status = PENDING
 Case 25781: 12/17/2023 dict=MW, L= 243354, hw=sāłhhṛ, user=srhodes
 old = sāłhhṛ
 new = sāłhṛ
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25780: 12/17/2023 dict=MW, L= 173134, hw=rakṣitaka, user=srhodes
@@ -568,48 +568,48 @@ status = PENDING
 Case 25779: 12/16/2023 dict=MW, L= 257348, hw=smṛtivirodha, user=srhodes
 old = (= smṛty or vir°,
 new = (= smṛtyor virodha,
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25778: 12/16/2023 dict=MW, L= 243727, hw=sina, user=srhodes
 old = stuck fist
 new = stuck fast
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25777: 12/16/2023 dict=MW, L= 214221.2, hw=śalāluglapsa, user=srhodes
 old = = -udumbara-phala-stabaka
 new = = udumbara-phala-stabaka
 comment = Typo (remove the initial hyphen)
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25776: 12/16/2023 dict=MW, L= 214221.1, hw=śalālugrapsa, user=srhodes
 old = = -udumbara-phala-stabaka
 new = = udumbara-phala-stabaka
 comment = Typo (remove the initial hyphen)
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25774: 12/16/2023 dict=MW, L=238387, hw=sarvadaivatya, user=srhodes
 old = = -sārnad°
 new = = sārvad°
 comment = Typo (also note no initial 'hyphen')
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25773: 12/16/2023 dict=MW, L= 243332, hw=sālambana, user=srhodes
 old = (See ār°)
 new = (see āl°).
 comment = Typo (note 'lowercase' as well).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25772: 12/16/2023 dict=MW, L= 244294, hw=sitīvāra, user=srhodes
 old = v.l. sitār°
 new = v.l. sitāv°
 comment = Typo (Also check that the word sitāvāra is nowhere to be found. Consider 'sitāvara' as the correct variation).
-status = PENDING
+status = 01-14-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25771: 12/15/2023 dict=MW, L= ID=184900, hw=vajra—danta, user=erik.seldeslachts
