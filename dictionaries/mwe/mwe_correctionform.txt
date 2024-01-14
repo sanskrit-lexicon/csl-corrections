@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of January 13, 2024
-77 correction records, with 2 PENDING
+As of January 14, 2024
+77 correction records, with 1 PENDING
 
 Case 25882: 01/12/2024 dict=MWE, L= , hw=go, user=emeraldo
 old = go [Printed book page 312-a] LB To GO , v. n. gam (c. 1. gacchati, gantuṃ), yā (c. 2. yāti -tuṃ), i (c. 2. eti LB -tuṃ), mṛ (c. 1. sarati, sarttuṃ), car (c. 1. carati -rituṃ), pad (c. 4. padyate,
@@ -11,7 +11,7 @@ status = 01-12-2024 corrected
 Case 25844: 12/30/2023 dict=MWE, L= Duz, hw=duz, user=
 old = Not working completely 
 new = 
-status = PENDING
+status = Insufficient information
 ------------------------------------------------------------------------
 
 Case 25810: 12/20/2023 dict=MWE, L= 22740, hw=feather, user=sanaatani
