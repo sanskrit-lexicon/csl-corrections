@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of January 15, 2024
-2139 correction records, with 20 PENDING
+2139 correction records, with 13 PENDING
 
 Case 25883: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
 old = to bejoined
@@ -183,7 +183,7 @@ Case 25853: 01/01/2024 dict=MW, L= 235783, hw=samūh, user=srhodes
 old = (ind.p. -bham, q.v.)
 new = (ind.p. -oham, q.v.)
 comment = Typo - (this typo is located in the first listing above the ID number cited)
-status = PENDING
+status = :01-13-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25852: 01/01/2024 dict=MW, L= 235524, hw=samudyamin, user=srhodes
@@ -197,7 +197,7 @@ Case 25851: 01/01/2024 dict=MW, L=235113 , hw=samutkampin, user=srhodes
 old = Listing under samutkaṇṭha
 new = Independent Listing
 comment = Hierarchy Error
-status = PENDING
+status = Not able to reproduce
 ------------------------------------------------------------------------
 
 Case 25850: 12/31/2023 dict=MW, L= 102255.2, hw=dhrāj, user=srhodes
@@ -336,7 +336,7 @@ Case 25823: 12/23/2023 dict=MW, L= 233694, hw=samabhiṣyand, user=srhodes
 old = Hierarchy Error
 new = Independent Listing (not under samabhiṣṭhā)
 comment = Hierarchy Error
-status = PENDING
+status = Not able to reproduce. It is separate in its own right.
 ------------------------------------------------------------------------
 
 Case 25822: 12/23/2023 dict=MW, L= 233618, hw=samanveṣaṇa, user=srhodes
@@ -442,7 +442,7 @@ Case 25803: 12/20/2023 dict=MW, L= 63712, hw=gayāśikhara, user=srhodes
 old = (Gayā-śiras)
 new = (-śiras) OR (Gaya-śiras)
 comment = Typo – I wanted to clarify my view here as follows. Under the word “gaya”, Sir Monier Williams gives the reference "(= -śiras)” when he specifies “Name of a mountain near Gayā.” Now here, Williams has given the definition “the mountain Gaya (-śiras) near Gayā”. Here I believe that “(-śiras)” is meant to indicate that this is the “same mountain” previously mentioned, in order to clarify that this is not a “second mountain.” So I interpret “(-śiras)” as meaning “Gayaśiras”. Furthermore, the word “Gayāśiras” is cited next, so it would not make sense that Williams intends to reference the next word listed by including “(-śiras)” here. Williams is simply clarifying that these several words (here and following) are all synonymous with the initial mentioning of the mountain “Gayaśiras”.
-status = PENDING
+status = No correction. Curiosity tracked at https://github.com/sanskrit-lexicon/csl-orig/issues/1523
 ------------------------------------------------------------------------
 
 Case 25799: 12/19/2023 dict=MW, L= 99446, hw=dhanāyas, user=srhodes
@@ -494,14 +494,14 @@ Case 25792: 12/19/2023 dict=MW, L= 240910, hw=sāṃvāśina, user=srhodes
 old = (fr. saṃ-vāśin)
 new = See note below
 comment = CURIOUS (I always wonder what it means when Sir Monier Williams cites a word that does not exist anywhere in his own dictionary as being the source of a derivative word. I suppose it is all theoretical, but if the 'theory' is sound, then the 'source word' should find a place in his own dictionary with a proposed meaning).
-status = PENDING
+status = Not a correction. Curiosity tracked at https://github.com/sanskrit-lexicon/csl-orig/issues/1512
 ------------------------------------------------------------------------
 
 Case 25791: 12/19/2023 dict=MW, L= 240914, hw=sāṃvittika, user=srhodes
 old = HIERARCHY INCORRECT
 new = Independent Listing (unrelated to sāṃvāhika directly above)
 comment = HIERARCHY INCORRECT
-status = PENDING
+status = Unable to reproduce the error.
 ------------------------------------------------------------------------
 
 Case 25790: 12/19/2023 dict=MW, L=240934, hw=sāṃsiddhika, user=srhodes
@@ -514,7 +514,7 @@ Case 25789: 12/19/2023 dict=MW, L= 63712, hw=gayāśikhara, user=srhodes
 old = (Gayā-śiras)
 new = (-śiras)
 comment = Typo (I am unsure whether Sir Monier Williams intended this parenthetical listing to be "Gayaśiras" or "Gayāśiras"). Please let me know your conclusion.
-status = PENDING
+status = No correction. Curiosity tracked at https://github.com/sanskrit-lexicon/csl-orig/issues/1523
 ------------------------------------------------------------------------
 
 Case 25788: 12/18/2023 dict=MW, L=187442.1, hw=varṇāśramadīpa, user=srhodes

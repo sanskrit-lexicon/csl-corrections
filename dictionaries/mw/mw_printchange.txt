@@ -1483,4 +1483,10 @@ https://github.com/sanskrit-lexicon/csl-orig/issues/1388
  code : Headword : Old  : New : Comment
  152344 : BUri   : BUrI ind. : BUri ind.  : confirm mw72
 -------------------------------------------------------
-
+01-15-2024
+User srhodes
+ code : Headword : Old  : New : Comment
+ 234597 : samopta   : m. : mfn.  : Adjectives take all three genders
+ 153856 : Brez   : bibreza : biBreza  : Verb form bibreza does not exist
+ 173134 : rakzitaka   : dAra-s° : dAra-r°  : word has to start with 'r'
+------------------------------------------------------------------------

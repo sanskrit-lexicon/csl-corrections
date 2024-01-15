@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of January 12, 2024
-532 correction records, with 1 PENDING
+As of January 15, 2024
+532 correction records, with 0 PENDING
 
 Case 25775: 12/16/2023 dict=AP90, L= 28519, hw=ṣaṣ (ṣaṭkarman), user=srhodes
 old = the six acts that may be performed by means of magic; śāti, vaśakiraṇa, staṃbhata
 new = the six acts that may be performed by means of magic; śānti, vaśīkaraṇa, stambhana
 comment = Typo (I suppose śānti could be śāṃti if you prefer as printed).
-status = PENDING
+status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25715: 11/21/2023 dict=ap90, L=, hw=prajYa, user=ejf

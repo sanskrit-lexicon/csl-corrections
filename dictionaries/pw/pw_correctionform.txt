@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 13, 2024
-11893 correction records, with 2 PENDING
+As of January 15, 2024
+11893 correction records, with 0 PENDING
 
 Case 25865: 01/03/2024 dict=PW, L= 7362, hw=abhidharma, user=frank.ziesing
 old = abhidharma m. die Metaphysiker Buddhisten.
@@ -13,14 +13,14 @@ Case 25785: 12/18/2023 dict=PW, L= 117718, hw=saṃghāta, user=frank.ziesing
 old = tama°ḥ so v. a. eine dichte Finsterniss
 new = tamaḥ° so v. a. eine dichte Finsterniss
 comment = Typo: should be "tamaḥ°" and not "tama°ḥ"
-status = PENDING
+status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25783: 12/17/2023 dict=PW, L= 1095, hw=ac, user=frank.ziesing
 old = — Mit ava, Partic. avañcita gesenkt. 
 new = — Mit ava, Partic. avāñcita gesenkt. 
 comment = Typo ava + añcita should be avāñcita, 2nd a long
-status = PENDING
+status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25758: 12/12/2023 dict=PW, L= 6247, hw=apavighna, user=frank.ziesing
