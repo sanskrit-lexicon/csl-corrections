@@ -1,6 +1,60 @@
 Sanskrit Lexicon Correction Form History for MW
 As of January 15, 2024
-2139 correction records, with 10 PENDING
+2147 correction records, with 18 PENDING
+
+Case 25892: 01/14/2024 dict=MW, L=   226307, hw=saṃviṣā, user=srhodes
+old = +
+new =    ,
+comment =    Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25891: 01/14/2024 dict=MW, L=   97391, hw=dyut, user=srhodes
+old = dedyutiṣati
+new =  didyutiṣati
+comment =  Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25890: 01/14/2024 dict=MW, L=   37657, hw=ulva, user=Hierarchy Error srhodes
+old = Incorrect Listing under "ullola"
+new = 
+comment = Independent Listing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25889: 01/13/2024 dict=MW, L=   226096, hw=saṃvalana, user=srhodes
+old =    nf.
+new =  n. or °nā, f.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25888: 01/13/2024 dict=MW, L=   226096, hw=saṃvalana, user=srhodes
+old =    nf.
+new =  n. or °nā, f.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25887: 01/13/2024 dict=MW, L=   225839, hw=saṃrambhavega, user=srhodes
+old = the violence or impetuosity. of wrath
+new = the violence or impetuosity of wrath
+comment = Typo - remove the 'period'.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25885: 01/13/2024 dict=MW, L=   226077, hw=saṃvap, user=srhodes
+old = °le
+new =  °te
+comment =  Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25884: 01/12/2024 dict=MW, L=   210432, hw=vraj, user=srhodes
+old = (Dhātup. viii, 79 )
+new =  (Dhātup. vii, 79 )
+comment =   Typo - I believe this is a printing error at the top of the listing.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25883: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
 old = to bejoined
