@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of January 15, 2024
-179 correction records, with 1 PENDING
+179 correction records, with 0 PENDING
 
 Case 25886: 01/13/2024 dict=SHS, L=  43012, hw=sambala expences, user=Typo - spelling is incorrect. I suggest the correction for posterity.   srhodes
 old = 
 new = expenses
 comment = 
-status = PENDING
+status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25839: 12/30/2023 dict=SHS, L= 39019, hw=vyāma, user=srhodes
