@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 14, 2024
-2139 correction records, with 23 PENDING
+As of January 15, 2024
+2139 correction records, with 20 PENDING
 
 Case 25883: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
 old = to bejoined
@@ -124,7 +124,7 @@ status = 01-13-2024 corrected
 Case 25862: 01/02/2024 dict=MW, L= 32257, hw=udāja, user=srhodes
 old = a selected portion, = uddhāra
 new = leading out (soldiers to war); marching out
-status = PENDING
+status = No change required. See https://github.com/sanskrit-lexicon/csl-orig/issues/1582
 ------------------------------------------------------------------------
 
 Case 25861: 01/02/2024 dict=MW, L= 235188, hw=samutpīḍana, user=srhodes
@@ -137,14 +137,14 @@ Case 25860: 01/02/2024 dict=MW, L= 237403.1, hw=saṃvartavāta, user=srhodes
 old = Listing under samrāḍ
 new = CORRECT THE PLACEMENT OF THIS WORD
 comment = Hierarchy Error
-status = PENDING
+status = Corrected 01-15-2024
 ------------------------------------------------------------------------
 
 Case 25859: 01/02/2024 dict=MW, L= 236667, hw=samprāp, user=srhodes
 old = Listing under samprānta
 new = Independent Listing
 comment = Hierarchy Error
-status = PENDING
+status = Not able to reproduce the error. It is independent entry currently too.
 ------------------------------------------------------------------------
 
 Case 25858: 01/02/2024 dict=MW, L=236557 , hw=sanaprokta, user=srhodes
