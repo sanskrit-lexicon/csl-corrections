@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 15, 2024
-2146 correction records, with 12 PENDING
+As of January 24, 2024
+2146 correction records, with 9 PENDING
 
 Case 25891: 01/14/2024 dict=MW, L=   226307, hw=saṃviṣā, user=srhodes
 old = +
@@ -47,7 +47,7 @@ Case 25884: 01/12/2024 dict=MW, L=   210432, hw=vraj, user=srhodes
 old = (Dhātup. viii, 79 )
 new =  (Dhātup. vii, 79 )
 comment =   Typo - I believe this is a printing error at the top of the listing.
-status = PENDING
+status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25883: 01/12/2024 dict=MW, L= 225777, hw=saṃyojayitavya, user=srhodes
@@ -569,14 +569,14 @@ Case 25788: 12/18/2023 dict=MW, L=187442.1, hw=varṇāśramadīpa, user=srhodes
 old = varṇāśramadīpa
 new = varṇāśramadharmadīpa
 comment = Typo (I believe that this Headword is incorrect. If you look at the listing for the word "varṇāśramadharma", you will see (also °madīpa, m.). I take this to mean "varṇāśramadharmadīpa". Otherwise "varṇāśramadīpa" would have been listed separately in the original manuscript.
-status = PENDING
+status = Duplicate
 ------------------------------------------------------------------------
 
 Case 25787: 12/18/2023 dict=MW, L=187442.1, hw=varṇāśramadīpa, user=srhodes
 old = varṇāśramadīpa
 new = varṇāśramadharmadīpa
 comment = Typo (I believe that this Headword is incorrect. If you look at the listing for the word "varṇāśramadharma", you will see (also °madīpa, m.). I take this to mean "varṇāśramadharmadīpa". Otherwise "varṇāśramadīpa" would have been listed separately in the original manuscript.
-status = PENDING
+status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25786: 12/18/2023 dict=MW, L= 240944, hw=sāṃsraviṇa, user=srhodes
