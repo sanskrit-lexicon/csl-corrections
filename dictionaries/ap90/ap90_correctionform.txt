@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for AP90
 As of January 26, 2024
-534 correction records, with 2 PENDING
+534 correction records, with 0 PENDING
 
 Case 25902: 01/26/2024 dict=AP90, L= 9569, hw=edhamāna, user=srhodes
 old = °dṛś
 new = °dviṣ
 comment = Typo - This must be a printing error. Please compare with Monier Williams "edhamānadviṣ".
-status = PENDING
+status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25901: 01/26/2024 dict=AP90, L= 13174, hw=cala, user=srhodes
 old = Moving trembling
 new = Moving, trembling
 comment = Typo - I am suggesting the "comma" for clarity. The printed text has no comma but there is a line break.
-status = PENDING
+status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25775: 12/16/2023 dict=AP90, L= 28519, hw=ṣaṣ (ṣaṭkarman), user=srhodes

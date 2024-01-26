@@ -1,47 +1,47 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of January 26, 2024
-185 correction records, with 6 PENDING
+185 correction records, with 0 PENDING
 
 Case 25900: 01/22/2024 dict=SHS, L= 39486, hw=śabdatanmātra, user=srhodes
 old = subtile
 new = subtle
 comment = Typo - printing error
-status = PENDING
+status = No change. Old English
 ------------------------------------------------------------------------
 
 Case 25899: 01/22/2024 dict=SHS, L= 22827, hw=pañcatva, user=srhodes
 old = sate or being
 new = state or being
 comment = Typo - printing error
-status = PENDING
+status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25896: 01/20/2024 dict=SHS, L= 44332, hw=sudānta, user=srhodes
 old = SĀKYA MUNI
 new = Śākyamuni OR Śākya Muni
 comment = Typo - perhaps a printing error?
-status = PENDING
+status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25895: 01/19/2024 dict=SHS, L= 13896, hw=geṣṇu, user=srhodes
 old = chaunter
 new = chanter
 comment = Typo - must be a printing error (or an archaic spelling)
-status = PENDING
+status = No change. Old English. Encountered at three places.
 ------------------------------------------------------------------------
 
 Case 25894: 01/18/2024 dict=SHS, L= 44780, hw=sukti, user=srhodes
 old = sukti
 new = sūkti
 comment = Typo - I believe that this is an error in the printing. Also look at the word listed above and below (both of which contain the long vowel ū). How can the short vowel u be alphabetically listed between two long vowels?
-status = PENDING
+status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25893: 01/18/2024 dict=SHS, L= 1350, hw=anāśrita, user=srhodes
 old = u{?n?}concerned
 new = unconcerned
 comment = Typo - (I am certain that this is correct)
-status = PENDING
+status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
 Case 25886: 01/13/2024 dict=SHS, L=  43012, hw=sambala expences, user=Typo - spelling is incorrect. I suggest the correction for posterity.   srhodes
