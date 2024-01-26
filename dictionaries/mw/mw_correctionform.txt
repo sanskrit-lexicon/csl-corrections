@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 24, 2024
-2146 correction records, with 3 PENDING
+As of January 26, 2024
+2148 correction records, with 3 PENDING
+
+Case 25897: 01/21/2024 dict=MW, L= 211436, hw=शङ्का, user=ejf
+old = (ifc.) belief. supposition
+new = belief,   [comma]
+status = 01-24-2024 corrected
+------------------------------------------------------------------------
+
+Case 25892: 01/17/2024 dict=mw, L= 11337, hw=aBicakz, user=ejf
+old = Ved. Inf. -cakzase, RV.
+new = -cakze
+status = 01-24-2024 corrected
+------------------------------------------------------------------------
 
 Case 25891: 01/14/2024 dict=MW, L=   226307, hw=saṃviṣā, user=srhodes
 old = +
