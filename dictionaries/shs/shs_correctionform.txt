@@ -2,14 +2,14 @@ Sanskrit Lexicon Correction Form History for SHS
 As of January 26, 2024
 185 correction records, with 6 PENDING
 
-Case 25899: 01/22/2024 dict=SHS, L= 39486, hw=śabdatanmātra, user=srhodes
+Case 25900: 01/22/2024 dict=SHS, L= 39486, hw=śabdatanmātra, user=srhodes
 old = subtile
 new = subtle
 comment = Typo - printing error
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 25898: 01/22/2024 dict=SHS, L= 22827, hw=pañcatva, user=srhodes
+Case 25899: 01/22/2024 dict=SHS, L= 22827, hw=pañcatva, user=srhodes
 old = sate or being
 new = state or being
 comment = Typo - printing error
