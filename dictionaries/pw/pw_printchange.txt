@@ -305,3 +305,15 @@ Thomas Malten
 L code : Headword     : Old       : New         : Comment
 24579  : karaRa       : Rechstsprache : Rechssprache : 
 -------------------------------------------------------------------------
+03-25-2024
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/106
+Users @Andhrabharati 
+L code : Headword     : Old       : New         : Comment
+85520  : mahOzaDi  : {#mahOzaDi#} und {#°zI#} : {#mahOzaDi#} und {#°DI#}
+107703 : vEdyanATadIkzitIya : {#°nATaBew#} : {#°nATaBEw#} : cf. ACC, PWG
+117618 : saMgItakOmudI : saMgInArAyaRa : saMgItanArAyaRa
+124385 : sAradIya  : {#nAmamAlA#} : {#°nAmamAlA##} : SAradIyanAmamAlA in ACC
+63546  : parAmarSavAda : °hetuvicAra : °hetutAvicAra  :  cf. MW parAmarSahetutAvicAra
+60044  : nizAda : {#nizAda°tva#} : {#nizAdatva#}
+69547  : pfTuzwu : {#pfTuzwu#} und {#°zwukA#} Adj. f. : {#pfTuzwu#} Adj. und {#°zwukA#} f.
+-------------------------------------------------------------------------
