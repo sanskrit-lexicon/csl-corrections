@@ -1561,3 +1561,9 @@ Ref: https://github.com/sanskrit-lexicon/PWK/issues/106#issuecomment-1996589554
 code : Headword : Old  : New : Comment
 243366 : sAvaisirole : sAvaisirole : sAvairisole :
 ------------------------------------------------------------------------
+05-09-2024
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1634
+code : Headword : Old  : New : Comment
+69776 : GArteya  : <s>vArt°</s> : <s>DArt°</s> : 
+------------------------------------------------------------------------
