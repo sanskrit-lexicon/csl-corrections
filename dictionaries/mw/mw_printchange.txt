@@ -1573,3 +1573,9 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/74#issuecomment-
 code : Headword : Old  : New : Comment
 97951 : druh    : (ep. and metr. also  Ā. °te) : (ep. also  Ā. °te) : cf. pw, pwg and mw72
 ------------------------------------------------------------------------
+05-28-2024
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1636
+code : Headword : Old  : New : Comment
+87493 : trayodaSama : <lex>m.</lex> : <lex>mf(<s>I</s>)n.</lex> : 
+------------------------------------------------------------------------
