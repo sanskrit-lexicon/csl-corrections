@@ -6,7 +6,7 @@ The 'usual' method of handling these is unwieldy.
 
 Thus separating out from cfr.tsv all of Scott's corrections into cfr_scott.tsv
 
-These will be handled 'in bulk' and the remaining to be handled in the usual wayby Dhaval.
+These will be handled 'in bulk' and the remaining to be handled in the usual way.
 
 ----------------------
 Some stats:
