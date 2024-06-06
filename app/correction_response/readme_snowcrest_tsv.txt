@@ -6,7 +6,7 @@ The 'usual' method of handling these is unwieldy.
 
 Thus separating out from cfr.tsv all of Scott's corrections into cfr_scott.tsv
 
-These will be handled 'in bulk' and the remaining to be handled in the usual way.
+These will be handled 'in batch' and the remaining to be handled in the usual way.
 
 ----------------------
 Some stats:
@@ -34,3 +34,31 @@ wc -l cfr.tsv
 
 (+ 25978 690)
 26668
+
+----------------------------------------------------
+at top-level of csl-corrections:
+
+mkdir temp_batch
+cd temp_batch
+cp ../app/correction_response/cfr_scott.tsv .
+
+python3 ../cfr_adj.py cfr_scott.tsv correctionform.txt 
+
+ERROR: Missing directory dictionaries/shs
+mkdir dictionaries
+mkdir dictionaries/shs
+
+mkdir dictionaries/mw
+mkdir dictionaries/ap90
+mkdir dictionaries/pui
+
+rewriting correctionform.txt ( 689 pending )
+690 lines read from cfr_scott.tsv
+689 cases are pending
+dictionaries/shs/shs_correctionform.txt ( 64 pending )
+rewriting dictionaries/mw/mw_correctionform.txt ( 603 pending )
+rewriting dictionaries/ap90/ap90_correctionform.txt ( 19 pending )
+rewriting dictionaries/pui/pui_correctionform.txt ( 3 pending )
+
+
+Now for the batch correction work.
