@@ -1581,7 +1581,7 @@ code : Headword : Old  : New : Comment
 ------------------------------------------------------------------------
 06-06-2024
 Scott Rhodes
-Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1637  also 1638, 1639
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1637  also 1638, 1639, 1643
 code : Headword : Old  : New : Comment
 228330 : saMkzAra : iqAnAM S° : iqAnAM s° : 
 228330 : saMkzAra : iqA-S° : iqA-s° : 
@@ -1639,7 +1639,7 @@ code : Headword : Old  : New : Comment
 80045  : juhurARa : hvar : hvf :
 245096 : sIkz : sIkzati : sIkzate:
 1730   : aNgulisaMdaMsa : aNgulisaMdaMsa : aNgulisaMdaMSa: from page 1309,2 replacing aNgulisaMdeSa
-
+61878  : KArdamAyana  : cf. kArd° : v.l. kArd° : MW dictionary does not include the Headword "kārdamāyana".
 ------------------------------------------------------------------------
 06-07-2024
 User Andhrabharati
