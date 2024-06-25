@@ -993,4 +993,12 @@ code : Headword : Old  : New : Comment
 45039 : sevA : Addition to : Addiction to :
 31733 : murcC : with {#sama#} : with {#sam#} :
 28188 : Pa : augmentor : augmenter :
+------------------------------------------------------------------------
+06-24-2024
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+code : Headword : Old  : New : Comment
+3209  : arUpa : mishapen : misshapen :
+1646  : anuvftti : competing : completing:
+
 -----------------------------------------------------------------------
