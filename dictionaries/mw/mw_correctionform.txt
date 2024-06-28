@@ -1,6 +1,238 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 26, 2024
-2149 correction records, with 2 PENDING
+As of June 25, 2024
+2184 correction records, with 0 PENDING
+
+Case 25993: 06/25/2024 dict=MW, L=200196, hw=vivecya, user=srhodes
+old = vi-°vecya mfn.
+new = °vecya, mfn.
+comment = Typo - Please note that this correction follows the printed text. Therefore I will accept 50 points and you may do as you like.
+status =  not changed  06-24-2024
+------------------------------------------------------------------------
+
+Case 25992: 06/25/2024 dict=MW, L=200195, hw=vivecita, user=srhodes
+old = vi-°vecita mfn.
+new = °vecita, mfn.
+comment = Typo - Please note that this correction follows the printed text. Therefore I will accept 50 points and you may do as you like.
+status =  not changed  06-24-2024
+------------------------------------------------------------------------
+
+Case 25991: 06/25/2024 dict=MW, L=200194, hw=vivecanīya, user=srhodes
+old = vi-°vecanīya mfn.
+new = °vecanīya, mfn.
+comment = Typo - Please note that this correction follows the printed text. Therefore I will accept 50 points and you may do as you like.
+status =  not changed  06-24-2024
+------------------------------------------------------------------------
+
+Case 25990: 06/25/2024 dict=MW, L=200193, hw=vivecanīkroḍapattra, user=srhodes
+old = vi-°veca°nī-kroḍa-pattra n. N. of wk.
+new = °nī-kroḍa-pattra, n. N. of wk.
+comment = Typo - Please note that this correction follows the printed text. Therefore I will accept 200 points and you may do as you like.
+status =  not changed  06-24-2024
+------------------------------------------------------------------------
+
+Case 25989: 06/25/2024 dict=MW, L=200100, hw=vivārayiṣu, user=srhodes
+old = fr. Desid. of Caus. of √1. ṛ)
+new = fr. Desid. of Caus. of √1. vṛ)
+comment = Typo - Please note that due to the severity of this mistake, I am charging 1000 points.
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25988: 06/25/2024 dict=MW, L=199915, hw=vivakṣase, user=srhodes
+old = 2. sg. A.
+new = 2. sg. Ā.
+comment = Typo - Sale Price (50 points!).
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25987: 06/25/2024 dict=MW, L=199874, hw=viloṭa, user=srhodes
+old = √2. -luṭ; 
+new = √2. luṭ; 
+comment = Typo - Please remove the "hyphen" and I will accept 150 points.
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25986: 06/25/2024 dict=MW, L=199361, hw=virudāvali, user=srhodes
+old = f(i or lī). (or °lī)
+new = (or °lī), f.
+comment = Typo – This correction follows the printed text and removes the unnecessary redundancy.
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25984: 06/24/2024 dict=MW, L=193733, hw=vihita, user=srhodes
+old = for See
+new = for 2. see
+comment = Typo - This correction is worth at least 200 points for clarification.
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25983: 06/24/2024 dict=MW, L=203141, hw=vihagagādhipa, user=srhodes
+old = viha—ga—gādhipa m.
+new = viha—gādhipa m.
+comment = Typo - I am absolutely certain of this correction based on the following reasoning: "adhipa" = "pati". The portions "gā" is simply a result of "vihaga" + "adhipa". Also the alphabetical placement in MW indicates that the correct word is "vihagādhipa". If the word were to be "vihagagādhipa", then the alphabetical placement would have been prior even to "vihagapati" itself! (Also please note that this is a Headword Typo and therefore worth 1000 points plus a large glass of freshly squeezed orange juice!).
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25982: 06/12/2024 dict=MW, L= -śirayati, hw=-śirayati, user=
+old = -śirayati
+new = -śrayati
+comment = Typo – Since we have been discussing the verbal root √śri in relation to the "fallacious" √śṛ  ,  I figured it was about time to make this correction to the finite verbal form.
+status =  previously corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25979: 06/08/2024 dict=MW, L=137883 , hw=prasādana , user=Caujolle
+old = calming. soothing, 
+new = calming, soothing, 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25978: 06/02/2024 dict=MW, L= 162843, hw=māna , user=Caujolle
+old = proof. demonstration,
+new = proof, demonstration,
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25977: 06/02/2024 dict=MW, L=162837, hw=māna , user=Caujolle
+old = māna n. measuring. meting out, 
+new = māna n. measuring, meting out, 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25976: 05/31/2024 dict=MW, L= 3913, hw=advaya, user=geymonat
+old = not two without a second, only,..
+new = not two, without a second, only...
+comment = Typo: a comma is missing between "not two" and "without a second"
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25960: 05/10/2024 dict=mw, L=, hw=ard, user=ejf
+old = ‘to go, move’, Naigh. ) to dissolve, AV. xii, 4, 3, (aor. आर्दीत्, Bhaṭṭ. , <!!!>perf. अनर्द,<!!!> Pāṇ. vii, 4, 71, Sch.) to torment, hurt, kill, L. ; to ask, beg for (acc.),
+new = आनर्द   (long A) for perfect.
+comment = 
+status =  previously corrected  06-24-2024
+------------------------------------------------------------------------
+
+Case 25956: 04/25/2024 dict=MW, L= 133620, hw=pratyaya, user=ejf
+old = repose c° in  [ local abbrev 'confidence']
+new = local abbrev 'confidently'
+comment = Markup
+status =  not changed 06-24-2024
+------------------------------------------------------------------------
+
+Case 25955: 04/25/2024 dict=MW, L= 20604, hw=असदृश, user=ejf
+old = N. of a Prākṛt <ab>poet.</ab>
+new = Remove the <ab> 
+comment = markup.
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25952: 04/22/2024 dict=MW, L= 7904, hw=अन्त, user=zaaf2
+old = some times
+new = sometimes
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25951: 04/17/2024 dict=MW, L=97705, hw=draviḍa, user=erik.seldeslachts
+old = sons of Vṛṣabha-svāmin
+new = son of Vṛṣabha-svāmin
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25948: 04/17/2024 dict=mw, L=199616, hw=vilamba, user=ejf
+old = वि-लम्ब   m. hanging or falling down, pendulousness, W.   [ID=199615]      <!!!>-hanging for support<!!!>, Śiś. iv, 25   [ID=199616]      slowness, tardiness, delay, procrastination
+new = hanging for support  (remove '-' before 'hanging')
+comment = 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25944: 04/13/2024 dict=MW, L= 234226, hw=samāna, user=Caujolle
+old = same, identical uniform, one
+new = same, identical, uniform, one
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25941: 04/06/2024 dict=MW, L= 145646, hw=buddhi, user=Caujolle
+old =  knowledge of one's self. psychology,
+new =  knowledge of one's self, psychology,
+comment = Typo, period instead of coma
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25936: 03/28/2024 dict=mw, L=154431, hw=maYjarI, user=ejf
+old = 
+new = shoot, sprout, sprig  -- Print error cf. MW72.
+comment = 
+status =  no change 06-24-2024
+------------------------------------------------------------------------
+
+Case 25935: 03/27/2024 dict=MW, L=94984, hw=dūrastha, user=owen171190
+old = = saṃstha
+new = = dūra—saṃstha
+comment = The first member of the compound is omitted, making it as though "dūrastha = saṃstha"; no such error in the printed text
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25933: 03/24/2024 dict=MW, L= 240462, hw=sahastatalam, user=Owen Flawers
+old = °talam
+new = °tālam
+comment = Typo: a should be long instead of short
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25930: 03/16/2024 dict=MW, L=ID=33124 , hw=uddhA, user=chandan.mazumdar
+old = √2. ud-dhā (ud- 1. hā) LB 
+new = Likely to be  LB 2. ud-dhā (ud- √1. hā)
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25927: 03/11/2024 dict=MW, L= 256240, hw=स्नानवस्त्र, user=ejf
+old = definition missing.  Should be same as  स्नानवासस्
+new =  e.g. a bathing dress, wet cloth, Kav
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25922: 03/02/2024 dict=MW, L= ID=235582, hw=H1 Printed book page 1168,3, user=Yulia
+old = -milati
+new = -mīlati
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25921: 02/28/2024 dict=mw, L= 199361, hw=virudAvali, user=ejf
+old = f(i or lI). (or °lI) 
+new = f(i or lI). 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25918: 02/20/2024 dict=mw, L= 255055.3, hw=strImuKamaDudohala, user=ejf
+old = of a w°'s mouth,m [women]
+new = [woman]  -- the abbreviation tooltip
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25914: 02/11/2024 dict=MW, L= 121434, hw=pARi, user=
+old = holding a sword in the s° in h°;
+new = holding a sword in the  h°, s° in h°;;
+status =  corrected
+------------------------------------------------------------------------
+
+Case 25913: 02/11/2024 dict=MW, L= 176053, hw=राक्षस , user=
+old = of her relatives See 
+new = of her relatives, see 
+status =  Corrected
+------------------------------------------------------------------------
+
+Case 25904: 01/28/2024 dict=MW, L= 200631, hw=viSezatas, user=ejf
+old = <s1 slp1="vedAnta">Vedānta</s1>s.
+new = <ls>Vedāntas.</ls>  Note: there are 8 such possible errors in mw.txt
+comment = markup
+status =  corrected 5
+------------------------------------------------------------------------
+
+Case 25903: 01/26/2024 dict=MW, L= none, hw=i, user=wujastyk
+old = HTML display
+new = 
+comment = probably an HTML code error
+status =  no problem found
+------------------------------------------------------------------------
 
 Case 25898: 01/21/2024 dict=MW, L= 211436, hw=शङ्का, user=ejf
 old = (ifc.) belief. supposition
@@ -270,7 +502,7 @@ Case 25850: 12/31/2023 dict=MW, L= 102255.2, hw=dhrāj, user=srhodes
 old = dhrāj
 new = REMOVE!
 comment = Typo – I must call this listing into question. In the printed text there is no such "separate" listing. "dhrāj" is listed under "dhraj". However I must say that I have not found this verbal form listed in the dhātupāṭha. Therefore it may be an error. But certainly it is NOT printed in Sir Monier Williams' Dictionary as a SEPARATE listing.
-status = PENDING
+status =  not changed
 ------------------------------------------------------------------------
 
 Case 25849: 12/31/2023 dict=MW, L=185406, hw=vatsa, user=erik.seldeslachts
@@ -501,7 +733,7 @@ Case 25804: 12/20/2023 dict=MW, L= 178029, hw=rij, user=srhodes
 old = (cf. √1. riñj)
 new = (cf. √1. rej)
 comment = Typo – I am certain that this is an error in the printed text. There is no Verbal Root listed as "riñj". But there is the root "rej", which is very similar in conjugation to the current listing "rij". My view is that a verified mistake in the printed text should be corrected in the online edition. There is no sense in "propagating" errors that I have been confirmed.
-status = PENDING
+status =  corrected
 ------------------------------------------------------------------------
 
 Case 25803: 12/20/2023 dict=MW, L= 63712, hw=gayāśikhara, user=srhodes

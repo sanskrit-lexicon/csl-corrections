@@ -32,9 +32,24 @@ Our task will be to
 (3) At cologne, git pull.
 -----------------------------------------------
 ----------------------------------------------
+PERSONAL ACCESS TOKEN CLASSIC 06-25-2024
+https://github.com/settings/apps
+Click Personal access tokens
+click Tokens (classic)
+click Generate new token
+  click "generate new token (classic)"
+  expiration 30 days
+  Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select **repo**. A token with no assigned scopes can only access public information.
+  Click Generate token
+  ghp_xxxx Click 'copy' icon
+edit ~/Users/jimfu/.bashrc
+export GITHUB_ACCESS_TOKEN='ghp_xxxx'
+  
 ----------------------------------------------
 PERSONAL ACCESS TOKEN CLASSIC 12-12-2023
+NOTE: 06-25-2024 these instructions now obsolete.
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+click 'settings'
 In the left sidebar, click  Developer settings.
 xx In the left sidebar, under  Personal access tokens, click Fine-grained tokens.
 In the left sidebar, under  Personal access tokens, click Tokens (classic).
@@ -47,7 +62,7 @@ Select the scopes you'd like to grant this token. To use your token to access re
 click Generate token.  Click copy
  ghp_xxxx
 
-------
+---------------------------------------------
 edit ~/Users/jimfu/.bashrc
 export GITHUB_ACCESS_TOKEN='ghp_xxxx'
 

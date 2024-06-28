@@ -1,6 +1,72 @@
 Sanskrit Lexicon Correction Form History for STC
-As of September 08, 2023
-141 correction records, with 0 PENDING
+As of June 26, 2024
+151 correction records, with 0 PENDING
+
+Case 25975: 05/30/2024 dict=STC, L= 12925, hw=pari, user=Caujolle
+old = d'où ; complètement, au delà (nuance de mépris).                  
+new = d'où : complètement, au delà (nuance de mépris).                  
+comment = Typo, not ";" but ":"
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25974: 05/28/2024 dict=STC, L=22180 , hw=saṃpāta, user=Caujolle
+old = It would be nice if we could get saṃpāta and all such words (using ...mp...) through sampāta as well.
+new = 
+status =  06-24-2024. no change to make
+------------------------------------------------------------------------
+
+Case 25973: 05/28/2024 dict=STC, L= 8413, hw=krānta , user=Caujolle
+old = envahi par (fig. ; 
+new = envahi par (fig.) ; 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25971: 05/22/2024 dict=STC, L= 21309, hw=sant, user=Caujolle
+old = °apadeśa- a. qui n'a qui l'apparence de la réalité. 
+new = °apadeśa- a. qui n'a que l'apparence de la réalité. 
+comment = Typo, qui > que
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25963: 05/15/2024 dict=STC, L= 17042, hw=ya, user=Caujolle
+old = surt.
+new = "surt." stands for "surtout". This reference occurs three times.
+comment = lack of reference
+status =  : corrected 06-24-2024  duplicate
+------------------------------------------------------------------------
+
+Case 25953: 04/22/2024 dict=STC, L= 12876, hw=parama, user=Caujolle
+old = parātmamaya- -ī- a. qui est toute l'âme de l'univers. 
+new = paramātmamaya- -ī- a. qui est toute l'âme de l'univers. 
+comment = Typo, this typo is from the printed book
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25946: 04/16/2024 dict=STC, L= 17042, hw=ya, user=Caujolle
+old = et surt. tad- ;
+new = surt. is an abbreviation and stand for "surtout" (3 occurences)
+comment = abbreviation's reference
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25943: 04/08/2024 dict=STC, L= 4995, hw= āgam, user=Caujolle
+old =  rendu (iic.). survenu, 
+new =  rendu (iic.), survenu, 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25938: 04/02/2024 dict=STC, L= 17094, hw=yamunā , user=Caujolle
+old = source de la Yāmunā.
+new = source de la Yamunā.
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25932: 03/22/2024 dict=STC, L= 21470, hw=saṃnyāsa, user=Caujolle
+old = Brâhmane dans son 4° Āśrama, 
+new = Brâhmane dans son 4e Āśrama, 
+comment = Typo, here the e should be in exponent
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
 
 Case 25528: 06/11/2023 dict=STC, L= 12512, hw=nistattva , user=Caujolle
 old = qui u est pas compris

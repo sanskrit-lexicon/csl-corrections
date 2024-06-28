@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP
-As of December 13, 2023
-531 correction records, with 0 PENDING
+As of June 27, 2024
+533 correction records, with 0 PENDING
+
+Case 25959: 05/07/2024 dict=AP, L= 4564, hw=arthaḥ, user=
+old = Inplication
+new = Implication
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25958: 04/29/2024 dict=AP, L= 916, hw=अदध्र्यञ्च्, user=
+old = अदध्र्यञ्च् [अमुं अञ्चति अदस्-अञ्च् क्विप् अध्प्यागमः
+new = अदद्र्यञ्च्  [अमुं अञ्चति अदस्-अञ्च् क्विप् अद्र्यागमः 
+status =  06-27-2024 No change currently. not sure.
+------------------------------------------------------------------------
 
 Case 25627: 09/25/2023 dict=AP, L= ID=6372, hw=ākāṅkṣ, user=Christian Ferstl  LB christian.ferstl
 old = ācakāḍkṣa, ākāḍkṣantī, ākāḍkṣan and ākāḍkṣā 

@@ -1,6 +1,60 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of December 13, 2023
-421 correction records, with 0 PENDING
+As of June 26, 2024
+429 correction records, with 0 PENDING
+
+Case 25985: 06/24/2024 dict=GRA, L= 2645, hw=kR, user=pvstiles
+old = -āsasíṣ 1〉 pánthās 592,2.
+new = -āsas *íṣ* 1〉 pánthās 592,2. (** = bold)
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25981: 06/12/2024 dict=GRA, L=6055, hw=prāyu, user=mlweiss36
+old = von 2. va mit pra
+new = von yu 2. va mit pra
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25949: 04/17/2024 dict=GRA, L= 12480, hw=yaj, user=pvstiles
+old = -ā́ya 8〉 113,30 (neben śaśamānā́ya).
+new = -ā́ya 8〉 113,20 (neben śaśamānā́ya).
+comment = Grassmann error (hymn has 20 verses)
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25937: 04/01/2024 dict=GRA, L= 3243, hw=car, user=pvstiles
+old = Inf. carā́: LB -áse 1〉92,9 (víśvam jīvám 〰 bodháyantī); 401,4 (dáśa gárbham 〰 dhāpayante).
+new = Two lines of text are missing, including the examples for carā́ and the heading carás- 
+comment = Scanning error? 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25934: 03/26/2024 dict=GRA, L= 6412, hw=bhū́ri, a. , user=pvstiles
+old = -i [s.] 2〉… saúbhayam 48,9
+new = saúbhagam
+comment = Original Grassmann error 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25917: 02/14/2024 dict=GRA, L= 5372, hw=pavītṛ́, user=pvstiles
+old = -ā́ras 716,4.
+new = The correct reading of the text is pávītāraḥ (vocative with retracted accent). 
+comment = Mistake by Graßmann
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25910: 02/08/2024 dict=GRA, L= áṇu, hw=11011, user=pvstiles
+old = anu, [Correction: áṇu,] 
+new = No 'correction' needed, read “áṇu”, as that is what correctly stands in Graßmann
+comment = ??
+status =  no change  06-26-2024
+------------------------------------------------------------------------
+
+Case 25909: 02/08/2024 dict=GRA, L=8159 , hw=viśvá-carṣaṇī, user=pvstiles
+old = viśvá-carṣaṇī
+new = viśvá-carṣaṇi
+comment = Typo: incorrect length on final i
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
 
 Case 25693: 11/08/2023 dict=GRA, L=4709, hw=dhI, user=dicten
 old = á 1〉 achten auf [G.];

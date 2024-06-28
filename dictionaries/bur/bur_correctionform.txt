@@ -1,6 +1,59 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of June 07, 2023
-775 correction records, with 0 PENDING
+As of June 26, 2024
+783 correction records, with 0 PENDING
+
+Case 25972: 05/22/2024 dict=BUR, L= 400, hw=adhama , user=Caujolle
+old = Au fig. infime; vil. abject. 
+new = Au fig. infime; vil, abject. 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25969: 05/21/2024 dict=BUR, L= 14692, hw=vad, user=Caujolle
+old = expliquer, interprêter, 1. 
+new = expliquer, interprêter, l. 
+comment = Typo, it is clearly an L (if you compare to the other 1 present in this entry). The l. stands for "locatif" (as it is referenced elsewere in the dictionary)
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25967: 05/20/2024 dict=BUR, L= 7660, hw=tathā, user=Caujolle
+old = aussi. pareillement: 
+new = aussi, pareillement : 
+comment = Typo, it is a comma and not a period (somehow not readable on the book).
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25966: 05/18/2024 dict=BUR, L= 10399, hw=paṭu , user=Caujolle
+old = à peu pres capable. 
+new = à peu près capable. 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25965: 05/16/2024 dict=BUR, L= 1463, hw=arvāk , user=Caujolle
+old = de pres.
+new = de près.
+comment = Typo (the bad printing is the cause of this)
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25942: 04/08/2024 dict=BUR, L= 3630, hw=eva, user=Caujolle
+old = Ainsi: 
+new = Ainsi; 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25915: 02/11/2024 dict=BUR, L=7662, hw=tad, user=Caujolle
+old = the reference of "euph." is missing
+new = "euph." stands for "euphonique, euphonie (sandhi)"  LB at least 19 occurences.
+comment = reference
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
+
+Case 25906: 01/30/2024 dict=BUR, L= 8315, hw=tretA, user=Caujolle
+old = Three typos in two sentences: Age du monde [il y en a 4: kṛta, treta, ḍāpara et kali. LB jeune bœuf atta attaché 
+new = Âge du monde [il y en a 4: kṛta, treta, dvāpara et kali. LB jeune bœuf attaché 
+comment = Typo; the French word âge needs a ^. Dvāpara, the text write dwāpara but I think you will choose to write dvāpara. According to me it would be better to write "tretā", (even if in the article tretā, Burnouf writes tretayuga, which is probably not a mistake, the article is under tretā, and Stchoupak and Moniers Williams write tretā and tretāyuga and Böhtlingk and Roth also. Also, it is strange that the dw (of dwâpara) had become ḍ; it should be investigated if there are not several other occurrences of that problem.  
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
 
 Case 25523: 06/05/2023 dict=BUR, L= 735, hw=anusaṃhita, user=Caujolle
 old = conforme à la. saṃhitā. 

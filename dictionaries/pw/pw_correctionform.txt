@@ -1,6 +1,83 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 15, 2024
-11893 correction records, with 0 PENDING
+As of June 26, 2024
+11904 correction records, with 0 PENDING
+
+Case 25964: 05/15/2024 dict=PW, L= 10081, hw=alpaka, user=frank.ziesing
+old = alpakat bald darauf. 
+new = alpakāt bald darauf. 
+comment = Typo: should be a long "ā" in "alpakāt"
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25954: 04/22/2024 dict=PW, L= 95079, hw=romāñcita, user=frank.ziesing
+old = a Rieseln der Haut empfindend. 
+new = ein Rieseln der Haut empfindend. 
+comment = Typo: should be "ein" instead of "a"
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25947: 04/17/2024 dict=PW, L= 80202, hw=bhū (+sam), user=frank.ziesing
+old = rāhagrasanasaṃbhūta so v. a. in Rāhuʼs Rachen geraten Spr. 1172. 
+new = rāhugrasanasaṃbhūta so v. a. in Rāhuʼs Rachen geraten Spr. 1172. 
+comment = Typo: should be an "u" instead of "a" in "rahu"
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25940: 04/05/2024 dict=PW, L= 18644, hw=udagra, user=frank.ziesing
+old = — 2〉 hoch, erhoben (in übertr. Bed.) überlegen,
+new = — 2〉 hoch, erhoben (in übertr. Bed.), überlegen,
+comment = Typo: Comma missing after closing bracket (Sorry for nitpicking, but the comma does make a small difference)
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25924: 03/05/2024 dict=PW, L= 105972, hw=vītasaṃdeha, user=frank.ziesing
+old = vītasaṃdeha Adj. (f. ā) keinem, Zweifel unterliegend
+new = vītasaṃdeha Adj. (f. ā) keinem Zweifel unterliegend
+comment = Typo the comma is superfluous
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25923: 03/05/2024 dict=PW, L= 105969, hw=vītavrīḍa, user=frank.ziesing
+old = vītavrīḍa Adv. schamlos
+new = vītavrīḍa Adj. schamlos
+comment = Typo, it's not an Adv. but an Adj.
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
+
+Case 25920: 02/22/2024 dict=PW, L= 6104, hw=aparāntaka, user=frank.ziesing
+old = — 1〉 m. Pl. die Bewohner des äussersten Westens. f. apaāntikā. 
+new = — 1〉 m. Pl. die Bewohner des äussersten Westens. f. aparāntikā. 
+comment = Typo: "r" missing in aparāntikā
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25919: 02/22/2024 dict=PW, L= 20665, hw=uruvyañc, user=frank.ziesing
+old = — 2〉 f. ucī die Erde.
+new = — 2〉 f. urūcī die Erde.
+comment = Typo; "rū" missing in "urūcī"
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
+
+Case 25912: 02/10/2024 dict=PW, L= 54356, hw=dhana, user=frank.ziesing
+old = dhana LB — 1〉 (adj. Comp. f. ā) 
+new = dhana  LB — 1〉n. (adj. Comp. f. ā) 
+comment = Typo: "n." is missing
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
+
+Case 25911: 02/09/2024 dict=PW, L= 85942, hw=mādanīya, user=frank.ziesing
+old = — 2〉 n. eine berauschendes Getränk
+new = — 2〉 n. ein berauschendes Getränk
+comment = Typo: no "e" should be after "ein" 
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
+
+Case 25908: 02/07/2024 dict=PW, L= 125800, hw=sukhaprasupta, user=frank.ziesing
+old = sukhaprasupta Adj. behaglich, — süss schlafend.
+new = sukhaprasupta Adj. behaglich —, süss schlafend.
+comment = Typo: comma should be after the dash.
+status =  corrected 06-26-2024
+------------------------------------------------------------------------
 
 Case 25865: 01/03/2024 dict=PW, L= 7362, hw=abhidharma, user=frank.ziesing
 old = abhidharma m. die Metaphysiker Buddhisten.

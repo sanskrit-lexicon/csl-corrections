@@ -1,6 +1,47 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of January 26, 2024
-534 correction records, with 0 PENDING
+As of June 27, 2024
+540 correction records, with 0 PENDING
+
+Case 25970: 05/21/2024 dict=AP90, L=19308, hw=pṛṣ, user=
+old = A.
+new = Ā.
+comment = Typo – I believe that we should make things accurate, after all this is Sanskrit (not street language).
+status =  no change 06-24-2024
+------------------------------------------------------------------------
+
+Case 25968: 05/20/2024 dict=AP90, L= 21642, hw=bahis, user=geymonat
+old = — dbāraṃ an outer door.
+new = — dvāraṃ an outer door. LB 
+comment = Typo dbāraṃ to be changed into dvāraṃ
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25962: 05/13/2024 dict=ap90, L=, hw=maMT, user=ejf
+old = मंथ्  [Printed book page 0843-b]  मंथ्, मथ्  1 9 P. (<!!!>मथति, मथति,<!!!> मथ्नाति, मथित; pass. मथ्यते) 1 To churn,  produce by churning; (oft. with two
+new = मंथति, मथति  [first one needs anusvara]
+comment = 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25939: 04/04/2024 dict=ap90, L=, hw=uttara, user=ejf
+old = 7 More, more than (generally as the last member of a comp. with numerals);   <!!!>षडुत्तरा विंशतिः 26 ; अष्टोत्तरं शतं 108.<!!!>  8  Accompanied or attended with, full of, consisting chiefly of, followed by
+new = under uttara, point 7 -- the two numbers (26, 180) are not literary sources.
+comment = 
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25916: 02/11/2024 dict=AP90, L= 28844, hw=saMkaTa, user=geymonat
+old = 1 A narrow passage, defile, pass.
+new = In the online electronic version pass (underlined) is taken to mean "passive" but obviously this doesn't make sense: pass means pass, substantive
+comment = Confusion between pass. meaning passive and pass as a substantive
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25905: 01/29/2024 dict=AP90, L= 25342, hw=वाङ्मय, user=ejf
+old = विष्णुता
+new = विष्णुना
+status = 01-26-2024 corrected
+------------------------------------------------------------------------
 
 Case 25902: 01/26/2024 dict=AP90, L= 9569, hw=edhamāna, user=srhodes
 old = °dṛś

@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for BOR
-As of September 14, 2022
-17 correction records, with 0 PENDING
+As of June 27, 2024
+20 correction records, with 0 PENDING
+
+Case 25929: 03/15/2024 dict=BOR, L= 13516, hw=library, user=edgard
+old = Gollection
+new = Collection
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25926: 03/11/2024 dict=BOR, L= 12848, hw=jewel, user=edgard
+old = ratnjam
+new = ratnam
+status =  corrected 06-24-2024 duplicate
+------------------------------------------------------------------------
+
+Case 25925: 03/11/2024 dict=BOR, L= 12848, hw=jewel, user=edgard
+old = ratnjam
+new = ratnam
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
 
 Case 25268: 09/03/2022 dict=BOR, L=17756, hw=priestless, user=
 old = wrong headword

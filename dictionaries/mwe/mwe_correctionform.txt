@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of January 15, 2024
-77 correction records, with 0 PENDING
+As of June 27, 2024
+80 correction records, with 0 PENDING
+
+Case 25980: 06/11/2024 dict=MWE, L= 4165, hw=chariot, user=sanaatani
+old = रधः
+new = रथः
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
+
+Case 25961: 05/10/2024 dict=MWE, L= , hw=sprinkle, user=emeraldo
+old = To SPRINKLE , v. a. sic (c. 6. siJcati, LB the class of the root is wrong! 
+new = it has to be 7th root class, not 6th
+comment = wrong verb class. The right class has a nasal.
+status =  no change 06-24-2024
+------------------------------------------------------------------------
+
+Case 25931: 03/21/2024 dict=MWE, L=Printed book page 158-a+ 51, hw=dear , user=sanaatani
+old = दुर्भूल्यः
+new = दुर्मूल्यः
+status =  corrected 06-24-2024
+------------------------------------------------------------------------
 
 Case 25882: 01/12/2024 dict=MWE, L= , hw=go, user=emeraldo
 old = go [Printed book page 312-a] LB To GO , v. n. gam (c. 1. gacchati, gantuṃ), yā (c. 2. yāti -tuṃ), i (c. 2. eti LB -tuṃ), mṛ (c. 1. sarati, sarttuṃ), car (c. 1. carati -rituṃ), pad (c. 4. padyate,

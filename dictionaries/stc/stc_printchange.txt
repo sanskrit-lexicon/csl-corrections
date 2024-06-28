@@ -44,7 +44,7 @@ L code : Headword : Old  : New : Comment
 ref:  https://github.com/sanskrit-lexicon/Cologne/issues/193
 Jim Funderburk
 L code : Headword : Old  : New : Comment
-149250 : samyak : v. le suiv. : v. le suiv.[(samyaÒc)] : samyaÒc is next entry
+149250 : samyak : v. le suiv. : v. le suiv.[(samya√±c)] : samya√±c is next entry
 -----------------------------------------------------------------------
 04-19-2020
 ref:  https://github.com/sanskrit-lexicon/csl-orig/issues/216
@@ -56,6 +56,12 @@ L code : Headword : Old  : New : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/337
 Source: Odile Caujolle
 L code : Headword : Old  : New : Comment
-16146  : BAgya    : lot., destinÈe : lot, destinÈe
+16146  : BAgya    : lot., destin√©e : lot, destin√©e
+-----------------------------------------------------------------------
+04-22-2024
+ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1695
+Source: Odile Caujolle
+L code : Headword : Old  : New : Comment
+12876  : parama   : parƒÅtmamaya : paramƒÅtmamaya
 -----------------------------------------------------------------------
 
