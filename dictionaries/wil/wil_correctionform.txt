@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of December 13, 2023
-1156 correction records, with 0 PENDING
+As of October 09, 2024
+1158 correction records, with 0 PENDING
+
+Case 26026: 09/22/2024 dict=WIL, L= 37221, hw=व्याधि, user=jim
+old = घा to have
+new = धा to have
+comment = typo
+status =  corrected 10-09-2024.
+------------------------------------------------------------------------
+
+Case 26008: 07/29/2024 dict=WIL, L= 6290, hw=indra, user=Caujolle
+old = 12 One of the nine divisions of Jambu Dvīpa, or the known continent. f. (-ndrā) 
+new = 12 One of the nine divisions of Jambu Dvīpa, or the known continent. LB f. (-ndrā) 
+comment = that is, the "f. (-ndrā)" should definitively be on a new line (open a new paragraph)
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
 
 Case 25598: 09/10/2023 dict=WIL, L= darshan, hw=D, user=darshansinghrehil
 old = सिप

@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of December 13, 2023
-241 correction records, with 0 PENDING
+As of October 09, 2024
+242 correction records, with 0 PENDING
+
+Case 26012: 08/06/2024 dict=PWG, L= 13239, hw=ekatodant, user=
+old = ekatodant (ekatas + dant) adj. nur auf einer Seite (d. i. im Unterktefer) Zähne (d. i. Schneidezähne) habend M. 5, 18. 
+new = ekatodant (ekatas + dant) adj. nur auf einer Seite (d. i. im Unterkiefer) Zähne (d. i. Schneidezähne) habend M. 5, 18. 
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
 
 Case 25690: 11/07/2023 dict=PWG, L= 53787, hw=bhagavatī, user=shztg
 old = bhagavatī, s. u. bhagavant .

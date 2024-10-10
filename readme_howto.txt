@@ -32,7 +32,7 @@ Our task will be to
 (3) At cologne, git pull.
 -----------------------------------------------
 ----------------------------------------------
-PERSONAL ACCESS TOKEN CLASSIC 06-25-2024
+PERSONAL ACCESS TOKEN CLASSIC 06-25-2024, 10-08-2024
 https://github.com/settings/apps
 Click Personal access tokens
 click Tokens (classic)
@@ -96,6 +96,8 @@ emacs: edit csl-orig/v02/mw/mw.txt
 browser: edit https://github.com/sanskrit-lexicon/csl-orig/issues
 For each mw pending issue:
   make appropriate change in mw.txt
+  make appropriate comment in the corresponding issue of csl-orig at github
+  edit app/correction_response/cfr.tsv
   mark cfr.tsv (in last field) add ':06-05-2023 corrected'
   If email given, add message to 'temp_replies.txt', copying from
     mw_correctionform.txt.  (see below for format of temp_replies.txt)

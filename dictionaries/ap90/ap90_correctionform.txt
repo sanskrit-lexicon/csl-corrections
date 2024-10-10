@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of June 27, 2024
-540 correction records, with 0 PENDING
+As of October 09, 2024
+542 correction records, with 0 PENDING
+
+Case 26016: 08/19/2024 dict=AP90, L= 22629, hw=man, user=joaocbgon
+old = anyathā mab to think otherwise
+new = anyathā man to think otherwise
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26013: 08/06/2024 dict=AP90, L=0396-a, hw=कार, user=Ranga 
+old = Not typo
+new = https://x.com/samjignyasu/status/1820801669678191042 
+comment = semantic error ? Please review x.com discussion. Please update the discussion. dhanyosmi
+status =  no change 10-09-2024
+------------------------------------------------------------------------
 
 Case 25970: 05/21/2024 dict=AP90, L=19308, hw=pṛṣ, user=
 old = A.

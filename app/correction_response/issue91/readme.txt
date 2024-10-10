@@ -40,3 +40,13 @@ Replace cfr.tsv with temp_cfr_2.tsv --
   This has all the non-scott user corrections.
 cp temp_cfr_2.tsv ../cfr.tsv
 
+Synced the revised cfr.tsv with Github and cologne server.
+commit: 2e1973dd378b9f84047939c166ab4ef19d6638f6
+-----------------------------
+10-10-2024
+Added new corrections 10-09/10-10 to temp_cfr_1_scott.txt
+These lines are in temp_10_10_scottextra.txt.
+First is 10/09/2024 05:46:57
+Last  is 10/10/2024 17:33:54
+Probably all of these are
+Handle 

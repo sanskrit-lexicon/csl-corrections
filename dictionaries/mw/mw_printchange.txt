@@ -1698,3 +1698,10 @@ code : Headword : Old  : New : Comment
 62479  : gaqa : gold-fish : goldfish :
 62849  : gaqaka : gold-fish : goldfish :
 ------------------------------------------------------------------------
+------------------------------------------------------------------------
+10-09-2024
+user Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1741
+code : Headword : Old  : New : Comment
+106933 : nirgarBa : <s1>AP</s1>. : <ls>AgniP.</ls> : 
+------------------------------------------------------------------------

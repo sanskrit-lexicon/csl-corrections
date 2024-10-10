@@ -1,6 +1,86 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 25, 2024
-2184 correction records, with 0 PENDING
+As of October 09, 2024
+2196 correction records, with 0 PENDING
+
+Case 26028: 10/01/2024 dict=MW, L= 10002.2, hw=apAtravarzin, user=ejf
+old = towards the und°,
+new = towards the <ab n="undeserving">und°</ab>
+comment = markup 
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26025: 09/21/2024 dict=MW, L= 216352, hw=शास्त्र, user=ejf
+old = bock
+new = book
+status =  corrected 10-09-2024.
+------------------------------------------------------------------------
+
+Case 26023: 09/11/2024 dict=mw, L=, hw=dI, user=gasyoun
+old = AV.; Br. ;  bestow upon (loc. or dat.) by shining, RV. ii, 2, 6; i, 93, 10. [<!!!>Cf.δέατο<!!!>, δέελος, δῆλος.]   [ID=92646]    [Printed book page 480,3]  Westergaard
+new = Cf.δέατο -> Cf. δέατο
+comment = 
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26022: 09/08/2024 dict=MW, L= 92817, hw=dīpāvali , user=Caujolle
+old = also = dīpādī 
+new = also = dīpālī 
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26019: 08/29/2024 dict=MW, L=8622.1, hw=anyādṛśa, user=
+old = Supplemental Insertion – Missing Symbol
+new = Add the Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. I have no idea why the "circle-S" symbol is missing here. I wonder if this is a "single case" occurrence, or if other such cases exist. The "circle-S" symbol that you have added is extremely helpful to Aumsanskrit for discovering more possible corrections. Thank you and Namaste.
+comment = Supplemental Insertion – Missing Symbol
+status =  10-09-2024 no change to csl-orig. 
+------------------------------------------------------------------------
+
+Case 26015: 08/18/2024 dict=MW, L=218103, hw=2. śiṣ, user=john.clayton.v
+old = aor. aśiś-hat
+new = aor. aśiṣat
+comment = Typo, MW's "sh" is rendered as "s-h" instead of "ṣ"
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26011: 08/04/2024 dict=mw, L=, hw=loka, user=jim
+old = men (as opp. to ‘women’), Vet.; Hit.  [ID=183237]      a company, community (<!!!>of ten ifc.<!!!> to form collectives), Kāv.; Vas.; Kathās. 
+new = often ifc.  (remove space)
+comment = 
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26010: 07/30/2024 dict=MW, L= 28747, hw=iti, user=Caujolle
+old = (e.g. ijyādhyayanadānāni tapaḥ satyaṃ kṣamā damaḥ . alobha iti mārgo 'yam
+new = I think a ";" would be more appropriate than the period/dot and anyway the blank before it is faulty.
+status =  no change 10-09-2024
+------------------------------------------------------------------------
+
+Case 26009: 07/29/2024 dict=MW, L= 80341, hw=jJAta, user=geymonat
+old = āṃjñātam
+new = āṃ jñātam
+comment = Typo a space should be left between āṃ and jñātam
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26006: 07/27/2024 dict=MW, L= 164838, hw=मुख, user=ejf
+old = also ind (अम्)
+new = also <lex>ind.</lex> (अम्)
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 25998: 07/05/2024 dict=MW, L= 106933, hw=nir-garbha, user=Andhrabharati
+old = AP.
+new = stands for AgniP. as per pwk, and should be marked with ls-tag.
+comment = Print error?  (is this my first report in this manner?)
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 25997: 07/03/2024 dict=MW, L=97720, hw=drāviḍa, user=egoodell
+old = a Draviqa,
+new = a Drāvida,
+comment = Typo/conversion error
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
 
 Case 25993: 06/25/2024 dict=MW, L=200196, hw=vivecya, user=srhodes
 old = vi-°vecya mfn.

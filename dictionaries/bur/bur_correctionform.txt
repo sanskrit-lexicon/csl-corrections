@@ -1,6 +1,31 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of June 26, 2024
-783 correction records, with 0 PENDING
+As of October 09, 2024
+787 correction records, with 0 PENDING
+
+Case 26027: 09/23/2024 dict=BUR, L= 10536, hw=parikrama, user=Caujolle
+old = parikramasaha m. (sah) houc.
+new = parikramasaha m. (sah) bouc.
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26014: 08/13/2024 dict=BUR, L= 10240, hw=nīca , user=Caujolle
+old = de race nonâryenne
+new = de race non-âryenne
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26002: 07/13/2024 dict=BUR, L= 8584, hw=dānava , user=Caujolle
+old = qui se repporte
+new = qui se rapporte
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26001: 07/12/2024 dict=BUR, L=18023 , hw=sambhavāmi, user=Caujolle
+old = Ordt. is not referenced, whereas "ordt." is referenced (they stand for "ordinairement")
+new = I found 4 occurrences
+comment = reference
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
 
 Case 25972: 05/22/2024 dict=BUR, L= 400, hw=adhama , user=Caujolle
 old = Au fig. infime; vil. abject. 

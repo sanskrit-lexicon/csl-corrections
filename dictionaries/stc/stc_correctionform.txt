@@ -1,6 +1,53 @@
 Sanskrit Lexicon Correction Form History for STC
-As of June 26, 2024
-151 correction records, with 0 PENDING
+As of October 09, 2024
+158 correction records, with 0 PENDING
+
+Case 26029: 10/06/2024 dict=STC, L= 15877, hw=balāka, user=Caujolle
+old = où les files de hérons passent. comme des sourires.
+new = où les files de hérons passent comme des sourires.
+comment = Typo. But I think this translation is faulty, first it doesn't mean anything (at least for me), second, here hāsin doesn't mean "smiling at" but rather "dazzlingly white" and the whole compound would mean "dazzlingly white like a a flight of geese" and not "where lines of herons pass like smiles" (sic, but translated by Google) 
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26024: 09/18/2024 dict=STC, L=23953 , hw=saumya, user=Caujolle
+old = msc.
+new = msc. is an abbreviation standing for "masculin"
+comment = ref. missing
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26007: 07/27/2024 dict=STC, L= 10915, hw=devatā , user=Caujolle
+old = missing the reference for "abstr."
+new =  "abstr." stands for "abstrait" (see also under daiva)
+comment = Reference
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26003: 07/14/2024 dict=STC, L= 11682, hw=nidhāna, user=Caujolle
+old = réserve, amoncellement. trésor, 
+new = réserve, amoncellement, trésor, 
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26000: 07/11/2024 dict=STC, L= 7572, hw=kad, user=Caujolle
+old = two references missing, seult. and parf.
+new = "seult." stands for "seulement" (only) and "parf." stands for "parfait" (perfect [tense]). 6 occurrences of "parf."  2 of "seult." in the dict.
+comment = Reference
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 25999: 07/07/2024 dict=STC, L= 8445, hw=kliś , user=Caujolle
+old = tourmenté souffrant, usé 
+new = tourmenté, souffrant, usé 
+comment = Typo, a comma is missing
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 25996: 06/29/2024 dict=STC, L= 13882, hw=puruṣa, user=Caujolle
+old = paramauttama-
+new = parama- uttama-
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
 
 Case 25975: 05/30/2024 dict=STC, L= 12925, hw=pari, user=Caujolle
 old = d'où ; complètement, au delà (nuance de mépris).                  

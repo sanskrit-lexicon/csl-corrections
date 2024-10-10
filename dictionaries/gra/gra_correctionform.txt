@@ -1,6 +1,46 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of June 26, 2024
-429 correction records, with 0 PENDING
+As of October 10, 2024
+435 correction records, with 0 PENDING
+
+Case 26021: 09/08/2024 dict=GRA, L= 7788, hw=vasatí, user=pvstiles
+old = 2〉 jánānām 356,4 (agním).
+new = 2〉 jánānām 356,6 (agním).
+comment = Typo (corrected in 6th edition)
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26018: 08/28/2024 dict=GRA, L= 6420, hw=bʰūridā́van, user=pvstiles
+old = -nas [G.] āpés 218,17
+new = add 219,11, 220,7
+comment = references missing
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26017: 08/21/2024 dict=GRA, L=1978, hw=upasádya, user=mlweiss36
+old = dem man mit Verehrung naben muss
+new = dem man mit Verehrung nahen muss
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 26004: 07/19/2024 dict=GRA, L=4265, hw=dīrgha, user=reremixing
+old = -éṇa 2〉 ā́yuṣā 199,6.
+new = -éṇa 2〉 ā́yuṣā 119,6.
+status =  corrected 10-09-2024
+------------------------------------------------------------------------
+
+Case 25995: 06/27/2024 dict=GRA, L= 5514, hw=√pi, √pī, user=pvstiles
+old = -as [N. pl. f.] prá 1〉 ghṛtám dúhānās viśvátas prápītās (uṣā́sas) 557,7
+new = -as [N. pl. f.] prá 1〉 ghṛtám dúhānās viśvátas prápītās (uṣā́sas) 557,7;]  596,3
+comment = Omission by Graßmann (and Kozianka) of example in identical verse. 
+status =  corrected 10-10-2024
+------------------------------------------------------------------------
+
+Case 25994: 06/27/2024 dict=GRA, L= 6296, hw=bhadrá, user=pvstiles
+old = uṣā́sas 557,7 (uchantu)
+new = uṣā́sas 557,7 ] ; 596,3  [ (uchantu)
+comment = Omission by Graßmann (and Kozianka). The two stanzas are identical.
+status =  corrected 10-10-2024
+------------------------------------------------------------------------
 
 Case 25985: 06/24/2024 dict=GRA, L= 2645, hw=kR, user=pvstiles
 old = -āsasíṣ 1〉 pánthās 592,2.

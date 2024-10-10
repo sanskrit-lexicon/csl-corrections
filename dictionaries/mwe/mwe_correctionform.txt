@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of June 27, 2024
-80 correction records, with 0 PENDING
+As of October 09, 2024
+81 correction records, with 0 PENDING
+
+Case 26020: 09/04/2024 dict=MWE, L= 232-b, hw=entitled, user=sanaatani
+old = सम्ज्ञितः
+new = I am not sure. Is it संज्ञितः?
+status =  corrected 10-09-2024.
+------------------------------------------------------------------------
 
 Case 25980: 06/11/2024 dict=MWE, L= 4165, hw=chariot, user=sanaatani
 old = रधः
