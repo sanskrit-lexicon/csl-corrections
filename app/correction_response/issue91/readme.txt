@@ -48,5 +48,3 @@ Added new corrections 10-09/10-10 to temp_cfr_1_scott.txt
 These lines are in temp_10_10_scottextra.txt.
 First is 10/09/2024 05:46:57
 Last  is 10/10/2024 17:33:54
-Probably all of these are
-Handle 
