@@ -1,0 +1,16 @@
+Case 1: 09/01/2024 dict=LRV, L=20358, hw=nṛpa, user=srhodes
+old = nf-pa
+new = nṛ-pa
+status = done
+------------------------------------------------------------------------
+
+Case 2: 09/08/2024 dict=LRV, L=38400, hw=śauna, user=srhodes
+old = SOna
+new = śauna
+status = done
+------------------------------------------------------------------------
+
+These changes part of global change to lrv to add {#X#} markup.
+ Refer: https://github.com/sanskrit-lexicon/LRV/issues/25
+
+

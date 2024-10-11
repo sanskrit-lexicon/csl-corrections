@@ -48,3 +48,68 @@ Added new corrections 10-09/10-10 to temp_cfr_1_scott.txt
 These lines are in temp_10_10_scottextra.txt.
 First is 10/09/2024 05:46:57
 Last  is 10/10/2024 17:33:54
+-----------------------------
+now at commit 784cab8af458dab7a63511ed33d727351232034f of csl-corrections.
+-----------------------------
+10-11-2024
+
+"double"  "Double Indentation Error"
+"Al
+
+python separate.py double temp_cfr_1_scott.txt temp_cfr_1_scott_double.txt temp_cfr_1_scott_not_double.txt
+1518 lines read from temp_cfr_1_scott.txt
+1518 CFR records
+573 lines written to temp_cfr_1_scott_double.txt
+945 lines written to temp_cfr_1_scott_not_double.txt
+
+python separate.py alpha temp_cfr_1_scott_not_double.txt temp_cfr_1_scott_alpha.txt temp_cfr_1_scott_not_alpha.txt
+
+938 lines read from temp_cfr_1_scott_not_double.txt
+938 CFR records
+38 lines written to temp_cfr_1_scott_alpha.txt
+900 lines written to temp_cfr_1_scott_not_alpha.txt
+
+python separate.py insert temp_cfr_1_scott_not_alpha.txt temp_cfr_1_scott_insert.txt temp_cfr_1_scott_not_insert.txt
+900 lines read from temp_cfr_1_scott_not_alpha.txt
+900 CFR records
+162 lines written to temp_cfr_1_scott_insert.txt
+738 lines written to temp_cfr_1_scott_not_insert.txt
+
+python separate.py mw temp_cfr_1_scott_not_insert.txt temp_cfr_1_scott_mw.txt temp_cfr_1_scott_not_mw.txt
+
+738 lines read from temp_cfr_1_scott_not_insert.txt
+738 CFR records
+674 lines written to temp_cfr_1_scott_mw.txt
+64 lines written to temp_cfr_1_scott_not_mw.txt
+
+python separate.py ap90 temp_cfr_1_scott_not_mw.txt temp_cfr_1_scott_ap90.txt temp_cfr_1_scott_not_ap90.txt
+64 lines read from temp_cfr_1_scott_not_mw.txt
+64 CFR records
+22 lines written to temp_cfr_1_scott_ap90.txt
+42 lines written to temp_cfr_1_scott_not_ap90.txt
+
+python separate.py shs temp_cfr_1_scott_not_ap90.txt temp_cfr_1_scott_shs.txt temp_cfr_1_scott_not_shs.txt
+
+42 lines read from temp_cfr_1_scott_not_ap90.txt
+42 CFR records
+35 lines written to temp_cfr_1_scott_shs.txt
+7 lines written to temp_cfr_1_scott_not_shs.txt
+
+python separate.py pui temp_cfr_1_scott_not_shs.txt temp_cfr_1_scott_pui.txt temp_cfr_1_scott_not_pui.txt
+7 lines read from temp_cfr_1_scott_not_shs.txt
+7 CFR records
+5 lines written to temp_cfr_1_scott_pui.txt
+2 lines written to temp_cfr_1_scott_not_pui.txt
+
+cp temp_cfr_1_scott_not_pui.txt temp_cfr_1_scott_lrv.txt
+
+--------------------------------------------------------
+Process the 64 non-MW records, by dictionary
+
+python parse_corrections.py temp_cfr_1_scott_lrv.txt corrections_lrv.txt
+--------------------------------------------------------
+temp_cfr_extra_20241011.txt
+  records removed from cologne cfr.tsv dated 10/11/2024
+Sync this csl-corrections repo to github
+Then sync to Cologne
+--------------------------
