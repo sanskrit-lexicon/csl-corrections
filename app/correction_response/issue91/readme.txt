@@ -147,3 +147,39 @@ sync csl-orig at Cologne, and regenerate pui displays at Cologne.
 
 sync this csl-corrections repo to Github and cologne.
 
+--------------------------
+# add some corrections of 10/12/2024 to temp_cfr_1_scott_ap90.txt
+python parse_corrections.py temp_cfr_1_scott_ap90.txt corrections_ap90.txt
+27 lines read from temp_cfr_1_scott_ap90.txt
+
+edit /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt
+and corrections_ap90.txt
+
+installation ...
+
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ap90  ../../ap90
+sh xmlchk_xampp.sh ap90
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "AP90: See corrections_ap90.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-pywork to github
+cd /c/xampp/htdocs/cologne/csl-pywork
+git add .
+git commit -m "AP90: ap90ab revised"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+sync csl-orig and csl-pywork at Cologne.
+regenerate ap90 displays at Cologne.
+
+sync this csl-corrections repo to Github and cologne.
+-----------------------------------------------------

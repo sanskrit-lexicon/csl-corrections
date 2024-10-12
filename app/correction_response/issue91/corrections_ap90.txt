@@ -1,0 +1,198 @@
+Case 1: 06/30/2024 dict=AP90, L=15628, hw=devakī, user=srhodes
+old = Kṛ, shṇa
+new = Kṛṣṇa
+status = done.
+  Also,  shṇ  -> ṣṇ  (42 other instances)
+------------------------------------------------------------------------
+
+Case 2: 07/10/2024 dict=AP90, L=11819, hw=kṣata, user=srhodes
+old = puss
+new = pus
+comment = Typo – I believe that "pus" is the correct spelling.
+status = done
+------------------------------------------------------------------------
+
+Case 3: 07/11/2024 dict=AP90, L=11819, hw=kṣata, user=srhodes
+old = puss
+new = pus
+comment = Typo – I believe that "pus" is the correct spelling.
+status = duplicate of preceding
+------------------------------------------------------------------------
+
+Case 4: 07/11/2024 dict=AP90, L=18726, hw=pārayati, user=srhodes
+old = see pṝ caus. also.
+new = see pṛ caus. also.
+comment = Typo – Please note that this is a "print change" and therefore worth 1000 points! If you follow APTE's suggestion and look up the Causative of both roots √pṛ  and  √pṝ ,  I think you will agree that  √pṛ  is the perfect winner.
+status = done. print change
+------------------------------------------------------------------------
+
+Case 5: 07/12/2024 dict=AP90, L=13779, hw=jayaṃtaḥ, user=srhodes
+old = Daśarā
+new = Daśaharā
+comment = Typo – Please note this is a "print change", unless you can verify the existence of the word "daśarā".
+status = done. print change.
+------------------------------------------------------------------------
+
+Case 6: 07/15/2024 dict=AP90, L=12902, hw=ghātana, user=srhodes
+old = immolatting
+new = immolating
+comment = Typo – I am certain that this is the correct spelling. I did not even bother straining eyes over the scanned page.
+status = done
+------------------------------------------------------------------------
+
+Case 7: 07/17/2024 dict=AP90, L=27697, hw=śal, user=srhodes
+old =  A. 
+new =  Ā.  
+comment = Typo – Please note that here, this correction occurs twice. Also I specifically placed an empty space before and after the letter as follows:  " A. " ;  I am suggesting a Global Correction to the Master File with a Search and Replace for the target " A. "  to be corrected as  " Ā. " ;  This Global Correction would be very unlikely to result in  "ativyāpti"  (a term which Andhrabharati has used).
+status = done. Global change  " A." -> " Ā."  (not always a space after)
+   12 changes
+------------------------------------------------------------------------
+
+Case 8: 07/18/2024 dict=AP90, L=26092, hw=viṃdhyaḥ, user=srhodes
+old = (labalī)
+new = (lavalī)
+comment = Typo – I believe that the correct spelling is  "lavalī". Unless  "labalī" is a legitimate variation.  Of course "b" and "v" are sometimes interchangeable, but I would not say "nityam".
+status = done.  AP90 has lavalī as headword.
+
+------------------------------------------------------------------------
+
+Case 9: 07/19/2024 dict=AP90, L=25024, hw=vamanaṃ, user=srhodes
+old = Ejeceting
+new = Ejecting
+status = done
+------------------------------------------------------------------------
+
+Case 10: 07/19/2024 dict=AP90, L=25024, hw=vamanaṃ, user=srhodes
+old = geting
+new = getting
+status = done
+------------------------------------------------------------------------
+
+Case 11: 07/22/2024 dict=AP90, L=15561, hw=dūra, user=srhodes
+old = farseeing
+new = far-seeing
+comment = Typo - I believe that this word should be hyphenated.
+status = done. 1 other found and changed.
+------------------------------------------------------------------------
+
+Case 12: 07/29/2024 dict=AP90, L=21386, hw=protha, user=srhodes
+old = Embrye
+new = Embryo
+status = done
+------------------------------------------------------------------------
+
+Case 13: 08/01/2024 dict=AP90, L=21619, hw=baliḥ, user=srhodes
+old = Virecana
+new = Virocana
+status = done. cf. MW
+------------------------------------------------------------------------
+
+Case 14: 08/06/2024 dict=AP90, L=26455, hw=viloma, user=srhodes
+old = Inverted reverse
+new = Inverted, reverse
+status = done
+------------------------------------------------------------------------
+
+Case 15: 08/10/2024 dict=AP90, L=16513, hw=nāyaka, user=srhodes
+old = Line Separation Error
+new = 5 (In Rhet.) The hero of a poetic composition  ... (and continuing to) ... 3 classes pati, upapati and vaiśika; 95. 110 ).
+comment = Line Separation Error • Please note that the "Fifth" Definition as cited above should not be "Separated" onto many lines, but rather continue cohesively to the final portion, "3 classes pati, upapati and vaiśika; 95. 110 )."
+status = done.
+Also noticed and changed: "q. <ab>q. v.</ab> v." -> "<ab>q.q. v.v.</ab>"
+ And added to ap90ab.txt in csl-pywork.
+------------------------------------------------------------------------
+
+Case 16: 08/10/2024 dict=AP90, L=20858, hw=prasajya, user=srhodes
+old = contingeny
+new = contingency
+status = done
+------------------------------------------------------------------------
+
+Case 17: 08/19/2024 dict=AP90, L=918, hw=adhas, user=srhodes
+old = topsyturvy
+new = topsy-turvy
+comment = Typo – Please note that this word occurs at a line break, however in all cases it should be "hyphenated" according to concensus.
+status = done
+------------------------------------------------------------------------
+
+Case 18: 08/19/2024 dict=AP90, L=28046, hw=śīrṣaṇyaḥ, user=srhodes
+old = headrope
+new = head-rope
+comment = Typo – Please check the printed page. This correction is a best guess "print change". Not sure what a "headrope" is? But it is probably best to be hyphenated.
+status = no change.  'headrope' is found as English word.
+------------------------------------------------------------------------
+
+Case 19: 08/29/2024 dict=AP90, L=3734, hw=abhrayaḥ, user=srhodes
+old = abhrayaḥ
+new = abhryaḥ
+comment = Typo – Headword Typo! (1008 points!)
+status = no change.  Both ap57 and ap90 have 'abhrayaḥ'.
+   MW, mw72, pw and pwg have aBrya  with the same meaning (naked ascetic).
+  Perhaps one should have both alternate spellings in all these dictionaries.
+------------------------------------------------------------------------
+
+Case 20: 09/09/2024 dict=AP90, L=13744.01, hw=jamū, user=srhodes
+old = janu(mū)
+new = janu(nū)
+comment = Typo – Headword Typo! (1008 points!).  Please change the Headword itself to read:  "janū".
+status = done.
+------------------------------------------------------------------------
+
+Case 21: 09/09/2024 dict=AP90, L=13744, hw=janu, user=srhodes
+old = janu(mū)
+new = janu(nū)
+status = done
+------------------------------------------------------------------------
+
+Case 22: 09/29/2024 dict=AP90, L=30353, hw=su, user=srhodes
+old = wellgrown
+new = well grown
+status = done
+------------------------------------------------------------------------
+
+Case 23: 10/12/2024 dict=AP90, L=8019, hw=udānaḥ, user=srhodes
+old = eye-lash
+new = eyelash
+status = done.
+ 10 instances of eyelash
+  5 instances of eye-lash,  changed to eyelash.
+  
+------------------------------------------------------------------------
+
+Case 24: 10/12/2024 dict=AP90, L=8018, hw=udan, user=srhodes
+old = Homonym Alert
+new = Please note that the headword "udan" occurs as "1 udan" AND "2 udan". It appears to be "Double Listed" without distinction in the Hierarchy List. I suggest marking as "1" and "2" in the Hierarchy List as well as making distinct the definition of each; in other words, do not list all the Compounds under "1 udan". Compounds should only be listed under "2 udan".
+comment = Homonym Alert
+status = I think this is a display issue. See comment at bottom of file
+  
+------------------------------------------------------------------------
+
+Case 25: 10/12/2024 dict=AP90, L=8020, hw=udan, user=srhodes
+old = Homonym Alert
+new = Please note that the headword "udan" occurs as "1 udan" AND "2 udan". It appears to be "Double Listed" without distinction in the Hierarchy List. I suggest marking as "1" and "2" in the Hierarchy List as well as making distinct the definition of each; in other words, do not list all the Compounds under "1 udan". Compounds should only be listed under "2 udan".
+comment = Homonym Alert
+status = see comment above case 24.
+------------------------------------------------------------------------
+
+Case 26: 10/12/2024 dict=AP90, L=8020, hw=udan, user=srhodes
+old = Homonym Alert
+new = Please note that the headword "udan" occurs as "1 udan" AND "2 udan". It appears to be "Double Listed" without distinction in the Hierarchy List. I suggest marking as "1" and "2" in the Hierarchy List as well as making distinct the definition of each; in other words, do not list all the Compounds under "1 udan". Compounds should only be listed under "2 udan".
+comment = Homonym Alert
+status = appears to be duplicate of case 25
+------------------------------------------------------------------------
+
+Case 27: 10/12/2024 dict=AP90, L=8020, hw=udan, user=srhodes
+old = Homonym Alert
+new = Please note that the headword "udan" occurs as "1 udan" AND "2 udan". It appears to be "Double Listed" without distinction in the Hierarchy List. I suggest marking as "1" and "2" in the Hierarchy List as well as making distinct the definition of each; in other words, do not list all the Compounds under "1 udan". Compounds should only be listed under "2 udan".
+comment = Homonym Alert
+status = appears to be duplicate of case 25
+------------------------------------------------------------------------
+
+comment on 'udan':
+Not sure I understand all of Scott's comment.
+Here is one problem I see in list display.
+ In list display for ap90,  no red homonym is seen in left panel (for udan)
+ In list display for mw, pw, pwg  red homonym is seen where appropriate
+TODO  see 8018 comment above.
+This is some issue with list display.
+
