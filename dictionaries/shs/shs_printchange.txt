@@ -1001,4 +1001,17 @@ code : Headword : Old  : New : Comment
 3209  : arUpa : mishapen : misshapen :
 1646  : anuvftti : competing : completing:
 
+------------------------------------------------------------------------
+06-24-2024
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+code : Headword : Old  : New : Comment
+41032 : SrARa   : Sru  : SrE :
+12676 : KatamAla : Tamala : Tamāla :
+25402 : purodBava : E. puras : E. purA
+46062 : srE     : SrAH : SrA :
+20663 : DurA    : Durbba : Durva :
+40915 : Sona    : Sona   : SOna  : (headword change)
+39886 : SAn     : intensitive : desiderative :
+
 -----------------------------------------------------------------------

@@ -104,7 +104,7 @@ python separate.py pui temp_cfr_1_scott_not_shs.txt temp_cfr_1_scott_pui.txt tem
 cp temp_cfr_1_scott_not_pui.txt temp_cfr_1_scott_lrv.txt
 
 --------------------------------------------------------
-Process the 64 non-MW records, by dictionary
+Process the 64 non-MW records, by dictionary: lrv, shs, pui, ap90
 
 python parse_corrections.py temp_cfr_1_scott_lrv.txt corrections_lrv.txt
 --------------------------------------------------------
@@ -113,3 +113,14 @@ temp_cfr_extra_20241011.txt
 Sync this csl-corrections repo to github
 Then sync to Cologne
 --------------------------
+python parse_corrections.py temp_cfr_1_scott_shs.txt corrections_shs.txt
+
+35 lines read from temp_cfr_1_scott_shs.txt
+
+edit /c/xampp/htdocs/cologne/csl-orig/v02/shs/shs.txt
+
+sync csl-orig to github
+sync Cologne to github
+-------------------------
+
+
