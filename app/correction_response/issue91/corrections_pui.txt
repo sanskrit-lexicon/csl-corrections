@@ -1,0 +1,39 @@
+Case 1: 06/30/2024 dict=PUI, L=13863, hw=vrajana, user=srhodes
+old = Sudharmāna
+new = Sudharmāṇa
+comment = Typo – Please note that this correction is required by Sandhi. And as I have mentioned before it is always incorrect to "partially" include and "partially" omit diacritic markings from within a single word. Also, you may consider making this a Global Correction (in case other such instances occur).
+status = done.
+  Note:  pui has sudharmāṇa as a headword.
+  Global change 6 instances
+  
+------------------------------------------------------------------------
+
+Case 2: 07/02/2024 dict=PUI, L=8280, hw=pṛthā, user=srhodes
+old = Vīramāta
+new = Vīramātā
+comment = Typo – "Print Change" to include the correct diacritic mark.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/03/2024 dict=PUI, L=8280, hw=pṛthā, user=srhodes
+old = Vīramāta
+new = Vīramātā
+comment = Typo – ALSO PLEASE CONSIDER: "This could be a Global Change for any other such occurrence of this word."
+status = done. No other instances.
+------------------------------------------------------------------------
+
+Case 4: 07/20/2024 dict=PUI, L=4120, hw=gaviṣṭha, user=srhodes
+old = Angirasa
+new = Aṅgirasa
+comment = Typo – ALSO PLEASE CONSIDER: "This could be a Global Change for any other such occurrence of this word."
+status = done. global change (50 instances)
+
+------------------------------------------------------------------------
+
+Case 5: 07/20/2024 dict=PUI, L=4119, hw=gaviṣṭha, user=srhodes
+old = Hiranya
+new = Hiraṇya
+comment = Typo – ALSO PLEASE CONSIDER: "This could be a Global Change for any other such occurrence of this word."
+status = done. 2 instances
+------------------------------------------------------------------------
+

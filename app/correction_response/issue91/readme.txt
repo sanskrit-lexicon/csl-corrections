@@ -118,9 +118,32 @@ python parse_corrections.py temp_cfr_1_scott_shs.txt corrections_shs.txt
 35 lines read from temp_cfr_1_scott_shs.txt
 
 edit /c/xampp/htdocs/cologne/csl-orig/v02/shs/shs.txt
+and corrections_shs.txt.
 
 sync csl-orig to github
 sync Cologne to github
 -------------------------
+python parse_corrections.py temp_cfr_1_scott_pui.txt corrections_pui.txt
+5 lines read from temp_cfr_1_scott_pui.txt
 
+edit /c/xampp/htdocs/cologne/csl-orig/v02/pui/pui.txt
+and corrections_pui.txt
+
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pui  ../../pui
+sh xmlchk_xampp.sh pui
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+push to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "PUI: See corrections_pui.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+sync csl-orig at Cologne, and regenerate pui displays at Cologne.
+
+sync this csl-corrections repo to Github and cologne.
 
