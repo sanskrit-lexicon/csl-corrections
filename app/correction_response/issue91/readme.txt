@@ -53,9 +53,17 @@ now at commit 784cab8af458dab7a63511ed33d727351232034f of csl-corrections.
 -----------------------------
 10-11-2024
 
-"double"  "Double Indentation Error"
-"Al
+separate.py splits a file into two pieces, based on a string match:.
+These are applied in order.
 
+ "double": "Double Indentation Error",
+ "alpha": "Alphabetical Placement Error",
+ "insert": "Supplemental Insertion",
+ "mw": "MW",
+ "ap90": "AP90",
+ "shs": "SHS",
+ "pui": "PUI",
+ "abbrev" : "°",  # mostly non-standard local abbreviations
 python separate.py double temp_cfr_1_scott.txt temp_cfr_1_scott_double.txt temp_cfr_1_scott_not_double.txt
 1518 lines read from temp_cfr_1_scott.txt
 1518 CFR records
@@ -183,3 +191,68 @@ regenerate ap90 displays at Cologne.
 
 sync this csl-corrections repo to Github and cologne.
 -----------------------------------------------------
+Begin processing of the MW records.
+Recall they are in separate files:
+First, we tackle temp_cfr_1_scott_mw.txt 674 entries
+
+python separate.py abbrev temp_cfr_1_scott_mw.txt temp_cfr_1_scott_mw_abbrev.txt temp_cfr_1_scott_mw_not_abbrev.txt
+674 lines read from temp_cfr_1_scott_mw.txt
+674 CFR records
+119 lines written to temp_cfr_1_scott_mw_abbrev.txt
+555 lines written to temp_cfr_1_scott_mw_not_abbrev.txt
+
+------------------------------------------
+python parse_corrections.py temp_cfr_1_scott_mw_abbrev.txt corrections_mw_abbrev.txt
+edit temp_cfr_1_scott_mw_abbrev.txt and
+csl-orig/v02/mw/mw.txt
+
+TODO
+----
+See case 5 in corrections_mw_abbrev
+-°  -> ? °
+7259 matches in 7217 lines for "<s>[^<]*-°" in buffer: mw.txt
+----
+Similar:
+Example L=114503: <s>pawwi—lo°Draka</s>
+4605 matches in 4562 lines for "<s>[^<]*—[^<]*°"
+----
+Similar: -°
+Example:  case 18 197587 vipaTAvapAtaparatA
+13700 matches in 13024 lines for "<s>[^<]*-[^<]*°" in buffer: mw.txt
+----
+Examples under Case 24 vigatoddhava
+if there is no number "1", then the number "2"
+Good idea to find similar problems where a homonym number for vigata was erroneously
+inserted by cdsl into the compounds of vigata.
+----
+Another example : vigraha cpds.
+----
+768 matches in 766 lines for "</s> <ab>g.</ab>"
+ Should all these be changed to "</s>, <ab>g.</ab>"  (comma)?
+ (Case 97)
+----
+
+
+installation of mw
+
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_mw_abbrev.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+sync csl-orig and csl-pywork at Cologne.
+regenerate ap90 displays at Cologne.
+
+# update mw_printchange.txt
+
+# Sync this csl-corrections repo with github and Cologne.
+-------------------------------------------------------------------

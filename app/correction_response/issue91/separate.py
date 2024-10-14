@@ -286,6 +286,8 @@ option_map = {
  "ap90": "AP90",
  "shs": "SHS",
  "pui": "PUI",
+ "abbrev" : "°",  # mostly non-standard local abbreviations
+ 
  }
 if __name__=="__main__":
  option = sys.argv[1]

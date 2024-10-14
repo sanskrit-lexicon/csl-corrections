@@ -1,0 +1,904 @@
+Case 1: 06/27/2024 dict=MW, L=228558, hw=saṃjughukṣu, user=srhodes
+old = saṃ-°jughukṣu
+new = saṃ-jughukṣu
+comment = Typo – Since the word has been virtually "spelled out", I do not see the point of including the symbol " ° ". This may or may not be considered a print change, but I think we should make this correction. This can be applied to all cases where the word has been spelled out clearly and therefore one wonders if we need (in addition) to include the symbol  " ° ".  It seems a bit like an Olympic Swimmer wearing a life vest.
+status = no change.  This 'circle' notation is common.
+   It indicates that the word is RELATED to the first word in paragraph, but NOT a
+   compound starting with that first word.
+   
+------------------------------------------------------------------------
+
+Case 2: 06/27/2024 dict=MW, L=228558, hw=saṃjughukṣu, user=srhodes
+old = saṃ-°jughukṣu
+new = saṃ-jughukṣu
+comment = Typo – I just wanted to add that as far as "parsing the word" is concerned, the following is quite clear:  "saṃ-jughukṣu". Parsing the word as  "saṃ-°jughukṣu"  does not add anything useful. This is my opinion.
+status = no change. See above
+------------------------------------------------------------------------
+
+Case 3: 07/04/2024 dict=MW, L=259290, hw=svarṇakāra, user=srhodes
+old = g° smith
+new = g°smith
+comment = Typo – Please note that this correction follows the printed text. And of course the word "goldsmith" is a single word.
+status = done. <ab n="gold">g°</ab> smith -> <ab n="goldsmith">g°smith</ab>
+------------------------------------------------------------------------
+
+Case 4: 07/08/2024 dict=MW, L=240553, hw=sahasraṇī, user=srhodes
+old = or th°
+new = or th°s
+comment = Typo – 100 points! (even though its thousands!)
+status = done
+------------------------------------------------------------------------
+
+Case 5: 07/09/2024 dict=MW, L=109293, hw=nirasana, user=srhodes
+old = nir-°asana
+new = nir-asana
+comment = Typo – I just feel like expressing one last time that I consider the two symbols " -° "  to be redundant. I know that you like to show how the word is parsed. The printed text just shows " °asana ".  As far as parsing the word is concerned "nir-asana" is quite clear, concise and to the point. I consider the format that you have chosen: "nir-°asana" to be a superfluous manner of parsing the word. That is why I suggest considering a Global replacement of " -° " (dash and circle) to simply "-" (dash). The dash "parses" the word, whereas the "printed text" relies exclusively on " ° " (the circle format). But to "double up" and employ both:  the dash and the circle, in my view this is a redundant and superfluous manner of parsing words.
+status = PENDING "-degree"
+------------------------------------------------------------------------
+
+Case 6: 07/10/2024 dict=MW, L=164838, hw=mukha, user=srhodes
+old = cf. adho-m° also ind (am). cf. prān-mukham)
+new = cf. adho-m°; also ind (am), cf. prāṅ-mukham);
+comment = Typo – Please note that there are four corrections here: "two semicolons", "one comma" and "prāṅ-mukham" (which is a print change). Also the portion "also ind (am)" deviates slightly from the printed text, but the clarity of information is good, so I propose keeping that part the way you have it. (I am offering a summer sale here at just 100 points!)
+status = done print change
+------------------------------------------------------------------------
+
+Case 7: 07/11/2024 dict=MW, L=72149, hw=campakavatī, user=srhodes
+old = kāvalī)
+new = °kāvalī)
+status = done
+------------------------------------------------------------------------
+
+Case 8: 07/11/2024 dict=MW, L=122457, hw=pāraka, user=srhodes
+old = (cf. ugra-p°)
+new = (cf. udra-p°)
+comment = Typo – Please note that this is a "print change" and therefore worth 1000 points! I base this correction on the following fact:  the word "ugrapāraka" is nowhere to be found; however, there is the word "udrapāraka" (and this must be the reference being made).
+status = done print change.  Good one!
+------------------------------------------------------------------------
+
+Case 9: 07/14/2024 dict=MW, L=198291, hw=vibhāvarī, user=srhodes
+old = vi-°bhāvarī f.
+new = vi-bhāvarī f.
+comment = Typo – Please note that I am suggesting a "Global Correction" regarding the symbols "-°" (dash and circle) to simply "-" (dash). My reasoning is this:  Generally, in all such cases, the printed text will show simply " ° " (circle) and this is sufficient for "parsing" the word in the printed text. In MW online you have chosen to add the "-" (hyphen) which I like very much, but then there is no need to include the circle also as  " -° ".  The "hyphen" alone and by itself "parses" the word in MW online. The "circle" alone and by itself "parses" the word in the printed text. But to "double up" and use both symbols seems unnecessary, redundant and against the very Spirit of Sanskrit which aims at Brevity to convey even the most complex concept.
+status = PENDING -°
+------------------------------------------------------------------------
+
+Case 10: 07/16/2024 dict=MW, L=114504, hw=paṭṭilodhraka, user=srhodes
+old = lo°dhraka
+new = lodhraka
+comment = Typo – My opinion is this: The printed text omits "lo" and simply uses the symbol " ° " which tells us to "fill in with 'lo'" to complete the word. Keep in mind that 'technically' we are not 'parsing' a word here. The printed text simply reduces its number of pages by using the symbol " ° " rather than "spelling everything out".  Now for MW online, I disagree with using the symbol  " ° " in addition to spelling the word out. In my view it is  "one or the other". Since the MW online is not concerned with "saving pages", I am happy to just "spell words out", but to "spell the word out" and include the "space-saving symbol ° "  seems to be redundant and a little awkward (it reminds of the "law of diminishing returns" – at some point clarity become confusion). It is very clear that the word "lodhraka" is simply "lodhra" with the addition of the affix "ka". I of course hold this viewpoint in every instance of the redundancy whereby the circle is employed " ° " along with "spelling out the word". Finally let me just say that if the symbol " ° " is employed in MW online, then this listing should simply appear as follows: "paṭṭi—lodhra and °dhraka" ; now this exactly follows the printed text, but to "spell out the word" and use the symbol ° is unnecessary and 'technically' incorrect.
+status = PENDING —[^<]*°
+------------------------------------------------------------------------
+
+Case 11: 07/16/2024 dict=MW, L=198391, hw=vibhukta, user=srhodes
+old = v° g.
+new = v°, g.
+comment = Typo – "Comma" 10 points!
+status = done
+------------------------------------------------------------------------
+
+Case 12: 07/16/2024 dict=MW, L=197869, hw=vipranaṣṭa, user=srhodes
+old = °praṇaṣṭa cf.
+new = °praṇaṣṭa, cf.
+comment = Typo – "comma"
+status = done
+------------------------------------------------------------------------
+
+Case 13: 07/16/2024 dict=MW, L=244192, hw=sitasāra, user=srhodes
+old = sita—sāra or sita—sā°raka
+new = sita—sāra or sita—sā°raka
+comment = Please note I am simply offering one final clear example which proves that the symbol " ° " (circle) is NOT used for 'parsing' words. Here we are not parsing the word as "sita-sā-raka" This would be INCORRECT. The symbol " ° " (circle) is simply used in the printed text to save Ink and Paper in regards to printing the voluminous dictionary. Therefore, to use the symbol  " ° " (circle) in MW online dictionary is redundant and incorrect, if you are choosing to spell out the word in its entirety. In the study of the Sanskrit Language, I deem it to be irrelevant to convey how the printed dictionary employed the symbol  " ° " (circle)  in order to "saved ink and paper" (especially if you are spelling the word out in its entirety). Therefore "technically" the above citation should read as follows: either 1) sita—sāra or °raka (which follows the printed text); OR 2) sita—sāra or sita—sāraka (which spells out the word without bothering to save "ink" and "paper"). But to employ the "space-saving ° symbol"  along with spelling the word out completely is incorrect (in my opinion). Therefore, the correction being indicated here should be considered for Global Implementation.
+status = PENDING —[^<]*°
+------------------------------------------------------------------------
+
+Case 14: 07/16/2024 dict=MW, L=174282, hw=ratnacchattrakūṭasaṃdarśana, user=srhodes
+old = v.l. for ratna-kṣetra kūṭa-s°
+new = v.l. for ratna-kṣetra-kūṭas°
+comment = Typo – Please note that this correction is confirmed simply by looking up the "corrected" word given here. This may or may not be a "print change" (it depends on whether the hyphen is present or not in the actual printing, the scan may simply be unclear in this regard).
+status = no change.  the - is present in print
+------------------------------------------------------------------------
+
+Case 15: 07/16/2024 dict=MW, L=197855, hw=viprakṛṣṭaka, user=srhodes
+old = vi-°prakṛṣṭaka
+new = vi-prakṛṣṭaka OR °prakṛṣṭaka
+comment = Typo – Either 1) °prakṛṣṭaka OR 2) vi-prakṛṣṭaka. But to include both the symbol  " ° " while completely spelling out the word is incorrect (in my opinion). And of course the "hyphen" is already "parsing" the word sufficiently. I suggest a Global Correction of all instances of " -° " to simply "-" (hyphen). MW online dictionary is NOT saving Ink and Paper by employing the symbol  " ° ". Also the symbol  " ° "  is not properly used for "parsing" words.  The Headword is always listed, so the symbol alone " ° " is sufficient for making the word clear (exactly as in the printed text). But spelling out completely and inserting the symbol  " ° " is improper and visually annoying (in my opinion). You will be glad to know that I will not mention this again. I just wanted to be sure that my point was clear for your consideration.
+status = PENDING -°
+------------------------------------------------------------------------
+
+Case 16: 07/17/2024 dict=MW, L=139714, hw=prāṇālābha, user=srhodes
+old = °nalābha
+new = °ṇalābha
+status = done
+------------------------------------------------------------------------
+
+Case 17: 07/17/2024 dict=MW, L=114698, hw=pat, user=srhodes
+old = °pātīti
+new = °patīti
+comment = Typo – Please note that I have confirmed this correction as a "print change" from multiple reliable sources. I am certain that Andhrabharati will confirm this correction as well. Also, please remember that all "print changes" are worth 1000 points!
+status = done. print change pA°patIti (cf. Whitney shows "Int. pApatIti)
+------------------------------------------------------------------------
+
+Case 18: 07/18/2024 dict=MW, L=197587, hw=vipathāvapātaparatā, user=srhodes
+old = vi-pa°thāvapāta-paratā 
+new = °thāvapāta-paratā  OR  vi-pathāvapāta-paratā 
+comment = Typo – The space saving symbol °  is completely irrelevant for the Online MW dictionary. This is the 21st Century! The paper-saving symbol ° serves no purpose now (unless you choose to use it properly). Clearly this symbol ° is NOT "parsing" the word, because we do not "parse" this word as "vi-pa-thāvapāta-paratā". The symbol ° is ONLY used to save paper and ink in the printed text. For MW online, this is completely irrelevant. My first choice would be to eliminate the use of this symbol in MW online, especially since you are choosing to completely spell out the word anyway (which itself makes the symbol irrelevant). But if you choose to continue to use the symbol °  then it should be used "properly" which means NOT spelling out the word and letting the "reader" fill in the omitted portion with his own "brainpower". The Headword is always printed in FULL, therefore using the space-saving symbol ° is OK, but the word should not be spelled out with the symbol °  "inserted" in the middle of the word which has been entirely written out in MW online. I will say no more about this, but I needed to be certain that point has been clearly expressed.
+status = PENDING  -°
+------------------------------------------------------------------------
+
+Case 19: 07/21/2024 dict=MW, L=196254, hw=videhādhipa, user=srhodes
+old = See viheha
+new = See videha
+comment = Typo – Please note that this is a "print change" and therefore it is worth 1000 points! One of the definitions of "videha" is "a king of V° (esp. applied to Janaka)", and THAT is most definitely the correct reference being made here.
+status = print change
+------------------------------------------------------------------------
+
+Case 20: 07/22/2024 dict=MW, L=195689, hw=vidya, user=srhodes
+old = °kṛta-vidya
+new = kṛta-vidya
+comment = Typo – Please note that this correction entails a "print change". I am extremely pleased because in this cause, without argument, we will remove that dreadful space-saving symbol ° (now I am saṃtuṣṭaḥ, lol).
+status = done. print change
+------------------------------------------------------------------------
+
+Case 21: 07/22/2024 dict=MW, L=195615, hw=vitribhalagnaka, user=srhodes
+old = = tribhona-l°
+new = = tribhona-lagna
+comment = Typo – Please note that this correction entails a "print change". You may look up both words to confirm this print change. The word "tribhona-lagnaka" is not listed in MW dictionary. I am extremely pleased because in this case, without argument, we will remove that dreadful space-saving symbol ° ; now let me say, "ahambhavāmyatisaṃtuṣṭaḥ!" (lol).
+status = Done. Print change.  cf. PW
+------------------------------------------------------------------------
+
+Case 22: 07/24/2024 dict=MW, L=195434, hw=viḍināthakavi, user=srhodes
+old = I have question regarding the following statement: "(also written viḻi-n°)". The question is:  Has the previous letter written as " ł " been globally updated to " ḻ " ?  This appears to be the case, but I need confirmation as I like to stay current with the MW dictionary diacritics that are in usage.
+new = ?
+comment = ?
+status = done. 
+------------------------------------------------------------------------
+
+Case 23: 07/24/2024 dict=MW, L=195175, hw=vijitendriya, user=srhodes
+old = 2. vi-ji°tendriya
+new = vi-ji°tendriya
+comment = Typo - Please note that this suggestion applies to all nine words listed below the word "2. vijita" ;  In my opinion, if there is no number "1", then the number "2" should not be used. The very placement of these nine words below "2. vijita" makes things clear. I maintain that a Global Correction should be made for all similar instances of the use of the number "2" when no number "1" exists. Of course the printed text seems to be in agreement with this suggestion as the number "2" is not tediously carried to every compound word.
+status = Done. Removed the homonym markup for these nine compounds of 2. vijita.
+------------------------------------------------------------------------
+
+Case 24: 07/26/2024 dict=MW, L=194470, hw=vigatoddhava, user=srhodes
+old = 2. vi-ga°toddhava
+new = vi-ga°toddhava
+comment = Typo - In my opinion, if there is no number "1", then the number "2" should<hom>2.</hom>  not be used. The very placement of this word below "2. vigata" makes things clear. I maintain that a Global Correction should be made for all similar instances of the use of the number "2" when no number "1" exists. (As you can see, there are many words listed above which need to have the number "2" removed).
+status = done. Global change made.
+ Good suggestion: if there is no number "1", then the number "2"
+------------------------------------------------------------------------
+
+Case 25: 07/27/2024 dict=MW, L=145569, hw=budh, user=srhodes
+old = °abhutsi
+new = abhutsi
+comment = Typo – Please note that this is a possible "print change". In this particular instance, I am uncertain as to the purpose of the symbol ° . The form seems more correct without it.
+status = done. print change. Cf Whitney roots
+------------------------------------------------------------------------
+
+Case 26: 07/28/2024 dict=MW, L=198646.2, hw=vimarṣin, user=srhodes
+old = vi-marṣa, vi-ma°ṣaṇa, vi-ma°ṣin
+new = vi-marṣa, °ṣaṇa, °ṣin
+comment = Typo – Please note that this correction exactly matches the printed text.  To use the symbol ° ,  while spelling out the word (minus the single letter 'r') seems to be heading in the direction of "confusion". The simplicity of this correction shows the proper use of the symbol ° and the elegance and clarity that is conveyed. But to use the symbol ° surrounded by letters on either side (minus one) makes me feel like I "drank too much" – bhavati pramādo mama!
+status = done. change to  "vi-marṣa, vi-mar°ṣaṇa, vi-mar°ṣin"  (added 'r')
+      The other change (to drop the 'vi-mar') would like to get Andhrabharati opinion.
+      
+------------------------------------------------------------------------
+
+Case 27: 07/28/2024 dict=MW, L=198790, hw=vimukhitā, user=srhodes
+old = vimu°khi-tā f. (or -tva n.) 
+new = vimu°khi-tā f.
+comment = Please note that this is an optional correction; the reasoning is that since the word "vimukhitva" is independently listed next, there is no need to make mention here of  "(or -tva n.) ". The "intent" of  "(or -tva n.) " in the printed text has been "fulfilled" by listing the word "vimukhitva" independently so that the optionality is clearly and directly expressed in the best possible way. The point is that both words are possible and MW online has rightly listed them as such, therefore no need for the now "redundant" parenthetical mention of "or -tva n." which appears as the very next word.
+status = changed 'vimuKitva' to an 'Alternate headword', so the same text appears
+for both -tA and -tva.
+
+------------------------------------------------------------------------
+
+Case 28: 07/29/2024 dict=MW, L=199890, hw=vilomakāvya, user=srhodes
+old = = °vilomākṣara-k°
+new = = vilomākṣara-k°
+status = done
+------------------------------------------------------------------------
+
+Case 29: 07/30/2024 dict=MW, L=200231, hw=vivaraṇa, user=srhodes
+old = vi-°varaṇa mfn.
+new = vi-°varaṇa n.
+comment = Typo – Please note that this is a suggested "print change". Here is the reasoning: Both Apte and Shabda Dictionaries list this word as "neuter gender". Also if you glance at the definition given here we find: "the act of uncovering" etc. Such definitions are usually in the "neuter gender" in MW dictionary and of course we are not talking "quality" here.
+status = done. print change.  Other dictionaries confirm n.
+
+------------------------------------------------------------------------
+
+Case 30: 07/30/2024 dict=MW, L=200240, hw=vivārin, user=srhodes
+old = vi-°vārin
+new = vi-vārin  OR  °vārin
+comment = Typo – Here is another great example of the absolute "useless" use of the symbol °.  "vi-vārin" perfectly parses the word; while the printed text uses the "space-saving" symbol to print simply as  " °vārin ";  but MW online does "double duty" by both parsing and writing out the entire word, followed by "stuffing" the symbol ° into the already "full" presentation of the word "vivārin". A perfect example of uselessness simply expressed as:  "idam asti vaiyarthyam".
+status = PENDING -° issue
+------------------------------------------------------------------------
+
+Case 31: 07/30/2024 dict=MW, L=163546, hw=mārtaṇḍa, user=srhodes
+old = cf. chandoprameya-m°
+new = cf. chando-, prameya-m°
+comment = Typo - Please note that this correction follows the printed text. However, there is still a problem. The word "prameyamārtaṇḍa" does not specifically exist in MW dictionary. The correct word that is listed in this regard is "prameyakamalamārtaṇḍa". I leave the final decision up to you regarding this fact. (300 points!)
+status = done. <s>Cando-</s>, <s>prameyakamala-m°</s> print change . Cf PW
+------------------------------------------------------------------------
+
+Case 32: 07/30/2024 dict=MW, L=34840, hw=upadhūmitā, user=srhodes
+old = (cf. pra-dhūmitā, saṃ-dhū°
+new = (cf. pra-dhūmita, ???
+comment = Typo - Please note that the word "pradhūmitā" is not specifically listed in MW dictionary. But there is the word "pradhūmita". In my view a reference made must exist in MW dictionary. As regards the word "saṃdhūmitā" neither it nor "saṃdhūmita" exist in MW dictionary. Of course there is the verb "saṃdhū" listed. In any case something needs to be corrected here. I leave it to my superiors...
+status = done. print change 'pra-DUmita'.  
+------------------------------------------------------------------------
+
+Case 33: 08/01/2024 dict=MW, L=202993, hw=vismayākula, user=srhodes
+old = 1. vi-sma°yākula
+new = 2. vi-sma°yākula
+comment = Typo – This is a fantastic error! (1000 points!) Here the compounds all derived from the word "2. vismaya", however the number "1" has been erroneously carried! Now as I have made clear, I would prefer NOT to "carry" the numbering to the related compounds that themselves have only a "single" occurrence and are therefore without any other source of derivation. But of course, if you prefer to "laboriously" carry the "numbering" to all of the related compounds, then you must at least get the "numbering" correct! So my first choice is "no numbering", but I have offered the correction in respect of your "numbering" preference (if it be so).
+status = done. No hom. number carry over
+  Note: probably should have alternate-headword markup for -kara ... -M-gama
+   and '°yākula', etc.
+   
+------------------------------------------------------------------------
+
+Case 34: 08/01/2024 dict=MW, L=202993.1, hw=vismayānvita, user=srhodes
+old = 1. vi-sma°yānvita
+new = 2. vi-sma°yānvita
+comment = Typo – This is a fantastic error! (1000 points!) Here the compounds all derived from the word "2. vismaya", however the number "1" has been erroneously carried! Now as I have made clear, I would prefer NOT to "carry" the numbering to the related compounds that themselves have only a "single" occurrence and are therefore without any other source of derivation. But of course, if you prefer to "laboriously" carry the "numbering" to all of the related compounds, then you must at least get the "numbering" correct! So my first choice is "no numbering", but I have offered the correction in respect of your "numbering" preference (if it be so).
+status = done as part of Case 33.
+------------------------------------------------------------------------
+
+Case 35: 08/01/2024 dict=MW, L=202993.2, hw=vismayāviṣṭa, user=srhodes
+old = 1. vi-sma°yāviṣṭa
+new = 2. vi-sma°yāviṣṭa
+comment = Typo – This is a fantastic error! (1000 points!) Here the compounds all derived from the word "2. vismaya", however the number "1" has been erroneously carried! Now as I have made clear, I would prefer NOT to "carry" the numbering to the related compounds that themselves have only a "single" occurrence and are therefore without any other source of derivation. But of course, if you prefer to "laboriously" carry the "numbering" to all of the related compounds, then you must at least get the "numbering" correct! So my first choice is "no numbering", but I have offered the correction in respect of your "numbering" preference (if it be so).
+status = done as part of Case 33.
+------------------------------------------------------------------------
+
+Case 36: 08/01/2024 dict=MW, L=202994, hw=vismayotphullanayana, user=srhodes
+old = 1. vi-sma°yotphulla-nayana 
+new = 2. vi-sma°yotphulla-nayana 
+comment = Typo – This is a fantastic error! (1000 points!) Here the compounds all derived from the word "2. vismaya", however the number "1" has been erroneously carried! Now as I have made clear, I would prefer NOT to "carry" the numbering to the related compounds that themselves have only a "single" occurrence and are therefore without any other source of derivation. But of course, if you prefer to "laboriously" carry the "numbering" to all of the related compounds, then you must at least get the "numbering" correct! So my first choice is "no numbering", but I have offered the correction in respect of your "numbering" preference (if it be so).
+status = done as part of Case 33.
+------------------------------------------------------------------------
+
+Case 37: 08/01/2024 dict=MW, L=202994, hw=vismayotphullanayana, user=srhodes
+old = (or -locana)
+new = vi-sma°yotphulla-locana 
+comment = Typo – the word "vismayotphullalocana" is offered as an option. Perhaps it should be added independently as a "searchable" Headword.
+status = done
+<L>202994.1<pc>1002,2<k1>vismayotPullalocana<k2>vi-smayotPulla-locana<e>3
+{{Lbody=202994}}
+<LEND>
+
+------------------------------------------------------------------------
+
+Case 38: 08/01/2024 dict=MW, L=203169, hw=vihāyasāgāmin, user=srhodes
+old = 2. vi-hāya°sā-gāmin
+new = vi-hāya°sā-gāmin
+comment = No need to carry the number "2". The derivation is obvious both by the definition itself as well as the direct placement in the Hierarchy Listing below "2. vihāyas". Here is analogy in English: Take the word "lightning". This word obviously does not derive from the homonym sense, "not heavy". The very definition of "lightning" makes the etymology clear (i.e. light, a source of illumination). Same with Sanskrit!
+status = done. remove carry-over homonym markup
+------------------------------------------------------------------------
+
+Case 39: 08/03/2024 dict=MW, L=177575, hw=rāmānuja, user=srhodes
+old = n. or jam matam
+new = n. or °jam matam
+comment = Typo – Please note that this is an important correction following the printed text. Also, this is a perfect use of the symbol  °  (without writing out the word in full).
+status = done
+------------------------------------------------------------------------
+
+Case 40: 08/03/2024 dict=MW, L=23668.1, hw=ātmāyāsa, user=srhodes
+old = āt—°māyāsa
+new = °māyāsa
+comment = Typo – I am aware that we may have different views on this issue. But I cite one last example. Here the correction follows the printed text, and the online reader can use their own "brain power" to fill out the word which is shown in full at the top of the display. The reason I dislike the format "āt—°māyāsa" is because it just looks confusing. We certainly do not "parse" the word in this way. In my view this is a good example of "information overload" to the detriment of clarity. This is a compound beginning with "ātma" (for ātman), but your analysis shows "āt—" which is already "supplied" by the proper interpretation of the symbol " ° ".
+status = done as '<s>At°mA<srs/>yAsa</s>'  (remove the —).
+   The 'body' of entry should show the prefix 'āt', I think.
+  
+------------------------------------------------------------------------
+
+Case 41: 08/03/2024 dict=MW, L=197992, hw=vipravāsa, user=srhodes
+old = 5. vi-°pravāsa
+new = 1. vi-°pravāsa
+comment = Typo – This is a Fantastic Error and worth 108 points! As you can see the word “vipravāsa” is a homonym, and in this case it refers to the number “1” definition. Therefore the numbering is “required” and even more so “required to be correct!”
+status = done.  The '5' was erroneously carried over (by cdsl) from 'v-pra-√ 5. vas'.
+
+------------------------------------------------------------------------
+
+Case 42: 08/04/2024 dict=MW, L=57127.1, hw=kautūla, user=srhodes
+old = h°usband's
+new = h°'s  OR  husband's
+comment = Typo – Namaste Jim • I really like when we are in agreement. Here, I am confident that we all agree. However, in my view, this sort of correction involving the widely used symbol  °  should be the "Standard" (pramāṇam).
+status = done. <ab n="husband">h°</ab>'s (the current cdsl standard for local abbreviations).
+The alternate form (h°usband's) was coded by a different person working on
+the supplement (see mwheader.xml for his name).
+
+------------------------------------------------------------------------
+
+Case 43: 08/04/2024 dict=MW, L=198054, hw=viplavāṭṭahāsa, user=srhodes
+old = 1. vi-pla°vāṭṭahāsa
+new = vi-pla°vāṭṭahāsa
+comment = Typo – Please note that this is not a "homonym" and there should be no "number" here. You will be glad to know that I will not comment on the symbol  °.  But if I did comment (lol), I would offer the correction as,  " °vāṭṭahāsa ". LB P.S. Please know that the "lol" was not "malicious laughter" (see word definition).
+status = done.  Thanks for not commenting
+------------------------------------------------------------------------
+
+Case 44: 08/05/2024 dict=MW, L=80416.1, hw=jñānapaṇya, user=srhodes
+old = kn°owledge
+new = kn° OR knowledge
+comment = Typo – Namaste Jim • Here we have two choices for the correction: either following the printed text as,  " kn° "   OR  writing the entire word out as,  "knowledge". Generally, my preference would be to just "write things out"  since in the "digital world", the space saving symbol ° is a bit of an archaic remnant of a bygone era of printing huge numbers of pages. There is not really any "space to save" online. In any case, I am happy that we both agree that a correction needs to be made here. As you know, I would like such corrections to be made globally. This very case is "PROOF" that using the symbol ° along with writing out the word is "incorrect". The strange thing is that in this case you will agree (and yet in other cases perhaps disagree). I make no distinction.
+status = done, per local abbreviation markup: <ab n="knowledge">kn°</ab>
+------------------------------------------------------------------------
+
+Case 45: 08/05/2024 dict=MW, L=80435.1, hw=jñānamārga, user=srhodes
+old = kn°owledge
+new = kn° OR knowledge
+comment = Typo – Namaste Jim • Here we have two choices for the correction: either following the printed text as,  " kn° "   OR  writing the entire word out as,  "knowledge". Generally, my preference would be to just "write things out"  since in the "digital world", the space saving symbol ° is a bit of an archaic remnant of a bygone era of printing huge numbers of pages. There is not really any "space to save" online. In any case, I am happy that we both agree that a correction needs to be made here. As you know, I would like such corrections to be made globally. This very case is "PROOF" that using the symbol ° along with writing out the word is "incorrect". The strange thing is that in this case you will agree (and yet in other cases perhaps disagree). I make no distinction.
+status = done, per local abbreviation markup: <ab n="knowledge">kn°</ab>
+------------------------------------------------------------------------
+
+Case 46: 08/05/2024 dict=MW, L=198874, hw=vimṛṣṭāntarāṃsa, user=srhodes
+old = 1. vi-mṛṣ°ṭāntarāṃsa
+new = vi-mṛṣ°ṭāntarāṃsa
+comment = Typo – Please note that there should be no number "1" here as this compound is not a "homonym". Also the definition itself makes clear the direct relation with "1. vimṛṣṭa", as well as the obvious placement in the Hierarchy listing. Anyone studying Sanskrit necessarily has a certain degree of intelligence, and we do not need to redundantly "spoon-feed" the number "1" to each compound when the fact is already inherently clear. LB P.S. you will be glad to know that I will not be commenting on the "misuse" of the space-saving symbol  ° (while writing out the entire word).
+status = done. Also under vimfzwarAga
+------------------------------------------------------------------------
+
+Case 47: 08/05/2024 dict=MW, L=199086.3, hw=virajībhūta, user=srhodes
+old = p°.
+new = p°,
+comment = Typo – Good correction; and Great use of the symbol ° – Bravo!
+status = done
+------------------------------------------------------------------------
+
+Case 48: 08/07/2024 dict=MW, L=66585.1, hw=gṛhaprapadana, user=srhodes
+old = h°ouse
+new = h°  OR  house
+comment = Symbol ° Use Error • I am happy that we both agree that a correction needs to be made here. As you know, I would like such corrections to be made globally. This very case is "PROOF" that using the symbol ° along with writing out the word is "incorrect". The strange thing is that in this case you will agree (and yet in other cases perhaps disagree). I make no distinction.
+status = done. local abbrev: <ab n="house">h°</ab>
+ Also one other (hw agArAvakASa)
+------------------------------------------------------------------------
+
+Case 49: 08/09/2024 dict=MW, L=22960.4, hw=ācāryāsandī, user=srhodes
+old = t°eacher's
+new = t°  OR  teacher's
+status = done <ab n="teacher">t°</ab>
+------------------------------------------------------------------------
+
+Case 50: 08/09/2024 dict=MW, L=156115.1, hw=madhusaṃśliṣṭa, user=srhodes
+old = h°oney
+new = h°  OR  honey
+status = done <ab n="honey">h°</ab>
+------------------------------------------------------------------------
+
+Case 51: 08/14/2024 dict=MW, L=68968.1, hw=grāmya, user=srhodes
+old = °mya a (accord. to some also) venereal disease
+new = °mya, (accord. to some also) venereal disease
+comment = Typo – Please note that we are adding the "comma" in place of the letter "a" (which is an error). Also I have a good suggestion here: Since this supplemental definition is closely related to the definition listed at the bottom of the main entry as  "sexual intercourse, MBh. ii, 2270; BhP. iv  [ID=69027]" – I am suggesting to move the placement of this supplemental definition from the top of the display to the bottom where it seems to bear a clear relation to the definition, "sexual intercourse".
+status = done: moved to 69027.1
+------------------------------------------------------------------------
+
+Case 52: 08/14/2024 dict=MW, L=69170, hw=glai, user=srhodes
+old = (-glāpayati See ava-, pra-, vi-;
+new = (-glāp°, see ava-, pra-, vi-;
+status = PENDING
+------------------------------------------------------------------------
+
+Case 53: 08/15/2024 dict=MW, L=207966, hw=vaiśvāmanasa, user=srhodes
+old = (cf. vaitva-m°)
+new = (cf. vaiśva-m°)
+comment = Typo – 108 points!
+status = done
+------------------------------------------------------------------------
+
+Case 54: 08/15/2024 dict=MW, L=207916, hw=vaiśvadevika, user=srhodes
+old = V°-deities
+new = V°-d°
+comment = Typo – 108 points! By the way, the printing here of "deities" is entirely incorrect. The proper reference of  "d°"  is  "deva".
+status = done. <s1 n="Vaiśvadeva">V°-d°</s1>
+------------------------------------------------------------------------
+
+Case 55: 08/15/2024 dict=MW, L=164491, hw=miśra, user=srhodes
+old = madhu-m
+new = madhu-m°
+status = done
+------------------------------------------------------------------------
+
+Case 56: 08/15/2024 dict=MW, L=164495, hw=miśra, user=srhodes
+old = Vācaspati- m°
+new = Vācaspati-m°
+status = done
+------------------------------------------------------------------------
+
+Case 57: 08/15/2024 dict=MW, L=164519.1, hw=miśraviṣkambhaka, user=srhodes
+old = (= -saṃkirṇa-v°
+new = (= saṃkirṇa-v°
+status = done
+------------------------------------------------------------------------
+
+Case 58: 08/16/2024 dict=MW, L=28617.1, hw=ikṣuśalākā, user=srhodes
+old = s°ugar-c°ane
+new = s°-c°
+comment = Typo – I am always happy to see the "correct" use of the symbol ° , which simply means that we do not "spell it all out".
+status = done
+------------------------------------------------------------------------
+
+Case 59: 08/16/2024 dict=MW, L=28602.1, hw=ikṣuyaṣṭi, user=srhodes
+old = s°ugar-c°ane
+new = s°-c°
+comment = Typo – I am always happy to see the "correct" use of the symbol ° , which simply means that we do not "spell it all out".
+status = done
+------------------------------------------------------------------------
+
+Case 60: 08/18/2024 dict=MW, L=91412.1, hw=dāyavira, user=srhodes
+old = dāya-vira
+new = dāya-vīra
+comment = Typo – Headword Typo – 1008 points! (this also includes the correction to the reference "(cf. dāna-v° above)", which would have continued the error. This correction is known as a "Home Run". Thank you very much.
+status = DONE
+------------------------------------------------------------------------
+
+Case 61: 08/18/2024 dict=MW, L=146765, hw=brahmadāyopahārin, user=srhodes
+old = 2. brahma—dā°yopahārin
+new = brahma—dā°yāpahārin
+comment = Typo – Headword Typo – 1008 points! Also, I recommend eliminating the number "2".
+status = done (both)
+------------------------------------------------------------------------
+
+Case 62: 08/19/2024 dict=MW, L=91024.2, hw=daśārha, user=srhodes
+old = (dās°, B)
+new = (dāś°, B)
+status = done
+------------------------------------------------------------------------
+
+Case 63: 08/21/2024 dict=MW, L=104857, hw=nahasra, user=srhodes
+old = (cf. un-n°)
+new = (cf. unnahana)
+comment = Typo – Please note that this could be a "print change", but it needs investigation. I do not find the word "unnahasra" which is being referenced. There is the word "unnahana" which I may be a possible solution to this mystery.
+status = PENDING  
+------------------------------------------------------------------------
+
+Case 64: 08/24/2024 dict=MW, L=237508, hw=saraya, user=srhodes
+old = °orayate
+new = °rayate
+status = done
+------------------------------------------------------------------------
+
+Case 65: 08/28/2024 dict=MW, L=1469, hw=aṅkura, user=srhodes
+old = Headwords Missing! — 1. aṅkura and 2. aṅkura (from the supplemental section)
+new = Here there is the word "aṅkura", however there are two supplemental insertions in this regard:  "1. aṅkura (in comp.)" after which come the the three supplemental compounds (as correctly listed). Then comes "2. aṅkura, Nom. P. °rati, to shoot, sprout, bud, Pārv. [ID=1472.1 sup]. Therefore the "missing Headword" namely "2. aṅkura" should appear just before the word "aṅkuraka" in the Hierarchical listing of words.
+comment = Headwords Missing! — 1. aṅkura and 2. aṅkura (from the supplemental section)
+status = done
+old:
+<L>1469<pc>7,2<k1>aNkura<k2>aNkura<e>2
+<s>aNkura</s> ¦ <lex>m.</lex> a sprout, shoot, blade, a swelling, a tumour, <ls>Suśr.</ls><info lex="m"/>
+new:  mark as homonym 1, and also as a 'revised' (for the homonym)
+<L>1469<pc>7,2<k1>aNkura<k2>aNkura<h>1<e>2
+<hom>1.</hom> <s>aNkura</s> ¦ <lex>m.</lex> a sprout, shoot, blade, a swelling, a tumour, <ls>Suśr.</ls><info lex="m"/><info n="rev"/>
+<LEND>
+
+Also
+old:
+<L>1472.1<pc>1309,2<k1>aNkura<k2>aNkura<e>2B
+<s>aNkura</s> ¦ 2 <ab>Nom.</ab> <ab>P.</ab> <s>°rati</s>, to shoot, sprout, bud, <ls>Pārv.</ls><info n="sup"/><info verb="nom" cp="P"/>
+<LEND>
+new:  L changed to 1472.5 and moved after aNkurArpaRa
+<L>1472.5<pc>1309,2<k1>aNkura<k2>aNkura<h>2<e>2
+<hom>2.</hom> <s>aNkura</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°rati</s>, to shoot, sprout, bud, <ls>Pārv.</ls><info n="sup"/><info verb="nom" cp="P"/>
+<LEND>
+
+
+------------------------------------------------------------------------
+
+Case 66: 08/28/2024 dict=MW, L=1472.1, hw=aṅkura, user=srhodes
+old = Headwords Missing! — 1. aṅkura and 2. aṅkura (from the supplemental section)
+new = Here there is the word "aṅkura", however there are two supplemental insertions in this regard:  "1. aṅkura (in comp.)" after which come the the three supplemental compounds (as correctly listed). Then comes "2. aṅkura, Nom. P. °rati, to shoot, sprout, bud, Pārv. [ID=1472.1 sup]. Therefore the "missing Headword" namely "2. aṅkura" should appear just before the word "aṅkuraka" in the Hierarchical listing of words.
+comment = Headwords Missing! — 1. aṅkura and 2. aṅkura (from the supplemental section)
+status = duplicate of case 65.
+------------------------------------------------------------------------
+
+Case 67: 08/30/2024 dict=MW, L=78531, hw=jāḍāra, user=srhodes
+old = (v.l. jāṇ°)
+new = (v.l. jāṇḍ°)
+comment = Typo – 108 points!
+status = done
+------------------------------------------------------------------------
+
+Case 68: 08/31/2024 dict=MW, L=38579.1, hw=ṛtumaṅgala, user=srhodes
+old = s°eason
+new = s°  OR  season
+comment = Typo – Please note that the previous main entry Headword will make clear the meaning of the abbreviation  " s° ".
+status = done: <ab n="season">s°</ab>
+------------------------------------------------------------------------
+
+Case 69: 08/31/2024 dict=MW, L=38596.1, hw=ṛtuvyāvṛtti, user=srhodes
+old = s°eason
+new = s°  OR  season
+comment = Typo – Please note that the prior main entry Headword  "ṛtuvṛtti"  will make clear the meaning of the abbreviation  " s° ".
+status = done: <ab n="season">s°</ab>
+------------------------------------------------------------------------
+
+Case 70: 08/31/2024 dict=MW, L=37246.1, hw=uraḥśiras, user=srhodes
+old = br°east
+new = br°  OR  breast
+status = done
+------------------------------------------------------------------------
+
+Case 71: 09/01/2024 dict=MW, L=16256.1, hw=ardhavaiśasa, user=srhodes
+old = h°alf
+new = h°  OR  half
+status = done: <ab n="half">h°</ab>   (7 instances)
+------------------------------------------------------------------------
+
+Case 72: 09/02/2024 dict=MW, L=97846, hw=dru, user=srhodes
+old = °drot Subj.
+new = °drot, Subj.
+status = done
+------------------------------------------------------------------------
+
+Case 73: 09/02/2024 dict=MW, L=97846, hw=dru, user=srhodes
+old = or dud°
+new = or did°
+comment = Typo – 108 points!
+status = done. Amazing that Scott noticed this!
+------------------------------------------------------------------------
+
+Case 74: 09/03/2024 dict=MW, L=34806, hw=upadhāna, user=srhodes
+old = (cf. premopa°)
+new = ?
+comment = The referenced word "premopadhāna" is NOT found.
+status = no change.  Probably taken from PW - the 'cf.' here likely
+  refers to an occurrence of premopaDAna in Bālar. literary source.
+------------------------------------------------------------------------
+
+Case 75: 09/03/2024 dict=MW, L=45681.1, hw=kalāṃśarūpiṇī, user=srhodes
+old = kal—°ā
+new = kalā—°
+comment = Typo – Please note that this correction follows the principal printed text and correctly shows the "parsing" (so to speak).
+status = done
+------------------------------------------------------------------------
+
+Case 76: 09/03/2024 dict=MW, L=45681.1, hw=kalāṃśarūpiṇī, user=srhodes
+old = kal—°āṃśa-rūpiṇī
+new = kalā—°ṃśa-rūpiṇī (° lâṉś° )
+comment = Typo – Please note that this correction follows the principal printed text and correctly shows the "parsing" (so to speak); of course you may adjust things according to your preference, but certainly a correction is in order!
+status = done. see prev.  The 'n with macron below' character in MW print is
+    rendered as anusvAra (slp1 M) in cdsl.
+------------------------------------------------------------------------
+
+Case 77: 09/05/2024 dict=MW, L=61037.1, hw=khaḍgalatā, user=srhodes
+old = sw°ord
+new = sw°  OR  sword
+comment = Typo – Please note that the preceding compound will make the form "sw°" clear. 
+status = done. <ab n="sword">sw°</ab>  (2 instances)
+------------------------------------------------------------------------
+
+Case 78: 09/05/2024 dict=MW, L=143386, hw=balivāka, user=srhodes
+old = (v.l. baliv°)
+new = (v.l. balīv°)
+comment = Typo – 108 points!
+status = done.
+------------------------------------------------------------------------
+
+Case 79: 09/05/2024 dict=MW, L=93435.1, hw=duḥkhabhūyiṣṭha, user=srhodes
+old = p°ain
+new = p°  OR  pain
+status = done: <ab n="pain">p°</ab>
+
+------------------------------------------------------------------------
+
+Case 80: 09/05/2024 dict=MW, L=93665.1, hw=duranusamprāpya, user=srhodes
+old = d°ifficult
+new = d°  OR  difficult
+status = done
+------------------------------------------------------------------------
+
+Case 81: 09/05/2024 dict=MW, L=61442.1, hw=kharari, user=srhodes
+old = kha—°rari
+new = kha—°rāri
+comment = Typo – Headword Typo (1008 points!).
+status = done. 
+------------------------------------------------------------------------
+
+Case 82: 09/07/2024 dict=MW, L=81205, hw=ṭaṃkārita, user=srhodes
+old = See jhaṃ-kārita
+new = see jhaṃ-k°   •  Also please note that it may be better to make a "print change" as follows,  " see jhaṅ-k° " ;  The reason being that MW dictionary spells the word as "jhaṅkārita" and lists it under "jhaṅ" compounds.
+status = done. print change <s>JaN-k°</s>
+------------------------------------------------------------------------
+
+Case 83: 09/09/2024 dict=MW, L=74072, hw=cetāya, user=srhodes
+old = °yale LB 
+new = °yate
+status = done.
+------------------------------------------------------------------------
+
+Case 84: 09/09/2024 dict=MW, L=74613.1, hw=cundikā, user=srhodes
+old = (see saṃcāric°)
+new = (see saṃcāri-c°)
+comment = Typo – Please note that this reference actually should be made a "print change" as follows:  "(see saṃcāricuṇḍikā)". The reason is that the letter "r" causes the sandhi change in the letters of the word "cundikā" to become "cuṇḍikā" and therefore the use of the symbol ° does not clearly reveal the true reference being made. As I mentioned once before, you may say well this is obvious by sandhi rules, but if a student told that to a teacher, the teacher would not pleased. Therefore, in cases like this, the referenced word should be spelled out in full.
+status = done. print change: <s>saMcAri-cuRqikA</s> makes dictionary more useful.
+
+------------------------------------------------------------------------
+
+Case 85: 09/10/2024 dict=MW, L=78003.1, hw=jalabhauta, user=srhodes
+old = w°ater
+new = w°  OR  water
+status = done. <ab n="water">w°</ab>  8 instances
+
+------------------------------------------------------------------------
+
+Case 86: 09/10/2024 dict=MW, L=80435.1, hw=jñānamārga, user=srhodes
+old = kn°owledge
+new = kn°  OR  knowledge
+status = done
+------------------------------------------------------------------------
+
+Case 87: 09/10/2024 dict=MW, L=80426.1, hw=jñānapradīpa, user=srhodes
+old = kn°owledge
+new = kn°  OR  knowledge
+status = done, per local abbreviation markup: <ab n="knowledge">kn°</ab>
+------------------------------------------------------------------------
+
+Case 88: 09/10/2024 dict=MW, L=80416.1, hw=jñānapaṇya, user=srhodes
+old = kn°owledge
+new = kn°  OR  knowledge
+status = done
+------------------------------------------------------------------------
+
+Case 89: 09/10/2024 dict=MW, L=80518, hw=jñaudanīya, user=srhodes
+old = °yiskati
+new = °yiṣati
+comment = Typo - 108 points!
+status = done
+------------------------------------------------------------------------
+
+Case 90: 09/10/2024 dict=MW, L=86681, hw=tṛṇatā, user=srhodes
+old = = tṛ-ṇ°
+new = = tri-ṇ°
+comment = Typo – 108 points!
+status = done
+------------------------------------------------------------------------
+
+Case 91: 09/10/2024 dict=MW, L=82958.1, hw=tamoniṣṭha, user=srhodes
+old = d°arkness
+new = d°  OR  darkness
+status = done <ab n="darkness">d°/ab>
+------------------------------------------------------------------------
+
+Case 92: 09/10/2024 dict=MW, L=82883.2, hw=tamaḥsaṃghāta, user=srhodes
+old = d°arkness
+new = d°  OR  darkness
+status = done <ab n="darkness">d°/ab>
+------------------------------------------------------------------------
+
+Case 93: 09/11/2024 dict=MW, L=89980, hw=dadhyasya, user=srhodes
+old = °jati id. LB 
+new = °yati, id.
+comment = Typo – 108 points!
+status = done
+------------------------------------------------------------------------
+
+Case 94: 09/13/2024 dict=MW, L=103332, hw=nadasya, user=srhodes
+old = °śyate
+new = °syate
+comment = Typo – Please note that this is VERY likely a "print change" – 108 points! (sale price).
+status = done. print change
+------------------------------------------------------------------------
+
+Case 95: 09/14/2024 dict=MW, L=123478, hw=piciṇḍikā, user=srhodes
+old = piciṇ°ḍikā f.
+new = piciṇ°ḍikā f. = picaṇḍikā
+comment = Typo – Please note that here, the definition has been omitted, although it appears with the following word. I am unsure of how you would like to treat this, but in any case at least the "missing" definition should be provided.
+status = done
+old:
+<L>123478<pc>624,2<k1>piciRqikA<k2>piciRqikA<e>3
+<s>piciR°qikA</s> ¦ <lex>f.</lex><info lex="f"/>
+<LEND>
+<L>123479<pc>624,2<k1>piciRqila<k2>piciRqila<e>3
+<s>piciRqila</s> ¦ <lex>mfn.</lex> = <s>picaRqikA</s>, <s>°qila</s>.<info lex="m:f:n"/>
+<LEND>
+
+new:
+<L>123478<pc>624,2<k1>piciRqikA<k2>piciRqikA<e>3
+<s>piciR°qikA</s>, <lex>f.</lex>, <s>piciR°qila</s>, <lex>mfn.</lex> ¦ = <s>picaRqikA</s>, <s>°qila</s>.
+<LEND>
+<L>123479<pc>624,2<k1>piciRqila<k2>piciRqila<e>3
+{{Lbody=123478}}
+<LEND>
+
+------------------------------------------------------------------------
+
+Case 96: 09/14/2024 dict=MW, L=123471, hw=picaṇḍaka, user=srhodes
+old = = °de kuśalaḥ
+new = = °ḍe kuśalaḥ
+status = done
+------------------------------------------------------------------------
+
+Case 97: 09/14/2024 dict=MW, L=123471, hw=picaṇḍaka, user=srhodes
+old = = °de kuśalaḥ
+new = = °ḍe kuśalaḥ,
+comment = Typo – Please add the "comma".
+status = done.
+768 matches in 766 lines for "</s> <ab>g.</ab>"
+ Should all these be changed to "</s>, <ab>g.</ab>"  (comma)?
+------------------------------------------------------------------------
+
+Case 98: 09/15/2024 dict=MW, L=108272.11, hw=nijihvika, user=srhodes
+old = nir-j°
+new = nirjihva
+comment = Typo – Please note that this is a suggested "print change". The reasoning here is that there is no word listed as "nirjihvika" which is currently being indicated. However, there is the word "nirjihva" which perfectly fits the implication.
+status = done. print change "<s>nir-j°</s>" -> "<s>nir-jihva</s>"
+
+------------------------------------------------------------------------
+
+Case 99: 09/16/2024 dict=MW, L=147388.1, hw=brāhmaṇavarṇin, user=srhodes
+old = Br°ahmans
+new = Br°āhmans  OR  Brāhmans  OR  Br°s
+comment = Typo – I prefer the second or third alternative given above.
+status = done. <s1 n="Brahman">Br°</s1>  (local 'abbreviation' sanskrit word)
+
+------------------------------------------------------------------------
+
+Case 100: 09/16/2024 dict=MW, L=91610, hw=dān, user=srhodes
+old = nayati
+new = °nayati
+status = done
+------------------------------------------------------------------------
+
+Case 101: 09/17/2024 dict=MW, L=156115.1, hw=madhusaṃśliṣṭa, user=srhodes
+old = h°oney
+new = honey
+comment = Typo – I would prefer the word to be "spelled out" so as to make the reference clear. However, certainly no need for the form, "h°oney" which is simply an "eyesore".
+status = done. <ab n="honey">h°</ab>
+------------------------------------------------------------------------
+
+Case 102: 09/17/2024 dict=MW, L=115322 , hw=padavīya, user=srhodes
+old = (if not acc. for vyam)
+new = (if not acc. for padavyam)
+comment = Typo – please note that I am suggesting this correction which seems to make more sense; however you may choose to notate it as  "-vyam"  or  "°vyam".
+status = <s>°vya/m</s>.
+ Note: What is the meaning of "if not acc. for °vya/m" ?
+ 
+------------------------------------------------------------------------
+
+Case 103: 09/18/2024 dict=MW, L=168105, hw=meṣāya, user=srhodes
+old = °yite
+new = °yate
+status = done
+------------------------------------------------------------------------
+
+Case 104: 09/19/2024 dict=MW, L=169416.1, hw=yajñasamṛddhi, user=srhodes
+old = s°acrifice
+new = sacrifice  OR  s°
+status = done <ab n="sacrifice">s°</ab>
+------------------------------------------------------------------------
+
+Case 105: 09/21/2024 dict=MW, L=214501, hw=śaśva, user=srhodes
+old = śaśva Nom. P. °yati 
+new = ?
+comment = Typo – I am wondering if something is incorrect here. Usually the nominative word would be listed (for example) as "śaśvaya" if the final form given is "śaśvayati". So this listing seems to deviate from the norm, and I wonder if one or the other element: "śaśva" or "śaśvayati" is incorrect?
+status = done.
+ Hypothesis: When MW "copies" a denominative from PW, MW adds an 'a':
+  PW SaSv -> MW SaSva, PW SaSvAy -> MW SaSvAya.
+
+ Note: Jim adds print change for SaSvAya in MW:
+ old: <ab>P.</ab> <s>°te</s>
+ NEW: <ab>Ā.</ab> <s>°te</s> 
+
+------------------------------------------------------------------------
+
+Case 106: 09/23/2024 dict=MW, L=214350.1, hw=śaśāṅkāśmajavāsara, user=srhodes
+old = śa—°śāṅkāśmaja-vāsara
+new = śa—°śāṅkātmaja-vāsara
+comment = Typo – Headword Typo!
+status = done
+------------------------------------------------------------------------
+
+Case 107: 09/25/2024 dict=MW, L=138717.2, hw=prahoṣin, user=srhodes
+old = h° of pr°
+new = h°s of pr°
+comment = Typo – Please note that the letter "s" is required for the plural sense which follows the printed text.
+status = done
+------------------------------------------------------------------------
+
+Case 108: 09/26/2024 dict=MW, L=115906.1, hw=payaḥvikāra, user=srhodes
+old = payaḥ—vikāra
+new = pa°yo-vikāra
+comment = Typo – Please note that we are making a "Sandhi" correction here.  Of course along with this Supplemental Headword Correction, the placement in the Hierarchy List will also need to be corrected. Please "relocate" this corrected word "payovikāra" to just after the word "payogarbha". This correction may also be confirmed by the FACT that the supplemental word "payovikāra" FOLLOWS after the word "payogarbha" in the Supplemental listing itself. Also, please note that the CFO will need to add 1008 points to my Account!
+status = done: moved after payo-garBa
+------------------------------------------------------------------------
+
+Case 109: 09/27/2024 dict=MW, L=106100, hw=nārāśaṃsapaṅkti, user=srhodes
+old = (w.r. nar° p°).
+new = (w.r. nar°p°)  OR  (w.r. nar°-p°)
+comment = Typo – Please note that this is a suggested "print change". It should be noted that a "single" word is indicated here and therefore, there should not be a "gap" in the citation of the "wrong reading".
+status = done. nar°-p°
+------------------------------------------------------------------------
+
+Case 110: 09/27/2024 dict=MW, L=104202.1, hw=narendra, user=srhodes
+old = °rendra m. N. of Tathāgatas
+new = °rendra (and -rāja), m. N. of Tathāgatas
+status = done  The second word is nararAja (cf. PW)
+old:
+<L>104202.1<pc>1329,2<k1>narendra<k2>na—rendra<e>3
+<s>na—°re<srs/>ndra</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Tathāgata</s1>s, <ls>Sukh. i</ls>.<info n="sup"/><info lex="m"/><info hui="b"/>
+<LEND>
+<L>104213.2<pc>1329,2<k1>narendraraja<k2>na—rendra—raja<e>4
+<s>na—°re<srs/>ndra—°raja</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Tathāgata</s1>s, <ls>Sukh. i</ls>.<info n="sup"/><info lex="m"/>
+<LEND>
+
+new:
+<L>104202.1<pc>1329,2<k1>narendra<k2>na—rendra<e>3
+<s>na—°re<srs/>ndra</s> (and <s>-rAja</s>) ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Tathāgata</s1>s, <ls>Sukh. i</ls>.<info n="sup"/><info lex="m"/><info hui="b"/>
+<LEND>
+<L>104202.2<pc>1329,2<k1>nararAja<k2>nara—rAja<e>3
+{{Lbody=104202.1}}
+<LEND>
+
+------------------------------------------------------------------------
+
+Case 111: 09/27/2024 dict=MW, L=104213.2, hw=narendraraja, user=srhodes
+old = na—°rendra—°raja m.
+new = na—°rendra—°rāja m.
+comment = Headword Typo – Please note that the supplemental listing reads as follows "(and -rāja)" ;  therefore it may be better to notate the word in this manner: "na—°rendra—rāja"  (without a secondary °).
+status = done. see Case 110
+------------------------------------------------------------------------
+
+Case 112: 10/02/2024 dict=MW, L=74480.1, hw=cīrāmbara, user=srhodes
+old = = ra-bhṛt
+new = = °ra-bhṛt
+status = done
+------------------------------------------------------------------------
+
+Case 113: 10/04/2024 dict=MW, L=95263, hw=dṛś, user=srhodes
+old = °sivas, Up.;
+new = °śivas, Up.;
+status = done
+------------------------------------------------------------------------
+
+Case 114: 10/06/2024 dict=MW, L=53643.1, hw=kusumāpīḍa, user=srhodes
+old = °ma-māla
+new = °ma-mālā
+status = done
+------------------------------------------------------------------------
+
+Case 115: 10/06/2024 dict=MW, L=53643.1, hw=kusumāpīḍa, user=srhodes
+old = °ma-māla
+new = °ma-mālā
+status = done. duplicate of Case 114
+------------------------------------------------------------------------
+
+Case 116: 10/06/2024 dict=MW, L=91610, hw=dān, user=srhodes
+old = and nayati
+new = and °nayati
+status = done duplicate of Case 100
+------------------------------------------------------------------------
+
+Case 117: 10/07/2024 dict=MW, L=225722, hw=saṃyuta, user=srhodes
+old = (praīṣya-s°,
+new = (praiṣya-s°,
+status = done
+------------------------------------------------------------------------
+
+Case 118: 10/09/2024 dict=MW, L=40749.3, hw=oṣadhītvara, user=srhodes
+old = oṣa—°dhītvara
+new = oṣa—°dhīśvara
+comment = Typo – Please note that this is a Headword Typo worth 1008 points. Also, the alphabetical placement in the Hierarchy List will need to be adjusted. Please place the corrected Headword "oṣadhīśvara" just after the word "oṣadhīśa".
+status = done.
+------------------------------------------------------------------------
+
+Case 119: 10/10/2024 dict=MW, L=38944.1, hw=ṛddhilakṣmī, user=srhodes
+old = Headword Missing
+new = Please add the Headword "ṛddhyabhisaṃskāra" to the Hierarchy Listing of words (as a searchable Headword). It has been mistakenly included with the definition of the Headword "ṛddhilakṣmī". Of course a unique [Id. number] will have to be added to the Headword "ṛddhyabhisaṃskāra", along with the definition displayed as follows: "(°dhy)-abkisaṃskāra, m. a phantom produced by magical art, Jātakam."  Also, please include the "circle-S" symbol to this newly added Headword. 1008 points!
+comment = Headword Missing
+status = PENDING
+
+old:
+<L>38944.1<pc>1323,1<k1>fdDilakzmI<k2>f/dDi—lakzmI<e>3
+<s>f/dDi—lakzmI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <ns>Nepāl</ns> queen, <ls>Inscr.</ls> (<s>°Dy</s>) <s>-abkisaMskAra</s>, <lex>m.</lex> a phantom produced by magical art, <ls>Jātakam.</ls><info n="sup"/><info lex="m:f"/>
+<LEND>
+
+new:
+<L>38944.1<pc>1323,1<k1>fdDilakzmI<k2>f/dDi—lakzmI<e>3
+<s>f/dDi—lakzmI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <ns>Nepāl</ns> queen, <ls>Inscr.</ls><info n="sup"/><info lex="f"/>
+<LEND>
+<L>38944.2<pc>1323,1<k1>fdDyaBisaMskAra<k2>fdDy-aBisaMskAra<e>3
+<s>fdDy-aBisaMskAra</s> ¦ <lex>m.</lex> a phantom produced by magical art, <ls>Jātakam.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+------------------------------------------------------------------------
+

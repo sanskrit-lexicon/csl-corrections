@@ -1698,10 +1698,32 @@ code : Headword : Old  : New : Comment
 62479  : gaqa : gold-fish : goldfish :
 62849  : gaqaka : gold-fish : goldfish :
 ------------------------------------------------------------------------
-------------------------------------------------------------------------
 10-09-2024
 user Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1741
 code : Headword : Old  : New : Comment
 106933 : nirgarBa : <s1>AP</s1>. : <ls>AgniP.</ls> : 
+------------------------------------------------------------------------
+10-13-2024
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+     corrections_mw_abbrev.txt
+code : Headword : Old  : New : Comment
+164838 : muKa : prAn-muKam : prAN-muKam
+122457 : pAraka : ugra-p° : udra-p°
+114698 : pat : °pātīti : pA°patIti
+196254 : videhADipa : viheha : videha
+195689 : vidya : °kfta-vidya : kfta-vidya
+195615 : vitriBalagnaka : triBona-l° : triBona-lagna
+145569 : buD : °aButsi : aButsi
+200231 : vivaraRa : vi-°varaṇa mfn. : vi-°varaṇa n.
+163546 : mArtaRqa : prameya-m° : prameyakamala-m°
+34840  : upaDUmitA : pra-DUmitA : pra-DUmita
+81205  : waMkArita : JaM-k° : JaN-k°
+74613. : cundikA : saMcAri-c° : saMcAri-cuRqikA
+103332 : nadasya : °Syate : °syate
+108272.11 : nijihvika : nir-j° : nir-jihva
+214504 : SaSvAya : P. °te : Ā. °te
+106100 : nArASaMsapaNkti : nar° p° : nar°-p°
+
 ------------------------------------------------------------------------
