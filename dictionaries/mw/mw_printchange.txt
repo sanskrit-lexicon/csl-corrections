@@ -584,10 +584,10 @@ L=100972. Change DaraRAnvita to DAraRAnvita
 MW oversight or printer error. Also, confirm PW.
 ejf.
 =======================================
-84. Sep 12, 2013
+84. Sep 12, 2013 
 L=102612. Change DvAntarAti to DvAntArAti
 MW oversight or printer error. Also, confirm PW.
-ejf.
+ejf.  note similar at 10-14-2024
 =======================================
 85. Sep 12, 2013
 L=1154. Change agniDra to agnI@Dra
@@ -1725,5 +1725,55 @@ code : Headword : Old  : New : Comment
 108272.11 : nijihvika : nir-j° : nir-jihva
 214504 : SaSvAya : P. °te : Ā. °te
 106100 : nArASaMsapaNkti : nar° p° : nar°-p°
+
+------------------------------------------------------------------------
+10-14-2024
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+     corrections_mw_not_abbrev.txt
+code : Headword : Old  : New : Comment
+5252 : anala  : (no homonym) : homonym 1 : Since supplement has hom 2
+13260 : aByarTita : cf. yaTAByarTitam : cf. yaTAByarTita
+38410 : f : haste towards : hasten towards
+41894 : kaw : cf. cat : cf. caw :
+42493.1 : kaRWapraRAlikA : id. : id. the windpipe
+47604 : kAtantrakOmudI : vftti-paYjikA : -vftti-paYjikA
+50271 : kit : cf. 2. cit : cf. 4. cit :
+64493 : gA  : Dhātup. xx, 53 : Dhātup. xxii, 53
+ *    : *   : court-yard  : courtyard :  8 instances changed.
+ *    : *   : Yudhi-ṣṭhira  : Yudhiṣṭhira :  43 instances changed.
+66852 : gE  : Dhātup. xxv, 25 : Dhātup. xxii, 20
+74324 : cirozita : -sTAyin : cira-sTAyin : for clarity
+87126 : toka : cf. ava-, jIvat, sa-tokA : cf. ava-tokA, jIvattokA, satoka
+91024.5 : daSArhI : cf. su- : cf. sudaSArhakula :
+91853 : dAS : cf. dU- and puro- : cf. dUqAS and puroqAS
+91857 : dASa : See puro- : See puroqASa :
+101815 : Df : adArzIt : aDArzIt
+101935 : Dfzat : 1. dhṛṣat : dhṛṣat : remove homonym number.
+102612 : DvAntarAti : DvAntarAti : DvAntArAti
+105026 : nAganAsorU : karaBoru : karaBorU
+115613 : padmanABi  : -nABu : -nABa
+121999.1 : pAdavI   : see under pada : see pada-vI under pada
+122634 : pArAruka : parawIwa : pArawIwa
+142154 : PAwakI : = sPAwI : = sPawI
+145350 : biSAyaka : biSAkara : bisAkara
+146765 : brahmadAyApahArin : robbing it : robbing the earthly possession of a Brāhman  : clarification
+166318 : mUrvA : cf. mUrv  : cf. murv
+170253 : yaB : -yapsyati & -yabDum : yapsyati & yabDum
+175265 : rayas : amUrta-rayas : amUrta-rayasa
+177005 : rAjeyu : riteyu : fteyu :
+193201 : vinirbAnu : vinirbAnu : vinirbAhu  (headword change)
+193282 : vipfTu : w.r. pfTa : w.r. vipfTa
+195649 : vidaTa : a sage : m. asage :  add gender
+196197 : vidAraka : a hole : m. a hole : add gender
+197149 : viniSvas : -Svasita : -Svasiti
+200034 : vyuzwi   : 2. vy-uz : 1. vy-uz
+203453 : vIj : Dhātup. vi, 24 : Dhātup. vi, 25
+216864 : Siw : Dhātup. ix, 17 : Dhātup. ix, 16
+244057 : siw : Dhātup. ix, 18 : Dhātup. ix, 16
+247312 : supakva : a sort of fragrant Mango : m. a sort of fragrant Mango
+251838 : sf :  sarIzarti : sarIsarti
+258776 : svaj : svajAmana : svajamAna
+258909 : svan : svAnIt : asvAnIt
 
 ------------------------------------------------------------------------

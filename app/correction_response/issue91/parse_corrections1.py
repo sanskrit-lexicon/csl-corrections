@@ -1,4 +1,4 @@
-""" parse_corrections.py  addapted from cfr_adj.py
+""" parse_corrections1.py 
 """
 from __future__ import print_function
 import re,sys,os
@@ -76,7 +76,15 @@ class CFR(object):
   #if self.user == '':
   # self.user='NONE'
   self.useradj = re.sub(r'@.*$','',self.user)
-  
+  # sort on lnum, treated as float
+  try:
+   L = float(self.lnum)
+   self.L = L
+  except:
+   print('CFR error lnum:',self.lnum)
+   print(line)
+   self.L = 0.0
+   
  def listform(self):
    return [self.time,self.dict,self.lnum,self.hw,self.old,self.new,self.comment,self.useradj,self.status]
 
@@ -280,18 +288,71 @@ def write_outrecs(fileout,outrecs):
    outarr.append(out)
  write_lines(fileout,outarr)
  
-
 def parse_correction(rec):
  # return a list of strings
  outarr = outputrec(rec,"?????")
  return outarr
 
+def  mark_mwlines(mwlines,recs1):
+ d = {}
+ for irec,rec in enumerate(recs1):
+  L = rec.lnum
+  # L may be duplicate
+  if L not in d:
+   d[L] = []
+  d[L].append(irec+1)
+ #
+ newlines = []
+ for iline,line in enumerate(mwlines):
+  m = re.search(r'^<L>(.*?)<pc>(.*?)<',line)
+  if m == None:
+   newlines.append(line)
+   continue
+  # metaline
+  L = m.group(1)
+  pc = m.group(2)
+  if L not in d:
+   # no correction for this entry
+   newlines.append(line)
+   continue
+  cases = d[L]  # list of correction cases
+  cases1 = [str(case) for case in cases]
+  cases_str = ','.join(cases1)
+  pfx = '* case %s ' % cases_str
+  # add a link to printed page
+  href = 'http://localhost/cologne/csl-apidev/servepdf.php?dict=mw&page=%s' % pc
+  newline = pfx + line + '  ' + href
+  newlines.append(newline)  
+  # mark associated <LEND>
+  iline1 = iline
+  while True:
+   iline1 = iline1 + 1
+   line1 = mwlines[iline1]
+   if line1.startswith('<LEND>'):
+    line1a = '* ' + line1
+    mwlines[iline1] = line1a
+    break
+   
+ return newlines
+
 if __name__=="__main__":
  filein = sys.argv[1]
  fileout = sys.argv[2]
+ filein1 = sys.argv[3]  # copy of mw.txt
+ fileout1 = sys.argv[4] # org-mode form, using also filein
  lines = read_lines(filein)
  recs = init_recs(lines)
+ recs1 = sorted(recs, key = lambda rec: float(rec.lnum))
+ # reset rec.n
+ for irec,rec in enumerate(recs1):
+  rec.n = irec + 1
+ #for rec in recs1[:5]:
+ # print(rec.lnum)
+ #exit(1)
  # print(len(recs),"CFR records")
- outrecs = [parse_correction(rec) for rec in recs]
+ outrecs = [parse_correction(rec) for rec in recs1]
  write_outrecs(fileout,outrecs)
- 
+ mwlines = read_lines(filein1)
+ mwnewlines = mark_mwlines(mwlines,recs1)
+ write_lines(fileout1,mwnewlines)
+ # now 

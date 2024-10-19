@@ -885,7 +885,7 @@ Case 119: 10/10/2024 dict=MW, L=38944.1, hw=ṛddhilakṣmī, user=srhodes
 old = Headword Missing
 new = Please add the Headword "ṛddhyabhisaṃskāra" to the Hierarchy Listing of words (as a searchable Headword). It has been mistakenly included with the definition of the Headword "ṛddhilakṣmī". Of course a unique [Id. number] will have to be added to the Headword "ṛddhyabhisaṃskāra", along with the definition displayed as follows: "(°dhy)-abkisaṃskāra, m. a phantom produced by magical art, Jātakam."  Also, please include the "circle-S" symbol to this newly added Headword. 1008 points!
 comment = Headword Missing
-status = PENDING
+status = done
 
 old:
 <L>38944.1<pc>1323,1<k1>fdDilakzmI<k2>f/dDi—lakzmI<e>3
