@@ -396,6 +396,15 @@ sync this csl-corrections repo to Github and cologne.
 
 This finishes Jim's work on corrections_mw_not_abbrev.txt
 --------------------------------------------------------
+
+python parse_corrections1.py temp_cfr_1_scott_double.txt corrections_scott_double.txt temp_mw_1.txt temp_mw_1_work.txt
+580 lines read from temp_cfr_1_scott_double.txt
+4060 lines written to corrections_double.txt
+877277 lines read from temp_mw_1.txt
+877277 lines written to temp_mw_1_work.txt
+
+
+--------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 
 1 PUI, 2 AP90, 6 SHS
