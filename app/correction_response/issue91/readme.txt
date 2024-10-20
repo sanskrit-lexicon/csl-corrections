@@ -396,6 +396,43 @@ sync this csl-corrections repo to Github and cologne.
 
 This finishes Jim's work on corrections_mw_not_abbrev.txt
 --------------------------------------------------------
+10-20-2024
+More wrongly marked abbreviations using °
+Manual Emacs work derived a list of line-numbers with these texts.
+Next program makes prototype change records
+python make_change_abbrev.py temp_mw_1.txt changes_abbrev.txt
+# manual edit changes_abbrev.txt
+
+python updateByLine.py temp_mw_1.txt changes_abbrev.txt temp_mw_2.txt
+877277 lines read from temp_mw_1.txt
+877277 records written to temp_mw_2.txt
+557 lines changed
+
+# local install temp_mw_2.txt
+cp temp_mw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See changes_abbrev.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+
+sync csl-orig at Cologne.
+regenerate mw displays at Cologne.
+
+sync this repo.
+--------------------------------------------------------
+--------------------------------------------------------
+--------------------------------------------------------
 
 python parse_corrections1.py temp_cfr_1_scott_double.txt corrections_scott_double.txt temp_mw_1.txt temp_mw_1_work.txt
 580 lines read from temp_cfr_1_scott_double.txt

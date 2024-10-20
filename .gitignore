@@ -4,3 +4,4 @@
 temp*
 app/correction_response/cfr-*.tsv
 app/correction_response/*.zip
+__pycache__
