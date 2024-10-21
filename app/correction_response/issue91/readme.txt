@@ -485,7 +485,38 @@ cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
 regenerate mw displays at Cologne.
 
 sync this repo.
+--------------------------------------------------------
+10-21-2024
+corrections_scott_alpha.txt
 
+python parse_corrections1.py temp_cfr_1_scott_alpha.txt corrections_mw_alpha.txt temp_mw_3.txt temp_mw_3_work.txt
+38 lines read from temp_cfr_1_scott_alpha.txt
+
+python remove_markup.py temp_mw_3_work.txt temp_mw_4.txt
+
+# local install temp_mw_4.txt
+cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# xxxx sh temp_redo_4.sh  (does the steps above in a script)
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_mw_alpha.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+
+#sync csl-orig at Cologne.
+regenerate mw displays at Cologne.
+
+sync this repo.
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 
