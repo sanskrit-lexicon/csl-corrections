@@ -230,6 +230,7 @@ Another example : vigraha cpds.
 768 matches in 766 lines for "</s> <ab>g.</ab>"
  Should all these be changed to "</s>, <ab>g.</ab>"  (comma)?
  (Case 97)
+NOTE: 10-20-2024 Changes made in temp_mw_3.txt. See below
 ----
 
 
@@ -296,6 +297,7 @@ Possible global change: "</s> See <s>" -> "</s>, see <s>"
 |’ <ab>cf.</ab>| -> |’, <ab>cf.</ab>|  possible global chg.
 7 matches for "’, <ab>cf.</ab>"
 37 matches for "’ <ab>cf.</ab>"
+Note: 10-20-2024.  Changes made in temp_mw_3.txt. See below
 ----
 ' = prec.' in supplement entries. See Case 141 चीवरवत् for discussion.
 ---
@@ -415,7 +417,6 @@ sh generate_dict.sh mw  ../../mw
 sh xmlchk_xampp.sh mw
 # ok  No problems noticed
 cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
-cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
 
 # push csl-orig to github
 cd /c/xampp/htdocs/cologne/csl-orig
@@ -431,15 +432,59 @@ regenerate mw displays at Cologne.
 
 sync this repo.
 --------------------------------------------------------
---------------------------------------------------------
---------------------------------------------------------
 
 python parse_corrections1.py temp_cfr_1_scott_double.txt corrections_scott_double.txt temp_mw_1.txt temp_mw_1_work.txt
 580 lines read from temp_cfr_1_scott_double.txt
 4060 lines written to corrections_double.txt
 877277 lines read from temp_mw_1.txt
 877277 lines written to temp_mw_1_work.txt
+Note: no changes accepted.
 
+--------------------------------------------------------
+temp_mw_3.txt
+cp temp_mw_2.txt temp_mw_3.txt
+# manual changes
+1. "</s> <ab>g.</ab>" -> "</s>, <ab>g.</ab>"
+763 matches in 761 lines for "</s> <ab>g.</ab>"
+ 20 matches for "</s>, <ab>g.</ab>"
+A small sample checked with print.
+Conclusion, comma should be added in the 763.
+
+2. |’ <ab>cf.</ab>| -> |’, <ab>cf.</ab>|
+
+9 matches for "’, <ab>cf.</ab>"
+35 matches for "’ <ab>cf.</ab>"
+
+3. Correct three mistakes from temp_mw_2.txt
+<ab n="m°undane"> -> <ab n="mundane">
+<ab n="astr°ingent"> -> <ab n="astringent">
+<ab n="n°orth">n°orth</ab> -> <ab n="north">n°</ab>
+
+# generate change file
+python diff_to_changes_dict.py temp_mw_2.txt temp_mw_3.txt changes_mw_3.txt
+799 changes written to changes_mw_3.txt
+
+# local install temp_mw_3.txt
+cp temp_mw_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See changes_mw_3.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+
+#sync csl-orig at Cologne.
+regenerate mw displays at Cologne.
+
+sync this repo.
 
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
