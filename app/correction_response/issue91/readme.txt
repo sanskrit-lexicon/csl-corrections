@@ -517,6 +517,75 @@ cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
 regenerate mw displays at Cologne.
 
 sync this repo.
+
+--------------------------------------------------------
+10-22-2024
+corrections_scott_insert.txt
+
+python parse_corrections1.py temp_cfr_1_scott_insert.txt corrections_mw_insert.txt temp_mw_4.txt temp_mw_4_work.txt
+# 162 lines read from temp_cfr_1_scott_insert.txt
+
+Add special markup where needed:
+
+  <listinfo n="sup"/> (all circle-S);
+  <listinfo n="rev"/> (not used in this insert file circle-R)
+  
+Modify code to generate circle-S from <listinfo n="sup"/>
+  csl-websanlexicon (listhierview.php)  [ for list display]
+  csl-apidev (listhierClass.php)
+ 
+python remove_markup.py temp_mw_4_work.txt temp_mw_5.txt
+
+# local install temp_mw_5.txt
+cp temp_mw_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# xxxx sh temp_redo_5.sh  (does the steps above in a script)
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_mw_insert.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-websanlexicon to github
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+git add .
+git commit -m "MW: See corrections_mw_insert.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-apidev to github
+cd /c/xampp/htdocs/cologne/csl-apidev
+git add .
+git commit -m "MW: See corrections_mw_insert.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-pywork to github
+cd /c/xampp/htdocs/cologne/csl-pywork
+git add .
+git commit -m "MW: See corrections_mw_insert.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------
+#sync csl-orig at Cologne.
+also csl-websanlexicon, csl-apidev, and csl-pywork/
+
+# regenerate mw displays at Cologne.
+
+sync this repo.
+
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 

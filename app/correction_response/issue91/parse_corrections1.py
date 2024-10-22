@@ -335,6 +335,31 @@ def  mark_mwlines(mwlines,recs1):
    
  return newlines
 
+def get_Ldict(mwlines):
+ d = {}
+ for iline,line in enumerate(mwlines):
+  m = re.search(r'^<L>(.*?)<pc>(.*?)<',line)
+  if m == None:
+   continue
+  # metaline
+  L = m.group(1)
+  if L in d:
+   print('get_Ldict duplicate:',L)
+  d[L] = True
+ return d
+
+def check_L(mwlines,recs):
+ d = get_Ldict(mwlines)
+ n = 0
+ for rec in recs:
+  L = rec.lnum
+  if L not in d:
+   print('check_L: L not found in mw',L)
+   print(rec.line)
+   print()
+   n = n + 1
+ print('check_L finds %s unknown L' % n)
+
 if __name__=="__main__":
  filein = sys.argv[1]
  fileout = sys.argv[2]
@@ -346,13 +371,11 @@ if __name__=="__main__":
  # reset rec.n
  for irec,rec in enumerate(recs1):
   rec.n = irec + 1
- #for rec in recs1[:5]:
- # print(rec.lnum)
- #exit(1)
  # print(len(recs),"CFR records")
  outrecs = [parse_correction(rec) for rec in recs1]
  write_outrecs(fileout,outrecs)
  mwlines = read_lines(filein1)
  mwnewlines = mark_mwlines(mwlines,recs1)
  write_lines(fileout1,mwnewlines)
+ check_L(mwlines,recs1)
  # now 
