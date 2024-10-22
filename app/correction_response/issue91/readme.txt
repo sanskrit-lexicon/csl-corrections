@@ -585,6 +585,9 @@ also csl-websanlexicon, csl-apidev, and csl-pywork/
 # regenerate mw displays at Cologne.
 
 sync this repo.
+git add .
+git commit -m "#91 See corrections_mw_insert.txt"
+git push
 
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
