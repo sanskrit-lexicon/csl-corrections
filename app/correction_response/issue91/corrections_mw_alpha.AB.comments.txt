@@ -1,0 +1,216 @@
+* DONE case 4: 08/28/2024 dict=MW, L=1366.1, hw=aghaya, user=srhodes
+old = Alphabetical Placement Error
+new = The supplemental insertion of this Headword may be better placed just before the word "aghala" in the Hierarchical listing of words. The confirmation of this correction can be understood from the placement of the denominative form "aghāya" which occurs in the main entry after the word "aghala". This proves that the proper placement of the denominative "aghaya" should come just before the word "aghala" in the main entry Hierarchy listing.
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>1378.1<pc>1309,1<k1>aGaya<k2>aGaya<e>2
+AB (iast):	<L>1377.1<pc>1309,1<k1>aghaya<k2>aghaya<e>2
+
+AB comment: Jim has erred in relocating the entry.
+Jim revised: corrected
+------------------------------------------------------------------------
+
+* DONE case 5: 08/28/2024 dict=MW, L=1473.3, hw=aṅkūraya, user=srhodes
+old = Alphabetical Placement Error
+new = The supplemental insertion of this Headword may be better placed just after the word "aṅkulī" in the Hierarchical listing of words. The absolute proof of this correction is as follows:  the word "aṅkulī" itself is a supplemental insertion, and the word "aṅkūraya" follows the word "aṅkulī" in the supplemental section. Therefore, when these two words are inserted into the main entry their alphabetical placement relative to each other must be respected!
+comment = Alphabetical Placement Error
+status = done.  debatable
+
+Jim (slp1):	<L>1473.5<pc>1309,2<k1>aNkUraya<k2>aNkUraya<e>2
+AB (iast):	<L>1482.1<pc>1309,2<k1>aṅkūraya<k2>aṅkūraya<e>2
+
+AB comment: This new placing is NOT debatable, I guess!
+Jim revised: Done
+------------------------------------------------------------------------
+
+* DONE case 7: 08/31/2024 dict=MW, L=37251.1, hw=urogrīva, user=srhodes
+old = Alphabetical Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "urograha [ID=37281]" in the Hierarchical listing of words.
+comment = Alphabetical Placement Error
+status = done
+
+AB comment:
+This should better be left under "uras" group as a comp. word, as listed in the annexure by MW editors.
+Jim: done -- moved under uras group of body (37251.1, after uras-vat).  Debatable.
+
+Though it could be under "uro" group as a comp. word as suggested by Scott, the "uro" group occurs much later alphabetically; and, there are couple of other entries (incl. one group)  listed in the annexure prior to it.
+So we have to respect the relative placement (sequence) of the supplemental entries, which "principle" is also at the back of Scott's mind!
+[Incidentally, this "uras" group at annexure has two "uraḥ-" comp. words as well, though the "uraḥ" group occurs subsequently as a different Entry-head in the main pages; wonder, how Scott missed these two!!]
+
+And it may be seen that there are few other such groupings (°ḥ- & °o- comp. words) under "°s-" entry; as at 
+--(no °s- comp. words) "atas", "adas", "anyatas" and "okas"
+--(with °s- comp. words, where °ḥ-° precedes °s-°) "adhas" and "tatas" [the current suppl. group "uras" also belongs to this set, but listing °s-° before the °ḥ-°; so we might consider relocating those two entries accordingly.]
+------------------------------------------------------------------------
+
+* DONE case 8: 08/12/2024 dict=MW, L=38094.1, hw=ūrṇāyu, user=srhodes
+old = Alphabetical Placement Error
+new = This Headword (which is a supplemental insertion) should be placed before the word "ūrṇuta" in the Hierarchical listing of words. The reason for this is because, the word "ūrṇāyu" is not a simple compound, but rather a derivative form, and therefore it must be placed after the proper compounds which are simply formed from the initial word "ūrṇā".
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>38102.5<pc>1322,3<k1>UrRAyu<k2>UrRAyu/<e>3
+AB (iast):	<L>38102<pc>1322,3<k1>ūrṇāyu<k2>ūrṇāyú<e>2
+
+AB comment: cf. "ūrṇodara" at case 11 (ending lines) below.
+Jim revised : done.  put the 7 UrRAyu entries between the last UrRA compound (UrRodara) and UrRuta.
+
+
+------------------------------------------------------------------------
+
+* NOTDONE case 11: 08/12/2024 dict=MW, L=38102.2, hw=ūrṇālaṃkṛtamukhatā , user=srhodes
+old = Alphabetical Placement Error
+new = This Headword (which is a supplemental insertion) should be placed BEFORE the word "ūrṇāvat" in the Hierarchical listing of words.
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>38094.3<pc>1322,3<k1>UrRAlaMkftamuKatA<k2>UrRAlaMkfta-muKatA<e>3
+AB (iast):	<L>38101.1<pc>1322,3<k1>ūrṇālaṃkṛtamukhatā<k2>ūrṇā<srs/>laṃkṛta-mukhatā<e>3 ;; this has sandhi (implied) at the beginning, so must be after all the samAsa comp. words
+
+And hence the next-entry,
+Jim (slp1):	<L>38102<pc>222,1<k1>ūrṇodara<k2>ūrṇodara<e>3
+AB (iast):	<L>38101.2<pc>222,1<k1>ūrṇodara<k2>ūrṇodara<e>3
+
+Jim revised:  NOT done.  The implied sandhi is not relevant for this placement:
+   sandhi (implied) UrRAlaMkfta = UrRA-alaMkfta
+   Look at gaNgA (p. 341) cpds.  
+   e.g. gaNgA-dAsa <  gaNgAditya  gaNgA-Aditya < gaNgA-devI  
+  
+
+
+------------------------------------------------------------------------
+
+* DONE case 18: 08/13/2024 dict=MW, L=45681.2, hw=kalārūpiṇī, user=srhodes
+old = Alphabetical Placement Error
+new = The supplemental insertion of this Headword may be better placed after the word "kalārūpa" in the Hierarchical listing of words. Please bear in mind that this word "kalārūpiṇī" is stated to be a compound formed from "kalā" and therefore naturally would follow alphabetically after the word "kalārūpa" in the main entry. Also, there is the consideration of an "indentation" of the word "kalārūpiṇī" following after the word "kalārūpa" (according to your discernment).
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>45873.1<pc>1324,1<k1>kalArUpiRI<k2>kalA—rUpiRI<e>3
+AB (iast):	<L>45841.2<pc>1324,1<k1>kalārūpiṇī<k2>kalā—rūpiṇī<e>3
+
+AB comment: This should go together with "kalāṃśarūpiṇī" being a grouped entry, meaning (a) partial [kalāṃśa-rūpiṇī] or (b) full [kalā-rūpiṇī] form of "kalā".
+[cf. AB comment at case 24 below.]
+
+Jim revised:
+ Agree that cdsl has missed this group
+old:
+<L>45841.1<pc>1324,1<k1>kalAMSarUpiRI<k2>kal—AMSa-rUpiRI<e>4
+<s>kalA<srs/>—°MSa-rUpiRI</s> ¦ <lex>f.</lex> <ab>N.</ab> of <ab>partic.</ab> female personification, <ls>RTL. 187</ls><info n="sup"/><info lex="f"/>
+<LEND>
+<L>45873.1<pc>1324,1<k1>kalArUpiRI<k2>kalA—rUpiRI<e>3
+<s>kalA—rUpiRI</s> ¦ <lex>f.</lex> <ab>N.</ab> of <ab>partic.</ab> female personification, <ls>RTL. 187</ls><info n="sup"/><info lex="f"/>
+<LEND>
+
+NEW:
+<L>45841.1<pc>1324,1<k1>kalAMSarUpiRI<k2>kal—AMSa-rUpiRI<e>4
+<s>kalA<srs/>—°MSa-rUpiRI</s> and <s>kalA—rUpiRI</s> ¦ <lex>f.</lex> <ab>N.</ab> of <ab>partic.</ab> female personification, <ls>RTL. 187</ls><info n="sup"/><info lex="f"/>
+<LEND>
+<L>45841.2<pc>1324,1<k1>kalArUpiRI<k2>kalA—rUpiRI<e>4
+{{Lbody=45841.1}}
+<LEND>
+
+Here I have kept the group together, per AB suggestion.  
+
+
+------------------------------------------------------------------------
+
+* DONE GROUP case 24: 08/13/2024 dict=MW, L=60760.2, hw=khapariḍīṇaka, user=srhodes
+old = Alphabetical Placement Error
+new = The supplemental insertion of this Headword may be better placed after the word "khaparāga" in the Hierarchical listing of words.
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>60775.1<pc>1325,3<k1>KapariqIRaka<k2>Ka—pariqIRaka<e>3
+
+AB comment: Jim may recall that it was "decided" to keep the grouped entries together (and not far apart). As such, this has to be put back at 60760.2!!
+[Of course, Jim is "at liberty" to work with split thoughts against a single concept (at diferent places), instead of a consistent and common thought (throughout the work) as AB intends.]
+
+Jim revised: done
+----------------------------------------------------------------------
+
+* DONE GROUP case 27: 08/13/2024 dict=MW, L=60813.2, hw=khādhvanīna, user=srhodes
+old = Alphabetical Placement Error
+new = The supplemental insertion of this Headword may be better placed just before the word "khāpagā" in the Hierarchical listing of words.
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>60814.1<pc>1325,3<k1>KADvanIna<k2>KADvanIna<e>3
+
+AB comment: This is similar to case 24 above, and is to be put back at 60813.2!
+[Of course, Jim is "at liberty" to work with split thoughts against a single concept (at diferent places), instead of a consistent and common thought (throughout the work) as AB intends.]
+
+Jim revised: done
+------------------------------------------------------------------------
+
+* DONE GROUP case 30: 08/07/2024 dict=MW, L=66726.2, hw=gṛhītadhanus, user=srhodes
+old = Alphabetical Placement Error
+new = This Headword (which is a supplemental insertion) would be better placed below the word "gṛhītadeha" in the Hierarchical listing of words.
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>66730.1<pc>1326,2<k1>gfhItaDanus<k2>gfhIta—Danus<e>3
+
+AB comment: This is similar to case 24 above, and is to be put back at 66726.2!
+[Of course, Jim is "at liberty" to work with split thoughts against a single concept (at diferent places), instead of a consistent and common thought (throughout the work) as AB intends.]
+
+Jim revised: done
+
+------------------------------------------------------------------------
+
+* DONE GROUP case 31: 08/07/2024 dict=MW, L=66726.3, hw=gṛhītadhanvan, user=srhodes
+old = Alphabetical Placement Error
+new = This Headword (which is a supplemental insertion) would be better placed below the word "gṛhītadeha" (and after the word 'gṛhītadhanus') in the Hierarchical listing of words.
+comment = Alphabetical Placement Error
+status = done. This is interesting because gfhItaDanus and gfhItaDanvan are 
+  alternate headwords of 66726.1 gfhItacApa, and these two words are
+  moved from their former spot after 66726.1 to the alphabetically better spot.
+
+Jim (slp1):	<L>66730.2<pc>1326,2<k1>gfhItaDanvan<k2>gfhIta—Danvan<e>3
+
+AB comment: This is similar to case 24 above, and is to be put back at 66726.3!
+[Of course, Jim is "at liberty" to work with split thoughts against a single concept (at diferent places), instead of a consistent and common thought (throughout the work) as AB intends.]
+
+Jim revised: done
+
+------------------------------------------------------------------------
+
+* DONE case 35: 08/31/2024 dict=MW, L=174360.1, hw=ratnamañjarī, user=srhodes
+old = Alphabetical Placement Error
+new = The supplemental insertion of this Headword should be placed before the word "ratnamati" in the Hierarchical listing of words.
+comment = Alphabetical Placement Error
+status = done, but placed after main body ratnamaYjarI 
+
+AB comment: This, in fact, should go as a suppl. revision of 174357 and not as a suppl. addition (174357.1).
+[There are more such "sup" entries that are to be made as "rev" entries in the CDSL text.]
+
+Jim revised: rewrite as a rev
+old:
+<L>174357<pc>864,3<k1>ratnamaYjarI<k2>ratna—maYjarI<e>3A
+¦ of <ab>wk.</ab><info lex="inh"/>
+<LEND>
+<L>174357.1<pc>1331,3<k1>ratnamaYjarI<k2>ratna—maYjarI<e>3
+<s>ratna—maYjarI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <lang>Sanskṛt</lang> translation of the <s1>Karpūra-mañjarī</s1><info n="sup"/><info lex="f"/><info hui="b"/>
+<LEND>
+
+new:
+<L>174357<pc>864,3<k1>ratnamaYjarI<k2>ratna—maYjarI<e>3A
+¦ <chg type="chg" n="1" src="mw"><old>of <ab>wk.</ab></old><new><ab>N.</ab> of a <lang>Sanskṛt</lang> translation of the <s1>Karpūra-mañjarī</s1><info n="rev" pc="1331,3"/></new></chg><info lex="inh"/>
+<LEND>
+(174357.1 removed)
+------------------------------------------------------------------------
+
+* DONE 36: 08/15/2024 dict=MW, L=179469.1, hw=rephalakāropānta, user=srhodes
+old = Alphabetical Placement Error LB 
+new = The supplemental insertion of this Headword may be better placed just before the word "rephavat" in the Hierarchical listing of words. It certainly does not make sense to insert this word "rephalakāropānta" after "repha b" which itself is simply an "alias pointer" to the "real deal". Will the real "repha", please stand up?
+comment = Alphabetical Placement Error
+status = done
+
+Jim (slp1):	<L>178094.1<pc>1332,1<k1>rePalakAropAnta<k2>rePa-lakAropAnta<e>2
+AB (iast):	<L>178097.1<pc>1332,1<k1>rephalakāropānta<k2>repha-lakāropānta<e>2
+
+AB comment: Jim has to either (a) keep at 178094.1 & change <e>2 to <e>3  or (b) relocate to 178097.1 & keep <e>2 as in the AB version.
+[No entry-block (print paragraph) has <e>1 [Devanagari (the very first word) with Roman italic] and <e>2 [Roman bold] rendered together anywhere in the whole work; they only occur at the beginning of the entry-block (print paragraph) and the entries inside the block will always be <e>3 (in bold letters) or <e>4 (in italics) in the main pages.]
+
+Jim revised:  change to <e>3 and keep at 178094.1, among the compounds of rePa
+------------------------------------------------------------------------

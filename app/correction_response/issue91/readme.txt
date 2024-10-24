@@ -590,6 +590,42 @@ git commit -m "#91 See corrections_mw_insert.txt"
 git push
 
 --------------------------------------------------------
+10-22-2024 corrections_mw_alpha.AB.comments
+cp temp_mw_5.txt temp_mw_6.txt
+Manual edit temp_mw_6.txt and process AB's corrections
+
+# local install temp_mw_6.txt
+cp temp_mw_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_mw_alpha.AB.comments.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------
+#sync csl-orig at Cologne.
+# regenerate mw displays at Cologne.
+
+sync this repo.
+git add .
+git commit -m "#91 See corrections_mw_alpha.AB.comments.txt"
+git push
+
+--------------------------------------------------------
+TODO
+temp_cfr_extra_20241011.txt  (286 instances)
+
+Scott's corrections to MW from 10-11-2024 through 10-22-2024.
+
+--------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 
 1 PUI, 2 AP90, 6 SHS
