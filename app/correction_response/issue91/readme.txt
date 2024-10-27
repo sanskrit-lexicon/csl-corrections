@@ -619,11 +619,69 @@ git add .
 git commit -m "#91 See corrections_mw_alpha.AB.comments.txt"
 git push
 
---------------------------------------------------------
-TODO
-temp_cfr_extra_20241011.txt  (286 instances)
 
-Scott's corrections to MW from 10-11-2024 through 10-22-2024.
+--------------------------------------------------------
+10-24-2024
+10/23/2024 04:08:07	AP90	19097	puṇya	demon. goblin	demon, goblin	Typo	srhodes@snowcrest.net
+
+TODO Scott's MW submissions from 10-11-2024 through 10-24-2024. 
+temp_cfr_extra1.txt  (321 instances)
+
+python separate.py insert temp_cfr_extra1.txt temp_cfr_extra1_insert.txt temp_cfr_extra1_not_insert.txt
+321 lines read from temp_cfr_extra1.txt
+321 CFR records
+157 lines written to temp_cfr_extra1_insert.txt
+164 lines written to temp_cfr_extra1_not_insert.txt
+
+python parse_corrections1.py temp_cfr_extra1_insert.txt corrections_mw_extra1_insert.txt temp_mw_6.txt temp_mw_6_work.txt
+
+# manual edit corrections_mw_extra1_insert.txt
+# manual edit temp_mw_6_work.txt
+  add <listinfo n="sup"/> to a parent
+
+Revise csl-websanlexicon and csl-apidev (example Aroha, with both circle-R and circle-S)
+# remake temp_mw_7.txt from temp_mw_6_work.txt (remove markup)
+# copy version 7 to csl-orig, and remake local displays.
+sh temp_redo_7.sh
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See  at corrections_mw_extra1_insert.txt
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-websanlexicon to github
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+git add .
+git commit -m "MW: list display. Allow circle-R circle-S
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-apidev to github
+cd /c/xampp/htdocs/cologne/csl-apidev
+git add .
+git commit -m "MW: list display. Allow circle-R circle-S
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------
+#sync csl-orig at Cologne.
+also csl-websanlexicon, csl-apidev
+
+#sync this repo.
+git add .
+git commit -m "#91 See "corrections_mw_extra1_insert.txt"
+git push
+
+--------------------------------------------------------
+10-26-2024.  Identify other 'insert' examples
+python search_insert.py 1 temp_mw_7.txt change_search_insert_1.txt
+# 357 instances
+python updateByLine.py temp_mw_7.txt change_search_insert_1.txt temp_mw_8a.txt
 
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt

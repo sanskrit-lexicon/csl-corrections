@@ -1,0 +1,1130 @@
+<listinfo n="sup"/>  - added where needed
+* case 1: 10/17/2024 dict=MW, L=842.1, hw=agāra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 2: 10/24/2024 dict=MW, L=13214.1, hw=abhyantara, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = nothing to do
+------------------------------------------------------------------------
+
+* case 3: 10/24/2024 dict=MW, L=13287.1, hw=abhyavagāh, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 4: 10/24/2024 dict=MW, L=13313.1, hw=abhyavahāra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 5: 10/24/2024 dict=MW, L=13452.1, hw=abhyārūḍha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 6: 10/24/2024 dict=MW, L=13611.1, hw=abhyupapatti, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 7: 10/24/2024 dict=MW, L=13877.1, hw=amarī, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 8: 10/24/2024 dict=MW, L=13882.3, hw=amaragiri, user=srhodes
+old = Two Supplemental Words – But One Headword!
+new = Two Supplemental Words – But One Headword! LB Here is the definition: "a-mara—giri (Kālac.), -parvata (Hcat.), m. Mount Meru [ID=13882.3 sup]". It appears that the word "a-mara-parvata, m. Mount Meru" is a Headword in its own right. And therefore, in my opinion, this supplementary definition should be correctly moved to the Window Display of the Headword "amaraparvata [ID=13898]". This is simply "common sense" when inserting "words and definitions" into the Main Entry. This is an interesting mistake, and I would like to hear what  Andhrabharati has to say, but since he has announced that he will not be "publicly" participating, then this one is just between Jim and Scott! Of course, please add the "circle-S" Supplemental Insertion Symbol to the right side of this Headword "amaraparvata" in the Hierarchy List Display. Also, please be sure to add the "circle-S" Supplemental Insertion Symbol to my previous Headword correction: "amararāja".
+comment = Two Supplemental Words – But One Headword!
+status = Rewrite as a group
+old:
+<L>13882.3<pc>1315,3<k1>amaragiri<k2>a-mara—giri<e>3
+<s>a-mara—giri</s> ¦ (<ls>Kālac.</ls>), <s>-parvata</s> (<ls>Hcat.</ls>), <lex>m.</lex> Mount <s1>Meru</s1><info n="sup"/><info lex="m"/>
+<LEND>
+
+new: 
+L>13882.3<pc>1315,3<k1>amaragiri<k2>a-mara—giri<e>3
+<s>a-mara—giri</s>, (<ls>Kālac.</ls>), <s>-parvata</s> (<ls>Hcat.</ls>), ¦ <lex>m.</lex> Mount <s1>Meru</s1><info n="sup"/><info lex="m"/>
+<LEND>
+<L>13882.4<pc>1315,3<k1>amaraparvata<k2>a-mara—parvata<e>3
+{{Lbody=13882.3}}
+* <LEND>
+------------------------------------------------------------------------
+
+* case 9: 10/23/2024 dict=MW, L=14192.1, hw=amūlā, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 10: 10/23/2024 dict=MW, L=14352.1, hw=amogha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 11: 10/23/2024 dict=MW, L=14394.1, hw=ambaka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 12: 10/23/2024 dict=MW, L=14919.1, hw=ayukpādayamaka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 13: 10/23/2024 dict=MW, L=14948.1, hw=ayaugika, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 14: 10/22/2024 dict=MW, L=15040, hw=arajaska, user=srhodes
+old = Revision Error
+new = Please note that I consider this to be a Supplementary Addition. Here is the reasoning: 1) The Main Entry definition originally reads: "mfn. dustless ; without the quality called rajas, NṛsUp." ;  2) The Supplemental Entry reads: "(also) dustless, HPariś. ; free from impurity (others, ‘meek, gentle), Bcar.  ii,5.". ;  3) Please note the use of the word "(also)" which establishes that this is Supplementary and NOT Revisionary. In other words, the definition "dustless" is being additionally cited here: "HPariś." ;  Therefore, I would: 1) remove the "Revision Labeling"; 2) Retain the original definition; 3) Add only the Supplementary Definition on a single line to read: "(also) dustless, HPariś. ; free from impurity (others, ‘meek, gentle), Bcar.  ii,5. [ID=15040.2 sup]". Also you may choose to update the ID number?. And finally, Please remove the "circle-R" symbol and add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. (Super-Duper-kaching!)
+comment = Revision Error
+status = done
+------------------------------------------------------------------------
+
+* case 15: 10/22/2024 dict=MW, L=15040.2, hw=arajaska, user=srhodes
+old = Revision Error
+new = Please note that I consider this to be a Supplementary Addition. Here is the reasoning: 1) The Main Entry definition originally reads: "mfn. dustless ; without the quality called rajas, NṛsUp." ;  2) The Supplemental Entry reads: "(also) dustless, HPariś. ; free from impurity (others, ‘meek, gentle), Bcar.  ii,5.". ;  3) Please note the use of the word "(also)" which establishes that this is Supplementary and NOT Revisionary. In other words, the definition "dustless" is being additionally cited here: "HPariś." ;  Therefore, I would: 1) remove the "Revision Labeling"; 2) Retain the original definition; 3) Add only the Supplementary Definition on a single line to read: "(also) dustless, HPariś. ; free from impurity (others, ‘meek, gentle), Bcar.  ii,5. [ID=15040.2 sup]". Also you may choose to update the ID number?. And finally, Please remove the "circle-R" symbol and add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. (Super-Duper-kaching!)
+comment = Revision Error
+status = done
+------------------------------------------------------------------------
+
+* case 16: 10/22/2024 dict=MW, L=15060.1, hw=araṇi, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 17: 10/22/2024 dict=MW, L=15163.1, hw=aradhra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 18: 10/23/2024 dict=MW, L=15183.1, hw=araṃgama, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 19: 10/22/2024 dict=MW, L=15240.1, hw=arāṭakī, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 20: 10/22/2024 dict=MW, L=15242.1, hw=arāḍa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 21: 10/22/2024 dict=MW, L=15389.11, hw=ariṣṭaka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = nothing to do
+------------------------------------------------------------------------
+
+* case 22: 10/22/2024 dict=MW, L=15419.1, hw=aruṇa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 23: 10/22/2024 dict=MW, L=15520.1, hw=arūpa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 24: 10/22/2024 dict=MW, L=15566.1, hw=aromaśa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 25: 10/22/2024 dict=MW, L=16062.1, hw=arthāpaya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 26: 10/21/2024 dict=MW, L=16361.1, hw=arbuda, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. 
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 27: 10/21/2024 dict=MW, L=16376.1, hw=arbhaka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.  LB Also, is it correct to presume that the Poet cited here was considered to be an "idiot", based on the Main Entry definition of his name? Please comment....
+comment = Supplemental Insertion – Missing Symbol
+status = done  Jim: would need the context of Subh. literary source.
+------------------------------------------------------------------------
+
+* case 28: 10/21/2024 dict=MW, L=16592.1, hw=alabhya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 29: 10/21/2024 dict=MW, L=16606.1, hw=alaṃkāra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 30: 10/21/2024 dict=MW, L=16764.2, hw=alīka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, please note that since this word is specifically the feminine form "alīkā", you may consider adding it as a "searchable" Headword into the Hierarchy List.
+comment = Supplemental Insertion – Missing Symbol
+status = nothing to do  16764.2 is alIkA  (not alIka)
+------------------------------------------------------------------------
+
+* case 31: 10/21/2024 dict=MW, L=16788.1, hw=alūna, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 32: 10/21/2024 dict=MW, L=16915.1, hw=alpālpa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 33: 10/21/2024 dict=MW, L=16930.1, hw=alpakāt, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 34: 10/20/2024 dict=MW, L=16947.1, hw=avana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 35: 10/21/2024 dict=MW, L=16964.1, hw=avakara, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 36: 10/21/2024 dict=MW, L=17023.1, hw=avakeśin, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 37: 10/21/2024 dict=MW, L=17079.1, hw=avakhāda, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 38: 10/21/2024 dict=MW, L=17099.1, hw=avagamana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 39: 10/21/2024 dict=MW, L=17154.1, hw=avagraha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 40: 10/21/2024 dict=MW, L=17323.1, hw=avatarpaṇa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 41: 10/20/2024 dict=MW, L=17343.1, hw=avatāra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 42: 10/20/2024 dict=MW, L=17368.1, hw=avatka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 43: 10/20/2024 dict=MW, L=17435.1, hw=avadraṅga, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done. and move 17435.1 to 17297.2
+------------------------------------------------------------------------
+
+* case 44: 10/20/2024 dict=MW, L=17450.1, hw=avadhāna, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 45: 10/20/2024 dict=MW, L=17721.1, hw=avabharjita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 46: 10/20/2024 dict=MW, L=17802.1, hw=avamocana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 47: 10/20/2024 dict=MW, L=18076.1, hw=avalopa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 48: 10/20/2024 dict=MW, L=18096.1, hw=avalokita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, you may (or may not) choose to relocate this definition directly following the "masculine" definition in which case the ID number would be changed to [ID=18094.1 sup].
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 49: 10/20/2024 dict=MW, L=18139.01, hw=avaśya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 50: 10/20/2024 dict=MW, L=18312.1, hw=avasarpaṇa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 51: 10/20/2024 dict=MW, L=18361.1, hw=avaskandana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 52: 10/20/2024 dict=MW, L=18488.1, hw=avācya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 53: 10/20/2024 dict=MW, L=18500.01, hw=avāñc, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 54: 10/20/2024 dict=MW, L=18646.1, hw=avikāra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 55: 10/19/2024 dict=MW, L=18848.1, hw=avina, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 56: 10/19/2024 dict=MW, L=18905.1, hw=avibudha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 57: 10/19/2024 dict=MW, L=18940.1, hw=avimanas, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 58: 10/19/2024 dict=MW, L=18953.1, hw=avimocana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 59: 10/19/2024 dict=MW, L=18953.1, hw=avimocana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done duplicate
+------------------------------------------------------------------------
+
+* case 60: 10/19/2024 dict=MW, L=19032.1, hw=aviśaṅkita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 61: 10/19/2024 dict=MW, L=19160.1, hw=avṛtta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 62: 10/19/2024 dict=MW, L=19234.1, hw=avyakta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 63: 10/19/2024 dict=MW, L=19248.1, hw=avyañjana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 64: 10/19/2024 dict=MW, L=19283.1, hw=avyathin, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 65: 10/19/2024 dict=MW, L=19346.1, hw=avyavastha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 66: 10/19/2024 dict=MW, L=19347.1, hw=avyavasthā, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 67: 10/19/2024 dict=MW, L=19349.1, hw=avyavasthita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 68: 10/19/2024 dict=MW, L=19478.1, hw=aśani, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 69: 10/19/2024 dict=MW, L=19796.1, hw=aśrānta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 70: 10/19/2024 dict=MW, L=20090.1, hw=aśvaka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 71: 10/18/2024 dict=MW, L=20254.1, hw=aṣṭāṅga, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. I understand that you may not choose to implement my previous LONG-WINDED suggestion. So, if you choose to leave things as they are, then at the very least we need to mark this Headword as Supplementary.  I still maintain that in this very rare case, the integration of this Supplementary Reference into the Main Entry simply creates confusion and hence my previous proposal which I believe would clarify things. It reminds of the saying "the spirit of the law" versus "the letter of the law". My proposed solution is in "the spirit ..." (so to speak), whereas keeping things as they are is according to "the letter ...".
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 72: 10/18/2024 dict=MW, L=20254.2, hw=aṣṭādaśa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. I understand that you may not choose to implement my previous LONG-WINDED suggestion. So, if you choose to leave things as they are, then at the very least we need to mark this Headword as Supplementary.  I still maintain that in this very rare case, the integration of this Supplementary Reference into the Main Entry simply creates confusion and hence my previous proposal which I believe would clarify things. It reminds of the saying "the spirit of the law" versus "the letter of the law". My proposed solution is in "the spirit ..." (so to speak), whereas keeping things as they are is according to "the letter ...".
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 73: 10/18/2024 dict=MW, L=20283.1, hw=aṣṭāpada, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 74: 10/18/2024 dict=MW, L=20309.1, hw=aṣṭāṅga, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done.
+------------------------------------------------------------------------
+
+* case 75: 10/18/2024 dict=MW, L=20330.1, hw=aṣṭakyā, user=srhodes
+old = Headword Missing
+new = Please add the Headword "aṣṭakyā" to the Hierarchy Listing of words (as a searchable Headword). It has been mistakenly included along with the Headword "aṣṭakya". Also, please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, please note that the definition stated as, "a cow employed at the A° f° "  SHOULD BE spelled out at least as follows, "a cow employed at the A° festival " (if not in full).
+comment = Headword Missing
+status = done
+------------------------------------------------------------------------
+
+* case 76: 10/18/2024 dict=MW, L=20343.1, hw=aṣṭhi, user=srhodes
+old = aṣṭhi
+new = aṣṭhī
+comment = Typo – Please note that this correction follows the printed text in the Supplementary Section. I did not find this case referenced in the "mw_printchange.txt".  Therefore, I presume that this is a Headword Typo. If you confirm that this is true, then we need to add the Headword "aṣṭhī" along with the "circle-S" Supplemental Insertion Symbol to the right side of this (new) Headword in the Hierarchy List Display. Its location will immediately follow the word "aṣṭhi f. id., L. [ID=20343]"; and the following words “aṣṭhīvat and aṣṭhīvaddaghna” nicely support this correction. (kaching!)
+status = done.  No other dictionary has this word!
+------------------------------------------------------------------------
+
+* case 77: 10/18/2024 dict=MW, L=20367.1, hw=asaṃyatta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 78: 10/18/2024 dict=MW, L=20452.1, hw=asakta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 79: 10/18/2024 dict=MW, L=20472.1, hw=asaṃkīrṇa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 80: 10/18/2024 dict=MW, L=20760.1, hw=asaṃbhava, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 81: 10/18/2024 dict=MW, L=20848.1, hw=asahya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 82: 10/18/2024 dict=MW, L=20911.1, hw=asāra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 83: 10/18/2024 dict=MW, L=20923.1, hw=asi, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 84: 10/17/2024 dict=MW, L=22150.1, hw=ākāśānantyāyatana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 85: 10/17/2024 dict=MW, L=22150.1, hw=ākāśānantyāyatana, user=srhodes
+old = MISSING HEADWORD
+new = Please add the Headword "ākāśānantyāyatanopaga" as a searchable Headword in the Hierarchy List. Also, please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = MISSING HEADWORD
+status = done? added as a 'group'?  This would otherwise be coded as PHW (parenthetical headword) Display not quite right.
+
+new: better display.
+<L>22150.2<pc>1319,1<k1>AkASAnantyAyatanopaga<k2>A-kA—SAnantyAyatanopaga<e>3
+<s>A-kA—°SA<srs/>nantyA<srs/>yatano<srs/>paga</s> ¦ <ab>cf.</ab> <s>AkASAnantyAyatana</s><info n="sup"/>
+<LEND>
+
+
+new: first try (display unsatisfactory with this )
+<L>22150.2<pc>1319,1<k1>AkASAnantyAyatanopaga<k2>A-kA—SAnantyAyatanopaga<e>3B  http://localhost/cologne/csl-apidev/servepdf.php?dict=mw&page=1319,1
+{{Lbody=22150.1}}
+<LEND>
+------------------------------------------------------------------------
+
+* case 86: 10/17/2024 dict=MW, L=22157.1, hw=ākiṃcanya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 87: 10/17/2024 dict=MW, L=22158.1, hw=ākiṃcanyāyatana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 88: 10/17/2024 dict=MW, L=22158.1, hw=ākiṃcanyāyatana, user=srhodes
+old = MISSING HEADWORD
+new = Please Add the Headword "ākiṃcanyāyatanopaga" as a searchable Headword in the Hierarchy List. Also, add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = MISSING HEADWORD
+status = done? Added ..tanopaga as new entry. Displays still not as desired
+
+new:
+<L>22158.2<pc>1319,1<k1>AkiMcanyAyatanopaga<k2>AkiMca—nyAyatanopaga<e>3
+<s>AkiMca—°nyA<srs/>yatano<srs/>paga</s> ¦ <ab>cf.</ab> <s>AkiMcanyAyatana</s><info n="sup"/><info lex="m"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 89: 10/17/2024 dict=MW, L=22206.1, hw=ākṛ, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 90: 10/17/2024 dict=MW, L=22265.1, hw=ākṛṣṭa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 91: 10/17/2024 dict=MW, L=22469.1, hw=ākhaṇḍala, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 92: 10/17/2024 dict=MW, L=22604.1, hw=āgamya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, please note that "technically speaking", this Headword should be split into "āgamya 1" and "āgamya 2". The reason being that this Supplemental Definition is NOT an "indeclinable participle" in nature. Rather it is more akin to an adjective in nature. I understand that you will not make this distinction, but if I were "KING", I would issue a decree that it be so. (kaching!)
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 93: 10/17/2024 dict=MW, L=22639.1, hw=āgāra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 94: 10/17/2024 dict=MW, L=22656.1, hw=āgara, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 95: 10/17/2024 dict=MW, L=22694.1, hw=āgnīdhra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 96: 10/17/2024 dict=MW, L=22718.1, hw=āgneya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, please note that you may choose to "relocate" this supplementary definition within the Display Window. Since it is an "adjective", perhaps it should be placed just after the adjectives (along with an ID number adjustment).
+comment = Supplemental Insertion – Missing Symbol
+status = done. Also moved to 22707.1 (end of adjective entries)
+
+------------------------------------------------------------------------
+
+* case 97: 10/17/2024 dict=MW, L=22847.1, hw=āṅgirasa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done. and moved to 22846.1
+------------------------------------------------------------------------
+
+* case 98: 10/17/2024 dict=MW, L=22902.1, hw=ācarita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 99: 10/17/2024 dict=MW, L=23477.11, hw=ātmakāma, user=srhodes
+old = Double Listing
+new = Please note that the word "ātmakāma" is listed identically TWICE with "a" and "b" as the only point of difference. In my view this is an error and inconsistent with the printed text which makes no such distinction. When "a" = "b" , then it is prudent to Eliminate and Simplify! I propose eliminating the second occurrence. Retain the first instance and remove the label "a"; then add the "circle-S" Supplemental Insertion Symbol to the right side of this Headword in the Hierarchy List Display in its now singular occurrence. (kaching!)
+comment = Double Listing
+status = done. abd <e>3 changed to <e>3A
+------------------------------------------------------------------------
+
+* case 100: 10/16/2024 dict=MW, L=23803.1, hw=ādeya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 101: 10/16/2024 dict=MW, L=23812.1, hw=ādi, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 102: 10/16/2024 dict=MW, L=23871, hw=ādivarāha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 103: 10/16/2024 dict=MW, L=23989.1, hw=ādeśa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 104: 10/16/2024 dict=MW, L=24345.1, hw=ānantarya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 105: 10/15/2024 dict=MW, L=24809.1, hw=āpti, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 106: 10/15/2024 dict=MW, L=24813.1, hw=āpya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 107: 10/16/2024 dict=MW, L=24845.1, hw=āpati, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 108: 10/15/2024 dict=MW, L=25377.1, hw=ābhogin, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 109: 10/15/2024 dict=MW, L=25513.1, hw=āmitra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 110: 10/15/2024 dict=MW, L=25825.1, hw=āyasta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 111: 10/15/2024 dict=MW, L=25834.1, hw=āyasī, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 112: 10/15/2024 dict=MW, L=25849.1, hw=āyāna, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 113: 10/15/2024 dict=MW, L=26225.1, hw=ārāva, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 114: 10/15/2024 dict=MW, L=26286.1, hw=ārūḍha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 115: 10/15/2024 dict=MW, L=26295.1, hw=āropa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 116: 10/15/2024 dict=MW, L=26334.2, hw=āroha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, please note that this Headword contains BOTH a Revision and a Supplementation. Therefore we need BOTH "circle-R" AND "circle-S" symbols to be shown in the Hierarchy List. Also, I have comment coming next on the Revision itself! (kaching!)
+comment = Supplemental Insertion – Missing Symbol
+status = done. Liest Display modified to show both circle-R and circle-S
+------------------------------------------------------------------------
+
+* case 117: 10/15/2024 dict=MW, L=26380.1, hw=ārka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 118: 10/15/2024 dict=MW, L=26551.1, hw=āryā, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 119: 10/15/2024 dict=MW, L=26666.1, hw=āla, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, please note the "Double Indentation Error" for the following three words listed in the Hierarchy Column.
+comment = Supplemental Insertion – Missing Symbol
+status = done. double-indentation a feature, not a bug
+------------------------------------------------------------------------
+
+* case 120: 10/15/2024 dict=MW, L=26674.1, hw=ālakṣita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 121: 10/14/2024 dict=MW, L=26911.1, hw=ālokakara, user=srhodes
+old = Double Listing
+new = Please note that the word "ālokakara" is listed identically TWICE with "a" and "b" as the only point of difference. In my view this is an error and inconsistent with the printed text which makes no such distinction. When "a" = "b" , then it is prudent to Eliminate and Simplify! I propose eliminating one of the two while retaining the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display in its now singular occurrence. (kaching!)
+comment = Double Listing
+status = done. <e>3 -> <e>3B removes double-listing in hierarchy display
+------------------------------------------------------------------------
+
+* case 122: 10/14/2024 dict=MW, L=26992.1, hw=āvāpa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 123: 10/14/2024 dict=MW, L=27183.1, hw=āvaraṇa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 124: 10/14/2024 dict=MW, L=27206.1, hw=āvarjana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 125: 10/14/2024 dict=MW, L=27230.1, hw=āvartaka, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 126: 10/14/2024 dict=MW, L=27768.2, hw=āśvamedhika, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 127: 10/14/2024 dict=MW, L=27918.1, hw=āsakta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 128: 10/14/2024 dict=MW, L=27975.1, hw=āsāda, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 129: 10/14/2024 dict=MW, L=28250.1, hw=āsrava, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 130: 10/14/2024 dict=MW, L=28271.1, hw=āsvādya, user=srhodes
+old = Double Listing AND Double Indentation Error
+new = I do not see the need to list the Headword "āsvādya" twice with completely identical information (the only distinction being the label 'a' and 'b'). This seems pointless. When "a" = "b" , then it is prudent to Eliminate and Simplify! I propose eliminating the second occurrence (which is also double indented in the Hierarchy). Retain the first instance and remove the label "a"; then add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display in its now singular occurrence. (kaching!)
+comment = Double Listing AND Double Indentation Error
+status = done. <e>3 -> <e>2B removes double listing. a,b removed.
+------------------------------------------------------------------------
+
+* case 131: 10/13/2024 dict=MW, L=29303.1, hw=ibha, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 132: 10/13/2024 dict=MW, L=30258.21, hw=uccakais, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 133: 10/13/2024 dict=MW, L=30353.1, hw=uccala, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 134: 10/13/2024 dict=MW, L=30907.1, hw=utkīrtana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 135: 10/13/2024 dict=MW, L=30921.1, hw=utkrama, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 136: 10/13/2024 dict=MW, L=31530.1, hw=utthāpana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done. Also move to 31529.1
+------------------------------------------------------------------------
+
+* case 137: 10/12/2024 dict=MW, L=32333.1, hw=udāna, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 138: 10/12/2024 dict=MW, L=32606.1, hw=udaya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 139: 10/11/2024 dict=MW, L=32821.1, hw=udgrah, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 140: 10/12/2024 dict=MW, L=33651.1, hw=udvega, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 141: 10/12/2024 dict=MW, L=33754.1, hw=udveṣṭana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 142: 10/12/2024 dict=MW, L=34127.1, hw=upakaraṇa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, please note that this supplemental definition states, "heaping earth (fr. √kṝ)". Therefore, for my own purposes, I will be splitting the word "upakaraṇa" into "1. upakaraṇa"  and "2. upakaraṇa"; I will then place each homonym according to the its confirmed derivational source. Are you up for it?
+comment = Supplemental Insertion – Missing Symbol
+status = done  Added circle-S.  Other things not done.
+------------------------------------------------------------------------
+
+* case 143: 10/12/2024 dict=MW, L=34231.1, hw=upakrama, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 144: 10/11/2024 dict=MW, L=34661.1, hw=upadambh, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done?
+------------------------------------------------------------------------
+
+* case 145: 10/11/2024 dict=MW, L=34822.1, hw=upadhi, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 146: 10/11/2024 dict=MW, L=35060.1, hw=upapatti, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 147: 10/11/2024 dict=MW, L=35371.1, hw=upamṝ, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 148: 10/11/2024 dict=MW, L=35443.1, hw=upayoga, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 149: 10/11/2024 dict=MW, L=35475.11, hw=uparakta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done.  Move to 35474.1
+------------------------------------------------------------------------
+
+* case 150: 10/11/2024 dict=MW, L=35607.1, hw=uparodham, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 151: 10/11/2024 dict=MW, L=35727.1, hw=upavapana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 152: 10/11/2024 dict=MW, L=35904.1, hw=upaśānta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 153: 10/11/2024 dict=MW, L=36246.1, hw=upasarga, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 154: 10/11/2024 dict=MW, L=36685.1, hw=upāhita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 155: 10/11/2024 dict=MW, L=37333.1, hw=urudhāra, user=srhodes
+old = Headword Listed Twice
+new = I recommend eliminating the second instance of the word "urudhāra". There is no need to repeat this Headword Two Times. Also, please include the "circle-S" Supplemental Insertion Symbol to the right side of the FIRST instance of this Headword in the Hierarchy List Display.
+comment = Headword Listed Twice
+status = done. <e>3 -> <e>3A gets rid of double listing 
+------------------------------------------------------------------------
+
+* case 156: 10/11/2024 dict=MW, L=37437.1, hw=ula, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
+* case 157: 10/11/2024 dict=MW, L=186279.1, hw=uptakeśa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = done
+------------------------------------------------------------------------
+
