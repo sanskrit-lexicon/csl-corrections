@@ -674,7 +674,7 @@ also csl-websanlexicon, csl-apidev
 
 #sync this repo.
 git add .
-git commit -m "#91 See "corrections_mw_extra1_insert.txt"
+git commit -m "#91 See corrections_mw_extra1_insert.txt"
 git push
 
 --------------------------------------------------------
@@ -683,6 +683,246 @@ python search_insert.py 1 temp_mw_7.txt change_search_insert_1.txt
 # 357 instances
 python updateByLine.py temp_mw_7.txt change_search_insert_1.txt temp_mw_8a.txt
 
+# additional manual change to temp_mw_8a.txt at
+ jYAnapradIpa, jYAnamarga
+# local install temp_mw_8a.txt
+cp temp_mw_8a.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See change_search_insert_1.txt
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+359 insertions(+), 362 deletions(-)
+-------------------
+python search_insert.py 2 temp_mw_8a.txt change_search_insert_2.txt
+143 cases written to change_search_insert_2.txt
+
+python updateByLine.py temp_mw_8a.txt change_search_insert_2.txt temp_mw_8b.txt
+143 change transactions from change_search_insert_2.txt
+
+# local install temp_mw_8b.txt
+cp temp_mw_8b.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See change_search_insert_2.txt
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+144 insertions(+), 144 deletions(-)
+
+kAlapakva supplement text seems duplicative of main body text.?
+
+-------------------
+some stats
+# no output written to temp.txt
+python search_insert.py count temp_mw_8b.txt temp.txt
+ 3 3132
+ 2 785
+ 1 1102
+2B 148 done
+1B 113 done
+1A 260
+1C 14 done
+2A 286
+ 4 141
+3B 72 done
+3A 184
+3C 6
+2C 9
+4A 13
+4B 1
+
+--------------------------------------------------------
+python search_inserta.py 1C temp_mw_8b.txt temp_change.txt temp_mw_9_1C.org
+# 12 cases
+# manual edit temp_mw_9_1C.org.
+# Add <listinfo n="sup"/> where needed
+
+sh temp_locinstall.sh 9_1C
+does the following
+python remove_markup.py temp_mw_9_1C.org temp_mw_9_1C.txt
+
+# local install temp_mw_9_1C.txt
+cp temp_mw_9_1C.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue9
+# end of temp_locinstall.sh 9_1C
+
+************** temp_locinstall.sh
+x=$1
+python remove_markup.py temp_mw_$x.org temp_mw_$x.txt
+
+cp temp_mw_$x.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+**************
+
+diff temp_mw_8b.txt temp_mw_9_1C.txt > diff_mw_8b_9_1C.txt
+# 8 lines
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See diff_mw_8b_9_1C.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+2 insertions(+), 2 deletions(-)
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------------------------------------------------------
+python search_inserta.py 1B temp_mw_9_1C.txt temp_change.txt temp_mw_9_1B.org
+# 104 cases
+# manual edit temp_mw_9_1B.org.
+# Add <listinfo n="sup"/> where needed
+
+# generate temp_mw_9_1B.txt and local mw displays
+
+sh temp_locinstall.sh 9_1B
+
+# local install temp_mw_9_1B.txt
+cp temp_mw_9_1B.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+diff temp_mw_9_1C.txt temp_mw_9_1B.txt > diff_mw_9_1C_9_1B.txt
+# 328 lines
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See diff_mw_9_1C_9_1B.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+# 100 insertions(+), 100 deletions(-)
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------------------------------------------------------
+python search_inserta.py 2B temp_mw_9_1B.txt temp_change.txt temp_mw_9_2B.org
+# 104 cases
+# manual edit temp_mw_9_2B.org.
+# Add <listinfo n="sup"/> where needed
+
+# generate temp_mw_9_2B.txt and local mw displays
+
+sh temp_locinstall.sh 9_2B
+
+
+# local install temp_mw_9_2B.txt
+cp temp_mw_9_2B.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+diff temp_mw_9_1B.txt temp_mw_9_2B.txt > diff_mw_9_1B_9_2B.txt
+# 362 lines
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See diff_mw_9_1B_9_2B.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+# 101 insertions(+), 101 deletions(-)
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------------------------------------------------------
+python search_inserta.py 3B temp_mw_9_2B.txt temp_change.txt temp_mw_9_3B.org
+# 51 cases
+# manual edit temp_mw_9_3B.org.
+# Add <listinfo n="sup"/> where needed
+
+# generate temp_mw_9_3B.txt and local mw displays
+
+sh temp_locinstall.sh 9_3B
+
+
+# local install temp_mw_9_3B.txt
+cp temp_mw_9_3B.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+diff temp_mw_9_2B.txt temp_mw_9_3B.txt > diff_mw_9_2B_9_3B.txt
+# 132 lines
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See diff_mw_9_2B_9_3B.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+# 36 insertions(+), 36 deletions(-)
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------------------------------------------------------
+# change csl-websanlexicon so the 'artificial' homonyms
+  do not display in left (hierarchy) pane of list display.
+
+# push csl-websanlexicon to github
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+git add .
+git commit -m "MW: Do not display artificial homonyms in list display
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# Note: csl-apidev needs no comparable change -
+  It's list display already does not display the artificial homonms.
+  
+--------------------------------------------------------
+# Bring changes to Cologne webside
+# sync csl-websanlexicon to github
+# 5 lines added
+# sync csl-orig to github
+742 insertions(+), 745 deletions(-)
+# regenerate mw display 
+--------------------------------------------------------
+temp_cfr_extra2.txt Change submissions from Scott
+ for 10/25/2024 - 10/27/2024
+--------------------------------------------------------
+10-27-2024 problems with git.
+git merge --no-ff
+Merge made by the 'ort' strategy.
+ app/correction_response/issue91/corrections_mw_extra1_insert.txt | 1130 +++++++++++++++++++++++++++++
+ app/correction_response/issue91/readme.txt                       |   64 +-
+ 2 files changed, 1191 insertions(+), 3 deletions(-)
+ create mode 100644 app/correction_response/issue91/corrections_mw_extra1_insert.txt
+> git status
+Auf Branch master
+Ihr Branch ist 3 Commits vor 'origin/master'.
+  (benutzen Sie "git push", um lokale Commits zu publizier
+
+------------
+--------------------------------------------------------
+--------------------------------------------------------
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 
