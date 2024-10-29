@@ -1,0 +1,306 @@
+10-29-2024 Jim processes AB comments. 'Jim: '
+
+* DONE Case 90: 10/06/2024 dict=MW, L=52721, hw=kurukṣetra, user=srhodes
+old = Revision Symbol Missing
+new = Please add the Revision Symbol to the right side of this word in the Hierarchy List Display.
+I have no idea why the "circle-R" symbol is missing here. I wonder if this is a "single case" occurrence, or if other such cases exist.
+
+comment = Revision Symbol Missing
+
+status = PENDING
+
+AB comment:
+==========
+This is a case of the suppl. "action" not in the header line (first-line) of the entry text.
+Jim has recently attended to the "sup" type (by adding a spl. tag to those lines), but yet to do the same for the "rev" type.
+
+Jim: done. Add '<listinfo n="rev"/>' to 52720 so circle-R shown.
+------------------------------------------------------------------------
+
+* DONE Case 108: 08/27/2024 dict=MW, L=63747, hw=garaṇa, user=srhodes
+old = garaṇa n. the act of swallowing, L. [ID=63747] LB wetting, sprinkling, W. [ID=63748]
+new = The Headword "garaṇa" should be split into a homonym as follows:  LB  "garaṇa 1. the act of swallowing (from the root √gṝ  2.)" and "garaṇa 2. wetting, sprinkling (from the root √gṛ)".
+This correction is worth 1008 points, but I have feeling that you will not make this correction.
+I am certain that Jim and Andhrabharati will agree with my analysis.
+When MW dictionary has missed an important distinction, I think we should follow Aumsanskrit and do as suggested above. This will benefit the world of Sanskrit.
+
+comment = Homonym Missed – Please correct as suggested.
+
+status = PENDING  not done, as Scott guessed.  Note AP90 has
+ both 'swallowing' and 'sprinkling', and shows only derivation from gF
+ 
+AB comment:
+==========
+Let's see what the mother of all those (PWG) has [at L-21856]:
+
+गरण 〔n.〕
+— 1) das Verschlingen (von 2. गर्) AK. 3, 3, 37. ;; [Dhātup. 28, 117]
+— 2) das Bespritzen (von 4. गर्) ŚKDR. WILS. ;; [Dhātup. 22, 39]
+
+The corrrelation between 5 forms of गर् in PWG with AP90 and MW99 goes like this--
+PWG			Dhātup.			Apte						MW
+1. गर् (गॄ, गृणाति) 	31,28 [cl. 9]		I. gṝ 9P. (gṛṇāti)			1. gṝ cl. 9. P. Ā. gṛṇāti
+2. गर् (गॄ, गिरति)	28,117 [cl. 6]		II. gṝ 6P. (girati)			2. gṝ cl. 6. P. girati
+3. गर् (जागृ)		24,64 [cl. 2]		jāgṛ 2P. (jāgarti)			jāgṛ cl. 2. °garti
+4. गर् (गॄ, गरति)	22,39 [cl. 1]		gṛ 1P. (garati)			gṛ cl. 1. P. garati
+5. गर् (गॄ, गारयति)	33,33 [cl. 10]		III. gṝ 10A. (gārayate)	3. gṝ cl. 10. Ā. gārayate
+
+Though Apte has both the meanings at [12342] (garaṇaṃ) under the single root [gṝ bhāve-lyuṭ], it has properly showed the resp. meanings under resp. roots properly at [12687] ("swallow" under II. gṝ 6P.) and [12657] ("sprinkle" is at gṛ 1P.)
+
+And MW99 did not "mix" the two meanings under a same root as Apte, he has opted not to show the etym. matter at this entry (but just mentioned his "sources"); but has the etym. details appropriately at
+[63717] (gará, mfn. (√⒉ gṝ) ‘swallowing’) & [66412] (gṛ, cl. 1. P. garati, to sprinkle, moisten, Dhātup. xxii, 39).
+
+Finally, I would like to say that adding the addl. info to MW (at this entry, as at PWG) as Scott suggested might be beneficial to the user;
+but its absence does not hamper the real "student", for he would get the details elsewhere.
+
+Jim: Nothing done
+------------------------------------------------------------------------
+
+* DONE Case 246: 09/27/2024 dict=MW, L=104665.1, hw=navaratna, user=srhodes
+old = Supplement or Revision ?
+new = nine gems (for ‘lapis lazuli’ read ‘cat's eye’ [= vaiḍūrya], and for go-medha read go-meda, ‘zircon’ or ‘jacinth’; the 9 gems are sacred to the five planets with the Sun and Moon, Rāhu and Ketu). 
+
+comment = Supplement or Revision ? 
+Please note that this appears to be a revision (at lease in part) which should be directly imiplemented as stated:  "(for ‘lapis lazuli’ read ‘cat's eye’ [= vaiḍūrya], and for go-medha read go-meda, ‘zircon’ or ‘jacinth’".
+I believe this needs some reconsideration.
+
+status = PENDING no change.  cdsl has the full supplement text,
+  which seems a reasonable solution to this complex entry.
+
+AB comment:
+==========
+The intent of 
+<L>104665.1<pc>1329,2<k1>navaratna<k2>nava-ratna<e>3AJim: 
+
+¦ nine gems (for ‘lapis lazuli’ read ‘cat's eye’ [= <s>vEqUrya</s>], and for <s>go-meDa</s> read <s>go-meda</s>, ‘zircon’ or ‘jacinth’; the 9 gems are sacred to the five planets with the Sun and Moon, <s1>Rāhu</s1> and <s1>Ketu</s1>).<info n="sup"/>
+<LEND>
+
+is to revise  
+<L>104663<pc>531,2<k1>navaratna<k2>nava—ratna<e>3
+<s>nava—ratna</s> ¦ <lex>n.</lex> 9 precious gems (<ab>viz.</ab> pearl, ruby, topaz, diamond, emerald, lapis lazuli, coral, sapphire, and <is>Go-medha</is> they are supposed to be related to the 9 planets), <ls>L.</ls> (<ab>cf.</ab> <ls>MWB. 528</ls>)
+<LEND> <info lex="n"/>
+
+as
+<L>104663<pc>531,2<k1>navaratna<k2>nava—ratna<e>3
+<s>nava—ratna</s> ¦ <lex>n.</lex> 9 gems (<ab>viz.</ab> pearl, ruby, topaz, diamond, emerald, ‘cat's eye’ [= <s>vEqUrya</s>], coral, sapphire, and <s>go-meda</s>, ‘zircon’ or ‘jacinth’; the 9 gems are sacred to the five planets with the Sun and Moon, <s1>Rāhu</s1> and <s1>Ketu</s1>), <ls>L.</ls> (<ab>cf.</ab> <ls>MWB. 528</ls>)<info lex="n"/>
+<LEND> <info n="rev" pc="1329,2"/><info lex="m"/>
+
+It is not out of place to reiterate my prev. statement that more such "sup" entries are to be treated as "rev" entities!!
+
+Jim: move 104665.1 to 104663.1, and mark as 'rev'
+old:
+<L>104665.1<pc>1329,2<k1>navaratna<k2>nava-ratna<e>3A
+¦ nine gems (for ‘lapis lazuli’ read ‘cat's eye’ [= <s>vEqUrya</s>], and for <s>go-meDa</s> read <s>go-meda</s>, ‘zircon’ or ‘jacinth’; the 9 gems are sacred to the five planets with the Sun and Moon, <s1>Rāhu</s1> and <s1>Ketu</s1>).<info n="sup"/>
+<LEND>
+new:
+<L>104663.1<pc>531,2<k1>navaratna<k2>nava-ratna<e>3A
+¦ nine gems (for ‘lapis lazuli’ read ‘cat's eye’ [= <s>vEqUrya</s>], and for <s>go-meDa</s> read <s>go-meda</s>, ‘zircon’ or ‘jacinth’; the 9 gems are sacred to the five planets with the Sun and Moon, <s1>Rāhu</s1> and <s1>Ketu</s1>).<info n="rev" pc="1329,2"/>
+<LEND>
+
+Also change '<listinfo n="sup"/>' to '<listinfo n="rev"/>' in 104663
+
+------------------------------------------------------------------------
+
+* DONE Case 256: 09/03/2024 dict=MW, L=107824.25, hw=nikāmakāma, user=srhodes
+old = Triple Indentation Error in the Hierarchy Listing (and for all following compounds).
+new = Make a Double Indentation of this Headword in the Hierarchy Listing (and for all following compounds).
+
+comment = Triple Indentation Error in the Hierarchy Listing (and for all following compounds).
+
+status = PENDING.  nikam H1, nikAma H3, nikAma-kAma H4.
+  An interesting question: should it be nikAma H2 ?
+  If so, then nikAma-kAma would be H3.
+  
+AB comment:
+==========
+See my comment at case 36 in the file posted earlier [corrections_mw_alpha (AB comments).txt].
+
+Probably I should repeat the same here again, as below!!
+[No entry-block (print paragraph) has <e>1 [Devanagari (the very first word) with Roman italic] and <e>2 [Roman bold] rendered together anywhere in the whole work; they only occur at the beginning of the entry-block (print paragraph) and the entries inside the block will always be <e>3 (in bold letters) or <e>4 (in italics) in the main pages.]
+
+Jim: No change.  But see comment for why I thought this "An interesting question"
+  Here is a train of thought that supports marking nikAma as H2 and nikAmakAma as H3
+  Note (in print) °kāma  (and bold) 
+  That initial° indicates that nikAma is formed from the root of the prefixed root ni-kam;
+  nikAma is not a 'compound'.
+  Since it is not a compound, it cannot be in MW's 3rd line:
+   "The third or branch line in thick Indo-Romanic type is used for grouping together under a leading word all the words compounded with that leading word."
+  If nikAma is not in 3rd line, then it should be in 2nd line of MW's 4 lines.
+  Then nikAmakAma, as a compound of nikAma, would be in MW's 3rd line.
+
+  This markup pattern occurs in prefixed verb paragraphs of MW.
+  I view it as a 'space-saving' alternate to the usual H1,H2,H3 pattern;
+    An example of the 'usual H1,H2,H3 pattern' is aMs, aMsa, aMsakUwa.
+  
+
+------------------------------------------------------------------------
+
+* DONE Case 261: 08/24/2024 dict=MW, L=108105, hw=nigīrṇatva, user=srhodes
+old = Triple Indentation Error in the Hierarchy Listing
+new = Make a Double Indentation of this Headword in the Hierarchy Listing
+
+comment = Triple Indentation Error in the Hierarchy Listing
+
+status = PENDING  like case 256
+  If nigIrRa is H3, then nigIrRa-tva is H4
+  
+AB comment:
+==========
+See my comment at case 256 above.
+
+Jim: no change. and my comment also see.
+
+------------------------------------------------------------------------
+
+* DONE Case 262: 08/24/2024 dict=MW, L=108106, hw=nigīrṇavat, user=srhodes
+old = Triple Indentation Error in the Hierarchy Listing
+new = Make a Double Indentation of this Headword in the Hierarchy Listing
+
+comment = Triple Indentation Error in the Hierarchy Listing
+
+status = PENDING same as 261
+
+AB comment:
+==========
+See my comment at case 256 above.
+
+Jim:  no change. and my comment also see.
+------------------------------------------------------------------------
+
+* DONE Case 301: 09/24/2024 dict=MW, L=131079, hw=praṇam, user=srhodes
+old = Caus. -nāmayati or -namayati,
+new = Caus. -namayati,
+
+comment = Typo – Please note that according the Siddhāntakaumudī the form "-nāmayati" is always INCORRECT when used with a prefix
+Here is the relevant information:  "“Gaṇa sūtra”  C.  The roots  √jvala ,  √hvala ,  √hmala  and  √nama  are optionally  मित् (mit)  when not preceded by any preposition.   LB
+When they are connected with a preposition they are  मित् (mit). 
+This is an example of  prāptavibhāṣā.  For these roots have already been declared as  मित् (mit)  by the previous rules.  नम  ends in  अम्  and is  मित् (mit)  by the last sūtra.
+The present sūtra declares an option under certain circumstances."
+
+status = PENDING.  Too complicated a reason for making a print change ?
+
+AB comment:
+==========
+No need to change anything here; both the causative forms do occur in the literature.
+
+As I am seeing that Scott is framing many of his arguments based on SK, I would like to inform him here, that the "informed"-people treat Siddhāntakaumudī (which has restuctured/re-sequenced the Aṣṭādhyāyi 'rules' to simplify the Vyākaraṇa learning process, with an undesirable side-effect of (a) missing some exceptions [that would otherwise come into picture when applying the 'tightly-framed' Pāṇini's aphorisms in the 'prescribed' order of Munitraya] or (b) bringing in different rules into the process etc.) as churning out misleading word-forms many a time.
+
+And some effort is taking place now (in India) to bring-back the Munitraya-school alongwith the Kāśikā [the 'real' textbooks] into the main-stream, which got pushed aside (for some centuries now) by the SK category of 'guide-books'.
+
+Jim: nothing to do. Appreciate the informed observations of AB's comment.
+
+------------------------------------------------------------------------
+
+* DONE Case 392: 09/23/2024 dict=MW, L=194978, hw=vijāman, user=srhodes
+old = Revision Symbol Missing
+new = Please add the Revision Symbol to the right side of this word in the Hierarchy List Display. I have no idea why the "circle-R" symbol is missing here.
+I wonder if this is a "single case" occurrence, or if other such cases exist.
+
+comment = Revision Symbol Missing
+
+status = PENDING - a systemic problem with list display. see discussion
+ under "Revision Symbol Missing" in readme.txt
+ 
+AB comment:
+==========
+This is a case of the suppl. "action" not in the header line (first-line) of the entry text.
+Jim has recently attended to the "sup" type (by adding a spl. tag to those "sup" lines), but yet to do the same for the "rev" type.
+
+Jim: move 194978 to 193039.1, and mark 193039 with <listinfo n="rev"/>
+
+old:
+<L>194978<pc>959,3<k1>vijAman<k2>vi-jA/man<e>3
+<s>vi-°jA/man</s> ¦ <lex>mfn.</lex> ‘corresponding to each other’, <ab>i.e.</ab> ‘being in pairs’, ‘symmetrical’, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1332,2"/><info lex="m:f:n"/><info hui="b"/>
+<LEND>
+NOTE: Where did ", <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>" come from? I don't find it in print.
+new:
+<L>193039.1<pc>959,3<k1>vijAman<k2>vi-jA/man<e>3A
+<s>vi-°jA/man</s> ¦ (read ‘corresponding to each other’, <ab>i.e.</ab> ‘being in pairs’, ‘symmetrical’)<info n="rev" pc="1332,2"/>
+<LEND>
+
+old:
+<L>193039<pc>950,3<k1>vijAman<k2>vi—jAman<e>3
+<s>vi—jAman</s> ¦ <lex>mfn.</lex> related, corresponding.<info lex="m:f:n"/><info hui="a"/>
+<LEND>
+
+new:
+<L>193039<pc>950,3<k1>vijAman<k2>vi—jAman<e>3
+<s>vi—jAman</s> ¦ <lex>mfn.</lex> related, corresponding.<info lex="m:f:n"/><listinfo n="rev"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* DONE Case 410: 08/07/2024 dict=MW, L=197907, hw=vipratisāravat, user=srhodes
+old = Indentation Error in the Hierarchy Listing
+new = I am unsure how this resolves. Either this word is adjusted OR the following two words are adjusted.
+But I believe that these three words should not be indented equally to the same degree.
+
+comment = Indentation Error in the Hierarchy Listing
+
+status =  PENDING
+
+AB comment:
+==========
+See my comment at case 256 above. [This entry should be marked as <e>4 type.]
+
+Jim: Change this to <e>4 
+  The argument for <e>4 is that it is in non-bold, italic Roman type.
+  But MW markup in this paragraph does not follow his own rules:
+   -vat should be in bold type, and thus an H3
+   vipratisArin and vipratIsAra should be in separate paragraphs as H2.
+  
+------------------------------------------------------------------------
+
+* DONE Case 418: 07/14/2024 dict=MW, L=198271, hw=vibhākaraśarman, user=srhodes
+old = (N. of a poet, Cat.)
+new = N. of a poet, Cat.;
+
+comment = Typo – Please note that this entire word along with the definition are contained in parentheses in the printed text.
+Since MW online is not placing "Headwords" in parentheses, I am suggesting eliminating the parentheses altogether.
+My main point is this: there is no reason to place the "definition" in parentheses while leaving the Headword itself bold and independent.
+The definition is the definition, it is not "parenthetically" the definition.
+
+status = PENDING
+
+AB comment:
+==========
+Just FYI, my version has, in all such cases, the braces enclosing the text matter in the manner truthful to the print; here even the HW is put inside the braces.
+
+Jim: changed . Does AB have this marked as <e>4 (due to non-bold, italic, roman type)?
+old:
+<L>198271<pc>977,3<k1>viBAkaraSarman<k2>vi-BA—kara-Sarman<e>3
+<s>vi-BA—kara-Sarman</s> ¦ <lex>m.</lex> (<ab>N.</ab> of a poet, <ls>Cat.</ls>)<info lex="m"/>
+<LEND>
+
+new:
+<L>198271<pc>977,3<k1>viBAkaraSarman<k2>vi-BA—kara-Sarman<e>3
+(<s>vi-BA—kara-Sarman</s> ¦ <lex>m.</lex> <ab>N.</ab> of a poet, <ls>Cat.</ls>)<info lex="m"/>
+<LEND>
+
+
+
+------------------------------------------------------------------------
+
+* Case 521: 10/03/2024 dict=MW, L=241248, hw=sāṃkhyayoga, user=srhodes
+old = (v.l. -yogau)
+new = ?
+
+comment = Typo – Please note that the variation cited here as "sāṃkhyayogau" seems to be a very unusual form for a prātipadika.
+Therefore, I hope that Jim or Andhrabharati will investigate this variation (which may be in error).
+Of course, if this is simply a declaration of the nominative and accusative dual form meaning "sāṃkhya and yoga",
+then this citation as a variation seems redundant and unnecessary to be mentioned as standard Sanskrit Grammar will yield this form and meaning without further ado!
+
+status = PENDING.  Jim Agrees with
+  'simply a declaration of the nominative and accusative dual form meaning "sāṃkhya and yoga"' 
+  
+AB comment:
+One has to resort to PWG (and/or pwk) almost at every instance of doubt in MW content, for clarification!!
+
+Here PWG says thus, 
+"ein Anhänger des Sāṃkhya und des Yoga als N. pr. eines Ṛṣi Mbh. 13,7123. nach der ed. Bomb. , die °yogau liest, zwei Namen." (saying that the verse in Bomb. ed. of MBh. has the dual form denoting two persons together.)
+which got ended up as a v.l. form (°yogau) in MW, creating confusion like this in the minds of Scott and Jim.
+
+Jim: no change.  There are several headwords in dual form 
+ (e.g. from Advanced search, agnAmarutO agnIndrO AdityacandrO (slp1))
+
+------------------------------------------------------------------------

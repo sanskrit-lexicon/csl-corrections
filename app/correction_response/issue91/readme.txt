@@ -985,7 +985,36 @@ sync csl-orig and csl-apidev to github
 etc....
 ------------
 sync csl-orig, csl-apidev to github
---------------------------------------------------------
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See diff_mw_9_3B_10.txt at
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+# 42 insertions(+), 48 deletions(-)
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-apidev to github
+cd /c/xampp/htdocs/cologne/csl-apidev
+git add .
+git commit -m "correction to listhierClass.php"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+#sync csl-orig at Cologne.
+#sync csl-apidev at Cologne
+# regenerate mw display at Cologne
+-------------------------
+#sync this repo to Github.
+# sync this csl-corrections repo at Cologne
+Files changed:
+        corrections_mw_not_abbrev.AB.comments.-P.2.txt
+        corrections_mw_not_abbrev.AB.comments.-P.3.txt
+        corrections_mw_not_abbrev.AB.comments.txt
+        diff_mw_9_1C_9_1B.AB.comments.txt
+        diff_9_3B_10.txt
+
 --------------------------------------------------------
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt

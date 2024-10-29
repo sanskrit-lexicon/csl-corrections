@@ -1,0 +1,176 @@
+10-28-2024
+Jim's comments on AB's corrections_mw_not_abbrev.AB.comments.txt
+ ('Jim: xxx')
+Also see AB's remarks at:
+ https://github.com/sanskrit-lexicon/csl-corrections/issues/91#issuecomment-2439249134
+
+* Case 72: 10/07/2024 dict=MW, L=46569.1, hw=kavipūrṇa, user=srhodes
+old = An Odd Listing
+new = This is a strange Headword listed in the supplementary section with no definition given, and the only information provided seems to be a "revision" of itself.
+Why not just state the word as "kavipūra"?
+
+comment = An Odd Listing
+
+status = PENDING
+
+AB comment:
+==========
+This is applicable as a revision to <L>46543<pc>264,2<k1>kavikarṇapūrṇa<k2>kavi—karṇa-pūrṇa<e>3
+It's THE wrong alphabetical sequencing (that too with a missing "karṇa-") in the annexure has lead to some confusion! It should've been before the "-krama" sub-entry, under the "kavi-" group.
+
+Jim: revise 46543 as "rev" with <chg> markup and remove 46569.1
+ Note 46543 in mw_printchange.txt
+old:
+<L>46543<pc>264,2<k1>kavikarRapUrRa<k2>kavi—karRa-pUrRa<e>3
+<s>kavi—karRa-pUrRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a poet.<info lex="m"/>
+<LEND>
+
+new:
+<L>46543<pc>264,2<k1>kavikarRapUra<k2>kavi—karRa-pUra<e>3
+<chg type="chg" n="1" src="mw"><old><s>kavi—karRa-pUrRa</s></old><new><s>kavi—karRa-pUra</s></new></chg> ¦ <lex>m.</lex> <ab>N.</ab> of a poet.<info lex="m"/><info n="rev" pc="1324,2"/>
+<LEND>
+
+delete annexure entry:
+<L>46569.1<pc>1324,2<k1>kavipUrRa<k2>kavi—pUrRa<e>3
+<s>kavi—pUrRa</s> ¦ (read <s>-pUra</s>)<info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* Case 174: 09/30/2024 dict=MW, L=85764, hw=tuṅgadhanvan, user=srhodes
+old = Missing Headword!!!
+new = Please note that in the supplemental section, page=1328, there is listed the following Headword, "tuṅganakhatā, f. the having prominent nails (one of the 80 minor marks of a Buddha), Dharmas. 84."
+This Headword has not been listed in MW Dictionary online. I cite the word, "tuṅgadhanvan" only because the omitted Headword "tuṅganakhatā" should be place immediately following the word "tuṅgadhanvan". By the way, this correction may be worth 10008 points!
+
+comment = Missing Headword!!!
+
+status = done. Many more of these would break the point bank.
+
+new:
+<L>85764.1<pc>449,3<k1>tuNganaKatA<k2>tuNga—naKatA<e>3
+<s>tuNga—</s> ¦ <lex>f.</lex> the having prominent nails (one of the 80 minor marks of a <s1>Buddha</s1>), <ls>Dharmas. 84.</ls><info lex="f"/>
+<LEND>
+
+AB comment:
+==========
+The entry is present with a typo, as <L>81653.1<pc>1328,2<k1>taNganaKatA<k2>taNga-naKatA<e>2
+Now that a new entry has been made, this earlier one is is to be deleted.
+
+But the new one has two errors in metaline pc (449,3 -> 1328,2) and the header (<s>tuNga—</s> -> <s>taNga-naKatA</s>) parts, that are to be corrected!!
+
+Jim: done step 1: Revise 85764.1 ; step 2: Remove entry 81653.1 (taNganaKatA)
+step 1: Revise 85764.1
+OLD:
+<L>85764.1<pc>449,3<k1>tuNganaKatA<k2>tuNga—naKatA<e>3
+<s>tuNga—</s> ¦ <lex>f.</lex> the having prominent nails (one of the 80 minor marks of a <s1>Buddha</s1>), <ls>Dharmas. 84.</ls><info lex="f"/>
+<LEND>
+
+NEW:
+<L>85764.1<pc>1328,2<k1>tuNganaKatA<k2>tuNga—naKatA<e>3
+<s>tuNga—naKatA</s> ¦ <lex>f.</lex> the having prominent nails (one of the 80 minor marks of a <s1>Buddha</s1>), <ls>Dharmas. 84.</ls><info lex="f"/><info n="sup"/>
+<LEND>
+
+step 2: Remove entry 81653.1 (taNganaKatA)
+<L>81653.1<pc>1328,2<k1>taNganaKatA<k2>taNga-naKatA<e>2
+<s>taNga-naKatA</s> ¦ <lex>f.</lex> the having prominent nails (one of the 80 minor marks of a <s1>Buddha</s1>), <ls>Dharmas. 84</ls>.<info n="sup"/><info lex="f"/>
+<LEND>
+
+
+------------------------------------------------------------------------
+
+* Case 306: 08/03/2024 dict=MW, L=138591, hw=prahīṇa, user=srhodes
+old = m. removal, loss, waste, destruction
+new = ?
+
+comment = Typo – I am just pointing out that both Apte and Shabda list this definition in the "neuter" gender.
+This seems to be the norm in such cases, but here MW clearly says "masculine". Not sure if this is a printing error or if we should ultimately accept both genders.
+In any case it is Two (Apte and Shabda) against one (MW). (I usually go with the majority rule according to the learned).
+
+status = Wilson shows m.;  SKD has hw prahīṇaḥ 
+
+AB comment:
+==========
+It was an error in WIL that got carried into MW72 and MW as is; SKD has the entry as adj., and hence the ending visarga there may be considered as a print error.
+The Apte and SHS entries appear correct in having it as n.; but we should continue to have MW entry uncorrected, as it clearly shows what the WIL has.
+
+Jim: No change.
+
+SKD has "prahīṇaḥ, tri" , tri means adj. (mfn).
+  New to Jim:   SKD shows the masc. sing. form as headword for adjectives
+------------------------------------------------------------------------
+
+
+* Case 360: 06/29/2024 dict=MW, L=180704, hw=lag, user=srhodes
+old = Caus. or cl. 10. (Dhātup. xxxiii, 63) lāgayati
+new = Caus. lagayati, or cl. 10. (Dhātup. xxxiii, 63) lāgayati
+
+comment = Typo – Please note that this correction entails a "rather serious" print change. However, I am 99% certain of this correction based upon the Siddhāntakaumudī as well as other independent sources.
+Please have Andhrabharati check into this. The reasoning for the "short vowel" in the Causative form is because the root is "mit", meaning it has an indicatory "m"; or you may say it has the anubandha letter "m" which prevents the long "ā" in the Causative.
+
+status = no change.  Let the grammarians debate.
+       
+AB comment: 
+==========
+The "lag" root has different meanings in different classes [cl. 1 (लगे सङ्गे) & cl. 10 (लग आस्वादने)] and as the entries in all the dictionaries (PWG, MW72, MW) are mainly talking about the cl. 1 ( Dhātup. 19,24) root, we should definitely have the lagayati form somewhere.
+
+(1) PWG in its comprehensive stand gives both the existing forms with citations [85715]--
+	lag, Dhātup. 19,24 (saṅge). [— caus. lāgayati (āsvādane, v. l. āsādane) Dhātup. 33,63.]
+	'ava-' — caus. avalagayati anheften, anknüpfen Schol.  zu Kāty. Śr. 5,10,21.
+	'ā-' — caus. ālagayati anheften, anknüpfen Schol.  zu Kāty. Śr. 5,10,21. 
+	'sam-' — caus. saṃlāgayati fest legen auf (loc.) Schol.  zu Kāty. Śr. 17,5,23. 
+[Looking at these 3 upasarga citations, Whitney had mentioned the dual causative forms "lā̆gayati"! And, all these three citations belong to cl. 1 root only!!]
+
+(2) MW has a serious flaw of missing the lagayati form altogether, whereas MW72 is mentioning this for unambigously (for Cl. 1).
+
+As such I also suggest what Scott advocated, i. e. to make a print correction in MW.
+
+Jim: print change in 180704: (note 'src="cdsl"' )
+OLD:
+<ab>Caus.</ab> or <ab>cl.</ab> 10. (<ls>Dhātup. xxxiii, 63</ls>) <s>lAgayati</s>
+NEW:
+<chg type="chg" n="1" src="cdsl"><old><ab>Caus.</ab> or </old><new><ab>Caus.</ab> <s>lagayati</s>, or </new></chg><ab>cl.</ab> 10. (<ls>Dhātup. xxxiii, 63</ls>) <s>lAgayati</s>
+
+old = Caus. or cl. 10. (Dhātup. xxxiii, 63) lāgayati
+new = Caus. lagayati, or cl. 10. (Dhātup. xxxiii, 63) lāgayati
+
+------------------------------------------------------------------------
+
+* Case 376: 09/20/2024 dict=MW, L=189246.1, hw=ūḍha, user=srhodes
+old = 1. ūḍha (read 1. and 2. ūh) [ID=189246.1 sup]
+new = I believe that this should be considered as a "Revision" with the correction made to directly as follows "1. ūḍha (for 2. and 3., see 1. and 2. ūh), mfn. p.p. of √vah, q.v. [ID=37967]"
+
+comment = "Sup" SHOULD BE "Rev" – Please correct and mark accordingly. 1008 points!
+
+status = done in two steps:
+step 1. delete L=189246  (the supplement entry)
+step 2. revise 37967
+
+AB comment:
+==========
+We should consider another implied 3rd step, to change 189239 (to have <hom>1.</hom>).
+
+Jim: done: add hom 1 to 189239. print change
+------------------------------------------------------------------------
+
+* Case 245: 09/27/2024 dict=MW, L=104213.2, hw=narendraraja, user=srhodes
+old = Placement Error
+new = Please note that we have just corrected the word to read  "narendrarāja".
+Now, we must correct the placement of this word in the Hierarchy Listing.
+The supplemental insertion of this Headword should be placed just after the word "narendramārga" in the Hierarchical listing of words.
+
+comment = Placement Error
+
+Solution:
+Note new L: 104209.1 places after narendramArga
+<L>104209.1<pc>1329,2<k1>narendrarAja<k2>narendra—rAja<e>3
+{{Lbody=104202.1}}
+<LEND>
+
+AB comment:
+==========
+The grouped entry concept is to be applied here, and revert the correction to keep the two together as earlier (at 104202).
+The alphabetical order in MW is applicable to individual entries, incl. the first candidate of the grouped entries only but not to the remaining candidates in the resp. group(s).
+Incidentally, the order is to be (locally) maintained within a group.
+
+Jim: done - move entry 104209.1 to 104202.2.
+------------------------------------------------------------------------

@@ -1,0 +1,138 @@
+1038,1039c1038,1039
+< <L>294<pc>2,2<k1>akupya<k2>a-kupya<e>1
+< <s>a-kupya</s> ¦ <lex>n.</lex> not base metal, gold or silver, <ls>Kir.</ls><info lex="n"/><listinfo n="sup"/>
+---
+> <L>294<pc>2,2<k1>akupya<k2>a-kupya<h>1<e>1
+> <hom>1.</hom> <s>a-kupya</s> ¦ <lex>n.</lex> not base metal, gold or silver, <ls>Kir.</ls><info lex="n"/>
+1044,1045c1044,1045
+< <L>295.1<pc>1308,1<k1>akupya<k2>a-kupya<e>1A
+< ¦ 2. <lex>n.</lex> (<ab>impers.</ab>) anger must not be shown, <ls>MBh.</ls><info n="sup"/><info lex="n"/>
+---
+> <L>295.1<pc>1308,1<k1>akupya<k2>a-kupya<h>2<e>1
+> <hom>2.</hom>¦ <lex>n.</lex> (<ab>impers.</ab>) anger must not be shown, <ls>MBh.</ls><info n="sup"/><info lex="n"/>
+92075,92078c92075
+< <s>Ayogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <s1>Śūdra</s1> man and <s1>Vaiśya</s1> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m"/><listinfo n="sup"/>
+< <LEND>
+< <L>25977.1<pc>1320,1<k1>Ayogava<k2>A/yogava<e>1A
+< <s>A/yogava</s> ¦ (<ls>ŚBr.</ls>). <info n="sup"/>
+---
+> <s>Ayogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <s1>Śūdra</s1> man and <s1>Vaiśya</s1> woman; his business is carpentry &c.), <chg type="chg" n="1" src="mw"><old><ls>ŚBr.</ls></old><new><s1>ā́yogava</s1> (<ls>ŚBr.</ls>)</new></chg>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m"/><info n="rev" pc="1320,1"/>
+158722a158720,158722
+> <L>45608.1<pc>1324,1<k1>kala<k2>kala<e>1B
+> <s>kala</s> ¦ <lex>m.</lex> <ab>N.</ab> of a poet, <ls>Subh.</ls><info n="sup"/><info lex="m"/>
+> <LEND>
+158726,158728d158725
+< <L>45609.1<pc>1324,1<k1>kala<k2>kala<e>1B
+< <s>kala</s> ¦ <lex>m.</lex> <ab>N.</ab> of a poet, <ls>Subh.</ls><info n="sup"/><info lex="m"/>
+< <LEND>
+161769,161770c161766,161767
+< <L>46543<pc>264,2<k1>kavikarRapUrRa<k2>kavi—karRa-pUrRa<e>3
+< <s>kavi—karRa-pUrRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a poet.<info lex="m"/>
+---
+> <L>46543<pc>264,2<k1>kavikarRapUra<k2>kavi—karRa-pUra<e>3
+> <chg type="chg" n="1" src="mw"><old><s>kavi—karRa-pUrRa</s></old><new><s>kavi—karRa-pUra</s></new></chg> ¦ <lex>m.</lex> <ab>N.</ab> of a poet.<info lex="m"/><info n="rev" pc="1324,2"/>
+161865,161867d161861
+< <L>46569.1<pc>1324,2<k1>kavipUrRa<k2>kavi—pUrRa<e>3
+< <s>kavi—pUrRa</s> ¦ (read <s>-pUra</s>)<info n="sup"/>
+< <LEND>
+180254c180248,180251
+< <s>kumAra/—dezRa</s> ¦ (<s>ra/°</s>), <lex>mfn.</lex> granting perishable gifts [‘whose gifts are like those of children’, <ab>i.e.</ab> ‘who gives and takes back’, <ls>Sāy.</ls>], <ls>RV. x, 34, 7.</ls> <info n="rev" pc="1325,1"/><info lex="m:f:n"/>
+---
+> <s>kumAra/—dezRa</s> ¦ (<s>ra/°</s>), <lex>mfn.</lex> granting perishable gifts [‘granting children’, <ls>Sāy.</ls>], <ls>RV. x, 34, 7.</ls><info lex="m:f:n"/><listinfo n="sup"/>
+> <LEND>
+> <L>52328.1<pc>1325,1<k1>kumAradezRa<k2>kumAra/—dezRa<e>3A
+> ¦ (rather ‘whose gifts are like those of children’, <ab>i.e.</ab> ‘who gives and takes back’)<info n="sup"/>
+181514c181511
+< <s>kuru—kzetra/</s> ¦ <lex>n.</lex> ‘the field of the <s1>Kuru</s1>s’, <ab>N.</ab> of an extensive plain near Delhi (the scene of the great battles between the <s1>Kuru</s1>s and <s1>Pāṇḍu</s1>s), <ls>AitBr.</ls>; <ls>ŚBr.</ls> &c.<info lex="n"/><info hui="a"/>
+---
+> <s>kuru—kzetra/</s> ¦ <lex>n.</lex> ‘the field of the <s1>Kuru</s1>s’, <ab>N.</ab> of an extensive plain near Delhi (the scene of the great battles between the <s1>Kuru</s1>s and <s1>Pāṇḍu</s1>s), <ls>AitBr.</ls>; <ls>ŚBr.</ls> &c.<info lex="n"/><info hui="a"/><listinfo n="rev"/>
+274982,274984d274978
+< <L>81653.1<pc>1328,2<k1>taNganaKatA<k2>taNga-naKatA<e>2
+< <s>taNga-naKatA</s> ¦ <lex>f.</lex> the having prominent nails (one of the 80 minor marks of a <s1>Buddha</s1>), <ls>Dharmas. 84</ls>.<info n="sup"/><info lex="f"/>
+< <LEND>
+288249,288250c288243,288244
+< <L>85764.1<pc>449,3<k1>tuNganaKatA<k2>tuNga—naKatA<e>3
+< <s>tuNga—</s> ¦ <lex>f.</lex> the having prominent nails (one of the 80 minor marks of a <s1>Buddha</s1>), <ls>Dharmas. 84.</ls><info lex="f"/>
+---
+> <L>85764.1<pc>1328,2<k1>tuNganaKatA<k2>tuNga—naKatA<e>3
+> <s>tuNga—naKatA</s> ¦ <lex>f.</lex> the having prominent nails (one of the 80 minor marks of a <s1>Buddha</s1>), <ls>Dharmas. 84.</ls><info lex="f"/><info n="sup"/>
+302008c302002
+< <s>daditTa</s> ¦ (also) <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+---
+> <s>daditTa</s> ¦ <chg type="chg" n="1" src="cdsl"><old>(also)</old><new>(<ab>cf.</ab> <s>daDimuKa</s>)</new></chg> <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+349276a349271,349273
+> <L>104202.2<pc>1329,2<k1>narendrarAja<k2>narendra—rAja<e>3
+> {{Lbody=104202.1}}
+> <LEND>
+349301,349303d349297
+< <L>104209.1<pc>1329,2<k1>narendrarAja<k2>narendra—rAja<e>3
+< {{Lbody=104202.1}}
+< <LEND>
+350907c350901,350904
+< <s>nava—ratna</s> ¦ <lex>n.</lex> 9 precious gems (<ab>viz.</ab> pearl, ruby, topaz, diamond, emerald, lapis lazuli, coral, sapphire, and <s1>Go-medha</s1> they are supposed to be related to the 9 planets), <ls>L.</ls> (<ab>cf.</ab> <ls>MWB. 528</ls>)<info lex="n"/><listinfo n="sup"/>
+---
+> <s>nava—ratna</s> ¦ <lex>n.</lex> 9 precious gems (<ab>viz.</ab> pearl, ruby, topaz, diamond, emerald, lapis lazuli, coral, sapphire, and <s1>Go-medha</s1> they are supposed to be related to the 9 planets), <ls>L.</ls> (<ab>cf.</ab> <ls>MWB. 528</ls>)<info lex="n"/><listinfo n="rev"/>
+> <LEND>
+> <L>104663.1<pc>531,2<k1>navaratna<k2>nava-ratna<e>3A
+> ¦ nine gems (for ‘lapis lazuli’ read ‘cat's eye’ [= <s>vEqUrya</s>], and for <s>go-meDa</s> read <s>go-meda</s>, ‘zircon’ or ‘jacinth’; the 9 gems are sacred to the five planets with the Sun and Moon, <s1>Rāhu</s1> and <s1>Ketu</s1>).<info n="rev" pc="1329,2"/>
+350910c350907
+< ¦ the 9 jewels (<ab>i.e.</ab> the 9 men of letters at the court of <s1>Vikramāditya</s1>, <ab>viz.</ab> <s1>Dhanvantari</s1>, <s1>Kṣapaṇaka</s1>, <s1>Amara-siṃha</s1>, <s1>Śaṅku</s1>, <s1>Vetāla-bhaṭṭa</s1>, <s1>Ghaṭa-karpara</s1>, <s1>Kāli-dāsa</s1>, <s1>Vara-ruci</s1>, and <s1>Varāha-mihira</s1>), <ls>L.</ls><info lex="inh"/>
+---
+> ¦ the 9 jewels (<ab>i.e.</ab> the 9 men of letters at the court of <s1>Vikramāditya</s1>, <ab>viz.</ab> <s1>Dhanvantari</s1>, <s1>Kṣapaṇaka</s1>, <s1>Amara-siṃha</s1>, <s1>Śaṅku</s1>, <s1>Vetāla-bhaṭṭa</s1>, <s1>Ghaṭa-karpara</s1>, <s1>Kāli-dāsa</s1>, <s1>Vara-ruci</s1>, and <s1>Varāha-mihira</s1>), <ls>L.</ls>
+350915,350917d350911
+< <L>104665.1<pc>1329,2<k1>navaratna<k2>nava-ratna<e>3A
+< ¦ nine gems (for ‘lapis lazuli’ read ‘cat's eye’ [= <s>vEqUrya</s>], and for <s>go-meDa</s> read <s>go-meda</s>, ‘zircon’ or ‘jacinth’; the 9 gems are sacred to the five planets with the Sun and Moon, <s1>Rāhu</s1> and <s1>Ketu</s1>).<info n="sup"/>
+< <LEND>
+412153a412148,412150
+> <L>122642.1<pc>1330,2<k1>pArAvata<k2>pArAvata<e>1B
+> <s>pArAvata</s> ¦ <lex>m.</lex> (also) <ab>N.</ab> of a flute player (teacher of <s1>Bāṇa</s1>), <ls>Hcar.</ls><info n="sup"/><info lex="m"/>
+> <LEND>
+412157,412159d412153
+< <L>122643.1<pc>1330,2<k1>pArAvata<k2>pArAvata<e>1B
+< <s>pArAvata</s> ¦ <lex>m.</lex> (also) <ab>N.</ab> of a flute player (teacher of <s1>Bāṇa</s1>), <ls>Hcar.</ls><info n="sup"/><info lex="m"/>
+< <LEND>
+599868c599862
+< <s>rodo—gfha</s> ¦ (<ls>Bālar.</ls>) o.
+---
+> <s>rodo—gfha</s> (<ls>Bālar.</ls>) or <s>rodo—ranDra</s> (<ls>Śiś.</ls>) ¦ <lex>n.</lex> the void or hollow space between heaven and earth.<info lex="n"/>
+599871c599865
+< <s>rodo—ranDra</s> ¦ (<ls>Śiś.</ls>) <lex>n.</lex> the void or hollow space between heaven and earth.<info lex="n"/>
+---
+> {{Lbody=179825}}
+602699c602693
+< <div n="vp"/><ab>Caus.</ab> or <ab>cl.</ab> 10. (<ls>Dhātup. xxxiii, 63</ls>) <s>lAgayati</s>, ‘to taste’ or ‘to obtain’ (<s>AsvAdane</s>, or <s>AsAdane</s>). [In <lang>Hindī</lang> this root often means ‘to begin’.]<info westergaard="lage,19.24,01.0520;laga,33.63,10.0184"/><info whitneyroots="lag,144"/><info verb="genuineroot" cp="1P,10"/>
+---
+> <div n="vp"/><chg type="chg" n="1" src="cdsl"><old><ab>Caus.</ab> or</old><new><ab>Caus.</ab> <s>lagayati</s>, or</new></chg> <ab>cl.</ab> 10. (<ls>Dhātup. xxxiii, 63</ls>) <s>lAgayati</s>, ‘to taste’ or ‘to obtain’ (<s>AsvAdane</s>, or <s>AsAdane</s>). [In <lang>Hindī</lang> this root often means ‘to begin’.]<info westergaard="lage,19.24,01.0520;laga,33.63,10.0184"/><info whitneyroots="lag,144"/><info verb="genuineroot" cp="1P,10"/><info n="rev" pc="cdsl"/>
+630034,630035c630028,630029
+< <L>189239<pc>933,2<k1>UQa<k2>UQa/<e>2
+< <s>UQa/</s> ¦ <lex>mfn.</lex> (<ab>cf.</ab> √ <hom>1.</hom> <hom>2.</hom> <s>Uh</s>, <ab>p.</ab> 223) carried, conveyed, borne off or along, <ls>RV.</ls> &c. &c.<info lex="m:f:n"/><info hui="a"/>
+---
+> <L>189239<pc>933,2<k1>UQa<k2>UQa/<h>1<e>2
+> <hom>1.</hom> <s>UQa/</s> ¦ <lex>mfn.</lex> (<ab>cf.</ab> √ <hom>1.</hom> <hom>2.</hom> <s>Uh</s>, <ab>p.</ab> 223) carried, conveyed, borne off or along, <ls>RV.</ls> &c. &c.<info lex="m:f:n"/>
+642099c642093,642096
+< <s>vi—jAman</s> ¦ <lex>mfn.</lex> related, corresponding.<info lex="m:f:n"/><info hui="a"/>
+---
+> <s>vi—jAman</s> ¦ <lex>mfn.</lex> related, corresponding.<info lex="m:f:n"/><listinfo n="rev"/>
+> <LEND>
+> <L>193039.1<pc>959,3<k1>vijAman<k2>vi-jA/man<e>3A
+> <s>vi-°jA/man</s> ¦ (read ‘corresponding to each other’, <ab>i.e.</ab> ‘being in pairs’, ‘symmetrical’)<info n="rev" pc="1332,2"/>
+648655,648657d648651
+< <L>194978<pc>959,3<k1>vijAman<k2>vi-jA/man<e>3
+< <s>vi-°jA/man</s> ¦ <lex>mfn.</lex> ‘corresponding to each other’, <ab>i.e.</ab> ‘being in pairs’, ‘symmetrical’, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1332,2"/><info lex="m:f:n"/><info hui="b"/>
+< <LEND>
+658413c658407
+< <L>197907<pc>975,3<k1>vipratisAravat<k2>vi-prati-sAra—vat<e>3
+---
+> <L>197907<pc>975,3<k1>vipratisAravat<k2>vi-prati-sAra—vat<e>4
+659638c659632
+< <s>vi-BA—kara-Sarman</s> ¦ <lex>m.</lex> (<ab>N.</ab> of a poet, <ls>Cat.</ls>)<info lex="m"/>
+---
+> (<s>vi-BA—kara-Sarman</s> ¦ <lex>m.</lex> <ab>N.</ab> of a poet, <ls>Cat.</ls>)<info lex="m"/>
+692960c692954
+< <s>vyajana—cAmara</s> ¦ <lex>n.</lex> the tail of the <bio>Bos Grunniens</bio> used as a whisk or fan, a chowry (<ab>cf.</ab> <s>vyajanacAmara</s>). <info lex="n"/>
+---
+> <s>vyajana—cAmara</s> ¦ <lex>n.</lex> the tail of the <bio>Bos Grunniens</bio> used as a whisk or fan, a chowry (<ab>cf.</ab> <s>cAmaravyajana</s>). <info lex="n"/>
+857843c857837
+< <hom>1.</hom> <s>svan</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xix, 79</ls>) <s>svanati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pf.</ab> <s>sasvAna</s>, 3. <ab>pl.</ab> <s>sasvanuH</s> [<ab>Gr.</ab> also <s>svenuH</s>] <ls>MBh.</ls> &c.; <ab>aor.</ab> <s>asvanIt</s>, <s>asvAnIt</s>, <ls>RV.</ls> [for <ab>aor.</ab> <ab>P.</ab> <s>sva/ni</s> See <s>aDi-</s> and <s>anu-zvan</s>]; <ab>fut.</ab> <s>svanitA</s>, <s>svanizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>svanitum</s>, <ls>ib.</ls>),
+---
+> <hom>1.</hom> <s>svan</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xix, 79</ls>) <s>svanati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pf.</ab> <s>sasvAna</s>, 3. <ab>pl.</ab> <s>sasvanuH</s> [<ab>Gr.</ab> also <s>svenuH</s>] <ls>MBh.</ls> &c.; <ab>aor.</ab> <s>asvanIt</s>, <s>svAnIt</s>, <ls>RV.</ls> [for <ab>aor.</ab> <ab>P.</ab> <s>sva/ni</s> See <s>aDi-</s> and <s>anu-zvan</s>]; <ab>fut.</ab> <s>svanitA</s>, <s>svanizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>svanitum</s>, <ls>ib.</ls>),
