@@ -920,7 +920,71 @@ Auf Branch master
 Ihr Branch ist 3 Commits vor 'origin/master'.
   (benutzen Sie "git push", um lokale Commits zu publizier
 
+--------------------------------------------------------
+10-28-2024
+cp temp_mw_9_3B.txt temp_mw_10.txt
+--------------------------
+corrections_mw_not_abbrev.AB.comments.txt
+
+mw_printchange.txt:
+----
+46543 kavikarRapUrRa : kavikarRapUrRa : kavikarRapUra : The annexure has error '<s>kavi—pUrRa</s> ¦ (read <s>-pUra</s>)' which should be '<s>kavi—karRa-pUrRa</s> ¦ (read <s>-pUra</s>)
+
+--------------------------
+corrections_mw_not_abbrev.AB.comments.-P.2.txt
+
+----
+180705 : lag :
+old: Caus. or cl. 10. (Dhātup. xxxiii, 63) lāgayati
+new = Caus. lagayati, or cl. 10. (Dhātup. xxxiii, 63) lāgayati
+
+OLD: Caus. or
+NEW:
+<chg type="chg" n="1" src="cdsl"><old><ab>Caus.</ab> or </old><new><ab>Caus.</ab> <s>lagayati</s>, or </new></chg>
+
+----
+189239 : UQa : (no homonym) : homonym 1
+----
+208369 : vyajanacAmara : cf. vyajanacAmara : cf. cAmaravyajana : Refer PWG under vyajana
+----
+remove from mw_printchange.txt "258909 : svan : svAnIt : asvAnIt"
+----
+89883.1 : daditTa : (also) : (cf. daDimuKa)
+
+
+-------------------------
+corrections_mw_not_abbrev.AB.comments.-P.3.txt
+(still modifying temp_mw_10.txt)
+12 cases
+
+mw_printchange.txt None notice
+
+Uncovered error in listhierClass.php in csl-apidev repo.
+
+-------------------------
+diff_mw_9_1C_9_1B.AB.comments.txt
+(still modifying temp_mw_10.txt)
+4 cases
+
+mw_printchange.txt:
+294 : akupya : (no homonym) : Homonym 1
+
+
+-------------------------
+# local install temp_mw_10.txt
+cp temp_mw_10.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------------------------
+finish installation
+sync csl-orig and csl-apidev to github
+etc....
 ------------
+sync csl-orig, csl-apidev to github
 --------------------------------------------------------
 --------------------------------------------------------
 --------------------------------------------------------
