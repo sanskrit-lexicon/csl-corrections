@@ -1,0 +1,147 @@
+
+* Case 186: 09/29/2024 dict=MW, L=89883.1, hw=dadittha, user=srhodes
+old = N. of a monkey
+new = (also) N. of a monkey
+
+comment = Typo – Please note that this correction follows the printed text.
+However, there appears to be more to the story, as the expression "(also)" implies another meaning which precedes this supplemental definition.
+Please investigate further.
+If you determine to leave the definition as it is currently, then please mark as a "print change" (if the word 'also' remains omitted).
+
+status = added (also).  
+
+AB comment:
+==========
+In the MW annexure, "(also)" indicates another meaning to be added at the resp. entry+gender data of the main pages.
+So this should probably go to "dadhittha", or "dadhimukha" as an alt. name. from Balar.
+
+Jim: done. print change "(also)" -> "(cf. daDimuKa)"
+OLD:
+<s>daditTa</s> ¦ (also) <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+NEW:
+<s>daditTa</s> ¦ <chg type="chg" n="1" src="cdsl"><old>(also)</old><new>(<ab>cf.</ab> <s>daDimuKa</s>)</new></chg> <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+
+
+AB: 
+My [big post](https://github.com/sanskrit-lexicon/csl-corrections/issues/91#issuecomment-2439868716) having the ending comment
+"Now, we can be sure that the MW entry has a print_error missing the letter 'h', and it indeed is meant to be Dadhittha; hence the entry is to be relocated as 89975.1 (from 89883.1) and its <e>1 has to be changed to <e>2A."
+seems to have been missed by Jim; for he has implemented the correction in a different fashion altogether!
+
+Now the latest correction should be changed as below--
+
+OLD:
+<L>89883.1<pc>1328,3<k1>daditTa<k2>daditTa<e>1
+<s>daditTa</s> ¦ <chg type="chg" n="1" src="cdsl"><old>(also)</old><new>(<ab>cf.</ab> <s>daDimuKa</s>)</new></chg> <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+<LEND>
+
+NEW:
+<L>89975.1<pc>1328,3<k1>daditTa<k2>daditTa<e>1
+<s>daditTa</s><chg type="chg" n="1" src="cdsl"><old><s>daditTa</s></old><new><s>daDitTa</s></new></chg> ¦ <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+<LEND>
+
+and
+[mw_printchange.txt]
+89883.1 : daditTa : (also) : (cf. daDimuKa)
+
+should be made as
+89975.1 : daditTa : daditTa : daDitTa
+
+Jim response: mea culpa. I carelessly overlooked the excellent analysis
+  of the Balar usage.
+
+old:
+<L>89883.1<pc>1328,3<k1>daditTa<k2>daditTa<e>1
+<s>daditTa</s> ¦ <chg type="chg" n="1" src="cdsl"><old>(also)</old><new>(<ab>cf.</ab> <s>daDimuKa</s>)</new></chg> <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>89975.1<pc>1328,3<k1>daDitTa<k2>daDitTa<e>2A
+<chg type="chg" n="1" src="cdsl"><old><s>daditTa</s></old><new><s>daDitTa</s></new></chg> ¦ (also) <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* Case 459: 07/30/2024 dict=MW, L=200034, hw=vyuṣṭa, user=srhodes
+old = See 2. vy-√uṣ.
+new = See 2. vy-uṣ.
+
+comment = Typo – Please note that this suggested correction entails a "print change".
+Please look up the reference "2. vyuṣ" and you will find the following: "2. vy-uṣ f. (fr. vi- √2. vas)".
+Please note that there is NO verbal root here; rather we have a feminine noun which itself derives from the verbal root "2. vas" (with vi prefix)
+So back to the correction at hand, we can conclude that the reference to "√uṣ" is certainly incorrect. (Shall we say 1000 points?).
+
+status = done. print change "See 2. vy-√uṣ." -> "See 1. vy-√uṣ.",
+
+AB comment:
+==========
+No print_change (2. -> 1.) required here.
+[vy-uṣṭi does not appear under 1. vy-uṣ, but is at 2. vy-uṣ along with vy-uṣṭa; this 200034 group entry is for both vy-uṣṭa & vy-uṣṭi together in common.]
+
+Jim:  
+
+AB :
+does my comment above seemed NOT satisfactory to Jim?
+
+Jim response: Not sure whether I missed this from carelessness or confusion.
+Here is my current analysis
+200034 comes on page 987,2.  
+It's H1 parent is hom-2. vivas  on page 987,1:
+  hom-2. vivas English sense "to shine"
+Thus, I expect 200034 to refer to the homonym of vyuz 
+   with a similar sense.
+   The two entries on p 1040 for vyuz are
+     hom-1. vy-√uṣ to burn, etc.
+     hom-2  vy-uz dawn
+   I take 'hom-2  vy-uz dawn' to be similar to 'hom-2. vvas to shine'
+ Thus, 
+  a) in 200034 it should be "See hom-2. vy-uz" 
+  b) Note that the printed text for 200034 has "See hom-2. vy-√uz"
+
+Conclusion:
+
+old:
+<L>200034<pc>987,2<k1>vyuzwa<k2>vy-uzwa<e>2
+<s>vy-uzwa</s>, <s>vy-uzwi</s>. ¦ See <hom>1.</hom> <s>vy-√ uz</s>.
+<LEND>
+
+new:
+<L>200034<pc>987,2<k1>vyuzwa<k2>vy-uzwa<e>2
+<s>vy-uzwa</s>, <s>vy-uzwi</s>. ¦ See <hom>2.</hom> <s>vy-uz</s>.
+<LEND>
+
+And print change is to remove the √:
+200034 : vyuzwi   : See 2. vy-√uz : See 2. vy-uz
+ (of course this applies to 200035 vyuzwa, by grouping.
+
+------------------------------------------------------------------------
+
+* Case 498: 07/16/2024 dict=MW, L=208369, hw=vyajanacāmara, user=srhodes
+old = (cf. vyajanacāmara)
+new = (Investigate and possibly Delete)
+
+comment = Typo – Please note the reference cited here is the very Headword itself! This anomaly is worth 1000 points and needs your attention.
+
+status = PENDING
+
+AB comment:
+==========
+Looks like this is a probable print error; and MW probably meant vyāla-cāmara that appeared in PWG-7 (1875) which did not come out yet by the time of MW72, so there is no mention of it there.
+And MW99 has "sincerely" made use of PWG-7 as well as the 7 pwk volumes for updating/revising the MW72.
+One can easily see that almost all the changes between the two MW editions belong to these 8 volumes of Boethlingk!!
+
+Jim: print change: cf. vyajanacAmara -> cf. cAmaravyajana
+Reasoning:
+ PWG under vyajana:
+ ... cāmara° Mbh. 1,4941. 2,37. 6,670. 3966. Hariv. 1290.
+ MW under cAmaravyajana:
+     n. a chowrie, MBh. i , vi ; Hariv. 1290;
+ 
+AB:
+Yes, I have missed this point at PWG; but, of course, I was not too sure of the correction that I had mentioned above (hence had used 'probably'). 
+Jim has now got the proper correction from the same citation that I was pointing to, but with a "different logic".
+ 
+ However, the actual string that was used by MW is
+ "°cāmara 4,7,21 nach dem Comm. = cāmara°." at the end of the PWG entry.
+
+Jim response:  nothing to do
+------------------------------------------------------------------------
