@@ -1,0 +1,117 @@
+* 1044,1045c1044,1045
+< <L>295.1<pc>1308,1<k1>akupya<k2>a-kupya<e>1B
+< <s>a-kupya</s> ¦ 2. <lex>n.</lex> (<ab>impers.</ab>) anger must not be shown, <ls>MBh.</ls><info n="sup"/><info lex="n"/>
+---
+> <L>295.1<pc>1308,1<k1>akupya<k2>a-kupya<e>1A
+> ¦ 2. <lex>n.</lex> (<ab>impers.</ab>) anger must not be shown, <ls>MBh.</ls><info n="sup"/><info lex="n"/>
+
+AB comment:
+==========
+This should instead be
+<L>296.05<pc>1308,1<k1>akupya<k2>2. a-kupya<e>1
+<hom>2.</hom> <s>a-kupya</s> ¦ <lex>n.</lex> (<ab>impers.</ab>) anger must not be shown, <ls>MBh.</ls>
+<LEND> <info n="sup"/> <info lex="n"/>
+
+and then 294 should be made with <hom>1.</hom>
+<L>294<pc>2,2<k1>akupya<k2>1. a-kupya<e>1
+<hom>1.</hom> <s>a-kupya</s> ¦ <lex>n.</lex> not base metal, gold or silver, <ls>Kir.</ls>
+<LEND> <info n="rev"/> <info lex="n"/>
+
+Clue: The annexure clearly shows the homonym "2." for the entry word.
+
+Jim: changed, but 295.1 is used instead of 296.05
+
+AB:
+Recall that no entry group has <e>1 repeated within it; only the first entry in the bloch is without alphabets [ABCF], and all the following invariably would gave the alphabet attached to it.
+As such, my above change of keeping 2. a-kupya at 296.05 (instead of at 295.1) is more appropriate.
+
+Jim response:  Agree.  Have reverted to 296.05.
+------------------------------------------------------------------------
+
+* 92075c92075,92078
+< <s>Ayogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <s1>Śūdra</s1> man and <s1>Vaiśya</s1> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m"/>
+---
+> <s>Ayogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <s1>Śūdra</s1> man and <s1>Vaiśya</s1> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m"/><listinfo n="sup"/>
+> <LEND>
+> <L>25977.1<pc>1320,1<k1>Ayogava<k2>A/yogava<e>1A
+> <s>A/yogava</s> ¦ (<ls>ŚBr.</ls>). <info n="sup"/>
+92080,92082d92082
+< <L>25978.1<pc>1320,1<k1>Ayogava<k2>A/yogava<e>1B
+< <s>A/yogava</s> ¦ (<ls>ŚBr.</ls>). <info n="sup"/>
+< <LEND>
+
+AB comment:
+==========
+This is a case of "sup" -> "rev"
+
+<L>25977<pc>149,2<k1>āyogava<k2>āyogava<e>1
+<s>ā́yogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <is>Śūdra</is> man and <is>Vaiśya</is> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls>
+<LEND> <info lex="m"/> <info n="rev" pc="1320,1"/>
+<L>25977.1<pc>1320,1<k1>āyogava<k2>ā́yogava<e>1B
+<s>ā́yogava</s> ¦ (<ls>ŚBr.</ls>).
+<LEND> <info n="sup"/>
+
+is to be revised as
+<L>25977<pc>149,2<k1>āyogava<k2>āyogava<e>1
+<s>ā́yogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <is>Śūdra</is> man and <is>Vaiśya</is> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls>
+<LEND> <info lex="m"/> <info n="rev" pc="1320,1"/>
+
+cross-check:
+[L-14985] "<ab>cf.</ab> <s>ā́yogava</s>" at L-14983  (<s>ayogū́</s>) next to L-14983 (<s>ayogava</s>).
+
+Jim: AB 'revision' of 25977 is identical,  (except for sup->rev)
+     When sup is changed to rev
+    However, I notice that page 149 has no accent: Ayogava,
+    while the rev page. 1320 has an Accent: A/yogava.
+    I interpret this to mean:  In the ŚBr. reference, there is an accent.
+
+
+My actions:
+a)  Remove 25977.1 
+<L>25977.1<pc>1320,1<k1>Ayogava<k2>A/yogava<e>1A
+<s>A/yogava</s> ¦ (<ls>ŚBr.</ls>). <info n="sup"/>
+<LEND>
+b)  revise 25977
+old:
+<L>25977<pc>149,2<k1>Ayogava<k2>Ayogava<e>1
+<s>Ayogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <s1>Śūdra</s1> man and <s1>Vaiśya</s1> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m"/><listinfo n="sup"/>
+<LEND>
+
+new:
+<L>25977<pc>149,2<k1>Ayogava<k2>Ayogava<e>1
+<s>Ayogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <s1>Śūdra</s1> man and <s1>Vaiśya</s1> woman; his business is carpentry &c.), <chg type="chg" n="1" src="mw"><old><ls>ŚBr.</ls></old><new>(<s1>ā́yogava</s1> <ls>ŚBr.</ls>)</new></chg>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m"/><info n="rev" pc="1320,1"/>
+<LEND>
+
+Note: I put <s1>ā́yogava</s1> rather than <s>A/yogava</s> since, in 
+  Devanagari for MW we have chosen to NOT show the udAtta accents, in which
+  case this accent difference is invisible in Devanagari output of displays,
+  Hence is not-understandable as a revision.
+
+AB:
+Just recall that the CDSL entry 25977 had already been modified for the accent, when we were integrating the annexure (and the process has broken after looking the revision entries alone; additions entries were yet to be looked at those days)!
+
+So the revised entry should now be 
+<s>āyogava</s> <chg type="chg" n="1" src="mw"><old><s>āyogava</s></old><new><s>ā́yogava</s></new></chg> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <is>Śūdra</is> man and <is>Vaiśya</is> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls>
+
+thus clearly indicating "change in HW accent" as the modification.
+
+Jim response: accept AB's variant, since
+  PWG says the accent applies in all 4 lit. refs mentioned by MW
+  I still think the absence of udAtta accent in Devanagari for MW is confusing here.
+
+Old 25977:
+<s>Ayogava</s> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <s1>Śūdra</s1> man and <s1>Vaiśya</s1> woman; his business is carpentry &c.), <chg type="chg" n="1" src="mw"><old><ls>ŚBr.</ls></old><new><s1>ā́yogava</s1> (<ls>ŚBr.</ls>)</new></chg>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m"/><info n="rev" pc="1320,1"/>
+
+AB new: (using iast in <s>)
+
+<s>āyogava</s> <chg type="chg" n="1" src="mw"><old><s>āyogava</s></old><new><s>ā́yogava</s></new></chg> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <is>Śūdra</is> man and <is>Vaiśya</is> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls>
+
+AB new: (using slp1 in <s>)
+<s>Ayogava</s> <chg type="chg" n="1" src="mw"><old><s>Ayogava</s></old><new><s>A/yogava</s></new></chg> ¦ <lex>m.</lex> (= <s>ayogava</s>, <ab>q.v.</ab>), a man of mixed tribe (sprung from a <is>Śūdra</is> man and <is>Vaiśya</is> woman; his business is carpentry &c.), <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls>
+
+Note: cdsl also changes k2 to have the accent:
+old:
+<L>25977<pc>149,2<k1>Ayogava<k2>Ayogava<e>1
+new:
+<L>25977<pc>149,2<k1>Ayogava<k2>A/yogava<e>1
+------------------------------------------------------------------------

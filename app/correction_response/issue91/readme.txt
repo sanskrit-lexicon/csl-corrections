@@ -1016,6 +1016,112 @@ Files changed:
         diff_9_3B_10.txt
 
 --------------------------------------------------------
+10-30-2024
+corrections_mw_not_abbrev.AB.comments.-P.2.AB.response.txt
+(still modifying temp_mw_10.txt)
+
+corrections_mw_not_abbrev.AB.comments.-P.3.AB.response.txt
+Actually, AB is just commenting on these.  Jim saw no action to take,
+ but made a few additional comments.
+
+
+diff_mw_9_1C_9_1B.AB.comments.AB.response.txt
+
+changes accepted.
+
+----------------------
+in corrections_mw_not_abbrev.AB.comments.-P.2.txt, AB says:
+ It appears to be a better idea to treat the 10 instances in MW annexure having
+ "(rather" as addition strings instead of replacement strings.
+ 
+Scott has so far got 4 instances, and there remain another 6 of them!!
+
+In cdsl mw.txt there are 44 '(rather' instances.
+ Of these, I find only 1 associated with 'sup' or 'rev' (kumAradezRa - sup)
+ What are the other 9?
+
+--------------------------------------------------------
+# install temp_mw_10.txt in csl-orig and push to github
+
+cp temp_mw_10.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW additional corrections to version 10 mw at 
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+--------------------------------------------------------
+process temp_cfr_extra1_not_insert.txt
+  Scott mw correction submissions from 10-17-2024 to 10-24-2024
+
+python parse_corrections1.py temp_cfr_extra1_not_insert.txt corrections_extra1_not_insert.txt temp_mw_10.txt temp_mw_11_work.org
+
+# manual edit corrections_extra1_not_insert.txt AND temp_mw_11_work.org
+# make temp_mw_11.txt and install local
+sh temp_redo_11.sh
+
+***** code for temp_redo_11.sh:
+python remove_markup.py temp_mw_11_work.org temp_mw_11.txt
+
+# local install temp_mw_11.txt
+cp temp_mw_11.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+*****
+
+status = no change. Ref: https://github.com/sanskrit-lexicon/csl-corrections/blob/master/app/correction_response/issue91/readme_double.md
+
+case 22
+possible form for 'prec' elucidation L=14222.1
+<ab>prec.</ab> [<s>amfta-DAyin</s>, sipping nectar]  
+571 matches for "<ab>prec.</ab>"
+Similar to 'prec.' is 'id.'
+4403 matches in 4397 lines for "<ab>id.</ab>"
+
+case 46 : <ab>id.</ab> [<s>alpAvaSizwa</s> having little left]
+ possible markup to annotate 'id.'
+ Similar markup  could be used with 'prec.'
+
+-----
+status = done 110
+status = ?done  7
+status = PENDING 6
+
+diff temp_mw_10.txt temp_mw_11.txt > diff_mw_10_11.txt
+643 lines
+
+--------------------------------
+11-02-2024
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_extra1_not_insert.txt, diff_mw_10_11.txt
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+# 214 insertions(+), 197 deletions(-)
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# On cologne server, pull csl-orig
+# and regenerate mw displays from csl-pywork
+
+-----------------
+# push this csl-corrections repo to github.
+git add .
+git commit -m "mw_printchange.txt related to temp_mw_11 at #91"
+git push
+
+
+
+--------------------------------------------------------
+10/11/2024 - 10/24/2024
+--------------------------------------------------------
+--------------------------------------------------------
+
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 
