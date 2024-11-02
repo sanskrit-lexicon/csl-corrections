@@ -1053,7 +1053,7 @@ cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
 
 --------------------------------------------------------
 process temp_cfr_extra1_not_insert.txt
-  Scott mw correction submissions from 10-17-2024 to 10-24-2024
+  Scott mw correction submissions from 10-11-2024 to 10-24-2024
 
 python parse_corrections1.py temp_cfr_extra1_not_insert.txt corrections_extra1_not_insert.txt temp_mw_10.txt temp_mw_11_work.org
 
@@ -1112,6 +1112,13 @@ cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
 -----------------
 # push this csl-corrections repo to github.
 git add .
+   new file:   app/correction_response/issue91/corrections_extra1_not_insert.txt
+   new file:   app/correction_response/issue91/corrections_mw_not_abbrev.AB.comments.-P.3.AB.response.txt
+   new file:   app/correction_response/issue91/diff_mw_10_11.txt
+   new file:   app/correction_response/issue91/diff_mw_9_1C_9_1B.AB.comments.AB.response.txt
+   modified:   app/correction_response/issue91/readme.txt
+   modified:   dictionaries/mw/mw_printchange.txt
+
 git commit -m "mw_printchange.txt related to temp_mw_11 at #91"
 git push
 
@@ -1119,6 +1126,62 @@ git push
 
 --------------------------------------------------------
 10/11/2024 - 10/24/2024
+temp_cfr_extra1_insert.txt
+
+process temp_cfr_extra1_insert.txt
+  Scott mw correction submissions from 10-11-2024 to 10-24-2024
+
+python parse_corrections2.py temp_cfr_extra1_insert.txt corrections_extra1_insert.txt temp_mw_11.txt temp_mw_12_work.org
+# 157 cases
+
+# manual edit corrections_extra1_insert.txt AND temp_mw_12_work.org
+# make temp_mw_12.txt and install local
+sh temp_redo_12.sh
+
+***** code for temp_redo_12.sh:
+python remove_markup.py temp_mw_12_work.org temp_mw_12.txt
+
+# local install temp_mw_12.txt
+cp temp_mw_12.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+*****
+
+very few changes.
+
+diff temp_mw_11.txt temp_mw_12.txt > diff_mw_11_12.txt
+
+wc -l diff_mw_11_12.txt
+# 32 diff_mw_11_12.txt
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_extra1_insert.txt, diff_mw_11_12.txt
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+# 10 insertions(+), 7 deletions(-)
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# On cologne server, pull csl-orig
+# and regenerate mw displays from csl-pywork
+
+-----------------
+# push this csl-corrections repo to github.
+git add .
+        new file:   corrections_extra1_insert.txt
+        new file:   diff_mw_11_12.txt
+        new file:   parse_corrections2.py
+        modified:   readme.txt
+
+
+git commit -m "corrections_extra1_insert.txt, diff_mw_11_12.txt  at #91"
+git push
+
+
 --------------------------------------------------------
 --------------------------------------------------------
 
