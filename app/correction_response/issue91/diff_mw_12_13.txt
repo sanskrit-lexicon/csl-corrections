@@ -1,0 +1,148 @@
+3821c3821
+< <s>agni—locana</s> ¦ <lex>m.</lex> fiery-eyed, <ab>N.</ab> of <s1>Śiva</s1>, <ls>Gal.</ls><info n="sup"/><info lex="m"/>
+---
+> <s>agni—locana</s> ¦ <lex>m.</lex> ‘fiery-eyed’, <ab>N.</ab> of <s1>Śiva</s1>, <ls>Gal.</ls><info n="sup"/><info lex="m"/>
+35361c35361
+< <s>apa-vAda</s> ¦ <lex>m.</lex> evil speaking, reviling, blaming, speaking ill of (<ab>gen.</ab>)<info lex="m"/><info hui="a"/>
+---
+> <s>apa-vAda</s> ¦ <lex>m.</lex> evil speaking, reviling, blaming, speaking ill of (<ab>gen.</ab>)<info lex="m"/><listinfo n="sup"/>
+35374a35375,35377
+> <L>9666.1<pc>1314,2<k1>apavAda<k2>apa-vAda<e>2A
+> ¦ (also) the withdrawal of the <s>aDyAropa</s> or superimposed attribute (in the <s1>Vedānta</s1>).<info n="sup"/>
+> <LEND>
+35474,35476d35476
+< <L>9695.1<pc>1314,2<k1>apavAda<k2>apa-vAda<e>1A
+< ¦ (also) the withdrawal of the <s>aDyAropa</s> or superimposed attribute (in the <s1>Vedānta</s1>).<info n="sup"/><info lex="inh"/>
+< <LEND>
+35601a35602,35604
+> <L>9727.1<pc>1314,2<k1>apavarjana<k2>apavarjana<e>2A
+> ¦ (also) gift, donation, <ls>L.</ls><info n="sup"/>
+> <LEND>
+35608,35610d35610
+< <L>9729.1<pc>1314,2<k1>apavarjana<k2>apavarjana<e>2A
+< ¦ gift, donation, <ls>L.</ls><info n="sup"/>
+< <LEND>
+35797c35797
+< <L>9775.2<pc>1314,2<k1>apaSabdita<k2>apa-Sab—dita<e>3
+---
+> <L>9775.2<pc>1314,2<k1>apaSabdita<k2>apa-Sab—dita<e>2
+35837,35840c35837
+< <s>a-paSu/—tA</s> ¦ (<s>apaSu/-</s>) <lex>f.</lex> want of cattle, <ls>MaitrS.</ls><info lex="f"/><listinfo n="sup"/>
+< <LEND>
+< <L>9785.1<pc>1314,2<k1>apaSutA<k2>a-paSu/tA<e>3A
+< ¦ want of cattle, <ls>MaitrS.</ls><info n="sup"/><info lex="inh"/>
+---
+> <chg type="chg" n="1" src="mw"><old><s>a-paSu/—tA</s> ¦ (<s>apaSu/-</s>) </old><new><s>a-paSu/tA</s> ¦ </new></chg> <lex>f.</lex> want of cattle, <ls>MaitrS.</ls><info lex="f"/><info n="rev" pc="1314,2"/>
+36625c36622
+< <L>9996<pc>54,1<k1>apARigrahaRa<k2>a-pARigrahaRa<e>1
+---
+> <L>9996<pc>54,1<k1>apARigrahaRa<k2>a-pARigrahaRa<e>3
+36628c36625
+< <L>9996.1<pc>1314,2<k1>apARigrahaRa<k2>a-pARi—grahaRa<e>1B
+---
+> <L>9996.1<pc>1314,2<k1>apARigrahaRa<k2>a-pARi—grahaRa<e>3B
+36631c36628
+< <L>9997<pc>54,1<k1>apARipAda<k2>a-pARi-pAda<e>2
+---
+> <L>9997<pc>54,1<k1>apARipAda<k2>a-pARi-pAda<e>3
+37468,37469c37465,37466
+< <L>10229.1<pc>1314,2<k1>apisomopITa<k2>api—somopITa<e>1
+< <s>api—somopITa</s> ¦ <lex>mfn.</lex> partaking of <s1>Soma</s1> drink, <ls>ŚāṅkhBr.</ls><info n="sup"/><info lex="m:f:n"/>
+---
+> <L>10229.1<pc>1314,2<k1>apisomapITa<k2>api—somapITa<e>1
+> <s>api—somapITa</s> ¦ <lex>mfn.</lex> partaking of <s1>Soma</s1> drink, <ls>ŚāṅkhBr.</ls><info n="sup"/><info lex="m:f:n"/>
+39898,39901c39895
+< <s>abaDA</s> ¦ <lex>f.</lex> segment of the basis of a triangle (<ab>cf.</ab> <s>a-bADA</s> and <s>avabaDA</s>. In <lang>Jaina Prākṛt</lang> <i>abahā</i>, or <i>avahā</i>.)<info lex="f"/><listinfo n="sup"/>
+< <LEND>
+< <L>10943.1<pc>1314,3<k1>abaDA<k2>abaDA<e>1A
+< ¦ a segment of the basis of a triangle, <ls>Līl.</ls><info n="sup"/><info lex="inh"/>
+---
+> <s>abaDA</s> ¦ <lex>f.</lex> segment of the basis of a triangle <chg type="chg" n="1" src="mw"><old></old><new>, <ls>Līl.</ls></new></chg> (<ab>cf.</ab> <s>a-bADA</s> and <s>avabaDA</s>. In <lang>Jaina Prākṛt</lang> <i>abahā</i>, or <i>avahā</i>.) <info lex="f"/><info n="rev" pc="1314,3"/>
+40320,40324c40314,40315
+< <L>11069<pc>60,2<k1>abDitanaya<k2>ab-Di—tanaya<e>3
+< <s>ab-Di—tanaya</s> ¦ <lex>m. <ab>du.</ab></lex> the <s1>Aśvin</s1>s, <ls>Kathās.</ls><info lex="m"/><info hui="a"/>
+< <LEND>
+< <L>11069.1<pc>1315,1<k1>abDitanaya<k2>abDi—tanaya<e>3
+< <s>abDi—tanaya</s> ¦ <lex>m.</lex> <ab>du.</ab> the two <s1>Aśvin</s1>s, <ls>Kathās.</ls><info n="sup"/><info lex="m"/><info hui="b"/>
+---
+> <L>11069<pc>60,2<k1>abDitanaya<k2>abDi—tanaya<e>3
+> <s>ab-Di—tanaya</s> ¦ <lex>m. <ab>du.</ab></lex> <chg type="chg" n="1" src="mw"><old>the <s1>Aśvin</s1>s</old><new>the two <s1>Aśvin</s1>s</new></chg>, <ls>Kathās.</ls><info lex="m"/><info n="rev" pc="1315,1"/>
+40560c40551
+< <L>11137.1<pc>1315,1<k1>aBayagirivihAra<k2>a-Baya—giri-vihAra<e>3
+---
+> <L>11137.1<pc>1315,1<k1>aBayagirivihAra<k2>a-Baya—giri-vihAra<e>3A
+41428c41419
+< <L>11365.1<pc>1315,1<k1>aBicCAyA<k2>aBi-cCAyA<e>1B
+---
+> <L>11365.1<pc>1315,1<k1>aBicCAyA<k2>aBi-cCAyA<e>1
+41578c41569
+< <div n="to"/>to remember (either with the <ab>fut.</ab> <ab>p.</ab> or with <s>yad</s> and <ab>impf.</ab>), <ls>Pāṇ. ii, 2, 112</ls> <ab>seqq.</ab>; <ls>Bhaṭṭ.</ls><info verb="pre" cp="" parse="aBi+jYA"/><info hui="a"/>
+---
+> <div n="to"/>to remember (either with the <ab>fut.</ab> <ab>p.</ab> or with <s>yad</s> and <ab>impf.</ab>), <ls>Pāṇ. ii, 2, 112</ls> <ab>seqq.</ab>; <ls>Bhaṭṭ.</ls><info verb="pre" cp="" parse="aBi+jYA"/>
+41587c41578
+< <s>aBi-jYA</s> ¦ <lex>f.</lex> remembrance, recollection, <ls>Pāṇ. iii, 2, 112</ls><info lex="f"/><info hui="b"/>
+---
+> <s>aBi-jYA</s> ¦ <lex>f.</lex> remembrance, recollection, <ls>Pāṇ. iii, 2, 112</ls><info lex="f"/><listinfo n="rev"/>
+43499c43490
+< <s>aBi-BAzita</s> ¦ <lex>n.</lex> <ab>pl.</ab> word, <ls>BhP.</ls><info n="sup"/><info lex="n"/>
+---
+> <s>aBi-BAzita</s> ¦ <lex>n.</lex> <ab>pl.</ab> words, <ls>BhP.</ls><info n="sup"/><info lex="n"/>
+43830a43822,43824
+> <L>12061.1<pc>1315,2<k1>aBimArgaRA<k2>aBi-mArgaRA<e>2
+> <s>aBi-mArgaRA</s> ¦ <lex>f.</lex> tracking, searching out, <ls>Jātakam.</ls><info n="sup"/><info lex="f"/>
+> <LEND>
+43933,43935d43926
+< <L>12092.1<pc>1315,2<k1>aBimArgaRA<k2>aBi-mArgaRA<e>2
+< <s>aBi-mArgaRA</s> ¦ <lex>f.</lex> tracking, searching out, <ls>Jātakam.</ls><info n="sup"/><info lex="f"/>
+< <LEND>
+44630a44622,44624
+> <L>12297.1<pc>1315,2<k1>aBivAtA<k2>aBi-vAtA<e>2
+> <s>aBi-vAtA</s> ¦ <lex>f.</lex> (√ <s>van</s>) a cow that nourishes her calf, <ls>Lāṭy.</ls><info n="sup"/><info lex="f"/>
+> <LEND>
+44721,44723d44714
+< <L>12324.1<pc>1315,2<k1>aBivAtA<k2>aBi-vAtA<e>2B
+< <s>aBi-vAtA</s> ¦ <lex>f.</lex> (√ <s>van</s>) a cow that nourishes her calf, <ls>Lāṭy.</ls><info n="sup"/><info lex="f"/>
+< <LEND>
+45386c45377
+< <s>aBi-Srad-√ DA</s> ¦ to believe in <ls>Vajracch.</ls><info n="sup"/>
+---
+> <s>aBi-Srad-√ DA</s> ¦ to believe in, <ls>Vajracch.</ls><info n="sup"/>
+45683,45685d45673
+< <L>12613.1<pc>1315,2<k1>aBizavaRa<k2>aBi—zavaRa<e>2
+< <s>aBi—°zavaRa</s> ¦ bathing, <ls>Kir.</ls><info n="sup"/><info hui="a"/>
+< <LEND>
+45687c45675,45678
+< <s>aBi-zavaRa</s> ¦ <lex>n.</lex> pressing out (the juice of the <s1>Soma</s1> plant), <ls>Nir.</ls><info lex="n"/><info hui="b"/>
+---
+> <s>aBi-zavaRa</s> ¦ <lex>n.</lex> pressing out (the juice of the <s1>Soma</s1> plant), <ls>Nir.</ls><info lex="n"/><listinfo n="sup"/>
+> <LEND>
+> <L>12614.1<pc>1315,2<k1>aBizavaRa<k2>aBi—zavaRa<e>2A
+> <s>aBi—°zavaRa</s> ¦ bathing, <ls>Kir.</ls><info n="sup"/>
+46411c46402
+< <s>aBi-sam-pra-hA</s> ¦ (only <ab>ind.p.</ab> <s>-haya</s>), to forsake, <ls>Divyāv.</ls><info n="sup"/>
+---
+> <s>aBi-sam-pra-hA</s> ¦ (only <ab>ind.p.</ab> <s>-hAya</s>), to forsake, <ls>Divyāv.</ls><info n="sup"/>
+46470c46461
+< <L>12856.1<pc>1315,2<k1>aBisamBava<k2>aBi-samBava<e>1
+---
+> <L>12856.1<pc>1315,2<k1>aBisamBava<k2>aBi-samBava<e>2
+46473c46464
+< <L>12856.2<pc>1315,2<k1>aBisamBavana<k2>aBi-samBavana<e>1
+---
+> <L>12856.2<pc>1315,2<k1>aBisamBavana<k2>aBi-samBavana<e>2
+47567c47558
+< <div n="vp"/> (<ab>ind.p.</ab> <s>-jYaya</s>; <ab>Inf.</ab> <s>-jYAtum</s>)
+---
+> <div n="vp"/> (<ab>ind.p.</ab> <s>-jYAya</s>; <ab>Inf.</ab> <s>-jYAtum</s>)
+104104c104095
+< <s>ilvalA<srs/>ri</s> ¦ <lex>m.</lex> ‘<s1>Ilvala</s1>'s enemy, <ab>N.</ab> of <s1>Agastya</s1>’, <ls>L.</ls><info lex="m"/>
+---
+> <s>ilvalA<srs/>ri</s> ¦ <lex>m.</lex> ‘<s1>Ilvala</s1>'s enemy’, <ab>N.</ab> of <s1>Agastya</s1>, <ls>L.</ls><info lex="m"/>
+171089c171080
+< <s>kAla—°nemy-ari</s> ¦ <lex>m.</lex> ‘destroyer of <s1>Kāla-nemi</s1>’, <ab>N.</ab> of <s1>Kṛṣṇa</s1> or <s1>Viṣṇu</s1>, <ls>L.</ls><info lex="m"/>
+---
+> <s>kAla—°nemy-ari</s> ¦ <lex>m.</lex> ‘destroyer of <s1>Kāla-nemi</s1>, <ab>N.</ab> of <s1>Kṛṣṇa</s1> or <s1>Viṣṇu</s1>, <ls>L.</ls><info lex="m"/>
+871509c871500
+< <s>hirA/</s> ¦ <lex>f.</lex> a vein, artery (<ab>cf.</ab> <s>hitA</s> ami <s>sirA</s>), <ls>AV.</ls>; <ls>VS.</ls>; <bot>Gmelina Arborea</bot>, <ls>L.</ls><info lex="f"/><info hui="b"/>
+---
+> <s>hirA/</s> ¦ <lex>f.</lex> a vein, artery (<ab>cf.</ab> <s>hitA</s> and <s>sirA</s>), <ls>AV.</ls>; <ls>VS.</ls>; <bot>Gmelina Arborea</bot>, <ls>L.</ls><info lex="f"/><info hui="b"/>

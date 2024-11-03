@@ -1181,9 +1181,101 @@ git add .
 git commit -m "corrections_extra1_insert.txt, diff_mw_11_12.txt  at #91"
 git push
 
+--------------------------------------------------------
+Interlude: constructing temp_cfr_extra3.txt
+This will have Scott's MW revisions since temp_cfr_extra3
+
+temp_cfr_extra3.txt  
+ 92 lines 
+first: 10/28/2024 04:46:32
+last:  11/02/2024 15:20:42
+
+cp temp_cfr_extra3k.txt tempsave_cfr_extra3.txt
+
+edit temp_cfr_extra3.txt 
+91 match Srhodes
+1 other:
+10/30/2024 12:05:50	MW	 17389	अवदात	Pur.	pure	Typo	octaveboczkowski@gmail.com
+delete this and save.
+----
+3 lines are not MW
+10/31/2024 15:15:18	AP90	9956	kaṃkaḥ	A Vṛ hṇi	A Vṛṣṇi	Typo	srhodes@snowcrest.net
+11/02/2024 12:52:27	SHS	10456	kila	Ealsehood	Falsehood	Typo	srhodes@snowcrest.net
+11/02/2024 14:35:46	SHS	1439	anukampya	expeditions	expeditious	Typo	srhodes@snowcrest.net
+
+delete these 3 lines. Save
+now 88 lines. All are ' MW ' and srhodes (So Scott's corrections for MW.)
+
+Add the 4 lines above to cfr.tsv on local machine.
+sync to Github
+
+On cologne server, pull csl-corrections
+So now Cologne server and local machine and github are in sync.
+
 
 --------------------------------------------------------
---------------------------------------------------------
+# process the corrections in temp_cfr_extra2.txt
+					     
+process temp_cfr_extra2.txt
+  Scott mw correction submissions from 10-25-2024 to 10-27-2024 (86)
+
+python parse_corrections2.py temp_cfr_extra2.txt corrections_extra2.txt temp_mw_12.txt temp_mw_13_work.org
+# 86 cases
+
+# manual edit corrections_extra2.txt AND temp_mw_13_work.org
+# make temp_mw_13.txt and install local
+sh temp_redo_13.sh
+
+--- temp notes xxxx
+‘ ’
+<chg type="chg" n="1" src="mw"><old></old><new></new></chg>
+
+---
+***** code for temp_redo_13.sh:
+python remove_markup.py temp_mw_13_work.org temp_mw_13.txt
+
+# local install temp_mw_13.txt
+cp temp_mw_13.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+*****
+
+diff temp_mw_12.txt temp_mw_13.txt > diff_mw_12_13.txt
+
+wc -l diff_mw_12_13.txt
+# 148 diff_mw_12_13.txt
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_extra2.txt, diff_mw_12_13.txt
+a few additional revisions.
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+# 36 insertions(+), 45 deletions(-)
+#  5 insertions, 5 deletions  # The 'few additional revisions'.
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# On cologne server, pull csl-orig
+# and regenerate mw displays from csl-pywork
+cd csl-pywork/v02
+sh generate_dict.sh mw  ../../MWScan/2020/
+
+-----------------
+# push this csl-corrections repo to github.
+git add .
+        new file:   corrections_extra2.txt
+        new file:   diff_mw_12_13.txt
+        modified:   readme.txt
+        modified:   ../../../dictionaries/mw/mw_printchange.txt
+
+
+
+git commit -m "corrections_extra2.txt, diff_mw_12_13.txt  at #91"
+git push
 
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
