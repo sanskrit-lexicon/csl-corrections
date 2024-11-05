@@ -1,0 +1,737 @@
+* case 1: 11/02/2024 dict=MW, L=5932, hw=anilambhasamādhi, user=srhodes
+old = Contest Between Main Entry and Supplement
+new = Here is a rare case where the Supplemental Entry is actually the Primary Word for a compound Headword listed in the Main Entry in Devanāgarī script. Certainly we will be hearing from Andhrabharati on this. I emphatically state that the Primary Word "anilambha [ID=5931.3 sup]" (although found in the Supplementary Section) Overrules the Devanāgarī Script of the Compound word "anilambhasamādhi [ID=5932]". Please remember that All Supplemental words are Supplemental in MW dictionary by Happenstance. These Supplemental words are not Supplemental to the Sanskrit Language itself. Therefore the Headword "anilambha [ID=5931.3 sup]" should be treated as though in Devanāgarī Script and the Headword "anilambhasamādhi [ID=5932]" should be "demoted" and receive the proper indentation due to its being an undeniable compound formed from this Supplemental Word: "anilambha". (Super-kaching!)
+comment = Contest Between Main Entry and Supplement
+status = done? Agree with Scott. <e>1 -> <e>3 for anilambhasamādhi
+  Yes, Scott -- compound of H1 is viewed as H3 in my current understanding.
+------------------------------------------------------------------------
+
+* case 2: 11/02/2024 dict=MW, L=5946.1, hw=aniveṣṭyamāna, user=srhodes
+old = Indentation Error
+new = Please note that this Supplemental Headword "aniveṣṭyamāna" derives from the prefixed root "ni-√veṣṭ" (of course with the added negative particle "a"). However, the preceding Headword "aniveśana [ID=5946]" derives from the prefixed root "ni-√viś". So there is no etymological relation here, and therefore the indentation is incorrect! (kaching!)
+comment = Indentation Error
+status = done <e>2 -> <e>1
+ 
+------------------------------------------------------------------------
+
+* case 3: 11/02/2024 dict=MW, L=5998.2, hw=anihita, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done. picky, picky! Changed csl-websanlexicon and csl-apidev.
+------------------------------------------------------------------------
+
+* case 4: 11/02/2024 dict=MW, L=6082.1, hw=anukampya, user=srhodes
+old = m. an ascetic, L., expeditious
+new = m. an ascetic, L.; expeditious
+comment = Typo – Along with the above printed correction, I would add the following (as a print change): "m. an ascetic, L.; mfn. expeditious". I would like to meet someone who says, "expeditious is NOT an adjective". Therefore I am suggesting that we add, "mfn." to the "expeditious" definition. SHABDA agrees!
+status = done? Changed typo.  But 'mfn. expeditious' NOT added.
+  Reason 1: other dictionaries
+   ap90  1 A courier, express messenger.
+   gst: 1 A courier, an express, a runner. 2 An ascetic, 
+   mw72: m. an ascetic; a courier. 
+   probably others
+  Reason 2:  We can interpret  m. अनुकम्प्यः  as 'one who is expeditious' ( I think
+    this would be called a bahuvrIhi interpretation)
+  Reason 3: AFAIK, there is no specific concept of 'adjective' in Sanskrit.
+  BTW: SHS is a variant of WIL, who also has expeditious as mfn.
+------------------------------------------------------------------------
+
+* case 5: 11/02/2024 dict=MW, L=6210, hw=anugā, user=srhodes
+old = Emergency
+new = Please note that the Headword "anugā" is printed in Devanāgarī text! There are actually TWO words that have the form: "anugā". 
+The first "anugā" is the feminine form of the word "anuga" which derives from the prefixed root "anugam". 
+The second "anugā [ID=6210]" which is the Emergency being discussed here is the prefixed root "anugā" itself, pure and simple. 
+This second "anugā [ID=6210]" MUST BE RELOCATED in the Hierarchy List to just before the Headword "anugādin [ID=6211]". 
+I do see that the Supplemental listing: "anugā (also) to undergo [ID=6210.1 sup]" IS CORRECTLY placed at this location. HOWEVER, the Main Entry "anugā [ID=6210]" is misplaced and grouped under the root "anugam [ID=6183]". (Super-Duper-kaching!) and 100,000 points – JACKPOT!
+comment = Emergency
+status = done? Jim thinks this has been done previously.
+   Scott should check.
+------------------------------------------------------------------------
+
+* case 6: 11/02/2024 dict=MW, L=6210, hw=anugā, user=srhodes
+old = Emergency
+new = Please note that the Headword "anugā" is printed in Devanāgarī text! There are actually TWO words that have the form: "anugā". The first "anugā" is the feminine form of the word "anuga" which derives from the prefixed root "anugam". The second "anugā [ID=6210]" which is the Emergency being discussed here is the prefixed root "anugā" itself, pure and simple. This second "anugā [ID=6210]" MUST BE RELOCATED in the Hierarchy List to just before the Headword "anugādin [ID=6211]". I do see that the Supplemental listing: "anugā (also) to undergo [ID=6210.1 sup]" IS CORRECTLY placed at this location. HOWEVER, the Main Entry "anugā [ID=6210]" is misplaced and grouped under the root "anugam [ID=6183]". (Super-Duper-kaching!) and 100,000 points – JACKPOT!
+comment = Emergency
+status = dupllicate of case 5
+------------------------------------------------------------------------
+
+* case 7: 11/02/2024 dict=MW, L=6226.4, hw=anugīta, user=srhodes
+old = Double Supplement
+new = Please use this listing as a Perfect Example of a Double Supplement with a Single "circle-S" symbol shown in the Hierarchy List.
+comment = Double Supplement
+status = done previously. Only 1 circle-S in list display
+------------------------------------------------------------------------
+
+* case 8: 11/02/2024 dict=MW, L=6226.4, hw=anugīta, user=srhodes
+old = Emergency
+new = Please note the Supplemental definition given here: "anu-gīta mfn. (also) sung after." Whenever I see the word "(also)", I must demand an "initial or previous" listing. However, we do not find the word "anugīta" in the Main Entry. Of course, we find the feminine form: "anugītā", but I am still not going to let this slide! Will the primary listing of Headword "anugīta" please stand up! In Fact... APTE offers the solution: "anugītam Singing in response to" (of course neuter gender). But when MW uses the word "(also)" we should NOT have to refer to APTE to justify the usage. (kaching!)
+comment = Emergency
+status = nothing to do? We can interpret the '(also)' as referring to anugItA
+------------------------------------------------------------------------
+
+* case 9: 11/02/2024 dict=MW, L=6240, hw=anugrahaṇa, user=srhodes
+old = anu-graha
+new = = anu-graha
+status = nothing to do.  old = new
+------------------------------------------------------------------------
+
+* case 10: 11/02/2024 dict=MW, L=6262.1, hw=anucaraṇa, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed before the word "anucāraka [ID=6261]" in the Hierarchical listing of words. These words are already within the same group; therefore we proceed to rule number two (for ordering), which is: "Proper Alphabetical Order". Of course the following word "anucaraṇacarita [ID=6262.2 sup]" must be moved as well. Or simply, just relocate the single Headword "anucāraka [ID=6261]" AFTER the Headword "anucaraṇacarita". (kaching!)
+comment = Placement Error
+status = done. move anucaraṇa, anucaraṇacarita to 'just before anucāraka'
+------------------------------------------------------------------------
+
+* case 11: 11/02/2024 dict=MW, L=6337.2, hw=anujñāpana, user=srhodes
+old = See Below
+new = Please use this listing as a Perfect Example of a Double Supplement with a Single "circle-S" symbol shown in the Hierarchy List.
+comment = See above
+status = nothing to do
+------------------------------------------------------------------------
+
+* case 12: 11/02/2024 dict=MW, L=6362.2, hw=anutoda, user=srhodes
+old = See Below
+new = Please use this listing as a Perfect Example of a Double Supplement with a Single "circle-S" symbol shown in the Hierarchy List.
+comment = See above
+status = nothing to do
+------------------------------------------------------------------------
+
+* case 13: 11/02/2024 dict=MW, L=6380.1, hw=anuttarapūjā, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done
+------------------------------------------------------------------------
+
+* case 14: 11/02/2024 dict=MW, L=6380.2, hw=anuttarapūjā, user=srhodes
+old = an-uttara-pūjā f. (with Buddhists) highest worship (of seven kinds [ID=6380.1 sup] LB cf. vandana), Dharmas. 14 . [ID=6380.2 sup]
+new = an-uttara-pūjā f. (with Buddhists) highest worship (of seven kinds; cf. vandana), Dharmas. 14. [ID=6380.1 sup]
+comment = Super Typo = (Super-kaching!); Please note that this is a SINGLE supplemental entry and NOT two supplements! Therefore place everything on one continuous line with a single ID number. (Super-kaching!)
+status = done
+old:
+<L>6380.1<pc>1311,3<k1>anuttarapUjA<k2>an-uttara-pUjA<e>3
+<s>an-uttara-pUjA</s> ¦ <lex>f.</lex> (with Buddhists) highest worship (of seven kinds<info n="sup"/><info lex="f"/><listinfo n="sup"/>
+<LEND>
+<L>6380.2<pc>1311,3<k1>anuttarapUjA<k2>an-uttara-pUjA<e>3A
+¦ <ab>cf.</ab> <s>vandana</s>), <ls>Dharmas. 14</ls>.<info n="sup"/>
+<LEND>
+
+new:
+<L>6380.1<pc>1311,3<k1>anuttarapUjA<k2>an-uttara-pUjA<e>3
+<s>an-uttara-pUjA</s> ¦ <lex>f.</lex> (with Buddhists) highest worship (of seven kinds; <ab>cf.</ab> <s>vandana</s>), <ls>Dharmas. 14</ls>.<info n="sup"/><info lex="f"/>
+<LEND>
+
+
+------------------------------------------------------------------------
+
+* case 15: 11/02/2024 dict=MW, L=6457.1, hw=anudraṣṭavya, user=srhodes
+old = Supplement or Revision
+new = Please note that since the only piece of information being stated is a source reference as follows: "(ŚBr.)". I consider the FACT of the parenthetical usage to be indicative of at least one occurrence of this word, but NOT to be a "limiting" indicator as in the sense of "only (here)". Therefore, I would make this a Revision, as simply offering a source citation which is not exhaustive or exclusive in nature.
+comment = Supplement or Revision
+status = not done. the supplement also has a svarita accent.
+
+------------------------------------------------------------------------
+
+* case 16: 11/02/2024 dict=MW, L=6476.1, hw=an-uddhāna, user=srhodes
+old = See Below
+new = Please note that I am citing this Headword: "anuddhāna" as it reminds me of a Headword that I cited previously: "an-ūtsarga m. non-abandonment, Āpast. [ID=7716.1 sup]". As you can see, there is some similarity here. Of course the Headword "an-ūtsarga" needs to be relocated as I previously indicated. And of course both these words begin with the negative particle "an". One other interesting point is this: I have heard it said: "a negative provision cannot exist unless there first is a related positive provision (to be negated)."  In the case of the word "an-uddhāna", we are obviously "negating" the existing word "uddhāna", but what on Earth are we negating in the word "an-ūtsarga". There is no such word as "ūtsarga", but there is the word "utsarga", which leads me to suspect a spelling error. It is worth mentioning again that the vowel preceding the conjunct consonant "ts" is a guru vowel (heavy) and in oral pronunciation the "long" or "short" vowel preceding the conjunct consonant may be mixed up in confusion.
+comment = See Above
+status = Nothing to do. cf. PD:
+ anūtsarga (an-ūtsarga) m. (lengthening archaic) not going up, non-suspension
+------------------------------------------------------------------------
+
+* case 17: 11/02/2024 dict=MW, L=6494.1, hw=anudvejayat, user=srhodes
+old = Group Error
+new = Please indent this Supplemental Word properly as it belongs to the group listed here under the Headword: "anudvigna". (kaching!)
+comment = Group Error
+status = done. <e>1 -> <e>2
+------------------------------------------------------------------------
+
+* case 18: 11/02/2024 dict=MW, L=6534.2, hw=anuninīṣā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "anuninīṣu [ID=6561]" in the Hierarchical listing of words. The reason for this should be obvious. (Super-kaching!)
+comment = Placement Error
+status = done.  ultimately under anunI
+------------------------------------------------------------------------
+
+* case 19: 11/02/2024 dict=MW, L=6645.1, hw=anupayat, user=srhodes
+old = (a wife v.l. °yāt)
+new = (a wife; v.l. °yāt)
+comment = Typo – Also, you may choose to add the variation offered here: "anupayāt" as a searchable Headword. I have done just that, for my own notation. In fact I can also say, "ahamasmyanupayannityam!" (parse that for a pop quiz!).
+status = done
+------------------------------------------------------------------------
+
+* case 20: 11/02/2024 dict=MW, L=6660.1, hw=anuparigrah, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job. That is quite an ID number! I've heard that some Hotels "skip" the thirteenth floor - they go, 11, 12, 14.
+comment = Double Supplement
+status = done
+------------------------------------------------------------------------
+
+* case 21: 11/02/2024 dict=MW, L=6671.2, hw=anuparodhatas, user=srhodes
+old = (with gen. = ‘without prejudice to’)
+new = with gen. = ‘without prejudice to’
+comment = Typo – Please note that this ENTIRE HEADWORD and definition are in parentheses in the Supplemental section. But in the Main Entry, we are not placing certain words in parenthesis. The definition given is NOT parenthetically the definition. The parentheses used in the supplemental section are simply a result of "adding this entry" along with the primary Headword "anuparodha". IN FACT, the indentation in the Hierarchy List essentially serves the same purpose. Bottom Line: No parantheses needed here. For my own purposes, I list the definition as follows: ‘without prejudice to (gen.)', but that is how do things, simple, clear and to the point!
+status = done
+------------------------------------------------------------------------
+
+* case 22: 11/02/2024 dict=MW, L=6733.1, hw=anupālya, user=srhodes
+old = Indentation Needed!
+new = Please note that this Supplemental Headword derives from "2. anupā [ID=6729]" and therefore indentation is required. (kaching!)
+comment = Indentation Needed!
+status = done? <e>1 -> <e>2  How do we know  from anupA. Why not from anupAl?
+------------------------------------------------------------------------
+
+* case 23: 11/02/2024 dict=MW, L=6745.3, hw=anupātta, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done
+------------------------------------------------------------------------
+
+* case 24: 11/02/2024 dict=MW, L=6745.7, hw=anupādhirāmaṇīya, user=srhodes
+old = see 1. upādhi (p. 213).
+new = beautiful without limitation i.e. altogether beautiful.
+comment = Typo – Please note that this is a VERY strange supplemental definition! The supplemental definition given is simply a direction pointing within the Main Entry itself! Why bother with such circuitousness?! As you know, "I prefer sākṣāt !". This is simply a result of correcting a printed book which could not be "typeset" again, so they supplemented with this circuitous direction, but no such need online!
+status = done print change
+old:
+<s>an-upA<srs/>Di-rAmaRIya</s> ¦ see <hom>1.</hom> <s>upA<srs/>Di</s> (<ab>p.</ab> 213).<info n="sup"/>
+new:
+<s>an-upA<srs/>Di-rAmaRIya</s> ¦ see <hom>1.</hom> <s>upA<srs/>Di</s> (<ab>p.</ab> 213): beautiful without limitation, <ab>i.e.</ab> altogether beautiful.<info n="sup"/>
+------------------------------------------------------------------------
+
+* case 25: 11/02/2024 dict=MW, L=6776.1, hw=anupeta, user=srhodes
+old = not affected by, devoid of (comp.), Bcar. 3
+new = an-upeta, (also) not affected by, devoid of (comp.), Bcar.;
+comment = Typo – Please note that this correction is important and follows the printed text. We must state "an-upeta" here so that someone does not mistakenly include the word "anupeta-pūrva" which is cited in the main entry above as an option. Also, the number "3" is actually a "semicolon", which has been corrected here.
+status = done?  Also make anupeta, anupetapUrva (alternate headword group)
+
+old:
+<L>6776<pc>35,2<k1>anupeta<k2>a/n-upeta<e>1
+<s>a/n-upe<srs/>ta</s> ¦ [<ls>ŚBr.</ls>] or <s>anupe<srs/>ta-pUrva</s> [<ls>ĀśvGṛ.</ls>], <lex>mfn.</lex> not yet entered at a teacher's (for instruction). <info lex="m:f:n"/><listinfo n="sup"/>
+<LEND>
+<L>6776.1<pc>1312,1<k1>anupeta<k2>an-upeta<e>1A
+¦ not affected by, devoid of (<ab>comp.</ab>), <ls>Bcar. 3</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>6776<pc>35,2<k1>anupeta<k2>a/n-upeta<e>1
+<s>a/n-upe<srs/>ta</s> [<ls>ŚBr.</ls>] or <s>anupe<srs/>ta-pUrva</s> [<ls>ĀśvGṛ.</ls>], ¦ <lex>mfn.</lex> not yet entered at a teacher's (for instruction). <info lex="m:f:n"/>
+<LEND>
+<L>6776.05<pc>35,2<k1>anupetapUrva<k2>a/n-upeta-pUrva<e>1
+{{Lbody=6776}}
+<LEND>
+<L>6776.1<pc>1312,1<k1>anupeta<k2>an-upeta<e>2
+<s>an-upe<srs/>ta</s> ¦ (also) not affected by, devoid of (<ab>comp.</ab>), <ls>Bcar.</ls>;<info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 26: 11/01/2024 dict=MW, L=7246.1, hw=anuvas, user=srhodes
+old = 7. anu-√vas
+new = 3. anu-√7. vas
+comment = Typo – Please note that this correction follows the printed text. I have added the number "3" in following with the previous two listings for this Headword.
+status = done  hom. 3 is print change
+------------------------------------------------------------------------
+
+* case 27: 11/01/2024 dict=MW, L=7282.2, hw=anuvidheya, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 28: 11/01/2024 dict=MW, L=7331.1, hw=anuvartya, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 29: 11/01/2024 dict=MW, L=7381.1, hw=anuśaṃsa, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 30: 11/01/2024 dict=MW, L=7474.51, hw=anuṣṭubh, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that this supplement applies to: "2. anu-ṣṭubh f. [ID=7474]".
+comment = Supplemental Insertion – Missing Symbol
+status = done previouslly
+------------------------------------------------------------------------
+
+* case 31: 10/31/2024 dict=MW, L=7609.4, hw=anusartṛ, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 32: 11/02/2024 dict=MW, L=7609.4, hw=anusartṛ, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 33: 10/31/2024 dict=MW, L=7662, hw=anuharaṇa, user=srhodes
+old = Double Listing
+new = Please DELETE the second redundant listing and add the "circle-S" Supplemental Insertion Symbol to the right side of the first occurrence of this word in the Hierarchy List Display. (kaching!)
+comment = Double Listing
+status = done.  But note that the first anuharaRa is in alternate headword
+  group with anuhAra; hence can't get rid of 2nd anuharaRa
+------------------------------------------------------------------------
+
+* case 34: 10/31/2024 dict=MW, L=7716.1, hw=anūtsarga, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just prior to the word "anūtsāram [ID=7715]". This placement is strictly according to Alphabetical order. The current placement is incorrect for the following reason: "anūtsṛj [ID=7716]" parses as "anu-ut-sṛj" ; However "anūtsarga [ID=7716.1 sup]" parses as "an-ūt-sarga". In other words the initial prefix is the negative particle "an" and NOT the prefix "anu". When the relocation is made, please remove the indentation as well and retain the "circle-S" Supplemental Insertion Symbol. Of course the ID number will need to be updated as well. (kaching!)
+comment = Placement Error
+status = Nothing to do. cf. PD:
+ anūtsarga (an-ūtsarga) m. (lengthening archaic) not going up, non-suspension
+------------------------------------------------------------------------
+
+* case 35: 10/31/2024 dict=MW, L=7716.1, hw=anūtsarga, user=srhodes
+old = Typo
+new = anutsarga
+comment = Please note that this is an UPDATE to my previous submission. There is a good chance that the word "an-ūtsarga" should be corrected to "an-utsarga" and therefore marked as a "print change". One interesting point to note is that because of the conjunct consonant "ts", the vowel "u" is considered "guru (heavy)" whether it is short or long. Since the word "utsarga" does indeed mean "abandoning", I consider this Headword to properly be "an-utsarga" meaning "non-abandonment". If you verify that indeed this is a "print change", then the new placement of "an-utsarga" will be just after the word "anutsanna [ID=6400]"; and of course without indentation along with an updated ID number.
+status = nothing to do. See comment previous case
+------------------------------------------------------------------------
+
+* case 36: 10/31/2024 dict=MW, L=7718.2, hw=anūdara, user=srhodes
+old = Dhṛta-rāṣṭra
+new = Dhṛtarāṣṭra
+comment = Typo – Please note that this could be considered as a Global "print change" similar to the correction made to " Yudhi-ṣṭhira". Also, just to mention that although there are TWO supplements here, there is just ONE "circle-S" symbol in the Hierarchy list. This is how it should be in all such cases.
+status = done. global print change
+
+146 matches for "Dhṛta-rāṣṭra"
+40 matches for "Dhṛtarāṣṭra"
+
+
+
+------------------------------------------------------------------------
+
+* case 37: 10/31/2024 dict=MW, L=7758, hw=anūbandhya, user=srhodes
+old = MaitrS.; ŚBr. &c. 
+new = ŚBr. &c. ; (MaitrS.)
+comment = Typo – Please note that the revision simply prints, "(MaitrS.)". I consider that this revision is an "addition" to the existing citation, and therefore should follow after the Main Entry citation.
+status = done
+------------------------------------------------------------------------
+
+* case 38: 10/31/2024 dict=MW, L=7799.2, hw=anṛtasaṃhita, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the before "anṛtasaṃgara [ID=7799.1 sup]" in the Hierarchical listing of words, according to Alphabetic order. Also, please note that the word "anṛtasaṃhita [ID=7799.2 sup]" correctly precedes the word "anṛtasaṃgara [ID=7799.1 sup]" in the Supplemental Section, and therefore when inserting both words into the Main Entry their relative position to each other cannot be reversed! (kaching!); The ID numbers will need to be corrected accordingly!
+comment = Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 39: 10/31/2024 dict=MW, L=7841.2, hw=anekasaṃsthāna, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the before "anekasaṃkhya [ID=7841.1 sup]" in the Hierarchical listing of words, according to Alphabetic order. Also, please note that the word "anekasaṃsthāna [ID=7841.2 sup]" correctly precedes the word "anekasaṃkhya [ID=7841.1 sup]" in the Supplemental Section, and therefore when inserting both words into the Main Entry their relative position to each other cannot be reversed! (kaching!); Also please note how MW dictionary recognizes the Alphabetical order of FIRST listing the anusvāra preceding the sibilant "ṃs", and only after that comes the anusvāra preceding the consonant "ṃkh". This is standard practice throughout MW dictionary, and an accepted fact of the Sanskrit Language. It is not a "practice among certain people." It is absolutely the correct ordering and any other ordering is absolutely incorrect. As I have stated before: "The anusvāra first precedes the semivowels, then the sibilants, the the letter h, and lastly the consonants beginning with k." A simple way to understand this reasoning is as follows: the Proper Anusvāra precedes ALL nasals according to Standard Alphabetical Order. However, the anusvāra preceding the consonants is accepted as the "Nasal" of that particular class of consonants. That "Nasal" whichever it is, always FOLLOWS the proper Anusvāra in Alphabetical Order. However, the Anusvāra preceding the semivowels, sibilants and letter h, NEVER changes to a nasal, but always remains an anusvāra and therefore always comes first in proper Alphabetical order.
+comment = Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 40: 10/31/2024 dict=MW, L=7866.1, hw=anedhas, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 41: 10/31/2024 dict=MW, L=7883.5, hw=anaibhṛtya, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 42: 10/31/2024 dict=MW, L=7898.1, hw=anaupādhika, user=srhodes
+old = an-aupādhika mfn. (with sambandha), IW. 63 . [ID=7898.1 sup]
+new = an-aupādhika mfn. unconditional (with sambandha), IW. 63 . [ID=7898.1 sup]
+comment = Partial Definition; Please note that for my own purposes I have added the word "unconditional" to the definition given here. Simply stating, "(with sambandha)", seems to leave half of the story untold. I favor follow through!
+status = not done?  Why did you want to add 'unconditional'?
+------------------------------------------------------------------------
+
+* case 43: 10/31/2024 dict=MW, L=7901, hw=anta, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note the following three Supplementary items given here: "antena [ID=7915.11 sup], antāyakṛ [ID=7915.12 sup] and  antāt antād antam parikramya [ID=7915.13 sup]".
+comment = Supplemental Insertion – Missing Symbol
+status = not done. anta itself has no revision or supplement; antena, antAya, antAt already marked with circle-S.
+------------------------------------------------------------------------
+
+* case 44: 10/31/2024 dict=MW, L=7915.12, hw=antāya, user=srhodes
+old = antāya
+new = antāya -√kṛ to fight obstinately, MBh.ind. [ID=7915.12 sup]
+comment = Typo – Headword Typo (kaching!). Please note that this Supplemental word is parenthetically printed under the Headword "anta". When added to the Hierarchy List it should read "antāyakṛ".
+status = not done?
+------------------------------------------------------------------------
+
+* case 45: 10/31/2024 dict=MW, L=7915.13, hw=antāt, user=srhodes
+old = antāt
+new = antāt antād antam parikramya walking to and fro ib.ind. [ID=7915.13 sup]
+comment = Typo – Headword Typo (kaching!). Please note that this Supplemental expression is parenthetically printed under the Headword "anta". It is not the custom of MW dictionary online to add "searchable" phrases! But I am open to the idea!
+status = nothing done? Let Scott open an issue (in MWS repo) for "searchable phrases"
+    A good enhancement idea. 
+------------------------------------------------------------------------
+
+* case 46: 10/31/2024 dict=MW, L=8030.3, hw=antaḥśri, user=srhodes
+old = See Below
+new = No Correction
+comment = Perfect Use of Parentheses – It is a timely synchronicity to come across this definition which exemplifies a correct use Parentheses in regard to the stated definition.
+status = PENDING
+------------------------------------------------------------------------
+
+* case 47: 10/31/2024 dict=MW, L=8036.3, hw=antaḥsalilastha, user=srhodes
+old = antaḥ—sali—°la-stha mfn. (standing in w°, Pañcat.)
+new = antaḥ—sali—°la-stha mfn. standing in w°, Pañcat.
+comment = Typo – Please note that this may be considered a "print change" depending on your thought process. This entire word and definition are given in parentheses in the Supplemental section. However, in the Main Entry, we do not find the Headword in parantheses. And consider this, Does the Sanskrit Language have any words that are "parenthetical" as opposed to other words which are not? A parenthetical listing is simply "Happenstance" it is not a fact inherent in the Sanskrit Language itself. Therefore, I vote to eliminate the parentheses which actually only "weaken" the fact of a clear definition which needs no apology. The definition IS the definition it is not "parenthetically" the definition.
+status = done? print change.  is it Happenstance? 
+------------------------------------------------------------------------
+
+* case 48: 10/31/2024 dict=MW, L=8042.3, hw=antaḥsmayin, user=srhodes
+old = see smayin, p. 1271 [ID=8042.3 sup]
+new = laughing inwardly.
+comment = Typo – Please note that this is an interesting "print change" consideration. Why not just give the definition directly, rather than having to look up the reference?
+status = done. print change: see smayin, p. 1271, laughing inwardly
+
+------------------------------------------------------------------------
+
+* case 49: 10/31/2024 dict=MW, L=8044, hw=antaḥkhyā, user=srhodes
+old = Link Missing
+new = Please add the "clickable link" for the Printed book page 1312,3 (rev).
+comment = Link Missing
+status = not done.  This suggestion would apply to all "rev". 
+  Let Scott open an enhancement request
+   at https://github.com/sanskrit-lexicon/mws/issues/
+------------------------------------------------------------------------
+
+* case 50: 10/30/2024 dict=MW, L=8059, hw=antarāgamana, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "antarāgama [ID=8059]" in the Hierarchical listing of words. 
+comment = Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 51: 10/30/2024 dict=MW, L=8070.2, hw=antariti, user=srhodes
+old = antar—iti (antar-), excluding, MaitrS. [ID=8070.2 sup]
+new = Relocate this Supplemental Definition in the Window display so as to follow the Main Entry Definition
+comment = Supplemental Definition Placement Error
+status = done?  This is coded as a sup. Should it be a rev?
+------------------------------------------------------------------------
+
+* case 52: 10/30/2024 dict=MW, L=8128.2, hw=antarbhūta, user=srhodes
+old = antar—bhūta mfn. (ifc.) being or contained in anything, ib. [ID=8128.2 sup]
+new = Relocate this Supplemental Definition in the Window display so as to follow the Main Entry Definition
+comment = Supplemental Definition Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 53: 10/30/2024 dict=MW, L=8133.2, hw=antarmukha, user=srhodes
+old = Missing Headword
+new = Please note that the following Supplemental Headword has been omitted from MW dictionary online :  “antarmukham ind. inwardly, Sūryas. [ID=8133.2 sup]". This Supplementary Headword should be placed immediately before the Headword "antarmukha". Also, please be sure to include the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Missing Headword
+status = done previously
+------------------------------------------------------------------------
+
+* case 54: 10/30/2024 dict=MW, L=8152, hw=antarvartinī, user=srhodes
+old = Group Contest
+new = If I may use the following terms metaphorically: "antaraṅga" and "bahiraṅga" ;  and if I may apply them to the "grouping" concept that was discussed previously in regard to the contest between “grouping” and “alphabetical order”. I would like to say that the two words: “antar—vartin or antar—vasat” , may be considered as a “bahiraṅga” grouping. While the word “antarvartinī [ID=8152 sup]” is the feminine form of the Headword “antarvartin”, and therefore, I consider these two words: “antarvartin and antarvartinī” to be an “antaraṅga grouping” (metaphorically speaking). This “antraṅga grouping” is stronger by the grammatical fact of linguistic structure to any grouping by happenstance such as “antarvartin or antarvasat” which I consider to be a “bahiraṅga grouping” (metaphorically speaking). On the basis of these considerations my suggestion is as follows: 
+Relocate the Headword “antarvartinī  [ID=8152 sup]” to immediately after the word “antarvartin” and make an indentation adjustments which may be necessary. Then after the Headword “antarvartinī”, will follow the Headword “antarvasat”. 
+One last point is that the Headword stated as: "antar—vartinī f. pregnant". Obviously we have the feminine gender but an "adjective" definition. I consider this to be an awkward affair. For my own purposes, I have altered the definition to be more true to linguistic interpretation as follows: "antar—vartinī f. a pregnant woman". This "updated" definition is what I call, "follow through."
+comment = Group Contest
+status = not done? 
+  antarvartin, antar vasat is an 'alternate headword group' coded as:
+<L>8151<pc>43,3<k1>antarvartin<k2>antar—vartin<e>3
+<s>antar—vartin</s> or <s>antar—vasat</s>, ¦ <lex>mfn.</lex> internal, included, dwelling in.<info lex="m:f:n"/>
+<LEND>
+<L>8151.1<pc>43,3<k1>antarvasat<k2>antar—vasat<e>3
+{{Lbody=8151}}
+<LEND>
+
+There is no way for  antarvartinI to break into the group.
+We could code the group by copying text manually:
+<L>8151<pc>43,3<k1>antarvartin<k2>antar—vartin<e>3
+<s>antar—vartin</s> or <s>antar—vasat</s>, ¦ <lex>mfn.</lex> internal, included, dwelling in.<info lex="m:f:n"/>
+<LEND>
+<L>8151.1<pc>43,3<k1>antarvasat<k2>antar—vasat<e>3
+<s>antar—vartin</s> or <s>antar—vasat</s>, ¦ <lex>mfn.</lex> internal, included, dwelling in.<info lex="m:f:n"/>
+<LEND>
+
+and then insert antarvartinI as 8151.05.
+
+I've noticed a few other such instances.
+My conclusion is that the current way (vartin, vasat, vartinI) is the 
+least problematic.
+------------------------------------------------------------------------
+
+* case 55: 10/30/2024 dict=MW, L=8156.1, hw=antarvāvat, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, I am wondering how this instance "escaped" from Jim's automated correction to this issue? If you can enlighten me, then for you it is a (kaching!)
+comment = Supplemental Insertion – Missing Symbol
+status = At time of my review, in List display there were two
+  antarvAvat 8156 <e>3
+  antarvAvat 8156.1 <e>3  sup
+    changed to 8156.1 <e>3A sup  (H3 -> H3A) 
+
+------------------------------------------------------------------------
+
+* case 56: 10/30/2024 dict=MW, L=8205.11, hw=antaratas, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 57: 10/30/2024 dict=MW, L=8220.51, hw=antarā, user=srhodes
+old = between - and - Divyāv.
+new = = 'between - and -', Divyāv.
+status = done
+------------------------------------------------------------------------
+
+* case 58: 10/30/2024 dict=MW, L=8335.1, hw=antikāt, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Also, I am wondering how this instance "escaped" from Jim's automated correction to this issue? If you can enlighten me, then for you it is a (kaching!)
+comment = Supplemental Insertion – Missing Symbol
+status = done.  Add <listinfo n="sup"/> to 8335 'from the proximity'.
+     It escaped because programs did not detect the
+      H3C as needing listinfo.
+
+------------------------------------------------------------------------
+
+* case 59: 10/30/2024 dict=MW, L=8384.1, hw=antu, user=srhodes
+old = Double Supplement
+new = Words which have two supplementary definitions are somewhat common. I suggest for Jim to "force" a single "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. There is no need for the Double "S S" – One supplemental indicator is sufficient for the job.
+comment = Double Supplement
+status = done previously
+------------------------------------------------------------------------
+
+* case 60: 10/30/2024 dict=MW, L=8477, hw=andhrabhṛtya, user=srhodes
+old = Headword Missing
+new = Please add the Headword "Andhrabharati" just prior to the word "andhrabhṛtya". Jim, please consider this: "Where would we be without Andhrabharati?"  He deserves his rightful place in MW dictionary. Please consider this as a Supplemental Entry as suggested by aumsanskrit.
+comment = Headword Missing
+status = not done?  Unfortunately, Monier-Williams did not have 
+  Andhrabharati to advise him!
+------------------------------------------------------------------------
+
+* case 61: 10/30/2024 dict=MW, L=8550, hw=annāda, user=srhodes
+old = Headword Missing
+new = You may choose to add the Headword "annāditamā" as stated here: "Superl. of the fem. annādi-tamā, ‘eating the most’, N. of the fore-finger, ŚBr. [ID=8550]". Of course with proper indentation in the Hierarchy List.
+comment = Headword Missing
+status = done added as PHW.  annAditamA occurs in pwg, pd.
+------------------------------------------------------------------------
+
+* case 62: 10/29/2024 dict=MW, L=8581.2, hw=anyatkāma, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "anyat-kāraka [ID=8650]" in the Hierarchical listing of words. The reason for this is because the word is formed from "anyat". It is interesting to note that MW dictionary does not list the Headword "anyat", whereas Apte, Shabda and others do recognise this word. In any case MW does recognize the compounds so formed. (kaching!)
+comment = Placement Error
+status = done? The supplement does have "Anyat (in comp.)"
+  I added "anyat" (sup) between anyatastyajAyin and anyatkAraka. (8649.1)
+  Then, anyatkAma moved per Scott.
+------------------------------------------------------------------------
+
+* case 63: 10/29/2024 dict=MW, L=8581.3, hw=anyatpārśva, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "anyat-√kṛ  [ID=8651]" in the Hierarchical listing of words. The reason for this is because the word is formed from "anyat". It is interesting to note that MW dictionary does not list the Headword "anyat", whereas Apte, Shabda and others do recognise this word. In any case MW does recognize the compounds so formed. (kaching!)
+comment = Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 64: 10/29/2024 dict=MW, L=8581.4, hw=anyatsthānagata, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "anyatpārśva", which itself has just been relocated to after the Headword "anyat-√kṛ  [ID=8651]" in the Hierarchical listing of words. The reason for this is because the word is formed from "anyat". It is interesting to note that MW dictionary does not list the Headword "anyat", whereas Apte, Shabda and others do recognise this word. In any case MW does recognize the compounds so formed. (kaching!)
+comment = Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 65: 10/29/2024 dict=MW, L=8581.4, hw=anyatsthānagata, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "anyatpārśva", which itself has just been relocated to after the Headword "anyat-√kṛ  [ID=8651]" in the Hierarchical listing of words. The reason for this is because the word is formed from "anyat". It is interesting to note that MW dictionary does not list the Headword "anyat", whereas Apte, Shabda and others do recognise this word. In any case MW does recognize the compounds so formed. (kaching!)
+comment = Placement Error
+status = duplicate of 64.
+------------------------------------------------------------------------
+
+* case 66: 10/29/2024 dict=MW, L=8623.4, hw=anyārtha, user=srhodes
+old = Missing Headword
+new = Please add the Headword "anyārthavat", specified as: "having another sense or meaning (also -vat), Daśar., Sch. [ID=8623.4 sup]". This Headword should be placed after the word "anyārthatva [ID=8623.6 sup]" in the Hierarchy List along with the "circle-S" Supplemental Insertion Symbol.
+comment = Missing Headword
+status = done
+------------------------------------------------------------------------
+
+* case 67: 10/29/2024 dict=MW, L=8675.1, hw=anyathābhidhāna, user=srhodes
+old = Placement Error + Typo
+new = The supplemental insertion of this Headword should be placed after the word "anyathābhāva [ID=8665]" in the Hierarchical listing of words. Also, please note the printed text reads: "anya—°thābhidhāna (°thābh°), n. false statement or deposition, ib. [ID=8675.1 sup]". Therefore, you may choose to add this missing portion: "(°thābh°)," – (kaching!).
+comment = Placement Error + Typo
+status = done
+------------------------------------------------------------------------
+
+* case 68: 10/29/2024 dict=MW, L=8921.1, hw=anvīta, user=srhodes
+old = mfn. = anvita, Bālar.
+new = mfn. = anv-ita, Bālar.
+comment = Typo – Two things to note: 1) The Supplement itself adds absolutely nothing new! In such cases I say, "Prune and Eliminate". 2) My correction (with hyphen) matches the printed text (which also matches the original entry without the other sources referenced).
+status = done? Should it be a "rev"?
+------------------------------------------------------------------------
+
+* case 69: 10/29/2024 dict=MW, L=8967.1, hw=apakaṣāya, user=srhodes
+old = sinless, MārkP. [ID=8967.1 sup]
+new = mfn. sinless (-tva, n.), MārkP. [???  rev]
+comment = Please note that his could almost be considered as a "Revision". The definition is absolutely identical (including the source). The only "addition" is the neuter form "apakaṣāyatva" which is added here. For this reason, we could simplify this as a "Revision" which "expands" the original definition, and "overwrite" the original main entry which has now become a painful redundancy.  Also please note that the word "apakaṣāyatva" itself should be considered a "Supplemental Word" and therefore its following listing in the Hierarchy will be marked as Supplemental. But this Primary Listing of the Headword "apakaṣāya", I consider to be Revisionary in nature. (kaching!)
+status = done. merge 8967.1 into 8967 as a "rev". delete 8967.1 
+
+------------------------------------------------------------------------
+
+* case 70: 10/29/2024 dict=MW, L=8998.1, hw=apakṛtya, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. I am curious how this one "escaped" your high-level correction to display the Supplementary Symbol in the Hierarchy List. Please comment and (kaching!)
+comment = Supplemental Insertion – Missing Symbol
+status = done.  Missed <listinfo n="sup"/> on 8998 not sure why
+------------------------------------------------------------------------
+
+* case 71: 10/29/2024 dict=MW, L=9036.1, hw=apakrama, user=srhodes
+old = Missing Headword
+new = Please note that the Supplemental Word "apa-krāmam ind. going away, MaitrS. [ID=9036.1 sup]" has been omitted from the Hierarchy List. Also, the "circle-S" symbol will need to be included.
+comment = Missing Headword
+status = done  And  moved to just after apakrAnti
+------------------------------------------------------------------------
+
+* case 72: 10/29/2024 dict=MW, L=9127, hw=apacit, user=srhodes
+old = Revision – But please retain the original entry!
+new = Original Entry:  "f. a noxious flying insect, AV."
+comment = Information Loss! – Please note that APTE maintains the original definition which MW dictionary has cancelled. Please do your thing, with the 'line through the original' or whatever.
+status = done? Rewrite as 2 entries, first is original from p. 48,3
+  second is the revision
+  Note VEI has a plausible explanation of how the two senses are related.
+
+old: 
+<L>9127<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2 
+<hom>2.</hom> <s>apa-ci/t</s> ¦ <lex>f.</lex> a sore, boil, = <s>apa-cI</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/><info lex="f"/>
+<LEND>
+
+new:
+<L>9127<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2 
+<hom>2.</hom> <s>apa-ci/t</s> ¦ <s>t</s>, <lex>f.</lex> a noxious flying insect, <ls>AV.</ls> <info lex="f"/>
+<LEND>
+<L>9127.1<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2A
+<hom>2.</hom> <s>apa-ci/t</s> ¦ (read, ‘a sore, boil’, = <s>apa-cI</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 73: 10/28/2024 dict=MW, L=9227.1, hw=apadarpa, user=srhodes
+old = apadarpa mf(ā)n.
+new = apa-darpa mf(ā)n.
+comment = Typo – Please remember: "We like to show the parsing". (kaching!)
+status = done
+------------------------------------------------------------------------
+
+* case 74: 11/02/2024 dict=MW, L=9292.2, hw=apaninīṣā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "apanīta [ID=9302]" in the Hierarchical listing of words. The reason for this is the obvious fact of the Desiderative formed word from the prefixed root "apa-nī". (Super-kaching!)
+comment = Placement Error
+status = done. Movement to after apanI sensible. 
+------------------------------------------------------------------------
+
+* case 75: 11/02/2024 dict=MW, L=9292.3, hw=apaninīṣu, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "apanīta [ID=9302]" in the Hierarchical listing of words. The reason for this is the obvious fact of the Desiderative formed word from the prefixed root "apa-nī". (Super-kaching!)
+comment = Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 76: 10/28/2024 dict=MW, L=9363.1, hw=apamaṅgala, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword (apa-maṅgala) should be placed before the word "apa-mada mfn. [ID=9366.3 sup]" in the Hierarchical listing of words. The reaons being that both words are simply formed with the prefix "apa". Please note that the current location of the Headword "apamaṅgala" interrupts the existing grouping of Headwords formed from "apama". (kaching!)
+comment = Placement Error
+status = done
+------------------------------------------------------------------------
+
+* case 77: 10/28/2024 dict=MW, L=9366.1, hw=apamaśiñjinī, user=srhodes
+old = Double Indentation Needed
+new = Please note that the Headword "apama-śiñjinī" should be considered part of the double-indented group of words formed from "apama".
+comment = Double Indentation Needed
+status = done <e>1 -> <e>3
+------------------------------------------------------------------------
+
+* case 78: 10/28/2024 dict=MW, L=9430.1, hw=aparagodāna, user=srhodes
+old = Missing Supplementary Headword
+new = Please note that the supplementary entry "aparagodāni" has been listed together with the Headword "aparagodāna". The Headword "aparagodāni" should have its own Headword in the Hierarchy list along with the "circle-S" supplementary symbol.
+comment = Missing Supplementary Headword
+status = done <e>3C -> <e>3
+------------------------------------------------------------------------
+
+* case 79: 10/28/2024 dict=MW, L=9493.1, hw=aparājayin, user=srhodes
+old = Supplement Identical to Main Entry
+new = The Supplementary definition appears identical in every way to the Main Entry. Should we take action to eliminate the redundancy (in the spirit of Pāṇini), or do retain the repetition in honor of the MW Dictionary oversight?
+comment = Supplement Identical to Main Entry
+status = no change.  Warts and all
+------------------------------------------------------------------------
+
+* case 80: 10/28/2024 dict=MW, L=9528, hw=aparābhava, user=srhodes
+old = not succumbing, victory, MBh. [ID=9528 sup]
+new = a-parābhava m. not succumbing, victory, MBh. [ID=9528 sup]
+comment = Typo – Also, please note that there is an interesting question here regarding the indentation in the Hierarchy List. Especially taking into consideration the following two words: "aparābhāva" and "aparābhūta". Obviously all three words derive from the same source, so their treatment as an etymological group, should be considered in their relative "indentation" status. Is this another contest? (kaching!)
+status = done <e>2 -> <e>1 . In placing the revisions such as anuBava we sometimes 
+   set <e>1 and sometimes <e>2.  In main, <e>1 means Devanagari headword.
+   But why did MW write aparABUta in Roman? 
+   In current case, <e>1 seems better.
+   
+------------------------------------------------------------------------
+
+* case 81: 10/31/2024 dict=MW, L=25316, hw=ābhīra, user=srhodes
+old = ābhīrī f. n. N. of a metre
+new = (ī), f. and (am), n., N. of a metre
+comment = Typo – (kaching!)
+status = done
+------------------------------------------------------------------------
+
+* case 82: 11/01/2024 dict=MW, L=29761, hw=īr, user=srhodes
+old = iriṣyati
+new = īriṣyati
+comment = Typo – Scott finds needle in small haystack (kaching!)
+status = done.  Jim finds another needle: iraṃ-cakre -> īraṃ-cakre
+------------------------------------------------------------------------
+
+* case 83: 11/01/2024 dict=MW, L=29761, hw=īr, user=srhodes
+old = iriṣyati
+new = īriṣyati
+comment = Typo – Scott finds needle in small haystack (kaching!)
+status = duplicate
+------------------------------------------------------------------------
+
+* case 84: 11/01/2024 dict=MW, L=70640, hw=cakṣ, user=srhodes
+old = 2. du. cakṣathe
+new = 2. du. cakṣāthe
+comment = Typo – Scott finds needle in Small haystack (kaching!)
+status = done
+------------------------------------------------------------------------
+
+* case 85: 10/30/2024 dict=MW, L=92642, hw=dih, user=srhodes
+old = adigdka
+new = adigdha
+comment = Typo – Scott finds needle in haystack (kaching!)
+status = done
+------------------------------------------------------------------------
+
+* case 86: 11/02/2024 dict=MW, L=101199, hw=dhikkṛta, user=srhodes
+old = n. pl. reproach, contempt
+new = n. reproach, contempt
+comment = Typo – Please note that this is a suggested "Print Change". APTE does NOT require the "plural" for this definition. Also, it is VERY unusual for the neuter gender of such words and definitions to "require plural". When something is not stated, then we can take it as "anyatarasyām". I am certain that in the vast and extensive literature of the Sanskrit language, this particular word "dhikkṛtam" is NOT required to be plural according to the usage of the master. By the way, my number one favorite Grammatical Rule for Sanskrit is this: "according to the usage of the masters!".
+status = not changed. PW also has n. pl.
+------------------------------------------------------------------------
+
+* case 87: 11/02/2024 dict=MW, L=101200, hw=dhikkriyā, user=srhodes
+old = = prec. n. pl.
+new = reproach, contempt
+comment = Typo – Please note that this is a suggested "print change". Obviously when reading the printed page, it is easy enough to follow the direction: "= prec. n. pl."; BUT for MW online, I prefer definitions to be directly stated. Perhaps in certain grammatical cases it is preferable to give a definition by reference, but here I prefer "sākṣāt !"
+status = done print change.
+------------------------------------------------------------------------
+
+* case 88: 10/31/2024 dict=MW, L=157384, hw=mantravid, user=srhodes
+old = (superl. -vittarma)
+new = (superl. -vittama)
+comment = Typo – a superlative correction = (Super-kaching!)
+status = done.
+------------------------------------------------------------------------
+

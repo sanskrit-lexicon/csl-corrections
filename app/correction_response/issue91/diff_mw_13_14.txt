@@ -1,0 +1,883 @@
+21445c21445
+< <L>5932<pc>30,2<k1>anilamBasamADi<k2>a-nilamBa-samADi<e>1
+---
+> <L>5932<pc>30,2<k1>anilamBasamADi<k2>a-nilamBa-samADi<e>3
+21490c21490
+< <L>5946.1<pc>1311,3<k1>anivezwyamAna<k2>a-nivezwyamAna<e>2
+---
+> <L>5946.1<pc>1311,3<k1>anivezwyamAna<k2>a-nivezwyamAna<e>1
+21985c21985
+< <s>anu-kampya</s> ¦ <lex>m.</lex> an ascetic, <ls>L.</ls>, expeditious (explained by <s>tarasvin</s>, perhaps for <s>tapasvin</s>), <ls>L.</ls><info lex="m"/>
+---
+> <s>anu-kampya</s> ¦ <lex>m.</lex> an ascetic, <ls>L.</ls>; expeditious (explained by <s>tarasvin</s>, perhaps for <s>tapasvin</s>), <ls>L.</ls><info lex="m"/>
+22621a22622,22627
+> <L>6260.2<pc>1311,3<k1>anucaraRa<k2>anu-caraRa<e>2
+> <s>anu-caraRa</s> ¦ <lex>n.</lex> going after, wandering, <ls>Kauś.</ls><info n="sup"/><info lex="n"/>
+> <LEND>
+> <L>6260.3<pc>1311,3<k1>anucaraRacarita<k2>anu-caraRa—carita<e>3
+> <s>anu-caraRa—carita</s> ¦ <lex>n.</lex> acts, deeds, adventures, <ls>BhP.</ls><info n="sup"/><info lex="n"/>
+> <LEND>
+22628,22633d22633
+< <L>6262.1<pc>1311,3<k1>anucaraRa<k2>anu-caraRa<e>2
+< <s>anu-caraRa</s> ¦ <lex>n.</lex> going after, wandering, <ls>Kauś.</ls><info n="sup"/><info lex="n"/>
+< <LEND>
+< <L>6262.2<pc>1311,3<k1>anucaraRacarita<k2>anu-caraRa—carita<e>3
+< <s>anu-caraRa—carita</s> ¦ <lex>n.</lex> acts, deeds, adventures, <ls>BhP.</ls><info n="sup"/><info lex="n"/>
+< <LEND>
+23049,23052c23049
+< <s>an-uttara-pUjA</s> ¦ <lex>f.</lex> (with Buddhists) highest worship (of seven kinds<info n="sup"/><info lex="f"/><listinfo n="sup"/>
+< <LEND>
+< <L>6380.2<pc>1311,3<k1>anuttarapUjA<k2>an-uttara-pUjA<e>3A
+< ¦ <ab>cf.</ab> <s>vandana</s>), <ls>Dharmas. 14</ls>.<info n="sup"/>
+---
+> <s>an-uttara-pUjA</s> ¦ <lex>f.</lex> (with Buddhists) highest worship (of seven kinds; <ab>cf.</ab> <s>vandana</s>), <ls>Dharmas. 14</ls>.<info n="sup"/><info lex="f"/>
+23456c23453
+< <L>6494.1<pc>1311,3<k1>anudvejayat<k2>an-udvejayat<e>1
+---
+> <L>6494.1<pc>1311,3<k1>anudvejayat<k2>an-udvejayat<e>2
+23596,23598d23592
+< <L>6534.2<pc>1312,1<k1>anuninIzA<k2>anu-ninIzA<e>1
+< <s>anu-ninIzA</s> ¦ <lex>f.</lex> the wish to propitiate, <ls>HPariś.</ls><info n="sup"/><info lex="f"/>
+< <LEND>
+23679a23674,23676
+> <L>6560.1<pc>1312,1<k1>anuninIzA<k2>anu-ninIzA<e>1
+> <s>anu-ninIzA</s> ¦ <lex>f.</lex> the wish to propitiate, <ls>HPariś.</ls><info n="sup"/><info lex="f"/>
+> <LEND>
+23975c23972
+< <s>an-upayat</s> ¦ <lex>mfn.</lex> not going to (a wife <ab>v.l.</ab> <s>°yAt</s>), <ls>Mn. ix, 4</ls>.<info n="sup"/><info lex="m:f:n"/>
+---
+> <s>an-upayat</s> ¦ <lex>mfn.</lex> not going to (a wife; <ab>v.l.</ab> <s>°yAt</s>), <ls>Mn. ix, 4</ls>.<info n="sup"/><info lex="m:f:n"/>
+24081c24078
+< <s>an-uparoDa—tas</s> ¦ (with <ab>gen.</ab> = ‘without prejudice to’), <ls>PārGṛ.</ls>; <ls>Mn.</ls><info n="sup"/>
+---
+> <s>an-uparoDa—tas</s> ¦ with <ab>gen.</ab> = ‘without prejudice to’, <ls>PārGṛ.</ls>; <ls>Mn.</ls><info n="sup"/>
+24292c24289
+< <L>6733.1<pc>1312,1<k1>anupAlya<k2>anu-pAlya<e>1
+---
+> <L>6733.1<pc>1312,1<k1>anupAlya<k2>anu-pAlya<e>2
+24350c24347
+< <s>an-upA<srs/>Di-rAmaRIya</s> ¦ see <hom>1.</hom> <s>upA<srs/>Di</s> (<ab>p.</ab> 213).<info n="sup"/>
+---
+> <s>an-upA<srs/>Di-rAmaRIya</s> ¦ see <hom>1.</hom> <s>upA<srs/>Di</s> (<ab>p.</ab> 213): beautiful without limitation, <ab>i.e.</ab> altogether beautiful.<info n="sup"/>
+24468c24465
+< <s>a/n-upe<srs/>ta</s> ¦ [<ls>ŚBr.</ls>] or <s>anupe<srs/>ta-pUrva</s> [<ls>ĀśvGṛ.</ls>], <lex>mfn.</lex> not yet entered at a teacher's (for instruction). <info lex="m:f:n"/><listinfo n="sup"/>
+---
+> <s>a/n-upe<srs/>ta</s> [<ls>ŚBr.</ls>] or <s>anupe<srs/>ta-pUrva</s> [<ls>ĀśvGṛ.</ls>], ¦ <lex>mfn.</lex> not yet entered at a teacher's (for instruction). <info lex="m:f:n"/>
+24470,24471c24467,24471
+< <L>6776.1<pc>1312,1<k1>anupeta<k2>an-upeta<e>1A
+< ¦ not affected by, devoid of (<ab>comp.</ab>), <ls>Bcar. 3</ls><info n="sup"/>
+---
+> <L>6776.05<pc>35,2<k1>anupetapUrva<k2>a/n-upeta-pUrva<e>1
+> {{Lbody=6776}}
+> <LEND>
+> <L>6776.1<pc>1312,1<k1>anupeta<k2>an-upeta<e>2
+> <s>an-upe<srs/>ta</s> ¦ (also) not affected by, devoid of (<ab>comp.</ab>), <ls>Bcar.</ls>;<info n="sup"/>
+26153,26154c26153,26154
+< <L>7246.1<pc>1312,2<k1>anuvas<k2>anu-vas<h>7<e>1
+< <hom>7.</hom> <s>anu-√ vas</s> ¦ (only <s>-vAvase</s>), to rush at, <ls>RV. viii, 4, 8</ls>.<info n="sup"/><info verb="gati" cp="" parse="anu+vas"/>
+---
+> <L>7246.1<pc>1312,2<k1>anuvas<k2>anu-vas<h>3<e>1
+> <hom>3.</hom> <s>anu-</s>√ <hom>7.</hom> <s>vas</s> ¦ (only <s>-vAvase</s>), to rush at, <ls>RV. viii, 4, 8</ls>.<info n="sup"/><info verb="gati" cp="" parse="anu+vas"/>
+27843c27843
+< <s>anUdara</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the sons of <s1>Dhṛta-rāṣṭra</s1>, <ab>ib.</ab><info n="sup"/><info lex="m"/>
+---
+> <s>anUdara</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the sons of <s1>Dhṛtarāṣṭra</s1>, <ab>ib.</ab><info n="sup"/><info lex="m"/>
+27982c27982
+< <s>anU-ba/nDya</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>MaitrS.</ls>; <ls>ŚBr.</ls> &c. <info n="rev" pc="1312,2"/><info lex="m:f:n"/>
+---
+> <s>anU-ba/nDya</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>ŚBr.</ls> &c.; (<ls>MaitrS.</ls>)<info n="rev" pc="1312,2"/><info lex="m:f:n"/>
+28140,28143c28140
+< <L>7799.1<pc>1312,3<k1>anftasaMgara<k2>an-fta—saMgara<e>3
+< <s>an-fta—saMgara</s> ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls>Āpast.</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+< <L>7799.2<pc>1312,3<k1>anftasaMhita<k2>an-fta—saMhita<e>3
+---
+> <L>7799.1<pc>1312,3<k1>anftasaMhita<k2>an-fta—saMhita<e>3
+28145a28143,28145
+> <L>7799.2<pc>1312,3<k1>anftasaMgara<k2>an-fta—saMgara<e>3
+> <s>an-fta—saMgara</s> ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls>Āpast.</ls><info n="sup"/><info lex="m:f:n"/>
+> <LEND>
+28292a28293,28295
+> <L>7841.05<pc>1312,3<k1>anekasaMsTAna<k2>aneka—saMsTAna<e>3
+> <s>aneka—saMsTAna</s> ¦ <lex>mfn.</lex> wearing various disguises (as spies), <ls>Mn. ix, 261</ls><info n="sup"/><info lex="m:f:n"/>
+> <LEND>
+28296,28298d28298
+< <L>7841.2<pc>1312,3<k1>anekasaMsTAna<k2>aneka—saMsTAna<e>3
+< <s>aneka—saMsTAna</s> ¦ <lex>mfn.</lex> wearing various disguises (as spies), <ls>Mn. ix, 261</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+29110c29110
+< <s>antaH—sali—°la-sTa</s> ¦ <lex>mfn.</lex> (standing in <ab n="water">w°</ab>, <ls>Pañcat.</ls>)<info n="sup"/><info lex="m:f:n"/>
+---
+> <s>antaH—sali—°la-sTa</s> ¦ <lex>mfn.</lex> standing in <ab n="water">w°</ab>, <ls>Pañcat.</ls><info n="sup"/><info lex="m:f:n"/>
+29164c29164
+< <s>antaH—smayin</s> ¦ see <s>smayin</s>, <ab>p.</ab> 1271<info n="sup"/>
+---
+> <s>antaH—smayin</s> ¦ see <s>smayin</s>, <ab>p.</ab> 1271, laughing inwardly<info n="sup"/>
+29196,29198d29195
+< <L>8049.1<pc>1312,3<k1>antarAgamana<k2>antar—Agamana<e>3
+< <s>antar—Agamana</s> ¦ <lex>n.</lex> passing between, <pb n="1313,1"/> <ls>Mn. iv, 126</ls><info n="sup"/><info lex="n"/>
+< <LEND>
+29231a29229,29231
+> <L>8059.1<pc>1312,3<k1>antarAgamana<k2>antar—Agamana<e>3
+> <s>antar—Agamana</s> ¦ <lex>n.</lex> passing between, <pb n="1313,1"/> <ls>Mn. iv, 126</ls><info n="sup"/><info lex="n"/>
+> <LEND>
+29272,29274d29271
+< <L>8070.2<pc>1313,1<k1>antariti<k2>antar—iti<e>3
+< <s>antar—iti</s> ¦ (<s>anta/r-</s>), excluding, <ls>MaitrS.</ls><info n="sup"/><info hui="a"/>
+< <LEND>
+29490,29492d29486
+< <L>8128.2<pc>1313,1<k1>antarBUta<k2>antar—BUta<e>3
+< <s>antar—BUta</s> ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) being or contained in anything, <ab>ib.</ab><info n="sup"/><info lex="m:f:n"/><info hui="a"/>
+< <LEND>
+29620c29614
+< <s>antar—vA/vat</s> ¦ <lex>ind.</lex> inwardly, <ls>RV.</ls><info lex="ind"/><info hui="b"/>
+---
+> <s>antar—vA/vat</s> ¦ <lex>ind.</lex> inwardly, <ls>RV.</ls><info lex="ind"/><listinfo n="sup"/>
+29622,29623c29616,29617
+< <L>8156.1<pc>1313,1<k1>antarvAvat<k2>antar—vA/vat<e>3
+< <s>antar—vA/vat</s> ¦ (others ‘far apart, far and wide’), <ls>RV.</ls><info n="sup"/><info hui="a"/>
+---
+> <L>8156.1<pc>1313,1<k1>antarvAvat<k2>antar—vA/vat<e>3A
+> <s>antar—vA/vat</s> ¦ (others ‘far apart, far and wide’), <ls>RV.</ls><info n="sup"/>
+29896c29890
+< ¦ <s>antarA ca</s> - <s>antarA ca</s>, (with two accusatives of places) between - and - <ls>Divyāv.</ls><info n="sup"/>
+---
+> ¦ <s>antarA ca</s> - <s>antarA ca</s>, (with two accusatives of places) = ‘between - and -’, <ls>Divyāv.</ls><info n="sup"/>
+30010c30004,30007
+< <s>anta/r-iti</s> ¦ <lex>f.</lex> exclusion, <ls>MaitrS.</ls><info lex="f"/><info hui="b"/>
+---
+> <s>anta/r-iti</s> ¦ <lex>f.</lex> exclusion, <ls>MaitrS.</ls><info lex="f"/><listinfo n="sup"/>
+> <LEND>
+> <L>8251.1<pc>1313,1<k1>antariti<k2>antar—iti<e>2B
+> <s>antar—iti</s> ¦ (<s>anta/r-</s>), excluding, <ls>MaitrS.</ls><info n="sup"/>
+30183c30180,30183
+< <s>antar-BUta</s> ¦ <lex>mfn.</lex> being within, internal, inner.<info lex="m:f:n"/><info hui="b"/>
+---
+> <s>antar-BUta</s> ¦ <lex>mfn.</lex> being within, internal, inner.<info lex="m:f:n"/><listinfo n="sup"/>
+> <LEND>
+> <L>8306.1<pc>1313,1<k1>antarBUta<k2>antar—BUta<e>2A
+> <s>antar—BUta</s> ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) being or contained in anything, <ab>ib.</ab><info n="sup"/><info lex="m:f:n"/>
+30281c30281
+< <s>antikA/t</s> ¦ <lex>ind.</lex> from the proximity<info lex="ind"/>
+---
+> <s>antikA/t</s> ¦ <lex>ind.</lex> from the proximity<info lex="ind"/><listinfo n="sup"/>
+31009c31009
+< ¦ <ab>Superl.</ab> of the <ab>fem.</ab> <s>annA<srs/>di/-tamA</s>, ‘eating the most’, <ab>N.</ab> of the fore-finger, <ls>ŚBr.</ls><info lex="inh"/>
+---
+> ¦ <ab>Superl.</ab> of the <ab>fem.</ab> <s>annA<srs/>di/-tamA</s>, ‘eating the most’, <ab>N.</ab> of the fore-finger, <ls>ŚBr.</ls><info lex="inh"/><info phwchild="8551.1"/>
+31016a31017,31019
+> <L>8551.1<pc>45,2<k1>annAditamA<k2>annAdi/-tamA<e>3
+> <s>annA<srs/>di/-tamA</s> ¦ ‘eating the most’, <ab>N.</ab> of the fore-finger, <ls>ŚBr.</ls><info phwparent="8550"/>
+> <LEND>
+31137,31145d31139
+< <L>8581.2<pc>1313,2<k1>anyatkAma<k2>anyat—kAma<e>3
+< <s>anyat—kAma</s> ¦ <lex>mfn.</lex> desirous of something else, <ls>Up.</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+< <L>8581.3<pc>1313,2<k1>anyatpArSva<k2>anyat—pArSva<e>3
+< <s>anyat—pArSva</s> ¦ <lex>mf(<s>A</s>)n.</lex> showing another side, <ls>Kauś.</ls><info n="sup"/><info lex="m:f#A:n"/>
+< <LEND>
+< <L>8581.4<pc>1313,2<k1>anyatsTAnagata<k2>anyat—sTAna-gata<e>3
+< <s>anyat—sTAna-gata</s> ¦ <lex>mfn.</lex> being at another place, <ls>Lāṭy.</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+31332a31327,31329
+> <L>8623.7<pc>1313,2<k1>anyArTavat<k2>an—yArTa—vat<e>4
+> <s>an—°yA<srs/>rTa—vat</s> ¦ having another sense or meaning (also <s>-vat</s>), <ls>Daśar.</ls>, <ab>Sch.</ab><info n="sup"/>
+> <LEND>
+31471c31468,31471
+< <L>8650<pc>45,3<k1>anyatkAraka<k2>anyat-kAraka<e>2
+---
+> <L>8649.1<pc>1313,2<k1>anyat<k2>anyat<e>2
+> <s>anyat</s> ¦ (in <ab>comp.</ab>)<info n="sup"/>
+> <LEND>
+> <L>8650<pc>45,3<k1>anyatkAraka<k2>anyat-kAraka<e>3
+31473a31474,31476
+> <L>8650.1<pc>1313,2<k1>anyatkAma<k2>anyat—kAma<e>3
+> <s>anyat—kAma</s> ¦ <lex>mfn.</lex> desirous of something else, <ls>Up.</ls><info n="sup"/><info lex="m:f:n"/>
+> <LEND>
+31476a31480,31485
+> <L>8651.1<pc>1313,2<k1>anyatpArSva<k2>anyat—pArSva<e>3
+> <s>anyat—pArSva</s> ¦ <lex>mf(<s>A</s>)n.</lex> showing another side, <ls>Kauś.</ls><info n="sup"/><info lex="m:f#A:n"/>
+> <LEND>
+> <L>8651.2<pc>1313,2<k1>anyatsTAnagata<k2>anyat—sTAna-gata<e>3
+> <s>anyat—sTAna-gata</s> ¦ <lex>mfn.</lex> being at another place, <ls>Lāṭy.</ls><info n="sup"/><info lex="m:f:n"/>
+> <LEND>
+31560a31570,31572
+> <L>8665.1<pc>1313,2<k1>anyaTABiDAna<k2>anya—TABiDAna<e>3
+> <s>anya—°TA<srs/>BiDAna</s> ¦ <lex>n.</lex> false statement or deposition, <ab>ib.</ab><info n="sup"/><info lex="n"/>
+> <LEND>
+31598,31600d31609
+< <L>8675.1<pc>1313,2<k1>anyaTABiDAna<k2>anya—TABiDAna<e>3
+< <s>anya—°TA<srs/>BiDAna</s> ¦ <lex>n.</lex> false statement or deposition, <ab>ib.</ab><info n="sup"/><info lex="n"/>
+< <LEND>
+32536c32545
+< <s>anv-Ita</s> ¦ <lex>mfn.</lex> = <s>anvita</s>, <ls>Bālar.</ls><info n="sup"/><info lex="m:f:n"/>
+---
+> <s>anv-Ita</s> ¦ <lex>mfn.</lex> = <s>anv-ita</s>, <ls>Bālar.</ls><info n="sup"/><info lex="m:f:n"/>
+32703,32706c32712
+< <s>apa-kazAya</s> ¦ <lex>mfn.</lex> sinless, <ls>MārkP.</ls><info lex="m:f:n"/><listinfo n="sup"/>
+< <LEND>
+< <L>8967.1<pc>1313,3<k1>apakazAya<k2>apa-kazAya<e>1A
+< ¦ sinless, <ls>MārkP.</ls><info n="sup"/><info lex="inh"/>
+---
+> <s>apa-kazAya</s> ¦ <lex>mfn.</lex> sinless, (<s>-tva</s>, <lex>n.</lex>), <ls>MārkP.</ls><info lex="m:f:n"/><info n="rev" pc="1313,3"/>
+32803c32809
+< <s>apa-kftya</s> ¦ <lex>n.</lex> damage, hurt, <ls>Pañcat.</ls><info lex="n"/>
+---
+> <s>apa-kftya</s> ¦ <lex>n.</lex> damage, hurt, <ls>Pañcat.</ls><info lex="n"/><listinfo n="sup"/>
+32944,32946d32949
+< <L>9036.1<pc>1313,3<k1>apakrAmam<k2>apa-krA/mam<e>2C
+< <s>apa-krA/mam</s> ¦ <lex>ind.</lex> going away, <ls>MaitrS.</ls><info n="sup"/><info lex="ind"/>
+< <LEND>
+32973a32977,32979
+> <L>9042.1<pc>1313,3<k1>apakrAmam<k2>apa-krA/mam<e>2
+> <s>apa-krA/mam</s> ¦ <lex>ind.</lex> going away, <ls>MaitrS.</ls><info n="sup"/><info lex="ind"/>
+> <LEND>
+33282c33288,33291
+< <hom>2.</hom> <s>apa-ci/t</s> ¦ <lex>f.</lex> a sore, boil, = <s>apa-cI</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/><info lex="f"/>
+---
+> <hom>2.</hom> <s>apa-ci/t</s> ¦ <s>t</s>, <lex>f.</lex> a noxious flying insect, <ls>AV.</ls> <info lex="f"/>
+> <LEND>
+> <L>9127.1<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2A
+> <hom>2.</hom> <s>apa-ci/t</s> ¦ (read, ‘a sore, boil’, = <s>apa-cI</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/>
+33657,33658c33666,33667
+< <L>9227.1<pc>1313,3<k1>apadarpa<k2>apadarpa<e>1
+< <s>apadarpa</s> ¦ <lex>mf(<s>A</s>)n.</lex> free from pride or self-conceit, <ls>Naiṣ.</ls><info n="sup"/><info lex="m:f#A:n"/>
+---
+> <L>9227.1<pc>1313,3<k1>apadarpa<k2>apa-darpa<e>1
+> <s>apa-darpa</s> ¦ <lex>mf(<s>A</s>)n.</lex> free from pride or self-conceit, <ls>Naiṣ.</ls><info n="sup"/><info lex="m:f#A:n"/>
+33883,33888d33891
+< <L>9292.2<pc>1313,3<k1>apaninIzA<k2>apa-ninIzA<e>1
+< <s>apa-ninIzA</s> ¦ <lex>f.</lex> the wish to expel, <ls>Dharmaś.</ls><info n="sup"/><info lex="f"/>
+< <LEND>
+< <L>9292.3<pc>1313,3<k1>apaninIzu<k2>apa-ninI—zu<e>3
+< <s>apa-ninI—°zu</s> ¦ <lex>mfn.</lex> wishing to expel (<ab>acc.</ab>), <ls>Kād.</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+33928a33932,33937
+> <L>9301.2<pc>1313,3<k1>apaninIzA<k2>apa-ninIzA<e>1
+> <s>apa-ninIzA</s> ¦ <lex>f.</lex> the wish to expel, <ls>Dharmaś.</ls><info n="sup"/><info lex="f"/>
+> <LEND>
+> <L>9301.3<pc>1313,3<k1>apaninIzu<k2>apa-ninI—zu<e>3
+> <s>apa-ninI—°zu</s> ¦ <lex>mfn.</lex> wishing to expel (<ab>acc.</ab>), <ls>Kād.</ls><info n="sup"/><info lex="m:f:n"/>
+> <LEND>
+34159,34161d34167
+< <L>9363.1<pc>1313,3<k1>apamaNgala<k2>apa-maNgala<e>1
+< <s>apa-maNgala</s> ¦ <lex>mfn.</lex> inauspicious, <ls>Subh.</ls> (<ab>conj.</ab>).<info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+34174c34180
+< <L>9366.1<pc>1313,3<k1>apamaSiYjinI<k2>apama-SiYjinI<e>1
+---
+> <L>9366.1<pc>1313,3<k1>apamaSiYjinI<k2>apama-SiYjinI<e>3
+34176a34183,34185
+> <L>9366.2<pc>1313,3<k1>apamaNgala<k2>apa-maNgala<e>1
+> <s>apa-maNgala</s> ¦ <lex>mfn.</lex> inauspicious, <ls>Subh.</ls> (<ab>conj.</ab>).<info n="sup"/><info lex="m:f:n"/>
+> <LEND>
+34425c34434
+< <L>9430.1<pc>1314,1<k1>aparagodAni<k2>apara—godAni<e>3C
+---
+> <L>9430.1<pc>1314,1<k1>aparagodAni<k2>apara—godAni<e>3
+85054c85063
+< <s>Aditya—ketu</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>Aditya—ketu</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+89761c89770
+< <s>ABIrI</s> ¦ <lex>f.</lex> <lex>n.</lex> <ab>N.</ab> of a metre<info lex="f:n"/>
+---
+> <s>ABIrI</s> ¦ <lex>f.</lex> and (<s>am</s>), <lex>n.</lex>, <ab>N.</ab> of a metre<info lex="f:n"/>
+90883c90892
+< ¦ <ab>N.</ab> of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+105280c105289
+< <s>Ir</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> <s>I/rte</s> (3. <ab>pl.</ab> <s>I/rate</s>, <ls>AV.</ls>; <ls>RV.</ls>), <s>iraM-cakre</s>, <s>irizyati</s>, <s>Erizwa</s>, <s>Iritum</s>;
+---
+> <s>Ir</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> <s>I/rte</s> (3. <ab>pl.</ab> <s>I/rate</s>, <ls>AV.</ls>; <ls>RV.</ls>), <s>IraM-cakre</s>, <s>Irizyati</s>, <s>Erizwa</s>, <s>Iritum</s>;
+106546c106555
+< ¦ a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+128939c128948
+< ¦ limitation, qualification (<ab>e.g.</ab> <s>an-upA<srs/>Di-rAmaRIya</s>, beautiful without limitation <ab>i.e.</ab> altogether beautiful)<info lex="inh"/>
+---
+> ¦ limitation, qualification (<ab>e.g.</ab> <s>an-upA<srs/>Di-rAmaRIya</s>, beautiful without limitation, <ab>i.e.</ab> altogether beautiful)<info lex="inh"/>
+133683c133692
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+147927c147936
+< ¦ <ab>N.</ab> of a minister of king <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a minister of king <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls><info lex="inh"/>
+150197c150206
+< <s>kanakA<srs/>Ngada</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>kanakA<srs/>Ngada</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+150230c150239
+< <s>kanakA<srs/>yu</s> or <s>kanakA<srs/>yus</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls> (<ab>v.l.</ab> <s>karakA<srs/>yu</s>). <info lex="m"/>
+---
+> <s>kanakA<srs/>yu</s> or <s>kanakA<srs/>yus</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls> (<ab>v.l.</ab> <s>karakA<srs/>yu</s>). <info lex="m"/>
+161457c161466
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+169807c169816
+< ¦ <ab>N.</ab> of <s1>Satyavatī</s1>, wife of king <s1>Śāntanu</s1> and mother of <s1>Vyāsa</s1> or <s1>Kṛṣṇa-dvaipāyana</s1> (after her marriage she had a son <s1>Vicitra-vīrya</s1>, whose widows were married by <s1>Kṛṣṇa-dvaipāyana</s1>, and bore to him <s1>Dhṛta-rāṣṭra</s1> and <s1>Pāṇḍu</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls>; according to other legends <s1>Kālī</s1> is the wife of <s1>Bhīmasena</s1> and mother of <s1>Sarvagata</s1>, <ls>BhP.</ls>)<info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of <s1>Satyavatī</s1>, wife of king <s1>Śāntanu</s1> and mother of <s1>Vyāsa</s1> or <s1>Kṛṣṇa-dvaipāyana</s1> (after her marriage she had a son <s1>Vicitra-vīrya</s1>, whose widows were married by <s1>Kṛṣṇa-dvaipāyana</s1>, and bore to him <s1>Dhṛtarāṣṭra</s1> and <s1>Pāṇḍu</s1>, <ls>MBh.</ls>; <ls>Hariv.</ls>; according to other legends <s1>Kālī</s1> is the wife of <s1>Bhīmasena</s1> and mother of <s1>Sarvagata</s1>, <ls>BhP.</ls>)<info lex="inh"/>
+178682c178691
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4550</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4550</ls><info lex="inh"/>
+178742c178751
+< <s>kuRqa—ja</s> ¦ <lex>m.</lex> ‘pitcher-born’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 2740.</ls><info lex="m"/>
+---
+> <s>kuRqa—ja</s> ¦ <lex>m.</lex> ‘pitcher-born’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 2740.</ls><info lex="m"/>
+178751c178760
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4546 ff.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4546 ff.</ls><info lex="inh"/>
+178823c178832
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4553.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4553.</ls><info lex="inh"/>
+178841c178850
+< ¦ of a son of <s1>Janamejaya</s1> and brother of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls> <ls n="MBh. i,">3744</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Janamejaya</s1> and brother of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls> <ls n="MBh. i,">3744</ls><info lex="inh"/>
+178844c178853
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls> <ls n="MBh. i,">2732</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls> <ls n="MBh. i,">2732</ls><info lex="inh"/>
+178868c178877
+< <s>kuRqaka</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 6983</ls><info lex="m"/>
+---
+> <s>kuRqaka</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 6983</ls><info lex="m"/>
+178883c178892
+< <s>kuRqika</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 3747</ls><info lex="m"/>
+---
+> <s>kuRqika</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 3747</ls><info lex="m"/>
+178913c178922
+< <s>kuRqina</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 3747</ls><info lex="m"/>
+---
+> <s>kuRqina</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 3747</ls><info lex="m"/>
+181495c181504
+< ¦ <ab>N.</ab> of the ancestor of the <s1>Kuru</s1>s (son of <s1>Saṃvaraṇa</s1> and <s1>Tapatī</s1>, daughter of the sun [<ls>MBh. i, 3738 ff.</ls>; <ls>Hariv. 1799</ls> &c.]; <s1>Kuru</s1> is the ancestor of both <s1>Pāṇḍu</s1> and <s1>Dhṛta-rāṣṭra</s1>, though the patronymic derived from his name is usually applied only to the sons of the latter, the sons and descendants of the former being called <s1>Pāṇḍava</s1>s)<info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of the ancestor of the <s1>Kuru</s1>s (son of <s1>Saṃvaraṇa</s1> and <s1>Tapatī</s1>, daughter of the sun [<ls>MBh. i, 3738 ff.</ls>; <ls>Hariv. 1799</ls> &c.]; <s1>Kuru</s1> is the ancestor of both <s1>Pāṇḍu</s1> and <s1>Dhṛtarāṣṭra</s1>, though the patronymic derived from his name is usually applied only to the sons of the latter, the sons and descendants of the former being called <s1>Pāṇḍava</s1>s)<info lex="inh"/>
+181567c181576
+< <s>kuru—pARqava</s> ¦ <lex>m. <ab>du.</ab> and <ab>pl.</ab></lex> the descendants of <s1>Kuru</s1> (<ab>i.e.</ab> of <s1>Dhṛta-rāṣṭra</s1>) and of <s1>Pāṇḍu</s1>, <ls>MBh. i, 2234</ls>; <ls>Rājat.</ls><info lex="m"/>
+---
+> <s>kuru—pARqava</s> ¦ <lex>m. <ab>du.</ab> and <ab>pl.</ab></lex> the descendants of <s1>Kuru</s1> (<ab>i.e.</ab> of <s1>Dhṛtarāṣṭra</s1>) and of <s1>Pāṇḍu</s1>, <ls>MBh. i, 2234</ls>; <ls>Rājat.</ls><info lex="m"/>
+196909c196918
+< ¦ of the mother of <s1>Dhṛta-rāṣṭra</s1>, <ls>L.</ls><info lex="inh"/>
+---
+> ¦ of the mother of <s1>Dhṛtarāṣṭra</s1>, <ls>L.</ls><info lex="inh"/>
+197420c197429
+< ¦ of a <s1>Nāga</s1> (son of <s1>Dhṛta-rāṣṭra</s1>), <ls>MBh. i, 4550</ls><info lex="inh"/>
+---
+> ¦ of a <s1>Nāga</s1> (son of <s1>Dhṛtarāṣṭra</s1>), <ls>MBh. i, 4550</ls><info lex="inh"/>
+198215c198224
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls n="MBh.">i, 3747</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls n="MBh.">i, 3747</ls><info lex="inh"/>
+220197c220206
+< <s>gAnDArI</s> ¦ (<s>I</s>), <lex>f.</lex> (<ls>Pāṇ. iv, 1, 14</ls>, <ab>Vārtt.</ab> 4, <ls>Pat.</ls>) a princess of the <s1>Gāndhāri</s1>s (<ab>esp.</ab> the wife of <s1>Dhṛta-rāṣṭra</s1>), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP. i</ls>, <ls n="BhP.">ix</ls><info lex="f"/>
+---
+> <s>gAnDArI</s> ¦ (<s>I</s>), <lex>f.</lex> (<ls>Pāṇ. iv, 1, 14</ls>, <ab>Vārtt.</ab> 4, <ls>Pat.</ls>) a princess of the <s1>Gāndhāri</s1>s (<ab>esp.</ab> the wife of <s1>Dhṛtarāṣṭra</s1>), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP. i</ls>, <ls n="BhP.">ix</ls><info lex="f"/>
+220242c220251
+< <s>gAnDAreya</s> ¦ <lex>m.</lex> <ab>metron.</ab> <ab>fr.</ab> <s>°rI</s> <ab>N.</ab> of <s1>Duryodhana</s1> (son of <s1>Dhṛta-rāṣṭra</s1>), <ls>L.</ls><info lex="m"/>
+---
+> <s>gAnDAreya</s> ¦ <lex>m.</lex> <ab>metron.</ab> <ab>fr.</ab> <s>°rI</s> <ab>N.</ab> of <s1>Duryodhana</s1> (son of <s1>Dhṛtarāṣṭra</s1>), <ls>L.</ls><info lex="m"/>
+239095c239104
+< <s>cakz</s> ¦ (a reduplicated form of √ <s>kAS</s> = <s>kSA</s>; in the non-conjugational tenses √ <s>KyA</s> is substituted, <ls>Pāṇ. ii, 4, 54 f.</ls>; some <ab>pf.</ab> forms, however, are found) <ab>cl.</ab> 2. <ab>Ā.</ab> <s>ca/zwe</s> (2. <ab>du.</ab> <s>cakzaTe</s>, <ls>RV.</ls>; <ab>pf.</ab> <ab>p.</ab> <s>ca/kzARa</s>, <ls>RV.</ls>; <ls>BhP. i, 18, 25</ls> [<s>a-</s> <ab>neg.</ab>]; rarely <ab>P.</ab> <ab>impf.</ab> 2. <ab>sg.</ab> <s>acakzas</s>, <ls>MBh. viii, 3384, 1.</ls> <ab>pl.</ab> <s>acakzma</s>, <ls>Naigh. iii, 11</ls>; <lang>Ved.</lang> <ab>inf.</ab> <s>ca/kzase</s>, <ls>RV.</ls>; <ls>AV. vi, 68, 2</ls>),
+---
+> a<s>cakz</s> ¦ (a reduplicated form of √ <s>kAS</s> = <s>kSA</s>; in the non-conjugational tenses √ <s>KyA</s> is substituted, <ls>Pāṇ. ii, 4, 54 f.</ls>; some <ab>pf.</ab> forms, however, are found) <ab>cl.</ab> 2. <ab>Ā.</ab> <s>ca/zwe</s> (2. <ab>du.</ab> <s>cakzATe</s>, <ls>RV.</ls>; <ab>pf.</ab> <ab>p.</ab> <s>ca/kzARa</s>, <ls>RV.</ls>; <ls>BhP. i, 18, 25</ls> [<s>a-</s> <ab>neg.</ab>]; rarely <ab>P.</ab> <ab>impf.</ab> 2. <ab>sg.</ab> <s>acakzas</s>, <ls>MBh. viii, 3384, 1.</ls> <ab>pl.</ab> <s>acakzma</s>, <ls>Naigh. iii, 11</ls>; <lang>Ved.</lang> <ab>inf.</ab> <s>ca/kzase</s>, <ls>RV.</ls>; <ls>AV. vi, 68, 2</ls>),
+247415c247424
+< <s>cAru—citra</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4543</ls>; <ls n="MBh.">vii, 5594</ls><info lex="m"/>
+---
+> <s>cAru—citra</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4543</ls>; <ls n="MBh.">vii, 5594</ls><info lex="m"/>
+249198c249207
+< <s>citra—kuRqala</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4545 ff.</ls><info lex="m"/>
+---
+> <s>citra—kuRqala</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4545 ff.</ls><info lex="m"/>
+249294c249303
+< <s>citra—cApa</s> ¦ <lex>m.</lex> ‘having a variegated bow’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 2733.</ls><info lex="m"/>
+---
+> <s>citra—cApa</s> ¦ <lex>m.</lex> ‘having a variegated bow’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 2733.</ls><info lex="m"/>
+249519c249528
+< <s>citra—bARa</s> ¦ <lex>m.</lex> ‘having variegated arrows’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4545.</ls><info lex="m"/>
+---
+> <s>citra—bARa</s> ¦ <lex>m.</lex> ‘having variegated arrows’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4545.</ls><info lex="m"/>
+249522c249531
+< <s>citra—bAhu</s> ¦ <lex>m.</lex> ‘speckled-arm’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, 2732<info lex="m"/>
+---
+> <s>citra—bAhu</s> ¦ <lex>m.</lex> ‘speckled-arm’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, 2732<info lex="m"/>
+249771c249780
+< <s>citra—varman</s> ¦ <lex>m.</lex> ‘having a variegated cuirass’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">v</ls>, <ls n="MBh.">vii</ls><info lex="m"/>
+---
+> <s>citra—varman</s> ¦ <lex>m.</lex> ‘having a variegated cuirass’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">v</ls>, <ls n="MBh.">vii</ls><info lex="m"/>
+249900c249909
+< ¦ of a son (of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">v</ls>, <ls n="MBh.">viii</ls>; of <s1>Parikṣit</s1>, <ls n="MBh.">i, 3743</ls>; of <s1>Śambara</s1>, <ls>Hariv. 9251</ls> and <ls n="Hariv.">9280</ls>; of <s1>Nariṣyanta</s1>, <ls>BhP. ix, 2, 19</ls>; of the 13th <s1>Manu</s1>, <ls>Hariv. 889</ls>; <ls>BhP. viii, 13, 31</ls>; of <s1>Gada</s1> or <s1>Kṛṣṇa</s1>, <ls>Hariv. 9194</ls>)<info lex="inh"/>
+---
+> ¦ of a son (of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">v</ls>, <ls n="MBh.">viii</ls>; of <s1>Parikṣit</s1>, <ls n="MBh.">i, 3743</ls>; of <s1>Śambara</s1>, <ls>Hariv. 9251</ls> and <ls n="Hariv.">9280</ls>; of <s1>Nariṣyanta</s1>, <ls>BhP. ix, 2, 19</ls>; of the 13th <s1>Manu</s1>, <ls>Hariv. 889</ls>; <ls>BhP. viii, 13, 31</ls>; of <s1>Gada</s1> or <s1>Kṛṣṇa</s1>, <ls>Hariv. 9194</ls>)<info lex="inh"/>
+249951c249960
+< <s>citrA<srs/>kza</s> ¦ <lex>m.</lex> ‘speckled-eye’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls n="Mṛcch.">i</ls>, <ls n="Mṛcch.">vii</ls><info lex="m"/>
+---
+> <s>citrA<srs/>kza</s> ¦ <lex>m.</lex> ‘speckled-eye’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls n="Mṛcch.">i</ls>, <ls n="Mṛcch.">vii</ls><info lex="m"/>
+249978c249987
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4545</ls>; <ls>PadmaP. iv, 55</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4545</ls>; <ls>PadmaP. iv, 55</ls><info lex="inh"/>
+250062c250071
+< <s>citrA<srs/>yuDa</s> ¦ <lex>m.</lex> ‘having variegated weapons’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i f.</ls>, <ls n="MBh.">vii.</ls><info lex="m"/><listinfo n="sup"/>
+---
+> <s>citrA<srs/>yuDa</s> ¦ <lex>m.</lex> ‘having variegated weapons’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i f.</ls>, <ls n="MBh.">vii.</ls><info lex="m"/><listinfo n="sup"/>
+250149c250158
+< ¦ <ab>N.</ab> of a son (of <s1>Vṛṣṇi</s1> or <s1>Pṛśni</s1>, <ls>Hariv.</ls>; of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 2740</ls>)<info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son (of <s1>Vṛṣṇi</s1> or <s1>Pṛśni</s1>, <ls>Hariv.</ls>; of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 2740</ls>)<info lex="inh"/>
+260916c260925
+< ¦ of a son (of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">vii</ls>; of <s1>Sṛñjaya</s1>, <ls>Hariv. 1514</ls>; of <s1>Suśruta</s1>, <ls>VP. iv, 5, 12</ls>; of <s1>Sruta</s1>, <ls>BhP. ix, 13, 25</ls>; of <s1>Saṃjaya</s1>, <ls n="BhP. ix,">17, 16</ls>; of <s1>Saṃkṛti</s1>, <ls n="BhP. ix, 7,">18</ls>; of <s1>Mañju</s1>, <ls n="BhP. ix,">21, 1</ls>; of <s1>Yuyudhāna</s1>, <ls n="BhP. ix,">24, 13</ls>; of <s1>Kaṅka</s1>, <ls n="BhP. ix, 24,">43</ls>; of <s1>Kṛṣṇa</s1>, <ls n="BhP.">x, 61, 17</ls>; of <s1>Vatsara</s1> by <s1>Svar-vīthi</s1>, <ls n="BhP.">iv, 13, 12</ls>; of <s1>Viśvāmitra</s1>, <ls>Hariv. 1462</ls>; <ls>BhP. ix, 16, 36</ls>; of <s1>Purūravas</s1> by <s1>Urvaśī</s1>, <ls n="BhP. ix,">15, 1 f.</ls>)<info lex="inh"/>
+---
+> ¦ of a son (of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">vii</ls>; of <s1>Sṛñjaya</s1>, <ls>Hariv. 1514</ls>; of <s1>Suśruta</s1>, <ls>VP. iv, 5, 12</ls>; of <s1>Sruta</s1>, <ls>BhP. ix, 13, 25</ls>; of <s1>Saṃjaya</s1>, <ls n="BhP. ix,">17, 16</ls>; of <s1>Saṃkṛti</s1>, <ls n="BhP. ix, 7,">18</ls>; of <s1>Mañju</s1>, <ls n="BhP. ix,">21, 1</ls>; of <s1>Yuyudhāna</s1>, <ls n="BhP. ix,">24, 13</ls>; of <s1>Kaṅka</s1>, <ls n="BhP. ix, 24,">43</ls>; of <s1>Kṛṣṇa</s1>, <ls n="BhP.">x, 61, 17</ls>; of <s1>Vatsara</s1> by <s1>Svar-vīthi</s1>, <ls n="BhP.">iv, 13, 12</ls>; of <s1>Viśvāmitra</s1>, <ls>Hariv. 1462</ls>; <ls>BhP. ix, 16, 36</ls>; of <s1>Purūravas</s1> by <s1>Urvaśī</s1>, <ls n="BhP. ix,">15, 1 f.</ls>)<info lex="inh"/>
+263328c263337
+< <s>jala—saMDa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">iii</ls>, <ls n="MBh.">v.</ls><info lex="m"/>
+---
+> <s>jala—saMDa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">iii</ls>, <ls n="MBh.">v.</ls><info lex="m"/>
+270095c270104
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls n="MBh.">ix, 1404</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls n="MBh.">ix, 1404</ls><info lex="inh"/>
+290216c290225
+< ¦ (son of <s1>Dhṛta-rāṣṭra</s1>) 6983 <ls>Hariv.</ls><info lex="inh"/>
+---
+> ¦ (son of <s1>Dhṛtarāṣṭra</s1>) 6983 <ls>Hariv.</ls><info lex="inh"/>
+301062c301071
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls n="MBh.">i, 2738</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls n="MBh.">i, 2738</ls><info lex="inh"/>
+301659c301668
+< ¦ (<ab>g.</ab> <s>naqA<srs/>di</s>) <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 2738</ls><info lex="inh"/>
+---
+> ¦ (<ab>g.</ab> <s>naqA<srs/>di</s>) <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 2738</ls><info lex="inh"/>
+311237c311246
+< <hom>1.</hom> <s>dih</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> <ab>Ā.</ab> <s>degDi</s>, <s>digDe</s>, <ls>Dhātup. xxiv, 5</ls> (<ab>Subj.</ab> <s>-de/hat</s>, <ls>RV. vii, 50, 2</ls>; <ab>pf.</ab> <s>dideha</s>, <s>didihe</s>, <ls>MBh.</ls>; <ab>fut.</ab> <s>Dekzyati</s>, <s>degDA</s>, <ls>Siddh.</ls>; <ab>aor.</ab> <s>aDikzat</s>, <s>°ta</s>, 3. <ab>pl.</ab> <s>°zur</s>, <ls>JaimBr.</ls>; <s>adigdka</s>, <ls>Pāṇ. vii, 3, 73</ls>)
+---
+> <hom>1.</hom> <s>dih</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> <ab>Ā.</ab> <s>degDi</s>, <s>digDe</s>, <ls>Dhātup. xxiv, 5</ls> (<ab>Subj.</ab> <s>-de/hat</s>, <ls>RV. vii, 50, 2</ls>; <ab>pf.</ab> <s>dideha</s>, <s>didihe</s>, <ls>MBh.</ls>; <ab>fut.</ab> <s>Dekzyati</s>, <s>degDA</s>, <ls>Siddh.</ls>; <ab>aor.</ab> <s>aDikzat</s>, <s>°ta</s>, 3. <ab>pl.</ab> <s>°zur</s>, <ls>JaimBr.</ls>; <s>adigDa</s>, <ls>Pāṇ. vii, 3, 73</ls>)
+312809c312818
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls><info lex="inh"/>
+312908c312917
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+312938c312947
+< <s>dIrGa—locana</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>dIrGa—locana</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+313333c313342
+< <s>duH—SAsana</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>duH—SAsana</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+313513c313522
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls><info lex="inh"/>
+314738c314747
+< <s>dur—ADara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4549</ls> (<ab>cf.</ab> the <ab>prec.</ab>)<info lex="m"/>
+---
+> <s>dur—ADara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4549</ls> (<ab>cf.</ab> the <ab>prec.</ab>)<info lex="m"/>
+315605c315614
+< ¦ <ab>N.</ab> of a son of. <s1>Dhṛta-rāṣṭra</s1> (<ab>cf.</ab> <s>-Darza</s>), <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of. <s1>Dhṛtarāṣṭra</s1> (<ab>cf.</ab> <s>-Darza</s>), <ls>MBh.</ls><info lex="inh"/>
+315641c315650
+< <s>dur—Darza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1> (<ab>cf.</ab> <s>Dara</s>), <ls>MBh. i</ls><info lex="m"/>
+---
+> <s>dur—Darza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1> (<ab>cf.</ab> <s>Dara</s>), <ls>MBh. i</ls><info lex="m"/>
+316046c316055
+< <s>dur—mada</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls><info lex="m"/>
+---
+> <s>dur—mada</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls><info lex="m"/>
+316148c316157
+< <s>dur—marzaRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls> &c.<info lex="m"/>
+---
+> <s>dur—marzaRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls> &c.<info lex="m"/>
+316214c316223
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls> &c.<info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls> &c.<info lex="inh"/>
+316292c316301
+< ¦ <ab>N.</ab> of the eldest son of <s1>Dhṛta-rāṣṭra</s1> (leader of the <s1>Kaurava</s1>s in their war with the <s1>Pāṇḍava</s1>s), <ls>MBh.</ls>; <ls>Hariv.</ls> &c. (<ab>cf.</ab> <s>su-y°</s>)<info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of the eldest son of <s1>Dhṛtarāṣṭra</s1> (leader of the <s1>Kaurava</s1>s in their war with the <s1>Pāṇḍava</s1>s), <ls>MBh.</ls>; <ls>Hariv.</ls> &c. (<ab>cf.</ab> <s>su-y°</s>)<info lex="inh"/>
+316307c316316
+< <s>dur—yoDa°nA<srs/>varaja</s> ¦ <lex>m.</lex> ‘the younger brother of <s1 n="Dhṛta-rāṣṭra">D°</s1>’, <ab>N.</ab> of <s1>Duḥ-śāsana</s1>, <ab>G.</ab><info lex="m"/>
+---
+> <s>dur—yoDa°nA<srs/>varaja</s> ¦ <lex>m.</lex> ‘the younger brother of <s1 n="Dhṛtarāṣṭra">D°</s1>’, <ab>N.</ab> of <s1>Duḥ-śāsana</s1>, <ab>G.</ab><info lex="m"/>
+316625c316634
+< <s>dur—vigAha</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>dur—vigAha</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+316724c316733
+< <s>dur—vimocana</s> ¦ <lex>m.</lex> ‘<ab n="difficult">d°</ab> to be set free’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>dur—vimocana</s> ¦ <lex>m.</lex> ‘<ab n="difficult">d°</ab> to be set free’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+316730c316739
+< <s>dur—virocana</s> ¦ <lex>m.</lex> ‘shining badly’ (?), <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>dur—virocana</s> ¦ <lex>m.</lex> ‘shining badly’ (?), <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+316757c316766
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="inh"/>
+317312c317321
+< <s>duz—karRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>duz—karRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+317462c317471
+< <s>duz—parAjaya</s> ¦ <lex>m.</lex> ‘<ab n="difficult">d°</ab> to be conquered’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>duz—parAjaya</s> ¦ <lex>m.</lex> ‘<ab n="difficult">d°</ab> to be conquered’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+317585c317594
+< <s>duz—praDarza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. vi</ls><info lex="m"/>
+---
+> <s>duz—praDarza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. vi</ls><info lex="m"/>
+319094c319103
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. vii</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. vii</ls><info lex="inh"/>
+319139c319148
+< <s>dfQa—kzatra</s> ¦ <lex>m.</lex> ‘having strong prowess’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>dfQa—kzatra</s> ¦ <lex>m.</lex> ‘having strong prowess’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+319358c319367
+< <s>dfQa—raTa</s> ¦ <lex>m.</lex> ‘having a strong chariot’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">vii</ls> (<s>°TA<srs/>Sraya</s>, <ls n="MBh.">i, 4551</ls>, <ab>prob.</ab> <ab>id.</ab>)<info lex="m"/>
+---
+> <s>dfQa—raTa</s> ¦ <lex>m.</lex> ‘having a strong chariot’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls>, <ls n="MBh.">vii</ls> (<s>°TA<srs/>Sraya</s>, <ls n="MBh.">i, 4551</ls>, <ab>prob.</ab> <ab>id.</ab>)<info lex="m"/>
+319388c319397
+< <s>dfQa—varman</s> ¦ <lex>m.</lex> ‘having strong armour’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i</ls><info lex="m"/>
+---
+> <s>dfQa—varman</s> ¦ <lex>m.</lex> ‘having strong armour’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i</ls><info lex="m"/>
+319430c319439
+< <s>dfQa—saMDa</s> ¦ <lex>m.</lex> ‘faithful to engagements’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>dfQa—saMDa</s> ¦ <lex>m.</lex> ‘faithful to engagements’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+319463c319472
+< <s>dfQa—hasta</s> ¦ <lex>m.</lex> ‘strong-handed’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+---
+> <s>dfQa—hasta</s> ¦ <lex>m.</lex> ‘strong-handed’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="m"/>
+319493c319502
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i.</ls><info lex="inh"/>
+333829c333838
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+333862c333871
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+335532c335541
+< <s>Darma—netra</s> ¦ <lex>m.</lex> ‘<ab n="law">l°</ab>-eyed’, <ab>N.</ab> of a grandson of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>Darma—netra</s> ¦ <lex>m.</lex> ‘<ab n="law">l°</ab>-eyed’, <ab>N.</ab> of a grandson of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+339166c339175
+< <s>Dik—kriyA</s> ¦ <lex>f.</lex> = <ab>prec.</ab> <lex type="nhw">n.</lex> <ab>pl.</ab> <ls>L.</ls><info lex="f"/>
+---
+> <s>Dik—kriyA</s> ¦ <lex>f.</lex> = <ab>prec.</ab> <lex type="nhw">n.</lex> <ab>pl.</ab> <ls>L.</ls> reproach, contempt. <info lex="f"/>
+341321c341330
+< ¦ of the eldest son of <s1>Vyāsa</s1> by the widow of <s1>Vicitra-vīrya</s1> (brother of <s1>Pāṇḍu</s1> and <s1>Vidura</s1> and born blind, husband of <s1>Gāndhāri</s1> and father of 100 sons of whom the eldest was <s1>Dur-yodhana</s1>; sometimes identified with <s1>Dhṛta-rāṣṭra</s1> and <s1>Haṃsa</s1>, 2 chiefs of the <s1>Gandharva</s1>s), <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of the eldest son of <s1>Vyāsa</s1> by the widow of <s1>Vicitra-vīrya</s1> (brother of <s1>Pāṇḍu</s1> and <s1>Vidura</s1> and born blind, husband of <s1>Gāndhāri</s1> and father of 100 sons of whom the eldest was <s1>Dur-yodhana</s1>; sometimes identified with <s1>Dhṛtarāṣṭra</s1> and <s1>Haṃsa</s1>, 2 chiefs of the <s1>Gandharva</s1>s), <ls>MBh.</ls><info lex="inh"/>
+341333c341342
+< ¦ <ab>pl.</ab> the 100 sons of King <s1 n="Dhṛta-rāṣṭra">Dh°</s1> (enumerated, <ls>MBh. i, 4540</ls>)<info lex="inh"/>
+---
+> ¦ <ab>pl.</ab> the 100 sons of King <s1 n="Dhṛtarāṣṭra">Dh°</s1> (enumerated, <ls>MBh. i, 4540</ls>)<info lex="inh"/>
+341339c341348
+< <s>Dfta-rAzwra-ja</s> ¦ <lex>m.</lex> son of <s1 n="Dhṛta-rāṣṭra">Dh°</s1>, <ab>N.</ab> of <s1>Dur-yodhana</s1> &c., <ls>Pracaṇḍ.</ls><info lex="m"/>
+---
+> <s>Dfta-rAzwra-ja</s> ¦ <lex>m.</lex> son of <s1 n="Dhṛtarāṣṭra">Dh°</s1>, <ab>N.</ab> of <s1>Dur-yodhana</s1> &c., <ls>Pracaṇḍ.</ls><info lex="m"/>
+341342c341351
+< <s>Dfta-rAzwrA<srs/>nuja</s> ¦ <lex>m.</lex> younger brother of <s1 n="Dhṛta-rāṣṭra">Dh°</s1>, <ab>N.</ab> of <s1>Pāṇḍu</s1>, <ls>Gal.</ls><info lex="m"/>
+---
+> <s>Dfta-rAzwrA<srs/>nuja</s> ¦ <lex>m.</lex> younger brother of <s1 n="Dhṛtarāṣṭra">Dh°</s1>, <ab>N.</ab> of <s1>Pāṇḍu</s1>, <ls>Gal.</ls><info lex="m"/>
+346795c346804
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1> (also <s>-ka</s>), <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1> (also <s>-ka</s>), <ls>MBh.</ls><info lex="inh"/>
+352016c352025
+< <s>nAga—datta</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>nAga—datta</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+358870c358879
+< <s>nir—DArtarAzwra</s> ¦ <lex>mfn.</lex> having no descendants of <s1>Dhṛta-rāṣṭra</s1>, free from them, <ls>MBh.</ls><info lex="m:f:n"/>
+---
+> <s>nir—DArtarAzwra</s> ¦ <lex>mfn.</lex> having no descendants of <s1>Dhṛtarāṣṭra</s1>, free from them, <ls>MBh.</ls><info lex="m:f:n"/>
+388497c388506
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+390724c390733
+< <s>para—vrata</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Dhṛta-rāṣṭra</s1>, <ls>L.</ls><info lex="m"/>
+---
+> <s>para—vrata</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Dhṛtarāṣṭra</s1>, <ls>L.</ls><info lex="m"/>
+408709c408718
+< ¦ <ab>N.</ab> of a son of <s1>Vyāsa</s1> by the wife of <s1>Vicitra-vīrya</s1> and brother of <s1>Dhṛta-rāṣṭra</s1> and <s1>Vidura</s1> (he was father of the five <s1>Pāṇḍava</s1>s), <ls>AV.Pariś.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Vyāsa</s1> by the wife of <s1>Vicitra-vīrya</s1> and brother of <s1>Dhṛtarāṣṭra</s1> and <s1>Vidura</s1> (he was father of the five <s1>Pāṇḍava</s1>s), <ls>AV.Pariś.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex="inh"/>
+408712c408721
+< ¦ of a son of <s1>Janam-ejaya</s1> and brother of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 3745</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Janam-ejaya</s1> and brother of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 3745</ls><info lex="inh"/>
+409084c409093
+< ¦ <ab>N.</ab> of a son of <s1>Janam-ejaya</s1> and brother of <s1>Dhṛta-rāṣṭra</s1>, <ls>L.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Janam-ejaya</s1> and brother of <s1>Dhṛtarāṣṭra</s1>, <ls>L.</ls><info lex="inh"/>
+414494c414503
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+424420c424429
+< [<ab>cf.</ab> <ls>RV. x, 95</ls>; <ls>ŚBr. xi, 5, 1</ls> and <s1>Kālidāsa</s1>'s drama <s1>Vikramorvaśī</s1>], son of <s1>Budha</s1> and <s1>Iḻā</s1>, father of <s1>Āyus</s1> and ancestor of <s1>Puru</s1> <s1>Duṣyanta</s1>, <s1>Bharata</s1>, <s1>Kuru</s1>, <s1>Dhṛta-rāṣṭra</s1> and <s1>Pāṇḍu</s1>, supposed to have instituted the 3 sacrificial fires [<ls>VS. v, 2</ls>];
+---
+> [<ab>cf.</ab> <ls>RV. x, 95</ls>; <ls>ŚBr. xi, 5, 1</ls> and <s1>Kālidāsa</s1>'s drama <s1>Vikramorvaśī</s1>], son of <s1>Budha</s1> and <s1>Iḻā</s1>, father of <s1>Āyus</s1> and ancestor of <s1>Puru</s1> <s1>Duṣyanta</s1>, <s1>Bharata</s1>, <s1>Kuru</s1>, <s1>Dhṛtarāṣṭra</s1> and <s1>Pāṇḍu</s1>, supposed to have instituted the 3 sacrificial fires [<ls>VS. v, 2</ls>];
+439660c439669
+< <s>pra-jYA—cakzus</s> ¦ <lex>m.</lex> <ab>N.</ab> of the blind king <s1>Dhṛta-rāṣṭra</s1>, <ls>L.</ls><info lex="m"/>
+---
+> <s>pra-jYA—cakzus</s> ¦ <lex>m.</lex> <ab>N.</ab> of the blind king <s1>Dhṛtarāṣṭra</s1>, <ls>L.</ls><info lex="m"/>
+455317c455326
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+455398c455407
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+455428c455437
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+480292c480301
+< <s>bala—varDana</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>bala—varDana</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+480724c480733
+< <s>balAkin</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>balAkin</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+486054c486063
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+505856c505865
+< ¦ of one of the sons of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of one of the sons of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+505901c505910
+< <s>BIma—vikrama</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the sons of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>BIma—vikrama</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the sons of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+505925c505934
+< ¦ of one of the sons of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of one of the sons of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+507098c507107
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls> (<ab>cf.</ab> <s>Bavan-manyu</s>). <info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls> (<ab>cf.</ab> <s>Bavan-manyu</s>). <info lex="inh"/>
+510261c510270
+< <s>BUri—bala</s> ¦ <lex>m.</lex> ‘having much strength’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>BUri—bala</s> ¦ <lex>m.</lex> ‘having much strength’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+526446c526455
+< ¦ knowing magical formulas (<ab>superl.</ab> <s>-vittarma</s>), <ls>Daś.</ls><info lex="inh"/>
+---
+> ¦ knowing magical formulas (<ab>superl.</ab> <s>-vittama</s>), <ls>Daś.</ls><info lex="inh"/>
+535512c535521
+< ¦ of one of the sons of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of one of the sons of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+539588c539597
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+574960c574969
+< ¦ <ab>N.</ab> of one of the sons of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls>; <ls>BhP.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of one of the sons of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls>; <ls>BhP.</ls><info lex="inh"/>
+585284c585293
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+601091c601100
+< <s>rOdra—karman</s> ¦ <lex>m.</lex> (also <s>°min</s>) <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="m"/>
+---
+> <s>rOdra—karman</s> ¦ <lex>m.</lex> (also <s>°min</s>) <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="m"/>
+631109c631118
+< <s>vAta—vega</s> ¦ <lex>mfn.</lex> ‘fleet as wind’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m:f:n"/>
+---
+> <s>vAta—vega</s> ¦ <lex>mfn.</lex> ‘fleet as wind’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m:f:n"/>
+641537c641546
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+644739c644748
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+648231c648240
+< <s>vi-citra—vIrya</s> ¦ <lex>m.</lex> ‘of marvellous heroism’, <ab>N.</ab> of a celebrated king of the lunar race (the son of <s1>Śāṃtanu</s1> by his wife <s1>Satya-vatī</s1>, and so half-brother of <s1>Bhīṣma</s1>; when he died childless, his mother requested <s1>Vyāsa</s1>, whom she had borne before her marriage to the sage <s1>Parāśara</s1>, to raise up issue to <s1>Vicitra-vīrya</s1>; so <s1>Vyāsa</s1> married the two widows of his half-brother, <s1>Ambikā</s1> and <s1>Ambālikā</s1>, and by them became the father of <s1>Dhṛta-rāṣṭra</s1> and <s1>Pāṇḍu</s1>; <ab>cf.</ab> <ls>IW. 375</ls>; <ls n="IW.">376</ls>), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Pur.</ls><info lex="m"/>
+---
+> <s>vi-citra—vIrya</s> ¦ <lex>m.</lex> ‘of marvellous heroism’, <ab>N.</ab> of a celebrated king of the lunar race (the son of <s1>Śāṃtanu</s1> by his wife <s1>Satya-vatī</s1>, and so half-brother of <s1>Bhīṣma</s1>; when he died childless, his mother requested <s1>Vyāsa</s1>, whom she had borne before her marriage to the sage <s1>Parāśara</s1>, to raise up issue to <s1>Vicitra-vīrya</s1>; so <s1>Vyāsa</s1> married the two widows of his half-brother, <s1>Ambikā</s1> and <s1>Ambālikā</s1>, and by them became the father of <s1>Dhṛtarāṣṭra</s1> and <s1>Pāṇḍu</s1>; <ab>cf.</ab> <ls>IW. 375</ls>; <ls n="IW.">376</ls>), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Pur.</ls><info lex="m"/>
+650492c650501
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+650964,650965c650973,650974
+< ¦ <ab>N.</ab> of the younger brother of <s1>Dhṛta-rāṣṭra</s1> and <s1>Pāṇḍu</s1> (they were all three sons of <s1>Vyāsa</s1>, but only the latter two by the two widows of <s1>Vicitra-vīrya</s1>;
+< when <s1>Vyāsa</s1> wanted a third son, the elder widow sent him one of her slave-girls, dressed in her own clothes, and this girl became the mother of <s1>Vidura</s1>, who is sometimes called <s1>Kṣattṛ</s1>, as if he were the son of a <s1>Kṣatriya</s1> man and <s1>Śūdra</s1> woman <s1>Vidura</s1> is described as <s>sarva-budDimatAM varaH</s> and is one of the wisest characters in the <s1>Mahā-bhārata</s1>, always ready with good advice both for his nephews, the <s1>Pāṇḍava</s1>s, and for his brother <s1>Dhṛta-rāṣṭra</s1>), <ls>MBh.</ls>;
+---
+> ¦ <ab>N.</ab> of the younger brother of <s1>Dhṛtarāṣṭra</s1> and <s1>Pāṇḍu</s1> (they were all three sons of <s1>Vyāsa</s1>, but only the latter two by the two widows of <s1>Vicitra-vīrya</s1>;
+> when <s1>Vyāsa</s1> wanted a third son, the elder widow sent him one of her slave-girls, dressed in her own clothes, and this girl became the mother of <s1>Vidura</s1>, who is sometimes called <s1>Kṣattṛ</s1>, as if he were the son of a <s1>Kṣatriya</s1> man and <s1>Śūdra</s1> woman <s1>Vidura</s1> is described as <s>sarva-budDimatAM varaH</s> and is one of the wisest characters in the <s1>Mahā-bhārata</s1>, always ready with good advice both for his nephews, the <s1>Pāṇḍava</s1>s, and for his brother <s1>Dhṛtarāṣṭra</s1>), <ls>MBh.</ls>;
+651883c651892
+< <s>vivitsu</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>vivitsu</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+656534c656543
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+662349c662358
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+663136c663145
+< <s>vi-°rAvin</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>vi-°rAvin</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+667288c667297
+< ¦ of a serpent-demon, <ls>Hariv.</ls> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a serpent-demon, <ls>Hariv.</ls> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+671611c671620
+< <s>viza—hara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="m"/>
+---
+> <s>viza—hara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="m"/>
+677485c677494
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+677839c677848
+< ¦ of one of the sons of <s1>Dhṛta-rāṣṭra</s1> and various kings and other men, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of one of the sons of <s1>Dhṛtarāṣṭra</s1> and various kings and other men, <ls>MBh.</ls><info lex="inh"/>
+681688c681697
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+687900c687909
+< <s>vEcitra—vIrya</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>vicitra-v°</s>) <ab>patr.</ab> of <s1>Dhṛta-rāṣṭra</s1>, of <s1>Pāṇḍu</s1> and of <s1>Vidura</s1>, <ls>Kāṭh.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex="m"/>
+---
+> <s>vEcitra—vIrya</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>vicitra-v°</s>) <ab>patr.</ab> of <s1>Dhṛtarāṣṭra</s1>, of <s1>Pāṇḍu</s1> and of <s1>Vidura</s1>, <ls>Kāṭh.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex="m"/>
+696255c696264
+< when grown up he retired to the wilderness to lead the life of a hermit, but at his mother's request returned to become the husband of <s1>Vicitra-vīrya</s1>'s two childless widows, by whom he was the father of the blind <s1>Dhṛta-rāṣṭra</s1> and of <s1>Pāṇḍu</s1>;
+---
+> when grown up he retired to the wilderness to lead the life of a hermit, but at his mother's request returned to become the husband of <s1>Vicitra-vīrya</s1>'s two childless widows, by whom he was the father of the blind <s1>Dhṛtarāṣṭra</s1> and of <s1>Pāṇḍu</s1>;
+702865c702874
+< ¦ of the brother of queen <s1>Gāndhārī</s1> (and therefore the brother-in-law of <s1>Dhṛta-rāṣṭra</s1> and the <s1>Mātula</s1> or maternal uncle of the <s1>Kuru</s1> princes; as son of <s1>Subala</s1>, king of <s1>Gāndhāra</s1>, he is called <s1>Saubala</s1>; he often acted as counsellor of <s1>Duryodhana</s1>, and hence his name is sometimes applied to an old officious relative whose counsels tend to misfortune), <ls>MBh.</ls>; <ls>Hariv.</ls> &c. (<ab>cf.</ab> <ls>IW. 380</ls>)<info lex="inh"/>
+---
+> ¦ of the brother of queen <s1>Gāndhārī</s1> (and therefore the brother-in-law of <s1>Dhṛtarāṣṭra</s1> and the <s1>Mātula</s1> or maternal uncle of the <s1>Kuru</s1> princes; as son of <s1>Subala</s1>, king of <s1>Gāndhāra</s1>, he is called <s1>Saubala</s1>; he often acted as counsellor of <s1>Duryodhana</s1>, and hence his name is sometimes applied to an old officious relative whose counsels tend to misfortune), <ls>MBh.</ls>; <ls>Hariv.</ls> &c. (<ab>cf.</ab> <ls>IW. 380</ls>)<info lex="inh"/>
+711655c711664
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+760783c760792
+< ¦ of a <s1>Sūta</s1> (the son of <s1>Gavalgaṇa</s1> and follower of <s1>Dhṛta-rāṣṭra</s1>), <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a <s1>Sūta</s1> (the son of <s1>Gavalgaṇa</s1> and follower of <s1>Dhṛtarāṣṭra</s1>), <ls>MBh.</ls><info lex="inh"/>
+760786c760795
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+762282c762291
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+763329c763338
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+763458c763467
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+765027c765036
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. i, 4548</ls> (if <s>sadaH-suvAc</s> is not one word)<info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh. i, 4548</ls> (if <s>sadaH-suvAc</s> is not one word)<info lex="inh"/>
+799473c799482
+< <s>sahasra—vAc</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>sahasra—vAc</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+814630c814639
+< <s>su—kuRqala</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="m"/>
+---
+> <s>su—kuRqala</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="m"/>
+820294c820303
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+822469c822478
+< ¦ of a king of the <s1>Gāndhāra</s1>s (father of <s1>Śakuni</s1> and the wife of <s1>Dhṛta-rāṣṭra</s1>), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex="inh"/>
+---
+> ¦ of a king of the <s1>Gāndhāra</s1>s (father of <s1>Śakuni</s1> and the wife of <s1>Dhṛtarāṣṭra</s1>), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex="inh"/>
+822541c822550
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1> and king of <s1>Cedi</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1> and king of <s1>Cedi</s1>, <ls>MBh.</ls><info lex="inh"/>
+825938c825947
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+826004c826013
+< <s>su—va/rman</s> ¦ <lex>m.</lex> ‘having good armour’, <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>su—va/rman</s> ¦ <lex>m.</lex> ‘having good armour’, <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+826139c826148
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+831412c831421
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+836265c836274
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+836286c836295
+< ¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+---
+> ¦ of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>ib.</ls><info lex="inh"/>
+838075c838084
+< <s>soma—kIrti</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>soma—kIrti</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+839869c839878
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+840505c840514
+< <s>sObalI</s> ¦ (<s>I</s>), <lex>f.</lex> <ab>patr.</ab> of <s1>Gāndhārī</s1> (the wife of <s1>Dhṛta-rāṣṭra</s1>), <ls>ib.</ls><info lex="f"/>
+---
+> <s>sObalI</s> ¦ (<s>I</s>), <lex>f.</lex> <ab>patr.</ab> of <s1>Gāndhārī</s1> (the wife of <s1>Dhṛtarāṣṭra</s1>), <ls>ib.</ls><info lex="f"/>
+867502c867511
+< <s>haviH—Sravas</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+---
+> <s>haviH—Sravas</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="m"/>
+869184c869193
+< ¦ <ab>N.</ab> of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>
+---
+> ¦ <ab>N.</ab> of a son of <s1>Dhṛtarāṣṭra</s1>, <ls>MBh.</ls><info lex="inh"/>

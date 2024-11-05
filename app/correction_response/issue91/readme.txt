@@ -1277,6 +1277,97 @@ git add .
 git commit -m "corrections_extra2.txt, diff_mw_12_13.txt  at #91"
 git push
 
+# pull csl-corrections from github
+# on cologne server, in csl-corrections: git pull
+
+--------------------------------------------------------
+11-03-2024
+# process the corrections in temp_cfr_extra3.txt
+					     
+process temp_cfr_extra3.txt
+  Scott mw correction submissions from 10-28-2024 to 11-02-2024 (88)
+
+python parse_corrections2.py temp_cfr_extra3.txt corrections_extra3.txt temp_mw_13.txt temp_mw_14_work.org
+# 88 cases
+
+# manual edit corrections_extra3.txt AND temp_mw_14_work.org
+# make temp_mw_14.txt and install local
+sh temp_redo_14.sh
+
+--- temp notes xxxx
+‘ ’
+<chg type="chg" n="1" src="mw"><old></old><new></new></chg>
+
+---
+***** code for temp_redo_14.sh:
+python remove_markup.py temp_mw_14_work.org temp_mw_14.txt
+
+# local install temp_mw_14.txt
+cp temp_mw_14.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+*****
+
+diff temp_mw_13.txt temp_mw_14.txt > diff_mw_13_14.txt
+
+wc -l diff_mw_13_14.txt
+# 883 diff_mw_13_14.txt
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_extra3.txt, diff_mw_13_14.txt
+a few additional revisions.
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+# 251 insertions(+), 242 deletions(-)
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-websanlexicon to github
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+git add .
+git commit -m "MW: In list display, avoid SS and RR 
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# push csl-apidev to github
+cd /c/xampp/htdocs/cologne/csl-apidev
+git add .
+git commit -m "MW: In hierarchy panel, avoid SS and RR 
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# On cologne server:
+# pull csl-orig
+# pull csl-websanlexicon
+# pull csl-apidev
+# regenerate mw displays 
+cd csl-pywork/v02
+sh generate_dict.sh mw  ../../MWScan/2020/
+
+-----------------
+# push this csl-corrections repo to github.
+git add .
+        new file:   corrections_extra3.txt
+        new file:   diff_mw_13_14.txt
+        modified:   readme.txt
+        modified:   ../../../dictionaries/mw/mw_printchange.txt
+
+
+
+git commit -m "corrections_extra3.txt, diff_mw_13_14.txt  at #91"
+git push
+
+# pull csl-corrections from github
+# on cologne server, in csl-corrections: git pull
+
+--------------------------------------------------------
+temp_work_ab_aum.org  TODO
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 
