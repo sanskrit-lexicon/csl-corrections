@@ -1,0 +1,1080 @@
+* ------------------------------------------------
+* corrections_extra1_not_insert.AB.comments.txt
+* ------------------------------------------------
+
+* case 10: 10/24/2024 dict=MW, L=13464, hw=abhyāvartin, user=srhodes
+old = Revision Reconsideration
+new = The revision simply prints as follows: “(VS.).”
+I am uncertain how this is to be properly assimilated into the Main Entry.
+Is it meant to replace the following text: "VS. (voc.), Kauś. " ??? ;
+There seems to be no "Revision" done when comparing with the Main Entry printed text.
+comment = Revision Reconsideration
+status = PENDING.  
+
+AB comment:
+==========
+It is a correction in accent here--
+abhy-āvartin [77,3]	-> abhy-āvartín [1315,2]
+
+Jim response =  Nothing to do. Accent present
+
+------------------------------------------------------------------------
+
+* case 11: 10/24/2024 dict=MW, L=13466, hw=abhyāvartin, user=srhodes
+old = abhy-āvartin m. N. of a king (son of Cāyamāna and descendant of Pṛthu), RV. vi, 27, 5 and 8.
+new = (ī), m., N. of a king (son of Cāyamāna and descendant of Pṛthu), RV. vi, 27, 5 & 8.
+status = done.  but print has an accent on long vowel: 
+
+AB comment:
+==========
+Scott, in general, is not so particular about the accent!!
+
+Jim response =  Nothing to do. Accent present
+
+------------------------------------------------------------------------
+
+* case 13: 10/24/2024 dict=MW, L=13776.1, hw=amaṭha, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be single-indented in the Hierarchy List and placed after the word "amavat [ID=13752]" in the Hierarchical listing of words.
+The reason for this placement is given in the definition itself: "(fr. √3. am)".
+Also, a few hours ago, I submitted a similar correction to the word "amaviṣṇu mfn. [ID=14002 rev (1315,3)]" which I believe should be double-indented in the Hierarchy List and now placed after this correctly placed word "amaṭha [ID=13776.1 sup]" which itself follows the word "amavat [ID=13752]".
+comment = Placement Error
+status = ?done mv to 13752.2 (amavat = 13752.1); 
+  <e>1 -> <e>2 (single indent). 
+  
+AB comment:
+==========
+This (13752.2) is a proper relocation.
+
+Jim response =  Nothing to do
+
+------------------------------------------------------------------------
+
+* case 17: 10/24/2024 dict=MW, L=14002, hw=amaviṣṇu, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "amavat a [ID=13752]" in the Hierarchical listing of words.
+The current placement of the Headword "amaviṣṇu" follows after the Headword "amavat b See 1. ama. [ID=14001]".
+But, "amavat b" is only pointing to the "proper" location. Therefore, please move the Headword "amaviṣṇu" to its "proper" location! (kaching!)
+comment = Placement Error
+status = ?done  complicated. 
+
+... ... ...
+
+conclusion: There are two derivations of this word.
+   Thus, I think there should be two entries:
+   body: a-maviṣṇu mfn.  for L=14002
+   sup:  áma-viṣṇu (RV.) for a new L=14002.1
+
+old:
+<L>14002<pc>81,1<k1>amavizRu<k2>a/ma-vizRu<e>1
+<s>a/ma-vizRu</s> ¦ <lex>mfn.</lex> (√ <s>mU</s> -√ <hom>1.</hom> <s>mIv</s>, <ls>NBD.</ls>), immovable, <ls>RV. x, 94, 11.</ls> <info n="rev" pc="1315,3"/><info lex="m:f:n"/>
+<LEND>
+
+new:
+<L>14002<pc>81,1<k1>amavizRu<k2>a-mavizRu<e>1
+<s>a-mavizRu</s> ¦ <lex>mfn.</lex> (√ <s>mU</s> -√ <hom>1.</hom> <s>mIv</s>, <ls>NBD.</ls>), immovable, <ls>RV. x, 94, 11.</ls><listinfo n="sup"/>
+<LEND>
+<L>14002.1<pc>1315,3<k1>amavizRu<k2>a/ma-vizRu<e>1A
+<s>a/ma-vizRu</s> ¦ (<ls>RV.</ls>)<info n="sup"/>
+<LEND>
+
+AB comment:
+==========
+It is just a combined correction in hyphenation & accent here--
+a-maviṣṇu [81,1]	-> áma-viṣṇu [1315,3]
+
+Recall what the opening statement ("Obs.") in MW annexure (p. 1308) says--
+"When no meaning is given, some addition or rectification of accent is intended."
+
+[MW Annexure Rule No. 2]
+To save space, the citation place (or the meaning) is not fully given again as in the main pages, but just the name of the work (or some indicative meaning string) is given to properly identify the meaning sense and apply the revision.
+
+Jim response =  done. rewrite as a single entry, "rev"
+
+new - revised
+<L>14002<pc>81,1<k1>amavizRu<k2>a/ma-vizRu<e>1
+<s>a/ma-vizRu</s> ¦ <lex>mfn.</lex> (√ <s>mU</s> -√ <hom>1.</hom> <s>mIv</s>, <ls>NBD.</ls>), immovable, <ls>RV. x, 94, 11.</ls><info n="rev" pc="1315,3"/>
+<LEND>
+
+(remove 14002.1)
+<L>14002.1<pc>1315,3<k1>amavizRu<k2>a/ma-vizRu<e>1A
+<s>a/ma-vizRu</s> ¦ (<ls>RV.</ls>)<info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 49: 10/20/2024 dict=MW, L=17589.2, hw=avaniḥsaraṇa, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "avaniṣṭhīvana [ID=17603]" in the Hierarchical listing of words, according to proper Alphabetical ordering.
+Here is the reasoning: The word "avaniṣṭhīvana" is parsed as "ava-ni-ṣṭhīvana". Therefore, at this point in the Hierarchy of words, we may consider this particular alphabetical location to be designated by the double prefix: "ava-ni-".
+Now, the following alphabetically placed word in the Main Entry is "avanī 2".
+However, the Supplemental Word "avaniḥsaraṇa" is properly parsed as beginning with the double prefix: "ava-nis-" (or if you prefer ava-nir-) and either way, its proper Alphabetical placement within the Main Entry will immediately follow the double prefix "ava-ni-"
+ Therefore, I maintain that the Headword "avaniḥsaraṇa n. [ID=17589.2 sup]" should be placed here, just after the word "avaniṣṭhīvana [ID=17603]" and just before the word "2 avanī [ID=17604]".
+ Of course the ID number for the supplemental word "avaniḥsaraṇa" will likely need to be updated as well. (Super-Duper-kaching!)
+comment = Placement Error
+status = PENDING
+In suppl. p. 1317,  avaniḥsaraṇa < avanImuKa.  
+Both current cdsl order and Scott's order:  avaniḥsaraṇa < avanImuKa
+Thus Both are 'wrong'.
+
+AB comment:
+==========
+This goes to 17564.1 as <e>1 entry.
+
+Jim response =  done per AB comment. 
+
+------------------------------------------------------------------------
+
+* case 56: 10/19/2024 dict=MW, L=18888.1, hw=aviplava, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "avipluta [ID=18900]" in the Hierarchical listing of words, according to Alphabetic order.
+comment = Placement Error
+status = ?done move 18888.1 to 18899.1  [either one is reasonable]
+
+AB comment: 
+==========
+Aren't "before 18900" & "18899.1" indicating the same?
+And 18899.1 is the proper placement.
+
+Jim response = done. mv to 18899.2 (18899.1 is the 'uninterrupted' sense)
+               This is now before avipluta (18900), as Scott proposed.
+
+-------------------------- ----------------------------------------------
+
+* case 63: 10/23/2024 dict=AP90, L=19097, hw=puṇya, user=srhodes
+old = demon. goblin
+new = demon, goblin
+status = PENDING Wrong submission.  19097 is avisargin. Cannot find demon. goblin  
+
+AB comment:
+==========
+This post refers to the AP90 entry!!
+
+Jim response =  Nothing to do in mw. (Oh! Add to AP90 todo)
+
+------------------------------------------------------------------------
+
+* case 66: 10/19/2024 dict=MW, L=19248.1, hw=avyañjana, user=srhodes
+old = Definition Placement
+new = You may choose to "reposition" the two supplementary definitions in the window display so as to match appropriately with the existing Main Entry definitions.
+comment = Definition Placement
+status = done. mov 19248.1 to 19247.1
+
+AB comments:
+============
+I would like to mention that I've took these two entries as "rev" type, instead of "sup" type in my version.
+
+Before Jim's present correction: 19248.1 -> 19247 & 19248.2 -> 19248
+With Jim's present correction: 19247.1 -> 19247 & 19248.2 -> 19248
+
+Jim response =  Relabel the two 'sups' as 'revs'; no change in position.
+                At present, it seems easier to follow to have two main
+                entries and two suppl. entries.
+                
+previous avyaYjana entries:
+
+<L>19247<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2
+<s>a-vyaYjana</s> ¦ <lex>mf(<s>A</s>)n.</lex> without the marks of puberty<info lex="m:f#A:n"/><listinfo n="sup"/>
+<LEND>
+<L>19247.1<pc>1317,3<k1>avyaYjana<k2>a-vyaYjana<e>2A
+¦ (a girl) who has not yet attained to puberty, <ls>Pañcat.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+<L>19248<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2A
+¦ without consonants, <ls>Up.</ls><info lex="inh"/>
+<LEND>
+<L>19248.2<pc>1317,3<k1>avyaYjana<k2>a-vyaYjana<e>2A
+¦ having no consonants, <ls>AmṛtUp.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+<L>19249<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2B
+<s>a-vyaYjana</s> ¦ <lex>m.</lex> an animal without horns (though of age to have them), <ls>L.</ls><info lex="m"/>
+<LEND>
+
+new (revised) avyaYjana entries:
+
+<L>19247<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2
+<s>a-vyaYjana</s> ¦ <lex>mf(<s>A</s>)n.</lex> without the marks of puberty<info lex="m:f#A:n"/><listinfo n="rev"/>
+<LEND>
+<L>19247.1<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2A
+¦ (a girl) who has not yet attained to puberty, <ls>Pañcat.</ls><info n="rev" pc="1317,3"/>
+<LEND>
+<L>19248<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2A
+¦ without consonants, <ls>Up.</ls><info lex="inh"/>
+<LEND>
+<L>19248.1<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2A
+¦ having no consonants, <ls>AmṛtUp.</ls><info n="rev" pc="1317,3"/>
+<LEND>
+<L>19249<pc>111,2<k1>avyaYjana<k2>a-vyaYjana<e>2B
+<s>a-vyaYjana</s> ¦ <lex>m.</lex> an animal without horns (though of age to have them), <ls>L.</ls><info lex="m"/>
+<LEND>
+
+
+------------------------------------------------------------------------
+
+* case 88: 10/19/2024 dict=MW, L=19938.1, hw=aśvaprapatana, user=srhodes
+old = Reconsideration
+new = The Main Entry states: "-prapatana, n., Pāṇ. v, i, iii, Comm.; °tanīya, mfn. referring to it, ib." LB
+The Supplemental Entry (or Revision) states: "-prapatana, °nīya (read prapad°)" LB
+I checked with Pāṇ. v, i, iii, Comm., and it appears that the word "aśvaprapatanīya" is correct.
+I am uncertain of what is actually being conveyed here, in particular by the statement: "(read prapad°)".
+comment = Reconsideration
+status = PENDING
+
+AB comment:
+==========
+I wonder where and what did Scott see, to put the above statement!
+
+See what the Comm.  (i. e. Mahābhāṣya ) on Pāṇ. 5.1.111 says--
+(भाष्यम्) छप्रकरणे विशिपूरिपदिरुहिप्रकृतेरनात्सपूर्वपदादुपसंख्यानं कर्तव्यम् ।
+विशि - गेहानुप्रवेशनीयम् । पूरि - प्रपापूरणीयम् । पदि - गोप्रपदनीयम्, अश्वप्रपदनीयम् । रुहि - प्रासादारोहणीयम् ॥ (५६७८ विधिवार्तिकम् ॥ २ ॥)
+Namely, it is talking about the root 'pad' (pad_i)!
+
+Thus, I have the entries revised (prapat° -> prapad°) as
+
+[19938]:	<s3>aśva-prapadana</s3>, 🠚✦ 〔n.〕 🠚⧫¦ <ls>Pāṇ. v, 1, 111, ⁅Comm.⁆</ls>//rev(1318,1)
+[19939]:	<s3>aśva-prapa°danīya</s3>, 🠚✦ 〔mfn.〕 🠚⧫¦ referring to it, <ls>ib.</ls>//rev(1318,1)
+and there is no 19938.1 in my version.
+
+Jim response =  done.  Use 'chg' markup
+
+old:
+<L>19938<pc>115,1<k1>aSvaprapatana<k2>aSva—prapatana<e>3
+<s>aSva—prapatana</s> ¦ <lex>n.</lex>, <ls>Pāṇ. v, 1, 111</ls> <ab>Comm.</ab><info lex="n"/><listinfo n="sup"/>
+<LEND>
+<L>19938.1<pc>1318,1<k1>aSvaprapatana<k2>aSva—prapatana<e>3A
+¦ <s>°nIya</s> (read <s>prapad°</s>)<info n="sup"/>
+<LEND>
+<L>19939<pc>115,1<k1>aSvaprapatanIya<k2>aSva—prapatanIya<e>4
+<s>aSva—prapa°tanIya</s> ¦ <lex>mfn.</lex> referring to it, <ls>ib.</ls><info lex="m:f:n"/>
+<LEND>
+
+new:
+<L>19938<pc>115,1<k1>aSvaprapadana<k2>aSva—prapadana<e>3
+<chg type="chg" n="1" src="mw"><old><s>aSva—prapatana</s></old><new>aSva—prapadana</new></chg> ¦ <lex>n.</lex>, <ls>Pāṇ. v, 1, 111</ls> <ab>Comm.</ab><info lex="n"/><info n="rev" pc="1318,1"/>
+<LEND>
+<L>19939<pc>115,1<k1>aSvaprapadanIya<k2>aSva—prapadanIya<e>3
+<chg type="chg" n="1" src="mw"><old><s>aSva—prapa°tanIya</s></old><new>aSva—prapa°danIya</new></chg> ¦ <lex>mfn.</lex> referring to it, <ls>ib.</ls><info lex="m:f:n"/><info n="rev" pc="1318,1"/>
+<LEND>
+
+
+------------------------------------------------------------------------
+
+* case 102: 10/17/2024 dict=MW, L=21206, hw=asaunāman, user=srhodes
+old = REVISION ERROR
+new = I hope that Jim will compare the original entry with the Revision and make any necessary corrections. APTE maintains the definition as: "Having such and such a name."  LB
+Here is the MW Dictionary information: LB Original Entry:  "mfn. having such and such a name, ŚBr. xiv (BṛĀrUp.)" LB
+Revision Entry:  "(erase and read in ŚBr. asau n°)" LB Current Entry: "mfn. in ŚBr. xiv  asau n° [ID=21206 rev (1318,2)]".
+comment = REVISION ERROR
+status = done. Rewrite with <chg> so old/new clearer
+
+old:
+<s>asO—nA/man</s> ¦ <lex>mfn.</lex> in <ls>ŚBr. xiv</ls> <s>asO n°</s> <info n="rev" pc="1318,2"/><info lex="m:f:n"/>
+
+new:
+<s>asO—nA/man</s> ¦ <lex>mfn.</lex> <chg type="chg" n="1" src="mw"><old>having such and such a name, <ls>ŚBr. xiv</ls> (<ls>BṛĀrUp.</ls>)</old><new>(erase and read in <ls>ŚBr.</ls> <s>asO n°</s></new></chg> <info n="rev" pc="1318,2"/><info lex="m:f:n"/>
+
+AB comment:
+==========
+All this 'farce' has started with the so called "mother-of-All" (PWG), having its entry as--
+	asaunāman (asau + nāman)
+	adj. den und den Namen führend Śat. Br. 14,4,2,15  = Bṛh. Ār. Up. 1,4,7. 
+that has crept into all the subsequent works "as is"!
+
+Then after pwk-5 (1884) gave its correction,
+	asaunāman
+	zu streichen, da Śat. Br.  (Chr. 31,29) asau nāmāyam gemeint ist.
+
+A)	Some vigilent people took notice of the same; but just incorporated the same in their corrigenda [CCS (1887): p. 538 & MD (1893): p. 338] to "delete the entry", instead of taking action in the main pages.
+B) Apte (1890), when he was at his Dictionary [he was at all his "books" single-handedly, like our Jim is maintaining the CDSL project single-handedly now], having focussed mostly on PWG and VCP & his own collection of the Kāvya literature, would not have seen the pwk-5 (or probably any pwk volume to that matter; I might do some comparative study sometime to substantiate this statement!). But the later editors of AP57 have put little extra effort in giving the BṛhĀrUp. 1,4,7 text along with the "original" meaning carried down from PWG; They have simply ignored the fact that there is no such word as "asaunāman", but it is composed of two independent words "asau" & "nāman" (as a phrase), as notified in the pwk-5.
+C) Then comes our 'great' copy-cat MW (1899), who took the pwk (corrigenda) matter as suppl. info [just like our Jim is doing at times now!], instead of as a corrective info, and keeping the same in his annexure. I am reminded of Boethlingk's statement about MW's 'plagiarism' that was brought to his notice, wherein he was saying in almost similar terms, that MW has blindly translated the content (from BR's Wörterbuch) into English, without "putting" his brain any further on it. MW seems to have continued the same pattern of working even with pwk content (AND adding his own mistakes at places), while updating MW72 to MW99. [There is a saying in my mother-tongue that goes something like "Birth-traits stay with a person till death".]
+
+Now coming to my suggestion--
+(1) We should delete the entry completely as a HW, as notified by pwk-5.
+(2) If we still want to retain the specific meaning given everywhere as above, we could add the phrase "asau nāman" under the entry "asau" as an example, as it modifies the combined phrase meaning from the combination of its constituent individual-word meanings
+	asau = "that, such"; nāman = "named"
+	asau _nāmam = "such_and_such named" [with an implied emphasis], and not the simple & plain "such_named"!
+	
+[It has been a very long time (ages), that I had commented this much on something.]
+
+Now let's wait & see, what our CDSL Master-custodian Jim does (looking at this blah-blah)!
+
+PS.
+Marcis,
+Recall that you were asking me to compare MW with pwk sometime back (which I did not entertain!); you may see now from this above matter, what I would've said if I did a full comparision.
+
+Jim response =  done. Modified the entry so the headword is a phrase: "asO nAman"
+        This is now the only "phrase" in MW (i.e. with a 'space' in k1).
+          This 'space' causes no big problems so far in cdsl displays.
+          In Advanced search, an exact match doesn't work, but a prefix search on "asO"
+        or a suffix search on "nAman" both include "asO nAman" in the results.
+        AB's observations on relations among dictionaries are of interest.
+              
+
+old:
+<L>21206<pc>122,1<k1>asOnAman<k2>asO—nA/man<e>3
+<s>asO—nA/man</s> ¦ <lex>mfn.</lex> <chg type="chg" n="1" src="mw"><old>having such and such a name, <ls>ŚBr. xiv</ls> (<ls>BṛĀrUp.</ls>)</old><new>(erase and read in <ls>ŚBr.</ls> <s>asO n°</s>)</new></chg> <info n="rev" pc="1318,2"/><info lex="m:f:n"/>
+<LEND>
+
+new: try to have a phrase first try
+<L>21206<pc>122,1<k1>asO nAman<k2>asO nA/man<e>3
+<s>asO nA/man</s> ¦ <lex>mfn.</lex> <chg type="chg" n="1" src="mw"><old>having such and such a name, <ls>ŚBr. xiv</ls> (<ls>BṛĀrUp.</ls>)</old><new>(erase and read in <ls>ŚBr.</ls> <s>asO n°</s>)</new></chg> <info n="rev" pc="1318,2"/><info lex="m:f:n"/>
+<LEND>
+
+new1: Second try
+
+<L>21206<pc>122,1<k1>asO nAman<k2>asO nA/man<e>3
+<chg type="chg" n="1" src="mw"><old><s>asO—nA/man</s></old><new><s>asO nA/man</s></new></chg> ¦ <lex>mfn.</lex> having such and such a name, <ls>ŚBr. xiv</ls> (<ls>BṛĀrUp.</ls>) <info n="rev" pc="1318,2"/><info lex="m:f:n"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 105: 10/17/2024 dict=MW, L=22291, hw=āke, user=srhodes
+old = (accord. to some, ‘visibly’ [cf. akśi, √īkṣ], RV. ii, 1, 10), (Naigh. ii, 16 ) [ID=22291 rev (1319,1)]
+new = (accord. to some, ‘visibly’ [cf. akṣi, √īkṣ], RV. ii, 1, 10)
+comment = REVISION ERROR • Please note the TYPO, "akśi" has been corrected to: "akṣi" •
+Also, I consider this to be a SUPPLEMENTARY definition, because it states, "accord. to some".
+Therefore, you will need to UPDATE the Symbol to the "circle-S" as well as any other detail adjustments. (kaching!)
+status = done
+
+old:
+<L>22291<pc>128,1<k1>Ake<k2>Ake/<e>1
+<s>Ake/</s> ¦ <ab>loc.</ab> <lex>ind.</lex> (<ab>fr.</ab> <hom>2.</hom> <s>aYc</s> with <s>A</s>, <ab>cf.</ab> <s>a/pAka</s>, &c.) ‘hitherward’, near, (<ab>accord.</ab> to some, ‘visibly’ [<ab>cf.</ab> <s>akSi</s>, √ <s>Ikz</s>], <ls>RV. ii, 1, 10</ls>), (<ls>Naigh. ii, 16</ls>)<info n="rev" pc="1319,1"/><info lex="ind"/>
+<LEND>
+
+new:
+<L>22291<pc>128,1<k1>Ake<k2>Ake/<e>1
+<s>Ake/</s> ¦ <ab>loc.</ab> <lex>ind.</lex> (<ab>fr.</ab> <hom>2.</hom> <s>aYc</s> with <s>A</s>, <ab>cf.</ab> <s>a/pAka</s>, &c.) ‘hitherward’, near, <ls>RV. ii, 1, 10</ls>, (<ls>Naigh. ii, 16</ls>)<info lex="ind"/><listinfo n="sup"/>
+<LEND>
+<L>22291.05<pc>1319,1<k1>Ake<k2>Ake/<e>1A
+¦ (<ab>accord.</ab> to some, ‘visibly’ [<ab>cf.</ab> <s>akzi</s>, √ <s>Ikz</s>], <ls>RV. ii, 1, 10</ls>)<info n="sup"/>
+<LEND>
+
+AB comment:
+===========
+There are both cases having "(accord. to ...)" matter "padded" in the same line ["rev" type], or separately in the next line ["sup" type].
+Probably, we should find the appropriate & single strategy to follow throughout.
+
+On a quick browsing, I see that the same line type occurs where there is no punctuation mark (comma or semi-colon) before the opening brace.
+Almost all the annexure strings are on a sep. line, except 7 more such "rev" lines in my version.
+
+Jim response =  Nothing to do.  Here are 15 'accord. to' lines with "sup":
+  15 matches for "(<ab>accord.</ab> to some, ‘.*"sup"" in buffer: temp_mw_15.txt
+ <s>a-mUlA</s> ¦ <lex>f.</lex> (<ab>accord.</ab> to some, ‘movable property’, <ls>AV. v, 31, 4</ls>).<info n="sup"/><info lex="f"/>
+ ¦ (<ab>accord.</ab> to some, ‘going fast’, ‘quick’).<info n="sup"/>
+ ¦ (<ab>accord.</ab> to some, ‘visibly’ [<ab>cf.</ab> <s>akzi</s>, √ <s>Ikz</s>], <ls>RV. ii, 1, 10</ls>)<info n="sup"/>
+ ¦ (<ab>accord.</ab> to some, ‘raising mortals’).<info n="sup"/>
+ ¦ (<ab>accord.</ab> to some, ‘the penis’).<info n="sup"/>
+ <s>gamBIra—vepas</s> ¦ (<ab>accord.</ab> to some, ‘singing in a deep tone’ or ‘constantly speeding’).<info n="sup"/><info hui="b"/>
+ ¦ (<ab>accord.</ab> to some, ‘road for the cows’; ‘any road or way’; ‘a herd of cattle’).<info n="sup"/>
+ <s>jAta—vidyA/</s> ¦ <lex>f.</lex> (<ab>accord.</ab> to some, ‘innate or peculiar knowledge’)<info n="sup"/><info lex="f"/>
+ ¦ (<ab>accord.</ab> to some, ‘onset, haste, hurry, course’).<info n="sup"/>
+ ¦ (<ab>accord.</ab> to some, ‘a field insect’).<info n="sup"/>
+ ¦ (<ab>accord.</ab> to some, ‘sin committed by the gods’).<info n="sup"/><info lex="inh"/>
+ <s>DaruRI/</s> ¦ (<ab>accord.</ab> to some, ‘a supporter’).<info n="sup"/>
+ <s>narA<srs/>cI/</s> ¦ (<ab>accord.</ab> to some, ‘personal possession’).<info n="sup"/>
+ ¦ (<ab>accord.</ab> to some, ‘<ab>N.</ab> of a mare’).<info n="sup"/>
+ ¦ (<ab>accord.</ab> to some, ‘that which is confined’).<info n="sup"/>
+
+The same filter with "rev" yields no results.
+
+------------------------------------------------------------------------
+
+* case 117: 10/16/2024 dict=MW, L=24895.01, hw=āpāda, user=srhodes
+old = (p. 143, col. 1, erase 1. and parenthesis on next line) [ID=24895.01 sup]
+new = Execute the instruction above and then delete the typo cited above in its entirety.
+This is a Revision Command! Not a Supplementary definition!  LB Once you have completely deleted [ID=24895.01 sup];
+Then Please Carry Out the REVISION INSTRUCTION and completely DELETE the following: "(for 2. ā-pāda See below.) [ID=24895]"; LB
+Now mark this Headword with the "circle-R" Revision Symbol to the right side of this word in the Hierarchy List Display. (kaching!)
+comment = REVISION NOT SUPPLEMENT!
+status = ?done  
+old:  ApAda_1.png 
+<L>24893<pc>143,1<k1>ApAda<k2>A-pAda<e>2
+<s>A-pAda</s> ¦ <lex>m.</lex> reward, remuneration, <ls>ChUp.</ls><info lex="m"/><info hui="a"/><listinfo n="sup"/>
+<LEND>
+<L>24894<pc>143,1<k1>ApAda<k2>A-pAda<e>2A
+¦ arriving at, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>24895<pc>143,1<k1>ApAda<k2>A-pAda<e>2A
+¦ (for <hom>2.</hom> <s>A-pAda</s> See below.)<info lex="inh"/>
+<LEND>
+<L>24895.01<pc>1319,3<k1>ApAda<k2>A-pAda<e>2A
+¦ (<ab>p.</ab> 143, <ab>col.</ab> 1, erase 1. and parenthesis on next line)<info n="sup"/>
+<LEND>
+
+new ApAda_2.png  (intermediate) -- write the 143,1 entry close to print - merge 24893-24895 
+<L>24893<pc>143,1<k1>ApAda<k2>A-pAda<e>2
+<hom>1.</hom> <s>A-pAda</s>, ¦ <s>as</s>, <lex>m.</lex> reward, remuneration, <ls>ChUp.</ls>;
+<br/>arriving at, <ls>L.</ls>; (for <hom>2.</hom> <s>A-pAda</s> see below.)
+<LEND>
+<L>24893.1<pc>1319,3<k1>ApAda<k2>A-pAda<e>2A
+¦ (<ab>p.</ab> 143, <ab>col.</ab> 1, erase 1. and parenthesis on next line)<info n="sup"/>
+<LEND>
+
+new: ApAda_3.png (final form)
+<L>24893<pc>143,1<k1>ApAda<k2>A-pAda<e>2
+<chg type="chg" n="1" src="mw"><old><hom>1.</hom> </old><new></new></chg><s>A-pAda</s>, ¦ <s>as</s>, <lex>m.</lex> reward, remuneration, <ls>ChUp.</ls>;<br/>arriving at, <ls>L.</ls>; <chg type="chg" n="1" src="mw"><old>(for <hom>2.</hom> <s>A-pAda</s> see below.)</old><new></new><info n="rev" pc="1319,3"/>
+<LEND>
+<L>24893.1<pc>1319,3<k1>ApAda<k2>A-pAda<e>2A
+¦ (<ab>p.</ab> 143, <ab>col.</ab> 1, erase 1. and parenthesis on next line)<info n="rev" pc="1319,3"/>
+<LEND>
+
+<chg type="chg" n="1" src="mw"><old></old><new></new></chg>
+
+AB comment:
+============
+The revision text is quite clear and the "application" does what it needs. So NO need to have the 24893.1 again.
+
+But Jim, at times, doesn't heed to what others say; and, just sticks to what comes to his mind!!
+
+Jim response =  done. removed 24893.1
+ BTW: When I don't heed something, just tell me again, as now
+
+------------------------------------------------------------------------
+
+* case 119: 10/16/2024 dict=MW, L=24969.2, hw=āpādin, user=srhodes
+old = Placement And Indentation Error
+new = Please note that for my own purposes I have placed this Headword after the word "āpādana [ID=24899]" in the Hierarchical listing of words. In any case it should not be Double Indented in the Hierarchy List.
+comment = Placement And Indentation Error
+status = done (move to 24899.1, <e>3 -> <e>1)
+
+AB comment:
+===========
+JFYI, I am having it as <e>2 type.
+
+Jim response =  done. Also change to <e>2
+
+------------------------------------------------------------------------
+
+* case 127: 10/15/2024 dict=MW, L=26325, hw=āroha, user=srhodes
+old = MaitrS.; R. 
+new = MaitrS.;
+comment = Revision Error – Please note that the original text prints, "R."; but the Revision prints, ""MaitrS.".
+The word "also" applies only to the following supplementary definition: "a chief elephant-driver".
+Therefore, this word "also" is not specifying "MaitrS.; R.". One other point of consideration:
+ There are three occurrences of the form "R." listed in the definition of the Headword "āroha".
+ Does the Revision intend to replace the "R." with the citation "MaitrS." in each and every case?
+  I suspect that the answer is "YES", because no special distinction has been made with regard to this Revision; therefore it should be applied to every single case.
+  Please remember to include both the "circle-R" and "circle-S" symbols in the Hierarchy column. (kaching!)
+status = ?done both "circle-R" and "circle-S" symbols. 
+
+AB comment:
+============
+It is just a combined correction in hyphenation & accent here--
+āroha [151,2]	-> ā-rohá [1320,1], referring to its occurrence in the MaitrS.
+
+We may notice that pwk gave another (proper) meaning separately for this MaitrS. usage, which is missing in MW!!
+
+Jim response =  nothing to do
+
+------------------------------------------------------------------------
+
+* case 129: 10/14/2024 dict=MW, L=27143.2, hw=āviḥsūrye, user=srhodes
+old = Missing Headword
+new = I have referenced the Headword "āviḥsūrye" only to bring your attention to the proper location for the following suggestion:
+You may choose to add the Headword: "āviḥ (in comp. for āvis) [ID=27143.1 sup]", which precedes the word "āviḥsūrye" in the supplementary section. Possibly a kaching?
+comment = Missing Headword
+status = done. Good idea. Also moving both to just before Avir, 27145
+new entry:
+<L>27144.1<pc>155,3<k1>AviH<k2>AviH<e>2
+<s>AviH</s> ¦ (in <ab>comp.</ab> for <s>Avis</s>)<info n="sup"/>
+<LEND>
+
+AB comment:
+==========
+I had identified about 50 such new comp.-word Header entries from the annexure, while I was at the MW revision work.
+So, all such are still lying 'buried' in the MW annexure for Scott to dig-out.
+
+Jim response =  Nothing to do.  AB suggests a place of improvement:
+   I think these '50'  would be identifiable only by visual 
+   search in scanned images suppl.
+   1. Starting at p. 1308, col. 1 of suppl., The first one I see is 
+   "aMho (in comp. for aMhas)"  where aMho is not currently a headword in cdsl mw.
+   2. In col 2, "a-kfta (in comp.)" would NOT be an example, since "akfta" IS a headword
+   3. Another one is on p. 1309,3:  "atiTI (in comp. for atiTi)"
+   4. p. 1310,1 "a-divA (in comp.)' is already a suppl. record in mw.
+  Suggest Scott to make a list of all "X (in comp." from suppl. visual search.
+   
+ 
+------------------------------------------------------------------------
+
+* case 134: 10/13/2024 dict=MW, L=28746.1, hw=itānta, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "itāsu [ID=28546]" in the Hierarchical listing of words.
+This correction is based upon the etymology of the word itānta = (ita + anta).
+Also, please note that you may need to change the ID number of itānta if the ID number bears relation to the placement. (kaching!)
+comment = Placement Error
+status = done. move 
+Note: Always, "the ID number bears relation to the placement"
+
+AB comment:
+==========
+Here, Scott 'conviniently' forgot about the annexure entry-order that he talks about time and again; and Jim has blindly followed his suggestion!
+
+I see that its proper placement is where it was (28746.1), before this change (28545.1)!
+[Note. MD & SCH also have "itānta" between "itas" block & "iti" block, just as this MW placement.
+As Scott apparently likes to compare based on info from other dictionaries (Apte & SHS), I thought I should give these placements info in other dictionaries!!]
+
+Jim response =  e<2> -> <e>3. I think the placement is correct, as a compound of 'ita'
+         AB's "forgot about the annexure entry-order" comment seems non-applicable.
+
+------------------------------------------------------------------------
+
+* case 144: 10/12/2024 dict=MW, L=32257, hw=udāja, user=srhodes
+old = Revision Reconsideration
+new = Something is certainly wrong here. The original definition should be retained: "m. leading out (soldiers to war), marching out, MaitrS. i, 10, 16.".  LB+
+ Please Note the following Definitions: LB APTE STATES: "Sk. Leading out (soldiers to war); marching out; Maitrā. S.1.1.16.; Encouragement to the army." LB
+  SHABDA STATES: "Commanding, directing bodies of men." LB As a Supplement or Revision, MW Dictionary STATES: "(read, ‘a selected portion,’ = uddhāra)."
+   I am uncertain how this is to be integrated into the main entry, however based on APTE and SHABDA above, I am certain that the original MW Dictionary entry should be retained.
+comment = Revision Reconsideration
+status = done - put original p. 184 text in 32257.  Put the revision as another entry
+
+old:
+<L>32257<pc>184,1<k1>udAja<k2>ud-Aja/<e>2
+<s>ud-Aja/</s> ¦ <lex>m.</lex> a selected portion, = <s>udDAra</s>, <ls>MaitrS. i, 10, 16.</ls> <info n="rev" pc="1321,3"/><info lex="m"/><info hui="a"/>
+<LEND>
+
+new:  
+<L>32257<pc>184,1<k1>udAja<k2>ud-Aja/<e>2
+<s>ud-Aja/</s> ¦ <lex>m.</lex> leading out (soldiers to war), marching out, <ls>MaitrS. i, 10, 16.</ls> <listinfo n="rev"/>
+<LEND>
+<L>32257.1<pc>184,1<k1>udAja<k2>ud-Aja/<e>2A
+¦ (read ‘a selected portion’, = <s>udDAra</s>).<info n="rev" pc="1321,3"/>
+<LEND>
+
+AB comment:
+==========
+The VEI entry gives all necessary & relevant info reg. this entry; PWG's error appears to have got carried into Apte & SCH (and of course to MW72 & MW as well).
+The pwk-7 [1889] has the correction duly incorporated, which resulted in the MW annexure entry.
+
+And the MW correction here seems to be by Cappeller (!) who has the entry thus in his S2E dictionary (culled from Delbruck's article "Conjecturen zur Maitrầyanî-Samhitâ" [in Festgruss An Otto Von Böhtlingk, 1888])
+This meaning is later accepted by later scholars, being perfectly befitting the context.
+[Does someone like to see the original hymn?]
+
+With the present display model (wherein both the original meaning and the revised meaning are visible to the reader) adopted by Jim, I see absolutely NO REASON to put two entries for this!!
+
+Jim response =  done.  The VEI entry (which I did not consult previously) explains
+  what is to be replaced, namely "leading out (soldiers to war), marching out".
+
+VEI: Ud-āja is the word used in the Maitrāyaṇī Saṃhitā1 to denote
+the share of the booty of war taken by the king after a victory
+(saṃgrāmaṃ jitvā). This interpretation, which is that of
+Delbrück,2 is clearly correct, as against the older version,
+‘march out,’ given by von Schroeder3 and accepted by
+Böhtlingk.4 
+
+> [Does someone like to see the original hymn?]
+  Sure, would be good to see enough context to further understand the VEI comment.
+
+old:
+<L>32257<pc>184,1<k1>udAja<k2>ud-Aja/<e>2
+<s>ud-Aja/</s> ¦ <lex>m.</lex> leading out (soldiers to war), marching out, <ls>MaitrS. i, 10, 16.</ls> <listinfo n="rev"/>
+<LEND>
+<L>32257.1<pc>184,1<k1>udAja<k2>ud-Aja/<e>2A
+¦ (read ‘a selected portion’, = <s>udDAra</s>).<info n="rev" pc="1321,3"/>
+<LEND>
+
+new:
+<L>32257<pc>184,1<k1>udAja<k2>ud-Aja/<e>2
+<s>ud-Aja/</s> ¦ <lex>m.</lex> <chg type="chg" n="1" src="mw"><old>leading out (soldiers to war), marching out</old><new>‘a selected portion’, = <s>udDAra</s></new></chg>, <ls>MaitrS. i, 10, 16.</ls><info n="rev" pc="1321,3"/>
+<LEND>
+
+32257.1 deleted
+
+------------------------------------------------------------------------
+* ------------------------------------------------
+* corrections_extra2.AB.comments.txt
+* ------------------------------------------------
+* case 2: 10/27/2024 dict=MW, L=9631.11, hw=aparvan, user=srhodes
+old = Intentional or Erroneous
+new = Please check if you intend to include the Supplemental Entry "aparvaṇi", within the Headword definition of "aparvan".
+Of course, I understand the direct connection, but just for your verification one way or the other: "a-parvaṇi ind. (loc. of a-parvan) at the wrong time, out of season, Kir. [ID=9631.11 sup]"
+comment = Intentional or Erroneous
+status = no change.  intentional
+
+AB comment:
+==========
+This might be placed at 9631.05, so that it goes better with the preceding entry.
+Of course, this is against the norm that the ind. entries (mostly !?) appear at the end of the (lexical) sibling-entries (which I had marked as Ⓛ).
+
+Jim response =  done. 
+
+------------------------------------------------------------------------
+
+* case 4: 10/27/2024 dict=MW, L=9721.1, hw=apavarga, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = nothing to do. circle-S is present, but in second apavarga (p. 52,2)
+
+AB comment:
+==========
+For the annexure entries without any homonyms ["sup": 846 & "rev": 8], the listinfo tag may be considered as working well.
+[I did not spend any time looking for cases that may not be working in these.]
+
+But, the artificial homonyms (present in the data) still have some 'influence' on this Symbol insertion mechanism, as summarised below-
+(a) working in all cases of <info hui="a"/> ["sup": 47 & "rev": 1];
+(b) failing in all the cases of <info hui="b"/> ["sup": 28 & "rev": 1], having an 'associated' <info hui="a"/> elsewhere that doesn't contain the listinfo tag;
+[And, this 9721.1 happens to fall in the category (b)!]
+
+So, Jim has to find a way-out for this 'flaw'!
+
+Jim response =  Not done. See comment for possible approach.
+  The hierarchy list is based solely on the FIRST instance of the citation headword;
+  "First" is determined by L. In the apavarga example, the 'see' entry of p.52,1
+  precedes the 'real' entry of p. 52,2. The list display allows navigation to
+  the 52,2 information (the yellow arrow)
+  The right-pane shows ALL the entries for apavarga.
+  So, when the hierarchy list is centered on p. 52,1 the red sups in the right pane
+  and the absence of a circle-S in hierarchy list SEEM to be inconsistent.
+  Personally, this seems like a feature of list display rather than a bug (flaw).
+  But I suppose I should devise some 'solution' from the comments of Scott and AB.
+  Here's a possible solution that comes to mind:
+  - some distinctive markup at 9681 (52,1) <listinfo n="rev1"/> (or listinfo n="sup1"/>
+  - this markup displayed as a gray circle-R or gray circle-S.
+  
+  Change to the display code probably easy.
+
+  Hardest part is to identify entries that need the rev1, sup1 markup
+   AB: Would  we also need to apply the rev1/sup1 markup when there
+   is a hui along with a (real) homonym ?  Or even when there are two or more
+   real homonyms where one homonym has a rev/sup but the other one does not.
+
+------------------------------------------------------------------------
+
+* case 5: 10/27/2024 dict=MW, L=9729.1, hw=apavarjana, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+Also, perhaps this Supplemental Definition should be relocated in the window display, ABOVE the listing for "apavāda b" – apa-vāda &c. See apa-√vad. [ID=9695].
+comment = Supplemental Insertion – Missing Symbol
+status = done moved to 9727.1 .  added "(also)"
+
+AB comment:
+==========
+It's earlier place (9729.1) is the proper one [clue: "(also)" indicates that it goes padded at the end of the intended 'block'.]; Jim shold revert the change.
+
+Jim response =  
+
+------------------------------------------------------------------------
+
+* case 6: AUM 10/27/2024 dict=MW, L=9729.2, hw=apavarjanavarjitatailapūra, user=srhodes
+  old = apavarjana—varjita-tailapūra
+new = apa—varjita-tailapūra
+comment = Typo – Please note that I suspect this is a "print change".  I looked up the reference cited: "see taila-p° (p. 455)", and I find the following: "taila—pūra m. ‘oil-filling’, a—taila—pūra mfn. [Kum. i, 10 ] or apavarjita—taila—pūra [Bhaktām. 15 ] mfn. (a lamp) that wants no oil-filling. [ID=87077]". In other words, the correction suggested here is directly printed. (Super-kaching!)
+status = ?not changed
+
+aum:
+----
+I still believe that this correction needs to be made:
+
+Jim response = See next
+* case 6: 10/27/2024 dict=MW, L=9729.2, hw=apavarjanavarjitatailapūra, user=srhodes
+old = apavarjana—varjita-tailapūra
+new = apa—varjita-tailapūra
+comment = Typo – Please note that I suspect this is a "print change".
+I looked up the reference cited: "see taila-p° (p. 455)", and I find the following: "taila—pūra m. ‘oil-filling’, a—taila—pūra mfn. [Kum. i, 10 ] or apavarjita—taila—pūra [Bhaktām. 15 ] mfn. (a lamp) that wants no oil-filling. [ID=87077]"
+In other words, the correction suggested here is directly printed. (Super-kaching!)
+status = ?not changed
+
+AB comment:
+==========
+It's better to consider it as a print change at annexure itself and move it to 'apa-varjita' (9732.05) compounds, from 'apa-varjana' (9729.2) compounds.
+Now we land at a peculiar case, that the citing (9732.05) and cited (9732.1) entries sit besides each other.
+
+Jim,
+I guess, it's time to get rid of the 'phwchild' entries having '<info phwparent' tag; and find another mechanism to 'encompass' various types of entries within the body matter as I had identified, like
+
+✾ variant form HWs	[with "written", "v. l.", "w. r." etc.]
+❀ implied HWs	[with "also"]
+✤ in-text HWs	main ("phw"parent) vs. in-line ("phw"child) HWs, mostly with meaning [within the body portion]
+✥ indicative HWs [mostly without meaning, but just with gender]
+Jim,
+I guess, it's time to get rid of the 'phwchild' entries having '<info phwparent' tag; and find another mechanism to 'encompass' various types of entries within the body matter as I had identified, like
+
+✾ variant form HWs	[with "written", "v. l.", "w. r." etc.]
+❀ implied HWs	[with "also"]
+✤ in-text HWs	main ("phw"parent) vs. in-line ("phw"child) HWs, mostly with meaning [within the body portion]
+✥ indicative HWs [mostly without meaning, but just with gender]
+
+Jim response =  done per AB suggestion. [note: AB suggestion re phw, etc.]
+
+old:
+<L>9729.2<pc>1314,2<k1>apavarjanavarjitatElapUra<k2>apavarjana—varjita-tElapUra<e>3
+<s>apavarjana—varjita-tElapUra</s> ¦ see <s>tEla-p°</s> (<ab>p.</ab> 455).<info n="sup"/>
+<LEND>
+
+new:
+<L>9732.05<pc>1314,2<k1>apavarjitatElapUra<k2>apavarjita-tElapUra<e>3
+<chg type="chg" n="1" src="cdsl"><old><s>apavarjana—varjita-tElapUra</s></old><new>apavarjita-tElapUra</new></chg> ¦ see <s>tEla-p°</s> (<ab>p.</ab> 455).<info n="sup"/><info n="rev" pc="cdsl"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 9: 10/27/2024 dict=MW, L=9775.2, hw=apaśabdita, user=srhodes
+old = Double Indentation Error
+new = I believe that this Headword should have a Single Indentation in the Hierarchy List.
+comment = Double Indentation Error
+status = ?done <e>3 -> <e>2 ( Assume apaSabdita is NOT a cpd. of apaSabda)
+
+AB comment:
+==========
+Good assumption, by Jim!
+
+Jim response =  nothing to do
+
+------------------------------------------------------------------------
+
+* case 11: 10/27/2024 dict=MW, L=9785.1, hw=apaśutā, user=srhodes
+old = Identical Listing?
+new = Please note that both the Main Entry and the Supplementary Entry appear to be absolutely identical! Should something be done here? or do we just leave the redundancy as it is? Pruning is good for the fruit tree (and for MW dictionary).
+comment = Identical Listing?
+status = done?  sup to rev.
+Difference in parsing headword
+p.   52,3:  -tA (apaSu/-), f. want of cattle, MaitrS.
+p. 1314,2:  a-paSu/tA, f. want of cattle, MaitrS.
+Revision:
+old:
+<L>9785<pc>52,3<k1>apaSutA<k2>a-paSu/—tA<e>3
+<s>a-paSu/—tA</s> ¦ (<s>apaSu/-</s>) <lex>f.</lex> want of cattle, <ls>MaitrS.</ls><info lex="f"/><listinfo n="sup"/>
+<LEND>
+<L>9785.1<pc>1314,2<k1>apaSutA<k2>a-paSu/tA<e>3A
+¦ want of cattle, <ls>MaitrS.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+
+new: 
+<L>9785<pc>52,3<k1>apaSutA<k2>a-paSu/—tA<e>3
+<chg type="chg" n="1" src="mw"><old><s>a-paSu/—tA</s> ¦ (<s>apaSu/-</s>)</old><new></new><s>a-paSu/tA</s> ¦ </chg> <lex>f.</lex> want of cattle, <ls>MaitrS.</ls><info lex="f"/><info n="rev" pc="1314,2"/>
+<LEND>
+
+9785.1  deleted.
+
+AB comment:
+==========
+This involved a finer nuance than what Jim has noticed; but, I wonder if he may be interested in that info [which belongs to what he termed as AB's fascination.]
+
+[BTW, I now have a fantastic revelation that would change the interpretation of MW itself, which 'remained' hidden all these days!
+And with CDSL's MW digital text pervading all over the globe (for the past 25+ years), a wrong-impression got stamped in the minds of all the readers/users;
+excl. me (of course!), having noticed from the very initial days that these 'lexical-termination strings' have some role to play.
+
+It's probably the TIME now, that I should resume my filling up those lexical terminations that were missed (and/or left ignored) in the CDSL's MW text and then "reveal" my revelation to the world.
+As it's going to be a REAL BIG change, the CDSL team may not be in a position to take it up under their site, so I should plan to hosting it directly at our own site. ]
+
+Jim response =  nothing to do. Jim is curious about the 'finer nuance'.
+                Will AB reveal the 'fantastic revelation'? 
+
+------------------------------------------------------------------------
+
+* case 21: 10/27/2024 dict=MW, L=9996.1, hw=apāṇigrahaṇa, user=srhodes
+old = Indentation Contest!
+new = Please note that the Headword "pāṇigrahaṇa" is Double Indented as a compound under the Headword "pāṇi".
+In the Supplemental Section, the Headword "apāṇigrahaṇa" is treated as a compound under the Headword "apāṇi".
+So far so good! However, the Main Entry of the Headword "apāṇigrahaṇa" is printed in Devanāgarī script.
+This is a rare case of the Eytomolgical Headword "apāṇi" missing from the Main Entry.
+But once things are "integrated" from the Supplemental section, we must override even the Devanāgarī printing of the Headword "apāṇigrahaṇa" in MW dictionary.
+In this contest, the "Complete Picture" overrides a "Narrow View". Therefore, I maintain that the Headword "apāṇigrahaṇa" should indeed be Double Indented in the Hierarchy List.
+Also, the following Headword "apāṇipāda" should be Double Indented as well. (Super-Duper-kaching!).
+comment = Indentation Contest!
+status = done?  Jim Convinced by Scott's reasoning. 
+new metalines
+<L>9995.1<pc>1314,2<k1>apARi<k2>a-pARi<e>1 (no change)
+<L>9995.2<pc>1314,2<k1>apARitva<k2>a-pARi—tva<e>3 (no change)
+<L>9996<pc>54,1<k1>apARigrahaRa<k2>a-pARigrahaRa<e>3 (changed to <e>3)
+<L>9996.1<pc>1314,2<k1>apARigrahaRa<k2>a-pARi—grahaRa<e>3B (changed to <e>3)
+<L>9997<pc>54,1<k1>apARipAda<k2>a-pARi-pAda<e>3 (changed to <e>3)
+
+AB comment:
+==========
+Good point caught by Scott.
+
+I also had meddled with some H1 & H2 blocks (splitting and/or merging) [along with many H2 -> H3, H3 -> H2 & similar other corrections], in my working those days (in various ways as occurred to my mind).
+
+Jim response = Nothing to do.
+
+------------------------------------------------------------------------
+
+* case 48: 10/26/2024 dict=MW, L=11049, hw=abdaparyaya, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "abdabhū" in the Hierarchical listing of words.
+Now, this is an interesting case for two reasons:
+1) Obviously the letter "bh" follows the letter "p" and so the compound "abdabhū" follows the compound "abdaparyaya".
+2) It is interesting to note that in the Supplemental section these two compounds are listed in Reverse Alphabetical Order!
+I propose correcting this Error in the Main Entry. (kaching!)
+comment = Placement Error
+status = nothing to do. In the version as of this writing,
+   abdaparyaya precedes abdaBU
+
+AB comment:
+==========
+With 'due respect' to the annexure entry-order [Rule No. 1], I had these two entries [note the change H3 -> H4] placed as
+
+<L>11044.1<pc>1315,1<k1>abdabhū<k2>abda—bhū<e>4
+<s>abda—bhū</s> ¦ <lex>mfn.</lex> coming from a cloud, <ls>Śiś.</ls>
+<LEND> <info n="sup"/> <info lex="m:f:n"/>
+
+and
+<L>11045.1<pc>1315,1<k1>abdaparyaya<k2>abda—paryaya<e>4
+<s>abda—paryaya</s> ¦ <lex>m.</lex> the change of the year, <ls>Mn. xi, 27</ls>.
+<LEND> <info n="sup"/> <info lex="m"/>
+
+Jim might also consider doing the same!
+
+Jim response =  nothing done.  AB places these words "based on" abda,
+     within the senses of abda. By the same logic, wouldn't he move
+     abdArDa after 11045?  I can see some utility is such placement
+     (for a base word with various senses, place compounds according to sense of base)
+     but such a principle seems clearly different from the custom of MW.
+
+------------------------------------------------------------------------
+
+* case 49: 10/26/2024 dict=MW, L=11069.1, hw=abdhitanaya, user=srhodes
+old = Headword Listed Twice
+new = Please look at the two definitions for the Headword "abdhitanaya".
+I am certain that we are talking about ONE and the SAME "pair": "the two Aśvins".
+I have a few comments: 1) This could almost be considered as a "Revision", because the Reference is Identical in both cases, and the definitions differ only in "accuracy of detail".
+The form in both cases is specified as "du.". In the "Supplementary/Revisionary" case, this "du." is also specified using the word "two". In the Main Entry, simply: "the Aśvins".
+Comment 2) Please eliminate "a" and "b" and retain the single Headword "abdhitanaya" along with its "Supplemental or Revisionary" Reference and marking. Certainly a "Single Pair" can have several descriptions (supplemental and otherwise) and yet in themselves, these two Aśvins remain a single pair which does not need a double Listing from the Same Source! (Kathās.). (kaching!)
+comment = Headword Listed Twice
+status = done? sup -> rev
+
+
+old:
+<L>11069<pc>60,2<k1>abDitanaya<k2>ab-Di—tanaya<e>3
+<s>ab-Di—tanaya</s> ¦ <lex>m. <ab>du.</ab></lex> the <s1>Aśvin</s1>s, <ls>Kathās.</ls><info lex="m"/><info hui="a"/>
+<LEND>
+<L>11069.1<pc>1315,1<k1>abDitanaya<k2>abDi—tanaya<e>3
+<s>abDi—tanaya</s> ¦ <lex>m.</lex> <ab>du.</ab> the two <s1>Aśvin</s1>s, <ls>Kathās.</ls><info n="sup"/><info lex="m"/><info hui="b"/>
+<LEND>
+
+new:
+<L>11069<pc>60,2<k1>abDitanaya<k2>ab-Di—tanaya<e>3
+<s>ab-Di—tanaya</s> ¦ <lex>m. <ab>du.</ab></lex> <chg type="chg" n="1" src="mw"><old>the <s1>Aśvin</s1>s</old><new>the two <s1>Aśvin</s1>s</new></chg>, <ls>Kathās.</ls><info lex="m"/><info n="sup" pc="1315,1"/>
+<LEND>
+
+AB comment:
+==========
+Good to see that Scott+Jim team is progressing in their "rev" count (254 -> 272), in a week's time.
+Still it is a long-way to reach (and probably surpass, unless I 'start' the work at my end) my "rev" count (326 -> 340).
+[While going through Jim's work, I am updating my file wherever necessary; thus, resulting in the change in my count(s).]
+
+Jim response =  Nothing to do. Jim has no systematic way to identify the remaining
+                sups that should be revs. 
+
+------------------------------------------------------------------------
+
+* case 52: 10/26/2024 dict=MW, L=11137.1, hw=abhayagirivihāra, user=srhodes
+old = Headword Double Listing
+new = Please look at the two definitions for the Headword "abhayagirivihāra". I am certain that we are talking about ONE and the SAME monastery.
+Therefore, as the Sanksrit Language is "tagging" objects that exist in the Universe, why should we "double tag" (in this case) a single Monastery?
+I suggest that we eliminate "a" and "b" and retain the single Headword "abhayagirivihāra" along with its Supplemental Reference and marking.
+Certainly a "Single Object" can have several descriptions (supplemental and otherwise) and yet in itself this Monastery remains single, solitary, aikam!
+comment = Headword Double Listing
+status = done: <e>3 -> <e>3A on 11137.1
+
+AB comment:
+==========
+MW annexure, puts a "(also)" indicator string for addl. senses of meanings, and this particular one has no such indicator. So, in theory, it should be considered as a replacement on the main pages.
+But, this particular entry may go as "ONE OF IT'S OWN KIND" (are there any more such?) to have the same info on two lines, one generic (without citation) and one particular (with citation).
+
+[This info reg. the Abhayagirivihāra appears to have been picked up from a Javanese Inscription at Ratu Boko!]
+
+Jim response =  Nothing to do. There is a wikipedia article Ratu Boko that
+                mentions this "vihāra on top of the hill that free from danger"
+                (vihāra temple)
+
+------------------------------------------------------------------------
+
+* case 54: 10/26/2024 dict=MW, L=11263.1, hw=abhikhyāna, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+AB comment:
+==========
+L-11263 to have the 'listinfo' tag, which is already placed.
+[This comes under the statement by Jim-- 2 incorrectly labeled 'status = PENDING'.]
+
+Jim response =  Nothing to do.  
+
+------------------------------------------------------------------------
+
+* case 57: 10/26/2024 dict=MW, L=11365, hw=abhicchāyam, user=srhodes
+old = abhi-cchāyā f. a dark line formed by a cloud's shadow, ĀpŚr. [ID=11365.1 sup]
+new = DELETE
+comment = The word "abhicchāyā" is a Headword in its own right and should not be "lumped" together and unrecognized "in darkness" with the Headword "abhicchāyam". (Super-kaching!)
+status = done. <e>1B -> <e>1  for aBicCAyA
+
+AB comment:
+==========
+I think, I must say that Scott is coming-up with some 'fresh' thoughts indeed; and I should also do the same correction as Jim!
+
+Jim response =  Nothing to do. Glad this work is having some value for AB.
+
+------------------------------------------------------------------------
+
+* case 65: 10/25/2024 dict=MW, L=11956.1, hw=abhibhāṣita, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+AB comment:
+==========
+L-11956 to have the 'listinfo' tag, which is already placed.
+[This comes under the statement by Jim-- 2 incorrectly labeled 'status = PENDING'.]
+
+Jim response =  Nothing to do.
+
+------------------------------------------------------------------------
+
+* case 70: 10/25/2024 dict=MW, L=12092.1, hw=abhimārgaṇā, user=srhodes
+old = Placement Reconsideration?
+new = You are probably happy the way it is, but just to draw your attention for reconsideration.
+For example, the definition of the word "abhimārgaṇā" seems to fit better with the root √mṛg
+I always find it strange when in Sanskrit, scholars abandon what seems most direct and sensible and instead come up with some other analysis.
+For example, look at the definition for "abhimṛj" and ask yourself, "are we wiping, cleansing?". Actually, NO! we are "tracking, searching out".
+comment = Placement Reconsideration?
+status = done.  Place just after aBimArutam of pg. 67,2 (12061.1)
+
+AB comment:
+==========
+This 12061.1 cannot be under 12061 (as H2); but should be at the same level as it (as H1).
+
+Jim response =  done
+
+------------------------------------------------------------------------
+
+* case 72: 10/25/2024 dict=MW, L=12324, hw=abhivātam, user=srhodes
+old = abhi-vātā f. (√van) a cow that nourishes her calf, Lāṭy. [ID=12324.1 sup]
+new = DELETE
+comment = Typo – Please note that the cited definition above does not belong here. Also, it is even mentioned "(√van)".
+status = PENDING
+
+AB comment:
+==========
+This entry's appropriate placement is at L-12297.1, not at L-12328.1 (as Scott suggested below)
+
+Jim response =  Nothing to do
+
+------------------------------------------------------------------------
+
+* case 73: 10/25/2024 dict=MW, L=12324.1, hw=abhivātā, user=srhodes
+old = abhi-vātam ind. windwards, ŚBr. [ID=12324]
+new = DELETE
+comment = Typo – Please note that the cited definition above does not belong here.
+Also, you may consider to relocate this supplemental insertion to just after the word "abhivāta [ID=12328]". 
+I see no indication of a 'group order' consideration. Therefore 'alphabetical order' should take precedence.
+status = done?  moved to between aBivan  and aBivAnyA
+Note: PW "अभिवात Adj. (f. आ) siech, krank Lāṭy. 8,5,3 ."   (sick, ill)
+
+AB comment:
+==========
+See the comment at the above case (72).
+
+Jim response =  Nothing to do
+
+------------------------------------------------------------------------
+
+* case 77: 10/25/2024 dict=MW, L=12613.1, hw=abhiṣavaṇa, user=srhodes
+old = bathing
+new = (also) bathing
+comment = Typo – Please note that this correction follows the printed text.
+Also, the word "also" is important because it points to another correction: In the Hierarchy Listing of Words there appears TWO Headwords: "abhiṣavaṇa a" and "abhiṣavaṇa b".
+This DUPLICATE listing and labeling with the letters "a" and "b" is VERY likely to be incorrect; because, by the very use of the word "(also)" in the Supplemental Entry, we must understand that this supplemental definition is to be added to the existing Headword and therefore there is no need for an "a" and "b" version of the Headword "abhiṣavaṇa".
+I recommend DELETING the duplicate listing "abhiṣavaṇa b", and retain the single occurrence "abhiṣavaṇa a" with the letter "a" removed and the “circle-S” Supplementary Symbol added to the right side of this word in the Hierarchy List Display.
+status = done. moved go 12614.1
+
+AB comment:
+==========
+Jim,
+An entry with 'A' cadre doesn't possess the header portion, in the MW text.
+
+Jim response =  done. Also found several other cases.
+old:
+<L>12614.1<pc>1315,2<k1>aBizavaRa<k2>aBi—zavaRa<e>2A
+<s>aBi—°zavaRa</s> ¦ bathing, <ls>Kir.</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>12614.1<pc>1315,2<k1>aBizavaRa<k2>aBi—zavaRa<e>2A
+<s>aBi—°zavaRa</s> ¦ bathing, <ls>Kir.</ls><info n="sup"/>
+<LEND>
+
+OTHER CASES:
+8 matches for "<e>2A<NEWLINE>[^¦]" in buffer: temp_mw_15.txt
+1. no change -- difference in accent between main and suppl.
+<L>6457.1<pc>1311,3<k1>anudrazwavya<k2>anu-drazwavya^<e>2A
+<s>anu-drazwavya^</s>¦ (<ls>ŚBr.</ls>) <info n="sup"/>
+
+2. changed
+<L>8306.1<pc>1313,1<k1>antarBUta<k2>antar—BUta<e>2A
+<s>antar—BUta</s> ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) being or contained in anything, <ab>ib.</ab><info n="sup"/><info lex="m:f:n"/>
+
+3. changed
+<L>9127.1<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2A
+¦ (read, ‘a sore, boil’, = <s>apa-cI</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/>
+
+4. changed
+<L>12614.1<pc>1315,2<k1>aBizavaRa<k2>aBi—zavaRa<e>2A
+<s>aBi—°zavaRa</s> ¦ bathing, <ls>Kir.</ls><info n="sup"/>
+
+5. This should be '2B' Also several additional kukkuwI senses changed to 2B
+<L>51322<pc>287,1<k1>kukkuwI<k2>kukkuwI<e>2A
+<s>kukkuwI</s> ¦ (<s>I</s>), (<ls>Pāṇ. iv, 4, 46</ls>) a hen, <ls>VarBṛS. lxiii, 3</ls><info lex="inh"/>
+
+6. no change for this cdsl markup of alternate HW. Not sure.
+<L>70637.1<pc>381,3<k1>cakrin<k2>cakrin<e>2A
+{{Lbody=70637}}
+
+7. no change. This is a correction of headword (previously noted as prnt chg)
+<L>89975.1<pc>1328,3<k1>daDitTa<k2>daDitTa<e>2A
+<chg type="chg" n="1" src="cdsl"><old><s>daditTa</s></old><new><s>daDitTa</s></new></chg> ¦ (also) <ab>N.</ab> of a monkey, <ls>Bālar.</ls><info n="sup"/>
+
+8. no change.  This has different accent.
+<L>91336<pc>474,2<k1>dAman<k2>dA/man<e>2A
+<s>dA/°man</s> ¦ (<s>dA/°</s>), <lex>n.</lex> giving, a gift, <ls>RV.</ls> (<ab>cf.</ab> <s>a-</s>, <s>su-</s>). 1.<info lex="n"/>
+
+------------------------------------------------------------------------
+
+* case 85 AUM : 10/27/2024 dict=MW, L=107115, hw=nirbhara, user=srhodes
+old = Clarification Needed
+new = I need clarification in regard to the following statement: "(also °rita with instr. Cat.)". Does this means that we should presume an instrumental or indeclinable form such as: "nirbharitena", to mean: "full of, abounding in"?
+comment = Clarification Needed
+status = done? Jim: An example :  क्रोधेन निर्भरित (full of anger)
+
+
+aum
+---
+Based upon Jim's example, it may be a good idea to add the Headword "nirbharita" 
+  (as a searchable Headword in the Hierarchy List), and extract the meaning as follows: "mfn. full of, abounding in, Pur. &c. (with instr. Cat.)".
+
+Jim response = done. see next.
+
+* case 85     : 10/27/2024 dict=MW, L=107115, hw=nirbhara, user=srhodes
+old = Clarification Needed
+new = I need clarification in regard to the following statement: "(also °rita with instr. Cat.)".
+Does this means that we should presume an instrumental or indeclinable form such as: "nirbharitena", to mean: "full of, abounding in"?
+comment = Clarification Needed
+status = done? Jim: An example :  क्रोधेन निर्भरित (full of anger)
+
+AB comment:
+==========
+Good enough example.
+
+Jim response = Add nirBarita headword as 'PHW'. 
+  Place after nirBarasamBoga (last compound under nirBara) 107121.1
+
+old:
+<L>107115<pc>541,2<k1>nirBara<k2>nir—Bara<e>3A
+¦ full of, abounding in <ls>Kathās.</ls>; <ls>Pur.</ls> &c. (also <s>°rita</s> with <ab>instr.</ab> <ls>Cat.</ls>)<info lex="inh"/>
+<LEND>
+
+new:
+<L>107115<pc>541,2<k1>nirBara<k2>nir—Bara<e>3A
+¦ full of, abounding in <ls>Kathās.</ls>; <ls>Pur.</ls> &c. (also <s>°rita</s> with <ab>instr.</ab> <ls>Cat.</ls>)<info lex="inh"/><info phwchild="107121.1"/>
+<LEND>
+new:
+<L>107121.1<pc>541,2<k1>nirBarita<k2>nir—Barita<e>3
+<s>nir—Barita</s> ¦ full of, abounding in <ls>Kathās.</ls>; <ls>Pur.</ls> &c. (also <s>°rita</s> with <ab>instr.</ab> <ls>Cat.</ls>)<info lex="inh"/><info phwparent="107115"/>
+<LEND>
+
+
+------------------------------------------------------------------------

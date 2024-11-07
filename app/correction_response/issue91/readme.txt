@@ -1294,9 +1294,6 @@ python parse_corrections2.py temp_cfr_extra3.txt corrections_extra3.txt temp_mw_
 # make temp_mw_14.txt and install local
 sh temp_redo_14.sh
 
---- temp notes xxxx
-‘ ’
-<chg type="chg" n="1" src="mw"><old></old><new></new></chg>
 
 ---
 ***** code for temp_redo_14.sh:
@@ -1353,21 +1350,118 @@ sh generate_dict.sh mw  ../../MWScan/2020/
 -----------------
 # push this csl-corrections repo to github.
 git add .
-        new file:   corrections_extra3.txt
-        new file:   diff_mw_13_14.txt
+
+        new file:   corrections_extra2.txt
+        new file:   diff_mw_12_13.txt
         modified:   readme.txt
         modified:   ../../../dictionaries/mw/mw_printchange.txt
 
 
-
-git commit -m "corrections_extra3.txt, diff_mw_13_14.txt  at #91"
+git commit -m "corrections_extra2.txt, diff_mw_12_13.txt  at #91"
 git push
 
 # pull csl-corrections from github
 # on cologne server, in csl-corrections: git pull
 
 --------------------------------------------------------
-temp_work_ab_aum.org  TODO
+11-05-2024
+cp temp_work_ab_aum.org correction_response_20241105.org
+cp temp_mw_14.txt temp_mw_15.txt
+
+Manual edit both files.
+sh temp_redo_15.sh # remake local displays for mw
+
+***** code for temp_redo_15.sh:
+diff temp_mw_14.txt temp_mw_15.txt > diff_mw_14_15.txt
+wc -l diff_mw_14_15.txt
+# local install temp_mw_15.txt
+cp temp_mw_15.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+*****
+
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_response_20241105.txt, diff_mw_14_15.txt
+Revisions based on comments from @aumsanskrit and @Andhrabharati.
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+# 43 insertions(+), 52 deletions(-)
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# On cologne server:
+# pull csl-orig
+# regenerate mw displays 
+cd csl-pywork/v02
+sh generate_dict.sh mw  ../../MWScan/2020/
+
+-----------------------
+# push this csl-corrections repo to github.
+git add ...
+git status
+        new file:   correction_response_20241105.txt
+        new file:   diff_mw_14_15.txt
+        modified:   readme.txt
+        modified:   ../../../dictionaries/mw/mw_printchange.txt
+
+git commit -m "correction_response_20241105.txt, diff_mw_14_15.txt  at #91"
+git push
+
+# on cologne server, in csl-corrections: git pull csl-corrections
+
+--------------------------------------------------------
+TODO:
+open this as issue in MWS repo.
+AB suggestion re PHW
+PWH coding TODO (apavarjanavarjitatailapūra)
+Jim,
+I guess, it's time to get rid of the 'phwchild' entries having '<info phwparent' tag; and find another mechanism to 'encompass' various types of entries within the body matter as I had identified, like
+
+✾ variant form HWs	[with "written", "v. l.", "w. r." etc.]
+❀ implied HWs	[with "also"]
+✤ in-text HWs	main ("phw"parent) vs. in-line ("phw"child) HWs, mostly with meaning [within the body portion]
+✥ indicative HWs [mostly without meaning, but just with gender]
+
+
+--------------------------------------------------------
+TODO display change idea.  Open a new issue (in csl-websanlexicon? repo) for this.
+11-06-2024
+
+Ref apavarga in correction_response_20241105.txt
+SCOTT: Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+AB:
+But, the artificial homonyms (present in the data) still have some 'influence' on this Symbol insertion mechanism, as summarised below-
+(a) working in all cases of <info hui="a"/> ["sup": 47 & "rev": 1];
+(b) failing in all the cases of <info hui="b"/> ["sup": 28 & "rev": 1], having an 'associated' <info hui="a"/> elsewhere that doesn't contain the listinfo tag;
+[And, this 9721.1 happens to fall in the category (b)!]
+
+So, Jim has to find a way-out for this 'flaw'!
+
+JIM:
+  The hierarchy list is based solely on the FIRST instance of the citation headword;
+  "First" is determined by L. In the apavarga example, the 'see' entry of p.52,1
+  precedes the 'real' entry of p. 52,2. The list display allows navigation to
+  the 52,2 information (the yellow arrow)
+  The right-pane shows ALL the entries for apavarga.
+  So, when the hierarchy list is centered on p. 52,1 the red sups in the right pane
+  and the absence of a circle-S in hierarchy list SEEM to be inconsistent.
+  Personally, this seems like a feature of list display rather than a bug (flaw).
+  But I suppose I should devise some 'solution' from the comments of Scott and AB.
+  Here's a possible solution that comes to mind:
+  - some distinctive markup at 9681 (52,1) <listinfo n="rev1"/> (or listinfo n="sup1"/>
+  - this markup displayed as a gray circle-R or gray circle-S.
+  
+  Change to the display code probably easy.
+
+  Hardest part is to identify entries that need the rev1, sup1 markup
+   AB: Would  we also need to apply the rev1/sup1 markup when there
+   is a hui along with a (real) homonym ?  Or even when there are two or more
+   real homonyms where one homonym has a rev/sup but the other one does not.
+
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt
 
@@ -1378,5 +1472,11 @@ edit corrections_misc1.txt and make corrections to:
 - ap90.txt
 - shs.txt
 
+In ap90.txt:
+10/23/2024 04:08:07	AP90	19097	puṇya	demon. goblin	demon, goblin	Typo	srhodes@snowcrest.net
 
 
+
+--- temp notes xxxx
+‘ ’
+<chg type="chg" n="1" src="mw"><old></old><new></new></chg>
