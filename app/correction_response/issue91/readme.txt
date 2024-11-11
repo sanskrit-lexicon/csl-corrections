@@ -1414,6 +1414,79 @@ git push
 # on cologne server, in csl-corrections: git pull csl-corrections
 
 --------------------------------------------------------
+11-07-2024
+cp temp_mw_15.txt temp_mw_16.txt
+1. corrections_extra3.AB.comments.txt
+2. Study.revsuphom.summary.txt
+     Includes hom.after.broken.bar.txt 
+   
+Manual edit the two files from AB, and make changes to temp_mw_16.txt
+sh temp_redo_16.sh # remake local displays for mw
+
+***** code for temp_redo_16.sh:
+# local install temp_mw_16.txt
+cp temp_mw_16.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok  No problems noticed
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+diff temp_mw_15.txt temp_mw_16.txt > diff_mw_15_16.txt
+wc -l diff_mw_15_16.txt
+*****
+------------------
+   
+-------------------------
+General comments from AB to investigate further or be aware of.
+----------
+re case  8 L=6226.4, hw=anugīta
+There are 80 instances having "(also) <lex>" and 110 instances having "</lex> (also)"
+----------
+re case 15 L=6457.1, hw=anudraṣṭavya
+(comment in correction_response_20241105.txt)
+Recall what the opening statement ("Obs.") in MW annexure (p. 1308) says--
+"When no meaning is given, some addition or rectification of accent is intended."
+
+[MW Annexure Rule No. 2]
+To save space, the citation place (or the meaning) is not fully given again as in the main pages, but just the name of the work (or some indicative meaning string) is given to properly identify the meaning sense and apply the revision.
+
+
+-------------------------
+11-11-2024
+# push csl-orig to github (for temp_mw_16.txt)
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW: See corrections_extra3.AB.comments.txt, diff_mw_15_16.txt, Study.revsuphom.summary.txt.
+Revisions based on comments from @aumsanskrit and @Andhrabharati.
+Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91"
+# 220 insertions(+), 224 deletions(-)
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/app/correction_response/issue91
+
+# On cologne server:
+# pull csl-orig
+# regenerate mw displays 
+cd csl-pywork/v02
+sh generate_dict.sh mw  ../../MWScan/2020/
+
+-----------------------
+# push this csl-corrections repo to github.
+git add ...
+git status
+        modified:   readme.txt
+        modified:   ../../../dictionaries/mw/mw_printchange.txt
+        Study.revsuphom.summary.txt
+        corrections_extra3.AB.comments.txt
+        diff_mw_15_16.txt
+        hom.after.broken.bar.txt
+
+git commit -m "See corrections_extra3.AB.comments.txt,
+Study.revsuphom.summary.txt, diff_mw_15_16.txt  at #91"
+git push
+
+# on cologne server, in csl-corrections: git pull csl-corrections
+
+====================================================================
 TODO:
 open this as issue in MWS repo.
 AB suggestion re PHW
@@ -1461,6 +1534,19 @@ JIM:
    AB: Would  we also need to apply the rev1/sup1 markup when there
    is a hui along with a (real) homonym ?  Or even when there are two or more
    real homonyms where one homonym has a rev/sup but the other one does not.
+
+TODO:
+Incidentally, this reminds me of the work I did about week back, and hope Jim would take a glance at it. [https://github.com/sanskrit-lexicon/csl-orig/issues/614]
+
+--------------------------------------------------------
+11=07-2024 temp_mw_16.txt
+
+--------------------------------------------------------
+TODO
+ in revisions <info n="rev" pc="x,y"/>,
+ revise display to provide link to scanned images for x,y.
+ csl-websanlexicon and csl-apidev to be revised
+   (basicdisplay.php, basicadjust.php)
 
 --------------------------------------------------------
 python parse_corrections.py temp_cfr_1_scott_misc1.txt corrections_misc1.txt

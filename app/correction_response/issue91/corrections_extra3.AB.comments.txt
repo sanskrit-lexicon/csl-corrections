@@ -1,0 +1,1000 @@
+
+* case 1: 11/02/2024 dict=MW, L=5932, hw=anilambhasamādhi, user=srhodes
+old = Contest Between Main Entry and Supplement
+new = Here is a rare case where the Supplemental Entry is actually the Primary Word for a compound Headword listed in the Main Entry in Devanāgarī script.
+Certainly we will be hearing from Andhrabharati on this.
+I emphatically state that the Primary Word "anilambha [ID=5931.3 sup]" (although found in the Supplementary Section) Overrules the Devanāgarī Script of the Compound word "anilambhasamādhi [ID=5932]".
+Please remember that All Supplemental words are Supplemental in MW dictionary by Happenstance.
+These Supplemental words are not Supplemental to the Sanskrit Language itself.
+Therefore the Headword "anilambha [ID=5931.3 sup]" should be treated as though in Devanāgarī Script and the Headword "anilambhasamādhi [ID=5932]" should be "demoted" and receive the proper indentation due to its being an undeniable compound formed from this Supplemental Word: "anilambha". (Super-kaching!)
+comment = Contest Between Main Entry and Supplement
+status = done? Agree with Scott. <e>1 -> <e>3 for anilambhasamādhi
+  Yes, Scott -- compound of H1 is viewed as H3 in my current understanding.
+  
+AB comment:
+==========
+Nothing special here to comment.
+This is just the kind of quite many Hx -> Hy type corrections that I had made in my version.
+
+
+Jim response = Nothing to do
+------------------------------------------------------------------------
+
+* case 5: 11/02/2024 dict=MW, L=6210, hw=anugā, user=srhodes
+old = Emergency
+new = Please note that the Headword "anugā" is printed in Devanāgarī text! There are actually TWO words that have the form: "anugā". 
+The first "anugā" is the feminine form of the word "anuga" which derives from the prefixed root "anugam". 
+The second "anugā [ID=6210]" which is the Emergency being discussed here is the prefixed root "anugā" itself, pure and simple. 
+This second "anugā [ID=6210]" MUST BE RELOCATED in the Hierarchy List to just before the Headword "anugādin [ID=6211]". 
+I do see that the Supplemental listing: "anugā (also) to undergo [ID=6210.1 sup]" IS CORRECTLY placed at this location.
+HOWEVER, the Main Entry "anugā [ID=6210]" is misplaced and grouped under the root "anugam [ID=6183]". (Super-Duper-kaching!) and 100,000 points – JACKPOT!
+comment = Emergency
+status = done? Jim thinks this has been done previously.
+   Scott should check.
+
+AB comment:
+==========
+Nothing to do. Everything in order here.
+
+
+Jim response = nothing to do
+------------------------------------------------------------------------
+
+* case 8: 11/02/2024 dict=MW, L=6226.4, hw=anugīta, user=srhodes
+old = Emergency
+new = Please note the Supplemental definition given here: "anu-gīta mfn. (also) sung after."
+Whenever I see the word "(also)", I must demand an "initial or previous" listing.
+However, we do not find the word "anugīta" in the Main Entry.
+Of course, we find the feminine form: "anugītā", but I am still not going to let this slide! Will the primary listing of Headword "anugīta" please stand up!
+In Fact... APTE offers the solution: "anugītam Singing in response to" (of course neuter gender).
+But when MW uses the word "(also)" we should NOT have to refer to APTE to justify the usage. (kaching!)
+comment = Emergency
+status = nothing to do? We can interpret the '(also)' as referring to anugItA
+
+AB comment:
+==========
+I have considered this as a print change ["(also)" to come before 〔mfn.〕] in the annexure and placed these two as 6226.4 -> 6227.1 (<e>2B) & 6226.5 -> 6227.2 (<e>2B).
+There are 80 instances having "(also) <lex>" and 110 instances having "</lex> (also)"! 
+
+And, there are many precedents in the main pages for 〔mfn.〕 following other genders, instead of being the first one in the sibling group.
+
+
+Jim response = done per AB.  Placing the two suppl. anugIta entries after
+  anugItA should solve Scott's convern.
+  print change: 
+  6227.1 : anugIta : mfn. (also) : (also) mfn.
+  
+old:
+<L>6226.4<pc>1311,3<k1>anugIta<k2>anu-gIta<e>2
+<s>anu-gIta</s> ¦ <lex>mfn.</lex> (also) sung after, <ls>JaimUp.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>6226.5<pc>1311,3<k1>anugIta<k2>anu-gIta<e>2B
+<s>anu-gIta</s> ¦ <lex>n.</lex> an imitative song, <ls>Ratnāv.</ls><info n="sup"/><info lex="n"/>
+<LEND>
+<L>6227<pc>32,1<k1>anugItA<k2>anu-gItA<e>2
+<s>anu-gItA</s> ¦ <lex>f.</lex> ‘an after-song’, <ab>N.</ab> of part of the fourteenth book of the <s1>Mahābhārata</s1> (chaps. 16-92). <info lex="f"/>
+<LEND>
+
+new
+<L>6227<pc>32,1<k1>anugItA<k2>anu-gItA<e>2
+<s>anu-gItA</s> ¦ <lex>f.</lex> ‘an after-song’, <ab>N.</ab> of part of the fourteenth book of the <s1>Mahābhārata</s1> (chaps. 16-92). <info lex="f"/><listinfo n="sup"/>
+<LEND>
+<L>6227.1<pc>1311,3<k1>anugIta<k2>anu-gIta<e>2B
+<s>anu-gIta</s> ¦ (also) <lex>mfn.</lex> sung after, <ls>JaimUp.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>6227.2<pc>1311,3<k1>anugIta<k2>anu-gIta<e>2B
+<s>anu-gIta</s> ¦ <lex>n.</lex> an imitative song, <ls>Ratnāv.</ls><info n="sup"/><info lex="n"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 15: 11/02/2024 dict=MW, L=6457.1, hw=anudraṣṭavya, user=srhodes
+old = Supplement or Revision
+new = Please note that since the only piece of information being stated is a source reference as follows: "(ŚBr.)".
+ consider the FACT of the parenthetical usage to be indicative of at least one occurrence of this word, but NOT to be a "limiting" indicator as in the sense of "only (here)".
+ Therefore, I would make this a Revision, as simply offering a source citation which is not exhaustive or exclusive in nature.
+comment = Supplement or Revision
+status = not done. the supplement also has a svarita accent.
+
+AB comment:
+==========
+This is a case of accent correction (revision)--
+	anu-draṣṭavya -> anu-draṣṭavyà
+and the (ŚBr.) reference also goes along with the revision in the same line.
+	<s2>anu-draṣṭavyà</s2>, 🠚✦ 〔mfn.〕 🠚⧫¦ to be observed, visible. (<ls>ŚBr.</ls>)//rev(1311,3)
+
+Refer to my earlier comment in the other corrections file, about MW annexure's opening statement ("Obs.").
+
+
+Jim response = Mark as "rev". Leaving as two entries, at least for now.
+------------------------------------------------------------------------
+
+* case 21: 11/02/2024 dict=MW, L=6671.2, hw=anuparodhatas, user=srhodes
+old = (with gen. = ‘without prejudice to’)
+new = with gen. = ‘without prejudice to’
+comment = Typo – Please note that this ENTIRE HEADWORD and definition are in parentheses in the Supplemental section.
+But in the Main Entry, we are not placing certain words in parenthesis. The definition given is NOT parenthetically the definition
+ The parentheses used in the supplemental section are simply a result of "adding this entry" along with the primary Headword "anuparodha".
+ IN FACT, the indentation in the Hierarchy List essentially serves the same purpose. Bottom Line: No parantheses needed here.
+ For my own purposes, I list the definition as follows: ‘without prejudice to (gen.)', but that is how do things, simple, clear and to the point!
+status = done
+
+AB comment:
+==========
+My version is having this as a "rev" taking the matter in parenthesis as an usage example in PārGṛ.!
+	<s1>an-uparodha</s1>, 🠚✦ 〔m.〕 🠚⧫¦ not prejudicing or injuring (<si>an-uparodha-tas</si>, with ⁅gen.⁆ = ‘without prejudice to’), <ls>PārGṛ.</ls>; <ls>Mn.</ls>//rev(1312,1)
+[There are innumerable cases of this kind throughout the MW text.]
+
+Of course, this IS a "phwchild" candidate in Jim's notation, and a "mappable entry" as per Scott's thinking.
+
+So far as I am concerned, this belongs to the class of in-line HWs that I had recently referred to in my earlier comment in another file.
+And I had identified few such classes, incl. the "v. l." type, that Scott has suggested to bring into the searching scope.
+My intention was exactly the same, in identifying [and marking separately(!)] all such cases.
+
+
+Jim response = done? but differently from AB.
+    treat anuparodhatas as 3C subentry of anuparodhatas (so both words 
+    are seen with a search for either.
+9 matches for "<k2>[^<]*[—-]tas<e>.[BC]   (e.g. akAlatas)
+
+old:
+<L>6671.1<pc>1312,1<k1>anuparoDa<k2>an-uparoDa<e>1
+<s>an-uparoDa</s> ¦ <lex>m.</lex> not prejudicing or injuring, <ls>PārGṛ.</ls>; <ls>Mn.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+<L>6671.2<pc>1312,1<k1>anuparoDatas<k2>an-uparoDa—tas<e>3
+<s>an-uparoDa—tas</s> ¦ with <ab>gen.</ab> = ‘without prejudice to’, <ls>PārGṛ.</ls>; <ls>Mn.</ls><info n="sup"/>
+
+The only change is <e>3 --> <e>1C
+new:
+<L>6671.1<pc>1312,1<k1>anuparoDa<k2>an-uparoDa<e>1
+<s>an-uparoDa</s> ¦ <lex>m.</lex> not prejudicing or injuring, <ls>PārGṛ.</ls>; <ls>Mn.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+<L>6671.2<pc>1312,1<k1>anuparoDatas<k2>an-uparoDa—tas<e>1C
+<s>an-uparoDa—tas</s> ¦ with <ab>gen.</ab> = ‘without prejudice to’, <ls>PārGṛ.</ls>; <ls>Mn.</ls><info n="sup"/>
+
+------------------------------------------------------------------------
+
+* case 22: 11/02/2024 dict=MW, L=6733.1, hw=anupālya, user=srhodes
+old = Indentation Needed!
+new = Please note that this Supplemental Headword derives from "2. anupā [ID=6729]" and therefore indentation is required. (kaching!)
+comment = Indentation Needed!
+status = done? <e>1 -> <e>2  How do we know  from anupA. Why not from anupAl?
+
+AB comment:
+==========
+We may see that "kept" is the key word here, that renders it to be under the 'pā' (= keep) root.
+The "anupAl" entry is the referring place (in Jim's notation, 'a'-homonym), which is referring to "anupA" [the referred place] (in Jim's notation, 'b'-homonym).
+
+And it is seen that all the compound or derived words are coming under the referred place, whether in the main pages or in the annexure data insertion process [initially done by Pawan Goyal et al. in 2014 (with multiple variety of errors, as being identifying now!!)], as Jim mentioned in the mwheader.xml file).
+
+As such, if any insertion is identified to be at the referring place, it has to be properly relocated to the referred place.
+
+
+Jim response = Nothing to do?  AB's explains why anupālya is under "2. anupA" -- good!
+   AB's comments regarding the artificial homonyms seems a bit off the mark.
+   There are no artificial homonyms involved with anupAl since there is only
+   one entry for anupAl; the artificial homonyms were (I think) restricted to
+   where the referred word is same as referring word. Also, I think AB's
+   distinction between a-homonym and b-homonym  (referring referred) is not
+   what Pawan (and Peter) were thinking of -- a and b when assigned would be
+   sequential  (For example, if words A and B occur on pages M and N (and are
+   not homonyms) and if M < N, then A would be marked with 'a' homonym and
+   B marked with 'b' homonym;  while if M>N, then B would be marked 'a' and
+]  A marked 'b'. Pawal had a Java program that did something like this, as I recall.
+   
+------------------------------------------------------------------------
+
+* case 24: 11/02/2024 dict=MW, L=6745.7, hw=anupādhirāmaṇīya, user=srhodes
+old = see 1. upādhi (p. 213).
+new = beautiful without limitation i.e. altogether beautiful.
+comment = Typo – Please note that this is a VERY strange supplemental definition!
+The supplemental definition given is simply a direction pointing within the Main Entry itself! Why bother with such circuitousness?!
+As you know, "I prefer sākṣāt !".
+This is simply a result of correcting a printed book which could not be "typeset" again, so they supplemented with this circuitous direction, but no such need online!
+status = done print change
+old:
+<s>an-upA<srs/>Di-rAmaRIya</s> ¦ see <hom>1.</hom> <s>upA<srs/>Di</s> (<ab>p.</ab> 213).<info n="sup"/>
+new:
+<s>an-upA<srs/>Di-rAmaRIya</s> ¦ see <hom>1.</hom> <s>upA<srs/>Di</s> (<ab>p.</ab> 213): beautiful without limitation, <ab>i.e.</ab> altogether beautiful.<info n="sup"/>
+
+AB comment:
+==========
+Scott's query—
+The supplemental definition given is simply a direction pointing within the Main Entry itself! Why bother with such circuitousness?!
+
+AB's response—
+It is THE standing rule (followed by MW) to refer to the place [that the word 'resides'] in his 'conceived' root-based mapping of words, for any word that a user generally tends to look [having "alphabetical order" in his mind].
+And in this case, the said word is given as an example, which is one of the types of entries that could be brought under searching by employing some mechansim!
+[cf. my comment under "case: 21" above.]
+
+And it is seen that Jim has succumbed to Scott's posts (of this type) & making many print-changes; I had ignored all such changes, as they are all some kind of user-corrections.
+BTW, when I really had to mark my comments (to justify the matter), where the point otherwise does not immediately strike the reader's mind, I had enclosed the matter as %...%; there are about 2-3 hundred such places in the whole of MW.
+[And similar insertions are made in the other works too (I wonder if Jim recalls seeing them while he was working with my files).]
+
+
+Jim response = No change.  Glad I noted this one in the print change file; so
+  future maintainers can undo such changes that they consider foolish.  
+ vaguely remember having seen  the "%...%" notation.
+
+
+------------------------------------------------------------------------
+
+* case 25: 11/02/2024 dict=MW, L=6776.1, hw=anupeta, user=srhodes
+old = not affected by, devoid of (comp.), Bcar. 3
+new = an-upeta, (also) not affected by, devoid of (comp.), Bcar.;
+comment = Typo – Please note that this correction is important and follows the printed text.
+We must state "an-upeta" here so that someone does not mistakenly include the word "anupeta-pūrva" which is cited in the main entry above as an option.
+Also, the number "3" is actually a "semicolon", which has been corrected here.
+status = done?  Also make anupeta, anupetapUrva (alternate headword group)
+
+old:
+<L>6776<pc>35,2<k1>anupeta<k2>a/n-upeta<e>1
+<s>a/n-upe<srs/>ta</s> ¦ [<ls>ŚBr.</ls>] or <s>anupe<srs/>ta-pUrva</s> [<ls>ĀśvGṛ.</ls>], <lex>mfn.</lex> not yet entered at a teacher's (for instruction). <info lex="m:f:n"/><listinfo n="sup"/>
+<LEND>
+<L>6776.1<pc>1312,1<k1>anupeta<k2>an-upeta<e>1A
+¦ not affected by, devoid of (<ab>comp.</ab>), <ls>Bcar. 3</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>6776<pc>35,2<k1>anupeta<k2>a/n-upeta<e>1
+<s>a/n-upe<srs/>ta</s> [<ls>ŚBr.</ls>] or <s>anupe<srs/>ta-pUrva</s> [<ls>ĀśvGṛ.</ls>], ¦ <lex>mfn.</lex> not yet entered at a teacher's (for instruction). <info lex="m:f:n"/>
+<LEND>
+<L>6776.05<pc>35,2<k1>anupetapUrva<k2>a/n-upeta-pUrva<e>1
+{{Lbody=6776}}
+<LEND>
+<L>6776.1<pc>1312,1<k1>anupeta<k2>an-upeta<e>2
+<s>an-upe<srs/>ta</s> ¦ (also) not affected by, devoid of (<ab>comp.</ab>), <ls>Bcar.</ls>;<info n="sup"/>
+<LEND>
+
+AB comment:
+==========
+Jim/Scott,
+
+Did you notice that this wouldn't get the Ⓢ-mark in the list display?
+[It indeed did not get the mark, when searched.]
+
+Jim response = nothing to do. 6776.1 DOES get the Ⓢ-mark; it is 6776 that 
+   does not get the mark. 
+------------------------------------------------------------------------
+
+* case 37: 10/31/2024 dict=MW, L=7758, hw=anūbandhya, user=srhodes
+old = MaitrS.; ŚBr. &c. 
+new = ŚBr. &c. ; (MaitrS.)
+comment = Typo – Please note that the revision simply prints, "(MaitrS.)".
+I consider that this revision is an "addition" to the existing citation, and therefore should follow after the Main Entry citation.
+status = done
+
+AB comment:
+==========
+Scott apparently does not bother much about accents, and Jim has been saying (from the very beginnig days since I started interacting) that he is NOT into the matters dealing with accents.
+But for MW, it was one of the "principal" revision/ additional points for updating his dictionary, as he wrote in the Introduction pages.
+
+This is a case of accent correction (revision)--
+	anū-bándhya -> anū-bandhyà
+and the (MaitrS.) is the place where such accent is to be seen.
+
+Refer to my earlier comment in the other corrections file, about MW annexure's opening statement ("Obs.").
+
+Jim response = done.  I just missed this distinction in MW text.
+ The revision below implies that anU-banDya^ accent is to be seen in
+ BOTH ŚBr. and MaitrS. 
+
+old:
+<L>7758<pc>42,1<k1>anUbanDya<k2>anU-ba/nDya<e>1
+<s>anU-ba/nDya</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>ŚBr.</ls> &c.; (<ls>MaitrS.</ls>)<info n="rev" pc="1312,2"/><info lex="m:f:n"/>
+<LEND>
+
+new:
+<L>7758<pc>42,1<k1>anUbanDya<k2>anU-banDya^<e>1
+<s>anU-banDya^</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>ŚBr.</ls> &c.; (<ls>MaitrS.</ls>)<info n="rev" pc="1312,2"/><info lex="m:f:n"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 42: 10/31/2024 dict=MW, L=7898.1, hw=anaupādhika, user=srhodes
+old = an-aupādhika mfn. (with sambandha), IW. 63 . [ID=7898.1 sup]
+new = an-aupādhika mfn. unconditional (with sambandha), IW. 63 . [ID=7898.1 sup]
+comment = Partial Definition; Please note that for my own purposes I have added the word "unconditional" to the definition given here
+Simply stating, "(with sambandha)", seems to leave half of the story untold. I favor follow through!
+status = not done?  Why did you want to add 'unconditional'?
+
+AB comment:
+===========
+Scott should probably do all these "extraneous" corrections/additions in his own file-copy, to "enhance" his mapping.
+
+Jim used to say thus earlier, when someone was asking for some kind of change or modification not in the print (that cannot be considered as a 'genuine' print-change); but somehow he has been incorporating such changes (luckily only sometimes, not always!!) against Scott's posts these days.
+
+
+Jim response = nothing to do
+------------------------------------------------------------------------
+
+* case 44: 10/31/2024 dict=MW, L=7915.12, hw=antāya, user=srhodes
+old = antāya
+new = antāya -√kṛ to fight obstinately, MBh.ind. [ID=7915.12 sup]
+comment = Typo – Headword Typo (kaching!). Please note that this Supplemental word is parenthetically printed under the Headword "anta". When added to the Hierarchy List it should read "antāyakṛ".
+status = not done?
+
+AB comment:
+==========
+<L>7915.12<pc>1312,3<k1>antāya<k2>antāya<e>1C
+<s>antāya</s> ¦ -√ <s>kṛ</s> to fight obstinately, <ls>MBh.</ls><lex>ind.</lex>
+<LEND> <info n="sup"/>
+
+has to be changed as
+<L>7915.12<pc>1312,3<k1>antāyakṛ<k2>antāya-kṛ<e>1C
+<s>antāya -√ kṛ</s> ¦ to fight obstinately, <ls>MBh.</ls><lex>ind.</lex>
+<LEND> <info n="sup"/>
+
+and Scott would get what he is looking for!
+
+[There are more such entries from the MW annexure, that are of similar nature; also, see my comment at the next case (45).]
+
+
+Jim response = no change. 
+  suppl. shows: (add, antena ...; antAya-kf ...; antAd ...); Then "compounds"
+  If MW intended the headword antAya-kf, he would have put it among the
+  extra compounds of anta.
+
+old:
+<L>7915.12<pc>1312,3<k1>antAya<k2>antAya<e>1C
+<s>antAya</s> ¦ -√ <s>kf</s> to fight obstinately, <ls>MBh.</ls><lex>ind.</lex><info n="sup"/>
+<LEND>
+
+new: NOT DONE
+<L>7915.12<pc>1312,3<k1>antAyakf<k2>antAya-kf<e>1C
+<s>antAya -√ kf</s> ¦ to fight obstinately, <ls>MBh.</ls><lex>ind.</lex><info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 45: 10/31/2024 dict=MW, L=7915.13, hw=antāt, user=srhodes
+old = antāt
+new = antāt antād antam parikramya walking to and fro ib.ind. [ID=7915.13 sup]
+comment = Typo – Headword Typo (kaching!). Please note that this Supplemental expression is parenthetically printed under the Headword "anta".
+It is not the custom of MW dictionary online to add "searchable" phrases! But I am open to the idea!
+status = nothing done? Let Scott open an issue (in MWS repo) for "searchable phrases"
+    A good enhancement idea. 
+    
+AB comment:
+==========
+This is not an enhancement idea for making new entries, but just suggesting appropriate 'handling' of the existing entries!
+
+My version has this and the above one marked as H4 entities --
+<s4>antāya-√kṛ</s4>, 🠚✦ ⇨⧫¦ to fight obstinately, <ls>MBh.</ls>//add(1312,3)
+<s4>antād antam parikramya</s4> 🠚✦ ⇨⧫¦ walking to and fro, <ls>ib.</ls>//add(1312,3)
+
+
+Jim response = No change.
+------------------------------------------------------------------------
+
+* case 46: 10/31/2024 dict=MW, L=8030.3, hw=antaḥśri, user=srhodes
+old = See Below
+new = No Correction
+comment = Perfect Use of Parentheses – It is a timely synchronicity to come across this definition which exemplifies a correct use Parentheses in regard to the stated definition.
+status = PENDING
+
+AB comment:
+==========
+Nothing to do. Everything in order here.
+Scott seems to be just complimenting; isn't it so, Scott?
+
+
+Jim response = nothing to do.  
+------------------------------------------------------------------------
+
+* case 47: 10/31/2024 dict=MW, L=8036.3, hw=antaḥsalilastha, user=srhodes
+old = antaḥ—sali—°la-stha mfn. (standing in w°, Pañcat.)
+new = antaḥ—sali—°la-stha mfn. standing in w°, Pañcat.
+comment = Typo – Please note that this may be considered a "print change" depending on your thought process.
+This entire word and definition are given in parentheses in the Supplemental section.
+However, in the Main Entry, we do not find the Headword in parantheses.
+And consider this, Does the Sanskrit Language have any words that are "parenthetical" as opposed to other words which are not?
+A parenthetical listing is simply "Happenstance" it is not a fact inherent in the Sanskrit Language itself.
+Therefore, I vote to eliminate the parentheses which actually only "weaken" the fact of a clear definition which needs no apology.
+The definition IS the definition it is not "parenthetically" the definition.
+status = done? print change.  is it Happenstance? 
+
+AB comment:
+==========
+There are entries in the main pages also, that sometimes puts just the HW (or header portion), sometimes the body portion, and sometimes the whole matter in parenthesis; these are different from the example type that we've seen above in case 21, which are mostly taken as phwchilds by Jim.
+We still need to identify the point behind this pattern.
+
+For now, my version is having the entry (wholly enclosed in braces) thus--
+(<s4>antaḥ-sali°la-stha</s4>, 🠚✦ 〔mfn.〕 🠚⧫¦ standing in <ab n="water">w°</ab>, <ls>Pañcat.</ls>);
+
+
+Jim response = No change - leave it without parens. A print change documents this.
+    Agree with AB that this is sort of like a PHW (parenthetical headword)
+     
+------------------------------------------------------------------------
+
+* case 48: 10/31/2024 dict=MW, L=8042.3, hw=antaḥsmayin, user=srhodes
+old = see smayin, p. 1271 [ID=8042.3 sup]
+new = laughing inwardly.
+comment = Typo – Please note that this is an interesting "print change" consideration.
+Why not just give the definition directly, rather than having to look up the reference?
+status = done. print change: see smayin, p. 1271, laughing inwardly
+
+AB comment:
+==========
+This is just another case, that falls under the cross-referencing style in MW! [See my comment at case 24 above.]
+
+If at all the change is to be made, the proper way that is seen in MW (at many places) is 
+
+not
+<L>8042.3<pc>1312,3<k1>antaHsmayin<k2>antaH—smayin<e>3
+<s>antaH—smayin</s> ¦ see <s>smayin</s>, <ab>p.</ab> 1271, laughing inwardly<info n="sup"/>
+<LEND>
+
+but
+<L>8042.3<pc>1312,3<k1>antaHsmayin<k2>antaH—smayin<e>3
+<s>antaH—smayin</s> ¦ laughing inwardly (see <s>smayin</s>, <ab>p.</ab> 1271)<info n="sup"/>
+<LEND>
+
+Jim response = done per AB 'but', also change mw_print change accordingly.
+ 
+------------------------------------------------------------------------
+
+* case 49: 10/31/2024 dict=MW, L=8044, hw=antaḥkhyā, user=srhodes
+old = Link Missing
+new = Please add the "clickable link" for the Printed book page 1312,3 (rev).
+comment = Link Missing
+status = not done.  This suggestion would apply to all "rev". 
+  Let Scott open an enhancement request
+   at https://github.com/sanskrit-lexicon/mws/issues/
+   
+AB comment:
+==========
+I was initially taking that Jim would be implementing the annexure integration of MW also, just as in GRA (as has been talked of at various places, and even agreed in principle by Jim), which does have the faility of clickable access to annexure page alongwith displaying the text matter "as is" showing what the annexure entry is saying (as del, chg & add types).
+
+He is (very much) having access to the MW annexure entries typed separately (done long long ago), to start-off the MW annexure integration exactly in the same fashion as in GRA.
+But when the actual process started he has resorted to another style, a "stripped-down" and "modified" version of the GRA style!
+
+I was not in a mood to respond on the point, when he had asked for the opinion by others; but Dhaval (who is not so active now at CDSL), Marcis (who for most of the times forgets the happenings even if they are at his requests) & Scott (who probably is not aware of the GRA process) have simply praised Jim's action.
+
+If (and when) I take up the integration of MW annexure on 'once-for-all' basis as intended (that got stalled for some reason), it would be in the GRA style.
+
+
+Jim response = Nothing to do (with mw.txt). The 'GRA style' for suppl. primarily means, for me,
+   using the <chg> syntax at least for "rev".  I still think that is a good
+   idea because (where applicable) it shows both the old and new.
+   Obviously this <chg> has only been applied sporadically 
+   with Scott's submissions.  Also, the <chg> markup may not be
+   applicable for all the MW "rev" cases.
+   I don't understand :  "stripped-down" and "modified" version of the GRA style!
+
+------------------------------------------------------------------------
+
+* case 51: 10/30/2024 dict=MW, L=8070.2, hw=antariti, user=srhodes
+old = antar—iti (antar-), excluding, MaitrS. [ID=8070.2 sup]
+new = Relocate this Supplemental Definition in the Window display so as to follow the Main Entry Definition
+comment = Supplemental Definition Placement Error
+status = done?  This is coded as a sup. Should it be a rev?
+
+AB comment:
+==========
+This appears more like a 'repeat' entry.
+
+The annexure is clearly asking this to be under the 'antar-' comp.-header (i.e. L-8049); hence no relocation (from L-8070.2) required.
+
+For any reason [violating the entry-order of annexure (Rule No. 1, as I had mentioned earlier)], if this has to be put at the place Scott is suggesting, this would more likely be a "rev"--
+	[44,1]:	<s>antár-iti</s> ¦ <s>is</s>, <lex>f.</lex> exclusion, <ls>MaitrS.</ls> ;; <s>is</s>, is missed in CDSL digitisation.
+	[1313,1]:	<s>antar—iti</s> ¦ (<s>antár-</s>), excluding, <ls>MaitrS.</ls>
+replacing the terminating string with the starting string; the HW itself doesn't getting change finally! And the 〔f.〕 is to retained, as supported 
+
+The results in changing
+<L>8251<pc>44,1<k1>antariti<k2>antár-iti<e>2
+<s>antár-iti</s> ¦ <lex>f.</lex> exclusion, <ls>MaitrS.</ls>
+<LEND> <info lex="f"/> <info hui="b"/>
+<L>8070.2<pc>1313,1<k1>antariti<k2>antar—iti<e>3
+<s>antar—iti</s> ¦ (<s>antár-</s>), excluding, <ls>MaitrS.</ls>
+<LEND> <info n="sup"/> <info hui="a"/>
+
+as
+<L>8251<pc>44,1<k1>antariti<k2>antár-iti<e>2
+<s>antár-iti</s> ¦ (<s>antár-</s>), <lex>f.</lex> exclusion, <ls>MaitrS.</ls>
+<LEND> <info lex="f"/> <info n="rev" pc n="1313,1"/>
+
+
+Jim response = revert to original 8251, 8070.2  
+     I am swayed by "The annexure is clearly asking this to be under the antar-
+       comp.-header (i.e. L-8049); hence no relocation (from L-8070.2) required."
+     It remains a puzzle why 8251 was not originally placed among such cpds.
+For this change, here are old/new
+
+old:
+49<pc>44,1<k1>antarita<k2>anta/r-ita<e>2B
+<s>anta/r-ita</s> ¦ <lex>n.</lex> (?) remainder (in arithmetic)<info lex="n"/>
+<LEND>
+<L>8250<pc>44,1<k1>antarita<k2>anta/r-ita<e>2B
+¦ a technical term in architecture.<info lex="inh"/>
+<LEND>
+<L>8251<pc>44,1<k1>antariti<k2>anta/r-iti<e>2
+<s>anta/r-iti</s> ¦ <lex>f.</lex> exclusion, <ls>MaitrS.</ls><info lex="f"/><listinfo n="sup1"/>
+<LEND>
+<L>8251.1<pc>1313,1<k1>antariti<k2>antar—iti<e>2B
+<s>antar—iti</s> ¦ (<s>anta/r-</s>), excluding, <ls>MaitrS.</ls><info n="sup"/>
+<LEND>
+
+new: return of the hui ! and use of <listinfo n="rev1"/>
+
+<L>8070.2<pc>1313,1<k1>antariti<k2>antar—iti<e>3
+<s>antar—iti</s> ¦ (<s>anta/r-</s>), excluding, <ls>MaitrS.</ls><info n="sup"/><info hui="a"/>
+<LEND>
+<L>8251<pc>44,1<k1>antariti<k2>anta/r-iti<e>2
+<s>anta/r-iti</s> ¦ <lex>f.</lex> exclusion, <ls>MaitrS.</ls><info lex="f"/><info hui="b"/><listinfo n="sup1"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* case 52: 10/30/2024 dict=MW, L=8128.2, hw=antarbhūta, user=srhodes
+old = antar—bhūta mfn. (ifc.) being or contained in anything, ib. [ID=8128.2 sup]
+new = Relocate this Supplemental Definition in the Window display so as to follow the Main Entry Definition
+comment = Supplemental Definition Placement Error
+status = done
+
+AB comment:
+==========
+This is placed as per the annexure's entry-order at 8128.2, under the 'antar' comp.-header.
+No need of any relocation.
+
+
+Jim response = no change.  Clearly antarBUta is derived from antarBU, p. 44,2.
+      So 8306 is a better spot, and should take precedence over the 
+      placement of antarBUta among the compounds of antar from suppl. 
+      antarBAva on 43,3 refers to p. 44,2. 
+      So there are reasons for both placements.  
+
+      Deciding which is better seems to me on a par 
+      with deciding "how many angels can dance on the head of a pin?"
+      
+------------------------------------------------------------------------
+
+* case 54: 10/30/2024 dict=MW, L=8152, hw=antarvartinī, user=srhodes
+old = Group Contest
+new = If I may use the following terms metaphorically: "antaraṅga" and "bahiraṅga" ; and if I may apply them to the "grouping" concept that was discussed previously in regard to the contest between “grouping” and “alphabetical order”.
+I would like to say that the two words: “antar—vartin or antar—vasat” , may be considered as a “bahiraṅga” grouping.
+While the word “antarvartinī [ID=8152 sup]” is the feminine form of the Headword “antarvartin”, and therefore, I consider these two words: “antarvartin and antarvartinī” to be an “antaraṅga grouping” (metaphorically speaking).
+This “antraṅga grouping” is stronger by the grammatical fact of linguistic structure to any grouping by happenstance such as “antarvartin or antarvasat” which I consider to be a “bahiraṅga grouping” (metaphorically speaking).
+On the basis of these considerations my suggestion is as follows: 
+Relocate the Headword “antarvartinī  [ID=8152 sup]” to immediately after the word “antarvartin” and make an indentation adjustments which may be necessary.
+Then after the Headword “antarvartinī”, will follow the Headword “antarvasat”. 
+One last point is that the Headword stated as: "antar—vartinī f. pregnant". Obviously we have the feminine gender but an "adjective" definition.
+I consider this to be an awkward affair. For my own purposes, I have altered the definition to be more true to linguistic interpretation as follows: "antar—vartinī f. a pregnant woman".
+This "updated" definition is what I call, "follow through."
+comment = Group Contest
+status = not done? 
+  antarvartin, antar vasat is an 'alternate headword group' coded as:
+<L>8151<pc>43,3<k1>antarvartin<k2>antar—vartin<e>3
+<s>antar—vartin</s> or <s>antar—vasat</s>, ¦ <lex>mfn.</lex> internal, included, dwelling in.<info lex="m:f:n"/>
+<LEND>
+<L>8151.1<pc>43,3<k1>antarvasat<k2>antar—vasat<e>3
+{{Lbody=8151}}
+<LEND>
+
+There is no way for  antarvartinI to break into the group.
+We could code the group by copying text manually:
+<L>8151<pc>43,3<k1>antarvartin<k2>antar—vartin<e>3
+<s>antar—vartin</s> or <s>antar—vasat</s>, ¦ <lex>mfn.</lex> internal, included, dwelling in.<info lex="m:f:n"/>
+<LEND>
+<L>8151.1<pc>43,3<k1>antarvasat<k2>antar—vasat<e>3
+<s>antar—vartin</s> or <s>antar—vasat</s>, ¦ <lex>mfn.</lex> internal, included, dwelling in.<info lex="m:f:n"/>
+<LEND>
+
+and then insert antarvartinI as 8151.05.
+
+I've noticed a few other such instances.
+My conclusion is that the current way (vartin, vasat, vartinI) is the 
+least problematic.
+
+AB comment:
+==========
+If the way Scott is to be taken up, it should be done in a comprehensive way, resulting in another edition altogether; no tinkering job (changing things here and there) against the theme and plan of Monier Williams!
+And no one ever would dare take up such a project, in the present times!!
+
+
+Jim response = nothing to do. As AB suggests, I must be vigilant when
+ evaluating some of Scott's more elaborate suggestions.
+
+ BTW, AB himself appears to be taking a comprehensive approach to MW, which may
+  result in a new edition which avoids some of the 'random tinkering' which I
+  have done over the years.
+------------------------------------------------------------------------
+
+* case 55: 10/30/2024 dict=MW, L=8156.1, hw=antarvāvat, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display.
+Also, I am wondering how this instance "escaped" from Jim's automated correction to this issue? If you can enlighten me, then for you it is a (kaching!)
+comment = Supplemental Insertion – Missing Symbol
+status = At time of my review, in List display there were two
+  antarvAvat 8156 <e>3
+  antarvAvat 8156.1 <e>3  sup
+    changed to 8156.1 <e>3A sup  (H3 -> H3A) 
+
+AB comment:
+==========
+JFYI, this is a single-liner in my version,
+	<s3>antar-vā́vat</s3>, 🠚✦ 〔ind.〕 🠚⧫¦ inwardly (others ‘far apart, far and wide’), <ls>RV.</ls>//rev(1313,1)
+
+
+Jim response = nothing done.  AB has interpreted "(others ...)" as a "rev"
+  99 matches for "(others " in mw.txt 
+     So AB's revised form has company.
+------------------------------------------------------------------------
+
+* case 57: 10/30/2024 dict=MW, L=8220.51, hw=antarā, user=srhodes
+old = between - and - Divyāv.
+new = = 'between - and -', Divyāv.
+status = done
+
+AB comment:
+==========
+It's not a plain/basic 'dash', but the 'em-dash', that is employed in the conjuntional clauses such as this. (My version is having similar markup at over a hundred places.)
+	<s2>antarā ca—antarā ca</s2>, 🠚✦ ⇨⧫¦ (with two accusatives of places) = ‘between—and—’, <ls>Divyāv.</ls>//add(1313,1)
+
+
+Jim response = done. Also ...
+ 40 matches in 28 lines for "</s> - <s>"
+  Changed these to em-dash.  Also reviewed ' - ' and changed as needed.
+ 161 matches in 81 lines for " — " after the changes.
+------------------------------------------------------------------------
+
+* case 60: 10/30/2024 dict=MW, L=8477, hw=andhrabhṛtya, user=srhodes
+old = Headword Missing
+new = Please add the Headword "Andhrabharati" just prior to the word "andhrabhṛtya".
+Jim, please consider this: "Where would we be without Andhrabharati?"  He deserves his rightful place in MW dictionary.
+Please consider this as a Supplemental Entry as suggested by aumsanskrit.
+comment = Headword Missing
+status = not done?  Unfortunately, Monier-Williams did not have 
+  Andhrabharati to advise him!
+  
+AB comment:
+==========
+You may add the entry in your own file, Scott!
+
+
+Jim response = Nothing to do.
+------------------------------------------------------------------------
+
+* case 61: 10/30/2024 dict=MW, L=8550, hw=annāda, user=srhodes
+old = Headword Missing
+new = You may choose to add the Headword "annāditamā" as stated here: "Superl. of the fem. annādi-tamā, ‘eating the most’, N. of the fore-finger, ŚBr. [ID=8550]".
+Of course with proper indentation in the Hierarchy List.
+comment = Headword Missing
+status = done added as PHW.  annAditamA occurs in pwg, pd.
+
+AB comment:
+==========
+I need not repeat my comment again, that I had made many times so far.
+
+
+Jim response = nothing to do. BTW the reference to "my comment" is not known.
+------------------------------------------------------------------------
+
+* case 62: 10/29/2024 dict=MW, L=8581.2, hw=anyatkāma, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "anyat-kāraka [ID=8650]" in the Hierarchical listing of words.
+The reason for this is because the word is formed from "anyat".
+It is interesting to note that MW dictionary does not list the Headword "anyat", whereas Apte, Shabda and others do recognise this word.
+In any case MW does recognize the compounds so formed. (kaching!)
+comment = Placement Error
+status = done? The supplement does have "Anyat (in comp.)"
+  I added "anyat" (sup) between anyatastyajAyin and anyatkAraka. (8649.1)
+  Then, anyatkAma moved per Scott.
+  
+AB comment:
+==========
+Good step taken, Jim! But you have placed these at a very wrong place.
+
+If you had spent few seconds to cross-check with meanings of the existing entries -kAraka, -kft etc. where you've placed these, you would've noticed that they all belong to a 'different world' altogether.
+And then, have a look at the annexure entry order which clearly shows this 'anyat-' group before the groups anyataH, anyatara etc.
+
+The appropriate place for this anyat- group (containing 4 said entries) is then
+ L-8632.1 to L-8732.4 (newly formed)
+
+
+Jim response = Done. This will preserve the 'anyat' paragraph of suppl. and
+   the 'anyat-kAraka' paragraph of the main.  I guess the 'different world'
+   comment of AB is to be understood as:
+     The 'anyat-kAraka' paragraph is related to Panini vi,3,99
+     The 'anyat' paragraph is NOT so related.
+  
+
+old:
+<L>8649.1<pc>1313,2<k1>anyat<k2>anyat<e>2
+<L>8650<pc>45,3<k1>anyatkAraka<k2>anyat-kAraka<e>3
+<L>8650.1<pc>1313,2<k1>anyatkAma<k2>anyat—kAma<e>3
+<L>8651<pc>45,3<k1>anyatkf<k2>anyat-kf<e>3
+<L>8651.1<pc>1313,2<k1>anyatpArSva<k2>anyat—pArSva<e>3
+<L>8651.2<pc>1313,2<k1>anyatsTAnagata<k2>anyat—sTAna-gata<e>3
+<L>8652<pc>45,3<k1>anyadASA<k2>anyad-ASA<e>3
+<L>8653<pc>45,3<k1>anyadASis<k2>anyad-ASis<e>3
+
+new:
+<L>8632.1<pc>1313,2<k1>anyat<k2>anyat<e>2
+<L>8650<pc>45,3<k1>anyatkAraka<k2>anyat-kAraka<e>2   Note <e>2
+<L>8632.2<pc>1313,2<k1>anyatkAma<k2>anyat—kAma<e>3
+<L>8651<pc>45,3<k1>anyatkf<k2>anyat-kf<e>3           no chg
+<L>8632.3<pc>1313,2<k1>anyatpArSva<k2>anyat—pArSva<e>3
+<L>8632.4<pc>1313,2<k1>anyatsTAnagata<k2>anyat—sTAna-gata<e>3
+<L>8652<pc>45,3<k1>anyadASA<k2>anyad-ASA<e>3         no change
+<L>8653<pc>45,3<k1>anyadASis<k2>anyad-ASis<e>3
+
+
+------------------------------------------------------------------------
+
+* case 63: 10/29/2024 dict=MW, L=8581.3, hw=anyatpārśva, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "anyat-√kṛ  [ID=8651]" in the Hierarchical listing of words.
+The reason for this is because the word is formed from "anyat".
+It is interesting to note that MW dictionary does not list the Headword "anyat", whereas Apte, Shabda and others do recognise this word.
+In any case MW does recognize the compounds so formed. (kaching!)
+comment = Placement Error
+status = done
+
+AB comment:
+==========
+See my comment at case 62 above.
+
+
+Jim response = done, as per case 62
+------------------------------------------------------------------------
+
+* case 64: 10/29/2024 dict=MW, L=8581.4, hw=anyatsthānagata, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed after the word "anyatpārśva", which itself has just been relocated to after the Headword "anyat-√kṛ  [ID=8651]" in the Hierarchical listing of words.
+The reason for this is because the word is formed from "anyat".
+It is interesting to note that MW dictionary does not list the Headword "anyat", whereas Apte, Shabda and others do recognise this word.
+In any case MW does recognize the compounds so formed. (kaching!)
+comment = Placement Error
+status = done
+
+AB comment:
+==========
+See my comment at case 62 above.
+
+
+Jim response = done, as per case 62
+------------------------------------------------------------------------
+
+* case 66: 10/29/2024 dict=MW, L=8623.4, hw=anyārtha, user=srhodes
+old = Missing Headword
+new = Please add the Headword "anyārthavat", specified as: "having another sense or meaning (also -vat), Daśar., Sch. [ID=8623.4 sup]".
+This Headword should be placed after the word "anyārthatva [ID=8623.6 sup]" in the Hierarchy List along with the "circle-S" Supplemental Insertion Symbol.
+comment = Missing Headword
+status = done
+
+AB comment:
+==========
+I need not repeat my comment again, that I had made many times so far.
+
+
+Jim response = nothing to do. Which AB comment is not repeated (there are many)
+  Jim's best guess: rethinking  'PHW' in cdsl mw.
+------------------------------------------------------------------------
+
+* case 67: 10/29/2024 dict=MW, L=8675.1, hw=anyathābhidhāna, user=srhodes
+old = Placement Error + Typo
+new = The supplemental insertion of this Headword should be placed after the word "anyathābhāva [ID=8665]" in the Hierarchical listing of words.
+Also, please note the printed text reads: "anya—°thābhidhāna (°thābh°), n. false statement or deposition, ib. [ID=8675.1 sup]".
+Therefore, you may choose to add this missing portion: "(°thābh°)," – (kaching!).
+comment = Placement Error + Typo
+status = done
+
+AB comment:
+==========
+Good to see Scott picking up the text strings from the qualifier-portion (which I had termed for the matter between the entry word (header) and its meaning (body) portions [this includes the lexical info and/or any citations etc. lying between the two portions]).
+These strings serve the purpose of cross-checking of newly formed entry-words (esp. accent that differs, either present or absent, from the parent stem-word of the whole group) in the digital text data (that were left to user's imagination, in "indicative mode" in the print).
+
+
+Jim response = nothing done
+------------------------------------------------------------------------
+
+* case 68: 10/29/2024 dict=MW, L=8921.1, hw=anvīta, user=srhodes
+old = mfn. = anvita, Bālar.
+new = mfn. = anv-ita, Bālar.
+comment = Typo – Two things to note: 1) The Supplement itself adds absolutely nothing new!
+In such cases I say, "Prune and Eliminate". 2) My correction (with hyphen) matches the printed text (which also matches the original entry without the other sources referenced).
+status = done? Should it be a "rev"?
+
+AB comment:
+==========
+I had conceived this as a "rev" adding the 〔mfn.〕 before "= <s>anv-ita</s>" and removing the ⁅q. v.⁆ after the same, i.e. just the relevant portion of the matter is mentioned in the annexure.
+
+[47,3]:	= <si>anv-ita</si>, ⁅q. v.⁆, <ls>Bālar.</ls>;
+[1313,3]:	〔mfn.〕 🠚⧫¦ = <si>anv-ita</si>, <ls>Bālar.</ls>;
+and retaining the Kir. reference. [We can see the Kir. citation as given in pwk, Kir. 12,55.]
+
+Scott, are you now able to see the difference between the original text and the intended revision?
+
+
+Jim response = marked as "rev". I think the 'chg' markup would be less clear 
+   than the current separate rev entry.
+------------------------------------------------------------------------
+
+* case 69: 10/29/2024 dict=MW, L=8967.1, hw=apakaṣāya, user=srhodes
+old = sinless, MārkP. [ID=8967.1 sup]
+new = mfn. sinless (-tva, n.), MārkP. [???  rev]
+comment = Please note that his could almost be considered as a "Revision".
+The definition is absolutely identical (including the source).
+The only "addition" is the neuter form "apakaṣāyatva" which is added here.
+For this reason, we could simplify this as a "Revision" which "expands" the original definition, and "overwrite" the original main entry which has now become a painful redundancy.
+Also please note that the word "apakaṣāyatva" itself should be considered a "Supplemental Word" and therefore its following listing in the Hierarchy will be marked as Supplemental.
+But this Primary Listing of the Headword "apakaṣāya", I consider to be Revisionary in nature. (kaching!)
+status = done. merge 8967.1 into 8967 as a "rev". delete 8967.1 
+
+AB comment:
+==========
+Glad to see Scott identifying the "proper way" to handle this type of revisions here. [cf. my comment at the cases 21 & 55 above.]
+
+Jim response = nothing done.  Current cdsl "rev" markup neither uses <chg> markup
+   nor provides two entries (one for main, one for suppl.) Thus the revision
+   specifics can only be determined by reference to the two print pages. Not good!
+
+------------------------------------------------------------------------
+
+* case 72: 10/29/2024 dict=MW, L=9127, hw=apacit, user=srhodes
+old = Revision – But please retain the original entry!
+new = Original Entry:  "f. a noxious flying insect, AV."
+comment = Information Loss! – Please note that APTE maintains the original definition which MW dictionary has cancelled.
+Please do your thing, with the 'line through the original' or whatever.
+status = done? Rewrite as 2 entries, first is original from p. 48,3
+  second is the revision
+  Note VEI has a plausible explanation of how the two senses are related.
+
+old: 
+<L>9127<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2 
+<hom>2.</hom> <s>apa-ci/t</s> ¦ <lex>f.</lex> a sore, boil, = <s>apa-cI</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/><info lex="f"/>
+<LEND>
+
+new:
+<L>9127<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2 
+<hom>2.</hom> <s>apa-ci/t</s> ¦ <s>t</s>, <lex>f.</lex> a noxious flying insect, <ls>AV.</ls> <info lex="f"/>
+<LEND>
+<L>9127.1<pc>48,3<k1>apacit<k2>apa-ci/t<h>2<e>2A
+<hom>2.</hom> <s>apa-ci/t</s> ¦ (read, ‘a sore, boil’, = <s>apa-cI</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/>
+<LEND>
+
+AB comment:
+==========
+This is a plain & simple case of "rev"; and I see NO reason to play around it this much.
+The display mechanism (of showing both the original content and the revised content together) devised by Jim, should make the user get what is intended.
+
+	⒉ ✿<s2>apa-cít</s2>, 🠚✦ |t|, 〔f.〕 🠚⧫¦ ‘a sore, boil’, = <si>apa-cī</si>, ⁅fr.⁆ ⒉ <si>apa-√ci</si>, <ls>AV.</ls>//rev(1313,3)	
+is what I am having at L-9127 in my version.
+
+Incidentally, this reminds me of the work I did about week back, and hope Jim would take a glance at it. [https://github.com/sanskrit-lexicon/csl-orig/issues/614]
+
+
+Jim response = nothing to do.  I commented at the csl-orig issue.
+------------------------------------------------------------------------
+
+
+* case 74: 11/02/2024 dict=MW, L=9292.2, hw=apaninīṣā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "apanīta [ID=9302]" in the Hierarchical listing of words.
+The reason for this is the obvious fact of the Desiderative formed word from the prefixed root "apa-nī". (Super-kaching!)
+comment = Placement Error
+status = done. Movement to after apanI sensible. 
+
+AB comment:
+==========
+The annexure entry-order 
+<s2>apa-nidhi</s2> (9292.1), <s1>apa-ninīṣā</s1> (9292.2), <s3>apa-ninī°ṣu</s3> (9292.3), <s1>apa-niṣā́duka</s1> (9294.1), <s2>apa-neya</s2> (9308.1)
+
+gets jumbled up with this revised order of
+<s>apa-nidhi</s> (9292.1), <s>apa-niṣā́duka</s> (9294.1), <s>apa-ninīṣā</s> (9301.2) and <s>apa-ninī°ṣu</s> (9301.3), <s>apa-neya</s> (9308.1)
+
+I have the order retained as earlier; because we can see MW puts quite many related entries wide apart, instead of in a contiguous group (having 'devised' a rather complicated order for his work).
+And I do not see any strong reason to break his 'theme' for cases like this, howmuchever sensible they might be, unless there are precedents by MW himself doing the same.
+
+
+Jim response = revert to original placement.  
+    A struggle between two ideas:
+     1. annexure order preservation in placement within main. 
+        apaninIzA/zu precede apanizAduka
+     2. words derived from a root placed under the root.
+        apanizAduka precedes apaninizA/zu 
+    When in conflict, which of these should prevail?
+    I go back and forth, back and forth. 
+     
+        
+   
+------------------------------------------------------------------------
+
+* case 75: 11/02/2024 dict=MW, L=9292.3, hw=apaninīṣu, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "apanīta [ID=9302]" in the Hierarchical listing of words.
+The reason for this is the obvious fact of the Desiderative formed word from the prefixed root "apa-nī". (Super-kaching!)
+comment = Placement Error
+status = done
+
+AB comment:
+==========
+See my comment above (at case 74).
+
+
+Jim response = see case 74
+------------------------------------------------------------------------
+
+* case 78: 10/28/2024 dict=MW, L=9430.1, hw=aparagodāna, user=srhodes
+old = Missing Supplementary Headword
+new = Please note that the supplementary entry "aparagodāni" has been listed together with the Headword "aparagodāna".
+The Headword "aparagodāni" should have its own Headword in the Hierarchy list along with the "circle-S" supplementary symbol.
+comment = Missing Supplementary Headword
+status = done <e>3C -> <e>3
+
+AB comment:
+==========
+It is the genral practice to put the 〔m.〕 entries first, then 〔f.〕 entries and thereafter the 〔n.〕 entries within the "stem-group" blocks as siblings (of course, this stem-group would also contain 〔mfn.〕 entries mostly at the beginning and the 〔ind.〕 entries mostly at the ending of the group), irrespective (!) of their alphabetical ordering.
+As such, this should better be put a step above at L-9429.2.
+
+
+Jim response = not done. These two words are not in the same stem group.
+              Thus, alphabetical order determines entry order.
+
+------------------------------------------------------------------------
+
+* case 80: 10/28/2024 dict=MW, L=9528, hw=aparābhava, user=srhodes
+old = not succumbing, victory, MBh. [ID=9528 sup]
+new = a-parābhava m. not succumbing, victory, MBh. [ID=9528 sup]
+comment = Typo – Also, please note that there is an interesting question here regarding the indentation in the Hierarchy List.
+Especially taking into consideration the following two words: "aparābhāva" and "aparābhūta".
+Obviously all three words derive from the same source, so their treatment as an etymological group, should be considered in their relative "indentation" status. Is this another contest? (kaching!)
+status = done <e>2 -> <e>1 . In placing the revisions such as anuBava we sometimes 
+   set <e>1 and sometimes <e>2.  In main, <e>1 means Devanagari headword.
+   But why did MW write aparABUta in Roman? 
+   In current case, <e>1 seems better.
+   
+AB comment:
+==========
+"But why did MW write aparABUta in Roman?"-- because it is an inflexional form (from -bhAva)
+
+
+Jim response = nothing to do, but ...
+     "inflexional forms of BAva" are BAvaH, BAvO, BAvAH, ...  right?
+     
+------------------------------------------------------------------------
+
+* case 86: 11/02/2024 dict=MW, L=101199, hw=dhikkṛta, user=srhodes
+old = n. pl. reproach, contempt
+new = n. reproach, contempt
+comment = Typo – Please note that this is a suggested "Print Change". APTE does NOT require the "plural" for this definition.
+Also, it is VERY unusual for the neuter gender of such words and definitions to "require plural".
+When something is not stated, then we can take it as "anyatarasyām".
+I am certain that in the vast and extensive literature of the Sanskrit language, this particular word "dhikkṛtam" is NOT required to be plural according to the usage of the master.
+By the way, my number one favorite Grammatical Rule for Sanskrit is this: "according to the usage of the masters!".
+status = not changed. PW also has n. pl.
+
+AB comment:
+=========
+Whoever has said (or wrote) it, and how many people might have followed & used it, (after all) an error is an ERROR.
+And then, as the great Patañjali's final verdict (which Scott had put in his own words here) goes, it is ultimately the usage by the learned that makes the vocables [vocable (from Latin: vocabulum) is any identifiable utterance or writing, such as a word or term, that is fixed by their language and culture] declared 'proper'; otherwise they are treated as 'apabhraṃśa'.
+
+Though PWG did not have this word as an entry as such, it IS the first one mentioningthe word [under the धिक् entry, as an example] as being an "〔adj.〕" lexically, citing two Amarakośa places & others (all of which indeed are adjectives in the resp. works) and as  "〔n.〕 ⁅pl.⁆" lexically, citing the Daśakumāracarita (from Benfey's Chrestomathie)--
+	धिक्कृत <ls>AK. 3,1,39. 2,43.</ls> <ls>H. 440.</ls> <ls>MBh. 5,2155.</ls> <ls>R. 6,88,18.</ls> <ls>Bhāg. P. 7,8,53.</ls> 〔n.〕 ⁅pl.⁆ <i>Missbilligung, Vorwürfe</i> <ls>Daśak.</ls> in <ls>Benf. Chr. 185,1.</ls>
+
+Now, let's see the <ls>Daśak.</ls> citation, which goes like this--
+	अहमेव किलामुष्याः स्मरोन्मादहेतुरासम् । आसीनयोश्चावयोर्मामेवोपगम्य सा नीलोत्पलमयमिवापाङ्गदामाङ्गे मम सुञ्चन्ती तं जनमपत्रपयाधोमुखं व्यधत्त । सुभगंमन्येन च मया स्वधनस्य स्वगृहस्य स्वगणस्य स्वदेहस्य स्वजीववितस्य च सैवेश्वरीकृता । कृतश्चाहमनया मलमल्ललशेषः । हृतसर्वस्वतया चापवाहितः प्रपद्यः लोकोपहासलक्ष्यतामक्षमश्च सोढुं धिक्कृतानि पौरवृद्धानामिह जैनायतने मुनिनैकेनोपदिष्टमोक्षवर्त्मां सुकर एष वेषो वेशनिर्गतानामित्युदीर्णवैराग्यस्तदपि कौपीनमजहाम् ।
+	[धिक्कृतानि = तिरस्कारवचनानि ।]
+[The context is clearly indicating that Acc. form is the intended one here, but not the Nom. form.]
+ 
+We know that धिक्कृतानि occurs in the Nom., Voc. & Acc. forms for the plural of धिक्कृत (n.).
+Then, it is customary to indicate the nominal forms of the words in any gender (liṅga) or count (vacana) in the lexical works. Also, by default, the sg. is implied and not specifically mentioned [unless there is a case of ambiguity, or when both sg. & pl. forms are shown side-by-sides].
+So, mentioning धिक्कृत as n. pl. is clearly wrong; it can only be either (a) धिक्कृत n. sg. or (b) धिक्कृतानि n. pl.
+
+From this whole blah-blah, we can see that Scott is 
+(a) correct at one place (it is VERY unusual for the neuter gender of such words and definitions to "require plural") and
+(b) wrong at another place (I am certain that in the vast and extensive literature of the Sanskrit language, this particular word "dhikkṛtam" is NOT required to be plural).
+
+
+Jim response = no change.  consistent with other MW instances.
+  "mentioning धिक्कृत as n. pl." is an MW convention, I think;
+     MW (or PWG) not asserting that धिक्कृत is some weird neuter plural form;
+     rather meaning "the n. pl. of धिक्कृत [is used in the sense of] reproach ..."
+     Very nice AB tracking down the text.
+  1791 matches for "<lex>m. <ab>pl"   
+     e.g. akanizWa  á-kaniṣṭha m. pl. of whom none is the youngest
+  23 matches for "<lex>n. <ab>pl"
+  
+------------------------------------------------------------------------

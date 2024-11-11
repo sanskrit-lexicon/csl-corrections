@@ -1,0 +1,698 @@
+<H>Study of "sup" & "rev" entries (w.r.t. homonyms)</H>
+Observation: When the HW without a homonym occurs subsequent to the homonymed entries, there is no issue with the annexure marking (see the entry धर्म, as an example) at the earlier homonym entry.
+
+<h>1
+* L-431.05	see under "Misc. changes" at the end
+----------------------------------------
+* L-1469 whencefrom did this get Ⓡ marking? ;; noticed this, while looking at L-1472.5 which has correct marking.
+
+Jim response = <info n="rev"/> is error. Removing.
+  Question: Should it be marked<listinfo n="sup1"/> gray-Ⓢ ?
+----------------------------------------
+* L-1767.1 needs some correction-
+
+¦ √ <hom>1.</hom> (also) to adorn, <ls>Dharmaś.</ls><info n="sup"/>
+as
+¦ (also) to adorn, <ls>Dharmaś.</ls><info n="sup"/>
+and also relocated to be before the <div n="1"/>tag ;; incidentally this appears to be a new tag introduced by Jim sometime very recently and is there at 3 places.
+
+Jim response = change as:
+
+old:
+<div n="to"/>to speak indistinctly, <ls>L.</ls> <div n="1"/>See <hom>2.</hom> <s>acita</s>, <s>a/cizwu</s>.<info whitneyroots="ac,1"/><info verb="genuineroot" cp="1P,1Ā"/><listinfo n="sup"/>
+<LEND>
+<L>1767.1<pc>1309,2<k1>ac<k2>ac<e>1A
+¦ √ <hom>1.</hom> (also) to adorn, <ls>Dharmaś.</ls><info n="sup"/>
+<LEND>
+
+new:
+<div n="to"/>to speak indistinctly, <ls>L.</ls>
+<div n="1"/>(also) to adorn, <ls>Dharmaś.</ls><info n="sup"/>
+<div n="1"/>See <hom>2.</hom> <s>acita</s>, <s>a/cizwu</s>.<info whitneyroots="ac,1"/><info verb="genuineroot" cp="1P,1Ā"/><listinfo n="sup"/>
+<LEND>
+
+----------------------------------------
+* L-4511.1 does have the Ⓢ marking; but missing 1. in the HW-window (list), as the 2. got missed at L-4711.1 (see below under <h>2)
+
+Jim response = changed 4511.1, also 4711.1
+old:
+<L>4511.1<pc>1310,3<k1>aDyeya<k2>aDyeya<e>2
+<s>aDyeya</s> ¦ <hom>1.</hom> <lex>mfn.</lex> (it is) to be studied or learned (<lex type="nhw">n.</lex> <ab>impers.</ab>), <ls>Mn.</ls>; <ls>Naiṣ.</ls><info n="sup"/><info lex="m:f:n"/><info hui="b"/>
+
+new:
+<L>4511.1<pc>1310,3<k1>aDyeya<k2>aDyeya<h>1<e>2
+<hom>1.</hom> <s>aDyeya</s> ¦ <lex>mfn.</lex> (it is) to be studied or learned (<lex type="nhw">n.</lex> <ab>impers.</ab>), <ls>Mn.</ls>; <ls>Naiṣ.</ls><info n="sup"/><info lex="m:f:n"/>
+-------------
+old:
+<L>4711.1<pc>1310,3<k1>aDyeya<k2>a-Dyeya<e>1
+<s>a-Dyeya</s> ¦ 2 <lex>mfn.</lex> not to be thought of <ls>Hcat.</ls><info n="sup"/><info lex="m:f:n"/><info hui="c"/>
+
+new:
+<L>4711.1<pc>1310,3<k1>aDyeya<k2>a-Dyeya<h>2<e>1
+<hom>2.</hom> <s>a-Dyeya</s> ¦ <lex>mfn.</lex> not to be thought of <ls>Hcat.</ls><info n="sup"/><info lex="m:f:n"/>
+
+----------------------------------------
+* TODO ? L-4787.1 should be with 1. alongwith the Ⓢ marking ;; but then, where is the corresp. 2. entry?
+[Wonder if Jim or Scott could find it somewhere!!]
+
+Jim response = done.  No 2. found.  Maybe should remove 1. in print change?
+----------------------------------------
+* DONE L-9290.1 to be relocated to L-9290.1
+
+Jim response:  done relocate to L-2989.1 
+old:
+<L>9290.1<pc>1313,3<k1>apanidra<k2>apa-nidra<e>1A
+¦ bristling, erect (as the hair on the body), <ls>Naiṣ.</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>9289.1<pc>1313,3<k1>apanidra<k2>apa-nidra<e>1A
+¦ bristling, erect (as the hair on the body), <ls>Naiṣ.</ls><info n="sup"/>
+<LEND>
+
+----------------------------------------
+* DONE L-11185 should have Ⓡ marking 
+  (as an implied correction of L-11185.9, 
+   which itself I had opted for relocating at L-11197.05)
+  https://github.com/sanskrit-lexicon/csl-corrections/issues/91#issuecomment-2466593474)
+ 
+Jim response = done changes to 11185, move 11185.9
+aBi
+changes to 11185
+a. add hom 1 markup.  print change
+b. <info n="rev" pc="1315,1"/>
+Also, 
+move 11185.9 (a-Bi) to 11197.05  
+  Note: Another possibility 12990.1 (before a-BI) 
+----------------------------------------
+* DONE arka L-15572 should have Ⓡ marking (as an implied correction of L-15588.1)
+   ( https://github.com/sanskrit-lexicon/csl-corrections/issues/91#issuecomment-2466593474)
+
+Jim response: done changes to 15572
+arka
+a. add hom 1., which is implied by hom 2. at 15588.1 print change
+b. <info n="rev" pc="1316,2"/>
+
+----------------------------------------
+* DONE L-21634.1 see under "Misc. changes" at the end
+
+Jim response: nothing to do
+----------------------------------------
+* DONE L-25377.1 needs some correction--
+
+¦ 1 (also) of great extent, <ls>Subh.</ls><info n="sup"/>
+as
+¦ (also) of great extent, <ls>Subh.</ls><info n="sup"/>
+and should be relocated to L-25343.1
+
+Jim response = done.
+----------------------------------------
+* DONE L-26223 should have Ⓡ marking (see L-26225.1 below under <h>2)
+
+Jim response = done as part of 26225.1 below
+----------------------------------------
+* DONE L-28446 should have Ⓡ marking (see L-28446.1 below under <h>2)
+Jim response = done under 28446.1 below (Ahftya)
+----------------------------------------
+* DONE L-33754.1 should be relocated to L-33751.4
+
+Jim response = done
+
+udvezwana
+----------------------------------------
+* DONE L-59267 has no Ⓡ marking 
+ ;; having preceded by L-59135 entry without any homonym!!
+
+Jim response = done.
+  59135 add <listinfo n="rev1"/> for gray-Ⓡ
+  59273 add <listinfo n="rev1"/> for gray-Ⓡ
+
+----------------------------------------
+* DONE L-73297 ci: my version has Ⓡ marking
+I recall suggesting to move (not copy) "चिकयाम् अकर्" to L-73362 (by changing to "चिकयाम् अकः"), while the "rev" entries were being worked upon by Jim & myself together in 2021.
+But he has retained the string at the original location, but has copied the revised string at the said location.
+As I was not happy with that, I had my version changed the way I had interpreted the annexure entry.
+
+Now that Scott is 'freshly' looking at the entries [esp. with some addl. interest on the roots!], I hope this would be revised.
+Scott, it's your turn to interpret this now!!
+
+Jim response = done (changes to 1. ci and 2.ch)
+1. ci   rev 1327.1
+----------------------------------------
+* DONE L-97280 has the marking alright; but, wouldn't it be appropriate to indicate 
+   "..द्युत् 2  Ⓡ",  "..द्युत् 3  Ⓡ" and "..द्युत् 4  Ⓡ"  also  in the list window (as expected)?
+What does Scott feel about this? and what is going to be Jim's stand?
+add <listinfo n="rev1"/> for gray-R
+Jim response = done
+ L=97460:  3. dyut -> 4. dyut  added as print change, and rev markup
+--------------------------------------
+* DONE L-102604.1 DvAnta has no Ⓢ marking 
+   ;; having preceded by L-100924.1 entry without any homonym!!
+
+Jim response = done. conflict between group and gray-Ⓢ
+  AB request: show a gray-Ⓢ in the hierarchy list for DvAnta 102604.1. 
+  Normally, we could add '<listinfo n="sup1"/>' to the text  of 102604.1
+  BUT 102604.1 is in a group (DAnta, DvAnta); there is no provision for
+   adding the listinfo element just to 102604.1 (or to 102604 either).
+  A solution: rewrite 102604.1 as a non-group:
+
+old:
+<L>100924.1<pc>515,1<k1>DvAnta<k2>DvAnta<e>1
+{{Lbody=100924}}
+<LEND>
+
+new:
+<L>100924.1<pc>515,1<k1>DvAnta<k2>DvAnta<e>1
+<s>DAnta</s> (or <s>DvAnta</s>?), ¦ mystical <ab>N.</ab> of the letter <s>n</s>, <ls>Up.</ls><info lex="n"/><listinfo n="sup1"/>
+<LEND>
+
+  
+========================================
+* <h>2
+
+* L-386.1 see under "Misc. changes" at the end
+ 
+Jim response = nothing to do here
+----------------------------------------
+* L-4711.1 needs some correction--
+
+<s>a-Dyeya</s> ¦ 2 <lex>mfn.</lex> not to be thought of <ls>Hcat.</ls>
+as
+<hom>2.</hom> <s>a-Dyeya</s> ¦ <lex>mfn.</lex> not to be thought of <ls>Hcat.</ls>
+and also have the Ⓢ marking. (cf. L-4511.1 above)
+
+Jim response: done at 4511.1 above
+----------------------------------------
+* DONE L-26225.1 should be with 2. and have the Ⓢ marking.
+	And in view of this, L-26223 is to have <h>1 tag, as a corresp. revision.
+
+Jim response: done
+ArAva
+a. Add missing hom 2. markup to 26225.1
+b. Add <listinfo n="sup1"/> to 26199 (gray-S.)
+c. Add hom 1. markup to 26223. print change. 
+d. 26225.1 : <e>2B -> <e>2
+----------------------------------------
+* DONE L-28446.1 should be with 2. and have the Ⓢ marking.
+	And in view of this, L-28446 is to have <h>1 tag, as a corresp. revision
+
+Jim response = done
+ Ahftya
+a. 28446.1 Add missed hom 2. markup
+   <e>2B -> <e>2
+b. 28446.2 <e>2B -> <e>2A
+c. 28446  Add hom 1. markup.  print change
+
+----------------------------------------
+* DONE L-97391 see L-97280 (above under <h>1)
+
+Jim respnse = nothing further to do. See my comment under 97280 above
+----------------------------------------
+115019.1 should be with 2. and have the Ⓢ marking.
+========================================
+* <h>3
+
+* DONE L-59377 has no corresp. Ⓡ marking 
+  ;; having preceded by entry without any homonym at 59135!!
+
+Jim response = done. add <listinfo n="rev1"/> to 59135, for gray-Ⓡ
+kzaya
+----------------------------------------
+* DONE L-26166.1 has no corresp. Ⓢ marking 
+   ;; instead, the mark is appearing at 26030 !!
+
+Jim response = done.
+Ara
+ 
+a. 26019 remove <info hui="a"/> (no need for 'arrow' here)
+   <listinfo n="sup1"/>  (gray-Ⓢ here)
+b. 26003 <listinfo n="sup"/> -> <listinfo n="sup1"/>  (gray-Ⓢ here)
+----------------------------------------
+* DONE L-97392 see L-97280 (above under <h>1)
+
+Jim response = Also see L-97280 above
+========================================
+* <h>4 
+
+* DONE L-97392 see L-97280 (above under <h>1)
+Jim response = see L-97280 above
+dyut
+========================================
+* <h>5
+
+* DONE L-120944.1 needs some correction--
+
+<hom>5.</hom> <s>pā</s> ¦ add √ <hom>5.</hom> <s>pā</s>, <ab>cl.</ab> 3. <ab>Ā.</ab> <s>pípīte</s>, ... ... ...
+as
+<hom>5.</hom> <s>pā</s> ¦ <ab>cl.</ab> 3. <ab>Ā.</ab> <s>pípīte</s>, ... ... ...
+
+Jim response = done. 
+
+========================================
+* Misc. changes wrt <hom>n.</hom> tagging (after ¦)
+
+To delete the tag
+
+Jim response = done.
+ I think "delete the tag"  means "Remove superfluous <hom>"
+
+L-386.1 akra
+old: 
+¦ <hom>2.</hom> (<ab>accord.</ab> to some also) a horse, <ls>RV.</ls><info n="sup"/>
+new:
+¦ (<ab>accord.</ab> to some also) a horse, <ls>RV.</ls><info n="sup"/>
+
+---------
+L-431.05 akza
+old:
+¦ <hom>1.</hom> (also) a chariot, <ls>Dharmaś.</ls><info n="sup"/><info lex="inh"/>
+new:
+¦ (also) a chariot, <ls>Dharmaś.</ls><info n="sup"/><info lex="inh"/>
+
+---------
+L-21634.1  aha (also should be relocated to L-21631.3) 
+
+Jim response = done, incl. relocation
+old:
+¦ <hom>1.</hom> (also) a particle answering to <s>ha</s> in a preceding sentence (<s>ha</s> — <s>aha</s> = <gk>μὲν</gk> — <gk>δέ</gk>), <ls>Gaṇar.</ls><info n="sup"/>
+new:
+¦ (also) a particle answering to <s>ha</s> in a preceding sentence (<s>ha</s> — <s>aha</s> = <gk>μὲν</gk> — <gk>δέ</gk>), <ls>Gaṇar.</ls><info n="sup"/>
+
+--------
+L-48592.1 kArin (also should be relocated to L-48591.1)
+
+Jim response = done, incl. relocation
+
+old:
+¦ <hom>1.</hom> (<ab>accord.</ab> to some in <ls>RV.</ls> also, <s>kAri/n</s>, ‘conquering, victorious’).<info n="sup"/>
+new:
+¦ (<ab>accord.</ab> to some in <ls>RV.</ls> also, <s>kAri/n</s>, ‘conquering, victorious’).<info n="sup"/>
+
+----------------------------------------
+* ----------------------------------------
+* from AB file hom.after.broken.bar.txt
+To shift the tag to the beginning of the header portion, 
+and the metaline to have corresp. <h> entry
+
+There are ~25 such entries; and I guess it is quite easy for Jim to trace and correct them.
+  AB provides 28 of these in 'hom.after.broken.bar.txt
+These are the lines that are referred to.
+
+And I had already mentioned some of these in my study-file.
+Except 306011 which should be merged into its preceding entry,
+all others come under this particular action (of shifting the hom to header etc.
+* ----------------------------------------
+* DONE (1403) L-386.1 akra 
+ ¦ <hom>2.</hom> (<ab>accord.</ab> to some also) a horse, <ls>RV.</ls><info n="sup"/>
+
+Jim response = done above
+
+* DONE (1585): L-431.05 akza 
+ ¦ <hom>1.</hom> (also) a chariot, <ls>Dharmaś.</ls><info n="sup"/><info lex="inh"/>
+
+Jim response = done above
+
+* DONE (16314) : L-4511.1 aDyeya
+<s>aDyeya</s> ¦ <hom>1.</hom> <lex>mfn.</lex> (it is) to be studied or learned (<lex type="nhw">n.</lex> <ab>impers.</ab>), <ls>Mn.</ls>; <ls>Naiṣ.</ls><info n="sup"/><info lex="m:f:n"/><info hui="b"/>
+
+Jim response = done above
+
+* DONE (77209): L-21631.3 aha 
+ ¦ <hom>1.</hom> (also) a particle answering to <s>ha</s> in a preceding sentence (<s>ha-aha</s> = <gk>μὲν</gk> - <gk>δέ</gk>), <ls>Gaṇar.</ls><info n="sup"/>
+
+Jim response = done above
+
+* DONE (90208): L-25445.1 Ama 
+
+Jim response = done
+old:
+ <hom>3.</hom> <s>Ama</s> ¦ <hom>1.</hom> <lex>ind.</lex> yes, <ls>HPariś.</ls><info n="sup"/><info lex="ind"/>
+
+new:
+<hom>3.</hom> <s>Ama</s> ¦ <lex>ind.</lex> yes, <ls>HPariś.</ls><info n="sup"/><info lex="ind"/>
+
+
+* DONE (168330): L-48591.1 kArin 
+ ¦ <hom>1.</hom> (<ab>accord.</ab> to some in <ls>RV.</ls> also, <s>kAri/n</s>, ‘conquering, victorious’).<info n="sup"/>
+
+Jim response = done above
+
+* ------------------------------------
+* Jim: The rest of these are 'See' types. 
+ I've done what seems the minimal amount suggested by AB.
+ Have NOT treated as groups. 
+
+* ------------------------------------
+* DONE (183091): L-53220 kulya 
+ <s>kulya</s> ¦ <hom>1.</hom> <s>kulyA/</s>. See <s>ku/la</s>.<info hui="1a"/>
+
+Jim response = done. Also a change to 53091 to identify as hom 1.
+  
+old: 
+<L>53220<pc>296,2<k1>kulya<k2>kulya<e>1
+<s>kulya</s> ¦ <hom>1.</hom> <s>kulyA/</s>. See <s>ku/la</s>.<info hui="1a"/>
+
+new: 
+<L>53220<pc>296,2<k1>kulya<k2>kulya<h>1<e>1
+<hom>1.</hom> <s>kulya</s>, ¦ <hom>1.</hom> <s>kulyA/</s>. See <s>ku/la</s>.
+
+----------------
+old:
+<L>53091<pc>295,3<k1>kulyA<k2>kulyA^<e>2B
+<s>kulyA^</s> ¦ (<s>A^</s>), <lex>f.</lex> (perhaps) custom or habit of a family, <ls>AV. xi, 3, 13</ls><info lex="f"/><info hui="a"/>
+<LEND>
+
+new: ODD because <e>2B is homonym. 
+   Display does not show "kulyA 1" in hierarchy
+   when a search for 'kulya', but does show when search for kulyA.
+
+<L>53091<pc>295,3<k1>kulyA<k2>kulyA^<h>1<e>2B
+<hom>1.</hom> <s>kulyA^</s> ¦ (<s>A^</s>), <lex>f.</lex> (perhaps) custom or habit of a family, <ls>AV. xi, 3, 13</ls><info lex="f"/>
+<LEND>
+
+* DONE (220719): L-64982 gAla 
+ <s>gAla</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>gAla</s>. See √ <hom>1.</hom> and <hom>2.</hom> <s>gal</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>64982<pc>354,3<k1>gAla<k2>gAla<e>1
+<s>gAla</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>gAla</s>. See √ <hom>1.</hom> and <hom>2.</hom> <s>gal</s>.<info hui="a"/>
+
+new:
+<L>64982<pc>354,3<k1>gAla<k2>gAla<h>1<e>1
+<hom>1.</hom> & <hom>2.</hom> <s>gAla</s> ¦  See √ <hom>1.</hom> & <hom>2.</hom> <s>gal</s>.
+
+* DONE (221649): L-65274 girISa 
+ <s>gir-ISa</s> ¦ <hom>1.</hom> <s>gir-ISa</s> and <hom>2.</hom> <s>girI<srs/>Sa</s>. See <hom>1.</hom> <s>gi/r</s> and <hom>3.</hom> <s>giri/</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>65274<pc>355,3<k1>girISa<k2>gir-ISa<e>2
+<s>gir-ISa</s> ¦ <hom>1.</hom> <s>gir-ISa</s> and <hom>2.</hom> <s>girI<srs/>Sa</s>. See <hom>1.</hom> <s>gi/r</s> and <hom>3.</hom> <s>giri/</s>.<info hui="a"/>
+<LEND>
+
+new:
+<L>65274<pc>355,3<k1>girISa<k2>gir-ISa<h>1<e>2
+<hom>1.</hom> <s>gir-ISa</s> ¦ & <hom>2.</hom> <s>girI<srs/>Sa</s>. See <hom>1.</hom> <s>gi/r</s> & <hom>3.</hom> <s>giri/</s>.
+<LEND>
+
+* DONE (224867): L-66290 guhA Also modify 66271 and 66267
+ <s>guhA</s> ¦ <hom>2.</hom> & <hom>3.</hom>, see <ab>s.v.</ab> <s>guha</s>.<info hui="c"/>
+
+Jim response = done
+old:
+<L>66290<pc>360,3<k1>guhA<k2>guhA<e>2
+<s>guhA</s> ¦ <hom>2.</hom> & <hom>3.</hom>, see <ab>s.v.</ab> <s>guha</s>.<info hui="c"/>
+<LEND>
+
+new:
+<L>66290<pc>360,3<k1>guhA<k2>guhA<h>2<e>2
+<hom>2.</hom> & <hom>3.</hom><s>guhA</s>, ¦ see <ab>s.v.</ab> <s>guha</s>.
+<LEND>
+
+----------------
+old:
+<L>66271<pc>360,3<k1>guhA<k2>gu/hA<e>2C
+ ¦ <lex>ind.</lex> (<hom>3.</hom> <s>gu/hA</s>), <lang>Ved.</lang> <ab>instr.</ab> in a hiding-place, in secret, secretly (opposed to <s>Avi/s</s>, and especially with √ <s>DA</s>, <s>ni-√ DA</s>, √ <s>kf</s>, ‘to conceal, remove’), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr. xi</ls>, <ls n="ŚBr.">xiii.</ls><info lex="ind"/>
+
+new:
+<L>66271<pc>360,3<k1>guhA<k2>gu/hA<h>3<e>2C
+(<hom>3.</hom> <s>gu/hA</s>), ¦ <lang>Ved.</lang> <ab>instr.</ab> <lex>ind.</lex> in a hiding-place, in secret, secretly (opposed to <s>Avi/s</s>, and especially with √ <s>DA</s>, <s>ni-√ DA</s>, √ <s>kf</s>, ‘to conceal, remove’), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr. xi</ls>, <ls n="ŚBr.">xiii.</ls><info lex="ind"/>
+
+old:
+<L>66267<pc>360,3<k1>guhA<k2>gu/hA<h>2<e>2B
+<hom>2.</hom> <s>gu/hA</s>, ¦ <lex>f.</lex> (<s1>gaṇa</s1>s <s>vfzA<srs/>di</s> and <s>BidA<srs/>di</s>) a hiding-place, cave, cavern, <ls>VS. xxx, 16</ls>; <ls>TBr. i</ls>; <ls>MBh.</ls> &c. (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>, <ls>Hcat. i, 7</ls> and <ls n="Hcat. i,">10</ls>)<info lex="f:f#A"/>
+<LEND>
+
+new: add () before ¦
+<L>66267<pc>360,3<k1>guhA<k2>gu/hA<h>2<e>2B
+(<hom>2.</hom> <s>gu/hA</s>), ¦ <lex>f.</lex> (<s1>gaṇa</s1>s <s>vfzA<srs/>di</s> and <s>BidA<srs/>di</s>) a hiding-place, cave, cavern, <ls>VS. xxx, 16</ls>; <ls>TBr. i</ls>; <ls>MBh.</ls> &c. (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>, <ls>Hcat. i, 7</ls> and <ls n="Hcat. i,">10</ls>)<info lex="f:f#A"/>
+<LEND>
+
+* DONE (244285): L-72172 caya 
+ <s>caya</s> ¦ <hom>1.</hom> & <hom>2.</hom> <s>caya</s>, &c. See √ <hom>1.</hom> & <hom>3.</hom> <s>ci</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>72172<pc>389,1<k1>caya<k2>caya<e>1
+<s>caya</s> ¦ <hom>1.</hom> & <hom>2.</hom> <s>caya</s>, &c. See √ <hom>1.</hom> & <hom>3.</hom> <s>ci</s>.<info hui="a"/>
+
+new:
+<L>72172<pc>389,1<k1>caya<k2>caya<h>1<e>1
+<hom>1.</hom> & <hom>2.</hom> <s>caya</s>, &c. ¦ See √ <hom>1.</hom> & <hom>3.</hom> <s>ci</s>.
+
+* DONE (248428): L-73473 cit 
+ <s>cit</s> ¦ <hom>1.</hom> <hom>2.</hom> <hom>3.</hom> <s>cit</s>. See √ <hom>1.</hom> <hom>2.</hom> <hom>3.</hom> <s>ci</s>.<info hui="a"/>
+
+Jim response = done.
+
+old:
+<L>73473<pc>395,2<k1>cit<k2>cit<e>1
+<s>cit</s> ¦ <hom>1.</hom> <hom>2.</hom> <hom>3.</hom> <s>cit</s>. See √ <hom>1.</hom> <hom>2.</hom> <hom>3.</hom> <s>ci</s>.<info hui="a"/>
+
+new:
+<L>73473<pc>395,2<k1>cit<k2>cit<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <hom>3.</hom> <s>cit</s>. ¦  See √ <hom>1.</hom> <hom>2.</hom> <hom>3.</hom> <s>ci</s>.
+
+* DONE (250523): L-74092 cita  
+ <s>cita/</s> , ¦ <hom>1.</hom> <s>ci/ti</s> See √ <hom>1.</hom> <s>ci</s>.<info hui="b"/>
+
+Jim response = done  But no hom yet!
+
+old:
+<L>74092<pc>398,1<k1>cita<k2>cita/<e>1
+<s>cita/</s> , ¦ <hom>1.</hom> <s>ci/ti</s> See √ <hom>1.</hom> <s>ci</s>.<info hui="b"/>
+
+new: 
+<L>74092<pc>398,1<k1>cita<k2>cita/<e>1
+<s>cita/</s>, ¦ <hom>1.</hom> <s>ci/ti</s>. See √ <hom>1.</hom> <s>ci</s>.<info hui="b"/>
+
+
+* DONE (250544): L-74099 citti 
+ <s>ci/tti</s> ¦ <hom>1.</hom> <s>ci/tti</s>, <hom>2.</hom> <s>citti/</s>. See √ <hom>4.</hom> <s>cit</s> and <hom>6.</hom> <s>cit</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>74099<pc>398,1<k1>citti<k2>ci/tti<e>1
+<s>ci/tti</s> ¦ <hom>1.</hom> <s>ci/tti</s>, <hom>2.</hom> <s>citti/</s>. See √ <hom>4.</hom> <s>cit</s> and <hom>6.</hom> <s>cit</s>.<info hui="a"/>
+<LEND>
+
+new:
+<L>74099<pc>398,1<k1>citti<k2>ci/tti<h>1<e>1
+<hom>1.</hom> <s>ci/tti</s>, <hom>2.</hom> <s>citti/</s>. ¦ See √ <hom>4.</hom> <s>cit</s> and <hom>6.</hom> <s>cit</s>.
+<LEND>
+
+
+* DONE (255600): L-75687 Cand 
+ <s>Canda</s> ¦ <hom>1.</hom> and <hom>2.</hom> See √ <hom>1.</hom> and √ <hom>3.</hom> <s>Cad</s>.<info hui="a"/>
+
+Jim response = done
+
+old:
+<L>75687<pc>405,2<k1>Cand<k2>Cand<h>1<e>1
+<hom>1.</hom> <s>Cand</s> ¦ and <hom>2.</hom> See √ <hom>1.</hom> and √ <hom>3.</hom> <s>Cad</s>.<info verb="root"/>
+
+new:
+<L>75687<pc>405,2<k1>Cand<k2>Cand<h>1<e>1
+<hom>1.</hom> & <hom>2.</hom> <s>Cand</s>. ¦ See √ <hom>1.</hom> & √ <hom>3.</hom> <s>Cad</s>.<info verb="root"/>
+
+* DONE L-75689 Canda
+
+Jim response = done
+old:
+<L>75689<pc>405,2<k1>Canda<k2>Canda<e>1
+<s>Canda</s> ¦ <hom>1.</hom> and <hom>2.</hom> See √ <hom>1.</hom> and √ <hom>3.</hom> <s>Cad</s>.<info hui="a"/>
+
+new:
+<L>75689<pc>405,2<k1>Canda<k2>Canda<h>1<e>1
+<hom>1.</hom> & <hom>2.</hom> <s>Canda</s> ¦ See √ <hom>1.</hom> & √ <hom>3.</hom> <s>Cad</s>.
+
+* DONE (275387): L-81780 tat  also change 81779
+ <s>tat</s> ¦ <hom>2.</hom> <s>tata/</s>. See √ <s>tan</s><info hui="2a"/>
+
+Jim response = done
+old:
+<L>81780<pc>432,2<k1>tat<k2>tat<e>1
+<s>tat</s> ¦ <hom>2.</hom> <s>tata/</s>. See √ <s>tan</s><info hui="2a"/>
+
+new:
+<L>81780<pc>432,2<k1>tat<k2>tat<h>2<e>1
+<hom>2.</hom> <s>tat</s>, ¦ <hom>1.</hom> <s>tata/</s>. See √ <s>tan</s>
+
+----------
+old:
+<L>81779<pc>432,2<k1>tat<k2>tat<e>1
+<s>tat</s> ¦ for <s>ta/d</s>. See <ab>col.</ab> 3.
+<LEND>
+
+new:
+<L>81779<pc>432,2<k1>tat<k2>tat<h>1<e>1
+<hom>1.</hom> <s>tat</s> ¦ for <s>ta/d</s>. See <ab>col.</ab> 3.
+<LEND>
+
+
+* DONE (306011): L-91100 daSA 
+ ¦ <hom>1.</hom> <s>daSa</s>.<info lex="inh"/>
+ 306011 which should be merged into its preceding entry,
+
+Jim response = done
+
+old:
+<L>91099<pc>473,1<k1>daSA<k2>daSA<e>1A
+¦ <ab>cf.</ab> <s>vastra-</s><info lex="inh"/>
+<LEND>
+<L>91100<pc>473,1<k1>daSA<k2>daSA<e>1A
+¦ <hom>1.</hom> <s>daSa</s>.<info lex="inh"/>
+<LEND>
+
+new:
+<L>91099<pc>473,1<k1>daSA<k2>daSA<e>1A
+¦ <ab>cf.</ab> <s>vastra-</s>; <hom>1.</hom> <s>daSa</s>.<info lex="inh"/>
+<LEND>
+
+L-91100 deleted
+
+* DONE (351239): L-104756 navya 
+ <s>navya</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>navya</s>. See above.<info hui="a"/>
+
+Jim response = done
+
+old:
+<L>104756<pc>531,3<k1>navya<k2>navya<e>1
+<s>navya</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>navya</s>. See above.<info hui="a"/>
+
+new:
+<L>104756<pc>531,3<k1>navya<k2>navya<h>1<e>1
+<hom>1.</hom> and <hom>2.</hom> <s>navya</s>. ¦ See above.
+
+* DONE (366913): L-109358 nirAsa 
+ <s>nir-Asa</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>nir-Asa</s>. See under <s>nir</s> and <s>nir-as</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>109358<pc>553,3<k1>nirAsa<k2>nir-Asa<e>1
+<s>nir-Asa</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>nir-Asa</s>. See under <s>nir</s> and <s>nir-as</s>.<info hui="a"/>
+
+new:
+<L>109358<pc>553,3<k1>nirAsa<k2>nir-Asa<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <s>nir-Asa</s>. ¦ See under <s>nir</s> and <s>nir-as</s>.
+
+
+* DONE (369490): L-110089 nirveda 
+ <s>nir-veda</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>nir-veda</s>. See <pcol>p. 542, col. 2</pcol>, and <s>nir-vid</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>110089<pc>558,1<k1>nirveda<k2>nir-veda<e>1
+<s>nir-veda</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>nir-veda</s>. See <pcol>p. 542, col. 2</pcol>, and <s>nir-vid</s>.<info hui="a"/>
+
+new:
+<L>110089<pc>558,1<k1>nirveda<k2>nir-veda<h>1<e>1
+<hom>1.</hom> and <hom>2.</hom> <s>nir-veda</s>. ¦ See <pcol>p. 542, col. 2</pcol>, and <s>nir-vid</s>.
+
+
+* DONE (409573): L-121828 pAtra 
+ <s>pAtra</s> ¦ <hom>2.</hom> See √ <hom>1.</hom> and √ <hom>3.</hom> <s>pA</s>.<info hui="1a"/>
+
+Jim response = done
+old:
+<L>121828<pc>617,1<k1>pAtra<k2>pAtra<e>1
+<s>pAtra</s> ¦ <hom>2.</hom> See √ <hom>1.</hom> and √ <hom>3.</hom> <s>pA</s>.<info hui="1a"/>
+
+new:
+<L>121828<pc>617,1<k1>pAtra<k2>pAtra<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <s>pAtra</s>. ¦ See √ <hom>1.</hom> and <hom>3.</hom> <s>pA</s>.
+
+
+* DONE (455680): L-135784 pramaya 
+ <s>pra-maya</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>pra-maya</s>. See under <s>pra-√ mA</s> and <s>pra-√ mI</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>135784<pc>685,3<k1>pramaya<k2>pra-maya<e>1
+<s>pra-maya</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>pra-maya</s>. See under <s>pra-√ mA</s> and <s>pra-√ mI</s>.<info hui="a"/>
+
+new:
+<L>135784<pc>685,3<k1>pramaya<k2>pra-maya<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <s>pra-maya</s>. ¦ See under <s>pra-√ mA</s> and <s>pra-√ mI</s>.
+
+
+* DONE (528148): L-157912 mandu 
+ <s>mandu</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>mandu</s>, <s>mandura</s>, <s>°rA</s> &c. See above.<info hui="a"/>
+
+Jim response = done
+old:
+<L>157912<pc>788,3<k1>mandu<k2>mandu<e>1
+<s>mandu</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>mandu</s>, <s>mandura</s>, <s>°rA</s> &c. See above.<info hui="a"/>
+
+new:
+<L>157912<pc>788,3<k1>mandu<k2>mandu<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <s>mandu</s>, ¦ <s>mandura</s>, <s>°rA</s> &c. See above.
+
+
+* DONE (570680): L-170842 yavya 
+ <s>yavya</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>yavya</s>. See p. 847 and <ab>col.</ab> 1.<info hui="a"/>
+
+Jim response = done
+old:
+<L>170842<pc>848,2<k1>yavya<k2>yavya<e>1
+<s>yavya</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>yavya</s>. See p. 847 and <ab>col.</ab> 1.<info hui="a"/>
+
+new:
+<L>170842<pc>848,2<k1>yavya<k2>yavya<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <s>yavya</s>. ¦ See p. 847 and <ab>col.</ab> 1.
+
+
+* DONE (659754): L-198307 viBAva 
+ <s>vi-BAva</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>vi-BAva</s>. See above and <pcol>p. 978, col. 3</pcol>.<info hui="a"/>
+
+Jim response = done
+
+old:
+<L>198307<pc>977,3<k1>viBAva<k2>vi-BAva<e>1
+<s>vi-BAva</s> ¦ <hom>1.</hom> and <hom>2.</hom> <s>vi-BAva</s>. See above and <pcol>p. 978, col. 3</pcol>.<info hui="a"/>
+
+new:
+<L>198307<pc>977,3<k1>viBAva<k2>vi-BAva<h>1<e>1
+<hom>1.</hom> and <hom>2.</hom> <s>vi-BAva</s>. ¦ See above and <pcol>p. 978, col. 3</pcol>.
+
+* DONE (666954): L-200448 viSara hui still there
+ <s>vi-Sara/</s> , ¦ <hom>2.</hom> <s>vi-SaraRa</s> &c. See under <s>vi-√ SF</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>200448<pc>989,3<k1>viSara<k2>vi-Sara/<e>1
+<s>vi-Sara/</s> , ¦ <hom>2.</hom> <s>vi-SaraRa</s> &c. See under <s>vi-√ SF</s>.<info hui="a"/>
+
+new:
+<L>200448<pc>989,3<k1>viSara<k2>vi-Sara/<e>1
+<s>vi-Sara/</s>, ¦ <hom>2.</hom> <s>vi-SaraRa</s> &c. See under <s>vi-√ SF</s>.<info hui="a"/>
+
+
+* DONE (694784): L-208915 vyarRa 
+ <s>vy-arRa</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>vy-arRa</s>. See <ls>ib.</ls> and below under <s>vy-√ ard</s>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>208915<pc>1032,3<k1>vyarRa<k2>vy-arRa<e>1
+<s>vy-arRa</s> ¦ <hom>1.</hom> <hom>2.</hom> <s>vy-arRa</s>. See <ls>ib.</ls> and below under <s>vy-√ ard</s>.<info hui="a"/>
+
+new:
+<L>208915<pc>1032,3<k1>vyarRa<k2>vy-arRa<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <s>vy-arRa</s>. ¦ See <ls>ib.</ls> and below under <s>vy-√ ard</s>.
+
+
+* DONE (860444): L-259734 svArAj 
+ <s>svA-rAj</s> . ¦ <hom>1.</hom> <hom>2.</hom> <s>svA-rAj</s>. See <pcol>p. 1277, col. 3</pcol>, and <pcol>p. 1282, col. 1</pcol>.<info hui="a"/>
+
+Jim response = done
+old:
+<L>259734<pc>1284,2<k1>svArAj<k2>svA-rAj<e>1
+<s>svA-rAj</s> . ¦ <hom>1.</hom> <hom>2.</hom> <s>svA-rAj</s>. See <pcol>p. 1277, col. 3</pcol>, and <pcol>p. 1282, col. 1</pcol>.<info hui="a"/>
+
+new:
+<L>259734<pc>1284,2<k1>svArAj<k2>svA-rAj<h>1<e>1
+<hom>1.</hom> <hom>2.</hom> <s>svA-rAj</s>. ¦ See <pcol>p. 1277, col. 3</pcol>, and <pcol>p. 1282, col. 1</pcol>.
+
+
+
