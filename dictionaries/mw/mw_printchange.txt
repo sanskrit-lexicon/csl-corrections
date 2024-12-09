@@ -1818,3 +1818,14 @@ new: f. = prec. n. pl. L. reproach, contempt
 11185 : aBi  : aBi : 1. aBi : because suppl. has additional 2. aBi
 97460 : dyut : 3. dyut : 4. dyut : Implied by supplement p. 1329,1
 ------------------------------------------------------------------------
+12-08-2024
+Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/182
+code : Headword : Old  : New : Comment
+33682 : udvisfj : <ls>BhP. iv,31,32.</ls> : iv,31,22.
+39386 : ekapati : <ls>BhP. iv,26,27.</ls> : iv,20,27
+91023 : daSArDavayas : <ls>BhP. v,15,30.</ls> : iii,15,30
+44957 : karRAYjali : <ls>BhP. iii,13,50.</ls> : iii,13,49
+94045 : durDI : <ls>BhP. ii,15,13</ls> : ii,5,13
+------------------------------------------------------------------------
+
