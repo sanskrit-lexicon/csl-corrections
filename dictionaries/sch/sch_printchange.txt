@@ -69,3 +69,10 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/780
 L code : Headword : Old  : New : Comment
 8336 : udgrAhaRikA : 159,3 : 158,3 :  Reference page correction.
 -----------------------------------------------------------------------
+12-10-2024
+Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
+L code : Headword : Old  : New : Comment
+3837 : apravizwa : 11838 : <ls n="Bhāg. P.">7,49,4.</ls> : 7,12,15 
+9200 : ekAdaSavyUha : 28389 : <ls>Bhāg. P. 2,25,3.</ls>  : 5,25,3  
+-----------------------------------------------------------------------
