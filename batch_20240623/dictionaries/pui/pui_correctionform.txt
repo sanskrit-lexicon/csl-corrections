@@ -1,0 +1,15 @@
+Sanskrit Lexicon Correction Form History for PUI
+As of June 23, 2024
+1 correction records, with 1 PENDING
+
+Case 121: 06/22/2024 dict=PUI, L=16702, hw=sṛñjaya, user=srhodes
+old = Puran-jaya
+new = Puraṃjaya  OR  Purañjaya
+comment = Typo – Please note that here we are adding the correct diacritical mark according to your preference. Also this could be made a "Global Correction" to all instances of "Puran-jaya"  OR  "Puranjaya", since Sandhi rules demands this correction.
+Jim: 30 matches for "Pura.jaya" in buffer: pui.txt
+     Puranjaya (1), Puramjaya (13),  Purañjaya (16)
+    Global Change: Puranjaya and Puramjaya to  Purañjaya 
+     
+status = done
+------------------------------------------------------------------------
+

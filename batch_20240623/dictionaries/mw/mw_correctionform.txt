@@ -1,0 +1,1004 @@
+Sanskrit Lexicon Correction Form History for MW
+As of June 23, 2024
+108 correction records, with 108 PENDING
+* TODO list
+--- done
+138 matches for "’ <ab>N.<" in buffer: mw.txt  
+  global chg "’, <ab>N.<"     
+--- done
+245 matches in 241 lines for "[a-z] <ab>cf.</ab>" in buffer: mw.txt
+  For many, "[a-z] <ab>cf.</ab>" -> "[a-z], <ab>cf.</ab>"
+Exclusions:  " but <ab>cf.</ab>"   66
+             " and <ab>cf.</ab>"   21
+
+--- done
+126 matches in 125 lines for "ccording to, <ls>" in buffer: temp_mw_1.txt
+  remove comma
+
+--- done for now
+10222 matches in 10154 lines for "See "
+NO CHANGE
+3686 matches for "¦ See "   
+1651 matches for "&c\. See"  
+269 matches for "[^c]\. See" 
+1651 matches for "&c\. See"  
+(+ 3686 1651 269 1651) 7257
+
+CHANGES:
+7 matches for "^See" change to "see"  (regex - beginning of line)
+2 matches for "\[See"  change to "[see" 
+1 "> See" changed. 
+1585 matches in 1575 lines for "(See"  change to "(see"  
+193 matches in 191 lines for "; See"
+267 matches for "¦ <s>[^<]*</s> See" change to "¦ <s>[^<]*</s>. See"
+
+UNRESOLVED: about 900 at current tally.
+139 matches in 135 lines for "for <s>[^<]*</s> See"
+
+802 matches in 795 lines for "</s> See"  change to "</s>, see"
+  exceptions 12538, 12538.1  "¦ and <s>-SyAna</s> See "
+(+ 7 2 1 1585 193 267)  2055
+
+(+ 7257 2055)  9312
+(- 10222 9312)  910 not resolved.
+
+
+---
+ START 06-29-2024 <<<<<<<<<<<<<<<
+---
+vizkamBaka  H3:  should it be H2  (an example of a large question)
+---
+Case77  Comment to Scott.
+---
+cf case 102. Also I would prefer the portion "NBD. )" to be changed to "NBD.)", but that is up to you.  
+  This space (&nbsp;) is added in basicadjust after closing </ls>.
+  Probably should remove that space in the display. 
+---
+
+* Case124: 06/22/2024 dict=MW, L=204157, hw=vṛkāsuravadha, user=srhodes
+old = ‘killing of the Asura Vṛka’ N.
+new = ‘killing of the Asura Vṛka’, N.
+comment = Typo - the "comma" is needed.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case123: 06/22/2024 dict=MW, L=62479, hw=gaḍa, user=srhodes
+old = gold-fish
+new = goldfish
+comment = Typo - Please note that this correction entails a "print change". This word should not be hyphenated according to standard nomenclature.
+Jim: 
+status = done print change also 62849 gaqaka
+------------------------------------------------------------------------
+
+* Case122: 06/22/2024 dict=MW, L=12103.1, hw=abhimarśa, user=srhodes
+old = abhi-marśā (ifc.) f(ā). , Śāk.
+new = (ifc. f. ā), Śāk.; grasping, seizing (as by the hair), BhP.
+comment = Typo - Please note that this correction follows the printed text. I am also suggesting completely eliminating the following [ID=12103.2]. The problem with [ID=12103.2] is that it implies only the Feminine Gender. However, the "ifc." being stated should be made available to all three genders (or at least to the masculine gender as well). Please keep in mind that here, the "feminine gender" is strictly referred to in parenthesis and the "ruling gender" for the entire definition is Masculine. I hope that Jim will give this his consideration and bring clarity to this definition.
+Jim:  
+Merge 12103.1 and 12103.2 into 12103.
+OLD:
+<L>12103<pc>67,3<k1>aBimarSa<k2>aBi-marSa<e>2
+<s>aBi-marSa</s> (or less correctly <s>aBi-marza</s>, <ls>Mn. viii, 352</ls>, &c.), ¦ <s>as</s>, <lex>m.</lex> touching, contact, <ls>Kum.</ls> &c.<info or="12103,aBimarSa;12103.31,aBimarza"/><info lex="m"/>
+<LEND>
+<L>12103.01<pc>1315,2<k1>aBimarSa<k2>aBi-marSa<e>2A
+¦ consideration, <ls>Jātakam.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+<L>12103.1<pc>67,3<k1>aBimarSA<k2>aBi-marSA<e>2B
+<s>aBi-marSA</s> ¦ (<ab>ifc.</ab>) <lex>f(<s>A</s>). </lex>, <ls>Śāk.</ls><info lex="f#A"/>
+<LEND>
+<L>12103.2<pc>67,3<k1>aBimarSA<k2>aBi-marSA<e>2B
+<s>aBi-marSA</s> ¦ <lex>f.</lex> grasping, seizing (as by the hair), <ls>BhP.</ls><info lex="f"/>
+<LEND>
+<L>12103.31<pc>67,3<k1>aBimarza<k2>aBi-marza<e>2
+<s>aBi-marSa</s> (or less correctly <s>aBi-marza</s>, <ls>Mn. viii, 352</ls>, &c.), ¦ <s>as</s>, <lex>m.</lex> touching, contact, <ls>Kum.</ls> &c.<info or="12103,aBimarSa;12103.31,aBimarza"/><info lex="m"/>
+<LEND>
+<L>12103.35<pc>1315,2<k1>aBimarza<k2>aBi-marza<e>2A
+¦ consideration, <ls>Jātakam.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+<L>12103.41<pc>67,3<k1>aBimarza<k2>aBi-marza<e>2B
+<s>aBi-marza</s> ¦ (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>), <ls>Śāk.</ls><info lex="f#A"/>
+<LEND>
+<L>12103.51<pc>67,3<k1>aBimarza<k2>aBi-marza<e>2B
+<s>aBi-marza</s> ¦ <lex>mfn.</lex> grasping, seizing (as by the hair), <ls>BhP.</ls><info lex="m:f:n"/>
+<LEND>
+NEW:
+<L>12103<pc>67,3<k1>aBimarSa<k2>aBi-marSa<e>2
+<s>aBi-marSa</s> (or less correctly <s>aBi-marza</s>, <ls>Mn. viii, 352</ls>, &c.), ¦ <s>as</s>, <lex>m.</lex> touching, contact, <ls>Kum.</ls> &c.; (<ab>ifc.</ab> <lex>f.</lex> <s>A</s>), <ls>Śāk.</ls>; grasping, seizing (as by the hair), <ls>BhP.</ls><info or="12103,aBimarSa;12103.2,aBimarza"/><info lex="m"/>
+<LEND>
+<L>12103.01<pc>1315,2<k1>aBimarSa<k2>aBi-marSa<e>2A
+¦ consideration, <ls>Jātakam.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+<L>12103.2<pc>67,3<k1>aBimarza<k2>aBi-marza<e>2
+<s>aBi-marSa</s> (or less correctly <s>aBi-marza</s>, <ls>Mn. viii, 352</ls>, &c.), ¦ <s>as</s>, <lex>m.</lex> touching, contact, <ls>Kum.</ls> &c.; (<ab>ifc.</ab> <lex>f.</lex> <s>A</s>), <ls>Śāk.</ls>; grasping, seizing (as by the hair), <ls>BhP.</ls><info or="12103,aBimarSa;12103.2,aBimarza"/><info lex="m"/>
+<LEND>
+
+status = done
+------------------------------------------------------------------------
+
+* Case120: 06/22/2024 dict=MW, L=227197, hw=saṃsthā, user=srhodes
+old = (= cara m.
+new = (= cara, m.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case119: 06/22/2024 dict=MW, L=241455, hw=sātvata, user=srhodes
+old = Satvatas, belonging or sacred to Satvata
+new = Sātvatas, belonging or sacred to Sātvata
+comment = Typo – Please note that two important corrections have been made here (and therefore worth 200 points).
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case118: 06/20/2024 dict=MW, L=85601, hw=tīrthapad, user=srhodes
+old = pad nom. pād mfn. 
+new = pad, nom. pād, mfn.
+comment = Typo – The "commas" follows the printed text and are good for clarity.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case117: 06/20/2024 dict=MW, L=219184, hw=śuc, user=srhodes
+old = śuśucāna aor. aśucat
+new = śuśucāna, aor. aśucat
+comment = Typo – The "comma" follows the printed text and is good for clarity.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case116: 06/20/2024 dict=MW, L=158207, hw=marīcigarbha, user=srhodes
+old = Dākṣasāvarṇi
+new = Dakṣasāvarṇi
+comment = Typo – I am certain of this correction. This entails a print change if you judge the printed text with a "long vowel". The marking is not as bold as other long vowels on the page, so it may be something else altogether.
+Jim: 
+status = done print change
+------------------------------------------------------------------------
+
+* Case114: 06/18/2024 dict=MW, L=65102, hw=gir, user=srhodes
+old = 3. gir is, m.
+new = 3. gir, m.
+Jim: 
+status = done duplicate
+------------------------------------------------------------------------
+
+* Case113: 06/18/2024 dict=MW, L=65102, hw=gir, user=srhodes
+old = 3. gir is, m.
+new = 3. gir, m.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case110: 06/17/2024 dict=MW, L=182590.1, hw=liṅgaka, user=srhodes
+old = Feroma Elephantum
+new = Feronia Elephantum
+comment = Typo  – Please note that this printing error may occur in another place in the Master File. Therefore I recommend a quick "Search and Replace" of any other such instance. Actually this is a good a tip to keep in mind for other printing error corrections which may be "Globally Corrected" according to a single instance cited.
+Jim:  This is the only Feroma error
+status = done
+------------------------------------------------------------------------
+
+* Case109: 06/16/2024 dict=MW, L=40831.1, hw=aujjāgari, user=srhodes
+old = see sundara-miśtra, p. 1227.
+new = (see sundara-miśra, p. 1227).
+comment = Typo 
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case108: 06/16/2024 dict=MW, L=18371, hw=avaskṝ, user=srhodes
+old = apa-√k-rī.)
+new = apa-√kṝ.)
+comment = Typo 
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case107: 06/16/2024 dict=MW, L=73906.6, hw=citrasena, user=srhodes
+old = (cf. caitraseni.)
+new = ???
+comment = Typo – I hope that Jim or Andhrabharati can inspect this word which is nowhere to be found.
+Jim:  compare]
+status = done duplicate
+------------------------------------------------------------------------
+
+* Case106: 06/16/2024 dict=MW, L=73906.6, hw=citrasenā, user=srhodes
+old = (cf. caitraseni.)
+new = ???
+comment = Typo – I hope that Jim or Andhrabharati can inspect this word which is nowhere to be found.
+Jim: pwg (under citrasena) Vgl. cEtraseni [vgl = vergleiche = compare]
+  Actually, cEtraseni (slp1) IS an mw headword!
+cEtraseni</s> ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> <s>citra-sena</s>, <ls>MBh. vii, 916</ls> and <ls n="MBh. vii,">1091.</ls>
+status = done no change
+------------------------------------------------------------------------
+
+* Case105: 06/15/2024 dict=MW, L=202685, hw=viṣvañj, user=srhodes
+old = pf. vy-ṣasvaje
+new = pf. vi-ṣasvaje
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case104: 06/15/2024 dict=MW, L=202678, hw=viṣyanda, user=srhodes
+old = vi-spanda cf. also vi-ṣpanda) 
+new = vi-spanda, cf. also vi-ṣpanda) 
+comment = Typo – Please note that the "comma" is a nice touch and follows the printed text. Also, I have an idea for a "Global" Correction. Search the Master file for all of the following instances: "a cf."  "i cf."  "u cf."  etc.  The idea being that in all these instances, a "comma" should precede the abbreviated form "cf."
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case103: 06/15/2024 dict=MW, L=8764, hw=anvart, user=srhodes
+old = (according to, NBD. ) shortened for anu-vart (√vṛt), to go after, demand (a girl in marriage), AV. xiv, 1, 56. For the abbreviation cf. anvā, apvā, a-bhva.
+new = (according to NBD. ) shortened for anu-vart (√vṛt), to go after, demand (a girl in marriage), AV. xiv, 1, 56. For the abbreviation, cf. anvā, apvā, a-bhva.
+comment = Typo – Please note that we have removed one "comma" (near the beginning) and added one "comma" (near the end). This is worth 100 points. Also I would prefer the portion "NBD. )" to be changed to "NBD.)", but that is up to you.
+Jim: 
+status = done duplicate case 122
+------------------------------------------------------------------------
+
+* Case102: 06/15/2024 dict=MW, L=8764, hw=anvart, user=srhodes
+old = (according to, NBD. ) shortened for anu-vart (√vṛt), to go after, demand (a girl in marriage), AV. xiv, 1, 56. For the abbreviation cf. anvā, apvā, a-bhva.
+new = (according to NBD. ) shortened for anu-vart (√vṛt), to go after, demand (a girl in marriage), AV. xiv, 1, 56. For the abbreviation, cf. anvā, apvā, a-bhva.
+comment = Typo – Please note that we have removed one "comma" (near the beginning) and added one "comma" (near the end). This is worth 100 points. Also I would prefer the portion "NBD. )" to be changed to "NBD.)", but that is up to you.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case101: 06/15/2024 dict=MW, L=30208, hw=uṅkh, user=srhodes
+old = cl. 6. P.
+new = cl.1.P.
+comment = Typo – I believe that this must be a printing error. This root is listed among other class 1 roots, and it is located in Dhātup. 5.15.  If I am correct, then this is worth 1000 points. If I am wrong, then you get 1000 points!
+Jim: Scott gets the 1000 points. 
+status = done print change
+------------------------------------------------------------------------
+
+* Case97: 06/13/2024 dict=MW, L=257421, hw=syandana, user=srhodes
+old = a war-chariot, chariot, car (said also to be n.)
+new = m. a war-chariot, chariot, car (said also to be n.)
+comment = Typo – Please note that the insertion of  "m." is required to indicate the "masculine gender". This correction is confirmed on three accounts: Apte, Shabda and the fact that these are "nouns" followed by the "option of neuter" which implies the preceding must be masculine. Also note that the "masculine gender" is "the ruling gender" for the following four lines, until we reach the "feminine gender" (five lines below).
+Jim: 
+status = done print change (add <lex>m.</lex>) change <e>2A to <e>2B
+------------------------------------------------------------------------
+
+* Case96: 06/13/2024 dict=MW, L=224011, hw=ślāgh, user=srhodes
+old = (aor. aśaślāghaṭ)
+new = (aor. aśaślāghat)
+Jim: print has spurious dot under t. cf mw72
+status = done
+------------------------------------------------------------------------
+
+* Case95: 06/13/2024 dict=MW, L=204573, hw=vṛdh, user=srhodes
+old = Intens. varivṛdhyate
+new = Intens. varīvṛdhyate
+comment = Typo – I believe that this is a printing error. Multiple independent sources support this correction. Please have Jim or Andhrabharati confirm this important correction.
+Jim: cf mw72. varī-vṛdhyate,
+status = done print change
+------------------------------------------------------------------------
+
+* Case94: 06/12/2024 dict=MW, L=137690, hw=praśri, user=srhodes
+old = -śirayati
+new = -śrayati
+comment = Typo – Since we have been discussing the verbal root √śri in relation to the "fallacious" √śṛ  ,  I figured it was a good time to make this correction.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case91: 06/12/2024 dict=MW, L=112384, hw=naiveśika, user=srhodes
+old = house holder
+new = householder
+comment = Typo – Please note that this word occurs at a line break in the printed text. Therefore it has been hyphenated on the printed page. But the hyphen is only due to the line break, and it is properly written as a single word.
+Jim: similar change at L=844.1 agArin, and at L=930, agnicitvat.
+status = done
+------------------------------------------------------------------------
+
+* Case90: 06/11/2024 dict=MW, L=88806, hw=trauk, user=srhodes
+old = Desid. tutrokiṣate
+new = Desid. tutraukiṣate
+comment = Typo – Please note that this correction entails a "print change".  As you know if the printing is poor, it may be difficult to distinguish between the vowels "o"  and  "au".  In any case, I find no other reference to the form "tutrokiṣate", however from two independent sources I find the form "tutraukiṣate".  By the way, if I can offer at least one correction per day I will be happy, and that means that today, "I am happy!"
+Jim: cf. pw Desid. tutrOkizate
+status = done print change
+------------------------------------------------------------------------
+
+* Case89: 06/11/2024 dict=MW, L=215928, hw=śāla, user=srhodes
+old = (fr. śṛ for śri)
+new = (fr. śṝ for śri)
+comment = Typo – Please note that I find no verbal root listed as √śṛ ; Therefore I suggest this correction as a print change. Andhrabharati's recent post pointed me here.
+Jim: no change
+status = done
+------------------------------------------------------------------------
+
+* Case88: 06/11/2024 dict=MW, L=36833, hw=upāśāra, user=srhodes
+old = (√śṛ = śri)
+new = (√śṝ = śri)
+comment = Typo – Please note that I find no verbal root listed as √śṛ ; Therefore I suggest this correction as a print change. Andhrabharati's recent post pointed me here.
+Jim: no change.
+   We've been through this.  MW śṝ is an (unrelated) root.  
+status = done
+------------------------------------------------------------------------
+
+* Case86: 06/11/2024 dict=MW, L=126061, hw=puroḍāś, user=srhodes
+old = (or -lāś nom. -łās)
+new = (or -łāś, nom. -łās),
+comment = Typo – Please note that there are three corrections here to match the printed text: two "commas" inserted along with one letter change.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case85: 06/09/2024 dict=MW, L=231161.1, hw=sanisrasa, user=srhodes
+old = sa-nisrasa
+new = sanisrasa
+Jim: no change. The '-' is present in the supplement p. 1332
+status = done
+------------------------------------------------------------------------
+
+* Case84: 06/09/2024 dict=MW, L=257528, hw=sraṃs, user=srhodes
+old = Caus. sraṃsayati (aor. asisrasat
+new = Caus. sraṃsayati (aor. asasraṃsat 
+comment = Typo – Please note that this suggested correction entails a "print change." We need Jim or Andhrabharati to look into this. I find no other supporting evidence for the causative aorist form printed here as "asisrasat", however I did find two independent sources citing this form as,  "asasraṃsat".
+Jim: mw72 also has asasraṃsat -- 
+status = done print change
+------------------------------------------------------------------------
+
+* Case83: 06/09/2024 dict=MW, L=257528, hw=sraṃs, user=srhodes
+old = 3. pl. -sraṃsire
+new = 3. pl. °sraṃsire
+comment = Typo – Please note that this suggested correction entails a "print change." I see no reason for the "hyphen". The full correct form referenced here is "sasraṃsire" and the preceding form is shown as "°ṃsuḥ" with the symbol " ° ", so why now the "hyphen" ?  It seems a bit misleading because any finite verb form may be used with a prefix, so no need to "hyphenate" this particular finite verb form as if it is some "special" case.
+Jim: no change.  in pwg sraMs we see 
+  "viśraṃsire (so beide Ausgg.) keśāḥ kucāgre fielen herab auf Hariv. 4097."
+  So the '-' in MW entry is indicating that the form occurs with a prefix ('vi')
+  in Hariv.
+status = done
+------------------------------------------------------------------------
+
+* Case82: 06/09/2024 dict=MW, L=257528, hw=sraṃs, user=srhodes
+old = pf. sesraṃsa
+new = pf. sasraṃsa
+Jim: also change in 257528.1 (sras)
+status = done
+------------------------------------------------------------------------
+
+* Case81: 06/09/2024 dict=MW, L=126061, hw=puroḍāś, user=srhodes
+old = puro—ḍāś (or -lāś nom. -łās)
+new = puro—ḍāś (or -łāś, nom. -łās)
+comment = Typo – Please note that the "comma" is important.
+Jim: 
+old: <s>puro—qAS</s> (or <s>-lA/S</s> <ab>nom.</ab> <s>-LA/s</s>) 
+new: <s>puro—qAS</s> (or <s>-LA/S</s>, <ab>nom.</ab> <s>-LA/s</s>) 
+status = done
+------------------------------------------------------------------------
+
+* Case80: 06/09/2024 dict=MW, L=81639.2 , hw=tagara, user=srhodes
+old = tagarī (also tagara, °raka or tagarī) = sthakara or sthagara, a partic. fragrant powder (Bloomfield 's, AV. , p. 311). [ID=81639.2]
+new = takarī (also tagara, °raka or tagarī) = sthakara or sthagara, a partic. fragrant powder (Bloomfield 's, AV. , p. 311). [ID=81639.2]
+comment = Typo – I am a bit confused! This is a supplemental entry which is printed as "takarī". Four issues arise: 1) It does not make sense to list this as "tagarī" because within the parentheses that follow, the word "tagarī" itself is also listed. Why list "tagarī" again, therefore this supplemental entry must remain as printed, "takarī". Issue 2) The correct Supplemental Entry "takarī" is already inserted at [ID=81582.1] along with the Headword "takarī" [ID=81581] AND ALSO the word "tagarī" itself is shown here [ID=81582] (under the Headword "takarī"; Issue 3) Everything stated thus far also applies to [ID=81638.1] as well as [ID=81639.2] (under Headword tagarī) so that we have even More REDUNDANCY compounding the confusion; Issue 4) Everything stated thus far also applies to  [ID=81646.1] (listed under the Headword "tagaraka", so that we have even MORE REDUNDANCY compounding the confusion. To Sum Up, We have a "supplemental insertion" of the word "takarī" incorrectly listed as "tagarī" and inserted at multiple places leaving dazed and confused.
+Jim: 
+1. it is proper to have 4 entries in the main text,
+   so that a search for any of these words will include this supplement   
+   81582.1,takarI
+   81638.1,tagara
+   81639.1,tagarI
+   81646.1,tagaraka
+ 2. Assume the location of the entries is proper
+ 3a. Each entry should have the same text (which is not the case now)
+ 3b. an <info or="..."/> should be added to each, so we know the 4 entries
+    are related.
+new text:
+  <s>takarI</s> (also <s>tagara</s>, <s>°raka</s> or <s>tagarI</s>)¦ = <s>sTakara</s> or <s>sTagara</s>, a <ab>partic.</ab> fragrant powder (<ls>Bloomfield</ls>'s, <ls>AV.</ls>, <ab>p.</ab> 311).<info n="sup"/><info or="81582.1,takarI;81638.1,tagara;81639.1,tagarI;81646.1,tagaraka"/>
+
+This new text is put into each of the 4 entries
+status = done
+
+
+------------------------------------------------------------------------
+
+* Case79: 06/08/2024 dict=MW, L=183229, hw=lok, user=srhodes
+old = -lokitum
+new = lokitum
+comment = Typo - Please note that this correction entails a "print change."  I do not understand the necessity of the "hyphen" here. Clearly the infinitive form is simply "lokitum". The "hyphen" implies that this form requires a prefix which certainly is not the case.
+Jim: Since this is root without upasarga,  the '-' is wrong
+status = done print change
+------------------------------------------------------------------------
+
+* Case78: 06/07/2024 dict=MW, L=201868.1, hw=viṣṭī, user=srhodes
+old = viṣ°ṭibhis (ī or ibhis), ind. changing, alternatively, by turns, RV.  (in this sense accord. to some from vi + √1. as; cf. abhi-, pari-ṣṭi). [ID=201868.1]
+new = DELETE • Please note that the only reason to retain the redundant listing under [ID=201868.1] would be if you decide to add the additional Headword "viṣṭibhis", otherwise, we really do not need this redundancy.
+comment = redundant listing
+Jim: rewrite -- a grouped entry.
+OLD:
+<L>201868<pc>996,2<k1>vizwI<k2>vizwI/<e>2C
+<s>viz°wI/</s> ¦ (<s>I/</s> or <s>i/Bis</s>), <lex>ind.</lex> changing, alternatively, by turns, <ls>RV.</ls> (in this sense <ab>accord.</ab> to some from <s>vi</s> + √ <hom>1.</hom> <s>as</s>; <ab>cf.</ab> <s>aBi-</s>, <s>pari-zwi</s>). <info lex="ind"/>
+<LEND>
+<L>201868.1<pc>996,2<k1>vizwiBis<k2>vizwi/Bis<e>2C
+<s>viz°wi/Bis</s> ¦ (<s>I/</s> or <s>i/Bis</s>), <lex>ind.</lex> changing, alternatively, by turns, <ls>RV.</ls> (in this sense <ab>accord.</ab> to some from <s>vi</s> + √ <hom>1.</hom> <s>as</s>; <ab>cf.</ab> <s>aBi-</s>, <s>pari-zwi</s>). <info lex="ind"/>
+<LEND>
+NEW:
+<L>201868<pc>996,2<k1>vizwI<k2>vizwI/<e>2C
+<s>viz°wI/</s> or <s>viz°wi/Bis</s>, ¦ <lex>ind.</lex> changing, alternatively, by turns, <ls>RV.</ls> (in this sense <ab>accord.</ab> to some from <s>vi</s> + √ <hom>1.</hom> <s>as</s>; <ab>cf.</ab> <s>aBi-</s>, <s>pari-zwi</s>). <info lex="ind"/><info or="201868,vizwI;201868.1,vizwiBis"/>
+<LEND>
+<L>201868.1<pc>996,2<k1>vizwiBis<k2>vizwi/Bis<e>2C
+<s>viz°wI/</s> or <s>viz°wi/Bis</s>, ¦ <lex>ind.</lex> changing, alternatively, by turns, <ls>RV.</ls> (in this sense <ab>accord.</ab> to some from <s>vi</s> + √ <hom>1.</hom> <s>as</s>; <ab>cf.</ab> <s>aBi-</s>, <s>pari-zwi</s>). <info lex="ind"/><info or="201868,vizwI;201868.1,vizwiBis"/>
+<LEND>
+
+status = done
+------------------------------------------------------------------------
+
+* Case77: 06/07/2024 dict=MW, L=202339, hw=viṣṭabdhājīrṇa, user=srhodes
+old = vi-ṣṭab°dhājīrṇa
+new = °dhājīrṇa
+comment = Typo – We are "Streamlining". This type of correction is exhausting. I'm taking a break... I wish there was an easy "Global" fix to delete the intial "unwanted" portion preceding the symbol °.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case76: 06/07/2024 dict=MW, L=202305, hw=viṣkambhin, user=srhodes
+old = vi-°ṣkambhin
+new = °ṣkambhin
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case75: 06/07/2024 dict=MW, L=202303, hw=viṣkambhita, user=srhodes
+old = vi-°ṣkambhita
+new = °ṣkambhita
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case74: 06/07/2024 dict=MW, L=202300, hw=viṣkambhakakāṣṭha, user=srhodes
+old = vi-°ṣkam°bhaka-kāṣṭha
+new = °bhaka-kāṣṭha
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case73: 06/07/2024 dict=MW, L=202301, hw=viṣkambhaṇa, user=srhodes
+old = vi-°ṣkambhaṇa
+new = °ṣkambhaṇa
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case72: 06/07/2024 dict=MW, L=202299, hw=viṣkambhaka, user=srhodes
+old = vi-°ṣkambhikā f.
+new = (ikā), f.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case71: 06/07/2024 dict=MW, L=202297, hw=viṣkambhaka, user=srhodes
+old = vi-°ṣkambhaka
+new = °ṣkambhaka
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case70: 06/07/2024 dict=MW, L=202296, hw=viṣkambhaka, user=srhodes
+old = vi-°ṣkambhaka
+new = °ṣkambhaka
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case69: 06/07/2024 dict=MW, L=202295, hw=viṣkambhārdha, user=srhodes
+old = vi-ṣkam°bhārdha
+new = °bhārdha
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case68: 06/07/2024 dict=MW, L=202287, hw=viṣkambha, user=srhodes
+old = of the acts cf. praveśaka)
+new = of the acts, cf. praveśaka)
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* DONE Case67: 06/07/2024 dict=MW, L=201611.1, hw=viśvāsyatara, user=srhodes
+old = vi-°śvāsya—tara
+new = -tara
+comment = Typo – Please note that this correction follows the printed text. Also, as you can see, I just submitted a huge number of "repetitive" corrections. Therefore, I am suggesting a "Global Correction" for your consideration. This would entail "searching" the Master File for the following form "-°" and then deleting everything that precedes the hyphen "-" (as well as the hyphen itself), since the following symbol " ° "  already indicates that which precedes (as the initial part of a word).
+Jim: We choose to display the full headword for compounds. 
+     This is a systematic deviation of the digitization from the print.
+     It seems reasonable to me. 
+     If you ever make your own version of mw, you could make this global change.
+status = done
+------------------------------------------------------------------------
+
+* Case66: 06/07/2024 dict=MW, L=201610, hw=viśvāsya, user=srhodes
+old = vi-°śvāsya
+new = °śvāsya
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case65: 06/07/2024 dict=MW, L=201608, hw=viśvāsin, user=srhodes
+old = vi-°śvāsin
+new = °śvāsin
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case64: 06/07/2024 dict=MW, L=201607, hw=viśvāsita, user=srhodes
+old = vi-°śvāsita
+new = °śvāsita
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case63: 06/07/2024 dict=MW, L=201606.1, hw=viśvāsikatara, user=srhodes
+old = vi-°śvāsika—tara
+new = -tara
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case62: 06/07/2024 dict=MW, L=201606, hw=viśvāsika, user=srhodes
+old = vi-°śvāsika
+new = °śvāsika
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case61: 06/07/2024 dict=MW, L=201605.1, hw=viśvāsanārtham, user=srhodes
+old = vi-°śvāsanārtham
+new = °śvāsanārtham
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case60: 06/07/2024 dict=MW, L=201605, hw=viśvāsana, user=srhodes
+old = vi-°śvāsana
+new = °śvāsana
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case59: 06/07/2024 dict=MW, L=201604, hw=viśvāsopagama, user=srhodes
+old = vi-śvā°sopagama
+new = °sopagama
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case58: 06/07/2024 dict=MW, L=201603, hw=viśvāsojjhitadhī, user=srhodes
+old = vi-śvā°sojjhita-dhī
+new = °sojjhita-dhī
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full compound
+status = done
+------------------------------------------------------------------------
+
+* Case57: 06/07/2024 dict=MW, L=201601, hw=viśvāsaikabhū, user=srhodes
+old = vi-śvā°saika-bhū
+new = °saika-bhū
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change. We show the full headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case56: 06/07/2024 dict=MW, L=201602, hw=viśvāsaikasāra, user=srhodes
+old = vi-śvā°saika-sāra
+new = °saika-sāra
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: This is cpd of viSvAsa
+status = done
+------------------------------------------------------------------------
+
+* Case55: 06/07/2024 dict=MW, L=201497, hw=viśvakarmīyaśilpa, user=srhodes
+old = N. of work.
+new = N. of wk.
+comment = Typo – Please note that this correction would be a "print change".  It is unusual for the word "work" to be written out. Usually we find the abbreviated form "wk."; so this correction is up to you (but it could also be easily implemented as a Global correction).
+Jim: no change. No good reason. 
+  132 matches for "<ab>N.</ab> of work" in buffer: mw.txt
+status = done
+------------------------------------------------------------------------
+
+* Case54: 06/07/2024 dict=MW, L=201487.6, hw=viśvakarmeśvaraliṅga, user=srhodes
+old = viśva-kar°meśa or viśva-kar°meśvara-liṅga
+new = °meśa or °meśvara-liṅga
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case53: 06/07/2024 dict=MW, L=201487.5, hw=viśvakarmeśa, user=srhodes
+old = viśva-kar°meśa or viśva-kar°meśvara-liṅga
+new = °meśa or °meśvara-liṅga
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case52: 06/07/2024 dict=MW, L=201487.4, hw=viśvakarmasutā, user=srhodes
+old = viśva-kar°ma—sutā
+new = -sutā
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case51: 06/07/2024 dict=MW, L=201487.3, hw=viśvakarmasiddhānta, user=srhodes
+old = viśva-kar°ma—siddhānta
+new = -siddhānta
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case50: 06/07/2024 dict=MW, L=201487.2, hw=viśvakarmaśāstrin, user=srhodes
+old = viśva-kar°ma—śāstrin
+new = -śāstrin
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status =  duplicate
+------------------------------------------------------------------------
+
+* Case49: 06/07/2024 dict=MW, L=201487.2, hw=viśvakarmaśāstrin, user=srhodes
+old = viśva-kar°ma—śāstrin
+new = -śāstrin
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case48: 06/07/2024 dict=MW, L=201487.13, hw=viśvakarmamāhātmya, user=srhodes
+old = viśva-kar°ma—māhātmya
+new = -māhātmya
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case47: 06/07/2024 dict=MW, L=201487, hw=viśvakarmajā, user=srhodes
+old = viśva-kar°ma—jā
+new = -jā
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done no change
+------------------------------------------------------------------------
+
+* Case46: 06/07/2024 dict=MW, L=201487.1, hw=viśvakarmapurāṇa, user=srhodes
+old = viśva-kar°ma—purāṇa
+new = -purāṇa
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change: We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case45: 06/07/2024 dict=MW, L=201487.12, hw=viśvakarmaprakāśa, user=srhodes
+old = viśva-kar°ma—prakāśa
+new = -prakāśa
+comment = Typo – Please note that this correction follows the printed text.
+Jim: no change. We choose to show the full-headword for compounds
+status = done
+------------------------------------------------------------------------
+
+* Case44: 06/07/2024 dict=MW, L=201487.11, hw=viśvakarmapurāṇasaṃgraha, user=srhodes
+old = viśva-kar°ma—purāṇa-saṃgraha
+new = °ṇa-saṃgraha
+comment = Typo – Please note that this correction follows the printed text. And, if I may quote Jim Funderburk, "the printed text is King." Of course, you are welcome to write this word out, but then it would be "viśva-karma—purāṇa-saṃgraha".
+Jim: no change
+  viSva-karma, -jA = viSva-karma-jA,
+  -purARa = viSva-karma-purARa
+  °Ra-saMgraha = viSva-karma-purARa-saMgraha
+  -prakASa = viSva-karma-prakASa, 
+  etc.
+status = done
+------------------------------------------------------------------------
+
+* Case43: 06/07/2024 dict=MW, L=200853, hw=viśram, user=srhodes
+old = -śrāmayati
+new = -śrāmayati  AND  -śramayati
+comment = Typo – Please note that the printed text shows the option of either a "long" vowel or a "short" vowel. Therefore, this option needs to be included in the online edition. As a side note, it is curious to me how you decide when to "add" a new "ID number" in the course of a Headword definition. For example, Here one ID number covers everything listed. But in the definition listed beneath other Headwords, my God, "ID numbers" at times proliferate in ways that boggle the mind!
+Jim: Verbs get everything under one L-number. Substantives proliferate L.
+no change needed, this previously changed to 
+ '<s>-SrAmayati</s> or <s>-Sramayati</s>'
+status = done 
+------------------------------------------------------------------------
+
+* Case42: 06/07/2024 dict=MW, L=200852, hw=viśrath, user=srhodes
+old = śrathāya
+new = -śrathāya,
+comment = Typo – Please note that this correction supersedes the previous submission. I just noticed that the "comma" needs to be included.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case41: 06/07/2024 dict=MW, L=200852, hw=viśrath, user=srhodes
+old = śrathāya
+new = -śrathāya
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case40: 06/07/2024 dict=MW, L=200797, hw=viśubh, user=srhodes
+old = -śabhate
+new = -śobhate
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* TODO Case39: 06/07/2024 dict=MW, L=157975, hw=mamātha, user=srhodes
+old = (v.l. for māthāta)
+new = (v.l. for mathāta)
+comment = Typo – Actually, I am a bit confused. This correction is a suggestion for Jim to look into. Please check with the following Headword, "mathāta [ID=155222]" which indicates "See mamātha."
+Jim: under mamATa: 
+  mw72 "(also maTAta)"
+  pw   "Richtig māthātha."  (Richtig = 'correct')
+  pwg  "Auch mathāta ebend" (also mathāta ibid)
+status = done  no change.  ask AB
+------------------------------------------------------------------------
+
+* Case38: 06/07/2024 dict=MW, L=162466, hw=māthitika, user=srhodes
+old = (-mathita)
+new = (mathita)
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case37: 06/07/2024 dict=MW, L=81582.1, hw=takarī, user=srhodes
+old = tagarī (also
+new = Takarī (also
+comment = Typo – Actually, I am a bit confused. However, this correction follows the printed text.
+Jim: see case 35
+status = done
+------------------------------------------------------------------------
+
+* Case36: 06/07/2024 dict=MW, L=81579.1, hw=takaraka, user=srhodes
+old = takaraka
+new = Takarī
+comment = Typo – Actually, I am a bit confused. However, this correction to the Headword follows the printed text.
+Jim: duplicate of case35
+status = done
+------------------------------------------------------------------------
+
+* Case35: 06/07/2024 dict=MW, L=81579.1, hw=takaraka, user=srhodes
+old = tagarī (also
+new = Takarī (also
+comment = Typo – Actually, I am a bit confused. However this correction follows the printed text.
+Jim: 81579.1 not found. Probably 81582.1 is meant.
+OLD:
+<L>81582.1<pc>1328,1<k1>takarI<k2>takarI<e>2A
+<s>tagarI</s> (also <s>tagara</s>, <s>°raka</s> or <s>tagarI</s>)¦ = <s>sTakara</s> or <s>sTagara</s>, a <ab>partic.</ab> fragrant powder (<ls>Bloomfield</ls>'s, <ls>AV.</ls>, <ab>p.</ab> 311).<info n="sup"/>
+NEW:
+<L>81582.1<pc>1328,1<k1>takarI<k2>takarI<e>2A
+<s>takarI</s> (also <s>tagara</s>, <s>°raka</s> or <s>tagarI</s>)¦ = <s>sTakara</s> or <s>sTagara</s>, a <ab>partic.</ab> fragrant powder (<ls>Bloomfield</ls>'s, <ls>AV.</ls>, <ab>p.</ab> 311).<info n="sup"/>
+
+status = done
+------------------------------------------------------------------------
+
+* Case34: 06/06/2024 dict=MW, L=219616, hw=śubh, user=srhodes
+old = in tensely
+new = intensely
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+* Case33: 06/06/2024 dict=MW, L=219616, hw=śubh, user=srhodes
+old = cause to shine beautify
+new = cause to shine, beautify
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case32: 06/06/2024 dict=MW, L=61951, hw=khilapāṭha, user=srhodes
+old = N. for, Dhātup.
+new = N. for Dhātup.
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case31: 06/06/2024 dict=MW, L=17723, hw=avabhā, user=srhodes
+old = v.l. -bhari
+new = v.l. -bhāri
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case30: 06/06/2024 dict=MW, L=97956, hw=druh, user=srhodes
+old = mf.
+new = m.f.
+Jim: previously changed
+status = done
+------------------------------------------------------------------------
+
+* Case29: 06/06/2024 dict=MW, L=24801.2, hw=āptoryāman, user=srhodes
+old = Alphabetical Placement Error
+new = This Headword which is a Supplemental insertion may be better placed beneath the Headword "āpti", thereby following the proper alphabetical procedure. (And of course it will be placed beneath the previous correction in this same regard, namely "āptoryāma").
+comment = Alphabetical Placement Error
+Jim: see case 28
+status = done
+------------------------------------------------------------------------
+
+* Case28: 06/06/2024 dict=MW, L=24801.1, hw=āptoryāma, user=srhodes
+old = Alphabetical Placement Error
+new = This Headword which is a Supplemental insertion may be better placed beneath the Headword "āpti", thereby following the proper alphabetical procedure.
+comment = Alphabetical Placement Error
+Jim: agree move 24801.1 to 24810.1, 24801.2 to 24810.2
+status = done
+------------------------------------------------------------------------
+
+* Case27: 06/06/2024 dict=MW, L=10443 , hw=aptu, user=srhodes
+old = body
+new = m. body 
+comment = Typo – Please note that Apte Dictionary lists this definition as being in the "masculine gender". More specifically, the Uṇādi Sūtra being referenced here is Uṇ 1.74, where we find the following statement, "aptuḥ śarīram". Obviously according to Uṇ., the gender is "masculine" for the definition "body." And since MW dictionary references Uṇ., for this very definition, we must complete the circuit and accept the "masculine gender" as a foregone conclusion.
+Jim: agree. Also cf. mw72
+status = done print change
+------------------------------------------------------------------------
+
+* Case26: 06/06/2024 dict=MW, L=98820, hw=dvijaprapā, user=srhodes
+old = (-ālavāla)
+new = (= ālavāla)
+comment = Typo - This correction is necessary, however the space or no space after the "equal sign" is up to you.
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case25: 06/05/2024 dict=MW, L=178488, hw=ruṭ, user=srhodes
+old = bhāthārthe
+new = bhāṣārthe
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case24: 06/05/2024 dict=MW, L=178488, hw=ruṭ, user=srhodes
+old = reṭate
+new = roṭate
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case23: 06/05/2024 dict=MW, L=259802, hw=svid, user=srhodes
+old = Desid. sisvitṣati
+new = Desid. sisvitsati
+comment = Typo - I believe that this must be a printing error. I hope that Jim or Andhrabharati can confirm or deny this correction.
+Jim: mw72: Desid. si-ṣvitsati
+     bur:  siṣvitsāmi dés. de svid.
+status = done print change
+Jim Note: Also 'pArtzadya' -> 'pArizadya' at L-123099 pArzadya.
+------------------------------------------------------------------------
+
+* Case21: 06/04/2024 dict=MW, L=14368, hw=amoghadaṇḍa, user=srhodes
+old = ‘unerring in punishment’ N. of Śiva.
+new = ‘unerring in punishment,’ N. of Śiva.
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* DONE Case20: 06/04/2024 dict=MW, L=97391, hw=dyut, user=srhodes
+old = Desid. didyutiṣati or didyot°
+new = Desid. didyutiṣate or didyot°
+comment = Typo – Please note that this may be a printing error. From several reliable sources, including the SiddhāntaKaumudī, I have found the form listed only as "didyutiṣate" but nowhere as "didyutiṣati". I hope that Jim or Andhrabharati may be able to confirm or deny this correction.
+Jim: agree. also confirmed mw72
+status = done print change
+------------------------------------------------------------------------
+
+* Case18: 06/04/2024 dict=MW, L=191831.1, hw=vārendra, user=srhodes
+old = vārendra m. n., and °drī, f. = varendra, °drī, L.  [ID=191831.1]
+new = Please completely remove this redundant listing. Also you may choose to add a second Headword indented beneath "vārendra". This second Headword would be the feminine form "vārendrī" along with its appropriate definition (as given in the printed text):  = °drī, L. This would allow for the word "vārendrī" to be "searchable" in MW online dictionary. In any case we do not need the redundant listing of [ID=191831.1].
+comment = Typo – Redundant Listing with an additional consideration offered.
+Jim: looks ok now, previously changed
+status = done
+------------------------------------------------------------------------
+
+* Case17: 06/04/2024 dict=MW, L=41003.1, hw=audrāyaṇa, user=srhodes
+old = (for Prākṛt (for Prākṛt Uddāyaṇa)
+new = (for Prākṛt Uddāyaṇa)
+Jim: previously changed
+status = done
+------------------------------------------------------------------------
+
+* Case14: 06/02/2024 dict=MW, L=68479, hw=granthana, user=srhodes
+old = (as a chapter or book)
+new = (as a chaplet or book)
+comment = Typo – Please note that this may be a printing error. The correction suggested here follows the definition given in the Shabda Sagara Dictionary; given the context of the preceding words: "stringing, tying or connecting together", the parenthetical addition makes more sense if we change the word "chapter" to the word "chaplet" – as given in Shabda Sagara.
+Jim: agree. also cf. WIL (the source of SHS) and mw72.
+status = done print change
+------------------------------------------------------------------------
+
+* Case13: 06/01/2024 dict=MW, L=116230, hw=paramparatas, user=srhodes
+old = successively continually, mutually
+new = successively, continually, mutually
+comment = Typo – Please note that the "comma" is required.
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case11: 06/01/2024 dict=MW, L=157145.1, hw=manoramākhaṇḍa, user=srhodes
+old = mn.
+new = m. or n.
+comment = Typo – Please note that this correction follows the printed text. However I would also be ok with a correction such as "m.n." (which essentially means the same thing). However I dislike "mn." which appears to be an imperfect abbreviation. Also, I am suggesting that instances of "mn." could be corrected globally to the standard of "m.n.".
+Jim: previous global change in mw.txt, to '<lex>m.</lex> <lex>n.</lex>'
+status = done
+------------------------------------------------------------------------
+
+* Case10: 06/01/2024 dict=MW, L=16483, hw=arh, user=srhodes
+old = p. arkat
+new = p. arhat
+Jim: agree
+status = done
+------------------------------------------------------------------------
+
+* Case9: 06/01/2024 dict=MW, L=94848, hw=duh, user=srhodes
+old = 3/ sg. duhām
+new = 3 sg. duhām
+Jim:  agree
+status = done
+------------------------------------------------------------------------
+
+* Case8: 06/01/2024 dict=MW, L=94848, hw=duh, user=srhodes
+old = dugdhe or duhe
+new = Move this entire paragraph (beginning with "dugdhe or duhe") up to continue the existing line which currently ends abruptly as follows, "Ā. dogdhi;" ...
+comment = Unnecessary and Confusing line break.
+Jim: 
+old:
+initial <s>D</s> of some forms) <ab>cl.</ab> 2. <ab>P.</ab> <ab>Ā.</ab> <s>dogDi</s>;
+<div n="vp"/> <s>dugDe</s> or <s>duhe/</s>, <ls>RV.</ls> &c.
+new:
+initial <s>D</s> of some forms)
+<div n="vp"/> <ab>cl.</ab> 2. <ab>P.</ab> <ab>Ā.</ab> <s>dogDi</s>; <s>dugDe</s> or <s>duhe/</s>, <ls>RV.</ls> &c.
+status = done
+------------------------------------------------------------------------
+
+* Case7: 05/31/2024 dict=MW, L=204094 , hw=vṛṃh, user=srhodes
+old = vṛṃhana
+new = vṛṃhaṇa
+comment = Typo – This must be a printing error.
+Jim: agree
+status = done print change
+------------------------------------------------------------------------
+
+* Case6: 05/31/2024 dict=MW, L=122722, hw=pāridṛḍhi, user=srhodes
+old = fr. pari-dṛḍhi
+new = fr. pari-dṛḍha
+comment = Typo – Please note that this correction is a suggestion based on the following fact:  The word "paridṛḍhi" is nowhere to be found, however there is the word "paridṛḍha". Also this issue is related to the previous correction that submited. I hope that Jim will look into this.
+Jim: previous batch change
+status = done
+------------------------------------------------------------------------
+
+* Case5: 05/31/2024 dict=MW, L=117746, hw=paridṛḍha, user=srhodes
+old = (cf. pāridṛḍha)
+new = (cf. pāridṛḍhi)
+comment = Typo – Please note that this correction is a suggestion based on the following fact:  The word "pāridṛḍha" is nowhere to be found, however there is the word "pāridṛḍhi". Also this issue is related to the very next correction that I am about to submit. I hope that Jim will look into this.
+Jim: Previously changed (in batch?)
+status = done
+------------------------------------------------------------------------
+
+* Case4: 05/31/2024 dict=MW, L=58417.1, hw=kroñc, user=srhodes
+old = Hierarchy Error - the Indentation in the Hierarchy List is an error. The word "kroñc" should not be indented beneath the word "kraivya".
+new = Remove the indentation of this Headword in the Hierarchical column listing.
+comment = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+Jim: no change
+status = duplicate of Case 3
+------------------------------------------------------------------------
+
+* Case3: 05/31/2024 dict=MW, L=58417.1, hw=kroñc, user=srhodes
+old = Hierarchy Error - the Indentation in the Hierarchy List is an error. The word "kroñc" should not be indented beneath the word "kraivya".
+new = Remove the indentation of this Headword in the Hierarchical column listing.
+comment = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+Jim: no change.  This supplement (addition) is set at H2 (non-deva headword,
+  and not a compound.
+status = done
+------------------------------------------------------------------------
+
+* Case2: 05/30/2024 dict=MW, L=15520.1, hw=arūpa, user=srhodes
+old = emancipation (= nirvāṇa)
+new = n. emancipation (= nirvāṇa)
+comment = Typo – I am suggesting this correction for consideration on the strength of the fact that the word "emancipation" is a noun and not an adjective. Also in the sense being given, the word "nirvāṇa" itself is in the neuter gender. We cannot except the definition of "emancipation" as being in the feminine gender, this leaves only the masculine or neuter. And when genders are "unspecified", the general rule is "neuter".
+Jim: No gender added. It could be m. or n.
+;Slight change in markup:
+old:
+<L>15520.1<pc>1316,1<k1>arUpa<k2>a-rUpa<e>1A
+¦ emancipation (= <s>nirvARa</s>), <ls>MWB. 137</ls><info n="sup"/>
+new:
+<L>15520.1<pc>1316,1<k1>arUpa<k2>a-rUpa<e>1B
+<s>a-rUpa</s> ¦ (also) emancipation (= <s>nirvARa</s>), <ls>MWB. 137</ls><info n="sup"/>
+status = done
+------------------------------------------------------------------------
+

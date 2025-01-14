@@ -1,0 +1,90 @@
+TODO: IAST errors  'sh'  (or 'SH')  About 9000 instances.
+  Many are English words that do not need changing.
+  VISHṆU  -> VISHṆU
+-----
+'shew' -> 'show' Acc. to Bing, 'shew' is old-fashioned spelling of 'show' ~ 50
+-----
+Scott suggests 'mf.' -> 'm. f.', similar for 'nf.' and 'mn.'
+Jim:  Or '<lex>m.</lex>' '<lex>f.</lex>'
+  But then we would need to add 'shsab' file, to show tooltips.
+------------------------------------------------------------------------
+Case 115: 06/18/2024 dict=SHS, L=13523, hw=girija, user=srhodes
+old = see rāmnā
+new = see rāsnā
+comment = Typo – I believe that this correction follows the printed text for one with a discerning eye.
+Jim: no change.  There is no word rāmnā. There IS shs headword rāsnā.
+status = done
+------------------------------------------------------------------------
+
+Case 112: 06/17/2024 dict=SHS, L=42012, hw=sañcalana, user=srhodes
+old = nf.
+new = n.f.
+comment = Typo – Please note that this is a suggested "print change." If you like this correction, then you may execute a "Global Search and Replace" for all such instances. Also you may consider a Global Correction to "mn."  transformed into "m.n." ;  "mf."  transformed into "m.f." (And this could be applied across the board to All Online Dictionaries).
+Jim: no change (at least for now). Since 'nf.' and 'mf.' are as printed in SHS
+status = done
+------------------------------------------------------------------------
+
+Case 100: 06/14/2024 dict=SHS, L=5358, hw=ādeṣṭṛ, user=srhodes
+old = advicer
+new = adviser
+Jim: 2 instances changed
+status = done
+------------------------------------------------------------------------
+
+Case 99: 06/14/2024 dict=SHS, L=21600, hw=nigama, user=srhodes
+old = Holywrit
+new = Holy Writ
+comment = Typo – I believe that this is more correctly written as two words.
+Jim: 4 instances of 'holy writ'.  Changing to 'Holy writ'
+status = done
+------------------------------------------------------------------------
+
+Case 98: 06/14/2024 dict=SHS, L=28989, hw=bhaktiyoga, user=srhodes
+old = shewn
+new = shown
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+Case 93: 06/12/2024 dict=SHS, L=1082, hw=adhṛta, user=srhodes
+old = VISHṆU
+new = VIṢṆU
+comment = Typo – You may add this to your "to do list" for global corrections. Obviously it must be considered incorrect to spell a word with one diacritical mark while neglecting the other. Whether you decide to retain all capital letters is your choice.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+Case 87: 06/11/2024 dict=SHS, L=38167, hw=vṛt, user=srhodes
+old = Todivide.
+new = To divide.
+comment = Typo – Please note that this correction is located at the third definition of the 4th class root.
+Jim: 
+status = done
+------------------------------------------------------------------------
+
+Case 19: 06/04/2024 dict=SHS, L=23436, hw=parāśraya, user=srhodes
+old = Dependance
+new = Dependence
+comment = Typo – This correction represents the correct spelling (at least in my part of the world).
+Jim: changed this and 5 others. Not bothering to check and document print changes.
+     Also changed 'dependance' to 'dependence' (19)
+     Not bothering to check and document print changes.
+
+status = done
+------------------------------------------------------------------------
+
+Case 12: 06/01/2024 dict=SHS, L=1646, hw=anuvṛtti, user=srhodes
+old = competing
+new = completing
+Jim: 
+status = done print change
+------------------------------------------------------------------------
+
+Case 1: 05/30/2024 dict=SHS, L=3209, hw=arūpa, user=srhodes
+old = Ugly. ill formed, mishapen.
+new = Ugly, ill formed, misshapen.
+comment = Typo – Please note that this is a printing error. The word "mishapen" is formed from the prefix "mis" and the word "shapen"; there is no rule allowing the elision of the letter 's' and therefore it must remain doubled.
+Jim: 
+status = done print change
+------------------------------------------------------------------------
+
