@@ -1,0 +1,2318 @@
+Case 367: 03/30/2024 dict=MW, L=243960, hw=siṃhalā, user=srhodes
+old = (See sthāna)
+new = (see -sthāna)
+comment = Typo - The "hyphen" is needed, according to the printed text.
+status = x
+------------------------------------------------------------------------
+
+Case 366: 03/30/2024 dict=MW, L=243960, hw=siṃhalā, user=srhodes
+old = (See sthāna)
+new = (see -sthāna)
+comment = Typo - The "hyphen" is needed, according to the printed text.
+status = duplicate
+------------------------------------------------------------------------
+
+Case 364: 03/30/2024 dict=MW, L=254586, hw=stāmu, user=srhodes
+old = fr. √stan cf. stavat)
+new = fr. √stan, cf. stavat)
+comment = Typo - The "comma" added here for clarity follows the printed text.
+status = x
+------------------------------------------------------------------------
+
+Case 363: 03/30/2024 dict=MW, L=254585, hw=stāman, user=srhodes
+old = w.r. for srāman accord. to others
+new = w.r. for srāman, accord. to others
+comment = Typo - The "comma" added here for clarity follows the printed text.
+status = x
+------------------------------------------------------------------------
+
+Case 362: 03/30/2024 dict=MW, L=254262, hw=skṛt, user=srhodes
+old = kosa-skṛt
+new = kośa-skṛt
+comment = Typo - Please note that this is a printing error which can be verified by searching for the corrected word "kośaskṛt" in MW dictionary. If you search for "kosaskṛt" you will not find such a word listed.
+Jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 361: 03/30/2024 dict=MW, L=251982, hw=sṛñjarī, user=srhodes
+old = gee preceding
+new = See preceding
+status = x
+------------------------------------------------------------------------
+
+Case 360: 03/30/2024 dict=MW, L=186514, hw=vayiyu, user=srhodes
+old = fr. √vai
+new = fr. √ve
+comment = Typo - Please note that this is Typo #2 from the same Headword listing.
+status = x
+------------------------------------------------------------------------
+
+Case 359: 03/30/2024 dict=MW, L=186514, hw=vayiyu, user=srhodes
+old = = vāyas-vat
+new = = vayas-vat
+Jim: va/yas-vat  (accent)
+status = x
+------------------------------------------------------------------------
+
+Case 357: 03/29/2024 dict=MW, L=245220, hw=sīllana, user=srhodes
+old = śilhama
+new = śilhana
+status = x 
+------------------------------------------------------------------------
+
+Case 356: 03/29/2024 dict=MW, L=228691, hw=saṃgrām, user=srhodes
+old = saṃ-√grām
+new = saṃgrām
+comment = Typo – Please note that this correction follows the printed text. If you prefer you may also choose "√saṃgrām", howeve this departs from the printed text. But certainly "saṃ-√grām" is incorrect. I hope that Jim will have at this.
+Jim: agree saṃ-√grām Wrong since 'grAm' is not a root.
+status = x
+------------------------------------------------------------------------
+
+Case 355: 03/29/2024 dict=MW, L=133375, hw=pratisaṃkhyānirodha, user=srhodes
+old = (cf. a-pr°ati-n°irodha)
+new = (cf. a-pr°-n°)
+comment = Typo - Please note that the online listing here is WRONG. The correction suggested here exactly matches the printed text. However due to the length of this compound word, I suggest "spelling it out" clearly as follows: (cf. apratisaṃkhyānirodha). I hope that Jim will make the final decision in this matter.
+Jim: Used "(cf. a-pr°-n°)" - "print is king" is my thought
+status = x
+------------------------------------------------------------------------
+
+Case 354: 03/28/2024 dict=MW, L=250954, hw=sūkṣmaparṇā, user=srhodes
+old = = -saṇapuṣpī)
+new = = śaṇapuṣpī)
+comment = Typo - Please note that there is definitely NO "hyphen". I also suspect a printing error based upon the fact that the corrected word suggested here is listed in MW dictionary. Whereas the printed word "saṇapuṣpī" is nowhere to be found. I hope that Jim will confirm this correction, as I trust no one else in this matter.
+Jim: print change.
+status = x
+------------------------------------------------------------------------
+
+Case 353: 03/28/2024 dict=MW, L=256075 , hw=sthūlapiṇḍa, user=srhodes
+old = (See sthaula-piṇḍī)
+new = (see sthaula-piṇḍi)
+status = x
+------------------------------------------------------------------------
+
+Case 352: 03/28/2024 dict=MW, L=161931, hw=mākṣikadhātu, user=srhodes
+old = (also °kaḥdhātuḥ)
+new = (also °kaḥ dhātuḥ)
+comment = Typo - I hope that Jim will have a look at this. I believe that the option offered here consists of two words.
+Jim: agree
+status = x
+------------------------------------------------------------------------
+
+Case 351: 03/28/2024 dict=MW, L=163528 , hw=mārjālīya, user=srhodes
+old = Vedi 09 which
+new = Vedi on which
+Jim: how did 09 get there!
+status = x
+------------------------------------------------------------------------
+
+Case 350: 03/28/2024 dict=MW, L=162998, hw=mānuṣaka, user=srhodes
+old = See laiva-m°.
+new = See daiva-m°.
+status = x
+------------------------------------------------------------------------
+
+Case 349: 03/28/2024 dict=MW, L=162901, hw=mānavapurāṇa, user=srhodes
+old = N. of an Upapurāṇa .
+new = N. of an Upapurāṇa.
+comment = Typo - Also please note that printed text shows the word "Upapurāṇa" as being in the same type of printing as a standard definition. Therefore, the word "Upapurāṇa" should not be displayed differently as it currently is in the online version (with all capital letters and a change of font).
+Jim:  No change.  markup <ls>Upapurāṇa</ls> is used for references to the list of works in
+  mw99. See https://sanskrit-lexicon.uni-koeln.de/scans/MWScan/index.php?sfx=pdf.
+  This markup seems appropriate (and generates tooltip).  The css (styling) could be done
+  differently -- but this 'blue color, all caps' is what cdsl has chosen.
+OLD: 
+status = x
+------------------------------------------------------------------------
+
+Case 348: 03/28/2024 dict=MW, L=162889 , hw=mānava, user=srhodes
+old = v.l. tānsasī
+new = v.l. tāmasī
+status = x
+------------------------------------------------------------------------
+
+Case 347: 03/28/2024 dict=MW, L=162921, hw=mānavya, user=srhodes
+old = w.r. for māṇvya
+new = w.r. for māṇavya
+status = x
+------------------------------------------------------------------------
+
+Case 346: 03/28/2024 dict=MW, L=162053, hw=māṭha, user=srhodes
+old = See suggestion below
+new = Please note that since you have listed TWO HEADWORDS: "māṭha" AND "māṭhya" as separate listings in the Hierarchy; therefore you may choose to eliminate the DOUBLE mentioning of "māṭha or māṭhya" under both Headwords since the two Headwords listed cover each of the two options.
+comment = See suggestion above
+Jim: no change: For the many 'grouped' headwords, we (Andhrabharati and me) think it is better to
+    present the same text for both, thus agreeing with the print. One advantage is that
+    a user sees Monier's alternates in a display, no matter which word is searched for.
+status = x
+------------------------------------------------------------------------
+
+Case 345: 03/28/2024 dict=MW, L=162052.1, hw=māṭīyāri, user=srhodes
+old = māṭiyāri or māṭījāri
+new = māṭiyāri or māṭīyāri
+comment = Typo - Please note that since you have listed TWO HEADWORDS: "māṭiyāri" AND "māṭīyāri" as separate listings in the Hierarchy. Therefore you may choose to eliminate the DOUBLE mentioning of "māṭiyāri or māṭīyāri" under both Headwords since the two Headwords listed cover each of the two options.
+Jim: changed 'j' to 'y'.  As to the 'DOUBLE mentioning', see comment under Case 346.
+status = x
+------------------------------------------------------------------------
+
+Case 344: 03/28/2024 dict=MW, L=162052, hw=māṭiyāri, user=srhodes
+old = māṭiyāri or māṭījāri
+new = māṭiyāri or māṭīyāri
+comment = Typo - Please note that since you have listed TWO HEADWORDS: "māṭiyāri" AND "māṭīyāri" as separate listings in the Hierarchy. Therefore you may choose to eliminate the DOUBLE mentioning of "māṭiyāri or māṭīyāri" under both Headwords since the two Headwords listed cover each of the two options.
+Jim: changed 'j' to 'y'.  As to the 'DOUBLE mentioning', see comment under Case 346.
+
+status = x
+------------------------------------------------------------------------
+
+Case 343: 03/27/2024 dict=MW, L=15635, hw=arkalūṣa, user=srhodes
+old = (g. karnādi and vid-adi
+new = (g. karṇādi and vid-ādi
+comment = Typo – Please note that this supersedes the previous correction.
+status = x
+------------------------------------------------------------------------
+
+Case 342: 03/27/2024 dict=MW, L=15635, hw=arkalūṣa, user=srhodes
+old = vid-adi
+new = vid-ādi
+status = x see case 343.
+------------------------------------------------------------------------
+
+Case 341: 03/27/2024 dict=MW, L=15624.1, hw=arkaprakāśa, user=srhodes
+old = (cf. -cikitā above),
+new = (cf. -cikitsā above);
+comment = Typo – Please add the "semicolon" as in the printed text. I am a perfectionist.
+Jim: though we are all imperfect, we like perfectionistas.
+status = x
+------------------------------------------------------------------------
+
+Case 340: 03/27/2024 dict=MW, L=15624.1, hw=arkaprakāśa, user=srhodes
+old = cf. -cikitā
+new = cf. -cikitsā
+status = x
+------------------------------------------------------------------------
+
+Case 339: 03/27/2024 dict=MW, L=209175, hw=vyavahāramātṛkā, user=srhodes
+old = 10. pratyarthiny āgatelekhyādi-kartavyatā
+new = 10. pratyarthiny āgate lekhyādi-kartavyatā
+comment = Typo - I would even prefer "pratyarthinyāgate" without a space, but that is up to you.
+Jim: will go with the spaces (as in 'new').
+status = x
+------------------------------------------------------------------------
+
+Case 336: 03/27/2024 dict=MW, L=166606.1, hw=mūsariḥpha, user=srhodes
+old = Missing Word
+new = In my opinion the word "mūsarīpha" should be a "searchable word" and therefore listed in the Hierarchy of words rather than just "buried" with the word "mūsariḥpha" as is currently done.
+comment = Missing Word
+Jim: Agree. Metaline correction
+OLD: <L>166606.1<pc>827,2<k1>mUsariHPa<k2>mUsariHPa<e>1
+NEW: <L>166606.1<pc>827,2<k1>mUsarIPa<k2>mUsarIPa<e>1
+status = x
+------------------------------------------------------------------------
+
+Case 335: 03/27/2024 dict=MW, L=166554, hw=mūṣavāhana, user=srhodes
+old = N. of Gaṇeśa a, L.
+new = N. of Gaṇeśa, L.
+status = x
+------------------------------------------------------------------------
+
+Case 334: 03/26/2024 dict=MW, L=168548 , hw=moraṭa, user=srhodes
+old = moraṭa n.
+new = (also n.)
+comment = Typo – Please note that the ruling gender here is still "masculine". The "neuter" gender is offered as an "option" so to speak.
+status = x
+------------------------------------------------------------------------
+
+Case 333: 03/26/2024 dict=MW, L=73836, hw=citrayāma, user=srhodes
+old = = dhrajati
+new = = -dhrajati
+comment = Typo – I prefer this correction for the following reason. When you look up the word "dhrajati" in MW dictionary, the definition is as follows, "see citradhrajati". So MW dictionary is ultimately referring you to the word "citradhrajati", why bother pointing to "dhrajati" which is only an intermediary step to the final definition.
+Jim: no change. Agree MW '=' reference to Drajati here is odd. I don't think '-Drajati' reduces
+    the oddness.  If you ever construct a 'revised MW dictionary', you can clarify this.
+status = x
+------------------------------------------------------------------------
+
+Case 332: 03/26/2024 dict=MW, L=119886, hw=paryupasthita, user=srhodes
+old = impending, it.
+new = impending, IB.
+comment = Typo - Please note that this is definitely NOT the word, "it". The printed text is likely "ib.", but you may prefer "IB." (as you have done in ID =119888).
+Jim: <ls>ib.</ls>
+status = x
+------------------------------------------------------------------------
+
+Case 331: 03/26/2024 dict=MW, L=207688, hw=vailastha, user=srhodes
+old = makā-vaila-stha
+new = mahā-vaila-stha
+comment = Typo – Please note that the printing is slightly unclear; however, this correction can be confirmed by looking up the corrected word, "mahāvailastha"
+status = x
+------------------------------------------------------------------------
+
+Case 330: 03/25/2024 dict=MW, L=166411, hw=mūlabhāra, user=srhodes
+old = vaṃsādi
+new = vaṉsādi
+comment = Typo – This correction follows the printed text. However I am unsure if this notational difference is important. Please let me know for my own edification. Thank you.
+Jim: no change: Each dictionary has its own variant of representing Sanskrit with latin alphabet plus diacritics; We have aimed to use a 'standard iast' in the cdsl. see comment under case 658 (batch 1) Also the comment on IAST under batch2.
+status = x
+------------------------------------------------------------------------
+
+Case 329: 03/25/2024 dict=MW, L=166411, hw=mūlabhāra, user=srhodes
+old = vaṃsādi
+new = vaṉsādi
+comment = Typo – This correction follows the printed text. However I am unsure if this notational difference is important. Please let me know for my own edification. Thank you.
+status = x duplicate
+------------------------------------------------------------------------
+
+Case 328: 03/25/2024 dict=MW, L=166388, hw=mūlapāka, user=srhodes
+old = nyaṅku-ādi
+new = nyaṅkv-ādi
+status = x
+------------------------------------------------------------------------
+
+Case 327: 03/25/2024 dict=MW, L=73802, hw=citraphalā, user=srhodes
+old = kaṇṭakāri
+new = kaṇṭakārī
+status = x
+------------------------------------------------------------------------
+
+Case 326: 03/25/2024 dict=MW, L=123793 , hw=piṇḍatarkaka, user=srhodes
+old = piṇḍidaka
+new = piṇḍodaka
+status = x
+------------------------------------------------------------------------
+
+Case 325: 03/25/2024 dict=MW, L=119910, hw=paryulūkhalam, user=srhodes
+old = g. -parimukhādi
+new = g. parimukhādi
+comment = Typo - The initial "hyphen" is an error in the printed text.
+Jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 324: 03/25/2024 dict=MW, L=130036, hw=prakṛti, user=srhodes
+old = Questionable Words
+new = I hope that Jim will look into these two words which are listed here but not to be found elsewhere:  "pārṣṇigrāhāsāra"  and  "ākrandāsāsa"
+Jim: "sAsa" -> "sAra" ("pārṣṇigrāhāsāra"  and  "ākrandāsāra" mentioned in mw72 and pwg under prakṛti/ -
+   Neither word appears as headword in any of the cdsl dictionaries.
+comment = Questionable Words
+status = x
+------------------------------------------------------------------------
+
+Case 323: 03/25/2024 dict=MW, L=130036, hw=prakṛti, user=srhodes
+old = pārṣṇi-graha
+new = pārṣṇi-grāha
+status = x
+------------------------------------------------------------------------
+
+Case 322: 03/25/2024 dict=MW, L=2930, hw=atikramaṇīya, user=srhodes
+old = an-atikramaṇiya
+new = an-atikramaṇīya
+status = x
+------------------------------------------------------------------------
+
+Case 321: 03/24/2024 dict=MW, L=12636, hw=abhiṣṭi, user=srhodes
+old = (abhi-ṣṭis)
+new = (abhi-ṣṭi)
+comment = Typo - Here I am wondering if the uninflected word should be "abhiṣṭi" f., ending in the letter "i" ?  OR does this uninflected word actually end in the letter "s" ?  The declension of course will be different depending upon the crude base form. Please clarify this for me. I believe that sometimes MW prints the nominative singular form of words in the feminine gender for clarity. But in this case it is not clear to me what is intended.
+jim: no change.  I think MW is printing the full nom. singular here.
+ He often just prints <s>is</s>.
+status = x
+------------------------------------------------------------------------
+
+Case 320: 03/24/2024 dict=MW, L=153906.1 , hw=maka, user=srhodes
+old = m. m.
+new = m.
+status = x
+------------------------------------------------------------------------
+
+Case 319: 03/23/2024 dict=MW, L=168135 , hw=maitra, user=srhodes
+old = out-caste
+new = outcaste
+comment = Typo - The "hyphen" is not needed and seems to be incorrect according to current standards.
+Jim: No change.  I find 25 instances of 'out-caste' in mw.  It is difficult to determine
+   when spellings should be changed to conform to 'current standards'; also British or American
+   current standards? I have occasionaly
+   done this (e.g. with English dipthongs in Apte Eng-San dictionary); it would be
+   better to have some theory to guide such changes. 
+status = x
+------------------------------------------------------------------------
+
+Case 318: 03/23/2024 dict=MW, L=89690, hw=daṇḍavaladhi, user=srhodes
+old = daṇḍavaladhi
+new = daṇḍavāladhi
+comment = Typo - Headword Typo (worth 1000 points)
+status = x
+------------------------------------------------------------------------
+
+Case 317: 03/23/2024 dict=MW, L=210597, hw=vratadhara, user=srhodes
+old = daiṇḍa-
+new = daṇḍa-
+status = x
+------------------------------------------------------------------------
+
+Case 316: 03/23/2024 dict=MW, L=164574.5 , hw=misi, user=srhodes
+old = REPETITION ERROR
+new = Delete the following repetition:  "= uśīrī (cf. miśi). [ID=164574.5]"  OR  you may keep this and Delete the identical listing directly above as:  "= uśīrī (cf. miśi). [ID=164574]"
+comment = REPETITION ERROR
+Jim: Deleted in 164574.
+status = x
+------------------------------------------------------------------------
+
+Case 315: 03/23/2024 dict=MW, L=154023, hw=makṣu, user=srhodes
+old = pl. makṣubhīḥ
+new = pl. makṣubhiḥ
+status = x
+------------------------------------------------------------------------
+
+Case 314: 03/23/2024 dict=MW, L=161921, hw=mākī, user=srhodes
+old = bhūtajatasya
+new = bhūtajātasya
+status = x
+------------------------------------------------------------------------
+
+Case 313: 03/23/2024 dict=MW, L=154011, hw=makkula, user=srhodes
+old = (= silā-jatu)
+new = (= śilā-jatu)
+status = x
+------------------------------------------------------------------------
+
+Case 312: 03/23/2024 dict=MW, L=166683, hw=mṛtāśana, user=srhodes
+old = (cf. mṛśa-bhraj)
+new = (cf. mṛta-bhraj)
+status = x
+------------------------------------------------------------------------
+
+Case 311: 03/23/2024 dict=MW, L=158404, hw=marūndha, user=srhodes
+old = (v.l. marudha
+new = (v.l. marundha
+status = x
+------------------------------------------------------------------------
+
+Case 310: 03/23/2024 dict=MW, L=163545, hw=mārṇāla, user=srhodes
+old = being or
+new = being on
+status = x
+------------------------------------------------------------------------
+
+Case 309: 03/23/2024 dict=MW, L=163543, hw=mārḍīka, user=srhodes
+old = (fr. mṛḍika)
+new = (fr. mṛḍīka)
+status = x
+------------------------------------------------------------------------
+
+Case 307: 03/22/2024 dict=MW, L=164805, hw=mukurita, user=srhodes
+old = g. -tārakādi
+new = g. tārakādi
+Jim: print change.  AFAIK, there is no reason for the initial '-' in a gaRa.
+status = x
+------------------------------------------------------------------------
+
+Case 306: 03/22/2024 dict=MW, L=168785, hw=maurajika, user=srhodes
+old = drumbeater
+new = drum-beater
+Jim: no change. 'drumbeater' is found in merriam-webster
+status = x
+------------------------------------------------------------------------
+
+Case 305: 03/22/2024 dict=MW, L=165744, hw=muralīdhara, user=srhodes
+old = flutebearer
+new = flute-bearer
+status = x
+------------------------------------------------------------------------
+
+Case 304: 03/22/2024 dict=MW, L=165746, hw=muralīprakāśa, user=srhodes
+old = fluteplaying
+new = flute-playing
+status = x
+------------------------------------------------------------------------
+
+Case 303: 03/22/2024 dict=MW, L=155222, hw=mathāta, user=srhodes
+old = See māthāta
+new = See māthātha
+comment = Typo – There is a serious discrepancy here and I hope that Jim will look into it. The word "māthāta" is nowhere to be found. However MW lists the word "māthātha". So I am wondering what in fact is correct? And even the word "mathāta" itself may be questionable.
+Jim: print change:
+OLD: See <s>mATAta</s>
+NEW: See <s>mamATa</s>
+PWG has 'Vgl. mamATa' under maTAta, and mw72 mentions maTAta under mamATa
+   
+status = x
+------------------------------------------------------------------------
+
+Case 302: 03/22/2024 dict=MW, L=162079, hw=māḍhi, user=srhodes
+old = (also maḍhī)
+new = (also māḍhī)
+status = x
+------------------------------------------------------------------------
+
+Case 301: 03/22/2024 dict=MW, L=162071, hw=māḍa, user=srhodes
+old = maḍā-druma
+new = māḍā-druma
+status = x
+------------------------------------------------------------------------
+
+Case 300: 03/22/2024 dict=MW, L=154583, hw=maḍūṣikā, user=srhodes
+old = marṇḍūṣikā
+new = maṇḍūṣikā
+status = x
+------------------------------------------------------------------------
+START:
+Case 299: 03/22/2024 dict=MW, L=163833, hw=mālulatā, user=srhodes
+old = malu
+new = mālu
+status = x
+------------------------------------------------------------------------
+
+Case 297: 03/21/2024 dict=MW, L=163851, hw=māśabdika, user=srhodes
+old = See under 3. mā.
+new = See under 1. mā.
+comment = Typo - This is a strange printing error. It certainly is referring to the negative particle "mā" which is listed in MW as "1. mā"
+Jim: print change.
+status = x
+------------------------------------------------------------------------
+
+Case 296: 03/21/2024 dict=MW, L=163044, hw=māndhilava, user=srhodes
+old = māndhilava
+new = māndhīlava
+comment = Typo – Headword Typo! (worth 1000 points)
+status = z
+------------------------------------------------------------------------
+
+Case 294: 03/21/2024 dict=MW, L=176837, hw=rājan, user=srhodes
+old = (rājñām indra-mahotsavaḥ and -rājñām pratibodhaḥ N. of works.) ;
+new = (rājñām indra-mahotsavaḥ and rājñām pratibodhaḥ, N. of wks.) ;
+comment = Typo - Removing the "hyphen" and adding the "comma" are essential corrections. I also prefer to follow the printed text as regards the abbreviated word "wks."
+status = x
+------------------------------------------------------------------------
+
+Case 293: 03/21/2024 dict=MW, L=168304, hw=mo, user=srhodes
+old = (See under 3. mā). 
+new = (see under 1. mā). 
+comment = Typo – This word "mo" is clearly explained under "1. mā" which is an indeclinable word. "3. mā" is a verbal root. Therefore this is an indisputable printing error which should be rectified.
+Jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 292: 03/21/2024 dict=MW, L=168304, hw=mo, user=srhodes
+old = (See under 3. mā). 
+new = (see under 1. mā). 
+comment = Typo – This word "mo" is clearly explained under "1. mā" which is an indeclinable word. "3. mā" is a verbal root. Therefore this is an indisputable printing error which should be rectified.
+status = duplicate
+------------------------------------------------------------------------
+
+Case 291: 03/21/2024 dict=MW, L=168304, hw=mo, user=srhodes
+old = (See under 3. mā). 
+new = (see under 1. mā). 
+comment = Typo – This word "mo" is clearly explained under "1. mā" which is an indeclinable word. "3. mā" is a verbal root. Therefore this is an indisputable printing error which should be rectified.
+status = duplicate
+------------------------------------------------------------------------
+
+Case 290: 03/21/2024 dict=MW, L=167960, hw=mena, user=srhodes
+old = Vṛṣan-aśva
+new = Vṛṣaṇ-aśva
+status = x
+------------------------------------------------------------------------
+
+Case 289: 03/21/2024 dict=MW, L=154335 , hw=maṅguṣa, user=srhodes
+old = N. of a man g. kurvādi
+new = N. of a man, g. kurvādi
+status = x
+------------------------------------------------------------------------
+
+Case 288: 03/21/2024 dict=MW, L=168721 , hw=mauṇḍinikāya, user=srhodes
+old = a proper N. Pāṇ. vi, 2, 94
+new = a proper N., Pāṇ. vi, 2, 94
+comment = Typo - Please add the "comma"
+status = x
+------------------------------------------------------------------------
+
+Case 287: 03/21/2024 dict=MW, L=91966, hw=dāsībhū, user=srhodes
+old = Hierarchy Error - the Indentation here is an error.
+new = Please note that the both words "dāsīkṛ" and "dāsībhū" share equal status after the initial form "1. Dāsī"  In the printed text "1. Dāsī" is listed  followed by a "hyphen" and then both "kṛ" and "bhū" are "hyphenated forms" that share equal status. The word "dāsībhū" should NOT be indented in the Alphabetical Hierarchy of words relative to the word "dāsīkṛ". You might consider independently listing "1. Dāsī" as an independent Headword and then listing "dāsīkṛ" and "dāsībhū" as the two relevant forms indicated by equal indentation under "1. Dāsī".
+comment = Hierarchy Error - the Indentation here is an error.
+status = x
+------------------------------------------------------------------------
+
+Case 286: 03/20/2024 dict=MW, L=128942, hw=peṇ, user=srhodes
+old = Layout Error
+new = The three definitions listed here should NOT be listed on three separate lines. The semicolon serves as sufficient 'punctuation' between each definition. Also please note that this correction matches the printed text.
+Jim: no change. The separate lines are due to markup '<div n="to"/>'. This markup occurs
+  11347 times currently in mw.txt. Removal of this markup (with appropriate attention to ';')
+  could be done systematically, not only to this. I don't think it should be done just for
+  this entry.
+comment = Layout Error
+status = x
+------------------------------------------------------------------------
+
+Case 285: 03/20/2024 dict=MW, L=129115, hw=paiṇ, user=srhodes
+old = Layout Error
+new = The three definitions listed here should NOT be listed on three separate lines. The semicolon serves as sufficient 'punctuation' between each definition. Also please note that this correction matches the printed text.
+comment = Layout Error
+Jim: no change. See comment at case 286.
+status = x
+------------------------------------------------------------------------
+
+Case 284: 03/20/2024 dict=MW, L=183225, hw=laiṇ, user=srhodes
+old = Layout Error
+new = The three definitions listed here should NOT be listed on three separate lines. The semicolon serves as sufficient 'punctuation' between each definition. Also please note that this correction matches the printed text.
+comment = Layout Error
+Jim: no change. See comment at case 286.
+status = x
+------------------------------------------------------------------------
+
+Case 283: 03/20/2024 dict=MW, L=168686, hw=maugdha, user=srhodes
+old = Headword Missing
+new = The Headword "maugdhya" is missing as a "searchable word" from MW dictionary online. This is a serious mistake worth at least 1000 points. In fact, it is possible that the word "maugdha" is a grammatically incorrect form, while "maugdhya" is in fact the correct form. In any case we need to add the word "maugdhya" beneath the word "maugdha" in the Alphabetical Hierarchy of listed words. I hope that Jim will have a look into this, as I trust no one else in this matter. Feel free to discuss on Github and have a great day.
+comment = Headword Missing
+Jim: rewrite of 168686 and 168686.1
+OLD:
+<L>168686<pc>836,2<k1>mOgDa<k2>mOgDa<e>1
+<s>mOgDa</s> ¦ <lex>n.</lex> (<ab>w.r.</ab> <ls>Sāh.</ls>; <ls>Uttarar.</ls>) or <s>mOgDya</s> (<ls>ib.</ls>; <ls>Kathās.</ls> &c.) (<ab>fr.</ab> <s>mugDa</s>), simplicity, innocence, inexperience, a feminine grace (asking a lover to tell what is already known)<info lex="n"/>
+<LEND>
+<L>168686.1<pc>836,2<k1>mOgDa<k2>mOgDa<e>1A
+¦ charm, beauty, <ls>MW.</ls><info lex="inh"/>
+<LEND>
+NEW:
+<L>168686<pc>836,2<k1>mOgDa<k2>mOgDa<e>1
+<s>mOgDa</s> (<ab>w.r.</ab> <ls>Sāh.</ls>; <ls>Uttarar.</ls>) or <s>mOgDya</s> (<ls>ib.</ls>; <ls>Kathās.</ls> &c.), ¦ <lex>n.</lex> (<ab>fr.</ab> <s>mugDa</s>), simplicity, innocence, inexperience, a feminine grace (asking a lover to tell what is already known); charm, beauty, <ls>MW.</ls><info or="168686,mOgDa;168686.1,mOgDya"/><info lex="n"/>
+<LEND>
+<L>168686.1<pc>836,2<k1>mOgDya<k2>mOgDya<e>1
+<s>mOgDa</s> (<ab>w.r.</ab> <ls>Sāh.</ls>; <ls>Uttarar.</ls>) or <s>mOgDya</s> (<ls>ib.</ls>; <ls>Kathās.</ls> &c.), ¦ <lex>n.</lex> (<ab>fr.</ab> <s>mugDa</s>), simplicity, innocence, inexperience, a feminine grace (asking a lover to tell what is already known); charm, beauty, <ls>MW.</ls><info or="168686,mOgDa;168686.1,mOgDya"/><info lex="n"/>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 280: 03/20/2024 dict=MW, L=154544, hw=maṭa, user=srhodes
+old = Kuṭi
+new = Kuṭī
+status = x
+------------------------------------------------------------------------
+
+Case 279: 03/20/2024 dict=MW, L=99243, hw=dhaṭa, user=srhodes
+old = fr. √dhri
+new = fr. √dhṛ
+status = x
+------------------------------------------------------------------------
+
+Case 278: 03/20/2024 dict=MW, L=149777, hw=bhāḍita, user=srhodes
+old = relating, to Bhāḍitya g. kaṇvādi.
+new = relating to Bhāḍitya, g. kaṇvādi.
+status = x
+------------------------------------------------------------------------
+
+Case 277: 03/19/2024 dict=MW, L=253693, hw=saumaṅgala, user=srhodes
+old = (fr. su-maṅgola)
+new = (fr. su-maṅgala)
+status = x
+------------------------------------------------------------------------
+
+Case 276: 03/19/2024 dict=MW, L=122889, hw=pārthagarthya, user=srhodes
+old = (fr. prithag-artha)
+new = (fr. pṛthag-artha)
+status = x
+------------------------------------------------------------------------
+
+Case 275: 03/19/2024 dict=MW, L=120354, hw=pava, user=srhodes
+old = cow-dung
+new = n. cow-dung
+comment = Typo – It is important to include this definition under the "neuter gender." (This correction is worth 100 points, you know I am just having fun).
+status = x
+------------------------------------------------------------------------
+
+Case 272: 03/18/2024 dict=MW, L=235301.1, hw=samudravastra, user=srhodes
+old = (= vasana)
+new = (= -vasana)
+comment = Typo – This must be a printing error because the "equality" being referenced here is to the compound word "samudravasana" and NOT to merely the word "vasana" itself.
+Jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 271: 03/18/2024 dict=MW, L=235300, hw=samudravasana, user=srhodes
+old = seagirt
+new = sea-girt
+comment = Typo - Please note that it is always correct to hyphenate this word (even though in this case there is a line break in the printed text as well).
+status = x
+------------------------------------------------------------------------
+
+Case 269: 03/18/2024 dict=MW, L=51796 , hw=kuṇapa, user=srhodes
+old = (Maina or Salik cf. viṭ-sārikā)
+new = (Maina or Salik, cf. viṭ-sārikā)
+status = x
+------------------------------------------------------------------------
+
+Case 268: 03/18/2024 dict=MW, L=70883, hw=caṇ, user=srhodes
+old = acicaṇat
+new = acīcaṇat
+status = x
+------------------------------------------------------------------------
+
+Case 267: 03/18/2024 dict=MW, L=122797, hw=pāriṣeṇya, user=srhodes
+old = fr. pari-skeṇa
+new = fr. pari-ṣeṇa
+status = x
+------------------------------------------------------------------------
+
+Case 265: 03/17/2024 dict=MW, L=122844, hw=pāruṣṇa, user=srhodes
+old = (fr. paruṣṇī f. of °ruṣa)
+new = (fr. paruṣṇī, f. of °ruṣa)
+status = x
+------------------------------------------------------------------------
+
+Case 264: 03/17/2024 dict=MW, L=113532, hw=pajihaṭikā, user=srhodes
+old = pajihaṭikā
+new = pajjhaṭikā
+comment = Typo - Headword Typo! (worth 1000 points).
+status = x
+------------------------------------------------------------------------
+
+Case 263: 03/17/2024 dict=MW, L=115003, hw=patañcala, user=srhodes
+old = patr. kāpya
+new = patr. Kāpya
+Jim:
+OLD: <s>kApya</s>
+NEW: <s1 slp1="kApya">Kāpya</s1>
+status = x
+------------------------------------------------------------------------
+
+Case 262: 03/17/2024 dict=MW, L=123440, hw=pāṣṭhauha, user=srhodes
+old = (fr. paṣṭha-vāh)
+new = (fr. paṣṭha-vah)
+comment = Typo - This correction is a suggestion based upon the fact that the word as given is not found in MW dictionary. However my suggested correction is listed in MW dictionary. I hope that Jim will have a look into this.
+Jim: no change.
+ examined various dictionaries with
+ https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/sample/dalglob1.php, pazWa-vAh is mentioned under pAzWOha in mw72 and pwg.
+ This is too hard for me to untangle.  Leave it as printed.
+status = x
+------------------------------------------------------------------------
+
+Case 261: 03/17/2024 dict=MW, L=126639, hw=puroḍās, user=srhodes
+old = puro-ḍās °sa
+new = puro-ḍāś °śa
+comment = Typo - Headword Typo! (this is worth 1000 points).
+status = x
+------------------------------------------------------------------------
+
+Case 260: 03/17/2024 dict=MW, L=122798, hw=pārisāraka, user=srhodes
+old = pari-sāraka g. vimuktādi
+new = pari-sāraka, g. vimuktādi
+status = x
+------------------------------------------------------------------------
+
+Case 259: 03/17/2024 dict=MW, L=122797, hw=pāriṣeṇya, user=srhodes
+old = fr. pari-skeṇa
+new = fr. pari-ṣeṇa
+status = duplicate
+------------------------------------------------------------------------
+
+Case 258: 03/17/2024 dict=MW, L=122729, hw=pāripānthika, user=srhodes
+old = w.r. for panthika
+new = w.r. for -panthika
+status = x
+------------------------------------------------------------------------
+
+Case 257: 03/17/2024 dict=MW, L=122727 , hw=pāripātra, user=srhodes
+old = w.r. for. yātra
+new = w.r. for -yātra
+status = x
+------------------------------------------------------------------------
+
+Case 256: 03/17/2024 dict=MW, L=122727, hw=pāripātra, user=srhodes
+old = w.r. for. yātra
+new = w.r. for. -yātra
+jim: see 257 above
+status = x
+------------------------------------------------------------------------
+
+Case 255: 03/17/2024 dict=MW, L=122722 , hw=pāridṛḍhi, user=srhodes
+old = fr. pari-dṛḍhi
+new = fr. pari-dṛḍha
+comment = Typo - This correction is a suggestion based upon the fact that the word as given is nowhere to be found. However my suggested correction is listed in MW dictionary.
+Jim: no change. This is too hard for me to untangle. Just leave it as printed.
+
+status = x
+------------------------------------------------------------------------
+
+Case 254: 03/17/2024 dict=MW, L=117746, hw=paridṛḍha, user=srhodes
+old = (cf. pāridṛḍha)
+new = (cf. pāridṛḍhi)
+comment = Typo - This correction is a suggestion based upon the fact that the word as given is nowhere to be found. However my suggested correction is listed in MW dictionary.
+Jim: See comment at Case 255.
+status = x
+------------------------------------------------------------------------
+
+Case 253: 03/16/2024 dict=MW, L=90265.1, hw=damopeta, user=srhodes
+old = da—°mopeta
+new = da°mopeta
+comment = Typo – I prefer to follow the printed text. "da—" is misleading because this compound is from "dama + upeta" and splitting with "da—" just seems confusing as well as incorrect. Please note that this type of notation occurs many times throughout MW dictionary online. I strongly disagree with this notation. I have cited now several examples for your consideration. I hope that Jim has a look at this, because I trust his final decision.
+Jim: agree.
+status = x
+------------------------------------------------------------------------
+
+Case 252: 03/16/2024 dict=MW, L=90666.1, hw=darśanotsuka, user=srhodes
+old = darśa—°notsuka
+new = darśa°notsuka
+comment = Typo – I prefer to follow the printed text. "da—" is misleading because this compound is from "darśana + utsuka" and splitting with "darśa—" just seems confusing as well as incorrect.
+status = x
+------------------------------------------------------------------------
+
+Case 251: 03/16/2024 dict=MW, L=91029.1, hw=daśāvayava, user=srhodes
+old = da—°śāvayava
+new = da°śāvayava
+comment = Typo – I prefer to follow the printed text. "da—" is misleading because this compound is from "daśa + avayava" and splitting with "da—" just seems confusing as well as incorrect.
+status = x
+------------------------------------------------------------------------
+
+Case 250: 03/16/2024 dict=MW, L=91033.1, hw=daśāvasthā, user=srhodes
+old = da—°śāvasthā 
+new = da°śāvasthā 
+comment = Typo – I prefer to follow the printed text. "da—" is misleading because this compound is from "daśa + avasthā" and splitting with "da—" just seems confusing as well as incorrect.
+status = x
+------------------------------------------------------------------------
+
+Case 249: 03/16/2024 dict=MW, L=91033.1, hw=daśāvasthā, user=srhodes
+old = gnṇa-kathā
+new = guṇa-kathā
+status = x
+------------------------------------------------------------------------
+
+Case 248: 03/16/2024 dict=MW, L=91049.1, hw=daśottara, user=srhodes
+old = da—°śottara
+new = da°śottara
+comment = Typo – I prefer to follow the printed text. "da—" is misleading because this compound is from "daśa + uttara" and splitting with "da—" just seems confusing as well as incorrect.
+status = x
+------------------------------------------------------------------------
+
+Case 246: 03/16/2024 dict=MW, L=122787, hw=pāriśīla, user=srhodes
+old = L.  =
+new = L.
+status = x
+------------------------------------------------------------------------
+
+Case 245: 03/16/2024 dict=MW, L=122790, hw=pāriṣatka, user=srhodes
+old = = pariṣadam adkīte veda vā g. ukthādi.
+new = = pariṣadam adhīte veda vā, g. ukthādi.
+status = x
+------------------------------------------------------------------------
+
+Case 243: 03/15/2024 dict=MW, L=2251.1, hw=añc, user=srhodes
+old = akudhryāñc
+new = akudhryañc
+status = x
+------------------------------------------------------------------------
+
+Case 241: 03/15/2024 dict=MW, L=123075 , hw=pārṣaki, user=srhodes
+old = patr. Pravar.
+new = patr., Pravar.
+status = x
+------------------------------------------------------------------------
+
+Case 240: 03/15/2024 dict=MW, L=123076, hw=pārṣata, user=srhodes
+old = (fr. priṣata)
+new = (fr. pṛṣata)
+status = x
+------------------------------------------------------------------------
+
+Case 239: 03/15/2024 dict=MW, L=124372, hw=pippalādi, user=srhodes
+old = (v.l. papp°)
+new = (v.l. paipp°)
+status = x
+------------------------------------------------------------------------
+
+Case 238: 03/15/2024 dict=MW, L=124343, hw=pippakā, user=srhodes
+old = (cf. pippīka)
+new = (cf. pippīkā)
+comment = Typo - I consider this to be a printing error based upon the following fact. The word "pippīka" is NOT found in MW Dictionary. However the word "pippīkā" is listed in MW Dictionary. It does not make any sense to reference a word that is not contained in MW Dictionary. I hope that Jim will look into this.
+Jim:  No change. Too tangled.
+status = 
+------------------------------------------------------------------------
+
+Case 237: 03/15/2024 dict=MW, L=124342, hw=pipṛkṣu, user=srhodes
+old = Missing Headword!
+new = The word "pipṛcchiṣu" needs to be listed as a Headword beneath the word "pipṛkṣu" in the Alphabetical listing of words. Currently the word "pipṛcchiṣu" is not found by "searching MW Dictionary." This mistake needs to be corrected by listing the word "pipṛcchiṣu" as an independent Headword so that it may be found by searching MW dictionary. I Hope that Jim will look into this. Thank you. 
+comment = Missing Headword! (this is worth 1000 points).
+jim: agree
+OLD:
+<L>124342<pc>627,3<k1>pipfkzu<k2>pipfkzu<e>1
+<s>pipfkzu</s> ¦ (<ls>Bhadrab.</ls>), <s>pipfcCizu</s> (<ls>Śaṃk.</ls>) <lex>mfn.</lex> (√ <s>praC</s> <ab>Desid.</ab>) wishing to ask or inquire.<info lex="m:f:n"/>
+<LEND>
+NEW:
+<L>124342<pc>627,3<k1>pipfkzu<k2>pipfkzu<e>1
+<s>pipfkzu</s> (<ls>Bhadrab.</ls>), <s>pipfcCizu</s> (<ls>Śaṃk.</ls>), ¦ <lex>mfn.</lex> (√ <s>praC</s> <ab>Desid.</ab>) wishing to ask or inquire.<info and="124342,pipfkzu;124342.1,pipfcCizu"/><info lex="m:f:n"/>
+<LEND>
+<L>124342.1<pc>627,3<k1>pipfcCizu<k2>pipfcCizu<e>1
+<s>pipfkzu</s> (<ls>Bhadrab.</ls>), <s>pipfcCizu</s> (<ls>Śaṃk.</ls>), ¦ <lex>mfn.</lex> (√ <s>praC</s> <ab>Desid.</ab>) wishing to ask or inquire.<info and="124342,pipfkzu;124342.1,pipfcCizu"/><info lex="m:f:n"/>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 236: 03/15/2024 dict=MW, L=124964, hw=pīnasita, user=srhodes
+old = -having a cold
+new = having a cold
+status = x
+------------------------------------------------------------------------
+
+Case 235: 03/15/2024 dict=MW, L=124965, hw=pīnasin, user=srhodes
+old = -having a cold
+new = having a cold
+jim: recoding as two grouped entries
+OLD:
+<L>124964<pc>630,2<k1>pInasita<k2>pInasita<e>2
+<s>pInasita</s> ¦ (<ls>Var.</ls>) <lex>mfn.</lex> -having a cold, <ls>Suśr.</ls><info lex="m:f:n"/>
+<LEND>
+<L>124965<pc>630,2<k1>pInasin<k2>pInasin<e>2
+<s>pIna°sin</s> ¦ (<ls>Suśr.</ls>) <lex>mfn.</lex> having a cold, <ls>Suśr.</ls><info lex="m:f:n"/>
+<LEND>
+NEW:
+<L>124964<pc>630,2<k1>pInasita<k2>pInasita<e>2
+<s>pInasita</s> (<ls>Var.</ls>), <s>pIna°sin</s> (<ls>Suśr.</ls>), ¦ <lex>mfn.</lex> having a cold, <ls>Suśr.</ls><info and="124964,pInasita;124965,pInasin"/><info lex="m:f:n"/>
+<LEND>
+<L>124965<pc>630,2<k1>pInasin<k2>pInasin<e>2
+<s>pInasita</s> (<ls>Var.</ls>), <s>pIna°sin</s> (<ls>Suśr.</ls>), ¦ <lex>mfn.</lex> having a cold, <ls>Suśr.</ls><info and="124964,pInasita;124965,pInasin"/><info lex="m:f:n"/>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 234: 03/15/2024 dict=MW, L=124254, hw=pidṛbh, user=srhodes
+old = (only. -dṛhmas)
+new = (only -dṛbhmas)
+comment = Typo - I believe that the "period" after the word "only" is a "speck" in the scanning and not a true "period". You may compare to other "periods" on the same page which are printed more boldly.
+status = x
+------------------------------------------------------------------------
+
+Case 233: 03/14/2024 dict=MW, L=119376.2 , hw=paruḥśraṃsa, user=srhodes
+old = Wrong Placement
+new = I am suggesting that this word is formed from the word "parus" and NOT the word "paru". I hope that Jim will have a look into this.
+comment = Wrong Placement
+Jim: moved to L=119419.1 (after parus) 
+status = x
+------------------------------------------------------------------------
+
+Case 232: 03/14/2024 dict=MW, L=122824, hw=pāritavat, user=srhodes
+old = pāriśa
+new = pārita
+status = x
+------------------------------------------------------------------------
+
+Case 231: 03/14/2024 dict=MW, L=122834 , hw=pārīṣa, user=srhodes
+old = = pāriśla
+new = = pāriśa
+status = x
+------------------------------------------------------------------------
+
+Case 230: 03/14/2024 dict=MW, L=113056, hw=paktapauḍa, user=srhodes
+old = w.r. for pakhauḍa
+new = w.r. for pakhauda
+comment = Typo - This is likely a printing error based upon the following fact:  the given word "pakhauḍa" is nowhere to be found, but the corrected word "pakhauda" is listed in MW dictionary. Of course one wonders if "paktapauḍa" itself should be corrected to "paktapauda" (even though it is wrong to begin with).
+jim: no change.  PW under paKoda mentions paKOqa. Too tangled.  
+status = x
+------------------------------------------------------------------------
+
+Case 229: 03/14/2024 dict=MW, L=91153, hw=dasyu, user=srhodes
+old = cf. traso-
+new = cf. trasa-
+status = x
+------------------------------------------------------------------------
+
+Case 228: 03/14/2024 dict=MW, L=91150, hw=dasyu, user=srhodes
+old = a-pṛnat
+new = a-pṛṇat
+status = x
+------------------------------------------------------------------------
+
+Case 227: 03/14/2024 dict=MW, L=58649, hw=klaitakika, user=srhodes
+old = Klitaka
+new = Klītaka
+jim:
+OLD: <bot>Klitaka</bot>
+NEW: <s1 slp1="klItaka">Klītaka</s1>
+status = x
+------------------------------------------------------------------------
+
+Case 226: 03/14/2024 dict=MW, L=38003.1, hw=ūrikṛ, user=srhodes
+old = ūrikṛ
+new = ūrīkṛ
+comment = Typo – Headword Typos are worth 1000 points! ALSO, please note that you may now correct the alphabetical placement of this word moving it to the location directly beneath the word, "ūrī" from which it is clearly and directly connected.
+jim: move to L=38002.1, just after UrI
+status = x
+------------------------------------------------------------------------
+
+Case 224: 03/13/2024 dict=MW, L=103661, hw=nandinī, user=srhodes
+old = of the river Bāṇa-nāśa
+new = of the river Bāṇa-nāśā
+comment = Typo - this is an error in the printing which may be verified by looking up the corrected word. Also, it is well known that the Names of rivers are generally in the Feminine gender.
+jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 223: 03/13/2024 dict=MW, L=105626, hw=nāndīmukha, user=srhodes
+old = nāndī—mu°khī -khī -rātri f. end of night
+new = °khī rātri, f. end of night
+jim:
+OLD:
+<L>105626<pc>535,2<k1>nAndImuKI<k2>nAndI—muKI<e>3B
+<s>nAndI—mu°KI</s> ¦ <s>-KI -rAtri</s> <lex>f.</lex> end of night, daybreak, <ls>Lalit.</ls><info lex="f"/>
+<LEND>
+NEW:
+<L>105626<pc>535,2<k1>nAndImuKa<k2>nAndI—muKa<e>3B
+¦ (<s>-KI rAtri</s>, <lex>f.</lex> end of night, daybreak, <ls>Lalit.</ls>)<info lex="f"/>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 222: 03/13/2024 dict=MW, L=105628 , hw=nāndīmukha, user=srhodes
+old = = nāṇḍī-paṭa
+new = = nāndī-paṭa
+comment = Typo - I believe that this is an error in the printed text. The given word is not to be found, whereas my suggested correction is listed in MW.
+jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 221: 03/13/2024 dict=MW, L=105627, hw=nāndīmukha, user=srhodes
+old = °khaḥ pitṛ-gaṇah
+new = °khaḥ pitṛ-gaṇaḥ
+status = x
+------------------------------------------------------------------------
+
+Case 220: 03/13/2024 dict=MW, L=105640, hw=nāpi, user=srhodes
+old = This word is NOT FOUND as referenced here.
+new = Please tell me where this word is defined in MW dictionary. Shabda Sagara defines as  "ind. not even". This makes sense, however I would like to see it from MW.
+comment = This word is NOT FOUND as referenced here.
+jim: nApi = na api.  Under 2nd homonym of 'na' in MW is given
+  [न may be strengthened by अपि] .
+  in mw72 is given 'not even'
+status = x
+------------------------------------------------------------------------
+
+Case 219: 03/12/2024 dict=MW, L=142093 , hw=phalguda, user=srhodes
+old = ‘giving little’ avaricious
+new = ‘giving little,’ avaricious
+Jim: NEW: ‘giving little’, avaricious
+  Note the cdsl version uniformly puts the comma outside the closing quote.
+  This is known to differ from the print. I think this change suggested by Andhrabharati,
+  and it 'makes sense' to me.
+status = x
+------------------------------------------------------------------------
+
+Case 218: 03/12/2024 dict=MW, L=142093 , hw=phalguda, user=srhodes
+old = ‘giving little’ avaricious
+new = ‘giving little,’ avaricious
+status = duplicate
+------------------------------------------------------------------------
+
+Case 217: 03/12/2024 dict=MW, L=3101, hw=atiprasad, user=srhodes
+old = be come
+new = become
+status = x
+------------------------------------------------------------------------
+
+Case 216: 03/12/2024 dict=MW, L=102675.09, hw=nāticchina, user=srhodes
+old = nāti—cchina
+new = nāti—cchinna
+comment = Typo - This is very likely a printing error.
+Jim: print change; nAticCinna confirmed by pw.
+     Note: headword change gets 1000 points!
+status = x
+------------------------------------------------------------------------
+
+Case 215: 03/11/2024 dict=MW, L=168807, hw=maula, user=srhodes
+old = = mūlaprakṛ-tayaḥ
+new = = mūlaprakṛtayaḥ
+comment = Typo - Please note that the hyphenation in the printed text is only due to a line break. Otherwise it is a mistake to hyphenate the word in this way. If you absolutely insist upon hyphenation, then the only possibility would be "mūla-prakṛtayaḥ".
+status = x
+------------------------------------------------------------------------
+
+Case 214: 03/11/2024 dict=MW, L=66178.1, hw=guruṇḍa, user=srhodes
+old = suruṇḍa
+new = surūṇḍa
+comment = Typo - This is an error in the printed text. You may look up the corrected word to confirm this error.
+jim: print change. cf. PW
+status = x
+------------------------------------------------------------------------
+
+Case 213: 03/11/2024 dict=MW, L=16095 , hw=ard, user=srhodes
+old = 2. sg. ardayas;
+new = 2. sg. ārdayas;
+Jim: 1 additional change
+OLD:
+<ab>impf.</ab> <s>A/dayat</s>, 2. <ab>sg.</ab> <s>arda/yas</s>;
+NEW:
+<ab>impf.</ab> <s>A/rdayat</s>, 2. <ab>sg.</ab> <s>Arda/yas</s>;
+                    * typo                         * print change
+		    
+status = x
+------------------------------------------------------------------------
+
+Case 212: 03/11/2024 dict=MW, L=16095, hw=ard, user=srhodes
+old = perf. anarda
+new = perf. ānarda
+status = x
+------------------------------------------------------------------------
+
+Case 211: 03/11/2024 dict=MW, L=16095, hw=ard, user=srhodes
+old = impf. ādayat
+new = impf. ārdayat
+status = x see case 213
+------------------------------------------------------------------------
+
+Case 210: 03/11/2024 dict=MW, L=16095, hw=ard, user=srhodes
+old = [after mā] ardayit
+new = [after mā] ardayīt
+status = x
+------------------------------------------------------------------------
+
+Case 209: 03/11/2024 dict=MW, L=19416 , hw=aś, user=srhodes
+old = s.v. an-āsaka
+new = s.v. an-āśaka
+status = x
+------------------------------------------------------------------------
+
+Case 208: 03/11/2024 dict=MW, L=19416, hw=aś, user=srhodes
+old = Desid. aśiśiṣāti
+new = Desid. aśiśiṣati
+status = x
+------------------------------------------------------------------------
+
+Case 207: 03/11/2024 dict=MW, L=102698.1, hw=naikamukha, user=srhodes
+old = Alphabetical Listing Error
+new = Place the word "naikamukha" beneath the word "naikamāya" in the Alphabetical listing of words in the left hand column.
+comment = Alphabetical Listing Error
+status = x
+------------------------------------------------------------------------
+
+Case 206: 03/11/2024 dict=MW, L=105446 , hw=nātikalyāṇa, user=srhodes
+old = nāli-kovida
+new = nāti-kovida
+status = x
+------------------------------------------------------------------------
+
+Case 205: 03/11/2024 dict=MW, L=105444, hw=nātaṅkovilsthalamāhātmya, user=srhodes
+old = nātaṅkovilsthal-amāhātmya
+new = nātaṅkovilsthala-māhātmya
+status = x
+------------------------------------------------------------------------
+
+Case 203: 03/11/2024 dict=MW, L=105286, hw=nāciketa, user=srhodes
+old = (w.r. nācikstu, or nācchiketa)
+new = (w.r. nāciketu or nācchiketa)
+status = x
+------------------------------------------------------------------------
+
+Case 202: 03/11/2024 dict=MW, L=105286, hw=nāciketa, user=srhodes
+old = (w.r. nācikstu, or nācchiketa)
+new = (w.r. nāciketu or nācchiketa)
+status = duplicate
+------------------------------------------------------------------------
+
+Case 201: 03/11/2024 dict=MW, L=104874, hw=nahimātra, user=srhodes
+old = cf. na-māsra
+new = cf. na-mātra
+status = x
+------------------------------------------------------------------------
+
+Case 200: 03/11/2024 dict=MW, L=120935, hw=pā, user=srhodes
+old = Desid. pīpāsati
+new = Desid. pipāsati
+status = x
+------------------------------------------------------------------------
+
+Case 199: 03/11/2024 dict=MW, L=127307, hw=pū, user=srhodes
+old = pf. pupuvuh. °ve
+new = pf. pupuvuḥ, °ve
+status = x
+------------------------------------------------------------------------
+
+Case 198: 03/11/2024 dict=MW, L=127307, hw=pū, user=srhodes
+old = pf. pupuvuh. °ve
+new = pf. pupuvuḥ, °ve
+status = x
+------------------------------------------------------------------------
+
+Case 197: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = x
+------------------------------------------------------------------------
+
+Case 196: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 195: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 194: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 193: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 192: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 191: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 190: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 189: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 188: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 187: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 186: 03/11/2024 dict=MW, L=183125, hw=lū, user=srhodes
+old = lauluyate
+new = lolūyate
+status = duplicate
+------------------------------------------------------------------------
+
+Case 185: 03/10/2024 dict=MW, L=47489 , hw=kāṇūka, user=srhodes
+old = kānūka cf. kāṇa
+new = kānūka, cf. kāṇa
+comment = Typo - The "comma" is a nice touch according to the printed text. I hope that you don't consider me a "pedant". I just aim perfection in Sanskrit (which after all is the sense of Sanskrit itself).
+jim: no sign of pedantry noticed, just attention to detail.
+status = x
+------------------------------------------------------------------------
+
+Case 184: 03/10/2024 dict=MW, L=102645.2, hw=napara, user=srhodes
+old = Hierarchy Error - the Indentation here is an error.
+new = Remove the indentation of this Headword in the Hierarchical column list.
+comment = Hierarchy Error - the Indentation here is an error.
+jim: <e>4 -> <e>3  (same as nanu, naparAjit)
+status = x
+------------------------------------------------------------------------
+
+Case 183: 03/10/2024 dict=MW, L=104266, hw=nariṣṭā, user=srhodes
+old = (cf. narma, man)
+new = (cf. narma, °man)
+status = x
+------------------------------------------------------------------------
+
+Case 182: 03/10/2024 dict=MW, L=103904, hw=nami, user=srhodes
+old = N. of a, Jain.  author
+new = N. of a Jain. author
+comment = Typo - Also please note that the word "Jain." should not be shown differently from the words "N. of a". Please confer with the printed text.
+jim: no change.  <ls>Jain.</ls> is identified as a literary source in MW's
+  list of works. See comment at Case 349.
+status = 
+------------------------------------------------------------------------
+
+Case 181: 03/10/2024 dict=MW, L=103901.3, hw=namāka, user=srhodes
+old = Alphabetical Listing Error
+new = Place the word "namāka" below the word "namatra" (ID 103902.1) in the Alphabetical Hierarchy Listing. This correction is according to the printed text.
+comment = Alphabetical Listing Error
+status = x
+------------------------------------------------------------------------
+
+Case 180: 03/10/2024 dict=MW, L=103700.1, hw=nabhrāj, user=srhodes
+old = nabh—rāj
+new = na—bhrāj
+comment = Typo - The etymological division of this word appears to be wrong compared with the printed text.
+jim: 103700.1 and 103700.2 (naBrAj) are mis-placed (on p. 527,2 after 'naB')
+  Move to 102652 and 102652.1 (after nABIta, nABItavat and before namAtra)
+status = x
+------------------------------------------------------------------------
+
+Case 178: 03/09/2024 dict=MW, L=184081, hw=laugākṣi, user=srhodes
+old = fr. logākṣa N.
+new = fr. logākṣa, N.
+comment = Typo - I like the "comma" here as in the printed text.
+status = x
+------------------------------------------------------------------------
+
+Case 177: 03/09/2024 dict=MW, L=184097 , hw=laumāyana, user=srhodes
+old = g. pahehādi
+new = g. pakṣādi
+status = x
+------------------------------------------------------------------------
+
+Case 176: 03/09/2024 dict=MW, L=37657, hw=ulva, user=srhodes
+old = Hierarchy Error - the Indentation here is an error.
+new = Remove the indentation of this Headword in the Hierarchical column list.
+comment = Hierarchy Error
+jim: no change.  Hierarchy is 'H1', consistent with Devanagari text उल्व.
+status = 
+------------------------------------------------------------------------
+
+Case 175: 03/09/2024 dict=MW, L=9638, hw=apalap, user=srhodes
+old = -lapayate
+new = -lāpayate
+status = x
+------------------------------------------------------------------------
+
+Case 174: 03/08/2024 dict=MW, L=81094, hw=jhālarī, user=srhodes
+old = for jhāl
+new = for jhal°
+status = x
+------------------------------------------------------------------------
+
+Case 172: 03/07/2024 dict=MW, L=261625, hw=harmita, user=srhodes
+old = (cf. ghirma)
+new = (cf. gharma)
+status = x
+------------------------------------------------------------------------
+
+Case 171: 03/07/2024 dict=MW, L=261765, hw=hala, user=srhodes
+old = halī a (ā), f. Methonica Superba
+new = halī, f. Methonica Superba
+comment = Typo - The printed text seems to clearly demand this correction.
+jim: NEW: <s>halI</s>, <hom>a</hom> ¦ <lex>f.</lex> <bot>Methonica Superba</bot>, <ls>L.</ls>
+ the remaining "<hom>a</hom>" is added for list-display functionality.
+status = x
+------------------------------------------------------------------------
+
+Case 168: 03/07/2024 dict=MW, L= 264814, hw=hrep, user=srhodes
+old = (v.l.) hrepayati See √hrī.
+new = (v.l.); hrepayati, see √hrī.
+comment = Typo - Please note that "(v.l.)" refers to the root "hrep" itself, and not to "hrepayati" which is only mentioned for clarity as it is the causative form belonging to the root "hrī". This is why the semicolon  ";"  is important here. Otherwise, one is led to believe that "hrepayati" is a variation of some sort, but this is not the case at all.
+status = x
+------------------------------------------------------------------------
+
+Case 167: 03/06/2024 dict=MW, L=24736, hw=ānyatareya, user=srhodes
+old = fr. anya-tara g. śubhrādi
+new = fr. anya-tara, g. śubhrādi
+comment = Typo - add the "comma"
+status = x
+------------------------------------------------------------------------
+
+Case 166: 03/06/2024 dict=MW, L= 263605, hw=hūṃkāra, user=srhodes
+old = hūṃ-kṛti
+new = hūṃ-kṛta
+comment = Typo – This must be a printing error because "hūṃ-kṛti" is NOT found. only "hūṃ-kṛta" is listed.
+jim:
+OLD: See under <s>hum</s>, <ab>col.</ab> 2.
+NEW: See under <s>huM</s>, <ab>col.</ab> 2.
+  In col 2, we see only kuMkfta (v.l. hUM-kfta).
+  This seems an inconsistency by M-W, which maybe we should leave, at least for now.
+status = x
+------------------------------------------------------------------------
+
+Case 163: 03/05/2024 dict=MW, L= 175286, hw=rayīyat, user=srhodes
+old = rayīyatī
+new = rayīyati
+status = x
+------------------------------------------------------------------------
+
+Case 162: 03/05/2024 dict=MW, L= 114550, hw=paṇ, user=srhodes
+old = Caus. paṇayati
+new = Caus. pāṇayati
+comment = Typo - I believe that this is an error in the printed text.
+jim: no change.  pre. paRate, Caus. paRayati   (the 'ay' gives causal, no
+   need here for 'pARay', I think)
+status = 
+------------------------------------------------------------------------
+
+Case 161: 03/04/2024 dict=MW, L=173024, hw=rī, user=srhodes
+old = Hierarchy Error
+new = Indent this word beneath "ra 3". Currently the word "rī" is not indented in the listing. The printed text lists the word "rī" as being directly linked with the word "ra 3", therefore indentation in the Hierarchy listing is required.
+jim: no change.  rI is a gender variant of 'ra'. No indentation required.
+   Compare 'guru, gurvI'
+status = x
+------------------------------------------------------------------------
+
+Case 159: 03/03/2024 dict=MW, L= 177786, hw=rāśyaṃśa, user=srhodes
+old = = navāṃsa
+new = = navāṃśa
+comment = Typo - The word that is printed is not to be found. Therefore this correction is my suggestion.
+Jim: print change.  MW error in copying from PW.
+status = 
+------------------------------------------------------------------------
+
+Case 158: 03/03/2024 dict=MW, L= 178225, hw=rutāyata, user=srhodes
+old = (w.r. for yita?)
+new = (w.r. for °yita?)
+status = x
+------------------------------------------------------------------------
+
+Case 157: 03/02/2024 dict=MW, L=38981.2, hw=ṛllīsaka, user=srhodes
+old = ṛllīsaka
+new = ṛllīṣaka
+comment = Typo - I make this correction for the following reason. The definition given here is as follows, "probably wrong readings for jhallaka etc.". In this case the wrong reading would be for the word "jhallīsaka". However, such word does not exist. The CORRECT word in this regard is listed by MW as, "jhallīṣaka". Therefore logical reasoning here demands this correction. This is my opinion.
+Jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 156: 03/02/2024 dict=MW, L= 58543.1, hw=klap, user=srhodes
+old = Hierarchy Error
+new = No Indentation in the Hierarchy List
+comment = Hierarchy Error
+status = duplicate
+------------------------------------------------------------------------
+
+Case 155: 03/02/2024 dict=MW, L=51295 , hw=kukura, user=srhodes
+old = the country of the Kukura people
+new = pl. the country of the Kukura people
+comment = Typo - You may check the printed text. I believe that the "Country of a people" is generally a word used in the "Plural" according to rules of Pāṇini.
+jim: no change.
+  It may be that 'pl.' is "inherited" from L=51293 'pl. the descendants of that prince'.  But I don't think we should add an extra 'pl.' in 51295 (or 51294).
+status = x
+------------------------------------------------------------------------
+
+Case 154: 03/02/2024 dict=MW, L= 51294, hw=kukura, user=srhodes
+old = N. of a people
+new = pl. N. of a people
+comment = Typo - You may check the printed text as well as with the Shabda Sagara dictionary. Also check the word "kukkura". I believe generally that the "Name of a people" is generally a word used in the "Plural" according to rules of Pāṇini.
+Jim: no change. See Case 155
+status = x
+------------------------------------------------------------------------
+
+Case 153: 02/29/2024 dict=MW, L=47207, hw=kāku, user=srhodes
+old = (cf. śevākāku
+new = (cf. sevākāku
+comment = Typo - Please note that this typo has been confirmed by three sources: 1) MW (look up the corrected word), 2) Apte and 3) Shabda-Sagara. Have a nice day!
+jim: print change. confirmed mw72
+status = x
+------------------------------------------------------------------------
+
+Case 152: 02/29/2024 dict=MW, L= 15368, hw=ariṣṭagātu, user=srhodes
+old = (areṣṭa)
+new = (ariṣṭa-)
+comment = Typo - This is a misleading typo; a good example of why I check and cross-check everything. Sanskrit is famous for spelling errors! In fact I often wonder how many Sanskrit words are originally mistaken forms that have been absorbed into the language by usage.
+status = x
+------------------------------------------------------------------------
+
+Case 150: 02/29/2024 dict=MW, L= 46542, hw=kavikamalasadman, user=srhodes
+old = ‘lotus-seat of poets’ 
+new = ‘lotus-seat of poets,’ 
+comment = Typo - the "comma" is a nice touch and follows the printed text.
+status = x
+------------------------------------------------------------------------
+
+Case 149: 02/29/2024 dict=MW, L= 46604, hw=kavīya, user=srhodes
+old = mn.
+new = m.n.
+status = x
+------------------------------------------------------------------------
+
+Case 148: 02/29/2024 dict=MW, L= 46602, hw=kaviya, user=srhodes
+old = mn.
+new = m.n.
+comment = Typo – you might consider a global replacement to correct this type of error; or maybe you like it this way. I prefer the correction which follows the printed text.
+status = x
+------------------------------------------------------------------------
+
+Case 146: 02/28/2024 dict=MW, L=181338, hw=lap, user=srhodes
+old = Westergaard Dhatupatha links: 10.8  AND  (Dhātup. x, 8)
+new = Westergaard Dhatupatha links: 11.8  AND  (Dhātup. xi, 8)
+comment = Typo - You may confirm this correction by checking with the radiceslingusan00westgoog.
+jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 144: 02/28/2024 dict=MW, L= 44438, hw=karamaṭṭa, user=srhodes
+old = betel-nuttree
+new = betel-nut tree
+status = x
+------------------------------------------------------------------------
+
+Case 143: 02/28/2024 dict=MW, L= 46693, hw=kaśmaśa, user=srhodes
+old = mn. ?
+new = m. or n.?
+status = x
+------------------------------------------------------------------------
+
+
+Case 140: 02/28/2024 dict=MW, L= 78292, hw=jalp, user=srhodes
+old = (said of the Koīl)
+new = (said of the Koil)
+comment = Typo - The vowel "i" is not "long"; I believe it has two dots above.
+status = x
+------------------------------------------------------------------------
+
+Case 139: 02/27/2024 dict=MW, L= 225646, hw=saṃyatāñjali, user=srhodes
+old = (= baddhoñjali)
+new = (= baddhāñjali)
+status = x
+------------------------------------------------------------------------
+
+Case 138: 02/27/2024 dict=MW, L= 225646, hw=saṃyatāñjali, user=srhodes
+old = (= baddhoñjali)
+new = (= baddhāñjali)
+status = duplicate
+------------------------------------------------------------------------
+
+Case 137: 02/27/2024 dict=MW, L= 225646, hw=saṃyatāñjali, user=srhodes
+old = (= baddhoñjali)
+new = (= baddhāñjali)
+status = duplicate
+------------------------------------------------------------------------
+
+Case 136: 02/27/2024 dict=MW, L= 44472.1, hw=karalāya, user=srhodes
+old = °yats
+new = °yate
+status = x
+------------------------------------------------------------------------
+
+Case 135: 02/26/2024 dict=MW, L= 67940, hw=gopaya, user=srhodes
+old = (Pass. gopyaṭe
+new = (Pass. gopyate
+comment = Typo - I am certain that this is just a blemish in the printing and not a diacritical mark.
+status = x
+------------------------------------------------------------------------
+
+Case 134: 02/26/2024 dict=MW, L=15163.1, hw=aradhra, user=srhodes
+old = Hierarchy Placement Error
+new = This word is unrelated to the words above, and therefore the word, "aradhra" should NOT be indented which indicates a direct relation to the words above (and this relation is non-existent).
+comment = Hierarchy Placement Error
+jim: no change.  The one-place indentation means MW '2nd line' (H2).  It indicates
+  the headword appears in diacritics only (not Devanagari).
+  No 'direct relation' is implied with the preceding H1 (in this case with 'araTa').
+  That's my understanding of the H1-H2 distinction (peculiar to MW99).
+status = x
+------------------------------------------------------------------------
+
+Case 133: 02/26/2024 dict=MW, L= 15163, hw=aradhra, user=srhodes
+old = Hierarchy Placement Error
+new = This word is unrelated to the words above, and therefore the word, "aradhra" should NOT be indented which indicates a direct relation to the words above (and this relation is non-existent).
+comment = Hierarchy Placement Error
+jim: no change. See Case 134 comment
+status = x
+------------------------------------------------------------------------
+
+Case 132: 02/26/2024 dict=MW, L= 16583.1, hw=alatikā, user=srhodes
+old = Hierarchy Placement Error
+new = This word is unrelated with the word, "alati" and Therefore "alatikā" should NOT be indented in the Hierarchical listing which indicates a direct relation to the word "alati" (and this relation does not exist).
+comment = Hierarchy Placement Error
+jim: no change. See case 134 comment
+status = x
+------------------------------------------------------------------------
+
+Case 131: 02/26/2024 dict=MW, L= 15273.1, hw=arālakeśī, user=srhodes
+old = Typo - Alphabetical Placement Error.
+new = If you compare with the words both above and below in the Hierarchy listing, you will see that according to the standard alphabetical system, this word needs to be placed correctly (i.e. moved up).
+comment = Typo - Alphabetical Placement Error.
+jim: move to 15272.1, so it is the first compound under arAla.
+status = x
+------------------------------------------------------------------------
+
+Case 130: 02/26/2024 dict=MW, L= 42764.1, hw=kathaṃkathā, user=srhodes
+old = Typo - Alphabetical Placement Error. 
+new = If you compare with the words following in the Hierarchy listing, you will see that according to the standard alphabetical system, this word needs to be placed correctly.
+comment = Typo - Alphabetical Placement Error.
+jim: no change.  Position as first compound under 'kaTaM' looks right to me.
+However,  the print page '-ruru, -rUpa, -vIrya' are placed befor '-kaTika'.
+ Which looks odd (non-alphabetical).
+
+status = x
+------------------------------------------------------------------------
+
+Case 128: 02/25/2024 dict=MW, L= 57563, hw=kausalyeya, user=srhodes
+old = metron. fr. °lyā N. of Rāma-candra
+new = metron. fr. °lyā, N. of Rāma-candra
+status = x
+------------------------------------------------------------------------
+
+Case 127: 02/25/2024 dict=MW, L= 57542, hw=kauṣṭhavitka, user=srhodes
+old = kauṣłacitka
+new = kauṣṭacitka
+status = x
+------------------------------------------------------------------------
+
+Case 126: 02/25/2024 dict=MW, L= 57535, hw=kauṣṭacitka, user=srhodes
+old = fr. kuṣṭa-cit g. kathādi (Kāś. ) v.l. for °ṣṭhavitka
+new = fr. kuṣṭa-cit, g. kathādi (Kāś. ), v.l. for °ṣṭhavitka
+status = 
+------------------------------------------------------------------------
+
+Case 125: 02/25/2024 dict=MW, L= 57535, hw=kauṣṭacitka, user=srhodes
+old = fr. kuṣṭa-cit g. kathādi (Kāś. ) v.l. for °ṣṭhavitka
+new = fr. kuṣṭa-cit, g. kathādi (Kāś. ), v.l. for °ṣṭhavitka
+status = x
+------------------------------------------------------------------------
+
+Case 124: 02/25/2024 dict=MW, L= 46873, hw=kasāra, user=srhodes
+old = (v.l. kaṃsāra, or kaṃsāra)
+new = (v.l. kaṉsāra or kaṃsāra)
+Jim: This is interesting.  cdsl coding treatings 'ṉ' same as 'ṃ'.
+   So the slp1 for both words is the same: <s>kaMsAra</s>.
+   In this instance (because otherwise it would be "v.l. X or X"),
+    I'll write <s1 slp1="kaMsAra">kaṉsāra</s1>.
+status = x
+------------------------------------------------------------------------
+
+Case 123: 02/25/2024 dict=MW, L=46866 , hw=kasa, user=srhodes
+old = touch stone
+new = touchstone
+status = x
+------------------------------------------------------------------------
+
+Case 122: 02/25/2024 dict=MW, L= 50138, hw=kāhan, user=srhodes
+old = (or one thousand Yugas See kalpa)
+new = (or one thousand Yugas, see kalpa)
+status = x
+------------------------------------------------------------------------
+
+Case 121: 02/25/2024 dict=MW, L=50132 , hw=kāseruyajñika, user=srhodes
+old = See kās°
+new = See kāś°
+status = x
+------------------------------------------------------------------------
+
+Case 118: 02/23/2024 dict=MW, L= 243589, hw=sāhakāyana, user=srhodes
+old = (fr. sahaka v.l. for siṃhaka) g. pakṣādi
+new = (fr. sahaka, v.l. for siṃhaka), g. pakṣādi
+status = x
+------------------------------------------------------------------------
+
+Case 117: 02/23/2024 dict=MW, L=69786 , hw=ghuṭa, user=srhodes
+old = ancle
+new = ankle
+comment = Typo - "ancle" apparently is the British spelling. I have never seen it before. I believe "ankle" is a better choice. Now you choose!
+Jim: no change.
+MW uses both.
+27 matches in 26 lines for "ankle" in buffer: mw.txt
+14 matches for "ancle" in buffer: mw.txt
+I'm lazy and don't want to devise 14 print-change records for the 'ancle' ones.
+Thus, leaving 'ancle' unchanged.
+status = x
+------------------------------------------------------------------------
+
+Case 116: 02/23/2024 dict=MW, L= 127312, hw=pū, user=srhodes
+old = cf. annauda-,
+new = cf. anna-, uda-,
+status = x
+------------------------------------------------------------------------
+
+Case 114: 02/23/2024 dict=MW, L= 80311, hw=jaulāyanabhakta, user=srhodes
+old = Jaulāyanas g. aiṣukāry-ādi.
+new = Jaulāyanas, g. aiṣukāry-ādi.
+status = x
+------------------------------------------------------------------------
+
+Case 113: 02/23/2024 dict=MW, L=76237, hw=jagatkartṛ, user=srhodes
+old =  = [ID=76237]
+new = [ID=76237]
+status = x
+------------------------------------------------------------------------
+
+Case 112: 02/22/2024 dict=MW, L=79169, hw=jāha, user=srhodes
+old = priṣṭha-
+new = pṛṣṭha-
+status = x
+------------------------------------------------------------------------
+
+Case 111: 02/22/2024 dict=MW, L= 78473, hw=jāghanī, user=srhodes
+old = prithu-jāghana
+new = pṛthu-jāghana
+jim: new = pṛthu-jaghana   This is a print change. jaghana is 'hips'
+jāghana only found in GRA and SCH. Also, MW has only pṛthu-jaghana.
+status = x
+------------------------------------------------------------------------
+
+Case 110: 02/20/2024 dict=MW, L= 78418, hw=jāṃhāgiranagara, user=srhodes
+old = jāṃhāgiranagara
+new = jāṃhāgīranagara   AND  jāṃhāgīra-nagara
+comment = Typo – Two Typos!  — Headword and Listing.
+status = x
+------------------------------------------------------------------------
+
+Case 109: 02/20/2024 dict=MW, L=78417 , hw=jāṃhāgira, user=srhodes
+old = jāṃhāgira
+new = jāṃhāgīra
+jim: Also merge 78419 into 78418:
+OLD:
+<L>78418<pc>416,3<k1>jAMhAgIranagara<k2>jAMhAgIra—nagara<e>3
+<s>jAMhAgIra—nagara</s> ¦ <lex>n.</lex> <ab>id.</ab>, <ls n="Kṣitīś.">iii, 25</ls>; <ls n="Kṣitīś.">iv, 36</ls><info lex="n"/>
+<LEND>
+<L>78419<pc>416,3<k1>jAMhAgiranagara<k2>jAMhAgira—nagara<e>3A
+¦ <ls n="Kṣitīś.">v.</ls><info lex="inh"/>
+<LEND>
+NEW:
+<L>78418<pc>416,3<k1>jAMhAgIranagara<k2>jAMhAgIra—nagara<e>3
+<s>jAMhAgIra—nagara</s> ¦ <lex>n.</lex> <ab>id.</ab>, <ls n="Kṣitīś.">iii, 25</ls>; <ls n="Kṣitīś.">iv, 36</ls>; <ls n="Kṣitīś.">v.</ls><info lex="n"/>
+<LEND>
+[78419 entry deleted]
+
+status = x
+------------------------------------------------------------------------
+
+Case 108: 02/20/2024 dict=MW, L= 78371, hw=jaha, user=srhodes
+old = (√3. hā) See śardham-
+new = (√3. hā), see śardhaṃ-
+status = x
+------------------------------------------------------------------------
+
+Case 107: 02/20/2024 dict=MW, L= 80122, hw=jṛmbh, user=srhodes
+old = (pf. jṛmbhayām āsa)
+new = (pf. jṛmbhayāmāsa)
+comment = Typo - Listed as the Causative Form. This correction is my preference. Of course you may do as you like.
+jim: no change
+12 matches for "Am Asa</s>" in buffer: mw.txt
+2 matches for "AmAsa</s>" in buffer: mw.txt
+status = x
+------------------------------------------------------------------------
+
+Case 106: 02/20/2024 dict=MW, L= 182397, hw=lekhanī, user=srhodes
+old = (cf. ghṛta-ī°)
+new = (cf. ghṛta-l°)
+status = x
+------------------------------------------------------------------------
+
+Case 103: 02/20/2024 dict=MW, L= 76529.2, hw=jaṭāvarman, user=srhodes
+old = Hierarchy Error
+new = This word is identified as a compound formed from the word "jaṭā". There this listing must be alphabetically placed under the compounds of "jaṭā". Listing this word as a compound under "jaṭa" is clearly incorrect. You may check with the printed text as well.
+comment = Hierarchy Error
+Jim: move jawAvarman to 76561.1, between jawAvatI and jawAvalkalin
+status = x
+------------------------------------------------------------------------
+
+Case 102: 02/20/2024 dict=MW, L= 76529.1, hw=jaṭājhāṭa, user=srhodes
+old = Hierarchy Error
+new = This word is identified as a compound formed from the word "jaṭā". There this listing must be alphabetically placed under the compounds of "jaṭā". Listing this word as a compound under "jaṭa" is clearly incorrect. You may check with the printed text as well.
+comment = Hierarchy Error
+Jim: Move jawAJAwa to L=76533.1, between jawAcIra and jawAjAla
+status = x
+------------------------------------------------------------------------
+
+Case 101: 02/20/2024 dict=MW, L= 76508, hw=jajñana, user=srhodes
+old = jajñana mfn. pf. p. Ā. √jnā
+new = jajñāna mfn. pf. p. Ā. √jñā
+comment = TWO Typos in One Line - Headword Typo and Etymology Typo! Do I get bonus points?
+Jim: Definitely, 1100 points at least.
+76509 similarly corrected for jajñāna
+status = x
+------------------------------------------------------------------------
+
+Case 100: 02/20/2024 dict=MW, L= 77183, hw=jabh, user=srhodes
+old = √jrimbh
+new = √jṛmbh
+status = x
+------------------------------------------------------------------------
+
+Case 99: 02/18/2024 dict=MW, L= 112827.4, hw=nyāyakusumāñjaliviveka, user=srhodes
+old = m., N. of wk.
+new = m. N. of wk.
+comment = Typo - The "comma" here (and in any similar occurrences) may be considered unnecessary in the online edition of MW. Therefore you may consider a "Global search and replace" of this suggested correction to the MW online dictionary. This certainly would be in keeping with the spirit of Sanskrit which goes to great lengths to save even one unnecessary syllable (in a sūtra).
+Jim: no change.
+Note: I'll reconsider this with some other 'global change' candidates
+32327 matches in 32301 lines for "</lex> <ab>N.</ab>"
+287 matches for "</lex>, <ab>N.</ab>" in buffer: mw.txt
+  
+status = x
+------------------------------------------------------------------------
+
+Case 98: 02/18/2024 dict=MW, L= 254463.1, hw=stabh, user=srhodes
+old = p. tastabhvas, °vānd, RV. ;
+new = p. tastabhvas, °vāna, RV. ;
+comment = Typo - This is located in the first paragraph of the listing.
+Jim: Also, same correction in 254463
+status = x
+------------------------------------------------------------------------
+
+Case 97: 02/17/2024 dict=MW, L= 238827, hw=sarvasattvaujohārī, user=srhodes
+old = (v.l. sattvoj°)
+new = (v.l. -sattvoj°)
+status = x
+------------------------------------------------------------------------
+
+Case 96: 02/17/2024 dict=MW, L= 238017, hw=sarpahan, user=srhodes
+old = sn° -killer’
+new = sn°-killer’
+status = x
+------------------------------------------------------------------------
+
+Case 95: 02/17/2024 dict=MW, L= sarpasattra, hw=238011, user=srhodes
+old = sarpāṇām, ayanam
+new = sarpāṇām ayanam
+comment = Typo - Please let me know if I hold the record for the number of corrections submitted in a twelve hour period.
+Jim: no question, you are record holder!
+status = x
+------------------------------------------------------------------------
+
+Case 94: 02/17/2024 dict=MW, L= 238010, hw=sarpasattra, user=srhodes
+old = sn° -sacrifice
+new = sn°-sacrifice
+status = x
+------------------------------------------------------------------------
+
+Case 93: 02/17/2024 dict=MW, L= 97353, hw=dyustrī, user=srhodes
+old = yoṣit
+new = = -yoṣit
+status = x
+------------------------------------------------------------------------
+
+Case 92: 02/17/2024 dict=MW, L= 97341, hw=dyuloka, user=srhodes
+old = (cf. dyaur-ī°).
+new = (cf. dyaur-loka) OR (cf. dyau-loka)
+comment = Typo – Namaste Jim,  please look into this. MW does not list the word "dyaurloka", however MW does list the word "dyauloka".
+jim: changed to (cf. dyO-l°). print change.
+    pwg has 'Vgl. dyOrloka' under dyuloka, so MW probably copied.
+    We assume 'cf. X' in MW means 'confer word X in this dictionary', 
+status = x
+------------------------------------------------------------------------
+
+Case 91: 02/17/2024 dict=MW, L= 97341, hw=dyuloka, user=srhodes
+old = (cf. dyaur-ī°).
+new = (cf. dyaur-l°).
+status = duplicate
+------------------------------------------------------------------------
+
+Case 90: 02/17/2024 dict=MW, L= 112068, hw=nejana, user=srhodes
+old = washing. place
+new = washing-place
+status = x
+------------------------------------------------------------------------
+
+Case 89: 02/17/2024 dict=MW, L= 112091, hw=netṛmat, user=srhodes
+old = the word, netṛ
+new = the word netṛ
+comment = Typo - no "comma" needed.
+status = x
+------------------------------------------------------------------------
+
+Case 88: 02/17/2024 dict=MW, L= 112175, hw=nedaya, user=srhodes
+old = (fr. neda See next)
+new = (fr. neda, see next)
+status = x
+------------------------------------------------------------------------
+
+Case 87: 02/17/2024 dict=MW, L= 112471, hw=nairvāṇikamārgāvataraṇa, user=srhodes
+old = vaiśāradyani
+new = vaiśāradyāni
+comment = Typo - This is a printing error. The word is Neuter and plural and therefore ends in "āni". You may look up the word "vaiśāradya" to confirm this conclusion.
+jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 85: 02/17/2024 dict=MW, L= 96625, hw=deṣṭha, user=srhodes
+old = √1. dū)
+new = √1. dā)
+status = x
+------------------------------------------------------------------------
+
+Case 84: 02/17/2024 dict=MW, L= 263493, hw=hutoccheṣaṇa, user=srhodes
+old = = -huta-śiṣṭa
+new = = huta-śiṣṭa
+status = x
+------------------------------------------------------------------------
+
+Case 83: 02/17/2024 dict=MW, L= 96974, hw=doman, user=srhodes
+old = and dha
+new = and -dha
+status = x
+------------------------------------------------------------------------
+
+Case 82: 02/16/2024 dict=MW, L= 45528.5, hw=karvara, user=srhodes
+old = kāravī.)
+new = kāravī).
+comment = Typo – This is my opinion. Perhaps you disagree. I just don't understand why the "period" should be preferred inside of the parenthesis.
+jim: no change. Maybe the period is inside the paren since the entire parethetical
+ text is a sentence.
+ 3620 matches in 3582 lines for "\.)" in buffer: mw.txt
+ 8992 matches in 8899 lines for ")\." in buffer: mw.txt
+
+status = x
+------------------------------------------------------------------------
+
+Case 81: 02/16/2024 dict=MW, L= 45528.5, hw=karvara, user=srhodes
+old = kāravī.)
+new = kāravī).
+comment = Typo – This is my opinion. Perhaps you disagree. I just don't understand why the "period" should be preferred inside of the parenthesis.
+status = duplicate
+------------------------------------------------------------------------
+
+Case 80: 02/16/2024 dict=MW, L= 43736, hw=kab, user=srhodes
+old = (cf. kav.)
+new = (cf. kav).
+comment = Typo – I consider this to be a printing error. There is no reason to have the "period" inside of the parenthesis which may lead one to believe this is an abbreviated form when in fact it is clearly citing the verbal root "kav".
+jim: no change.  See comment at case 81
+status = x
+------------------------------------------------------------------------
+
+Case 79: 02/16/2024 dict=MW, L= 97462, hw=dyota, user=srhodes
+old = See hrid-d°
+new = See hṛd-d°
+status = x
+------------------------------------------------------------------------
+
+Case 78: 02/16/2024 dict=MW, L= 128976, hw=peru, user=srhodes
+old = off-spring
+new = offspring
+comment = Typo - Please note that the 'hyphen' is due to the line break in the printed text. Otherwise it is a mistake to hyphenate this word.
+status = x
+------------------------------------------------------------------------
+
+Case 77: 02/15/2024 dict=MW, L= 139850, hw=prātara, user=srhodes
+old = v.l.for pra-tāra
+new = v.l. for pra-tāra
+status = x
+------------------------------------------------------------------------
+
+Case 76: 02/15/2024 dict=MW, L= 129662, hw=paulastya, user=srhodes
+old = m. (-smṛti f. N. of wk.)
+new = (-smṛti f. N. of wk.)
+status = x
+------------------------------------------------------------------------
+
+Case 75: 02/15/2024 dict=MW, L= 129484, hw=paupika, user=srhodes
+old = patron,
+new = patron.,
+comment = Typo - needs the 'period' for the abbreviated form.
+status = x
+------------------------------------------------------------------------
+
+Case 74: 02/15/2024 dict=MW, L= 184658, hw=vaktratāla, user=srhodes
+old = (cf. vakrato)
+new = (cf. vakra-t°)
+status = x
+------------------------------------------------------------------------
+
+Case 73: 02/15/2024 dict=MW, L= 129374, hw=pauṃścalīya, user=srhodes
+old = (fr. puṃś-cali)
+new = (fr. puṃś-calī)
+status = x
+------------------------------------------------------------------------
+
+Case 72: 02/15/2024 dict=MW, L=129186, hw=paiyūkṣa, user=srhodes
+old = g., tālādi
+new = g. tālādi
+comment = Typo - I am also wondering if "(fr. pīyūkṣa)" should be changed to "(fr. pīyūkṣā)"... Because the word "pīyūkṣa" is nowhere to be found, while "pīyūkṣā" is a species of tree.
+jim: agree print change "pīyūkṣa" -> "pīyūkṣā"  (cf. pw, pwg dictionaries)
+status = x
+------------------------------------------------------------------------
+
+Case 71: 02/14/2024 dict=MW, L= 237998, hw=sarpaveda, user=srhodes
+old = sn° -science
+new = sn°-science
+status = x
+------------------------------------------------------------------------
+
+Case 70: 02/13/2024 dict=MW, L= 253289, hw=saukumārya, user=srhodes
+old = delicate
+new = delicacy
+comment = Typo - Also please note that the "Printed book page" link for this entry is INCORRECT. Please change to "[Printed book page 1252,1]".
+status = x
+------------------------------------------------------------------------
+
+Case 69: 02/13/2024 dict=MW, L= 253512, hw=saupiṅgala, user=srhodes
+old = (fr. su-piṅgala)
+new = (fr. su-piṅgalā)
+comment = Typo - This could be a printing error since only the word "supiṅgalā" exists in MW dictionary.
+jim: no change.
+   
+   If it had been "(cf. su-piṅgala)", I would say yes, change to "(cf. su-piṅgalā)"
+   Since I expect the target of a 'cf.' to be searchable.
+   However, 'fr. X' may mean "by some rule of grammar involving X, ...",
+   in which case X might or might-not be a word in the dictionary.
+
+   Only medium to low confidence of this reasoning.
+   Do others have any opinion ?
+status = x
+------------------------------------------------------------------------
+
+Case 68: 02/13/2024 dict=MW, L= 253510, hw=saupāmāyani, user=srhodes
+old = fr. supāman
+new = fr. supāman,
+status = x
+------------------------------------------------------------------------
+
+Case 67: 02/12/2024 dict=MW, L= 84972.1, hw=tibeṭa, user=srhodes
+old = triviṣṭap
+new = triviṣṭapa
+comment = Typo - The Dalai Lama will be pleased with this correction.
+status =  x
+------------------------------------------------------------------------
+
+Case 66: 02/12/2024 dict=MW, L= 253432, hw=saudyumni, user=srhodes
+old = fr. su-dymnsa
+new = fr. su-dyumna
+status = x
+------------------------------------------------------------------------
+
+Case 65: 02/11/2024 dict=MW, L= 253916, hw=saurohika, user=srhodes
+old = fr. su-rohikā g. śivādi
+new = fr. su-rohikā, g. śivādi
+status = x
+------------------------------------------------------------------------
+
+Case 64: 02/11/2024 dict=MW, L= 208532, hw=vyatipāta, user=srhodes
+old = (cf. vy-atī-pāsa)
+new = (cf. vy-atī-pāta)
+status = x
+------------------------------------------------------------------------
+
+Case 63: 02/11/2024 dict=MW, L= 253757, hw=sauyāmuna, user=srhodes
+old = (fr. su-yāmuṇa)
+new = (fr. su-yāmuna)
+status = x
+------------------------------------------------------------------------
+
+Case 61: 02/10/2024 dict=MW, L= 237984, hw=sarparājñī, user=srhodes
+old = sn° -queen
+new = sn°-queen
+status = x
+------------------------------------------------------------------------
+
+Case 60: 02/10/2024 dict=MW, L= 252365, hw=sevālin, user=srhodes
+old = (fr. savāla See śev°) g. suvāstv-ādi
+new = (fr. savāla, see śev°), g. suvāstv-ādi
+status = x
+------------------------------------------------------------------------
+
+Case 59: 02/10/2024 dict=MW, L= 252365, hw=sevālin, user=srhodes
+old = (fr. savāla See śev°) g. suvāstv-ādi
+new = (fr. savāla, see śev°), g. suvāstv-ādi
+status = duplicate
+------------------------------------------------------------------------
+
+Case 58: 02/10/2024 dict=MW, L= 252365, hw=sevālin, user=srhodes
+old = (fr. savāla See śev°)
+new = (fr. savāla, see śev°)
+status = duplicate
+------------------------------------------------------------------------
+
+Case 57: 02/10/2024 dict=MW, L= 237977, hw=sarpamaṇi, user=srhodes
+old = sn° -gem
+new = sn°-gem
+status = x
+------------------------------------------------------------------------
+
+
+Case 53: 02/09/2024 dict=MW, L= 252043, hw=se, user=srhodes
+old = si a f. service
+new = f. service
+comment = Typo - I believe that the form "si" is the neuter form and that the form "se" is both masculine and feminine.
+jim: Rewrite
+OLD:
+<L>252042<pc>1246,1<k1>se<k2>se<h>2<e>1
+<hom>2.</hom> <s>se</s> ¦ <lex type="hw">m.</lex> and <lex type="hw">f(<s>si</s>). </lex> <lex type="hw">n.</lex> serving, <ls>L.</ls><info lex="m:f#si:n"/>
+<LEND>
+<L>252043<pc>1246,1<k1>si<k2>si<h>a<e>1B
+<s>si</s> <hom>a</hom> ¦ <lex>f.</lex> service, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>252044<pc>1246,1<k1>si<k2>si<e>1B
+¦ <ab>N.</ab> of the wife of <s1 slp1="kAma">Kāma</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+NEW:
+<L>252042<pc>1246,1<k1>se<k2>se<h>2<e>1
+<hom>2.</hom> <s>se</s> ¦ <lex>m.</lex> and <lex>f.</lex>, <s>si</s>, <lex>n.</lex> serving, <ls>L.</ls><info lex="m:f:n#si"/>
+<LEND>
+<L>252043<pc>1246,1<k1>se<k2>se<h>a<e>1B
+<s>se</s> <hom>a</hom> ¦ <lex>f.</lex> service, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>252044<pc>1246,1<k1>se<k2>se<e>1B
+¦ <ab>N.</ab> of the wife of <s1 slp1="kAma">Kāma</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 52: 02/09/2024 dict=MW, L= 252042, hw=se, user=srhodes
+old = se m. and f(si). n. serving,
+new = se, m. and f., si, n. serving,
+comment = Typo - I believe that the form "si" is the neuter form and that the form "se" is both masculine and feminine.
+jim: See case 53
+status = x
+------------------------------------------------------------------------
+
+Case 51: 02/09/2024 dict=MW, L= 252419, hw=saitavāhinī, user=srhodes
+old = sita v°
+new = sita-v° OR sitav°
+comment = Typo - I am guessing on this. Please let me know what you decide.
+jim: change to 'sita-v°'.
+    from mw72,  'sita + vAhinI'
+status = x
+------------------------------------------------------------------------
+
+Case 50: 02/08/2024 dict=MW, L= 81315, hw=ṭhakkana, user=srhodes
+old = ḍkakk°
+new = ḍhakk°
+status = x
+------------------------------------------------------------------------
+
+Case 49: 02/08/2024 dict=MW, L= 15150, hw=arati, user=srhodes
+old = (√ri
+new = (√ṛ 
+status = x
+------------------------------------------------------------------------
+
+Case 48: 02/08/2024 dict=MW, L= 15163, hw=aradhra, user=srhodes
+old = HIERARCHY ERROR
+new = SEPARATE LISTING
+comment = Typo - HIERARCHY ERROR
+jim: rewrite.
+OLD:
+<L>15163<pc>87,1<k1>araDra<k2>a/-raDra<e>2
+<s>a/-raDra</s> ¦ <lex>mfn.</lex> not pliant or obedient, <ls>RV. vi, 18, 4</ls> and <ls n="RV. vi,">62, 3.</ls><info lex="m:f:n"/>
+<LEND>
+<L>15163.1<pc>1316,1<k1>araDra<k2>a/-raDra<e>2A
+¦ (<ab>accord.</ab> to others, ‘rich, liberal’;<info n="sup"/>
+<LEND>
+<L>15163.2<pc>1316,1<k1>araDra<k2>a/-raDra<e>2A
+¦ <ab>cf.</ab> <s>raDra</s>).<info n="sup"/>
+<LEND>
+NEW:  <e>2 -> <e>1, and merge 15163.2 into 15163.1
+<L>15163<pc>87,1<k1>araDra<k2>a/-raDra<e>1
+<s>a/-raDra</s> ¦ <lex>mfn.</lex> not pliant or obedient, <ls>RV. vi, 18, 4</ls> and <ls n="RV. vi,">62, 3.</ls><info lex="m:f:n"/>
+<LEND>
+<L>15163.1<pc>1316,1<k1>araDra<k2>a/-raDra<e>1A
+¦ (<ab>accord.</ab> to others, ‘rich, liberal’; <ab>cf.</ab> <s>raDra</s>).<info n="sup"/>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 46: 02/08/2024 dict=MW, L= 15274, hw=arāli, user=srhodes
+old = araṇs
+new = arāṇi
+status = x
+------------------------------------------------------------------------
+
+Case 45: 02/08/2024 dict=MW, L=178142, hw=riṣaṇaya, user=srhodes
+old = 1. riṣaṇaya 
+new = 1. riṣaṇya 
+comment = Typo - Headword Typo!
+status = x
+------------------------------------------------------------------------
+
+Case 44: 02/08/2024 dict=MW, L= 15501, hw=aruṣya, user=srhodes
+old = aru ṣati
+new = aruṣati
+comment = Typo - The printed text shows a 'hyphen', but that is only because there is a line break.
+status = x
+------------------------------------------------------------------------
+
+
+Case 39: 02/06/2024 dict=MW, L= 263523, hw=huḍut, user=srhodes
+old = = -huḍuk
+new = = huḍuk
+status = 
+------------------------------------------------------------------------
+
+Case 38: 02/06/2024 dict=MW, L= 15700, hw=arghaṭa, user=srhodes
+old = -parghaṭa
+new = =pārghaṭa
+status = x
+------------------------------------------------------------------------
+
+Case 35: 02/05/2024 dict=MW, L= 260008, hw=svṛta, user=srhodes
+old = (√ri
+new = (√ṛ 
+status = x
+------------------------------------------------------------------------
+
+Case 34: 02/04/2024 dict=MW, L= 211740, hw=śaṭh, user=srhodes
+old = Dhātup. ix, 65;
+new = Dhātup. ix, 55;
+comment = Typo - This is a printing error correction for the verbal root "śaṭh". You may verify this correction by consulting with the Radices Linguae Sanscritae.
+Jim: print change
+status = x
+------------------------------------------------------------------------
+
+Case 33: 02/04/2024 dict=MW, L=251363 , hw=sūnātaṭi, user=srhodes
+old = slaughter h°
+new = slaughter-h°
+status = x
+------------------------------------------------------------------------
+
+Case 32: 02/04/2024 dict=MW, L= 251335, hw=sūnara, user=srhodes
+old = (for su-nara cf. sundara) 
+new = (for su-nara, cf. sundara) 
+status = x
+------------------------------------------------------------------------
+
+Case 31: 02/03/2024 dict=MW, L= 250733, hw=sūka, user=srhodes
+old = Hrada
+new = Hrāda
+comment = Typo - This may be a printing error. It would take some investigation. According to the Purāṇa Index the spelling is Hrāda.
+jim: no change.  pw mentions sUka as son of Hrada.
+ under 'hrada', also hrAda is mentioned in pw.
+status = x
+------------------------------------------------------------------------
+
+Case 30: 02/03/2024 dict=MW, L= 225193, hw=ṣaḍdurga, user=srhodes
+old = (viz. dhanva-durgā
+new = (viz. dhanva-durga
+comment = Typo - This can be verified by looking up the word "dhanurdurga" which lists the spelling correctly as a variant form. Also you may confer with Shabda Sagara Dictionary which also confirms that the long 'ā' should be short here.
+jim: print change. 
+status = x
+------------------------------------------------------------------------
+
+Case 29: 02/03/2024 dict=MW, L= 250548, hw=sustuta, user=srhodes
+old = (cf. ṣṭuta)
+new = (cf. -ṣṭuta)
+status = x
+------------------------------------------------------------------------
+
+Case 28: 02/01/2024 dict=MW, L= 250317, hw=suṣika, user=srhodes
+old = m. or suṣima coldness
+new = m. coldness
+Jim:  Rewrite
+OLD:
+<L>250317<pc>1238,1<k1>suzika<k2>suzika<e>1
+<s>suzika</s> or <s>suzima</s>, ¦ <lex>m.</lex> or <s>suzima</s> coldness, <ls>L.</ls><info or="250317,suzika;250317.2,suzima"/><info lex="m"/>
+<LEND>
+<L>250317.1<pc>1238,1<k1>suzika<k2>suzika<e>1B
+<s>suzika</s> ¦ <lex>mfn.</lex> cold, <ls>ib.</ls><info lex="m:f:n"/>
+<LEND>
+<L>250317.2<pc>1238,1<k1>suzima<k2>suzima<e>1
+<s>suzika</s> or <s>suzima</s>, ¦ <lex>m.</lex> or <s>suzima</s> coldness, <ls>L.</ls><info or="250317,suzika;250317.2,suzima"/><info lex="m"/>
+<LEND>
+<L>250317.3<pc>1238,1<k1>suzima<k2>suzima<e>1B
+<s>suzima</s> ¦ <lex>mfn.</lex> cold, <ls>ib.</ls><info lex="m:f:n"/>
+<LEND>
+NEW:
+<L>250317<pc>1238,1<k1>suzika<k2>suzika<e>1
+<s>suzika</s> or <s>suzima</s>, ¦ <lex>m.</lex> coldness, <ls>L.</ls><info or="250317,suzika;250317.2,suzima"/><info lex="m"/>
+<LEND>
+<L>250317.1<pc>1238,1<k1>suzika<k2>suzika<e>1B
+¦ <lex>mfn.</lex> cold, <ls>ib.</ls><info lex="m:f:n"/>
+<LEND>
+<L>250317.2<pc>1238,1<k1>suzima<k2>suzima<e>1
+<s>suzika</s> or <s>suzima</s>, ¦ <lex>m.</lex> coldness, <ls>L.</ls><info or="250317,suzika;250317.2,suzima"/><info lex="m"/>
+<LEND>
+<L>250317.3<pc>1238,1<k1>suzima<k2>suzima<e>1B
+¦ <lex>mfn.</lex> cold, <ls>ib.</ls><info lex="m:f:n"/>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 27: 02/01/2024 dict=MW, L=250317.2 , hw=suṣima, user=srhodes
+old = m. or suṣima coldness,
+new = m. coldness,
+Jim: see case 28
+status = x
+------------------------------------------------------------------------
+
+Case 25: 02/01/2024 dict=MW, L= 250188, hw=suśva, user=srhodes
+old = Pāṇ. v, 4, 220.
+new =  Pāṇ. v, 4, 120.
+comment = Typo - Errors like this are found by those who seriously study Sanskrit!
+jim: good catch!
+status = 
+------------------------------------------------------------------------
+
+Case 24: 01/31/2024 dict=MW, L= 221594, hw=śophin, user=srhodes
+old = subject to swellings id.
+new = subject to swellings, id.
+comment = Typo - needs the comma.
+status = x
+------------------------------------------------------------------------
+
+Case 23: 01/30/2024 dict=MW, L= 146075, hw=bṛhacchravas, user=srhodes
+old = (hac + śra°)
+new = (°hac + śra°)
+status = x
+------------------------------------------------------------------------
+
+Case 22: 01/30/2024 dict=MW, L= 213663, hw=śaraṇa, user=srhodes
+old = (fr. √śṛ
+new = (fr. √śṝ
+comment = Typo - Printing error.
+Jim: Confirm ap90. print change
+status = x
+------------------------------------------------------------------------
+Case 16: 01/30/2024 dict=MW, L= 248495.1, hw=sumnaya, user=srhodes
+old = sumnāya Nom. P. °yati (only p. °nāyat)
+new = sumnaya Nom. P. °yati (only p. °nayat)
+comment = Typo - How can the denominative form "sumnaya" be conjugated with a long vowel? This is incorrect. The denominative form "sumnāya" is listed SEPARATELY and conjugated accordingly. Therefore, the form "sumnaya" MUST have a short vowel in all related forms. Otherwise, what is the point of a separate listing? I humbly request that Jim have a look at this.
+Jim: Recode:
+OLD:
+<L>248495<pc>1231,3<k1>sumnAya<k2>sumnAya<e>2
+<s>sumnA<shortlong/>ya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s> (only <ab>p.</ab> <s>°nA<shortlong/>ya/t</s>), to be gracious or favourable, <ls>RV.</ls>;<info orsl="248495,sumnAya;248495.1,sumnaya"/><info verb="nom" cp="P"/>
+<div n="to"/>to be glad or cheerful, triumph, <ls>ib.</ls>
+<LEND>
+<L>248495.1<pc>1231,3<k1>sumnaya<k2>sumnaya<e>2
+<s>sumnA<shortlong/>ya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s> (only <ab>p.</ab> <s>°nA<shortlong/>ya/t</s>), to be gracious or favourable, <ls>RV.</ls>;<info orsl="248495,sumnAya;248495.1,sumnaya"/><info verb="nom" cp="P"/>
+<div n="to"/>to be glad or cheerful, triumph, <ls>ib.</ls>
+<LEND>
+NEW: Changed before ¦ , After broken bar is same in both
+<L>248495<pc>1231,3<k1>sumnAya<k2>sumnAya<e>2
+<s>sumnAya</s> or <s>sumnaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s> (only <ab>p.</ab> <s>°nAya/t</s> or <s>°naya/t</s>), to be gracious or favourable, <ls>RV.</ls>;<info orsl="248495,sumnAya;248495.1,sumnaya"/><info verb="nom" cp="P"/>
+<div n="to"/>to be glad or cheerful, triumph, <ls>ib.</ls>
+<LEND>
+<L>248495.1<pc>1231,3<k1>sumnaya<k2>sumnaya<e>2
+sumnAya</s> or <s>sumnaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s> (only <ab>p.</ab> <s>°nAya/t</s> or <s>°naya/t</s>)), to be gracious or favourable, <ls>RV.</ls>;<info orsl="248495,sumnAya;248495.1,sumnaya"/><info verb="nom" cp="P"/>
+<div n="to"/>to be glad or cheerful, triumph, <ls>ib.</ls>
+<LEND>
+
+status = x
+------------------------------------------------------------------------
+
+Case 15: 01/30/2024 dict=MW, L= 248860, hw=suvakṣas, user=srhodes
+old = N. of a man g. śubhrādi
+new = N. of a man, g. śubhrādi
+status = x
+------------------------------------------------------------------------
+
+Case 14: 01/30/2024 dict=MW, L= 248848, hw=sulohin, user=srhodes
+old = N. of a man g. gargādi
+new = N. of a man, g. gargādi
+status = x
+------------------------------------------------------------------------
+
+Case 13: 01/30/2024 dict=MW, L= 248819, hw=sulābhin, user=srhodes
+old = N. of a man g. gargādi
+new = N. of a man, g. gargādi
+status = x
+------------------------------------------------------------------------
+
+Case 12: 01/30/2024 dict=MW, L= 248772, hw=surohitikā, user=srhodes
+old = N. of a woman g. śivādi
+new = N. of a woman, g. śivādi
+status = x
+------------------------------------------------------------------------
+
+Case 11: 01/30/2024 dict=MW, L= 248770, hw=surohikā, user=srhodes
+old = N. of a woman g. śivādi
+new = N. of a woman, g. śivādi
+status = x
+------------------------------------------------------------------------
+
+Case 9: 01/30/2024 dict=MW, L= 87693, hw=tricīvara, user=srhodes
+old = the 3 vestments of a, Buddh.  monk
+new = the 3 vestments of a Buddh.  monk
+status = x
+------------------------------------------------------------------------
+
+Case 8: 01/30/2024 dict=MW, L= 248758, hw=surai, user=srhodes
+old = very, rich, 
+new = very rich, 
+status = x
+------------------------------------------------------------------------
+
+Case 7: 01/30/2024 dict=MW, L= 177034, hw=rāṇāyanīya, user=srhodes
+old = N. of, a preceptor
+new = N. of a preceptor
+status = x
+------------------------------------------------------------------------
+
+Case 6: 01/30/2024 dict=MW, L= 10096, hw=apāśraga, user=srhodes
+old = apāśraga
+new = apāśraya
+comment = Typo - Headword Typo!
+status = x
+------------------------------------------------------------------------

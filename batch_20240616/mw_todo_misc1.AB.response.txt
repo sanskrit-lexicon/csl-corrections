@@ -1,0 +1,67 @@
+(Further AB comment on mw_todo_misc1)
+mw_todo_misc1: Jim's resolution of several more of Scott's correction submissions .
+------------------------------------------
+
+Case 549: 05/06/2024 dict=MW, L=92075 , hw=dityavah, user=srhodes
+old = ditya-vah f. °tyauhī 
+new = f. °tyauhī 
+comment = Typo – This correction follows the printed text.
+Jim:
+OLD: <s>ditya-va/h</s> ¦ <lex>f.</lex> <s>°tyOhI</s> (<ls>Pāṇ. iii, 2, 64</ls>;
+NEW: ¦ <lex>f.</lex> <s>°tyOhI</s> (<ls>Pāṇ. iii, 2, 64</ls>;
+status = done
+
+AB: This is part of the grouped entry (with the prev. one, that got stripped-off of the "meaning" otherwise) and as such should be clubbed together.
+AB: It may be noted how the marking is changed in AB revision-- "|...|" for the "indicative" terminations, instead of "<s>...</s>".
+AB: And the very next entry L-92076 is referring to this entry matter.
+
+<L>92074<pc>477,3<k1>dityavah<k2>ditya-váh<e>1
+<s>ditya-váh</s> ¦ <lex>m.</lex> (in strong cases <s>°vāh</s> <ab>nom.</ab> <s>°vāṭ</s>; <ab>instr.</ab> <s>dityauhā</s>)<info n="rev" pc="1328,3"/><info lex="m"/>
+<LEND>
+<L>92075<pc>477,3<k1>dityavah<k2>ditya-váh<e>1B
+<s>ditya-váh</s> ¦ <lex>f.</lex> <s>°tyauhī</s> (<ls>Pāṇ. iii, 2, 64</ls>; <ls n="Pāṇ.">vi, 4, 132</ls>, <ls>Kāś.</ls>) a two-year-old steer or cow, <ls>VS.</ls>; <ls>TS.</ls> (<ab>prob.</ab> from <s>ditya</s> = <s>dvitīya</s> + <s>vah</s> <ab>cf.</ab> <s>turya-vah</s>.)<info lex="f"/>
+<LEND>
+
+as
+<L>92074<pc>477,3<k1>dityavah<k2>ditya-váh<e>1
+⓵<s>ditya-váh</s>, <lex>m.</lex> (in strong cases |°vāh| ⁅nom.⁆ |°vāṭ|; ⁅instr.⁆ <s>dityauhā</s>);  <s>di°tyauhī</s>, <lex>f.</lex> |°tyauhī| (<ls>Pāṇ. iii, 2, 64</ls>; <ls n="Pāṇ.">vi, 4, 132, <sch>Kāś.</sch></ls>)🠚✦ 🠚⧫¦ a two-year-old steer or cow, <ls>VS.</ls>; <ls>TS.</ls> (⁅prob.⁆ from <s>ditya</s> = <s>dvitīya</s> + <s>vah</s>, ⁅cf.⁆ <s>turya-vah</s>.)//rev(1328,3)
+ⓓ
+ⓓ
+ⓓ
+<LEND>
+============================================================
+Case 412: 04/10/2024 dict=MW, L=221702, hw=śaukara, user=srhodes
+old = °rava
+new = °raka
+comment = Typo – I am making a guess here that needs to be looked into. The word "saukara" certainly exists, but the word "saukarava" does not exist. However there is the word "saukaraka" which leads me to believe that here the form cited as "°rava" should be corrected to "°raka".
+Jim: no change
+mw   : SOkara °rava See sOk°
+mw72 : SOkara śaukara or śaukarava
+so likely that mw99 copied from mw72, thus '°rava' is as intended.
+However, from 'See sOk° in mw, I would have expected there to be a sOkara AND sOkarava.
+In short, MW is confusing here, but there is not enough information for a print change.
+status = done
+ 
+ AB: It is interesting how MW72 got this addl. form "śaukara", though its "source" PWG is having "saukara (and saukaraka)" alone (which is also present in MW72). The same got carried onto MW99. Has MW (in 1872) referred to the SKD (ed. 1) directly?!!
+ AB: PWG's source Aufrecht has the alt. form "saukaraka"; however the Indic sources VCP (and SKD) show śaukara(ṃ) and śaukarava(ṃ) alone, but not the śaukaraka(ṃ) nor the saukara(ṃ).
+ AB: Should we consider Aufrecht to be in error (an extremely rare case), talking about one manuscript's content in the Oxford Library collection, that is the basis for PWG (and MW72, pwk and MM99)??
+ AB: My personal opinion is to consider the Indic [VCP (and SKD)] citations to be "correct".
+ AB: At the end, probably, it is more convenient to leave the matter untouched, as Jim had done!
+ AB: [Let's presume MW to have done some independent work in this case; but still following PWG, as the regular practice (in taking-in the saukara etc.).]
+============================================================
+Case 375: 04/01/2024 dict=MW, L=185124.1, hw=vajahuṇa, user=srhodes
+old = (cf. vajra-hūṇa)
+new = (cf. vajra-hūna)
+comment = Typo - You may confirm this correction by looking up the corrected word "vajrahūna" in MW dictionary. However, the printed word "vajra-hūṇa" is nowhere to be found.
+Jim: vajrahURa is in PW.
+I think it more likely that L=180506 vajrahUna is a print error in MW (and should be vajrahURa)
+... ... ...
+
+There appears to me inconsistencies.  But exactly what the 'real story' should be
+is not clear.  Thus, no change.
+
+status = done.
+
+AB: I would suggest changing L-185056 as "vajra-hūṇa" taking it as a print error. [All three of Aufrecht, PWG and MW L-185124 support this.]
+============================================================
+

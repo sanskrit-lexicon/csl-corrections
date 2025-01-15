@@ -1,0 +1,41 @@
+Sanskrit Lexicon Correction Form History for PUI
+As of May 29, 2024
+3 correction records, with 3 PENDING
+
+Case 628: 05/18/2024 dict=PUI, L=2622, hw=kardama, user=srhodes
+old = father of Kapīla
+new = father of Kapila
+comment = Typo – This is very likely a printing error (unless it is allowed as a variant spelling by some authority).
+jim: print change;
+  mw confirms kardama father of "Kapila".  "kapIla" in no dictionry.
+  "Kapila" occurs 60 times in pui.txt.
+status = done
+------------------------------------------------------------------------
+
+Case 623: 05/18/2024 dict=PUI, L=6572, hw=dharmavarman, user=srhodes
+old = Vanga
+new = Vaṅga
+comment = Typo – Please let me know if you would like to implement the proper diacritic markings for the online definitions.
+status = done
+------------------------------------------------------------------------
+
+Case 390: 04/04/2024 dict=PUI, L=10159, hw=mantropaniṣad, user=srhodes
+old = Sankar-ṣaṇa
+new = Saṅkarṣaṇa
+comment = Typo - The hyphen is only due to a line break in the printed text, otherwise (as here online) it is incorrect. Also, I prefer the proper letter "ṅ" rather than the dental "n". But this depends also upon your preference. Please let me know if I should continue offering such corrections as I do not want to waste your time or mine.
+status = done
+------------------------------------------------------------------------
+
+cp pui.txt /c/xampp/htdocs/cologne/csl-orig/v02/pui/pui.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pui  ../../pui
+sh xmlchk_xampp.sh pui
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+# git add, etc. https://github.com/sanskrit-lexicon/csl-orig/issues/1642
+git push
+# do the necessary for cologne server
+# sh generate_dict.sh pui  ../../PUIScan/2020/
+cd /c/xampp/htdocs/cologne/csl-corrections/temp_batch
+
+Copy the items in local pui_printchange.txt to its proper location in csl-corrections,
+and update the csl-corrections repo.

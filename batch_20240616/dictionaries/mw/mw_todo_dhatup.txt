@@ -1,0 +1,56 @@
+Case 689: 05/29/2024 dict=MW, L=72700, hw=cah, user=srhodes
+old = Dhātup. xvii, xxxv.
+new = Dhātup. xvii, LXXX.
+comment = Typo – I believe that this is a printing error. According to the Radicesling., this is numbered as Dhātup. 17.80.
+status = done
+Jim:  print change:
+      For some reason, MW did not put the subsection numbers in this reference
+OLD: <ls>Dhātup. xvii</ls>, <ls n="Dhātup.">xxxv.</ls>
+NEW: <ls>Dhātup. xvii, 80</ls>, <ls n="Dhātup.">xxxv, 14</ls>.
+
+There are only a few similar:
+5 matches for "<ls>Dhātup. [xivl]+</ls>" in buffer: mw.txt
+---
+78362<pc>416,2<k1>jas
+OLD: <ls>Dhātup. xxxii</ls>
+NEW: <ls>Dhātup. xxxii, 127</ls>
+ 265340:<div n="to"/>to hurt (<ab>cf.</ab> <ls>Pāṇ. ii, 3, 56</ls>), <ls>Dhātup. xxxii</ls>;
+ ---
+78362<pc>416,2<k1>jas
+OLD: <ls n="Dhātup.">xxxiii</ls>
+NEW: <ls n="Dhātup.">xxxiii, 44</ls>
+---
+
+271029:<div n="to"/>to hurt, <ls>Vop.</ls> (<ls>Dhātup. xv</ls>);
+<L>80115<pc>424,2<k1>jUrv
+OLD: <ls>Dhātup. xv</ls>
+NEW: <ls>Dhātup. xv, 64</ls>   Note: jurvI
+---
+
+ 274410:<s>JF</s> ¦ (= √ <s>jF</s>) <ab>cl.</ab> 4. 9. <s>JIryati</s>, <s>JfRAti</s>, to become old, <ls>Dhātup. xxvi</ls>, <ls n="Dhātup.">xxxi</ls>;
+<L>81147<pc>429,2<k1>JF
+OLD: <ls>Dhātup. xxvi</ls>
+NEW: <ls>Dhātup. xxvi, 23</ls> ??? Jim Could not find (AB found)
+
+OLD: <ls n="Dhātup.">xxxi</ls>
+NEW: <ls n="Dhātup.">xxxi, 24</ls>
+
+---
+
+ 290070:<s>tump</s> ¦ <s>tumP</s> <ab>cl.</ab> 1. 6. <s>°pati</s>, <s>°Pati</s>, to hurt, <ls>Dhātup. xi</ls>; <ls n="Dhātup.">xxviii, 26 f.</ls>;
+<L>85943<pc>450,3<k1>tump
+OLD: <ls>Dhātup. xi</ls
+NEW: <ls>Dhātup. xi, 11</ls # तुन्प्
+
+---
+290074:<s>tumP</s> ¦ <s>tump</s> <ab>cl.</ab> 1. 6. <s>°pati</s>, <s>°Pati</s>, to hurt, <ls>Dhātup. xi</ls>; <ls n="Dhātup.">xxviii, 26 f.</ls>;
+<L>85943.1<pc>450,3<k1>tumP
+OLD: <ls>Dhātup. xi</ls>
+NEW: <ls>Dhātup. xi, 15</ls>  # तुन्फ् 
+
+---
+1 match for "<ls n="Dhātup.">[xivl]+</ls>" in buffer: mw.txt
+ 253209:<s>cuq</s> ¦ <ab>cl.</ab> 6. <s>°qati</s>, to conceal, <ls n="Dhātup.">xxviii</ls>.<info verb="root" cp="6"/>
+<L>74560<pc>400,1<k1>cuq
+OLD: <ls n="Dhātup.">xxviii</ls>
+NEW: <ls n="Dhātup.">xxviii, 98</ls>

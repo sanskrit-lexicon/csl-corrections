@@ -1,0 +1,204 @@
+This contains Jim's action/comments on items mentioned by AB in batch2.AB.remarks.txt
+
+Case 604: 05/15/2024 dict=MW, L=81579.1, hw=takaraka, user=srhodes
+old = This Headword may be a mistaken listing. On the printed page I see this word listed only in the form "°raka" as cited in the definition of the Headword word "takarī" [ID=81582.1]. But I do not find the word "takaraka" itself listed as a Headword anywhere in MW dictionary. I appreciate this listing so that the word is "searchable", but still I do not see the Headword "takaraka" on any printed page of MW dictionary. Therefore I consider this to be a point for further investigation.
+new = Investigate the Headword "takaraka" to find where it is fully printed as a Headword in MW dictionary.
+Jim: L=81582.1 takarI  from supplement has 3 alternate forms tagara, °raka, tagarI
+  [Note °raka expands to takaraka].
+  These alternates are inserted at 81638.1 tagara, 81579.1 takaraka, 81639.2 tagarI.
+  81582.1 takarI text changed to newtext:
+  <s>tagarI</s> (also <s>tagara</s>, <s>°raka</s> or <s>tagarI</s>)¦ = <s>sTakara</s> or <s>sTagara</s>, a <ab>partic.</ab> fragrant powder (<ls>Bloomfield</ls>'s, <ls>AV.</ls>, <ab>p.</ab> 311).<info n="sup"/>
+  text of 81638.1 tagara changed to newtext
+  text of 81579.1 takaraka changed to newtext
+  text of 81639.2 tagarI. changed to newtext
+
+These could be further revised to a single 'grouped' entry (with headword takarI),
+if the 'groups' are recoded at some time.  Or, I could have put an <info or="..."/>
+phrase into each of the 4.
+status = done
+AB rev1:
+AB: it is taga°raka, not taka°raka; also note that "tagaraka" exists at L-81646 & L-255159 as well.
+
+Jim:
+ move 81579.1 to 81646.1  (after tagaraka),
+  and change 'takaraka' in metaline to 'tagaraka':
+OLD:
+<L>81579.1<pc>1328,1<k1>takaraka<k2>ta/karaka<e>1
+<s>tagarI</s> (also <s>tagara</s>, <s>°raka</s> or <s>tagarI</s>)¦ = <s>sTakara</s> or <s>sTagara</s>, a <ab>partic.</ab> fragrant powder (<ls>Bloomfield</ls>'s, <ls>AV.</ls>, <ab>p.</ab> 311).<info n="sup"/>
+<LEND>
+NEW:
+<L>81646.1<pc>1328,1<k1>tagaraka<k2>tagaraka<e>1
+<s>tagarI</s> (also <s>tagara</s>, <s>°raka</s> or <s>tagarI</s>)¦ = <s>sTakara</s> or <s>sTagara</s>, a <ab>partic.</ab> fragrant powder (<ls>Bloomfield</ls>'s, <ls>AV.</ls>, <ab>p.</ab> 311).<info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+Case 581: 05/12/2024 dict=MW, L=183618, hw=loṇā, user=srhodes
+old = = -lonāmlā
+new = = lonāmlā
+status = done
+
+AB rev1: it should also be made "loṇāmlā"
+Jim: <s>lonA<srs/>mlA</s>  -> <s>loRA<srs/>mlA</s>
+
+------------------------------------------------------------------------
+Case 578: 05/11/2024 dict=MW, L=67503, hw=gorāṭī, user=srhodes
+old = = -kirāł°
+new = = -kirāṭ°
+comment = Typo - I am certain of this correction.
+Jim:  not marking as print change
+status = done
+AB rev1:
+  why is this not marked as a print-change?
+Jim:
+The print looks like -kirāl° (with a dot under the l).
+pw has gokirAwikA und *°kirAwI  (a certain bird)
+conclude:
+ Scott's change '-kirāṭ°' looks right,
+ AND: It should be marked as print change.
+------------------------------------------------------------------------
+
+Case 574: 05/10/2024 dict=MW, L=138976, hw=prāsaṅgavāhīvāh, user=srhodes
+old = prāsaṅgavāhīvāh
+new = prāsaṅgavāhīvah
+comment = Typo – Please look at the printed text. It appears that there are two acceptable forms. One with a long penultimate vowel as listed here, and one with a short penultimate vowel as, "prāsaṅgavāhīvah". If this is true, then perhaps both forms should be listed as searchable Headwords. Also check the word "vāhīvah" which references the word "prāsaṅgavāhīvah" with a short penultimate vowel. The reference lead me here to offer this correction.
+status = done
+Jim: Handled the short/long vowel alternates as followed.
+OLD:
+<L>138976<pc>702,3<k1>prAsaNgavAhIvAh<k2>prA—saNga—vAhIvA/h<e>4
+<s>prA—saNga—vAhIvA/h</s> ¦ <lex>mfn.</lex> = <s>uzwf</s>, <ls>ĀpŚr.</ls>, <ab>Sch.</ab><info lex="m:f:n"/>
+<LEND>
+NEW:
+<L>138976<pc>702,3<k1>prAsaNgavAhIvAh<k2>prA—saNga—vAhIvAh<e>4
+<s>prA—saNga—vAhIvAh</s> or <s>prA—saNga—vAhIvah</s>¦ <lex>mfn.</lex> = <s>uzwf</s>, <ls>ĀpŚr.</ls>, <ab>Sch.</ab><info lex="m:f:n"/>
+<LEND>
+<L>138976.1<pc>702,3<k1>prAsaNgavAhIvah<k2>prA—saNga—vAhIvah<e>4
+<s>prA—saNga—vAhIvAh</s> or <s>prA—saNga—vAhIvah</s>¦ <lex>mfn.</lex> = <s>uzwf</s>, <ls>ĀpŚr.</ls>, <ab>Sch.</ab><info lex="m:f:n"/>
+<LEND>
+
+AB rev1:
+ AB: why not apply this "logic" all across the entries containing <shortlong/> in HWs?? [over a 50+ of them are present in the header portion, and ~90 in the body portion]
+Jim:
+Added to mw_todo.txt
+
+------------------------------------------------------------------------
+Case 562: 05/08/2024 dict=MW, L=66205, hw=guliṅka, user=srhodes
+old = (= kul°)
+new = (= kuliṅga)
+comment = Typo – This correction is a suggestion on the strength the following reasoning. The word "kuliṅka" does not extist. But there is the word "kuliṅga" which fits the definition of "a sparrow". I hope that Jim will look into this. When a word is cited that does not exist, I have to call it out!
+Jim:  print change
+status = done
+AB rev1:
+see L-51162 & L-53152; I suggest to revert this, as this could be taken as a v. l. form (many of which are not to be found as HWs!)
+
+Jim:
+PWG: guliNka m. = kuliNkaka (so ist st. kuliNgaka oben zu lesen und dieses als v.l.
+MW72: guliNka guliṅka, as, m. = kuliṅkaka,
+51162: <s>ku—liNgaka</s> ¦ <lex>m.</lex> a sparrow (<ab>v.l.</ab> <s>kuliNkaka</s>)
+53152: <s>kuliNkaka</s> ¦ See <s>°liNgaka</s>.
+
+Conclusion: There seem to be several words for this little sparrow
+I guess AB's point is in part that we don't know what '(= kul°)'
+is referring to, so we should not make up an expansion.
+Jim's Action:
+Revert to (= kul°), and remove from print change list.
+
+------------------------------------------------------------------------
+Case 559: 05/07/2024 dict=MW, L=95056, hw=dūlālīya, user=srhodes
+old = wk.
+new = wks.
+status = done
+AB rev1:
+AB: There are many other such places that need the same correction.
+Jim:
+ Add to mw_todo.txt 
+------------------------------------------------------------------------
+
+Case 518: 05/03/2024 dict=MW, L=141466, hw=plī, user=srhodes
+old = plināti
+new = plīnāti
+comment = Typo – This may be a printing error. According to Apte Dictionary, the form has the long vowel ī. This makes sense, since the Headword itself has a long vowel. Why has MW dictionary listed the finite verb with a short vowel? Please consider this as a challenge: MW Dictionary VERSUS Apte Dictionary. There is only one winner here. I hope that Jim will look into this. Thank you.
+Jim: no change. 
+  PW has plinAti.
+  mADavIya DAtu vftti has plinAti, in section 35:
+   https://sanskritlibrary.org/Sanskrit/Vyakarana/Dhatupatha/mdhvscan/disp/index.php?page=581
+  The Westerguard DP reference (XXXI, 82) looks like a bad reference.
+status = done
+AB rev1:
+AB: "Dhātup. xxxi, 32" is the correct link, as at pwk.
+Jim:
+1) change 82 to 32
+2) Add to mw_printchange.
+
+------------------------------------------------------------------------
+
+Case 466: 04/24/2024 dict=MW, L=41003.1, hw=audrāyaṇa, user=srhodes
+old = uddāyan-a)
+new = Uddāyaṇa)
+Jim:  AB, This form "<i>Uddāyaṇa</i>" seems unusual.
+Perhaps it should be either
+  <s1 slp1="uddAyaRa">Uddāyaṇa</s1>  OR
+  <s>uddAyaRa</s>
+status = done
+AB rev1:
+AB: This is a Prākṛt word and not a Sanskṛt word; as such it cannot go with s1-tag (or s-tag), but it has to be put in italics as per print (like in other language words). [My revision had it as cog-tagged!]
+
+Jim:  Reverted to "(for <lang>Prākṛt</lang> <i>Uddāyaṇa</i>)"
+------------------------------------------------------------------------
+Case 456: 04/23/2024 dict=MW, L=74867, hw=cūlikopaniṣad, user=srhodes
+old = N. of an, Up. 
+new = N. of an Up. 
+comment = Typo – Please note that the correction made here is entirely part of the definition itself. This is not a "reference" to "Up.". The entire defintion must maintain the same "font style"; also please remove the "comma" which is not present in the printed text.
+Jim:
+OLD: <ls>Up.</ls>
+NEW: <ab n="Upanishad">Up.</ab>
+status = done
+
+AB: There are ~50 other places that need similar correction.
+
+Jim:
+1. The removal of comma after ' an, ' remains, and is in the mw_todo.txt
+2. The change of tagging of Up. is reverted.
+Reason for '<ls>Up.</ls>' tagging.  It is in MW's list of works, with
+tip as a literary category.
+
+------------------------------------------------------------------------
+Case 415: 04/12/2024 dict=MW, L=83586, hw=talpaśadya, user=srhodes
+old = talpaśadya
+new = talpasadya
+comment = Typo - Please note that this is a Headword Typo! The Headword Itself needs to be corrected. (This correction is worth 1000 points).
+status = done
+AB rev1:
+AB: There are more such cases, where k1 & k2 fields differ (ignoring the accents & hyphens in k2).
+
+Jim:
+Add to mw_todo.txt 
+------------------------------------------------------------------------
+
+Case 386: 04/03/2024 dict=MW, L=200362, hw=viven, user=srhodes
+old = (cf. ā-vivenat)
+new = (cf. a-vivenat)
+status = done
+AB rev1:
+AB: it is not <s>a<srs/>-vivenat</s>, but to be <s>a/-vivenat</s>.
+
+Jim: corrected accent.
+
+------------------------------------------------------------------------
+Case 369: 03/30/2024 dict=MW, L=38000 , hw=ūy, user=srhodes
+old = ūyiṣṭa
+new = auyiṣṭa
+comment = Typo - I am wondering if "auyiṣṭa" is the correct form here. I am sure that Jim will know the answer.
+Jim: no change:  I have no contribution here.  Maybe Dhaval or Andhrabharati would know.
+status = done
+AB rev1:
+AB: Yes, the Dhāturatnākara (1st ed.) has it as "auyiṣṭa". But various online dhātu inflexions (programmatically generated, which I guess are mostly based on SidhāntaKaumudī & not on Pāṇini "as is") do not contain this "form".
+Jim:
+No change made. From my understanding of AB's statement, ūyiṣṭa is not
+'wrong'.
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------

@@ -1,0 +1,312 @@
+
+relative to mw.txt
+--------------------------------
+From issue 1639
+
+k1&k2 different.txt   todo
+--------------------------------
+Case 369: 03/30/2024 dict=MW, L=38000 , hw=ūy, user=srhodes
+old = ūyiṣṭa
+new = auyiṣṭa
+
+done.  print chg.
+---------------------------------
+From issue 1639
+"kathaṃ-kathā" is to be repositioned to 42767.1
+done
+---------------------------------
+from batch3.AB.remarks.txt
+---------------------------------
+L=133375, hw=pratisaṃkhyānirodha
+(cf. a-pr°-n°)
+AB: This, in fact, is referring to <s>a-pr°atisaṃkhyā-n°irodha</s> [L-10618]; so Jim may update his correction.
+
+Jim: (cf. a-pr°-n°) is printed. It is correct.
+---------------
+L=73836, hw=citrayāma
+jim: done print change
+OLD: = <s>-Drajati</s>
+NEW: = <s>citra/-Drajati</s>
+
+---------------
+L=130036, hw=prakṛti Questionable words.
+AB: comment
+Jim: No action required
+---------------
+L=153906.1 , hw=maka  m. m.
+AB: There are three more places of m. m., at L-11224 (m.), L-35783 (m. f.) and L-40003 (m. f.); and three places of n. n. at L-170983 to 170985 (n.)
+AB: Also note that many entries in mw.txt have "jumbled up" the lex info (in multiple ways), esp. around f.
+Jim: 
+11224<pc>61,2<k1>indrasyABikranda<k2>
+OLD: <lex>m.</lex> <lex type="hw">m.</lex>
+NEW: <lex>m.</lex>
+---
+<L>35783<pc>206,3<k1>upavAka
+OLD: <lex>mf(<s>°kA</s>) </lex>
+NEW: <s>as</s>, <s>A</s>, <lex>m.</lex> <lex>f.</lex>
+---
+<L>40003<pc>231,2<k1>eRa
+OLD: <lex>mf(<s>I/</s>). </lex>
+NEW: <s>as</s>, <s>I/</s>, <lex>m.</lex> <lex>f.</lex>
+---
+<L>170983<pc>848,3<k1>yazwimaDu
+OLD: <lex>n.</lex> <lex>n.</lex>
+NEW: <lex>n.</lex>
+---
+<L>170984<pc>848,3<k1>yazwimaDuka
+OLD: <lex>n.</lex> <lex>n.</lex>
+NEW: <lex>n.</lex>
+---
+<L>170985<pc>848,3<k1>yazwimaDukA
+OLD: <lex>n.</lex> <lex>n.</lex>
+NEW: <lex>n.</lex>
+
+---------------
+L=168135 , hw=maitra
+outcaste v. out-caste
+AB: I would suggest retaining the hyphens when not at the line-break. Of course, we can see the same dictionary having the words without a hyphen in-between (no self-consistency; let that be the compiler's preference)!!
+AB: I find 16 instances of 'outcaste' in the current mw text data.
+
+jim: also 25 'out-caste'.
+Jim: no change needed at this time. MW uses both spellings.
+
+---------------
+L=168785, hw=maurajika
+Jim: change to drum-beater
+---------------
+L=155222, hw=mathāta
+AB: No print change; but the word 'mATATa' got skipped in MW from pwk (L-85933)!!
+Jim:
+1. revert
+OLD: <s>maTAta</s> ¦ See <s>mamATa</s>.
+NEW: <s>maTAta</s> ¦ See <s>mATATa</s>.
+2. Remove from print change list.
+---------------
+L=115003, hw=patañcala
+AB: AFAIK, the s1-tag is to be used (as a norm) only for straight face words (mostly proper names), not for italic words.
+Jim: no change
+Current coding: (with the <ab>patr.</ab> <s1 slp1="kApya">Kāpya</s1>)
+
+  I think of the s1 tag also appropriate for names which appear
+  capitalized in the print, such as Kāpya.
+  There are many 'with the <ab>patron.</ab> <s1>X</s1>"
+---------------
+ L=123440, hw=pāṣṭhauha
+AB: PWG also has paṣṭhavāh equating it to pṛṣṭhavāh.
+AB: While MW has pṛṣṭha-vā̆́[ā́ / á]h at L-128869 with ⁅w. r.⁆ for <si>paṣṭha-v°</si> (common-sense says this should also take both short & long vowels, as in the parent word), he appears to have used only the short vowel for paṣṭha-váh at L-120777.
+AB: Finally, I do agree with Jim to leave the word as in the print (with long vowel).
+
+Jim: no change.
+When we expose the 'long-short' at 128869, then paṣṭha-vāh WILL be a
+ headword
+---------------
+L=126639, hw=puroḍās
+AB: You've missed the comma separation, dear Scott!
+jim: no action required.
+<s>puro-qAS</s>, ¦ <s>°Sa</s> &c. See <ab>p.</ab> 635.
+---------------
+L=122722 , hw=pāridṛḍhi
+Scott:
+old = fr. pari-dṛḍhi
+new = fr. pari-dṛḍha
+AB: I agree with Scott here; PWG clearly gives "patron. von paridṛḍha" under pāridṛḍhi supporting the argument.
+Jim:
+1.
+OLD: <ab>patr.</ab> <ab>fr.</ab> <s>pari-dfQi</s>
+NEW: <ab>patr.</ab> <ab>fr.</ab> <s>pari-dfQa</s>
+2. print change
+---------------
+L=117746, hw=paridṛḍha
+Scott:
+old = (cf. pāridṛḍha)
+new = (cf. pāridṛḍhi)
+AB: This is just the reverse of the case 255, so let's go with Scott; but mark the word as pāri-dṛḍhi (retaining the hyphen to match with L-122722).
+Jim:
+1.
+old: (<ab>cf.</ab> <s>pAridfQa</s>)
+new: (<ab>cf.</ab> <s>pAri-dfQi</s>)
+2. print change
+---------------
+L=2251.1, hw=añc
+Scott:
+old = akudhryāñc
+new = akudhryañc
+AB: To change akudhryâñc -> akudhryàñc as per print; also to change udañc -> údañc & devadryáñc -> devadryàñc
+Jim:
+OLD: see <s>akuDrya^Yc</s>, <s>a/vAYc</s>, <s>udaYc</s>, <s>devadrya/Yc</s>
+NEW: see <s>akuDrya^Yc</s>, <s>a/vAYc</s>, <s>u/daYc</s>, <s>devadrya^Yc</s>
+Vgl. pippakA Vgl. pippakA Vgl. pippakA
+---------------
+L=124343, hw=pippakā
+Scott:
+old = (cf. pippīka)
+new = (cf. pippīkā)
+AB: Not at all a tangled matter, Jim! This is a feminine gender word and has to be ending in a long vowel; it is a clear case of print-error. Let's mark it accordingly.
+Jim:
+1.
+OLD: (<ab>cf.</ab> <s>pippIka</s>)
+NEW: (<ab>cf.</ab> <s>pippIkA</s>)
+2. print change
+---
+But AB, note in pwg:
+ pwg: pippakA f. ein best. Vogel Vs. 24, 40.  — Vgl. pippIka
+ pwg: pippIka m.  ... Vgl. pippakA
+ 
+---------------
+L=105627, hw=nāndīmukha
+Scott:
+old = °khaḥ pitṛ-gaṇah
+new = °khaḥ pitṛ-gaṇaḥ
+AB: Why am I not able to see any change here!!? (Are my eyes deceiving me?)
+
+Jim: Yes, they are!  The last letter is different!
+---------------
+L=37657, hw=ulva
+Hierarchy error.
+It may be noted that L-37526 has no <hom>a</hom> at ulva, though the index window (at left in list display) is showing it; however L-37657 has <hom>b</hom> for ulva.
+AB: Jim may recall my recent post at the other repo (MWS #163) about such missings [running to >1000+ roughly, in the whole text], and my decision to get rid of those hom a & b tags altogether.
+
+Jim: the 'Arrow' at 37526.3 is due to <h>a in metaline:
+  <L>37526.3<pc>219,1<k1>ulva<k2>u/lva<h>a<e>1
+The missing 'a' in list may be markup error:
+
+OLD: <s>u/lba</s> or <s>u/lva</s>
+NEW: <s>u/lba</s> or <s>u/lva</s> <hom>a</hom>
+---------------
+L= 263605, hw=hūṃkāra
+AB: Jim, MW has taken huṃ-kṛta from pwk (L-135028) and put it under huṃ; it is a plain print error at cross-referring place having it as -kṛti; let's change it to -kṛta. Of course, we also have to do the hum -> huṃ change, as you mentioned.
+Jim:
+1.
+Old: <s>hUM-kAra</s>, ¦ <s>hUM-kfti</s>. See under <s>huM</s>, <ab>col.</ab> 2.
+new: <s>hUM-kAra</s>, ¦ <s>hUM-kfta</s>. See under <s>huM</s>, <ab>col.</ab> 2.
+2.
+Print change
+---------------
+L=47207, hw=kāku
+Scott:
+old = (cf. śevākāku
+new = (cf. sevākāku
+AB: MW itself has the word "sevā-kāku" at L-252285 which is being cross-referred here; let's keep the hyphen in the word.
+
+Jim: add the '-'
+OLD: (<ab>cf.</ab> <s>sevAkAku</s>.)
+NEW: (<ab>cf.</ab> <s>sevA-kAku</s>.)
+---------------
+L= 15368, hw=ariṣṭagātu
+Scott:
+old = (areṣṭa)
+new = (ariṣṭa-)
+AB: Both Scott & Jim have missed the (árlṣṭa) at the very next word, that also should become (ariṣṭa-).
+Jim: at  <L>15369<pc>88,1<k1>arizwagu, (next word)
+OLD: (<s>a/rlzwa</s>)
+new: (<s>a/rizwa-</s>)
+---------------
+L= 78292, hw=jalp
+Scott:
+old = (said of the Koīl)
+new = (said of the Koil)
+AB: Jim has missed <ns>Koïl</ns>
+Jim:
+OLD: Koil
+NEW: Koïl
+---------------
+L=15163.1, hw=aradhra
+AB: Jim, I had marked this as a H1 type entry and noticed that you also did the same in the latest file!! [It was marked as H2 type earlier.]
+Jim:
+My comment in batch3  in error !  H1 it is!
+No further change required.
+---------------
+16583.1  Hierarchy placement
+I suggest marking this "a-latikā" as a H1 type entry, thus eliminating all ambiguities.
+
+Jim:  I'll go with Scott/AB suggestion, and mark as H1.
+  
+---------------
+L= 42764.1, hw=kathaṃkathā
+Alphabetical placement.
+
+AB: Jim! Scott has identified a very good point (esp. in MW), which he has posted 2 days back (above, at csl-orig #1639) [My alphabetical understanding is that the anusvāra first precedes the semivowels, then the sibilants and lastly the consonants beginning with “k”. If this is true, then the Headword “kathaṃkathā” (which appears to be a supplemental insertion) should be placed after “kathaṃvīrya” and before “kathaṃkathika”.]; and we can notice the same in the order of composite words under "kathaṃ" itself.
+AB: As such, this annexure word "kathaṃ-kathā" is to be repositioned to 42767.1, just before the main text word "kathaṃ-kathika".
+
+Jim: done
+---------------
+L= 78473, hw=jāghanī
+old = prithu-jāghana
+new = pṛthu-jāghana
+previous comment jim: new = pṛthu-jaghana   This is a print change.
+AB: This is yet another word that MW missed copying from pwk (L-69492), though he took L-42390 as is (vgl. -> cf.) containing pṛthu-jāghana.
+Jim: NO further action required
+---------------
+L= 76529.1, hw=jaṭājhāṭa, user=srhodes
+Hierarchy Error
+previous Jim: Move jawAJAwa to L=76533.1, between jawAcIra and jawAjAla
+AB: Jim, pl. note that its proper place is as L-76537.1, not as L-76533.1
+
+Jim:  definitely 76357.1 (j < J < t)
+---------------
+L= 97341, hw=dyuloka
+Scott:
+old = (cf. dyaur-ī°).
+new = (cf. dyaur-loka) OR (cf. dyau-loka)
+previous jim: changed to (cf. dyO-l°). print change.
+AB: This is not a print_change; the word is very much present at L-97389 as "dyaur-loká".
+JIM:  L=97389 shows as '-loka' in print.  The preceding word is
+'dyOr-dA'.
+ In cdsl, 97389 is written as 'dyOloka'.  Several dictionaries (pw, etc.)
+ have 'dyOrloka', but only MW has 'dyOloka'.
+ Conclusion: 97389 has to be recoded
+OLD:
+<L>97389<pc>500,1<k1>dyOloka<k2>dyO—loka/<e>3
+<s>dyO—loka/</s> ¦ <lex>m.</lex> the heavenly world, <ls>ŚBr. xiv, 6, 1, 9.</ls><info lex="m"/>
+<LEND>
+NEW:
+<L>97389<pc>500,1<k1>dyOrloka<k2>dyOr—loka/<e>3
+<s>dyOr—loka/</s> ¦ <lex>m.</lex> the heavenly world, <ls>ŚBr. xiv, 6, 1, 9.</ls><info lex="m"/>
+<LEND>
+
+---------------
+L= 253512, hw=saupiṅgala
+AB confirms no change.
+---------------
+L= 225193, hw=ṣaḍdurga
+Scott:
+old = (viz. dhanva-durgā
+new = (viz. dhanva-durga
+
+AB: As various types of fortresses are being talked about (and not the goddess Durgā), these should all go with the short vowel only.
+
+Jim:
+ I forgot to make the change in mw.txt! now doing so, and marking as
+ print change
+OLD: <s>Danva-durgA</s>
+NEW: <s>Danva-durga</s>
+---------------
+213663, hw=śaraṇa
+Scott:
+old = (fr. √śṛ
+new = (fr. √śṝ
+
+Previous jim: print change
+
+AB: No print change called for; PWG mentions the base as "3. śṛ"
+Jim: retain "(fr. √śṝ"
+    pwg mentions as (von 3. Sar) as base for SaraRa.
+    Note 'tar' in pwg corresponds to 'tF' in mw.
+    MW has no 'Sf'.  So he must have mean 'fr. <s>SF</s>'
+     
+------------------------------------------------------------------------
+06-10-2024 Install mw as revised above.
+cp mw.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+git add mw/mw.txt
+# make a new issue in csl-orig and note its issue-number
+git commit -m "MW: Ref #1639"
+git push
+# sync csl-corrections for mw_printchange
+
+# do the necessary for cologne server
+# sh generate_dict.sh mw  ../../MWScan/2020/
+cd /c/xampp/htdocs/cologne/csl-corrections/temp_batch

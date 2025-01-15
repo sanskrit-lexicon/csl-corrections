@@ -1,0 +1,22 @@
+
+
+Missed some dhatup, pointed out by Andhrabharati
+3 matches for "<ls n="Dhātup.">iv f.</ls>" in buffer: mw.txt
+
+---------------------------
+<L>87413<pc>457,1<k1>traNk<k2>traNk<e>1
+ 294902:<s>traNk</s> ¦ <s>°NK</s>, <s>°Ng</s> <ab>cl.</ab> 1. <ab>id.</ab>, <ls n="Dhātup.">iv f.</ls><info verb="root" cp="1"/>
+OLD: <ls n="Dhātup.">iv f.</ls>
+NEW: <ls n="Dhātup.">iv, 23</ls>  त्रकि
+
+---------------------------
+<L>87413.1<pc>457,1<k1>traNK<k2>traNK<e>1
+ 294905:<s>traNK</s> ¦ <s>°Nk</s>, <s>°Ng</s> <ab>cl.</ab> 1. <ab>id.</ab>, <ls n="Dhātup.">iv f.</ls><info verb="root" cp="1"/>
+OLD: <ls n="Dhātup.">iv f.</ls>
+NEW: <ls n="Dhātup."v, 30</ls>  त्रखि
+
+---------------------------
+<L>87413.2<pc>457,1<k1>traNg<k2>traNg<e>1
+ 294908:<s>traNg</s> ¦ <s>°Nk</s>, <s>°NK</s> <ab>cl.</ab> 1. <ab>id.</ab>, <ls n="Dhātup.">iv f.</ls><info verb="root" cp="1"/>
+OLD: <ls n="Dhātup.">iv f.</ls>
+NEW: <ls n="Dhātup.">v, 42</ls>  त्रगि

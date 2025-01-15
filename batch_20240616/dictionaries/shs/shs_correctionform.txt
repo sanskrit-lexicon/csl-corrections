@@ -1,0 +1,521 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of May 29, 2024
+64 correction records, with 64 PENDING
+
+Case 670: 05/24/2024 dict=SHS, L=43479, hw=sahasrapāda, user=srhodes
+old = sort or duck
+new = sort of duck
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 635: 05/19/2024 dict=SHS, L=38749, hw=vaiṣaṭ, user=srhodes
+old = vaiṣaṭ
+new = vauṣaṭ
+comment = Typo – Please note that this is a Headword Typo and therefore it is worth 1000 points. The printed text is very clear and of course the affix mentioned is "ḍauṣaṭ", therefore this correction is indisputable.
+status = done
+------------------------------------------------------------------------
+
+Case 616: 05/16/2024 dict=SHS, L=12801, hw=khasa, user=srhodes
+old = considerd
+new = considered
+comment = Typo – Please note that here, the word "Kshetriya" may be better written as "Kṣatriya", but that is up to you. Also this may be a point of consideration for a Global replacement of all such instances in the Master File of Shabda-Sagara.
+Jim: put the Kshatriya suggestion into shs_todo.txt
+status = done
+------------------------------------------------------------------------
+
+Case 611: 05/16/2024 dict=SHS, L=11158, hw=kū, user=srhodes
+old = Pisacha
+new = Piśāca
+comment = Typo – This correction is according to my preference. However please note that there really is no such word as "Pisacha" (in any language). So why not offer the correct spelling and keep things authentic. I always deviate from the printed text for the purpose of perfection.
+Jim: no change now. put into shs_todo.txt
+status = done
+------------------------------------------------------------------------
+
+Case 606: 05/15/2024 dict=SHS, L=32664, hw=yāptā, user=srhodes
+old = matter
+new = matted
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 597: 05/14/2024 dict=SHS, L=21988, hw=nirdaṭa, user=srhodes
+old = or or charity
+new = or of charity
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 596: 05/14/2024 dict=SHS, L=16748, hw=ḍāmara, user=srhodes
+old = as the Sivadamara, Yogadamara, Durgada mara
+new = as the Śivaḍāmara, Yogaḍāmara, Durgāḍāmara
+jim: no change here. Add to shs_todo
+comment = Typo – Please note that I have corrected the spelling here with proper diacritics. I see no reason to maintain the incorrect spelling offered here. I have followed MW dictionary for precision.
+status = done
+------------------------------------------------------------------------
+
+Case 594: 05/14/2024 dict=SHS, L=22611, hw=naimiṣāraṇya, user=srhodes
+old = Sautī related the Mahābhārat.
+new = Sauti related the Mahābhārata.
+comment = Typo – Please note that the first word is required to be corrected. The word "Mahābhārata" is my preference.
+jim: no change here. Add to shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 548: 05/06/2024 dict=SHS, L=18762, hw=dāḍhikā, user=srhodes
+old = bread
+new = beard
+comment = Typo – Please note that this correction matches Both Apte and MW dictionary. Therefore I did not even bother to look at the printed text.
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 530: 05/04/2024 dict=SHS, L=19915, hw=draṅga, user=srhodes
+old = E. dran
+new = E. dram
+comment = Typo – I am guessing that this is a printing error. I hope that Jim will look into this.
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 494: 04/28/2024 dict=SHS, L=28387, hw=baṇij, user=srhodes
+old = Karanas
+new = Karaṇas
+jim: no change. add to shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 482: 04/26/2024 dict=SHS, L=15415, hw=ceḍa, user=srhodes
+old = servent
+new = servant
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 481: 04/26/2024 dict=SHS, L=15413, hw=ceṭa, user=srhodes
+old = a salve
+new = a slave
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 470: 04/25/2024 dict=SHS, L=15007, hw=cāpa, user=srhodes
+old = (In Gemetry,) An are
+new = (In Geometry) An arc
+comment = Typo – Please note that there are two corrections made here; also this correction is according to my preference, however you may prefer to retain the "comma" inside the parenthesis.
+jim:
+ 1. Gemetry -> Geometry  print change
+ 2. An are -> An arc  typo
+ 3. Leave the comma for now. Add to shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 453: 04/22/2024 dict=SHS, L=15553, hw=charda, user=srhodes
+old = reaching
+new = retching
+comment = Typo – I am suggesting this correction as a very likely printing error. Please compare the meanings listed along with my suggested correction.
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 447: 04/20/2024 dict=SHS, L=28975, hw=bha, user=srhodes
+old = f. (-mī) Fear.
+new = f. (-bhī) Fear.
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 435: 04/18/2024 dict=SHS, L=25932, hw=pota, user=srhodes
+old = scite
+new = site
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 431: 04/16/2024 dict=SHS, L=17222, hw=taṣṭṛ, user=srhodes
+old = Adityas
+new = Ādityas
+jim: not changed here. add to shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 407: 04/08/2024 dict=SHS, L=2876, hw=amita, user=srhodes
+old = Unmeasure
+new = Unmeasured
+comment = Typo - I believe that this correction needs to be made for proper English. Retaining errors for the sake of "honoring the text" is a disservice to all who study the Sanskrit language.
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 372: 03/31/2024 dict=SHS, L=6647, hw=ujjayanī, user=srhodes
+old = Ujjayani
+new = Ujjayanī
+comment = Typo - This may be an error in the printing. In my view, shortening a single vowel for the purpose of an English translation just increases confusion in linguistics.
+jim: no change now. put in shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 365: 03/30/2024 dict=SHS, L=46033, hw=sraddhū, user=srhodes
+old = more properly śraddhṛ
+new = more properly śraddhū
+jim: print change to 'SardDa'.
+  1. "SradDf" is typo, print is "SradDa"
+  2. "SradDa' doesn't mean 'fart', but "SardDa" so this is the print change
+status = done
+------------------------------------------------------------------------
+
+Case 338: 03/27/2024 dict=SHS, L=30618, hw=manthāna, user=srhodes
+old = manthāna
+new = mamnāna
+comment = Typo - Please note that this is a Headword Typo (worth 1000 points).
+jim: manvāna  (cf. WIL).  (only 500 points)
+status = done
+------------------------------------------------------------------------
+
+Case 337: 03/27/2024 dict=SHS, L=2213, hw=apāśraya, user=srhodes
+old = destitude
+new = destitute
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 308: 03/23/2024 dict=SHS, L=10908, hw=kulaja, user=srhodes
+old = Ancestral. hereditary,
+new = Ancestral, hereditary.
+status = done
+------------------------------------------------------------------------
+
+Case 282: 03/20/2024 dict=SHS, L=31505, hw=mimaṅkṣu, user=srhodes
+old = to plunged into
+new = to plunge into
+comment = Typo - This correction is required for the English language; you may also compare with the definition of "mimaṅkṣā" (directly above).
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 281: 03/20/2024 dict=SHS, L=31505, hw=mimaṅkṣu, user=srhodes
+old = to plunged into
+new = to plunge into
+comment = Typo - This correction is required for the English language; you may also compare with the definition of "mimaṅkṣā" (directly above).
+status = done  duplicate
+------------------------------------------------------------------------
+
+Case 270: 03/18/2024 dict=SHS, L=28845, hw=braṇ, user=srhodes
+old = braṇa more properly.
+new = vraṇa more properly.
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 266: 03/18/2024 dict=SHS, L=28194, hw=phaṭ, user=srhodes
+old = to burnt
+new = to burst
+comment = Typo - Please note that BOTH Apte and MW Dictionary confirm this correction regarding the verbal root "sphuṭ" which has most likely been defined here with an error in spelling.
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 247: 03/16/2024 dict=SHS, L=24605, hw=pāriśīla, user=srhodes
+old = I am calling this word definition into question based upon direct comparison with the word "pāriśeṣya" defined by Apte as "That which is left over, remainder."
+new = I am calling this word definition into question based upon direct comparison with the word "pāriśeṣya" defined by Apte as "That which is left over, remainder."
+comment = This word definition may be completely erroneous. I hope that Jim will have a look at this.
+status = done
+jim: Definitely something wrong here.  Assume scott right, and change as
+OLD:
+<L>24605<pc>446-a<k1>pAriSIla<k2>pAriSIla
+{#pAriSIla#}¦ n. ({#-laM#}) That which is left, remainder.
+<LEND>
+NEW:
+<L>24605<pc>446-a<k1>pAriSezya<k2>pAriSezya
+{#pAriSezya#}¦ n. ({#-yaM#}) That which is left, remainder. [CDSL change from <s>pAriSIla</s>]
+<LEND>
+
+------------------------------------------------------------------------
+
+Case 244: 03/15/2024 dict=SHS, L=10407, hw=kintu, user=srhodes
+old = Rut
+new = But
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 242: 03/15/2024 dict=SHS, L=24147, hw=pahnava, user=srhodes
+old = Kshetriya
+new = Kṣatriya
+comment = Typo - This is likely a printing error. MW dictionary references this using the word "Kṣatriya". I am unfamiliar with the word "Kṣetriya" as referring to a race of people. MW defines "Kṣetriya" as "adulterer".
+Jim: Not handled now. put into shs_todo.
+status = done
+------------------------------------------------------------------------
+
+Case 225: 03/13/2024 dict=SHS, L=21042, hw=nandin, user=srhodes
+old = the writer VYĀRI
+new = the writer Vyāḍi
+comment = Typo - I am suggesting this correction based on MW Dictionary and the fact that the word "Vyāri" is not to be found anywhere.
+jim: print change. Also cf. WIL
+status = done
+------------------------------------------------------------------------
+
+Case 204: 03/11/2024 dict=SHS, L=5213, hw=ātañcana, user=srhodes
+old = infusion
+new = in fusion
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 179: 03/10/2024 dict=SHS, L=29075, hw=bhadraka, user=srhodes
+old = pleasing agreeable
+new = pleasing, agreeable
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 170: 03/07/2024 dict=SHS, L=47287 , hw=hruḍ, user=srhodes
+old = hrūḍ  AND  hrūḍati
+new = hrūḍ  AND  hrūḍati
+comment = Typo - The verbal root "hrūḍ" is missing here in the online version.  The printed text shows this variation form. The online version also should account for this variation. Please add this as an additional listing or include it with "hruḍ"
+jim: print is very bad here. Probably why hrUq omitted. recoding as:
+OLD:
+<L>47287<pc>839-a<k1>hruq<k2>hruq (f) hruqf
+{#hruq (f) hruqf#}¦ r. 1st cl. ({#hrUhate#}) 1. To collect. 2. To go.
+<LEND>
+NEW:  Jim's guess from poor print
+<L>47287<pc>839-a<k1>hruq<k2>hruq (f) hruqf
+{#hruq (f) hruqf#}¦ r. 1st cl. ({#hroqate#}) 1. To collect. 2. To go.
+<LEND>
+<L>47287.1<pc>839-a<k1>hrUq<k2>hrUq (f) hrUqf
+{#hrUq (f) hrUqf#}¦ r. 1st cl. ({#hrUqati#}) 1. To collect. 2. To go.
+<LEND>
+
+status = done
+------------------------------------------------------------------------
+
+Case 169: 03/07/2024 dict=SHS, L= 47287, hw=hruḍ, user=srhodes
+old = hrūhate
+new = hroḍati
+comment = Typo - This is the worst page scan that I have seen. I am following MW on this correction.
+jim: aggre. See Case 170 
+status = done
+------------------------------------------------------------------------
+
+Case 165: 03/05/2024 dict=SHS, L= 22976, hw=paṇāyā, user=srhodes
+old = negociate
+new = negotiate
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 164: 03/05/2024 dict=SHS, L= 22980, hw=paṇita, user=srhodes
+old = Prasied
+new = Praised
+jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 160: 03/04/2024 dict=SHS, L= 33970, hw=rośaṃsā, user=srhodes
+old = Prākrita
+new = Prākṛta
+jim: not changed now. Added to shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 151: 02/29/2024 dict=SHS, L= 8947, hw=kapāṭa, user=srhodes
+old = pannel
+new = panel
+jim: print chg
+status = done
+------------------------------------------------------------------------
+
+Case 147: 02/28/2024 dict=SHS, L= 32441, hw=yatna, user=srhodes
+old = yatna
+new = yatra
+comment = Typo – Headword Typo (They are worth 1000 points!)
+jim: 1000 points a bargain!
+status = done
+------------------------------------------------------------------------
+
+Case 145: 02/28/2024 dict=SHS, L= 9221, hw=karoṭa, user=srhodes
+old = the scull
+new = the skull
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 141: 02/28/2024 dict=SHS, L= 46195, hw=svarabhakti, user=srhodes
+old = latters
+new = letters
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 129: 02/25/2024 dict=SHS, L= 5323, hw=ādarśita, user=srhodes
+old = Shewn
+new = Shown
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 120: 02/24/2024 dict=SHS, L= 35137, hw=vayastha, user=srhodes
+old = cotemporary
+new = contemporary
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 119: 02/24/2024 dict=SHS, L= 11981, hw=kravyād, user=srhodes
+old = Rakshasa
+new = Rākṣasa
+jim: not changed now. put in shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 115: 02/23/2024 dict=SHS, L= 25439, hw=pulkasa, user=srhodes
+old = Brāhmana by Kshetriya female
+new = Brāhmaṇa by Kṣatriya female
+jim: not changed now. put in shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 105: 02/20/2024 dict=SHS, L= 34470, hw=lekhana, user=srhodes
+old = Bhurja-tree, which is used for writing on in Nepāland Upper Hindusthan.
+new = Bhūrja-tree, which is used for writing on in Nepāl and Upper Hindusthan.
+jim: not changed now. put in shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 86: 02/17/2024 dict=SHS, L= 7830, hw=uṇa, user=srhodes
+old = uṇa
+new = uṣṇa
+comment = Typo - Headword Typo! Please note that a "Headword Typo" is difficult to find because who will look up a word that does not exist? Only a diligent student of Sanskrit!
+status = done
+------------------------------------------------------------------------
+
+Case 62: 02/10/2024 dict=SHS, L=38528 , hw=veṣṭa, user=srhodes
+old = to from
+new = to form
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 56: 02/09/2024 dict=SHS, L=27978 , hw=prāsta, user=srhodes
+old = thrown of
+new = thrown off
+comment = Typo – I believe that this is a printing error. You may compare with MW dictionary.
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 55: 02/09/2024 dict=SHS, L= 1931, hw=anvādhi, user=srhodes
+old = ball
+new = bail
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 43: 02/07/2024 dict=SHS, L= 5115, hw=ācamanīya, user=srhodes
+old = rincing
+new = rinsing
+comment = Typo - As this is a Sanskrit-English dictionary, this may be something to consider. The word rince in ENGLISH is spelled as "rinse". Therefore you might consider a "Global" correction of "rince" to "rinse" and "rincing" to "rinsing" in this Dictionary.
+Jim: print change. Also posted in todo.
+status = done
+------------------------------------------------------------------------
+
+Case 42: 02/07/2024 dict=SHS, L= 5115, hw=ācamanīya, user=srhodes
+old = rincing
+new = rinsing
+comment = Typo - As this is a Sanskrit-English dictionary, this may be something to consider. The word rince in ENGLISH is spelled as "rinse". Therefore you might consider a "Global" correction of "rince" to "rinse" and "rincing" to "rinsing" in this Dictionary.
+Jim: print change
+status = duplicate
+------------------------------------------------------------------------
+
+Case 41: 02/07/2024 dict=SHS, L=28100, hw=prokṣita, user=srhodes
+old = Kindly, slaughtered
+new = Kindly slaughtered
+comment = Typo - I believe that this is a printing error.
+Jim: print change "Killed, slaughtered"  cf. Wilson
+status = done
+------------------------------------------------------------------------
+
+Case 37: 02/05/2024 dict=SHS, L= 41364, hw=śvovasīyasa, user=srhodes
+old = E. śvesa
+new = E. śvas
+comment = Typo - this may be a printing error. Please check into this.
+Jim: print change.  Wilson also has śvesa.
+  However both have 'Svas' "A particle, implying auspiciousness."
+status = done
+------------------------------------------------------------------------
+
+Case 21: 01/30/2024 dict=SHS, L= 39572, hw=śaraṇa, user=srhodes
+old = E. śa to injure, 
+new = E. śṝ to injure, 
+comment = Typo - Printing error. This correction is confirmed by multiple sources.
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 17: 01/30/2024 dict=SHS, L= 44705, hw=suvela, user=srhodes
+old = also called Trikuta
+new = also called Trikūṭa
+jim: not changed now. Add to shs_todo
+status = done
+------------------------------------------------------------------------
+
+Case 10: 01/30/2024 dict=SHS, L=38395, hw=vetra, user=srhodes
+old = E. vi to go,
+new = E. vī to go,
+comment = Typo - printing error
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 5: 01/28/2024 dict=SHS, L= 2213, hw=apāśraya, user=srhodes
+old = destitude
+new = destitute
+comment = Typo - must be a printing error.
+Jim: print change
+status = duplicate
+------------------------------------------------------------------------
+
+Case 4: 01/28/2024 dict=SHS, L=44632 , hw=surūhaka, user=srhodes
+old = rūh
+new = ruh
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 3: 01/28/2024 dict=SHS, L= 45039, hw=sevā, user=srhodes
+old = 3. Addition to.
+new = 3. Addiction to.
+comment = Typo - This is a printing error. Please note that both Apte and MW support this conclusion.
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Case 2: 01/27/2024 dict=SHS, L= 31733, hw=murcch, user=srhodes
+old = With sama
+new = With sam
+comment = Typo - this is very likely a printing error.
+status = done
+------------------------------------------------------------------------
+
+Case 1: 01/27/2024 dict=SHS, L= 28188, hw=pha, user=srhodes
+old = 6. An augmentor
+new = 6. An augmenter
+Jim: print change
+status = done
+------------------------------------------------------------------------
+
+Installed above changes. Offloaded to batch1.txt
+cp shs.txt /c/xampp/htdocs/cologne/csl-orig/v02/shs/shs.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh shs  ../../shs
+sh xmlchk_xampp.sh shs
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+git add shs/shs.txt
+git commit -m "SHS: Ref #1640"
+git push
+# do the necessary for cologne server
+# sh generate_dict.sh shs  ../../SHSScan/2020/
+cd /c/xampp/htdocs/cologne/csl-corrections/temp_batch
+
+Copy the items in local shs_printchange.txt to its proper location in csl-corrections,
+and update the csl-corrections repo.

@@ -1,0 +1,319 @@
+Case 689: 05/29/2024 dict=MW, L=72700, hw=cah, user=srhodes
+old = Dhātup. xvii, xxxv.
+new = Dhātup. xvii, LXXX.
+comment = Typo – I believe that this is a printing error. According to the Radicesling., this is numbered as Dhātup. 17.80.
+status = done
+Jim:  print change:
+      For some reason, MW did not put the subsection numbers in this reference
+OLD: <ls>Dhātup. xvii</ls>, <ls n="Dhātup.">xxxv.</ls>
+NEW: <ls>Dhātup. xvii, 80</ls>, <ls n="Dhātup.">xxxv, 14</ls>.
+
+There are only a few similar:
+5 matches for "<ls>Dhātup. [xivl]+</ls>" in buffer: mw.txt
+---
+78362<pc>416,2<k1>jas
+OLD: <ls>Dhātup. xxxii</ls>
+NEW: <ls>Dhātup. xxxii, 127</ls>
+ 265340:<div n="to"/>to hurt (<ab>cf.</ab> <ls>Pāṇ. ii, 3, 56</ls>), <ls>Dhātup. xxxii</ls>;
+ ---
+78362<pc>416,2<k1>jas
+OLD: <ls n="Dhātup.">xxxiii</ls>
+NEW: <ls n="Dhātup.">xxxiii, 44</ls>
+---
+
+271029:<div n="to"/>to hurt, <ls>Vop.</ls> (<ls>Dhātup. xv</ls>);
+<L>80115<pc>424,2<k1>jUrv
+OLD: <ls>Dhātup. xv</ls>
+NEW: <ls>Dhātup. xv, 64</ls>   Note: jurvI
+---
+
+ 274410:<s>JF</s> ¦ (= √ <s>jF</s>) <ab>cl.</ab> 4. 9. <s>JIryati</s>, <s>JfRAti</s>, to become old, <ls>Dhātup. xxvi</ls>, <ls n="Dhātup.">xxxi</ls>;
+<L>81147<pc>429,2<k1>JF
+OLD: <ls>Dhātup. xxvi</ls>
+NEW: <ls>Dhātup. xxvi</ls> ??? Jim Could not find
+
+OLD: <ls n="Dhātup.">xxxi</ls>
+NEW: <ls n="Dhātup.">xxxi, 24</ls>
+
+---
+
+ 290070:<s>tump</s> ¦ <s>tumP</s> <ab>cl.</ab> 1. 6. <s>°pati</s>, <s>°Pati</s>, to hurt, <ls>Dhātup. xi</ls>; <ls n="Dhātup.">xxviii, 26 f.</ls>;
+<L>85943<pc>450,3<k1>tump
+OLD: <ls>Dhātup. xi</ls
+NEW: <ls>Dhātup. xi, 11</ls # तुन्प्
+
+---
+290074:<s>tumP</s> ¦ <s>tump</s> <ab>cl.</ab> 1. 6. <s>°pati</s>, <s>°Pati</s>, to hurt, <ls>Dhātup. xi</ls>; <ls n="Dhātup.">xxviii, 26 f.</ls>;
+<L>85943.1<pc>450,3<k1>tumP
+OLD: <ls>Dhātup. xi</ls
+NEW: <ls>Dhātup. xi, 15</ls  # तुन्फ् 
+
+------------------------------------------------------------------------
+
+Case 679: 05/26/2024 dict=MW, L=106143.1, hw=nāli, user=srhodes
+old = nāli mfn. ifc. = °likā, a period of 24 minutes
+new = DELETE THIS REDUNDANT DEFINITION
+comment = Typo – Please note that this listing is entirely redundant. This definition has already been listed under the previous [ID=106143]. Please remove this redundancy.
+status = PENDING
+------------------------------------------------------------------------
+
+<ls>Upapurāṇa</ls>  -> <ls>Upapur.</ls>.   change to mwauth
+
+------------------------------------------------------------------------
+
+Case 665: 05/23/2024 dict=MW, L=80049, hw=juhurāṇa, user=srhodes
+old = √hvar
+new = √hvṛ  OR  √hvṝ
+comment = Typo – Please note as there is no such verbal root listed as "hvar", I am forced to offer two possible alternatives as the correction. I hope that Jim will look into confirming this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 662: 05/22/2024 dict=MW, L=258101, hw=svayoni, user=srhodes
+old = sva—yoni mf(ī)n.
+new = sva—yoni mf(i or ī)n.
+comment = Typo – The printed text appears to confirm the feminine adjective with either a short or long vowel. Both Apte and Shabda Dictionaries show the feminine adjective as having a short vowel. I believe that we need to offer the "short vowel" as an option for the feminine adjective (especially considering the Headword itself is listed with a short vowel). Of course you may notate this correction according to your liking.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 659: 05/22/2024 dict=MW, L=228791, hw=saṃghaṭ, user=srhodes
+old = Caus. -ghāṭayati,
+new = Caus. -ghaṭayati AND -ghāṭayati,
+comment = Typo – Please note that the printed text appears to approve the Causative form with both a "long" and a "short" vowel. These two forms must be included in the online edition of MW dictionary. Of course you may decide your preferred way of implementing this correction.
+Jim: <s>-GA<shortlong/>wayati</s>   :  how to display?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 642: 05/21/2024 dict=MW, L=81295, hw=ṭoṭa, user=srhodes
+old = v.l. for doṭ°
+new = There is no such word as "doṭa" or "doṭī". Therefore this needs to be looked into by Jim in order to ascertain the correct reference. The words "ḍoḍa" and "ḍoḍī" do exist, but that may or may not be the correction needed. Apte gives the definition as "small, little."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 627: 05/18/2024 dict=MW, L=61878, hw=khārdamāyana, user=srhodes
+old = cf. kārd°
+new = cf. kard°
+comment = Typo – Please note that this correction needs to be investigated for two reasons: 1. The word "kārdamāyana" is nowhere to be found and 2. The Purāṇa Index lists the word "kardamāyana". Therefore, I believe this is the correct reference being made here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 621: 05/17/2024 dict=MW, L=146092, hw=bṛhaṭṭika, user=srhodes
+old = bṛhaṭṭika
+new = bṛhaṭṭikka
+comment = Typo – Please note that this Headword needs to be confirmed, because an alternative form has been cited in MW Dictionary. The alternative form is "bṛhaṭṭikka" as indicated under the Headword "ṭikka" with the following reference: "cf. bṛhaṭ-" [ID=81239.1]. The reference "cf. bṛhaṭ-" being under the Headword "ṭikka" would be fully written out as "bṛhaṭṭikka". Therefore we have two possible forms which do not match: (the Headword given here) "bṛhaṭṭika" and the reference cited (under the Headword ṭikka)  as "bṛhaṭṭikka".
+
+status = PENDING
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+TODO: 44 matches for "<s>[^<]*n[kKgG]" in buffer: mw.txt
+  Some are print changes (e.g. Kawunka)
+ 
+------------------------------------------------------------------------
+L=251816 hw = sUrkz  - check the Dhatupatha link 17.15
+
+------------------------------------------------------------------------
+
+Case 549: 05/06/2024 dict=MW, L=92075 , hw=dityavah, user=srhodes
+old = ditya-vah f. °tyauhī 
+new = f. °tyauhī 
+comment = Typo – This correction follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+4 matches for "kriz" in buffer: mw.txt
+  22289:<s>anu-karza</s> <hom>a</hom> ¦ See <s>anu-√ kriz</s>.
+ 170702:<s>kArzRA<srs/>jina</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>krizRA<srs/>jina/</s>), made from the skin of the black antelope, <ls>ĀpŚr. xv, 5.</ls><info lex="m:f:n"/>
+ 275778:¦ = <s>nirvfti</s> (invented for the etymology of <s>krizRa</s>,), <ls>MBh. v, 70, 5</ls>, <ab>Sch.</ab><info lex="inh"/>
+ 809127:<s>sA/rA</s> ¦ (<s>A</s>), <lex>f.</lex> a kind of plant (= <s>krizRa-trivftA</s>), <ls>L.</ls><info lex="f"/>
+
+------------------------------------------------------------------------
+<ls>Upapur.</ls>  mwauth
+------------------------------------------------------------------------
+56 matches for " an, <ls>" in buffer: mw.txt
+do global change to " an <ls>"
+
+69 matches for " a, <ls>" in buffer: mw.txt
+do global change to " a <ls>"
+------------------------------------------------------------------------
+plI:   The Westerguard DP reference (XXXI, 82) looks like a bad reference (no 82 in sectionn XXXI)
+------------------------------------------------------------------------
+Case 471: 04/25/2024 dict=MW, L=70827, hw=cañcura, user=srhodes
+old = See puṇya-
+new = ???
+comment = Typo – Please note that I am citing this reference for further investigation. Attention Jim! I hope that you will consider looking into this. Apparently the word, "puṇya-cañcura" is being referenced here. However no such word is found anywhere. Perhaps a Github discussion is in order. Please let me know what you discover. Thank  you very much.
+status = PENDING
+------------------------------------------------------------------------
+Case 465: 04/24/2024 dict=MW, L=75190, hw=caupāyana, user=srhodes
+old = fr. cupa g. i. aśvādi. 
+new = fr. cupa, g. 1. aśvādi. 
+comment = Typo - Please note the printed text for this correction looks like the Roman numeral for the number "one". Therefore I am suggesting this possible correction, but according to your preference.
+status = PENDING
+------------------------------------------------------------------------
+
+<ab>med.</ab> tooltip change: "medicine" -> "medicine, medical"
+------------------------------------------------------------------------
+Case 412: 04/10/2024 dict=MW, L=221702, hw=śaukara, user=srhodes
+old = °rava
+new = °raka
+comment = Typo – I am making a guess here that needs to be looked into. The word "saukara" certainly exists, but the word "saukarava" does not exist. However there is the word "saukaraka" which leads me to believe that here the form cited as "°rava" should be corrected to "°raka".
+Jim:  
+status = PENDING
+------------------------------------------------------------------------
+Find exceptions to the rule:
+ in "<ab>cf.</ab> <s>X</s>", X is a headword in MW.
+
+ in "See <s>X</s", X is a headword in MW.
+
+ in "<s>X</s>, <ab>q.v.</ab>", X is a headword in MW.
+ 
+------------------------------------------------------------------------
+Case 375: 04/01/2024 dict=MW, L=185124.1, hw=vajahuṇa, user=srhodes
+old = (cf. vajra-hūṇa)
+new = (cf. vajra-hūna)
+comment = Typo - You may confirm this correction by looking up the corrected word "vajrahūna" in MW dictionary. However, the printed word "vajra-hūṇa" is nowhere to be found.
+Jim: vajrahURa is in PW.
+I think it more likely that L=1805056 vajrahUna is a print error in MW (and should be vajrahURa)
+status = PENDING
+
+Case 374: 04/01/2024 dict=MW, L=185124, hw=vajaāṇa, user=srhodes
+old = (cf. vajra-hūṇa)
+new = (cf. vajra-hūna)
+comment = Typo - You may confirm this correction by looking up the corrected word "vajrahūna" in MW dictionary. However, the printed word "vajra-hūṇa" is nowhere to be found.
+status = PENDING   See Case 375
+------------------------------------------------------------------------
+Case 358: 03/29/2024 dict=MW, L=245096, hw=sīkṣ, user=srhodes
+old = sīkṣati
+new = sīkṣate
+comment = Typo – This correction is suggested based on the fact that MW dictionary lists the desiderative form as "sīkṣate". I hope that Jim will have a look at this. Perhaps the parasmaipadam termination here is incorrect.
+status = 
+------------------------------------------------------------------------
+6 matches for "<ab>g.</ab> <s>-" in buffer: mw.txt
+------------------------------------------------------------------------
+मधु—मय mf(ई)n. consisting of honey, Hcat.  [ID=156002]
+sweet is honey, luscious,  " as honey"
+
+------------------------------------------------------------------------
+90 matches for " a," in buffer: mw.txt
+------------------------------------------------------------------------
+old = mn.
+new = m.n.
+comment = Typo – you might consider a global replacement to correct this type of error; or maybe you like it this way. I prefer the correction which follows the printed text.
+------------------------------------------------------------------------
+Case 142: 02/28/2024 dict=MW, L= 41780, hw=kacchapī, user=srhodes
+old = cf. testudo)
+new = ???
+comment = Typo - I do not find this word anywhere. Also not in MW print change. Please discuss on Github and let me know the result. Or perhaps your already know the answer. The question is, "What is testudo?"
+status = 
+------------------------------------------------------------------------
+Note:
+32327 matches in 32301 lines for "</lex> <ab>N.</ab>"
+287 matches for "</lex>, <ab>N.</ab>" in buffer: mw.txt
+------------------------------------------------------------------------
+40 matches for "</ab> -" in buffer: mw.txt  
+  some of these to be changed to "</ab>-"
+------------------------------------------------------------------------
+Case 54: 02/09/2024 dict=MW, L= 237987, hw=sarpalatā, user=srhodes
+old = Betle
+new = Betel
+comment = Typo – I believe that this is a printing error.
+Jim: No change.  MW seems to be inconsistent here.
+6 matches for "<bot>Piper Betle"
+9 matches for "<bot>Piper Betel"
+Should 'Betle' -> 'Betel' ?  (this would be 6 print changes)
+------------------------------------------------------------------------
+Case 47: 02/08/2024 dict=MW, L= 15195, hw=ararakā, user=srhodes
+old = ararākā
+new = ararakā
+comment = Typo – I humbly request that Jim look at this. In my opinion, if the Headword is listed as "ararakā", then it is a mistake to make the penultimate vowel long in the word listed under this Headword. Note that the previous Headword already lists this word with the penultimate long vowel.
+status =
+Jim: Here is current rendering. Change(s) needed ?
+<L>15194<pc>87,1<k1>ararAkA<k2>ararAkA<e>1
+<s>ararA<shortlong/>kA</s> ¦ <lex>f.</lex> <ab>N.</ab> of the ancestress of a celebrated <ns>Hindū</ns> family, (<ab>g.</ab> <s>gargA<srs/>di</s>, <ab>q.v.</ab>)<info lex="f"/><info or="15194,ararAkA;15195,ararakA"/>
+<LEND>
+<L>15194.1<pc>87,1<k1>ararAka<k2>ararAka<e>1B
+<s>ararA<shortlong/>ka</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> the descendants of <s1 slp1="ararAkA">Ararā̆kā</s1>, <ls>Pat.</ls> (<ab>cf.</ab> <s>ArarA<shortlong/>kya</s>.)<info lex="m"/>
+<LEND>
+<L>15195<pc>87,1<k1>ararakA<k2>ararakA<e>1
+<s>ararA<shortlong/>kA</s> ¦ <lex>f.</lex> <ab>N.</ab> of the ancestress of a celebrated <ns>Hindū</ns> family, (<ab>g.</ab> <s>gargA<srs/>di</s>, <ab>q.v.</ab>)<info lex="f"/><info or="15194,ararAkA;15195,ararakA"/>
+<LEND>
+<L>15195.1<pc>87,1<k1>araraka<k2>araraka<e>1B
+<s>araraka</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> the descendants of <s1 slp1="ararAkA">Ararā̆kā</s1>, <ls>Pat.</ls> (<ab>cf.</ab> <s>ArarA<shortlong/>kya</s>.)<info lex="m"/>
+<LEND>
+
+------------------------------------------------------------------------
+Case 40: 02/07/2024 dict=MW, L=1730 , hw=aṅgulisaṃdaṃsa, user=srhodes
+old = aṅgulisaṃdaṃsa
+new = aṅgulisaṃdaṃśa
+comment = Typo - I believe that this word has been corrected from the printing of the word "aṅgulisaṃdeśa".  HOWEVER, the correction itself has been misspelled!!!
+Jim: Since -saMdeSa is original headword in MW, and appears in many dictionaries,
+  It should not be lost based on the phrase '(read -saMdaMsa)'.
+  Further -saMdaMsa appears only in MW.  while '-saMdaMSa' appears in PW (and PD)
+  As a separate word, saMdaMsa is not found in any dictionary, while saMdaMSa is
+  common.
+  One conclusion is that '-saMdaMsa' (at page 1309,2) is a print change.
+  I'm not sure how to rewrite L=1730 !
+<L>1730<pc>8,2<k1>aNgulisaMdaMsa<k2>aNguli—saMdaMsa<e>3
+<s>aNguli—saMdaMsa</s> ¦ <lex>m.</lex> snapping or cracking the fingers as a sign. <info n="rev" pc="1309,2"/><info lex="m"/>
+<LEND>
+
+status = 
+------------------------------------------------------------------------
+164 matches in 163 lines for "KāśīKh" in buffer: mw.txt
+ but from one example (huqut, p. 1301,2),  should these be "Kāśīkh" ?
+ If so, then also to change ls tooltip for <ls>KāśīKh.</ls>
+ 
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+Case 20: 01/30/2024 dict=MW, L= 247577, hw=supuṣpā, user=srhodes
+old =  L. )
+new =  L.)
+comment = Typo - the space before the closing of the parentheses seems unnecessary. Perhaps this could be a "Global" replacement for all such occurrences in the master file.
+Jim: Confirm that ' )' in display. But not sure why.
+  no extra space in mw.txt:  so there must be something either in make_xml.py or
+  basicadjust.php that is adding the space.
+  <s>su—puzpA</s> ¦ (<s>A</s>), <lex>f.</lex> (only <ls>L.</ls>) anise<info lex="f"
+
+Other similar examples:
+Case 19: 01/30/2024 dict=MW, L= 247868, hw=subandhu, user=srhodes
+old = RV. ),
+new = RV.),
+comment = Typo - the space before the closing of the parentheses seems unnecessary. Perhaps this could be a "Global" replacement for all such occurrences in the master file.
+status = 
+
+Case 18: 01/30/2024 dict=MW, L= 248108.1, hw=subheṣaja, user=srhodes
+old = AV. ),
+new = AV.),
+comment = Typo - the space before the closing of the parentheses seems unnecessary. Perhaps this could be a "Global" replacement for all such occurrences in the master file.
+status = 
+------------------------------------------------------------------------
+ Many places where 'wk.' should be 'wks.'
+ see 95055,95056 as example.
+------------------------------------------------------------------------
+There are more such cases, where k1 & k2 fields differ (ignoring the accents & hyphens in k2).
+ example: L=83586, hw=talpaśadya
+------------------------------------------------------------------------
+
+Jim: Handled the short/long vowel alternates as followed.
+OLD:
+<L>138976<pc>702,3<k1>prAsaNgavAhIvAh<k2>prA—saNga—vAhIvA/h<e>4
+<s>prA—saNga—vAhIvA/h</s> ¦ <lex>mfn.</lex> = <s>uzwf</s>, <ls>ĀpŚr.</ls>, <ab>Sch.</ab><info lex="m:f:n"/>
+<LEND>
+NEW:
+<L>138976<pc>702,3<k1>prAsaNgavAhIvAh<k2>prA—saNga—vAhIvAh<e>4
+<s>prA—saNga—vAhIvAh</s> or <s>prA—saNga—vAhIvah</s>¦ <lex>mfn.</lex> = <s>uzwf</s>, <ls>ĀpŚr.</ls>, <ab>Sch.</ab><info lex="m:f:n"/>
+<LEND>
+<L>138976.1<pc>702,3<k1>prAsaNgavAhIvah<k2>prA—saNga—vAhIvah<e>4
+<s>prA—saNga—vAhIvAh</s> or <s>prA—saNga—vAhIvah</s>¦ <lex>mfn.</lex> = <s>uzwf</s>, <ls>ĀpŚr.</ls>, <ab>Sch.</ab><info lex="m:f:n"/>
+<LEND>
+
+AB rev1:
+ AB: why not apply this "logic" all across the entries containing <shortlong/> in HWs?? [over a 50+ of them are present in the header portion, and ~90 in the body portion]
+ 
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+

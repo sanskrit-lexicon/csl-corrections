@@ -1,0 +1,226 @@
+
+Jim's resolution of several more of Scott's correction submissions .
+------------------------------------------
+------------------------------------------------------------------------
+
+Case 679: 05/26/2024 dict=MW, L=106143.1, hw=nāli, user=srhodes
+old = nāli mfn. ifc. = °likā, a period of 24 minutes
+new = DELETE THIS REDUNDANT DEFINITION
+comment = Typo – Please note that this listing is entirely redundant. This definition has already been listed under the previous [ID=106143]. Please remove this redundancy.
+Jim: This the 2nd part of a shortlong nALI, nAli, so is not redundant
+I am recoding:
+OLD:
+<L>106143<pc>537,3<k1>nAlI<k2>nAlI<h>c<e>2B
+<s>nAlI<shortlong/></s> <hom>c</hom> ¦ <lex>mfn.</lex> <ab>ifc.</ab> = <s>°likA</s>, a period of 24 minutes, <ls>Sāh.</ls><info orsl="106143,nAlI;106143.1,nAli"/><info lex="m:f:n"/>
+<LEND>
+<L>106143.1<pc>537,3<k1>nAli<k2>nAli<e>2B
+<s>nAli</s> ¦ <lex>mfn.</lex> <ab>ifc.</ab> = <s>°likA</s>, a period of 24 minutes, <ls>Sāh.</ls><info orsl="106143,nAlI;106143.1,nAli"/><info lex="m:f:n"/>
+<LEND>
+NEW:
+<L>106143<pc>537,3<k1>nAlI<k2>nAlI<h>c<e>2B
+<s>nAlI</s> <hom>c</hom> or <s>nAli</s> ¦ <lex>mfn.</lex> <ab>ifc.</ab> = <s>°likA</s>, a period of 24 minutes, <ls>Sāh.</ls><info orsl="106143,nAlI;106143.1,nAli"/><info lex="m:f:n"/>
+<LEND>
+<L>106143.1<pc>537,3<k1>nAli<k2>nAli<e>2B
+<s>nAlI</s> <hom>c</hom> or <s>nAli</s> ¦ <lex>mfn.</lex> <ab>ifc.</ab> = <s>°likA</s>, a period of 24 minutes, <ls>Sāh.</ls><info orsl="106143,nAlI;106143.1,nAli"/><info lex="m:f:n"/>
+<LEND>
+
+status = done
+
+------------------------------------------------------------------------
+
+Case 665: 05/23/2024 dict=MW, L=80049, hw=juhurāṇa, user=srhodes
+old = √hvar
+new = √hvṛ  OR  √hvṝ
+comment = Typo – Please note as there is no such verbal root listed as "hvar", I am forced to offer two possible alternatives as the correction. I hope that Jim will look into confirming this correction.
+Jim:
+Note:  This is correction for L=80045, juhurāṇa  (80049 is juhuvāna, no hvar)
+Note:  'hvar' uses the PW/PWG spelling convention, so probably an error in MW copying
+       from PW
+Note: print change to 'hvf' ('hvf' and 'hvF' are alternates in MW)
+status = done
+------------------------------------------------------------------------
+
+Case 662: 05/22/2024 dict=MW, L=258101, hw=svayoni, user=srhodes
+old = sva—yoni mf(ī)n.
+new = sva—yoni mf(i or ī)n.
+comment = Typo – The printed text appears to confirm the feminine adjective with either a short or long vowel. Both Apte and Shabda Dictionaries show the feminine adjective as having a short vowel. I believe that we need to offer the "short vowel" as an option for the feminine adjective (especially considering the Headword itself is listed with a short vowel). Of course you may notate this correction according to your liking.
+Jim:
+OLD:
+<lex>mf(<s>I<shortlong/></s>)n.</lex>
+NEW:
+<lex>mf(<s>I</s> or <s>i</s>)n.</lex>
+
+status = done
+------------------------------------------------------------------------
+
+Case 659: 05/22/2024 dict=MW, L=228791, hw=saṃghaṭ, user=srhodes
+old = Caus. -ghāṭayati,
+new = Caus. -ghaṭayati AND -ghāṭayati,
+comment = Typo – Please note that the printed text appears to approve the Causative form with both a "long" and a "short" vowel. These two forms must be included in the online edition of MW dictionary. Of course you may decide your preferred way of implementing this correction.
+Jim:
+OLD: <s>-GA<shortlong/>wayati</s>
+NEW: <s>-GAwayati</s> or <s>-Gawayati</s>
+
+status = done
+
+------------------------------------------------------------------------
+L=251816 hw = sUrkz  - check the Dhatupatha link 17.15
+Jim: 17.15 references sUrkz. 
+status done
+------------------------------------------------------------------------
+
+Case 549: 05/06/2024 dict=MW, L=92075 , hw=dityavah, user=srhodes
+old = ditya-vah f. °tyauhī 
+new = f. °tyauhī 
+comment = Typo – This correction follows the printed text.
+Jim:
+OLD: <s>ditya-va/h</s> ¦ <lex>f.</lex> <s>°tyOhI</s> (<ls>Pāṇ. iii, 2, 64</ls>;
+NEW: ¦ <lex>f.</lex> <s>°tyOhI</s> (<ls>Pāṇ. iii, 2, 64</ls>;
+status = done
+------------------------------------------------------------------------
+plI:   The Westerguard DP reference (XXXI, 82) looks like a bad reference (no 82 in sectionn XXXI)
+Jim:
+  Reference has been previously changed to xxxi,32 based on input from Andhrabharati
+done
+
+------------------------------------------------------------------------
+Case 465: 04/24/2024 dict=MW, L=75190, hw=caupāyana, user=srhodes
+old = fr. cupa g. i. aśvādi. 
+new = fr. cupa, g. 1. aśvādi. 
+comment = Typo - Please note the printed text for this correction looks like the Roman numeral for the number "one". Therefore I am suggesting this possible correction, but according to your preference.
+Jim: That is a homonym number  (so referring to homonym 1 of aSva (m. horse))
+OLD:
+<ab>g.</ab> i. <s>aSvA<srs/>di</s>
+NEW:
+<ab>g.</ab> <hom>1.</hom> <s>aSvA<srs/>di</s>
+status = done
+------------------------------------------------------------------------
+Case 412: 04/10/2024 dict=MW, L=221702, hw=śaukara, user=srhodes
+old = °rava
+new = °raka
+comment = Typo – I am making a guess here that needs to be looked into. The word "saukara" certainly exists, but the word "saukarava" does not exist. However there is the word "saukaraka" which leads me to believe that here the form cited as "°rava" should be corrected to "°raka".
+Jim: no change
+mw   : SOkara °rava See sOk°
+mw72 : SOkara śaukara or śaukarava
+so likely that mw99 copied from mw72, thus '°rava' is as intended.
+However, from 'See sOk° in mw, I would have expected there to be a sOkara AND sOkarava.
+In short, MW is confusing here, but there is not enough information for a print change.
+status = done
+ 
+------------------------------------------------------------------------
+Case 375: 04/01/2024 dict=MW, L=185124.1, hw=vajahuṇa, user=srhodes
+old = (cf. vajra-hūṇa)
+new = (cf. vajra-hūna)
+comment = Typo - You may confirm this correction by looking up the corrected word "vajrahūna" in MW dictionary. However, the printed word "vajra-hūṇa" is nowhere to be found.
+Jim: vajrahURa is in PW.
+I think it more likely that L=1805056 vajrahUna is a print error in MW (and should be vajrahURa)
+Jim take 2: no change
+mw72: vajaARa vajaāṇa and vajahūṇa, N. of places; [cf. vajra-hūṇa.] 
+mw72: (under vajra) Vajra-hūṇa, as, m., N. of a place.
+
+mw: xvajaāṇa and vajahuṇa, N. of places, Cat.  (cf. vajra-hūna). [ID=185124]
+mw: (under vajra) vajra—hUna m. N. of a place, Cat.
+
+pwg: vajrahūṇa N. pr. einer Oertlichkeit Verz. D. Oxf. H. 339,a,5. 6. — Vgl. vajahūṇa .
+
+There appears to me inconsistencies.  But exactly what the 'real story' should be
+is not clear.  Thus, no change.
+
+status = done.
+
+Case 374: 04/01/2024 dict=MW, L=185124, hw=vajaāṇa, user=srhodes
+old = (cf. vajra-hūṇa)
+new = (cf. vajra-hūna)
+comment = Typo - You may confirm this correction by looking up the corrected word "vajrahūna" in MW dictionary. However, the printed word "vajra-hūṇa" is nowhere to be found.
+status = done   See Case 375
+
+------------------------------------------------------------------------
+Case 358: 03/29/2024 dict=MW, L=245096, hw=sīkṣ, user=srhodes
+old = sīkṣati
+new = sīkṣate
+comment = Typo – This correction is suggested based on the fact that MW dictionary lists the desiderative form as "sīkṣate". I hope that Jim will have a look at this. Perhaps the parasmaipadam termination here is incorrect.
+Jim: print change per Scott:
+mw: sIkz, sIkzati. See √1. sah, p. 1192. [ID=245096]
+mw: (hom 1 sah L=239967): Desid. sI/kzate (p. sI/kzat; accord. to Pāṇ. viii, 3, 61, also sisahiza),
+
+pwg: Desid. sīkṣate 
+status = done
+
+xxx
+------------------------------------------------------------------------
+Case 47: 02/08/2024 dict=MW, L= 15195, hw=ararakā, user=srhodes
+old = ararākā
+new = ararakā
+comment = Typo – I humbly request that Jim look at this. In my opinion, if the Headword is listed as "ararakā", then it is a mistake to make the penultimate vowel long in the word listed under this Headword. Note that the previous Headword already lists this word with the penultimate long vowel.
+status =
+Jim: Here is current rendering. Change(s) needed ?
+OLD:
+<L>15194<pc>87,1<k1>ararAkA<k2>ararAkA<e>1
+<s>ararA<shortlong/>kA</s> ¦ <lex>f.</lex> <ab>N.</ab> of the ancestress of a celebrated <ns>Hindū</ns> family, (<ab>g.</ab> <s>gargA<srs/>di</s>, <ab>q.v.</ab>)<info lex="f"/><info or="15194,ararAkA;15195,ararakA"/>
+<LEND>
+<L>15194.1<pc>87,1<k1>ararAka<k2>ararAka<e>1B
+<s>ararA<shortlong/>ka</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> the descendants of <s1 slp1="ararAkA">Ararā̆kā</s1>, <ls>Pat.</ls> (<ab>cf.</ab> <s>ArarA<shortlong/>kya</s>.)<info lex="m"/>
+<LEND>
+<L>15195<pc>87,1<k1>ararakA<k2>ararakA<e>1
+<s>ararA<shortlong/>kA</s> ¦ <lex>f.</lex> <ab>N.</ab> of the ancestress of a celebrated <ns>Hindū</ns> family, (<ab>g.</ab> <s>gargA<srs/>di</s>, <ab>q.v.</ab>)<info lex="f"/><info or="15194,ararAkA;15195,ararakA"/>
+<LEND>
+<L>15195.1<pc>87,1<k1>araraka<k2>araraka<e>1B
+<s>araraka</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> the descendants of <s1 slp1="ararAkA">Ararā̆kā</s1>, <ls>Pat.</ls> (<ab>cf.</ab> <s>ArarA<shortlong/>kya</s>.)<info lex="m"/>
+<LEND>
+---------
+  Only mw has ararAkA.
+  ararakA : ap57, mw, mw72
+  araraka : mw, pw [mentions ararakA], pwg
+  
+NEW: Note: Assume both f. and m. have two forms
+<L>15194<pc>87,1<k1>ararAkA<k2>ararAkA<e>1
+<s>ararAkA</s> or <s>ararakA</s> ¦ <lex>f.</lex> <ab>N.</ab> of the ancestress of a celebrated <ns>Hindū</ns> family, (<ab>g.</ab> <s>gargA<srs/>di</s>, <ab>q.v.</ab>)<info lex="f"/><info orsl="15194,ararAkA;15195,ararakA"/>
+<LEND>
+<L>15194.1<pc>87,1<k1>ararAka<k2>ararAka<e>1B
+<s>ararAka</s> or <s>araraka</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> the descendants of <s1 slp1="ararAkA, ararakA">Ararā̆kā</s1>, <ls>Pat.</ls> (<ab>cf.</ab> <s>ararAkya</s> or <s>ararakya</s>.)<info lex="m"/><info orsl="15194.1,ararAkA;15195.1,araraka"/>
+<LEND>
+<L>15195<pc>87,1<k1>ararakA<k2>ararakA<e>1
+<s>ararAkA</s> or <s>ararakA</s> ¦ <lex>f.</lex> <ab>N.</ab> of the ancestress of a celebrated <ns>Hindū</ns> family, (<ab>g.</ab> <s>gargA<srs/>di</s>, <ab>q.v.</ab>)<info lex="f"/><info orsl="15194,ararAkA;15195,ararakA"/>
+<LEND>
+<L>15195.1<pc>87,1<k1>araraka<k2>araraka<e>1B
+<s>ararAka</s> or <s>araraka</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> the descendants of <s1 slp1="ararAkA, ararakA">Ararā̆kā</s1>, <ls>Pat.</ls> (<ab>cf.</ab> <s>ararAkya</s> or <s>ararakya</s>.)<info lex="m"/><info orsl="15194.1,ararAkA;15195.1,araraka"/>
+<LEND>
+
+status = done
+
+------------------------------------------------------------------------
+Case 40: 02/07/2024 dict=MW, L=1730 , hw=aṅgulisaṃdaṃsa, user=srhodes
+old = aṅgulisaṃdaṃsa
+new = aṅgulisaṃdaṃśa
+comment = Typo - I believe that this word has been corrected from the printing of the word "aṅgulisaṃdeśa".  HOWEVER, the correction itself has been misspelled!!!
+Jim: Since -saMdeSa is original headword in MW, and appears in many dictionaries,
+  It should not be lost based on the phrase '(read -saMdaMsa)'.
+  Further -saMdaMsa appears only in MW.  while '-saMdaMSa' appears in PW (and PD)
+  As a separate word, saMdaMsa is not found in any dictionary, while saMdaMSa is
+  common.
+  One conclusion is that '-saMdaMsa' (at page 1309,2) is a print change.
+  I'm not sure how to rewrite L=1730 !
+<L>1730<pc>8,2<k1>aNgulisaMdaMsa<k2>aNguli—saMdaMsa<e>3
+<s>aNguli—saMdaMsa</s> ¦ <lex>m.</lex> snapping or cracking the fingers as a sign. <info n="rev" pc="1309,2"/><info lex="m"/>
+<LEND>
+
+Jim take2: print change.  Still assume aṅgulisaṃdeśa is to be replace.
+  but change headword spelling as Scott suggests (to aṅgulisaṃdaṃśa)
+  
+OLD:
+<L>1730<pc>8,2<k1>aNgulisaMdaMsa<k2>aNguli—saMdaMsa<e>3
+<s>aNguli—saMdaMsa</s> ¦ <lex>m.</lex> snapping or cracking the fingers as a sign. <info n="rev" pc="1309,2"/><info lex="m"/>
+<LEND>
+NEW:
+<L>1730<pc>8,2<k1>aNgulisaMdaMSa<k2>aNguli—saMdaMSa<e>3
+<s>aNguli—saMdaMSa</s> ¦ <lex>m.</lex> snapping or cracking the fingers as a sign. <info n="rev" pc="1309,2"/><info lex="m"/>
+<LEND>
+
+status = done
+xxx
+
+------------------------------------------------------------------------
+मधु—मय mf(ई)n. consisting of honey, Hcat.  [ID=156002]
+sweet is honey, luscious,  " as honey"
+Jim: I think this one was noticed by me at random.  It is a typo only.
+Status = done

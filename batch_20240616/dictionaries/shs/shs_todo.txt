@@ -1,0 +1,64 @@
+
+58 matches in 55 lines for "Kshetriya" in buffer: shs.txt
+
+Two issues:
+1. Kshetriya -> Kshatriya
+2. Kshatriya -> Kṣatriya
+-----------------------------------------------------------
+4 matches for "Pisacha" in buffer: shs.txt
+-----------------------------------------------------------
+L=16748, hw=ḍāmara, user=srhodes
+old = as the Sivadamara, Yogadamara, Durgada mara
+new = as the Śivaḍāmara, Yogaḍāmara, Durgāḍāmara
+-----------------------------------------------------------
+ L=22611, hw=naimiṣāraṇya, user=srhodes
+old = Sautī related the Mahābhārat.
+new = Sauti related the Mahābhārata.
+
+-----------------------------------------------------------
+ L=28387, hw=baṇij, user=srhodes
+old = Karanas
+new = Karaṇas
+-----------------------------------------------------------
+L=17222, hw=taṣṭṛ, user=srhodes
+old = Adityas
+new = Ādityas
+
+-----------------------------------------------------------
+L=6647, hw=ujjayanī, user=srhodes
+old = Ujjayani
+new = Ujjayanī
+-----------------------------------------------------------
+L=24147, hw=pahnava, user=srhodes
+old = Kshetriya
+new = Kṣatriya
+
+-----------------------------------------------------------
+ L= 33970, hw=rośaṃsā, user=srhodes
+old = Prākrita
+new = Prākṛta
+-----------------------------------------------------------
+L= 11981, hw=kravyād, user=srhodes
+old = Rakshasa
+new = Rākṣasa
+
+-----------------------------------------------------------
+L= 25439, hw=pulkasa, user=srhodes
+old = Brāhmana by Kshetriya female
+new = Brāhmaṇa by Kṣatriya female
+-----------------------------------------------------------
+L= 34470, hw=lekhana, user=srhodes
+old = Bhurja-tree, which is used for writing on in Nepāland Upper Hindusthan.
+new = Bhūrja-tree, which is used for writing on in Nepāl and Upper Hindusthan.
+-----------------------------------------------------------
+ L= 5115, hw=ācamanīya, user=srhodes
+old = rincing
+new = rinsing
+comment = Typo - As this is a Sanskrit-English dictionary, this may be something to consider. The word rince in ENGLISH is spelled as "rinse". Therefore you might consider a "Global" correction of "rince" to "rinse" and "rincing" to "rinsing" in this Dictionary.
+8 matches for "\brinc" in buffer: shs.txt
+
+ L=15007, hw=cāpa, user=srhodes
+old = (In Gemetry,)
+1018 matches in 1006 lines for ",)" in buffer: shs.txt
+
+-----------------------------------------------------------

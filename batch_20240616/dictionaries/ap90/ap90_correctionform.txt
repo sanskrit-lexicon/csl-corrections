@@ -1,0 +1,177 @@
+Sanskrit Lexicon Correction Form History for AP90
+As of May 29, 2024
+19 correction records, with 19 PENDING
+
+Case 661: 05/22/2024 dict=AP90, L=26416, hw=vilasita, user=srhodes
+old = ajñānāvilasitaṃ
+new = ajñānavilasitaṃ
+comment = Typo – This follows the printed text for those with a discerning eye.
+status = done
+------------------------------------------------------------------------
+
+Case 638: 05/20/2024 dict=AP90, L=11239, hw=kuliśaḥ, user=srhodes
+old = Sākyamuni
+new = Śākyamuni
+comment = Typo – Please note that Apte offers this correct spelling in his own dictionary under the word "śākya" with the compound formation being "śakya-muni". Therefore I suggest this correction here. If there is one problem with the Sanskrit Language it is the abundance of variant spellings, half of which are probably absolutely incorrect, but have been absorbed into the language by the force of usage. That would make a good discussion on Github.
+
+status = done
+------------------------------------------------------------------------
+
+Case 626: 05/18/2024 dict=AP90, L=12105, hw=kharjūraḥ, user=srhodes
+old = — rī The datetree
+new = — rī The date-tree
+comment = Typo – Please note that the "hyphen" is required. In the printed text there is a line break, but the "hyphen" is required (nityam) because there is no such single word as "datetree" in the english language.
+
+status = done
+------------------------------------------------------------------------
+
+Case 625: 05/18/2024 dict=AP90, L=12105, hw=kharjūraḥ, user=srhodes
+old = 1 Datetree
+new = 1. Date-tree
+comment = Typo – Please note that the "hyphen" is required. In the printed text there is a line break, but the "hyphen" is required (nityam) because there is no such single word as "Datetree" in the english language.
+
+status = done
+------------------------------------------------------------------------
+
+Case 624: 05/18/2024 dict=AP90, L=10999, hw=kukkuraḥ, user=srhodes
+old = — vāc m. a species of deer.
+new = kukkuvāc m. a species of deer. (As a separate Headword unrelated to kukkura).
+comment = Typo – Please note that the compound word cited here:  "kukkuravāc" might be incorrect. Both MW Dictionary and Shabda-Sagara Dictionary give this very same word as "kukkuvāc". Perhaps APTE misread this word from somewhere else. I hope that this will be investigated further. Thank you.
+jim: no change. vcp has kukkuravAc, also ap57.
+status = done
+------------------------------------------------------------------------
+
+Case 588: 05/12/2024 dict=AP90, L=21860, hw=brahman, user=srhodes
+old = an epithet of Suka.
+new = an epithet of Śuka.
+comment = Typo – This correction follows MW dictionary and is perhaps more correct than "Suka" because we are not talking about a parrot!
+jim: Note: from pw, cae (maybe others) सुक = शुक 
+status = done
+------------------------------------------------------------------------
+
+Case 565: 05/09/2024 dict=AP90, L=12929, hw=ghuṣ, user=srhodes
+old = ghoṣayatite
+new = ghoṣayati-te
+
+status = done
+------------------------------------------------------------------------
+
+Case 418: 04/14/2024 dict=AP90, L=6379, hw=āptiḥ, user=srhodes
+old = nitra°
+new = mitra°
+
+status = done
+------------------------------------------------------------------------
+
+Case 387: 04/03/2024 dict=AP90, L=21754 , hw=bibbokaḥ, user=srhodes
+old = (Also written bibboka
+new = (Also written vibboka
+comment = Typo – Please note that this correction is proven on the fact that the Headword itself is "bibboka", therefore the alternative form offered MUST be other than "bibboka". Thus we have "vibboka" as the necessary correction.
+jim: the printed page 797 is unreadable at this word (col a - top).
+Using AP57, we see (Also written बिव्बोक and बिव्वोक )
+Using mw72: also written  विव्वोक and विब्बोक  this also in pwg, mw.
+Accepting the mw72, pwg, mw form here, in agreement with Scott's change.
+status = done
+------------------------------------------------------------------------
+
+Case 385: 04/03/2024 dict=AP90, L=25191, hw=val, user=srhodes
+old = A. (balate
+new = Ā. (valate
+
+status = done
+------------------------------------------------------------------------
+
+Case 384: 04/03/2024 dict=AP90, L=28659, hw=saṃvaraḥ, user=srhodes
+old = see śaṃṣara
+new = see śaṃbara
+comment = Typo - The text is unclear, so I am offering my best guess. Please have Jim make a decision on this.
+jim: confirmed ap57. Also, śaṃbara is hw in ap90
+status = done
+------------------------------------------------------------------------
+
+Case 298: 03/21/2024 dict=AP90, L=30733, hw=stan, user=srhodes
+old = stanayatite
+new = stanayati-te
+comment = Typo - This correction follows the printed text and distinguishes the TWO verbal forms clearly.
+jim:  Also similar change at
+ 13563, Cad;  14279 taMs; 14820 tuz; 14909 tfh; 15584 dfp;
+ 16103 DU; 17662 pat; 18898 piMs; 18949 piMq; 22533 maMq;
+ 22848 mah; 23397 mfj; 24044 ras; 24654 lI; 24687 lup;
+ 24687 vitt; 27490 vrIs; 28081 SuMW; 28446 Sliz; 30788 stf;
+ 31013 sPur
+status = done
+
+------------------------------------------------------------------------
+
+Case 295: 03/21/2024 dict=AP90, L=10045, hw=kaṭuka, user=srhodes
+old = -kaṭurohiṇī
+new = kaṭurohiṇī
+comment = Typo – Please note that the "hyphen" does not go with the word, it is connected with the "colon" symbol and actually unnecessary.
+
+status = done
+------------------------------------------------------------------------
+
+Case 274: 03/19/2024 dict=AP90, L=21555, hw=baddha, user=srhodes
+old = rivetting
+new = riveting
+jim: print change
+  Bing Copilot says that 'rivetting' is an acceptable spelling.
+  But I could get no 'real' dictionary with 'rivetting'.  
+status = done
+------------------------------------------------------------------------
+
+Case 273: 03/18/2024 dict=AP90, L=2941, hw=abuddhiḥ, user=srhodes
+old = nonintelligence
+new = non-intelligence
+comment = Typo - It is always best to hyphenate this word (even though in the printed text there is a line break).
+
+status = done
+------------------------------------------------------------------------
+
+Case 173: 03/07/2024 dict=AP90, L=10289, hw=kam, user=srhodes
+old = cakabhe
+new = cakame
+comment = Typo - This is the 1st and 3rd person singular form of the Perfect.
+
+status = done
+------------------------------------------------------------------------
+
+Case 104: 02/20/2024 dict=AP90, L= 24712, hw=lekhana, user=srhodes
+old = (nāṃ f.)
+new = (nī f.)
+comment = Typo - Please note that this correction is for the main listing (not the compound). The printing is not very clear. I resolve the issue based on Paṇini himself, as follows: Being formed by the affix lyuṭ and being ṭit, the word "lekhana" takes the feminine affix ṅīp according to Pā. 4.1.15. Please let me know if my reasoning is incorrect. Thank You!
+jim: confirm ap57
+status = done
+------------------------------------------------------------------------
+
+Case 36: 02/05/2024 dict=AP90, L= 30570, hw=sairaṃdhrī, user=srhodes
+old = Sudheṣṇā
+new = Sudeṣṇā
+comment = Typo - I believe that this is a spelling error.
+jim: print change.
+   suDezRA not found in any dictionary, sudezRA found in several.
+status = done
+------------------------------------------------------------------------
+
+Case 26: 02/01/2024 dict=AP90, L= 6115, hw=ātman, user=srhodes
+old = selfpleased
+new = self-pleased
+comment = Typo - Please note that this typo is found under the compound "ātmārāma" listed beneath "ātman".
+
+status = done
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+cp ap90.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh ap90  ../../ap90
+sh xmlchk_xampp.sh ap90
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+git push
+# do the necessary for cologne server
+# sh generate_dict.sh ap90  ../../AP90Scan/2020/
+cd /c/xampp/htdocs/cologne/csl-corrections/temp_batch
+
+Copy the items in local ap90_printchange.txt to its proper location in csl-corrections,
+and update the csl-corrections repo.

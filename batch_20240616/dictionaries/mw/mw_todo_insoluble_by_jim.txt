@@ -1,0 +1,33 @@
+Insoluble by Jim
+------------------------------------------------------------------------
+
+Case 642: 05/21/2024 dict=MW, L=81295, hw=ṭoṭa, user=srhodes
+old = v.l. for doṭ°
+new = There is no such word as "doṭa" or "doṭī". Therefore this needs to be looked into by Jim in order to ascertain the correct reference. The words "ḍoḍa" and "ḍoḍī" do exist, but that may or may not be the correction needed. Apte gives the definition as "small, little."
+jim: No change.  Don't know what MW99 intended here.
+status = PENDING
+
+------------------------------------------------------------------------
+
+Case 627: 05/18/2024 dict=MW, L=61878, hw=khārdamāyana, user=srhodes
+old = cf. kārd°
+new = cf. kard°
+comment = Typo – Please note that this correction needs to be investigated for two reasons: 1. The word "kārdamāyana" is nowhere to be found and 2. The Purāṇa Index lists the word "kardamāyana". Therefore, I believe this is the correct reference being made here.
+Jim: No solution found
+status = PENDING
+------------------------------------------------------------------------
+Case 471: 04/25/2024 dict=MW, L=70827, hw=cañcura, user=srhodes
+old = See puṇya-
+new = ???
+comment = Typo – Please note that I am citing this reference for further investigation. Attention Jim! I hope that you will consider looking into this. Apparently the word, "puṇya-cañcura" is being referenced here. However no such word is found anywhere. Perhaps a Github discussion is in order. Please let me know what you discover. Thank  you very much.
+Jim:  no idea how to resolve puṇya-
+status = PENDING
+------------------------------------------------------------------------
+
+Case 142: 02/28/2024 dict=MW, L= 41780, hw=kacchapī, user=srhodes
+old = cf. testudo)
+new = ???
+comment = Typo - I do not find this word anywhere. Also not in MW print change. Please discuss on Github and let me know the result. Or perhaps your already know the answer. The question is, "What is testudo?"
+Jim:  no idea
+status = PENDING
+------------------------------------------------------------------------

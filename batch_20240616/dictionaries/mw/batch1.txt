@@ -1,0 +1,420 @@
+
+Case 688: 05/29/2024 dict=MW, L=165450, hw=mud, user=srhodes
+old = (aor. amumudat)
+new = (aor. amūmudat)
+status = done
+------------------------------------------------------------------------
+
+Case 687: 05/28/2024 dict=MW, L=96762, hw=daityendra, user=srhodes
+old = D°s-prince
+new = D°-prince
+status = done
+------------------------------------------------------------------------
+
+Case 686: 05/28/2024 dict=MW, L=96763, hw=daityendrapūjya, user=srhodes
+old = = tyejya
+new = = °tyejya
+status = done
+------------------------------------------------------------------------
+
+Case 685: 05/28/2024 dict=MW, L=96762 , hw=96762, user=srhodes
+old = D°s-prince
+new = D°-prince
+status = done duplicate
+------------------------------------------------------------------------
+
+Case 684: 05/28/2024 dict=MW, L=71225, hw=caturdārikā, user=srhodes
+old = xxivxxvi
+new = xxiv-xxvi
+comment = Typo – This is a possible correction. I am uncertain if all those numbers are meant to be split with a hyphen as in the printed text, or is the hyphen strictly a result of the line break?
+status = done
+------------------------------------------------------------------------
+
+Case 683: 05/27/2024 dict=MW, L=144318, hw=bādh, user=srhodes
+old = bhatsate
+new = bībhatsate
+comment = Typo – Please note that this is a very serious correction to the alternate Desiderative Form (and therefore it is worth 1000 points).  !
+status = done
+------------------------------------------------------------------------
+
+Case 682: 05/26/2024 dict=MW, L=77322, hw=jaya, user=srhodes
+old = śalruṃ- 
+new = śatruṃ- 
+status = done
+------------------------------------------------------------------------
+
+Case 681: 05/26/2024 dict=MW, L=77578, hw=jayādevī, user=srhodes
+old = N. of a, Buddh.  deity
+new = N. of a Buddh. deity
+comment = Typo – I prefer to follow the printed text and treat the definition in a pure straightforward way. To change the coding of "Buddh." seems to me unnecessary and strictly incorrect. This sort of issue occurs many times in the online MW dictionary. If there is no direct reference to another "work or text", then I maintain that the entire definition should be treated in with the same coding (font style) thereby following the printed page.
+status = done
+------------------------------------------------------------------------
+
+Case 680: 05/26/2024 dict=MW, L=106139, hw=nālakini, user=srhodes
+old = nālakini
+new = nālakinī
+comment = Typo – Please note that this is a Headword Typo (and therefore it is worth 1000 points).
+status = done
+------------------------------------------------------------------------
+
+Case 678: 05/26/2024 dict=MW, L=106155, hw=nālika, user=srhodes
+old = m. a kind of wind instrument
+new = a kind of wind instrument
+comment = Typo – Please note that the gender here is questionable. Apte lists this particular definition as "neuter gender". In MW dictionary the previous definition was listed as "m. or n." And this option of gender has not been "cancelled" or "restated" in any way. Therefore the gender of this particular definition should remains as "m. or n." or revert to simply "n." which was the previous gender listed. Please see the printed text. The "masculine gender" has not been specifically stated here and therefore it is an error make this assertion.
+Jim: remove <lex>n.</lex>
+status = done
+------------------------------------------------------------------------
+
+Case 677: 05/26/2024 dict=MW, L=106152, hw=nālika, user=srhodes
+old = m. a kind of wind instrument
+new = a kind of wind instrument
+comment = Typo – Please note that the gender here is questionable. Apte lists this particular definition as "neuter gender". In MW dictionary the previous definition was listed as "m. or n." And this option of gender has not been "cancelled" or "restated" in any way. Therefore the gender of this particular definition should remains as "m. or n." or revert to simply "n." which was the previous gender listed. Please see the printed text. The "masculine gender" has not been specifically stated here and therefore it is an error make this assertion.
+Jim: This was handled under 106155 above.  106152 is unrelated to this comment.
+status = done
+------------------------------------------------------------------------
+
+Case 676: 05/26/2024 dict=MW, L=106152, hw=nālika, user=srhodes
+old = =, nālāstra
+new = = nālāstra
+status = done
+------------------------------------------------------------------------
+
+Case 675: 05/25/2024 dict=MW, L=107001, hw=nirjālmaka, user=srhodes
+old = (cf. jarjalpa)
+new = (cf. -jarjalpa)
+status = done
+------------------------------------------------------------------------
+
+Case 674: 05/25/2024 dict=MW, L=106993, hw=nirjarjalpa, user=srhodes
+old = -jalmaka
+new = -jālmaka
+status = done
+------------------------------------------------------------------------
+
+Case 673: 05/25/2024 dict=MW, L=65369, hw=gucchaphala, user=srhodes
+old = (riṭhā-karañja)
+new = (rīṭhā-karañja)
+status = done
+------------------------------------------------------------------------
+
+Case 672: 05/25/2024 dict=MW, L=106080, hw=nārasiṃhopapurāṇa, user=srhodes
+old = N. of an, Up.  and an Upapurāṇa
+new = N. of an Up. and an Upapur.
+comment = Typo – Please note that this correction follows the printed text. The printed text does not indicate any reason to "change the coding" as you have done in the online edition. The form "Up." and "Upapur." should remain in "the same coding" as the entire definition itself. Perhaps you prefer to deviate for some reason? I prefer to follow the printed text and keep things simple. We are not referring to "the names of some other text"; MW dictionary is simply stating a definition which happens to be the name of an Upaniṣad and an Upapurāṇa. There is no "external reference" intended here. This is also a consideration for a Global correction to the Many Many instances of this exact same sort.
+Jim. Good point.  Andhrabharati would agree with you, I think.
+status = done
+------------------------------------------------------------------------
+
+Case 671: 05/25/2024 dict=MW, L=97805, hw=drāvaka, user=srhodes
+old = enchanting
+new = cunning
+comment = Typo – Please note that this is a very serious error. An entire definition has been misrepresented. I am very pleased to make this correction (and it is worth 1000 points).
+Jim: I think only 500 :)
+status = done
+------------------------------------------------------------------------
+
+Case 669: 05/24/2024 dict=MW, L=79410, hw=jillika, user=srhodes
+old = (v.l. jhili°)
+new = (v.l. jhilli°)
+Jim: jhill° (no ending 'i')
+status = done
+------------------------------------------------------------------------
+
+Case 668: 05/24/2024 dict=MW, L=79410, hw=jillika, user=srhodes
+old = (v.l. jhili°)
+new = (v.l. jhilli°)
+Jim: duplicate
+status = done
+------------------------------------------------------------------------
+
+Case 667: 05/24/2024 dict=MW, L=79412, hw=jivri, user=srhodes
+old = √jrī
+new = √jṝ
+status = done
+------------------------------------------------------------------------
+
+Case 666: 05/23/2024 dict=MW, L=80052, hw=juhūrāṇa, user=srhodes
+old = for huvāna
+new = for °huvāna
+status = done
+------------------------------------------------------------------------
+
+Case 664: 05/23/2024 dict=MW, L=80049, hw=juhuvāna, user=srhodes
+old = a, hard-hearted man
+new = a hard-hearted man
+status = done
+------------------------------------------------------------------------
+
+Case 663: 05/23/2024 dict=MW, L=80049, hw=juhuvāna, user=srhodes
+old = a, hard-hearted man
+new = a hard-hearted man
+jim: duplicate
+status = done
+------------------------------------------------------------------------
+
+Case 660: 05/22/2024 dict=MW, L=199653, hw=vilasita, user=srhodes
+old = sport play,
+new = sport, play,
+status = done
+------------------------------------------------------------------------
+
+Case 658: 05/22/2024 dict=MW, L=87476.3, hw=trayastriṃśatsaṃmita, user=srhodes
+old = prajāpates trayastriṃśat-saṃmita
+new = Prajāpates trayastriṉśat-saṃmita,
+comment = Typo – Please note that three corrections are made here which match the printed text. I consider the "comma" to be very important.
+Jim: In new, not 'Pra' but 'pra'. Due to lack of capitalization in Devanagari.
+  Agree with comma. Also the ṉ is not used -- CDSL codes this phrase as slp1:
+  <s>prajApates trayastriMSat-saMmita</s>. The <s> tag indicate that this is
+  Sanskrit. 
+status = done
+------------------------------------------------------------------------
+
+Case 657: 05/22/2024 dict=MW, L=228330, hw=saṃkṣāra, user=srhodes
+old = (idānāṃ ś° or iḍā-ś°
+new = (idāṇāṃ s° or iḍā-s°
+comment = Typo – Please note there three corrections are suggested here. The first correction is required: "idāṇāṃ"; the other two corrections are suggested because there can only be a direct relation to the word "saṃkṣāra" if it is actually being used in the parenthetical addition. Otherwise, why offer additional information that is unrelated to the Headword?
+Jim:  idānāṃ -> iḍānāṃ  (not idāṇāṃ)
+      ś° -> s° (twice)  This is a print change.
+status = done
+------------------------------------------------------------------------
+
+Case 656: 05/22/2024 dict=MW, L=81502.2, hw=ḍhillikā, user=srhodes
+old = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+new = Remove the indentation of this Headword in the Hierarchical column listing.
+comment = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+Jim: No change.  This entry from supplement is assumed to be like those entries
+ of the main part which are not written in Devanagari. Compare qAlin (slp1)
+status = done
+------------------------------------------------------------------------
+
+Case 655: 05/22/2024 dict=MW, L=81502.1, hw=ḍhillī, user=srhodes
+old = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+new = Remove the indentation of this Headword in the Hierarchical column listing.
+comment = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+Jim: No change.  This entry from supplement is assumed to be like those entries
+ of the main part which are not written in Devanagari. Compare qAlin (slp1)
+status = done
+------------------------------------------------------------------------
+
+Case 654: 05/22/2024 dict=MW, L=81502.01, hw=ḍhilī, user=srhodes
+old = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+new = Remove the indentation of this Headword in the Hierarchical column listing.
+comment = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+Jim: No change.  This entry from supplement is assumed to be like those entries
+ of the main part which are not written in Devanagari. Compare qAlin (slp1)
+status = done
+------------------------------------------------------------------------
+
+Case 653: 05/22/2024 dict=MW, L=137878, hw=prasādana, user=srhodes
+old = cf. ambu - p°
+new = cf. ambu-p°
+status = done
+------------------------------------------------------------------------
+
+Case 652: 05/22/2024 dict=MW, L=137878, hw=prasādana, user=srhodes
+old = (cf. ambu - p°
+new = cf. ambu-p°
+jim: duplicate
+status = done
+------------------------------------------------------------------------
+
+Case 651: 05/22/2024 dict=MW, L=137885, hw=prasādana, user=srhodes
+old = w.r. for pra-sādhan
+new = w.r. for pra-sādhana
+status = done
+------------------------------------------------------------------------
+
+Case 650: 05/21/2024 dict=MW, L=167430, hw=mṛṣ, user=srhodes
+old = amarṣrīt
+new = amarṣīt
+status = done
+------------------------------------------------------------------------
+
+Case 649: 05/21/2024 dict=MW, L=167430, hw=mṛṣ, user=srhodes
+old = mriṣitvā
+new = mṛṣitvā
+status = done
+------------------------------------------------------------------------
+
+Case 648: 05/21/2024 dict=MW, L=167430, hw=mṛṣ, user=srhodes
+old = māmriṣat
+new = māmṛṣat
+status = done
+------------------------------------------------------------------------
+
+Case 647: 05/21/2024 dict=MW, L=126760, hw=puṣ, user=srhodes
+old = pokṣyati;poṣitā
+new = pokṣyati; poṣitā
+status = done
+------------------------------------------------------------------------
+
+Case 646: 05/21/2024 dict=MW, L=126760, hw=puṣ, user=srhodes
+old = pupuṣithati
+new = pupuṣiṣati
+status = done
+------------------------------------------------------------------------
+
+Case 645: 05/21/2024 dict=MW, L=81300, hw=ṭauṭeśa, user=srhodes
+old = ‘Ṭauṭa -lord’
+new = ‘Ṭauṭa-lord’
+status = done
+------------------------------------------------------------------------
+
+Case 644: 05/21/2024 dict=MW, L=81295.1, hw=ṭoṭī, user=srhodes
+old = ṭo°ṭī,
+new = °ṭī, 
+status = done
+------------------------------------------------------------------------
+
+Case 643: 05/21/2024 dict=MW, L=81295, hw=ṭoṭa, user=srhodes
+old = ṭo°ṭī,
+new = °ṭī, 
+status = done
+------------------------------------------------------------------------
+
+Case 641: 05/21/2024 dict=MW, L=52266.1 , hw=kubhanyu, user=srhodes
+old = -ku-bhanyu
+new = = ku-bhanyu
+status = done
+------------------------------------------------------------------------
+
+Case 640: 05/20/2024 dict=MW, L=53370, hw=kuśāśva, user=srhodes
+old = (v.l. kriśāśva)
+new = (v.l. kṛśāśva)
+comment = Typo – Please note that this is most definitely a printing error.
+status = done
+------------------------------------------------------------------------
+
+Case 639: 05/20/2024 dict=MW, L=58543.1, hw=klap, user=srhodes
+old = Hierarchy Error - the Indentation in the Hierarchy List is an error. 
+new = Remove the indentation of this Headword in the Hierarchical column listing. Also you will have to do something about the ID number itself. It can no longer can be tagged as "[ID=58543.1]"; and [ID=58544] is already being used to identify the following word "klapuṣa". 
+comment = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+Jim:  <e>2 -> <e>1  (the print shows headword in Devanagari, so H1 in MW)
+   No need for renumbering
+status = done
+------------------------------------------------------------------------
+
+Case 637: 05/19/2024 dict=MW, L=178139, hw=riṣ, user=srhodes
+old = (A.  rīriṣīṣṭa)
+new = (Ā.  rīriṣīṣṭa)
+Jim: <ls>A.</ls> -> <ab>Ā.</ab>
+status = done
+------------------------------------------------------------------------
+
+Case 636: 05/19/2024 dict=MW, L=188546, hw=vaṣaṭ, user=srhodes
+old = pūṣṇe
+new = Pūṣṇe
+jim: no change.  Refer capitalization in Sanskrit words.
+   Note: Cannot find 'pUzRe'
+status = done
+------------------------------------------------------------------------
+
+Case 634: 05/19/2024 dict=MW, L=188556, hw=vaṣaṭkriyā, user=srhodes
+old = = kāra-kriyā
+new = = -kāra-kriyā
+status = done
+------------------------------------------------------------------------
+
+Case 633: 05/19/2024 dict=MW, L=188552, hw=vaṣaṭkārin, user=srhodes
+old = = -kartri
+new = = -kartṛ
+status = done
+------------------------------------------------------------------------
+
+Case 632: 05/18/2024 dict=MW, L=58418, hw=kroñca, user=srhodes
+old = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+new = Remove the indentation of this Headword in the Hierarchical column listing.
+comment = Hierarchy Error - the Indentation in the Hierarchy List is an error.
+jim: a) <e>2 -> <e>1 for 58418  (print headword is in Devanagari)
+  b) <e>1 -> <e>2  for 58417.1 (k1=kroYc). From supplement, so assume H2,
+     entry NOT Devanagari.
+status = done
+------------------------------------------------------------------------
+
+Case 631: 05/18/2024 dict=MW, L=58411, hw=kreṅkāra, user=srhodes
+old = x.
+new = Place this minute detail along with [ID=58410] and remove [ID=58411]
+comment = I am skeptical of listing "x." under a separate ID. It seems overly analytical to the point of confusion.
+Jim: a) move the 'x.' to previous entry 58410: <ls>Bālar. iv, 11; x.</ls>
+  b) delete entry 58411.
+status = done
+------------------------------------------------------------------------
+
+Case 630: 05/18/2024 dict=MW, L=52031, hw=kutsa, user=srhodes
+old = (cf. kautsa, puru-kutsa, &c.)
+new = Place the following, "(cf. kautsa, puru-kutsa, &c.)" under [ID=52030].
+comment = ID Placement Error: Please note that the printed text does not contain the ID numberings of the online version.  There are certain cases where your ID numbering system can be misleading in relation to the printed text. In this case I am proposing to move the reference "(cf. kautsa, puru-kutsa, &c.)" and place it with the above definition as part of [ID=52030]. The reason for this is that I do not believe this reference bears relation to the neuter definition of "the plant Costus speciosus".
+Jim: a) in 52030:  add '(<s>As</s>), ' before '<lex>m. <ab>pl.</ab></lex>'
+  b) in 52031: add '(<s>am</s>), ' before '<lex>n.</lex>'
+  c) in 52031: add ';' after '<ls>L.</ls>'
+  d) '(cf. kautsa, puru-kutsa, &c.)' placement: 
+     1) the referenced words are related to `descendants of Kutsa`,
+     2) in print, the phrase appears after the plant-name reference
+   Possible Solution:
+   1) Do as Scott suggests -  move the phrase to 52031
+   2) mark as a print change
+   I have NOT done this -- the sequence of phrases in cdsl is consistent
+     with MW print.
+status = done
+------------------------------------------------------------------------
+
+Case 629: 05/18/2024 dict=MW, L=52049, hw=kuthumin, user=srhodes
+old = (cf. kuṭhumin
+new = (cf. kuṭhumi
+comment = Typo – Please note that this correction needs to be investigated for two reasons: 1. The word "kuṭhumin" is nowhere to be found and 2. The word "kuṭhumi" does exist and seemingly bears the relation being cited here.
+Jim: 1) Agree. (confirm via mw72, pwg)
+     2) mark as print change  
+status = s
+------------------------------------------------------------------------
+
+Case 622: 05/17/2024 dict=MW, L=81267, hw=ṭīṭibha, user=srhodes
+old = = ṭiṭṭ
+new = = ṭiṭṭ°
+status = done
+------------------------------------------------------------------------
+
+Case 620: 05/17/2024 dict=MW, L=81242, hw=ṭiṭila, user=srhodes
+old = (= 100 Nāga.balas)
+new = (= 100 Nāga-balas)
+Jim: '<s1 slp1="nAga">Nāga</s1>.balas'  ->
+     '<s1 slp1="nAga-bala">Nāga-bala</s1>s'
+status = done
+------------------------------------------------------------------------
+
+Case 619: 05/17/2024 dict=MW, L=81257, hw=ṭiṇḍiśa, user=srhodes
+old = = ḍiṇḍ
+new = = ḍiṇḍ°
+status = done
+------------------------------------------------------------------------
+
+Case 618: 05/16/2024 dict=MW, L=61759.1, hw=khāḍgika, user=srhodes
+old = Possible Hierarchy Listing Error
+new = I am uncertain if the word "khāḍgika" is directly derived from the word "khāḍga". Unless there is a direct Etymological connection, this word should not be indented in the Hierarchical Listing. Please look into this.
+comment = Possible Hierarchy Listing Error
+Jim:  No change.
+  The indenting is not due to a 'direct etymological connection', but rather
+  a) khāḍga headword in print is Devanagari  (display shows '(H1)')
+  b) khāḍgika comes from supplement, assumed it would have been shown with
+     non-devanagari headword in print, which would imply '(H2)'.
+status = done
+------------------------------------------------------------------------
+
+Case 617: 05/16/2024 dict=MW, L=61718, hw=khasṛma, user=srhodes
+old = Siṃhikā
+new = Siṉhikā
+comment = Typo – This correction follows the printed text.
+Jim: no change. See note under Case 658 above.
+status = done
+------------------------------------------------------------------------
+
+Case 615: 05/16/2024 dict=MW, L=61731, hw=khāñjāra, user=srhodes
+old = fr. khañj
+new = fr. khañj°
+status = done
+------------------------------------------------------------------------
+
+Case 614: 05/16/2024 dict=MW, L=58535, hw=krauṣṭrāyaṇa, user=srhodes
+old = kroṣṭri
+new = kroṣṭṛ
+Jim: print change
+status = done

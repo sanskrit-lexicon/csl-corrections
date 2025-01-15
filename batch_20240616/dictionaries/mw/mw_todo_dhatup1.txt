@@ -1,0 +1,72 @@
+
+Missed some dhatup, pointed out by Andhrabharati
+11 matches for "<ls>Dhātup. [ixv]*\.</ls>" in buffer: mw.txt
+---------------------------
+<L>59233<pc>327,2<k1>kzal<k2>kzal<h>1<e>1
+ 203467:<hom>1.</hom> <s>kzal</s> ¦ <ab>v.l.</ab> for √ <s>kzar</s>, <ls>Dhātup. xx.</ls>
+OLD: Dhātup. xx.
+NEW: Dhātup. xx, 21.
+done
+
+<L>64317<pc>351,1<k1>galh<k2>galh<e>1
+ 219731:<s>galh</s> ¦ = √ <s>garh</s>, to blame, <ls>Dhātup. xvi.</ls><info verb="root" cp="0"/>
+OLD: Dhātup. xvi.
+NEW: Dhātup. xvi, 36.
+done
+
+<L>72168<pc>389,1<k1>camb<k2>camb<e>1
+ 245439:<s>camb</s> ¦ <ab>cl.</ab> 1. <s>°bati</s>, to go, <ls>Dhātup. xi.</ls><info verb="root" cp="1"/>
+OLD: Dhātup. xi.
+NEW: Dhātup. xi, 35.
+done
+<L>75683<pc>405,2<k1>Cad<k2>Cad<h>5<e>1
+ 256786:<hom>5.</hom> <s>Cad</s> ¦ <ab>cl.</ab> 1. to nourish, <ls>Dhātup. xix.</ls><info verb="root" cp="1"/>
+OLD: Dhātup. xix.
+NEW: Dhātup. xix, 52.
+done
+<L>75700<pc>405,2<k1>Camp<k2>Camp<e>1
+ 256837:<s>Camp</s> ¦ <ab>cl.</ab> 10. to go, <ls>Dhātup. xxxii.</ls><info verb="root" cp="10"/>
+OLD: Dhātup. xxxii.
+NEW: Dhātup. xxxii, 76.
+done
+<L>75694<pc>405,2<k1>Cam<k2>Cam<e>1
+ 256819:<s>Cam</s> ¦ <ab>cl.</ab> 1. <s>°mati</s>, to eat, <ls>Dhātup. xiii.</ls><info verb="root" cp="1"/>
+OLD: Dhātup. xiii.
+NEW: Dhātup. xiii, 27.
+done
+
+<L>80184<pc>424,3<k1>jez<k2>jez<e>1
+ 271261:<s>jez</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> to move, <ls>Dhātup. xvi.</ls><info verb="root" cp="1Ā"/>
+OLD: Dhātup. xvi.
+NEW: Dhātup. xvi, 15.
+done
+<L>85649<pc>449,2<k1>tIv<k2>tIv<e>1
+ 289098:<s>tIv</s> ¦ <ab>cl.</ab> 1. <s>°vati</s>, to be fat, <ls>Dhātup. xv.</ls><info verb="root" cp="1"/>
+OLD: Dhātup. xv.
+NEW: Dhātup. xv, 57.
+done
+
+<L>86954<pc>455,1<k1>tev<k2>tev<e>1
+ 293432:<s>tev</s> ¦ <ab>cl.</ab> 1. <s>°vate</s>, to sport, <ls>Dhātup. xiv.</ls><info verb="root" cp="1"/>
+OLD: Dhātup. xiv.
+NEW: Dhātup. xiv, 28.
+done
+
+<L>87143<pc>455,3<k1>toqana<k2>toqana<e>2
+294035:<s>toqana</s> ¦ <lex>n.</lex> (√ <s>tuq</s>) splitting (?), <ls n="Dhātup.">viii f.</ls>, <ls n="Dhātup.">xxviii.</ls><info lex="n"/>
+OLD: <ls n="Dhātup.">viii f.</ls>, <ls n="Dhātup.">xxviii.</ls>
+NEW: <ls n="Dhātup.">viii, 23 f.</ls>, <ls n="Dhātup.">xxviii, 92</ls>.
+done
+
+<L>87421<pc>457,1<k1>trand<k2>trand<e>1
+ 294932:<s>trand</s> ¦ <ab>cl.</ab> 1. to be busy, <ls>Dhātup. iii.</ls><info verb="root" cp="1"/>
+OLD: Dhātup. iii.
+NEW: Dhātup. iii, 32.
+done
+
+----------------------------------
+Jim cannot find subsection
+<L>86537<pc>453,1<k1>tfR<k2>tfR<e>1
+ 292015:<s>tfR</s> ¦ <ab>cl.</ab> 8. <s>°Roti</s>, <s>°Rute</s>, or <s>tarR°</s>, <s>°Rute</s>, to eat, <ls>Dhātup. i.</ls><info verb="root" cp="8"/>
+OLD: Dhātup. i.
+NEW: Dhātup. i.  ?
