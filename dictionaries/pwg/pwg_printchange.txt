@@ -147,4 +147,14 @@ L code : Headword : Old  : New : Comment
 106569 : sarj : <ls>BHĀG. P. 4,31,32.</ls>  :  4,31,22  
 114961 : svana : <ls>BHĀG. P. 2,23,39.</ls>  :  3,23,39  
 117491 : hetutva : <ls>BHĀG. P. 3,18,36.</ls>  :  3,28,36  
+12/06/2024
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+Source: user Andhrabharati, funderburkjim
+L code : Headword : Old  : New : Comment
+81815 : yA : Spr. 1926, l. l. : Spr. 1926, v. l.
+46573 : pUj : Spr. 7,2230, v. l. : Spr. 2230, v. l.
+Also, funderburkjim changed several references to editions 1 and
+2 of Indische Spruche.  These are among the changes in file
+ pwgissues/issue87/lsmarkup/lsother_8.txt of repo PWG
+ (https://github.com/sanskrit-lexicon/PWG)
 ----------------------------------------------------------------------
