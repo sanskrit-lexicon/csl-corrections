@@ -1841,3 +1841,9 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1776#issuecomment-26613
 code : Headword : Old  : New : Comment
 5890.1 : anirvartin : anirvartin : anivartin : Old Lnum 5890.1 is changed to 5936.1 and headword changed from anirvartin to anivartin
 ------------------------------------------------------------------------
+02-17-2025
+Github user aumsanskrit
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1787
+code : Headword : Old  : New : Comment
+706.1 : akzoDuka : Delete supplement : Delete supplement : Supplement does not add any information above the original entry
+------------------------------------------------------------------------
