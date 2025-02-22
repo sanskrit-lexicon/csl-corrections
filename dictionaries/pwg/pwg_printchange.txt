@@ -158,3 +158,9 @@ Also, funderburkjim changed several references to editions 1 and
  pwgissues/issue87/lsmarkup/lsother_8.txt of repo PWG
  (https://github.com/sanskrit-lexicon/PWG)
 ----------------------------------------------------------------------
+12/06/2024
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2675
+Source: user funderburkjim
+L code : Headword : Old  : New : Comment
+13562 : evaMvIrya : ŚAT. BR. 13,8,3,1 : ŚAT. BR. 13,8,3,11
+----------------------------------------------------------------------
