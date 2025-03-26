@@ -1847,3 +1847,9 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1787
 code : Headword : Old  : New : Comment
 706.1 : akzoDuka : Delete supplement : Delete supplement : Supplement does not add any information above the original entry
 ------------------------------------------------------------------------
+03-26-2025
+Github user Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2678
+code : Headword : Old  : New : Comment
+79670 : jIvatyAga : <ls>Sāh. iii, 156.</ls> : <ls>Sāh. iii, 155.</ls>
+------------------------------------------------------------------------
