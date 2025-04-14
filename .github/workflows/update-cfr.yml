@@ -1,9 +1,9 @@
-name: CFR Auto Update Everyday
+name: CFR Auto Update Every 5 Minutes
 
 on:
   schedule:
-    - cron: '35 4 * * *'  # At 04:40 UTC
-  workflow_dispatch:
+    - cron: '*/2 * * * *'  # Every 5 minutes
+  workflow_dispatch:        # Allows manual/API triggering
 
 jobs:
   update-cfr:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: false  # Disable default GITHUB_TOKEN
 
       - name: Set up Git user
         run: |
@@ -44,4 +44,4 @@ jobs:
           git add app/correction_response/cfr.tsv
           git commit -m "Auto-update cfr.tsv [every 5 minutes]"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
-          git push origin HEAD
+          git push origin master
