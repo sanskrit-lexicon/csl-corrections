@@ -1,8 +1,8 @@
-name: CFR Auto Update Every 5 Minutes
+name: CFR Auto Update Everyday
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
+    - cron: '20 4 * * *'  # At 04:20 UTC
   workflow_dispatch:
 
 jobs:
