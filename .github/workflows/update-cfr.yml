@@ -41,7 +41,7 @@ jobs:
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git add cfr.tsv
+          git add app/correction_response/cfr.tsv
           git commit -m "Auto-update cfr.tsv [every 5 minutes]"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
           git push origin HEAD
