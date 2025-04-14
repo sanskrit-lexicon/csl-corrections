@@ -28,7 +28,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet cfr.tsv; then
+          if git diff --quiet app/correction_response/cfr.tsv; then
             echo "No changes in cfr.tsv"
             echo "changed=false" >> $GITHUB_OUTPUT
           else
