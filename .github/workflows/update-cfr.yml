@@ -2,7 +2,7 @@ name: CFR Auto Update Everyday
 
 on:
   schedule:
-    - cron: '20 4 * * *'  # At 04:20 UTC
+    - cron: '35 4 * * *'  # At 04:40 UTC
   workflow_dispatch:
 
 jobs:
