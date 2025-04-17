@@ -174,3 +174,9 @@ L code : Headword : Old  : New : Comment
 19821 : kravyAd : <ls>RAGH. 15. 16.</ls> : <ls>RAGH. 15,16.</ls> :
 24543 : caturanta : (vgl. {#caturdigISa#}\n<ls>RAGH. 18,14)</ls> : (vgl. {#caturdigISa#}<ls>RAGH. 18,14</ls>) : Bracket after reference
 ----------------------------------------------------------------------
+04/17/2025
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2682
+Source: user Andhrabharati
+L code : Headword : Old  : New : Comment
+58220 : 58220 : <ls>HĀR. 3,13.</ls> : <ls>HALĀY. 3,13.</ls>
+----------------------------------------------------------------------
