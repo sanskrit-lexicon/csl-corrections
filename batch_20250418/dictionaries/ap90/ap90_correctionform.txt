@@ -1,0 +1,276 @@
+Sanskrit Lexicon Correction Form History for AP90
+As of April 18, 2025
+42 correction records, with 42 PENDING
+
+Case 128: 01/26/2025 dict=AP90, L=1977, hw=anuṣṇa, user=srhodes
+old = — guḥ ( LB — go ray) having cold rays, the moon.
+new = — guḥ (— go ray) having cold rays, the moon.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 120: 01/25/2025 dict=AP90, L=1935, hw=anuśaraḥ, user=srhodes
+old = evil-spirit
+new = evil spirit
+comment = Typo – It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 116: 01/25/2025 dict=AP90, L=1964, hw=anuṣṭutiḥ, user=srhodes
+old = Praise(in due order.)
+new = Praise (in due order).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 115: 01/25/2025 dict=AP90, L=1958, hw=anuṣakta, user=srhodes
+old = everarising
+new = ever-arising
+status = PENDING
+------------------------------------------------------------------------
+
+Case 114: 01/25/2025 dict=AP90, L=1956, hw=anuṣaṃj, user=srhodes
+old = — pass. ( LB — ṣajyate)
+new = — pass. (— ṣajyate)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 110: 01/24/2025 dict=AP90, L=1938, hw=anuśāsaka, user=srhodes
+old = Missing Headwords
+new = You may choose to add the following three Headwords: "anuśāsin", "anuśāstṛ" and "anuśāsitṛ" which are referenced here, so as to be searchable Headwords in the Hierarchy list.
+comment = Missing Headwords
+status = PENDING
+------------------------------------------------------------------------
+
+Case 109: 01/24/2025 dict=AP90, L=1936, hw=anuśastraṃ, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 108: 01/24/2025 dict=AP90, L=1935, hw=anuśaraḥ, user=srhodes
+old = evil-spirit
+new = evil spirit
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 107: 01/24/2025 dict=AP90, L=1930, hw=anuvrajanaṃ, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword: "anuvrajyā" which is referenced here, so as to be searchable in the Hierarchy.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 106: 01/24/2025 dict=AP90, L=1927, hw=anuvyāharaṇaṃ, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword: "anuvyāhāraḥ" which is referenced here, so as to be searchable in the Hierarchy.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 105: 01/24/2025 dict=AP90, L=1924, hw=anuvedhaḥ, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword: "anuvyādhaḥ" which is referenced here, so as to be searchable in the Hierarchy.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 104: 01/24/2025 dict=AP90, L=1909, hw=anuviśvaḥ, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 103: 01/24/2025 dict=AP90, L=1885, hw=anuvādaka, user=srhodes
+old = — n
+new = —n
+comment = Typo – I think that it is better with no space to indicate the word ending in "n" is meant here:  "anuvādin".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 98: 01/23/2025 dict=AP90, L=1881, hw=anūcāna, user=srhodes
+old = wellversed
+new = well-versed
+status = PENDING
+------------------------------------------------------------------------
+
+Case 97: 01/23/2025 dict=AP90, L=1866, hw=anuloma, user=srhodes
+old = having fortune favourable
+new = having fortune, favourable
+status = PENDING
+------------------------------------------------------------------------
+
+Case 95: 01/23/2025 dict=AP90, L=1863, hw=anulepaḥ, user=srhodes
+old = surabhi kusumadhūpānulepanāni
+new = surabhikusumadhūpānulepanāni
+status = PENDING
+------------------------------------------------------------------------
+
+Case 94: 01/23/2025 dict=AP90, L=1863, hw=anulepaḥ, user=srhodes
+old = anoint ing
+new = anointing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 92: 01/23/2025 dict=AP90, L=1853, hw=anurudh, user=srhodes
+old = evamarunudhyate
+new = evamanurudhyate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 91: 01/23/2025 dict=AP90, L=1844, hw=anurathyā, user=srhodes
+old = foot-path
+new = footpath
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 80: 01/22/2025 dict=AP90, L=1807, hw=anumitiḥ, user=srhodes
+old = parāmarśajanyaṃ jñānamanumitiḥ
+new = liṅgaparāmarśajanyaṃ jñānamanumitiḥ
+comment = Typo – Please note that this is a very important "print change" which is required for the definition given: "the knowledge that arises from deduction or syllogistic reasoning". The required pūrvapada which has been omitted here is "liṅga" relates to the "syllogistic reasoning" mentioned in the translation. Also, please note that this correction precisely follows APTE's FULL Dictionary which is more complete than what Cologne University is offering here. I am certain that both Andhrabharati and Dr. Dhaval will be pleased with this submission from a serious student.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 79: 01/22/2025 dict=AP90, L=1802, hw=anumā, user=srhodes
+old = — Caus. ( LB — māpayati)
+new = — Caus. (— māpayati)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 75: 01/21/2025 dict=AP90, L=1769, hw=anubodhaḥ, user=srhodes
+old = scent-of
+new = scent of
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 74: 01/21/2025 dict=AP90, L=1769, hw=anubodhaḥ, user=srhodes
+old = after-thought
+new = afterthought
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 69: 01/20/2025 dict=AP90, L=17165, hw=niṣaṇṇa, user=srhodes
+old = down cast
+new = downcast
+status = PENDING
+------------------------------------------------------------------------
+
+Case 68: 01/20/2025 dict=AP90, L=17165, hw=niṣaṇṇa, user=srhodes
+old = down cast
+new = downcast
+status = PENDING
+------------------------------------------------------------------------
+
+Case 67: 01/20/2025 dict=AP90, L=1721, hw=anupānīya, user=srhodes
+old = afterdrink
+new = after-drink
+status = PENDING
+------------------------------------------------------------------------
+
+Case 66: 01/20/2025 dict=AP90, L=1711, hw=anupaskāra, user=srhodes
+old = ( adhyāhāradoṣarahita)
+new = (adhyāhāradoṣarahita)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 64: 01/20/2025 dict=AP90, L=1695, hw=anupama, user=srhodes
+old = south-west
+new = southwest
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 62: 01/20/2025 dict=AP90, L=1667, hw=anunāyika, user=srhodes
+old = maid-servant
+new = maidservant
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 56: 01/19/2025 dict=AP90, L=1623, hw=anudātta, user=srhodes
+old = Grave(accent);
+new = Grave (accent);
+status = PENDING
+------------------------------------------------------------------------
+
+Case 55: 01/19/2025 dict=AP90, L=1615, hw=anutsekaḥ, user=srhodes
+old = khaluvikramālaṃkāraḥ
+new = khalu vikramālaṃkāraḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 44: 01/18/2025 dict=AP90, L=1604, hw=anutta, user=srhodes
+old = Not set
+new = Not sent
+comment = Typo – Please note that this is a possible "print change" based upon the "negative" definition of the word, "nutta" meaning "sent". Thus, with the negative particle = Not sent.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 43: 01/18/2025 dict=AP90, L=1604, hw=anutta, user=srhodes
+old = set driven
+new = set, driven
+status = PENDING
+------------------------------------------------------------------------
+
+Case 42: 01/18/2025 dict=AP90, L=1603, hw=anutka, user=srhodes
+old = over-anxious
+new = overanxious
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 41: 01/18/2025 dict=AP90, L=1597, hw=anutila, user=srhodes
+old = tila(as
+new = tila (as
+status = PENDING
+------------------------------------------------------------------------
+
+Case 40: 01/18/2025 dict=AP90, L=1596, hw=anutarṣaṇaṃ, user=srhodes
+old = = anutarṣa LB 3 and LB 4                  [ID=1596]
+new = = anutarṣa 3 and 4  [ID=1596]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 39: 01/18/2025 dict=AP90, L=1574, hw=anucchādaḥ, user=srhodes
+old = under-garment
+new = undergarment
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 38: 01/18/2025 dict=AP90, L=1570, hw=anucarciḥ, user=srhodes
+old = Repeating(in
+new = Repeating (in
+status = PENDING
+------------------------------------------------------------------------
+
+Case 30: 01/17/2025 dict=AP90, L=1549, hw=anugiraṃ, user=srhodes
+old = Alphabetical Placement Error
+new = This Headword should be properly placed just before the word "anugīti [ID=1552]" in the Hierarchical listing of words. Please note that this correction follows the FULL version of Apte Dictionary, and therefore this must be considered as an error worthy of correction.
+comment = Alphabetical Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 29: 01/17/2025 dict=AP90, L=1534, hw=anukṣattṛ, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 01/16/2025 dict=AP90, L=1479, hw=anīca, user=srhodes
+old = ( LB — m.) 
+new = — (m.) 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 01/16/2025 dict=AP90, L=1475, hw=anīkaḥ, user=srhodes
+old = elephantdriver
+new = elephant-driver
+status = PENDING
+------------------------------------------------------------------------
+

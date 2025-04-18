@@ -1,0 +1,1459 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 18, 2025
+222 correction records, with 222 PENDING
+
+Case 1322: 04/18/2025 dict=SHS, L=3202, hw=arundhatīnātha, user=srhodes
+old = VASISHṬHA
+new = VASIṢṬHA
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṬH') and "partial" secular phoneticism (i.e. 'SH') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1321: 04/18/2025 dict=SHS, L=3201, hw=arundhatījāni, user=srhodes
+old = VASISHṬHA
+new = VASIṢṬHA
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṬH') and "partial" secular phoneticism (i.e. 'SH') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1320: 04/18/2025 dict=SHS, L=3200, hw=arundhatī, user=srhodes
+old = KERDAMA and wife of VASISHṬHA
+new = KARDAMA and wife of VASIṢṬHA
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṬH') and "partial" secular phoneticism (i.e. 'SH') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1298: 04/16/2025 dict=SHS, L=10955, hw=kulācala, user=srhodes
+old = Varsha or division of a continent: those of Bharata Varsha, India are Mohendra, Malaya, Sahya, Sukitman, Riksha, Vindyha, and Pariputra
+new = Varṣa or division of a continent: those of Bhāratavarṣa, India are Mahendra, Malaya, Sahya, Śuktimān, Ṛkṣa, Vindyha, and Pāripātra
+comment = Typo – Certainly "Mohendra" and "Vindyha" are Typos. The rest have been corrected with diacritical markings for clarity.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1284: 04/16/2025 dict=SHS, L=3194, hw=aruṇodaya, user=srhodes
+old = sun-set
+new = sunset
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1283: 04/16/2025 dict=SHS, L=3190, hw=aruṇāvaraja, user=srhodes
+old = GARUDA. LB E. aruṇa, avara after, and ja born; the younger brother of ARUNA.
+new = GARUḌA. LB E. aruṇa, avara after, and ja born; the younger brother of ARUṆA.
+comment = Typo – Please note that these Diacritical Corrections could be applied Globally, otherwise this is going to be a lot of Work that we do not need to do, on an individual (one by one) basis.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1282: 04/16/2025 dict=SHS, L=3189, hw=aruṇātmaja, user=srhodes
+old = JATAYU, a fabulous bird: said by some to be the son of ARUNA, but more generally of GARUDA
+new = JAṬĀYU, a fabulous bird: said by some to be the son of ARUṆA, but more generally of GARUḌA
+comment = Typo – Please note that these Diacritical Corrections could be applied Globally, otherwise this is going to be a lot of Work that we do not need to do, on an individual (one by one) basis.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1281: 04/16/2025 dict=SHS, L=3188, hw=aruṇāgraja, user=srhodes
+old = ARUNA
+new = ARUṆA
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1280: 04/16/2025 dict=SHS, L=3188, hw=aruṇāgraja, user=srhodes
+old = GARURA, the bird of VISHNU.
+new = GARUḌA, the bird of VIṢṆU.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1279: 04/16/2025 dict=SHS, L=3188, hw=aruṇāgraja, user=srhodes
+old = GARURA, the bird of VISHNU.
+new = GARUḌA, the bird of VIṢṆU.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1278: 04/16/2025 dict=SHS, L=3184, hw=aruṇa, user=srhodes
+old = Window Display Error
+new = Please Delete the listing at the top of the Window Display: "[ID=3179 ]". This Headword is actually "arugṇa" which has previously been corrected and it does not belong in the Window Display with the Headword "aruṇa [ID=3184 ]"
+comment = Window Display Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1277: 04/16/2025 dict=SHS, L=3179, hw=aruṇa, user=srhodes
+old = aruṇa
+new = arugṇa
+comment = Typo – Please note that this is a Headword Typo, and therefore it requires three corrections in the Window Display. Also, please delete the erroneous listing of the Headword "aruṇa [ID=3184 ]" from the Window Display here. The Headword "aruṇa [ID=3184 ]" appears later and should not be included here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1276: 04/16/2025 dict=SHS, L=3176, hw=ariṣṭasūdana, user=srhodes
+old = ARISHTA
+new = ARIṢṬA
+comment = Typo – Since the Headword is spelled as "ariṣṭasūdana", we may as well add the diacritical markings to the pūrvapada.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1275: 04/16/2025 dict=SHS, L=3176, hw=ariṣṭasūdana, user=srhodes
+old = KṚṢṆA or VISHNU
+new = KṚṢṆA or VIṢṆU
+comment = Typo – one word with diacritical markings followed by another word without diacritical markings is an inconsistency that is worth correcting.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1274: 04/16/2025 dict=SHS, L=3176, hw=ariṣṭasūdana, user=srhodes
+old = Asur
+new = Asura
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1273: 04/16/2025 dict=SHS, L=3175, hw=ariṣṭanemi, user=srhodes
+old = Tirthakāras
+new = Tīrthakaras
+comment = Typo – please note that this is a suggested "print change", based upon Shabda's own listing of the Headword "Tīrthakara". Of course, if diacritical markings are used, then they should be used correctly!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1272: 04/16/2025 dict=SHS, L=17564, hw=tīrthakara, user=srhodes
+old = synonimes
+new = synonyms
+comment = Typo – please note that this is a suggested "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1271: 04/16/2025 dict=SHS, L=3171, hw=ariṣṭa, user=srhodes
+old = Sing or symptom
+new = Sign or symptom
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1270: 04/16/2025 dict=SHS, L=3171, hw=ariṣṭa, user=srhodes
+old = Asur
+new = Asura
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1269: 04/16/2025 dict=SHS, L=42412, hw=sapatra, user=srhodes
+old = (-trī)
+new = (-tnī)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1268: 04/16/2025 dict=SHS, L=42412, hw=sapatra, user=srhodes
+old = (-traḥ)
+new = (-tnaḥ)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1267: 04/16/2025 dict=SHS, L=42412, hw=sapatra, user=srhodes
+old = sapatra
+new = sapatna
+comment = Typo – Please note that this is a Headword Typo, and therefore it requires three corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1253: 04/14/2025 dict=SHS, L=42481, hw=sabhya, user=srhodes
+old = E. samā
+new = E. sabhā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1245: 04/14/2025 dict=SHS, L=3160, hw=arikyabhāj, user=srhodes
+old = arikyabhāj
+new = arikthabhāj
+comment = Typo – Please note that this is a Headword typo, based upon a comparision with Apte and MW dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1244: 04/14/2025 dict=SHS, L=3152, hw=arāma, user=srhodes
+old = arāma
+new = arāga
+comment = Typo – Please note that this is a Headword typo. Shabda proves the point as follows: "E. a neg. rāga passion."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1243: 04/14/2025 dict=SHS, L=3150, hw=arasika, user=srhodes
+old = Flavourness
+new = Flavourless
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1242: 04/14/2025 dict=SHS, L=3144, hw=aralu, user=srhodes
+old = śonāka
+new = śoṇāka
+comment = Typo – Please note that this is a "print change" following Both MW dictionary as well as Shabda Itself!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1241: 04/14/2025 dict=SHS, L=3144, hw=aralu, user=srhodes
+old = An plant
+new = A plant
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1240: 04/14/2025 dict=SHS, L=3143, hw=arara, user=srhodes
+old = arara
+new = arare
+comment = Typo – Please note that this is a possible "print change" and Headword Typo, based upon a comparison with Apte and MW dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1220: 04/12/2025 dict=SHS, L=3109, hw=arakṣita, user=srhodes
+old = Unprotected undefended
+new = Unprotected, undefended
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1219: 04/12/2025 dict=SHS, L=3108, hw=araka, user=srhodes
+old = śaibāla
+new = śaivāla
+comment = Typo – Please note that Shabda Dictionary lists this word as "śaivāla"; therefore, please make this correction. In Sanskrit, consistency is required.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1218: 04/12/2025 dict=SHS, L=3107, hw=ara, user=srhodes
+old = Avasarpini or Utsarpini. See avasarpiṇī
+new = Avasarpiṇī or Utsarpiṇī. See avasarpiṇī
+comment = Typo – We may as well spell things correctly; especially considering the included portion above: "See avasarpiṇī" , which appears strange to be preceded by incorrect spelling (of the same word). This may also be a Global Correction to each of the two words, so that we can save time in the future by not doing this again (and again and again).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1217: 04/12/2025 dict=SHS, L=3101, hw=ayodhya, user=srhodes
+old = RAMĀ
+new = RĀMA
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1216: 04/12/2025 dict=SHS, L=3093, hw=ayogava, user=srhodes
+old = bā to go;
+new = vā to go;
+comment = Typo – Please note that Shabda Dictionary lists this root as √vā. Therefore we may as well be consistent and make this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1215: 04/12/2025 dict=SHS, L=3093, hw=ayogava, user=srhodes
+old = bā to go;
+new = vā to go;
+comment = Typo – Please note that Shabda Dictionary lists this root as √vā. Therefore we may as well be consistent and make this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1214: 04/12/2025 dict=SHS, L=3093, hw=ayogava, user=srhodes
+old = bā to go;
+new = vā to go;
+comment = Typo – Please note that Shabda Dictionary lists this root as √vā. Therefore we may as well be consistent and make this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1213: 04/12/2025 dict=SHS, L=3093, hw=ayogava, user=srhodes
+old = Sūdra man, and Vaisya
+new = Śūdra man, and Vaiśya
+comment = Typo – We may as well spell things correctly. Please consider these TWO corrections as a Global Correction for all similar errors.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1198: 04/10/2025 dict=SHS, L=3055, hw=ayana, user=srhodes
+old = Sastra
+new = Śāstra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1197: 04/10/2025 dict=SHS, L=3055, hw=ayana, user=srhodes
+old = equinoetial
+new = equinoctial
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1196: 04/10/2025 dict=SHS, L=3048, hw=ayathātatha, user=srhodes
+old = Unfit unsuitable
+new = Unfit, unsuitable
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1195: 04/10/2025 dict=SHS, L=3038, hw=aya, user=srhodes
+old = pra and para
+new = pra and parā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1181: 04/09/2025 dict=SHS, L=3014, hw=amlatā, user=srhodes
+old = with tva aff. amlava
+new = with tva aff. amlatva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1175: 04/08/2025 dict=SHS, L=2997, hw=ambhoja, user=srhodes
+old = Saras
+new = Sārasa
+comment = Typo – Please note that this is a suggested "print change", based upon MW dictionary.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1174: 04/08/2025 dict=SHS, L=2983, hw=ambuvācī, user=srhodes
+old = Ashārha
+new = Aṣāḍha
+comment = Typo – Please note that this is a suggested "print change", based upon other reliable sources.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1173: 04/08/2025 dict=SHS, L=2973, hw=ambupaddhati, user=srhodes
+old = Current stream
+new = Current, stream
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1172: 04/07/2025 dict=SHS, L=2952, hw=ambālikā, user=srhodes
+old = PāNDU
+new = PĀṆḌU
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'N' and 'D') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letters: "N" and "D" are misleading, because the correct letters are: "Ṇ" and "Ḍ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1166: 04/07/2025 dict=SHS, L=2953, hw=ambikā, user=srhodes
+old = DHṚTARĀSHṬRA
+new = DHṚTARĀṢṬRA
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1165: 04/07/2025 dict=SHS, L=2953, hw=ambikā, user=srhodes
+old = DHṚTARĀSHṬRA
+new = DHṚTARĀṢṬRA
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1164: 04/07/2025 dict=SHS, L=2952, hw=ambālikā, user=srhodes
+old = PāNDU
+new = Pāṇḍu
+comment = Typo - Something should be corrected here. You may decide as you like.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1163: 04/07/2025 dict=SHS, L=2951, hw=ambā, user=srhodes
+old = DŪRGĀ
+new = DURGĀ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1162: 04/07/2025 dict=SHS, L=2949, hw=ambaṣṭha, user=srhodes
+old = Vaisya
+new = Vaiśya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1114: 04/04/2025 dict=SHS, L=2936, hw=ameya, user=srhodes
+old = Inmense
+new = Immense
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1113: 04/04/2025 dict=SHS, L=2916, hw=amṛtasū, user=srhodes
+old = Mātri
+new = Mātṛ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1071: 04/01/2025 dict=SHS, L=2949, hw=ambaṣṭha, user=srhodes
+old = jasmin
+new = jasmine
+comment = Typo – Please note that this correction is the proper spelling in English. In the French language, they spell things differently.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1029: 03/29/2025 dict=SHS, L=2825, hw=amarapuṣpikā, user=srhodes
+old = puṣpikrā
+new = puṣpikā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1021: 03/28/2025 dict=SHS, L=2816, hw=amara, user=srhodes
+old = A. house
+new = A house
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1020: 03/28/2025 dict=SHS, L=2810, hw=amantra, user=srhodes
+old = Sudra
+new = Śūdra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1019: 03/28/2025 dict=SHS, L=2796, hw=atipūrvva, user=srhodes
+old = atipūrvva
+new = amatipūrvva
+comment = Typo – Please note that this is a Headword "print change", as indicated here by the Etymology: "E. amati ignorance, pūrvva before." Both MW and Apte dictionaries agree as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1018: 03/28/2025 dict=SHS, L=2790, hw=amaṅgala, user=srhodes
+old = civil
+new = evil
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1001: 03/26/2025 dict=SHS, L=2787, hw=abhrottha, user=srhodes
+old = thunder-bolt
+new = thunderbolt
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1000: 03/26/2025 dict=SHS, L=2773, hw=abhramātaṅka, user=srhodes
+old = abhramātaṅka
+new = abhramātaṅga
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 999: 03/26/2025 dict=SHS, L=2760, hw=abhyuha, user=srhodes
+old = abhyuha
+new = abhyūha
+comment = Typo – Please note that this is a suggested "print change", based upon all other sources; unless someone can confirm the authority of the spelling given here, with a short vowel. Also, the etymological root cited appears to be spelled with a long vowel: "√ūh", by all authorities.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 998: 03/26/2025 dict=SHS, L=2761, hw=abhyuhya, user=srhodes
+old = abhyuhya
+new = abhyūhya
+comment = Typo – Please note that this is a suggested "print change", based upon all other sources; unless someone can confirm the authority of the spelling given here, with a short vowel. Also, the etymological root cited appears to be spelled with a long vowel: "√ūh", by all authorities.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 988: 03/24/2025 dict=SHS, L=3461, hw=alakṣita, user=srhodes
+old = unseem
+new = unseen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 986: 03/24/2025 dict=SHS, L=2741, hw=abhyutyāna, user=srhodes
+old = abhyutyāna
+new = abhyuttāna
+comment = Typo – Please note that this is a Headword Typo.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 985: 03/24/2025 dict=SHS, L=2741, hw=abhyutyāna, user=srhodes
+old = Sun-rise
+new = Sunrise
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 947: 03/22/2025 dict=SHS, L=2684, hw=abhedyatā, user=srhodes
+old = amedyatvaṃ
+new = abhedyatvaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 946: 03/22/2025 dict=SHS, L=2673, hw=abhukta, user=srhodes
+old = unused. unexpended
+new = unused, unexpended
+status = PENDING
+------------------------------------------------------------------------
+
+Case 922: 03/20/2025 dict=SHS, L=2649, hw=abhisāraṇa, user=srhodes
+old = Improtuning
+new = Importuning
+status = PENDING
+------------------------------------------------------------------------
+
+Case 921: 03/20/2025 dict=SHS, L=2642, hw=abhisandhi, user=srhodes
+old = Joint junction
+new = Joint, junction
+status = PENDING
+------------------------------------------------------------------------
+
+Case 920: 03/20/2025 dict=SHS, L=2642, hw=abhisandhi, user=srhodes
+old = Joint junction
+new = Joint, junction
+status = PENDING
+------------------------------------------------------------------------
+
+Case 919: 03/20/2025 dict=SHS, L=2642, hw=abhisandhi, user=srhodes
+old = Joint junction
+new = Joint, junction
+status = PENDING
+------------------------------------------------------------------------
+
+Case 889: 03/17/2025 dict=SHS, L=2597, hw=abhilāva, user=srhodes
+old = Repeating
+new = Reaping
+comment = Typo – Please note that this is a suggested "print change". I find no authority for the definition given here as: "Repeating".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 842: 03/13/2025 dict=SHS, L=22431, hw=nīrandhra, user=srhodes
+old = randha
+new = randhra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 816: 03/12/2025 dict=SHS, L=2546, hw=abhiprāya, user=srhodes
+old = priñ
+new = prīñ
+comment = Typo – Please note that this is a suggested "print change". I do not find a root listed as √pri, therefore the vowel must be long thus, " prī "
+status = PENDING
+------------------------------------------------------------------------
+
+Case 815: 03/12/2025 dict=SHS, L=2530, hw=abhiniveśa, user=srhodes
+old = Tanacity
+new = Tenacity
+status = PENDING
+------------------------------------------------------------------------
+
+Case 814: 03/12/2025 dict=SHS, L=2526, hw=abhinirmmukta, user=srhodes
+old = sun-set
+new = sunset
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 784: 03/10/2025 dict=SHS, L=2506, hw=abhitas, user=srhodes
+old = 4. Quickly.
+new = 1. Quickly.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 783: 03/10/2025 dict=SHS, L=2504, hw=abhijñāna, user=srhodes
+old = Ascrtaining
+new = Ascertaining  
+status = PENDING
+------------------------------------------------------------------------
+
+Case 782: 03/10/2025 dict=SHS, L=2504, hw=abhijñāna, user=srhodes
+old = sing
+new = sign
+status = PENDING
+------------------------------------------------------------------------
+
+Case 781: 03/10/2025 dict=SHS, L=2498, hw=abhicaidya, user=srhodes
+old = Chedi
+new = Cedi
+comment = Typo – "print change" to reveal the correct letter. Please note that the letter "Ch" is misleading since the correct letter is simply "C". Also, note that Headword itself with the letter "c" , and NOT "abhichaidya".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 780: 03/10/2025 dict=SHS, L=2498, hw=abhicaidya, user=srhodes
+old = SISUPALA
+new = ŚIŚUPĀLA
+comment = Typo – "print change" to reveal the correct letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 779: 03/10/2025 dict=SHS, L=2492, hw=abhicara, user=srhodes
+old = servent
+new = servant
+status = PENDING
+------------------------------------------------------------------------
+
+Case 778: 03/10/2025 dict=SHS, L=2489, hw=amighāta, user=srhodes
+old = amighāta
+new = abhighāta
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 750: 03/08/2025 dict=SHS, L=2469, hw=abhāva, user=srhodes
+old = Non-existence
+new = Nonexistence
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 749: 03/08/2025 dict=SHS, L=2463, hw=abhava, user=srhodes
+old = Non-existent
+new = Nonexistent
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 748: 03/08/2025 dict=SHS, L=2458, hw=abhayadakṣiṇā, user=srhodes
+old = Sudra
+new = Śūdra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 747: 03/08/2025 dict=SHS, L=2443, hw=abrahyaṇya, user=srhodes
+old = Sacred, not to be killed, (in theatrical language.)
+new = ???
+comment = Typo – Please keep in mind that this Headword has just been corrected to: "abrahmaṇya". But now we need to look at the definition given by Shabda. I hope that Dr. Dhaval or Andhrabharati can offer some explanation to this definition which is VERY different from what Apte and MW have to say.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 746: 03/08/2025 dict=SHS, L=2443, hw=abrahyaṇya, user=srhodes
+old = E. a not, brahyaṇya
+new = E. a not, brahmaṇya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 745: 03/08/2025 dict=SHS, L=2443, hw=abrahyaṇya, user=srhodes
+old = abrahyaṇya
+new = abrahmaṇya
+comment = Typo – Please note that this is a Headword Typo which occurs three times in the Window display and therefore needs to be corrected three times.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 744: 03/07/2025 dict=SHS, L=2437, hw=abdhiśayana, user=srhodes
+old = VISHNU
+new = VIṢṆU
+comment = Typo – Please make this a Global Correction. Otherwise, you may be hearing from me again on this point, which simply increases your workload.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 743: 03/07/2025 dict=SHS, L=2434, hw=abdhinagarī, user=srhodes
+old = Dwārakā
+new = Dvārakā
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'w') occurring in a single word. Please make this a Global Correction. Otherwise, you may be hearing from me again on this point, which simply increases your workload.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 742: 03/07/2025 dict=SHS, L=2432, hw=abdhija, user=srhodes
+old = ASWINI
+new = AŚVINĪ
+comment = Typo – Please make this a Global Correction. Otherwise, you my be hearing from me again on this point, which simply increases your workload.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 741: 03/07/2025 dict=SHS, L=2432, hw=abdhija, user=srhodes
+old = Swerga
+new = Swarga
+comment = Typo – Please make this a Global Correction. Otherwise, you my be hearing from me again on this point, which simply increases your workload.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 740: 03/07/2025 dict=SHS, L=2431, hw=abdhikapha, user=srhodes
+old = Cuttle fish
+new = Cuttlefish
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 739: 03/07/2025 dict=SHS, L=4134, hw=abda, user=srhodes
+old = abda
+new = avda
+comment = Typo – Please note that this correction applies to the 2nd occurrence of the Headword "abda". This second listing is Incorrectly Spelled. This is proven on two accounts: 1) The etymology given as: "E. ava to preserve, dan Unādi affix" ;  2) The alphabetical placement after the Headword "avoda" in the Hierarchy List Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 738: 03/07/2025 dict=SHS, L=771, hw=aviromaśa, user=srhodes
+old = aviromaśa
+new = atiromaśa
+comment = Typo – Please note that this is a Headword Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 737: 03/07/2025 dict=SHS, L=2421, hw=abjahasta, user=srhodes
+old = SURJYA
+new = SŪRYA
+status = PENDING
+------------------------------------------------------------------------
+
+Case 736: 03/07/2025 dict=SHS, L=2420, hw=abjavāhana, user=srhodes
+old = SIVA
+new = ŚIVA
+comment = Typo – I am sure that I have submitted several other identical corrections. Therefore please make this correction globally, as soon as possible; that will save both of us time.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 735: 03/07/2025 dict=SHS, L=2419, hw=abjayoni, user=srhodes
+old = BRAHMA
+new = BRAHMĀ  or  BRAHMAN (m.)
+comment = Typo – Please note that this name only applies to the masculine form of the word: "brahman" which is declined as "brahmā", in the masculine nomintative singular. But, here SHABDA says, "BRAHMA" which APTE declares as meaning, "The Supreme Spirit, the Absolute". However this is NOT the correct meaning of the Headword: "abjayoni" as which has the sense of "born from a lotus". Therefore a correction MUST be made here according to one of the two suggestions given above.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 702: 03/06/2025 dict=SHS, L=2411, hw=abodhagamya, user=srhodes
+old = Incomprihensible
+new = Incomprehensible
+status = PENDING
+------------------------------------------------------------------------
+
+Case 701: 03/06/2025 dict=SHS, L=2399, hw=abadhyabhāva, user=srhodes
+old = embassador
+new = ambassador
+status = PENDING
+------------------------------------------------------------------------
+
+Case 700: 03/06/2025 dict=SHS, L=2396, hw=abaddhamukha, user=srhodes
+old = Foulmouthed
+new = Foul-mouthed
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 681: 03/05/2025 dict=SHS, L=2386, hw=apsarā, user=srhodes
+old = an Apsarā
+new = an Apsaras
+comment = Typo – I consider this correction to be important, because otherwise the word "apsarā" is being defined by itself: "an Apsarā". This must be considered as a fault in logic. The definition must not solely contain the word being defined! Therefore, "an Apsaras" is a better definition. What does Andhrabharati have to say?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 680: 03/05/2025 dict=SHS, L=2385, hw=apsaras, user=srhodes
+old = apsaras f. plur. always (-rāḥ)
+new = ???
+comment = Typo – Please clarify. The form indicated: "apsarāḥ" is what I consider to be the nominative singular case. However, here Shabda states: "apsaras f. plur. always (-rāḥ)". Does this mean that in fact "apsarāḥ" is an exception plural form? I hope that Dr. Dhaval or Andhrabharati will clarify this point.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 679: 03/05/2025 dict=SHS, L=2385, hw=apsaras, user=srhodes
+old = Swerga
+new = Swarga
+status = PENDING
+------------------------------------------------------------------------
+
+Case 678: 03/05/2025 dict=SHS, L=2373, hw=aprātha, user=srhodes
+old = aprātha
+new = ???
+comment = Typo – I do not find this word listed anywhere else. Also the alphabetical placement is incorrect according to the spelling given. I hope that Dr. Dhaval or Andhrabharati can elucidate this mysterious word. Is the spelling wrong? Or is Shabda right?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 661: 03/03/2025 dict=SHS, L=2351, hw=apravṛtti, user=srhodes
+old = inertion
+new = inertia
+status = PENDING
+------------------------------------------------------------------------
+
+Case 653: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 652: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 651: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 650: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 649: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 648: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 647: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 646: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 645: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 644: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 643: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 642: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 641: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 640: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 639: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 638: 03/03/2025 dict=SHS, L=2303, hw=apraṇodya, user=srhodes
+old = praṇīdya
+new = praṇodya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 620: 03/01/2025 dict=SHS, L=25305, hw=purākalpa, user=srhodes
+old = a story, of the past
+new = a story of the past
+comment = Typo – please note that this is a SINGLE definition and not to be SPLIT by a "comma".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 614: 03/01/2025 dict=SHS, L=2283, hw=appitta, user=srhodes
+old = Fine
+new = Fire
+status = PENDING
+------------------------------------------------------------------------
+
+Case 608: 02/28/2025 dict=SHS, L=2251, hw=apūraṇī, user=srhodes
+old = silk cotton free
+new = silk-cotton tree
+comment = Typo – This may be a duplicate submission.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 607: 02/28/2025 dict=SHS, L=2239, hw=apunarbhava, user=srhodes
+old = punara
+new = punar
+status = PENDING
+------------------------------------------------------------------------
+
+Case 606: 02/28/2025 dict=SHS, L=2230, hw=apiśuna, user=srhodes
+old = Upright honest
+new = Upright, honest
+comment = Typo – Please note that the two definitions must be separated by a "comma".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 603: 02/27/2025 dict=SHS, L=8830, hw=kadala, user=srhodes
+old = silk cotton tree
+new = silk-cotton tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 602: 02/27/2025 dict=SHS, L=20885, hw=nakula, user=srhodes
+old = Silk cotton tree
+new = Silk-cotton tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 601: 02/27/2025 dict=SHS, L=8830, hw=kadala, user=srhodes
+old = silk cotton free
+new = silk-cotton tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 599: 02/27/2025 dict=SHS, L=2251, hw=apūraṇī, user=srhodes
+old = silk cotton free
+new = silk-cotton tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 598: 02/27/2025 dict=SHS, L=24760, hw=picchila, user=srhodes
+old = silk cotton tree
+new = silk-cotton tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 578: 02/26/2025 dict=SHS, L=2211, hw=apāvṛtta, user=srhodes
+old = 2. Uncovered.
+new = Delete and Remove
+comment = Typo – I consider this definition to be erroneous and misleading. This definition should be properly applied to the word "apāvṛta" which derives from a different root entirely. Would Andhrabharati like to speak?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 577: 02/26/2025 dict=SHS, L=2209, hw=apāvṛta, user=srhodes
+old = 5. Driven away.
+new = Delete and Remove
+comment = Typo – I consider this definition to be erroneous and misleading. This definition should be properly applied to the word "apāvṛtta" which derives from a different root entirely. Would Andhrabharati like to speak?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 576: 02/26/2025 dict=SHS, L=2209, hw=apāvṛta, user=srhodes
+old = adv. (-raṃ) Immoderately, unreservedly.
+new = adv. (-tam) Immoderately, unreservedly.
+comment = Typo – This is a suggested "print change" ;  it is not possible for the letter "t" to be elided from the stem. Also, I do not end solitary words with the anusvāra.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 575: 02/26/2025 dict=SHS, L=2207, hw=apārthakaraṇa, user=srhodes
+old = law suit
+new = lawsuit
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word; obviously we are not talking about the clothing that lawyers wear in the courtroom.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 574: 02/26/2025 dict=SHS, L=2200, hw=apāmpati, user=srhodes
+old = VARUNA. See. ampati.
+new = VARUṆA. See. appati.
+comment = Typo – Please note that the correction as "VARUṆA" could be made Globally to the master file which then would save much time in terms of not having to make this correction again and again; I am certain the spelling "VARUNA" is repeated many times.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 557: 02/25/2025 dict=SHS, L=18139, hw=trivṛt, user=srhodes
+old = tri-form, three-fold
+new = triform, threefold
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 556: 02/25/2025 dict=SHS, L=43473, hw=sahasradhāra, user=srhodes
+old = VISHṆU
+new = VIṢṆU
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 552: 02/25/2025 dict=SHS, L=2167, hw=apahāraka, user=srhodes
+old = taking a thief
+new = taking, a thief
+status = PENDING
+------------------------------------------------------------------------
+
+Case 551: 02/25/2025 dict=SHS, L=2156, hw=apaspaśa, user=srhodes
+old = Bhāshya
+new = Bhāṣya
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 550: 02/25/2025 dict=SHS, L=2413, hw=apasada, user=srhodes
+old = Kshetriya with women of two, the Vaisya, and Sūdra; and of a Vaisya
+new = Kṣatriya with women of two, the Vaiśya, and Śūdra; and of a Vaiśya
+comment = Typo – Please note that there are FOUR suggested corrections here. These corrections could also be made Globally to the master file which then would save much time in terms of not having to make these corrections again and again.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 527: 02/23/2025 dict=SHS, L=24525, hw=pāraṇa, user=srhodes
+old = E. pa to satisfy
+new = E. pṝ to satisfy
+comment = Typo – Please note that this "print change" is required to accommodate the etymology given.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 514: 02/23/2025 dict=SHS, L=21950, hw=nirguṇa, user=srhodes
+old = Void, of all properties
+new = Void of all properties
+comment = Typo – This seems better as the phrase "of all properties" cannot stand alone, so why separate with "comma"?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 513: 02/23/2025 dict=SHS, L=37381, hw=vilupta, user=srhodes
+old = Imparied
+new = Impaired
+status = PENDING
+------------------------------------------------------------------------
+
+Case 499: 02/22/2025 dict=SHS, L=2098, hw=aparṇa, user=srhodes
+old = PĀRVATI
+new = PĀRVATĪ
+comment = Typo – Please make this a Global correction to the Master File, so that we do not need to discuss this again.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 498: 02/22/2025 dict=SHS, L=2097, hw=aparūpa, user=srhodes
+old = Monstrousity
+new = Monstrosity
+comment = Typo – Please note that this is a "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 497: 02/22/2025 dict=SHS, L=2090, hw=aparivṛta, user=srhodes
+old = Uninclosed
+new = Unenclosed
+comment = Typo – Please note that this is a "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 453: 02/16/2025 dict=SHS, L=2059, hw=aparāddhṛ, user=srhodes
+old = Offending an offender
+new = Offending, an offender
+status = PENDING
+------------------------------------------------------------------------
+
+Case 435: 02/14/2025 dict=SHS, L=2023, hw=apadhvāna, user=srhodes
+old = apadhvāna
+new = apadhyāna
+comment = Typo – Headword Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 434: 02/14/2025 dict=SHS, L=2023, hw=apadhvāna, user=srhodes
+old = dhvāna meditation
+new = dhyāna meditation
+status = PENDING
+------------------------------------------------------------------------
+
+Case 433: 02/14/2025 dict=SHS, L=2016, hw=apadiśya, user=srhodes
+old =  shewn 
+new =  shown 
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. The Global correction to the master files could be made as follows:  " shewn " ——becomes—— " shown ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 432: 02/14/2025 dict=SHS, L=2016, hw=apadiśya, user=srhodes
+old =  shewn 
+new =  shown 
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. The Global correction to the master files could be made as follows:  " shewn " ——becomes—— " shown ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 431: 02/14/2025 dict=SHS, L=2015, hw=apadiśa, user=srhodes
+old = Intermidiate
+new = Intermediate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 430: 02/14/2025 dict=SHS, L=31275, hw=mānavat, user=srhodes
+old = high spirited
+new = high-spirited
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 419: 02/13/2025 dict=SHS, L=2009, hw=apathya, user=srhodes
+old = Contra-indicated
+new = Contraindicated
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 418: 02/13/2025 dict=SHS, L=2003, hw=apatthavikrayin, user=srhodes
+old = son-inlaw
+new = son-in-law
+comment = Typo – Please note the Headword was previously corrected to become: "apatyavikrayin".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 417: 02/13/2025 dict=SHS, L=2003, hw=apatthavikrayin, user=srhodes
+old = apatthavikrayin
+new = apatyavikrayin
+comment = Typo – (UPDATED) Headword Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 416: 02/13/2025 dict=SHS, L=2003, hw=apatthavikrayin, user=srhodes
+old = apatthapatha
+new = apatyavikrayin
+comment = Typo – Headword Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 415: 02/13/2025 dict=SHS, L=2002, hw=apatthapatha, user=srhodes
+old = apatthapatha
+new = apatyapatha
+comment = Typo – Headword Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 414: 02/12/2025 dict=SHS, L=1971, hw=apakrośa, user=srhodes
+old = Revailing
+new = Reviling
+status = PENDING
+------------------------------------------------------------------------
+
+Case 413: 02/12/2025 dict=SHS, L=1950, hw=apakaraṇa, user=srhodes
+old = Ill treating
+new = Ill-treating
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 399: 02/11/2025 dict=SHS, L=1947, hw=apaḥsānta, user=srhodes
+old = apaḥsānta
+new = apaḥsānta ?
+comment = Typo – Please note that I would greatly appreciate a little more information on this particular word, so as to confirm its accuracy and etymology. I am guessing that there is a relation either to the word : "ap"  OR  "apsā".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 398: 02/11/2025 dict=SHS, L=1929, hw=anvahas, user=srhodes
+old = anvahas
+new = anvaham ?
+comment = Typo – Please note that this is a possible print change. We need confirmation by an authority for the spelling: "anvahas".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 397: 02/11/2025 dict=SHS, L=1928, hw=anvaṣṭakā, user=srhodes
+old = Phausha, Māgha, Phālguna or Āswina
+new = Pauṣa, Māgha, Phālguna or Āśvina
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a listed definition. It must be one or the other, no compromise.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 382: 02/09/2025 dict=SHS, L=1901, hw=anyaśākha, user=srhodes
+old = apostable
+new = apostate
+comment = Typo – This is a suggested "print change", based upon the likely non-existence of the word "apostable", and following APTE.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 381: 02/09/2025 dict=SHS, L=1881, hw=anyajatman, user=srhodes
+old = anyajatman
+new = anyajanman
+comment = Typo – Headword Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 341: 02/06/2025 dict=SHS, L=1863, hw=annabrahma, user=srhodes
+old = annabrahma
+new = annabrahman
+comment = Typo – Please note that this is a possible Headword Typo for the following reason: Generally, the prātipadika is the form of the word listed in dictionaries. And here, there is the following indication of gender: "n. (-hma)". However, the portion "-hma" is indicating the nominative form of the word "annabrahman". If the headword were to be spelled as "annabrahma", then the nominative form should be indicated as: "(-hmam)", ending in the letter "m".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 340: 02/06/2025 dict=SHS, L=1851, hw=annakāṣṭhaka, user=srhodes
+old = annakāṣṭhaka
+new = annakoṣṭhaka
+comment = Typo – Please note that this is a Headword Typo, made clear by the following statement: "E. anna food, koṣṭhaka a repository."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 339: 02/06/2025 dict=SHS, L=1847, hw=andra, user=srhodes
+old = andra
+new = andhra
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 338: 02/06/2025 dict=SHS, L=1847, hw=andra, user=srhodes
+old = Karavara
+new = Kārāvara
+comment = Typo – This word should be spelled with correct diacritic marks.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 337: 02/06/2025 dict=SHS, L=1841, hw=andhāhi, user=srhodes
+old = vulg. kūnchiyā
+new = vulg. kunchiya
+comment = Typo – This correction should be confirmed by an authority.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 336: 02/06/2025 dict=SHS, L=1836, hw=andhatāmiśra, user=srhodes
+old = twentyone
+new = twenty-one
+status = PENDING
+------------------------------------------------------------------------
+
+Case 312: 02/04/2025 dict=SHS, L=1832, hw=andhakāsuhṛd, user=srhodes
+old = SIVA
+new = ŚIVA
+comment = Typo – Please note that this should be made a Global Correction, because whenever the word "SIVA" is used, it always refers to "ŚIVA".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 311: 02/04/2025 dict=SHS, L=1814, hw=antyāvasāyin, user=srhodes
+old = Chandāla, a Swapacka or executioner, a Kshattā
+new = Caṇḍāla, a Śvapaca or executioner, a Kṣattā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 310: 02/04/2025 dict=SHS, L=1812, hw=antyabha, user=srhodes
+old = sing Pisces
+new = sign Pisces
+status = PENDING
+------------------------------------------------------------------------
+
+Case 309: 02/04/2025 dict=SHS, L=1812, hw=antyabha, user=srhodes
+old = Revati
+new = Revatī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 308: 02/04/2025 dict=SHS, L=1810, hw=antyajanman, user=srhodes
+old = Sūdra
+new = Śūdra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 307: 02/04/2025 dict=SHS, L=1807, hw=antya, user=srhodes
+old = sustā
+new = mustā
+comment = Typo – Please note that this correction is confirmed by APTE, MW and Shabda under the Headword "musta".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 306: 02/04/2025 dict=SHS, L=1806, hw=antevāsin, user=srhodes
+old = Chandāla
+new = Caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please make this a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 239: 01/31/2025 dict=SHS, L=1799, hw=antāvasāyin, user=srhodes
+old = Nishādi woman by a Chandāla
+new = Niṣādi woman by a Caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 238: 01/31/2025 dict=SHS, L=1799, hw=antāvasāyin, user=srhodes
+old = Nishādi woman by a Chandāla
+new = Niṣādi woman by a Caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 237: 01/31/2025 dict=SHS, L=1790, hw=antarvigāhana, user=srhodes
+old = Entrace
+new = Entrance
+status = PENDING
+------------------------------------------------------------------------
+
+Case 236: 01/31/2025 dict=SHS, L=1781, hw=antaryamana, user=srhodes
+old = controul
+new = control
+status = PENDING
+------------------------------------------------------------------------
+
+Case 235: 01/31/2025 dict=SHS, L=1736, hw=antaḥsveda, user=srhodes
+old = inner. and
+new = inner and
+status = PENDING
+------------------------------------------------------------------------
+
+Case 234: 01/31/2025 dict=SHS, L=1735, hw=antaḥsattvā, user=srhodes
+old = Marking not
+new = Marking nut
+status = PENDING
+------------------------------------------------------------------------
+
+Case 233: 01/31/2025 dict=SHS, L=1727, hw=anodita, user=srhodes
+old = anodita
+new = anudita
+comment = Typo – Pleas note that this Headword may be a "print change".  Please see that the etymology here is stated: "E. an neg. odita spoken to."  However, I do not find the word: "odita" anywhere. Therefore, I am presuming that the correct word is "udita", and therefore, "anudita".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 232: 01/31/2025 dict=SHS, L=1727, hw=anodita, user=srhodes
+old = Unqestioned
+new = Unquestioned
+status = PENDING
+------------------------------------------------------------------------
+
+Case 231: 01/31/2025 dict=SHS, L=1725, hw=ano, user=srhodes
+old = FONT CHANGE NEEDED: "Bold Italic Font"
+new = also no
+comment = Typo – Please note that this word is written in Devanāgarī script on the printed page. However, since the word has been transliterated, I believe that the word should appear in bold italics.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 230: 01/31/2025 dict=SHS, L=1715, hw=anekavidha, user=srhodes
+old = Various of many kinds
+new = Various, of many kinds
+status = PENDING
+------------------------------------------------------------------------
+
+Case 173: 01/29/2025 dict=SHS, L=8334, hw=oṅkāra, user=srhodes
+old = Sakti
+new = Śakti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 163: 01/28/2025 dict=SHS, L=1692, hw=anūcāna, user=srhodes
+old = Vedāngas
+new = Vedāṇgas
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. The target for "search and replace" should be: "Vedānga" ——becomes—— "Vedāṇga", because this will also correct the plural form.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 132: 01/27/2025 dict=SHS, L=1702, hw=anūrusārathi, user=srhodes
+old = sum
+new = sun
+status = PENDING
+------------------------------------------------------------------------
+
+Case 131: 01/27/2025 dict=SHS, L=1696, hw=anūdya, user=srhodes
+old = anūdya
+new = anudya (in reference to definition number 1.)
+comment = Typo – In Regard to the first definition: "1. Not to be addressed or spoken to." It seems that the spelling should be: "anudya", which seems to be given by both Apte and MW. Therefore, I am wondering if the "long vowel" is also authorized here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 130: 01/27/2025 dict=SHS, L=1693, hw=anūcca, user=srhodes
+old = anūcca
+new = anucca
+comment = Typo – I am wondering if the "long vowel" is authorized. All other dictionaries list this word as "anucca", and Shabda itself states: "E. an neg. ucca tall, high."  I know that the short vowel "u" is "guru" because a compound consonant follows: "cc", but I am wondering about the lengthening of the short vowel to the long "ū". Is this an error or an authorized option? Please comment.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 123: 01/25/2025 dict=SHS, L=1672, hw=anuṣecana, user=srhodes
+old = of
+new = or
+status = PENDING
+------------------------------------------------------------------------
+
+Case 122: 01/25/2025 dict=SHS, L=1671, hw=anuṣikta, user=srhodes
+old = Re-watered
+new = Rewatered
+comment = Typo – It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 121: 01/25/2025 dict=SHS, L=1662, hw=anuśucikā, user=srhodes
+old = enjoyed
+new = enjoined
+comment = Typo – Please note that this correction is  "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 119: 01/25/2025 dict=SHS, L=1645, hw=anuvidhāyin, user=srhodes
+old = complaint
+new = compliant
+comment = Typo – Please note that this correction is  "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 113: 01/25/2025 dict=SHS, L=1639, hw=anuvāra, user=srhodes
+old = anuvāra
+new = anuvāram
+status = PENDING
+------------------------------------------------------------------------
+
+Case 112: 01/25/2025 dict=SHS, L=1632, hw=anuvāka, user=srhodes
+old = Yedas, a subdivision or section. 2. A compilation from the Rich, or Yajur Vedas.
+new = Vedas, a subdivision or section. 2. A compilation from the Ṛc, or Yajur Vedas.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 111: 01/25/2025 dict=SHS, L=1627, hw=anulomaja, user=srhodes
+old = Kshetriya woman, a Kshetriya man and Vaisya woman,
+new = Kṣatriya woman, a Kṣatriya man and Vaiśya woman,
+comment = Typo – Please consider making this a global change as follows "Kshetriya" —— becomes —— "Kṣatriya"  AND  "Vaisya" —— becomes —— "Vaiśya"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 90: 01/23/2025 dict=SHS, L=1604, hw=anurañjana, user=srhodes
+old = Loving being
+new = Loving, being
+comment = Typo=
+status = PENDING
+------------------------------------------------------------------------
+
+Case 89: 01/23/2025 dict=SHS, L=1597, hw=anuyogakṛt, user=srhodes
+old = Acharya
+new = Ācārya
+comment = Typo – This correction is my preference.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 88: 01/23/2025 dict=SHS, L=1581, hw=anumaraṇa, user=srhodes
+old = ascend the pile: this is prohibited to Brahman women. It is also synonimous LB with sahamaraṇa burning with the body.
+new = ascends the pile: this is prohibited to Brahman women. It is also synonymous with sahamaraṇa burning with the body.
+comment = Typo – Also, please keep the line continuous as far as possible.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 61: 01/20/2025 dict=SHS, L=1579, hw=anamati, user=srhodes
+old = anamati
+new = anumati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 60: 01/20/2025 dict=SHS, L=1571, hw=anubodha, user=srhodes
+old = after-thought
+new = afterthought
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 51: 01/18/2025 dict=SHS, L=1535, hw=anupanyasta, user=srhodes
+old = U{?n?}determined
+new = Undetermined
+comment = Typo – Please note that corrections such as this should be made; I would like to meet someone who disagrees! The fact is this: There is no other possible meaning to be understood here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 50: 01/18/2025 dict=SHS, L=1531, hw=anupadiṣṭa, user=srhodes
+old = u{?n?}instructed
+new = uninstructed
+status = PENDING
+------------------------------------------------------------------------
+
+Case 49: 01/18/2025 dict=SHS, L=1524, hw=anunīta, user=srhodes
+old = acquired. 3. Taught.
+new = acquired. LB 3. Taught.
+comment = Line Break Needed – Please note that the number "3" is a listing of another numbered definition and needs to be placed on a new line in the window display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 47: 01/18/2025 dict=SHS, L=1484, hw=anujīvin, user=srhodes
+old = Servant dependent
+new = Servant, dependent
+status = PENDING
+------------------------------------------------------------------------
+
+Case 28: 01/17/2025 dict=SHS, L=1467, hw=anugāmin, user=srhodes
+old = companion a follower
+new = companion, a follower
+status = PENDING
+------------------------------------------------------------------------
+
+Case 27: 01/17/2025 dict=SHS, L=1450, hw=anukūla, user=srhodes
+old = disposed to favourable
+new = disposed, to favourable
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26: 01/17/2025 dict=SHS, L=1439, hw=anukampya, user=srhodes
+old = expeditions
+new = expeditious
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25: 01/17/2025 dict=SHS, L=1437, hw=anukathana, user=srhodes
+old = Discousre
+new = Discourse
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 01/16/2025 dict=SHS, L=1422, hw=anīkinī, user=srhodes
+old = onetenth of an Akshouhini
+new = one-tenth of an Akṣauhiṇī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 01/16/2025 dict=SHS, L=1421, hw=anīkastha, user=srhodes
+old = a sing
+new = a sign
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 01/16/2025 dict=SHS, L=1421, hw=anīkastha, user=srhodes
+old = driver. 4. A mark, a sing, a signal.
+new = driver. LB 4. A mark, a sing, a signal.
+comment = Typo – Please make a "line break" for the number 4 definition; this follows the format of all the other numbered definitions listed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 01/16/2025 dict=SHS, L=1420, hw=anīka, user=srhodes
+old = An army forces
+new = An army, forces
+comment = Typo – Please note that this correction follows APTE and MW. Also, "an army" is Singular in number; "forces" is Plural in number. Therefore, the two words cannot be expressed together in this way.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 01/16/2025 dict=SHS, L=1399, hw=anirvvṛta, user=srhodes
+old = Unquiet discomposed
+new = Unquiet, discomposed
+status = PENDING
+------------------------------------------------------------------------
+

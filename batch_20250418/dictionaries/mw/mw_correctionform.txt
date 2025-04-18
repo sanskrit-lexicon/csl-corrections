@@ -1,0 +1,1248 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 18, 2025
+190 correction records, with 190 PENDING
+
+Case 1335: 04/18/2025 dict=MW, L=210711, hw=vraśc, user=srhodes
+old = varīvṛtcīti
+new = varīvṛścīti
+comment = Typo – Updated Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1334: 04/18/2025 dict=MW, L=210711, hw=vraśc, user=srhodes
+old = varīvṛtcīti
+new = -varīvṛścīti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1333: 04/18/2025 dict=MW, L=210711, hw=vraśc, user=srhodes
+old = -vṛtcya
+new = -vṛścya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1329: 04/18/2025 dict=MW, L=194956, hw=vij, user=srhodes
+old = also cl. 1. P. vinakti
+new = also cl. 7. P. vinakti
+comment = Typo – Please note that this is a "print change", based upon all reliable sources; also the form cited here: "vinakti" clearly belongs to class 7 and NOT class 1. Thus MW proves the point.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1326: 04/18/2025 dict=MW, L=239777, hw=sasrīvṛkṣa, user=srhodes
+old = sa—srī-vṛkṣa
+new = sa—śrī-vṛkṣa
+comment = Typo – Please note that this is a Headword Typo, the correct word being: "saśrīvṛkṣa".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1319: 04/18/2025 dict=MW, L=96744, hw=daityapati, user=srhodes
+old = D°s-
+new = D°-
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1318: 04/18/2025 dict=MW, L=96743, hw=daityapa, user=srhodes
+old = D°s-
+new = D°-
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1317: 04/18/2025 dict=MW, L=96740, hw=daityanāśana, user=srhodes
+old = D°s-
+new = D°-
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1316: 04/18/2025 dict=MW, L=96757, hw=daityāntaka, user=srhodes
+old = D°s. 
+new = D°-
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1262: 04/15/2025 dict=MW, L=15776, hw=arjunamiśra, user=srhodes
+old = miśra n.
+new = miśra m.
+comment = Typo – Please note that this correction in Gender follows from: 1) Apte and 2) MW dictionary which under the Headword "miśra (in the masculine gender)" – "N. of various authors and other men". Therefore, we must accept the masculine gender here, by MW's own admission.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1237: 04/13/2025 dict=MW, L=15631.1, hw=arkamūla, user=srhodes
+old = (= -pattra
+new = (= -pattrā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1235: 04/13/2025 dict=MW, L=15655, hw=arkāśman, user=srhodes
+old = heliotrope girasol
+new = heliotrope, girasol
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1234: 04/13/2025 dict=MW, L=15655, hw=arkāśman, user=srhodes
+old = heliotrope girasol
+new = heliotrope, girasol
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1231: 04/12/2025 dict=MW, L=1544.1, hw=aṅgadīya, user=srhodes
+old = Alphabetical Placement Error
+new = Please note that the supplemental insertion of this Headword into the Main Entry must come just after the Headword: "aṅgadin  [ID=1546.1 sup]". The reason for this correction is printed in the Supplementary section itself which clearly shows this very ordering: "aṅgadin" followed by "aṅgadīya".  Therefore the order cannot be suddenly changed in the Main Entry itself. Also, the ID number: "1544.1 sup" will need to be corrected as well. Furthermore, I do no understand why the window displays also shows the following two words:  LB aṅga—dā f. the female elephant of the south [ID=1545 ] LB aṅga—da n. a bracelet worn on the upper arm. [ID=1546 ]
+comment = Alphabetical Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1230: 04/12/2025 dict=MW, L=1544.1, hw=aṅgadīya, user=srhodes
+old = Alphabetical Placement Error
+new = Please note that the supplemental insertion of this Headword into the Main Entry must come just after the Headword: "aṅgadin  [ID=1546.1 sup]". The reason for this correction is printed in the Supplementary section itself which clearly shows this very ordering: "aṅgadin" followed by "aṅgadīya".  Therefore the order cannot be suddenly changed in the Main Entry itself. Also, the ID number: "1544.1 sup" will need to be corrected as well. Furthermore, I do no understand why the window displays also shows the following two words:  LB aṅga—dā f. the female elephant of the south [ID=1545 ] LB aṅga—da n. a bracelet worn on the upper arm. [ID=1546 ]
+comment = Alphabetical Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1222: 04/12/2025 dict=MW, L=15494, hw=aruṣa, user=srhodes
+old = red reddish
+new = red, reddish
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1212: 04/12/2025 dict=MW, L=120443, hw=pavitra, user=srhodes
+old = (also p° pavintrāṇām)
+new = (also p° pavitrāṇām)
+comment = Typo – Please note that in addition to the correction made above, the portion shown as: "p°" must appear in the same "font style" as the portion "pavitrāṇām" ;  this is shown clearly in the printed text. I hope that Andhrabharati will clarify exactly what is to be understood here; I am supposing the reference is to be understood as:  "pavitra pavitrāṇām" – where the portion "pavitra" stands in the vocative singular case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1207: 04/11/2025 dict=MW, L=15377, hw=ariṣṭanemin, user=srhodes
+old = (see nemi)
+new = (see -nemi)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1206: 04/11/2025 dict=MW, L=15375, hw=ariṣṭanemin, user=srhodes
+old = Gauḍa
+new = Garuḍa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1205: 04/11/2025 dict=MW, L=15372.1, hw=ariṣṭatāti, user=srhodes
+old = fortunate auspicious
+new = fortunate, auspicious
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1201: 04/11/2025 dict=MW, L=153489, hw=bhrajj, user=srhodes
+old = bābharṣṭi
+new = ?
+comment = Typo – Please note that the form "bābharṣṭi" is questionable due complete lack of confirmation from any other source. I hope that Andhrabharati will be able to confirm this questionable form, as being either erroneous or authorized.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1200: 04/11/2025 dict=MW, L=153489, hw=bhrajj, user=srhodes
+old = aor. abhrākṣīt, abhārkṣīt; abhārkṣīt, abhaṣṭa; abharṣṭa;
+new = aor. abhrākṣīt, abhārkṣīt; abhraṣṭa, abharṣṭa;
+comment = Typo – Please note that several corrections have been made here, all of which follow the printed text: 1) Deletion of the duplicate "abhārkṣīt" (as well as the needed correction to punctuation) ; 2) Addition of the missing letter "r" to make the correction become: "abhraṣṭa" ; 3) The change of punctuation from the semicolon ";"  to the comma "," .
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1199: 04/11/2025 dict=MW, L=153489, hw=bhrajj, user=srhodes
+old = babhrajye
+new = babhrajje
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1186: 04/09/2025 dict=MW, L=15171.1, hw=aram, user=srhodes
+old = bhaktaya
+new = bhaktāya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1185: 04/09/2025 dict=MW, L=15171.1, hw=aram, user=srhodes
+old = prithú
+new = pṛthú
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1180: 04/09/2025 dict=MW, L=14650, hw=amlaka, user=srhodes
+old = Lakuca
+new = Lacucha
+comment = Typo – Please note that this correction follows the authentic nomenclature.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1170: 04/07/2025 dict=MW, L=15120, hw=araṇyāyana, user=srhodes
+old = forest becoming
+new = forest, becoming
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1169: 04/07/2025 dict=MW, L=15073, hw=araṇyakulathikā, user=srhodes
+old = araṇya—kulathikā
+new = araṇya—kulatthikā
+comment = Typo – Please note that this is a suggested "print change", based upon the authoritative spelling of the word: "kulatthikā" by MW dictionary and other authorities. This is a Headword Typo as well. I think that Andhrabharati will appreciate this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1126: 04/04/2025 dict=MW, L=74340, hw=ciri, user=srhodes
+old = °ṛṇoti
+new = °riṇoti
+comment = Typo – Please note that this is an important correction and precisely follows the printed text along with all other authorities in the matter.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1115: 04/04/2025 dict=MW, L=14347, hw=amokṣa, user=srhodes
+old = bondage confinement
+new = bondage, confinement
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1112: 04/04/2025 dict=MW, L=89565, hw=dagh, user=srhodes
+old = Prec. 3. sg. °ghyās;
+new = Prec. 2. sg. °ghyās;
+comment = Typo – Please note that this is a possible "print change", based upon what is usually expected. Perhaps, this is an exceptional case? Therefore, we need clarification from Dr. Dhaval or Andhrabharati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1086: 04/02/2025 dict=MW, L=101933, hw=dhṛṣ, user=srhodes
+old = adhaṣiṣur
+new = adharṣiṣur
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1085: 04/02/2025 dict=MW, L=227922, hw=sagh, user=srhodes
+old = sághat Prec.
+new = sághat, Prec.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1082: 04/02/2025 dict=MW, L=19412, hw=aś, user=srhodes
+old = ānasyām
+new = ānaśyām
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1070: 04/01/2025 dict=MW, L=14421, hw=ambaraukas, user=srhodes
+old = good
+new = god
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1056: 03/31/2025 dict=MW, L=14348, hw=amokṣa, user=srhodes
+old = non liberation
+new = non-liberation
+comment = Typo – Please note that the word "non" is a prefix. The prefix must be attached with a "hyphen". Otherwise, without the hyphen, the prefix is left "dangling".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1055: 03/31/2025 dict=MW, L=14347, hw=amokṣa, user=srhodes
+old = bondage confinement
+new = bondage, confinement
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1051: 03/30/2025 dict=MW, L=14235, hw=amṛtabhavana, user=srhodes
+old = Amṛta-prabhā
+new = Amṛta-prabha
+comment = Typo – Please note that this is a possible "print change", following this definition as given by APTE. The question for Andhrabharati is this: "Was this monastery built by a man or woman?". THAT will give us the correct name here, either masculine or feminine.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1049: 03/30/2025 dict=MW, L=14303, hw=amṛtopastaraṇa, user=srhodes
+old = amptāpidhāná
+new = amṛtāpidhāná
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1048: 03/30/2025 dict=MW, L=14303, hw=amṛtopastaraṇa, user=srhodes
+old = nectar like
+new = nectar-like
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1045: 03/30/2025 dict=MW, L=14225, hw=amṛtaprāśana, user=srhodes
+old = a-mṛta—prāsin
+new = a-mṛta—prāśin
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1044: 03/30/2025 dict=MW, L=14226, hw=amṛtaprāsin, user=srhodes
+old = a-mṛta—prāsin
+new = a-mṛta—prāśin
+comment = Typo – Please note that this is a Headword Typo. Therefore, you will need to correct the Headword Itself as well as the correction made above.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1037: 03/29/2025 dict=MW, L=241500, hw=sādh, user=srhodes
+old = sāsdidhi
+new = sāsāddhi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1036: 03/29/2025 dict=MW, L=177153, hw=rādh, user=srhodes
+old = Desid. rirātsati
+new = Desid. -rirātsati
+comment = Typo – Please note that this correction follows the printed text. However, I do not understand why the "hyphen" is used here. Certainly this form and the following form: "ritsati", are both available for use without a prefix. If the "hyphen" is dropped in both cases, then a "print change" will be required.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1035: 03/29/2025 dict=MW, L=177153, hw=rādh, user=srhodes
+old = Dhātup. xvii, 16
+new = Dhātup. xxvii, 16
+comment = Typo – Please note that this is a "print change". You may confirm this correction by checking with the file: "radiceslingusan00westgoog_0407.jp2".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1023: 03/28/2025 dict=MW, L=14000.1, hw=amalānaka, user=srhodes
+old = a mlāna
+new = a-mlāna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1017: 03/27/2025 dict=MW, L=262717, hw=hi, user=srhodes
+old = jihāpayiṣati
+new = jighāyayiṣati
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. The form given as: "jihāpayiṣati" seems strange.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1016: 03/27/2025 dict=MW, L=24743, hw=āp, user=srhodes
+old = āptum) Ā.
+new = āptum), Ā.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1015: 03/27/2025 dict=MW, L=24743, hw=āp, user=srhodes
+old = perf. āpa aor.
+new = perf. āpa, aor.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1012: 03/27/2025 dict=MW, L=256588, hw=spṛ, user=srhodes
+old = aor. aspar Subj. 
+new = aor. aspar, Subj. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1005: 03/27/2025 dict=MW, L=262717, hw=hi, user=srhodes
+old = -hyé
+new = -hyè
+status = PENDING
+------------------------------------------------------------------------
+
+Case 984: 03/24/2025 dict=MW, L=101481, hw=dhū, user=srhodes
+old = p. dodhuvat
+new = p. dódhuvat
+status = PENDING
+------------------------------------------------------------------------
+
+Case 983: 03/24/2025 dict=MW, L=101481, hw=dhū, user=srhodes
+old = 3. pl. dhuvate
+new = 3. pl. dhuváte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 981: 03/23/2025 dict=MW, L=188610, hw=vasantamāsa, user=srhodes
+old = ninth
+new = month
+status = PENDING
+------------------------------------------------------------------------
+
+Case 964: 03/23/2025 dict=MW, L=203978, hw=vṛ, user=srhodes
+old = vṛlvī́
+new = vṛtvī́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 963: 03/22/2025 dict=MW, L=203978, hw=vṛ, user=srhodes
+old = vṛlvī́
+new = vṛtvī́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 962: 03/22/2025 dict=MW, L=203978, hw=vṛ, user=srhodes
+old = vṛlvī́
+new = vṛtvī́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 940: 03/21/2025 dict=MW, L=12577, hw=abhīṣah, user=srhodes
+old = abhīṣah
+new = abhīṣāh
+comment = Typo – Please note that we need Andhrabharati to confirm the correct prātipadika form. Apte gives the form as: "abhīṣāh" • MW gives: "abhīṣah". Are both forms correct? Or is one of the forms in error?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 911: 03/18/2025 dict=MW, L=164084, hw=mi, user=srhodes
+old = memayīte
+new = memayīti
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 907: 03/18/2025 dict=MW, L=12554, hw=abhiṣac, user=srhodes
+old = abhi-ṣác
+new = abhi-ṣāc
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati. The accent should probably be retained, but the question here is regarding the "long vowel" OR "short vowel". APTE and other sources give this prātipadika with a long vowel. Is MW Dictionary in error? Or are both "long" and "short" vowels authorized in this case? OR, are there actually TWO words here? One word with the "short" vowel and one word with the "long" vowel. We await Andhrabharati's wise counsel.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 899: 03/18/2025 dict=MW, L=243722, hw=si, user=srhodes
+old = sinite
+new = sinīte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 887: 03/16/2025 dict=MW, L=122082, hw=padopasaṃgrahaṇa, user=srhodes
+old = padopasaṃgrahaṇa
+new = pādopasaṃgrahaṇa
+comment = Typo – Please note that this is a "Headword Typo", and follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 871: 03/15/2025 dict=MW, L=12066, hw=abhimihya, user=srhodes
+old = urining
+new = urinating
+comment = Typo – please note that this correction of spelling and "print change"  is according to standard usage.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 870: 03/15/2025 dict=MW, L=28759, hw=itikartavyatāmūḍha, user=srhodes
+old = dumb-foundered
+new = dumbfounded
+comment = Typo – Please note that two corrections have been made here: 1) the spelling of the final member of the compound: "foundered" should read as "founded". And then, the "hyphen" should be eliminated according to the standard usage of the learned.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 856: 03/14/2025 dict=MW, L=103699, hw=nabh, user=srhodes
+old = Caus. nabhayati
+new = Caus. nābhayati
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval and Andhrabharati. I understand that sometimes the causative may be formed either way. However, in this case, I find greater usage of the form "nābhayati", which MW dictionary does not acknowledge. Andhrabharati, please advise us with your wise counsel.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 847: 03/14/2025 dict=MW, L=183010, hw=lubh, user=srhodes
+old = (only Dhātup. xviii, 22) or cl. 4. P. xxvi, 124
+new = (only Dhātup. xxviii, 22) or cl. 4. P. (xxvi, 128)
+comment = Typo – Please note there are TWO  "Dhātup."  Number Corrections made here. The First correction: "xxviii, 22" follows the printed text. The Second correction: "xxvi, 128" is a print change authorized by consulting the document: "radiceslingusan00westgoog_0406.jp2"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 846: 03/13/2025 dict=MW, L=227762, hw=sakalaloka, user=srhodes
+old = every one
+new = everyone
+comment = Typo – Please note that generally the meaning given here is written as a single word; and this reflects the single word, "sakalaloka" itself! One word in Sanskrit and one word in English! THAT is called a GOOD translation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 813: 03/11/2025 dict=MW, L=182956, hw=lup, user=srhodes
+old = For cognate words See under
+new = For cognate words, see under
+status = PENDING
+------------------------------------------------------------------------
+
+Case 812: 03/11/2025 dict=MW, L=182956, hw=lup, user=srhodes
+old = garirhitaṃ
+new = garhitaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 787: 03/10/2025 dict=MW, L=11328, hw=abhighāraṇa, user=srhodes
+old = be sprinkling
+new = besprinkling
+status = PENDING
+------------------------------------------------------------------------
+
+Case 777: 03/09/2025 dict=MW, L=153448.1, hw=bhraś, user=srhodes
+old = (xxvi, 116; cf. √bhṛś)
+new = (xxvi, 115; cf. √bhṛś)
+comment = Typo – Please note that this is a confirmed "print change." This is proven on the strenght of two points: 1) You may check the official file: radiceslingusan00westgoog_0406.jp2 ; 2) MW Dictionary lists the root √vṛś CORRECTLY as  Dhātup. xxvi , 116. Therefore the roots √bhraṃś or √bhraś are PROVEN to be listed as Dhātup. xxvi , 115.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 776: 03/09/2025 dict=MW, L=153448, hw=bhraṃś, user=srhodes
+old = (xxvi, 116; cf. √bhṛś)
+new = (xxvi, 115; cf. √bhṛś)
+comment = Typo – Please note that this is a confirmed "print change." This is proven on the strenght of two points: 1) You may check the official file: radiceslingusan00westgoog_0406.jp2 ; 2) MW Dictionary lists the root √vṛś CORRECTLY as  Dhātup. xxvi , 116. Therefore the roots √bhraṃś or √bhraś are PROVEN to be listed as Dhātup. xxvi , 115.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 774: 03/09/2025 dict=MW, L=11276, hw=abhigamya, user=srhodes
+old = (for, a visit)
+new = (for a visit)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 767: 03/09/2025 dict=MW, L=11185, hw=abhi, user=srhodes
+old = notion or going towards
+new = notion of moving or going towards
+status = PENDING
+------------------------------------------------------------------------
+
+Case 734: 03/07/2025 dict=MW, L=63518, hw=gatārtha, user=srhodes
+old = understood, (a- neg.), vi, 34
+new = ???
+comment = Question: I hope that Dr. Dhaval or Andhrabharati can clarify this point: Is the meaning: "understood" being given for the Headword "gatārtha", or is this meaning to be used for the Headword "agatārtha", due to the parenthetical expression: "(a- neg.)". Also, what written work does "vi, 34" refer to?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 716: 03/07/2025 dict=MW, L=78362, hw=jas, user=srhodes
+old = cf. uj-, ni-;
+new = cf. uj-;
+comment = Typo – Please note that the upasarga: "ni-" is not to be found given before the root √jas. Therefore, I am suggesting a "Print Change" deletion of:  "ni-". Do Dr. Dhaval or Andhrabharati have anything to say?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 712: 03/06/2025 dict=MW, L=11063, hw=abdhikapha, user=srhodes
+old = cuttle fish
+new = cuttlefish
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 711: 03/06/2025 dict=MW, L=11073, hw=abdhiphena, user=srhodes
+old = cuttle fish
+new = cuttlefish
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 709: 03/06/2025 dict=MW, L=11040, hw=abjā, user=srhodes
+old = born, in water
+new = born in water
+status = PENDING
+------------------------------------------------------------------------
+
+Case 677: 03/05/2025 dict=MW, L=200323, hw=vivṛttadaṃṣṭra, user=srhodes
+old = vi-vriddha-d
+new = vi-vṛddha-d
+status = PENDING
+------------------------------------------------------------------------
+
+Case 671: 03/04/2025 dict=MW, L=10782, hw=aprastuta, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. There is no need to Honor MW for an error in spelling.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 662: 03/03/2025 dict=MW, L=49527, hw=kālaśakti, user=srhodes
+old = the Śakti or all-destroying time
+new = the Śakti of all-destroying time
+comment = Typo – Please consider this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 654: 03/03/2025 dict=MW, L=132911, hw=pratiyatna, user=srhodes
+old = cf. a-prati-pūrva
+new = cf. a-pr°-pūrva
+comment = Typo – Please note that this correction follows the printed text and is required in order to secure the correct form cited here: "apratiyatnapūrva".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 636: 03/03/2025 dict=MW, L=72283, hw=caraṇopadhāna, user=srhodes
+old = foot-rest
+new = footrest
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language. Also, please note that the Headword is NOT written as "caraṇa-upadhāna", which simply proves point.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 635: 03/03/2025 dict=MW, L=72283, hw=caraṇopadhāna, user=srhodes
+old = foot-rest
+new = footrest
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language. Also, please note that the Headword is NOT written as "caraṇa-upadhāna", which simply proves point.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 634: 03/02/2025 dict=MW, L=20354, hw=as, user=srhodes
+old = perf. P. āsa
+new = perf. P. ā́sa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 613: 02/28/2025 dict=MW, L=222401, hw=śram, user=srhodes
+old = grām° cf.
+new = grām°, cf.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 612: 02/28/2025 dict=MW, L=222401, hw=śram, user=srhodes
+old = aor. āśramat
+new = aor. áśramat
+status = PENDING
+------------------------------------------------------------------------
+
+Case 611: 02/28/2025 dict=MW, L=90246, hw=dam, user=srhodes
+old = P. °mit
+new = P. °mīt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 605: 02/28/2025 dict=MW, L=82867, hw=tam, user=srhodes
+old = tamáyati (aor. Pass. atāmi
+new = tamáyati (aor. Pass. atāmi or atami
+comment = Typo – Please note that the printed text shows both a long and short vowel option.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 573: 02/26/2025 dict=MW, L=256475, hw=snuh, user=srhodes
+old = (= √snih See snūhan)
+new = (= √snih, see snūhan)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 572: 02/26/2025 dict=MW, L=166006, hw=muh, user=srhodes
+old = muhiśvā
+new = muhitvā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 559: 02/26/2025 dict=MW, L=97951, hw=druh, user=srhodes
+old = drochitvā
+new = drohitvā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 558: 02/26/2025 dict=MW, L=95246, hw=dṛp, user=srhodes
+old = adārp sīt
+new = adārpsīt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 553: 02/25/2025 dict=MW, L=10003, hw=apātrīkarana, user=srhodes
+old = apātrīkarana
+new = apātrīkaraṇa
+comment = Typo – Headword Typo! Sandhi requires this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 549: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = tṛmpási Impv.
+new = tṛmpási, Impv.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 548: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °noti, Dhātup.
+new = °ṇoti, Dhātup.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval or Andhrabharati. All of the class 5 forms seem to have the letter "ṇ" which seems to be correct. But here, the form is given as: "tṛpnoti", with the dental nasal letter: "n".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 547: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = tṛpṇávas Impv.
+new = tṛpṇávas, Impv.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 546: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °trapti
+new = ???
+comment = Typo – I am wondering if Andhrabharati can confirm the authority of this Intensive form: "tarītrapti". I have found only one other listing for this form, and therefore I am doubtful as to the accuracy.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 533: 02/24/2025 dict=MW, L=10106, hw=apāṣṭhi, user=srhodes
+old = = apāṣṭi in comp. with 
+new = = apāṣṭi in comp. with -há or -hán, mfn. killing with the claws, ŚBr.
+comment = Typo – Please note that this correction follows the printed text. This forms a sort of "group", and althou the compounds are listed subsequently, the reference should be fully included here as an essential portion of the Headword: "apāṣṭhi", which may be only used in such compounds.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 509: 02/22/2025 dict=MW, L=174809, hw=radh, user=srhodes
+old = Subj. randhīs Impv.
+new = Subj. randhīs, Impv.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 503: 02/22/2025 dict=MW, L=79058, hw=jāla, user=srhodes
+old = illusion magic
+new = llusion, magic
+status = PENDING
+------------------------------------------------------------------------
+
+Case 496: 02/22/2025 dict=MW, L=187227, hw=varja, user=srhodes
+old = devoid of excluding
+new = devoid of, excluding
+status = PENDING
+------------------------------------------------------------------------
+
+Case 491: 02/21/2025 dict=MW, L=9839, hw=apasavya, user=srhodes
+old = to the left, from the right to the left
+new = to the right, from the left to the right
+comment = Typo – Please note that we need Andhrabharati to check into this. Apte and everyone else seems to confirm this correction. Apparently "apasavya" means: अपक्रान्तं सव्यात् "gone away from the left". Therefore, how can we have the meaning given by MW which seems to be contrary?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 484: 02/20/2025 dict=MW, L=219366, hw=śudh, user=srhodes
+old = śuśodha aor. aśudhat fut.
+new = śuśodha, aor. aśudhat, fut.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 482: 02/20/2025 dict=MW, L=9711, hw=apavaraka, user=srhodes
+old = lying in
+new = lying-in
+comment = Typo – It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 463: 02/18/2025 dict=MW, L=8985, hw=apakāra, user=srhodes
+old = despise
+new = despise ?
+comment = Typo – Please note this particular definition: "despise" is a VERB. We cannot have a verb used directly for the definition of a noun.  For my own purposes, I have relocated the definition: "despise" ,  under the causative form: "apakārayati".  Does Andhrabharati have an opinion on this?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 461: 02/17/2025 dict=MW, L=151825, hw=bhūtagrāma, user=srhodes
+old = any aggregate or elementary matter, the body
+new = any aggregate of elementary matter, the body
+comment = Typo – Please note that this is a suggested "print change" that follows Shabda Dictionary Definition. In my view, the use of the word "of" is preferable to the word "or" ,  for the definition being given here. Does Andhrabharati have an opinion on this?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 457: 02/16/2025 dict=MW, L=208671, hw=vyadh, user=srhodes
+old = viḍḍhvā
+new = viddhvā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 452: 02/16/2025 dict=MW, L=177153, hw=rādh, user=srhodes
+old = redhita
+new = redhitha
+comment = Typo – Please note that this is a "print change". You may check the rule cited (cf. Pāṇ. vi, 4, 123) for this variant form of the 2nd Person Singular Perfect form.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 445: 02/15/2025 dict=MW, L=217124, hw=śiraḥśūla, user=srhodes
+old = head-ache
+new = headache
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Please note that it is important to bring the "spelling" up to the current standard as we are maintaining a dictionary for the present and all future generations. LB 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 441: 02/15/2025 dict=MW, L=9231, hw=apadava, user=srhodes
+old = forest-fire
+new = forest fire
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 429: 02/14/2025 dict=MW, L=156626, hw=man, user=srhodes
+old = maṃsi, amaṃsta Subj. maṃsate Prec.
+new = maṃsi, amaṃsta, Subj. maṃsate, Prec.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 428: 02/14/2025 dict=MW, L=156626, hw=man, user=srhodes
+old = ámanmahi Subj.
+new = ámanmahi, Subj.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 427: 02/14/2025 dict=MW, L=156626, hw=man, user=srhodes
+old = °nā́ts
+new = °nā́te
+status = PENDING
+------------------------------------------------------------------------
+
+Case 426: 02/14/2025 dict=MW, L=156626, hw=man, user=srhodes
+old = mimāmiṣate Gr.
+new = mīmāṃsiṣate Gr.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 425: 02/14/2025 dict=MW, L=156626, hw=man, user=srhodes
+old = manta, manitā
+new = mantā, manitā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 424: 02/14/2025 dict=MW, L=156626, hw=man, user=srhodes
+old = °stādm
+new = °stām
+status = PENDING
+------------------------------------------------------------------------
+
+Case 421: 02/13/2025 dict=MW, L=9079, hw=apaguh, user=srhodes
+old = P. -gūhas Ā. -gūhathāś; impf. 3. pl. ápāgūhan; aor. -aghu-kṣat)
+new = P. -gūhas, Ā. -gūhathās; impf. 3. pl. ápāgūhan; aor. -aghukṣat)
+comment = Typo – Please note three corrections here. Also, I believe that "-gūhathās" is correct.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 347: 02/06/2025 dict=MW, L=8632.4, hw=anyatsthānagata, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: "anyatsthānagata [ID=8632.4 sup]", must be placed just prior to the Main Entry Compound: "anyadāśā [ID=8652]". Of course the ID number of "anyatsthānagata" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 346: 02/06/2025 dict=MW, L=8632.3, hw=anyatpārśva, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: "anyatpārśva [ID=8632.3 sup]", must be placed just after the Main Entry Compound: "anyatkṛ [ID=8651]". Of course the ID number of "anyatpārśva" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 345: 02/06/2025 dict=MW, L=8632.2, hw=anyatkāma, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: “anyatkāma mfn. [ID=8632.2 sup]”, must be placed just prior to this Main Entry Compound: "anyatkāraka mfn. [ID=8650]". Of course the ID number of "anyatkāma" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 344: 02/06/2025 dict=MW, L=8632.1, hw=anyat, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: “anyat (in comp.) [ID=8632.1 sup]”, must be placed just prior to this listing of compounds! Please relocate the Supplemental Headword: “anyat (in comp.) [ID=8632.1 sup]” to just prior to the Headword : "anyatkāraka [ID=8650]". Of course the ID number of "anyat" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 335: 02/06/2025 dict=MW, L=213059, hw=śampāka, user=srhodes
+old = śamyāka cf. śamyā
+new = śamyāka, cf. śamyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 324: 02/05/2025 dict=MW, L=211289, hw=śakala, user=srhodes
+old = egg-shell
+new = eggshell
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 323: 02/05/2025 dict=MW, L=23320, hw=āṇḍakapāla, user=srhodes
+old = egg-shell
+new = eggshell
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 322: 02/05/2025 dict=MW, L=2469, hw=aṇḍadala, user=srhodes
+old = egg-shell
+new = eggshell
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 319: 02/05/2025 dict=MW, L=92769, hw=dīp, user=srhodes
+old = °te aor.
+new = °te, aor.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 318: 02/05/2025 dict=MW, L=76735, hw=jan, user=srhodes
+old = 2. sg. janiṣé
+new = 2. sg. janiṣe
+status = PENDING
+------------------------------------------------------------------------
+
+Case 317: 02/05/2025 dict=MW, L=76735, hw=jan, user=srhodes
+old = pr.p. jayamāna
+new = pr.p. jā́yamāna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 304: 02/03/2025 dict=MW, L=8373, hw=antyabha, user=srhodes
+old = Revati
+new = Revatī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 296: 02/03/2025 dict=MW, L=8330, hw=antisumna, user=srhodes
+old = antisumna
+new = antiṣumṇa ???
+comment = Typo – Please note that this a possible "print change", based upon APTE. Of course this is a correction based upon SANDHI rules. The only question is: "Which form is correct?". I hope that Andhrabharati or Dr. Dhaval will verify this form.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 290: 02/03/2025 dict=MW, L=96951, hw=do, user=srhodes
+old = aor. adāsīt and adāt, Pāṇ. ii, 4, 78;
+new = aor. adāt
+comment = Typo – Please note that this is a VERY important "print change." If you check the rule cited above: "Pāṇ. ii, 4, 78", you will see that the root √do is NOT mentioned. Therefore the elision of sic is NOT optional. Therefore, the form given above: "adāsīt" is incorrect.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 284: 02/02/2025 dict=MW, L=167200, hw=mṛṇālāṅgada, user=srhodes
+old = mṛṇāla, -valaya
+new = mṛṇāla-valaya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 264: 02/01/2025 dict=MW, L=8154, hw=antarvastra, user=srhodes
+old = under garment
+new = undergarment
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 263: 02/01/2025 dict=MW, L=163565, hw=mārtavatsa, user=srhodes
+old = still-born
+new = stillborn
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 262: 02/01/2025 dict=MW, L=166669, hw=mṛtasūtaka, user=srhodes
+old = still-born
+new = stillborn
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 261: 02/01/2025 dict=MW, L=150778, hw=bhindu, user=srhodes
+old = still-born
+new = stillborn
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 258: 02/01/2025 dict=MW, L=140436, hw=prī, user=srhodes
+old = p. °yāṇá Subj. pipráyat;
+new = p. °yāṇá, Subj. pipráyat;
+status = PENDING
+------------------------------------------------------------------------
+
+Case 257: 02/01/2025 dict=MW, L=210763, hw=vrī, user=srhodes
+old = vrayayati
+new = vrāyayati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 247: 01/31/2025 dict=MW, L=7934, hw=antapāla, user=srhodes
+old = frontier-guard
+new = frontier guard
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 241: 01/31/2025 dict=MW, L=39992, hw=eḍamūka, user=srhodes
+old =  m. 
+new =  mfn. 
+comment = Typo – Please note that this is a suggested "print change". I am uncertain as to why MW states, "masculine gender." All definitions given are "qualitative" in nature and therefore require a "substantive". Such a case points to being an "adjective" available in all genders. SHABDA dictionary agrees, as well as APTE – the Majority rules here!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 228: 01/30/2025 dict=MW, L=216412, hw=śāstravid, user=srhodes
+old = = -jñā
+new = = -jña
+status = PENDING
+------------------------------------------------------------------------
+
+Case 226: 01/30/2025 dict=MW, L=8154, hw=antarvastra, user=srhodes
+old = under garment
+new = undergarment
+comment = Typo – Please note that this is better written as a single word, therefore "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 222: 01/30/2025 dict=MW, L=7998, hw=antaḥpavitra, user=srhodes
+old = straining-vessel
+new = straining vessel
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 219: 01/30/2025 dict=MW, L=8087.2, hw=antarghāta, user=srhodes
+old = antar—ghana or antar—ghāta, m. a place between the entrance-door and the house
+new = Possibly Delete?
+comment = Typo – Please note that APTE very specifically does NOT give the above definition for these two words. APTE says ONLY: 1) "antarghana - N. of a country of Bāhīka (or Bālhīka)"; 2) "antarghāta – striking in the middle". I Hope that Andhrabharati will look into this, as we know MW sometimes misses the mark through plagiarism etc.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 218: 01/30/2025 dict=MW, L=8087.1, hw=antarghana, user=srhodes
+old = antar—ghana or antar—ghāta, m. a place between the entrance-door and the house
+new = Possibly Delete?
+comment = Typo – Please note that APTE very specifically does NOT give the above definition for these two words. APTE says ONLY: 1) "antarghana - N. of a country of Bāhīka (or Bālhīka)"; 2) "antarghāta – striking in the middle". I Hope that Andhrabharati will look into this, as we know MW sometimes misses the mark through plagiarism etc.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 206: 01/30/2025 dict=MW, L=8058, hw=antarākūṭa, user=srhodes
+old = antar—ākūṭa
+new = antar—ākūta
+comment = Typo – Please consider this to be a Headword Typo and "print change". You may confirm this correction by looking up the uttarapada: "ākūta"; as you will discover, there is no such word as "ākūṭa", and no rule of Sandhi will make this cerebral change.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 205: 01/30/2025 dict=MW, L=142408, hw=baḍiśa, user=srhodes
+old = fish-hook
+new = fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 204: 01/30/2025 dict=MW, L=143414, hw=baliśa, user=srhodes
+old = fish-hook
+new = fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 203: 01/30/2025 dict=MW, L=120161, hw=palāva, user=srhodes
+old = fish-hook
+new = fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 202: 01/30/2025 dict=MW, L=155130, hw=matsyabandhana, user=srhodes
+old = f°-hook
+new = f°hook OR fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 201: 01/30/2025 dict=MW, L=220017, hw=śuṣkala, user=srhodes
+old = fish-hook
+new = fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 200: 01/30/2025 dict=MW, L=183786, hw=loha, user=srhodes
+old = fish-hook
+new = fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 199: 01/30/2025 dict=MW, L=183786, hw=loha, user=srhodes
+old = fish-hook
+new = fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 198: 01/30/2025 dict=MW, L=186597, hw=varaṇḍalambuka, user=srhodes
+old = fish-hook
+new = fishhook
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 197: 01/30/2025 dict=MW, L=186586, hw=varaṇāśī, user=srhodes
+old = varānasī
+new = varāṇasī
+comment = Typo – Please note this correction is being made 12 hours prior to our Skype meeting. This correction honors the Holy City where Mārcis lives.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 196: 01/30/2025 dict=MW, L=186586, hw=varaṇāśī, user=srhodes
+old = varānasī
+new = varāṇasī
+comment = Typo – Please note this correction is being made 12 hours prior to our Skype meeting. This correction honors the Holy City where Mārcis lives.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 195: 01/29/2025 dict=MW, L=183201.1, hw=lelāya, user=srhodes
+old = p. lelāyántī gen. leláyatas;
+new = p. lelāyántī, gen. lelā́yatas;
+comment = Typo – Please note the "comma" has been added, as well as a further correction is either a "print change" or it is correct as it stands. The question I have is this: Why is the vowel shortened in the printed form "gen. leláyatas", when every other form of this verb contains the long vowel ā ;  Therefore is this an error, or indeed do we have an odd "short vowel" in the genitive singular?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 172: 01/28/2025 dict=MW, L=161620, hw=mahemati, user=srhodes
+old = mahemati
+new = mahemate
+comment = Typo – Please note that this is a suggested "print change". LB The reasoning is as follows: the word given as: “mahenadi" is the feminine singular vocative case of the Headword “mahinadī”. By this same reasoning, the word given as “mahemati” is INCORRECT. Because in this regard, the prātipadika Headword is “mahimati [ID=161411]” and here, the feminine vocative case is clearly printed as “mahemate”. Therefore, the spelling given in the Headword “mahemati [ID=161620]” should be corrected to the feminine singular vocative form printed under the Official Prātipadika Headword "mahimati [ID=161411]". And just to be clear, feminine vocative case is clearly printed as "mahemate", thereby proving the Headword “mahemati [ID=161620]” is INCORRECT.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 158: 01/27/2025 dict=MW, L=101318, hw=dhī, user=srhodes
+old = Dhātup. xxvi, 37.
+new = Dhātup. xxvi, 27.
+comment = Typo – Please note that this is a "print change". You may verify this correction by checking with: "radiceslingusan00westgoog_0405".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 157: 01/27/2025 dict=MW, L=92658, hw=dī, user=srhodes
+old = didiṣate
+new = didīṣate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 152: 01/27/2025 dict=MW, L=7681.1, hw=anūkya, user=srhodes
+old = backbone
+new = n. backbone
+comment = Typo – Please note that this is a suggested "print change". Apte clearly states the "neuter gender" in this case. Obviously, the "backbone" is a substantive and not an adjective, therefore the "neuter gender" should be preferred and stated as Apte has done.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 129: 01/26/2025 dict=MW, L=7515, hw=anuṣṇavallikā, user=srhodes
+old = Nīladūrbā
+new = Nīladūrvā
+comment = Typo – I am wondering if this correction would be a "better" spelling? I know that the letters "b" and "v" may be interchanged at times. MW does list this Headword as "Nīladūrvā".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 127: 01/26/2025 dict=MW, L=7520, hw=anuṣyanda, user=srhodes
+old = hind-wheel
+new = hind wheel
+comment = Typo – It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 118: 01/25/2025 dict=MW, L=7498.1, hw=anuṣṭhi, user=srhodes
+old = ind. only inst. immediately
+new = ind. immediately
+status = PENDING
+------------------------------------------------------------------------
+
+Case 117: 01/25/2025 dict=MW, L=7498, hw=anuṣṭhi, user=srhodes
+old = at hand’
+new = at hand’, only inst.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 96: 01/23/2025 dict=MW, L=7177, hw=anulomāya, user=srhodes
+old = having fortune favourable
+new = having fortune, favourable
+status = PENDING
+------------------------------------------------------------------------
+
+Case 93: 01/23/2025 dict=MW, L=125645, hw=puth, user=srhodes
+old = (P. Ā. pothayāna fut., pothayiṣye)
+new = (Ā.p. pothayāna, fut. pothayiṣye)
+comment = Typo – Please note that this correction follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 85: 01/22/2025 dict=MW, L=144913, hw=bāhu, user=srhodes
+old = fore-arm
+new = forearm
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 84: 01/22/2025 dict=MW, L=97096, hw=doṣan, user=srhodes
+old = fore-arm
+new = forearm
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 83: 01/22/2025 dict=MW, L=97096, hw=doṣan, user=srhodes
+old = fore-foot
+new = forefoot
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 82: 01/22/2025 dict=MW, L=144915, hw=bāhu, user=srhodes
+old = fore-foot
+new = forefoot
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 81: 01/22/2025 dict=MW, L=200644, hw=viśeṣabhāga, user=srhodes
+old = fore-foot
+new = forefoot
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 76: 01/21/2025 dict=MW, L=186557, hw=vayohāṇi, user=srhodes
+old = vayohāṇi
+new = vayohāni
+comment = Typo – Please note that this is a serious "print change". You may confirm this correction by simply looking up the uttarapada here: "hāṇi", as you will see this word does not exist! The correct word is "hāni". This is also confirmed by APTE who lists this compound as "vayohāni". I am certain that both Andhrabharati and Dr. Dhaval will be pleased with this submission from a serious student.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 73: 01/21/2025 dict=MW, L=6891, hw=anubala, user=srhodes
+old = rear-guard
+new = rearguard
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 72: 01/21/2025 dict=MW, L=6801, hw=anuprapādam, user=srhodes
+old = Pāṇ. iv, 3, 56
+new = Pāṇ. iii, 4, 56
+comment = Typo – Please note that this is a VERY serious "print change". You may confirm this correction by simply looking up the rule cited above. I am certain that both Andhrabharati and Dr. Dhaval will be pleased with this submission from a serious student.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 71: 01/21/2025 dict=MW, L=6798, hw=anuprapātam, user=srhodes
+old = Pāṇ. iv, 3, 56
+new = Pāṇ. iii, 4, 56
+comment = Typo – Please note that this is a VERY serious "print change". You may confirm this correction by simply looking up the rule cited above. I am certain that both Andhrabharati and Dr. Dhaval will be pleased with this submission from a serious student.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 70: 01/21/2025 dict=MW, L=6733, hw=anupālu, user=srhodes
+old = Calladium
+new = Caladium
+comment = Typo – Please note that this is a suggested "print change". The reason is as follows: 1) MW is clearly referring to the Name of a Plant. Such plants are spelled, "Caladium". (you may conduct your own research on this). Whereas, a variety of Beetle (which is a bug or insect) is spelled, "Calladium".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 65: 01/20/2025 dict=MW, L=6682, hw=anupalabdhisama, user=srhodes
+old = non perception
+new = non-perception
+status = PENDING
+------------------------------------------------------------------------
+
+Case 63: 01/20/2025 dict=MW, L=6548, hw=anuniśītham, user=srhodes
+old = mid night
+new = midnight
+status = PENDING
+------------------------------------------------------------------------
+
+Case 59: 01/19/2025 dict=MW, L=225563.1, hw=ṣṭhīv, user=srhodes
+old = pf. ṭiṣṭheva, Br.; tiṣṭheva Gr.;
+new = pf. tiṣṭheva, Br.; ṭiṣṭheva Gr.;
+status = PENDING
+------------------------------------------------------------------------
+
+Case 58: 01/19/2025 dict=MW, L=257618, hw=sriv, user=srhodes
+old = siśreva
+new = sisreva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 57: 01/19/2025 dict=MW, L=92228, hw=div, user=srhodes
+old = to ask, beg; LB to go; LB Ā. °te, to suffer pain, Dhātup. xxxiii, 51, 32. 
+new = to ask, beg; to go; Ā. °te, to suffer pain, Dhātup. xxxiii, 51, 32. 
+comment = Typo - Unnecessary Line Break • Please keep the text on one continuous line as much as possible.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 48: 01/18/2025 dict=MW, L=6384, hw=anuttāna, user=srhodes
+old = towards, the ground
+new = towards the ground
+status = PENDING
+------------------------------------------------------------------------
+
+Case 46: 01/18/2025 dict=MW, L=18787.1, hw=avitaraṇa, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "avitarka [ID=18783]" in the Hierarchical listing of words. This is the proper alphabetical location, since there is not etymological relation to the currently preceding Headword "avitṛ́ [ID=18771]".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 45: 01/18/2025 dict=MW, L=18787.1, hw=avitaraṇa, user=srhodes
+old = Indentation Error
+new = Please note that the Headword "avitṛ́ mfn. a favourer, protector [ID=18771]" derives from the verbal root √av as indicated by the following statement: "avitṛ́ See avita. [ID=18787]". However, the Supplemental Headword "avitaraṇa" derives from the verbal root √tṝ with the prefix "vi" preceded by the negative particle "a". Since MW dictionary is the greatest Etymological Sanskrit Dictionary in existence, we must pay tribute and properly place this Supplemental Headword "avitaraṇa" accordingly. This means NO INDENTATION in the Hierarchy List Column, because there is no relation here to the preceding Headword "avitṛ́ [ID=18771]". I am certain that Andhrabharati would be pleased with the reasoning here.
+comment = Indentation Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 01/16/2025 dict=MW, L=31622, hw=utpatha, user=srhodes
+old = one who is come off from the right way
+new = one who has come off from the right way
+comment = Typo – Please note that this is a suggested "print change" based upon what to me sounds better.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 01/15/2025 dict=MW, L=149289, hw=bhas, user=srhodes
+old = bhasat
+new = bhásat
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 01/15/2025 dict=MW, L=5931.1, hw=anilāśana, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "anilāśin [ID=5930 ]" in the Hierarchical listing of words.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+

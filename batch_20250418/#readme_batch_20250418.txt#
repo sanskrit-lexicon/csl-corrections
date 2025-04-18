@@ -1,0 +1,120 @@
+04-18-2025
+How to separate Scott's submissions from the others.
+
+----------------------
+connect to cologne server.
+
+Edit cfr.tsv on server, removing ill-formed entries.
+
+git add .  #cfr.tsv
+git commit -m "cfr.tsv on Cologne server since last commit"
+git push  # push to github
+----------------------
+change to local installation of csl-corrections
+git pull
+# so now, local installation and cologne server are in sync
+----------------------
+# Save a local copy of cfr.tsv, just for safety
+cd /c/xampp/htdocs/cologne/csl-corrections
+cd app/correction_response
+cp cfr.tsv cfr_20250418_before.tsv
+cd /c/xampp/htdocs/cologne/csl-corrections
+
+----------------------
+# make directory for new batch
+cd /c/xampp/htdocs/cologne/csl-corrections
+mkdir batch_20250418
+
+----------------------
+previous batch_20250114
+ scott.tsv    01/14/2025 13:05:48 last
+ notscott.tsv 01/13/2025 20:44:09 last
+
+conclude:  Generate (in batch_20250418)
+
+
+cp ../batch_20250114/separate_scott.py separate_scott1.py
+
+# edit separate_scott1.py to read first parameter as yyyymmdd
+# The program only deals with lines of cfr.tsv
+# whose date is GREATER THAN yyyymmdd
+
+python separate_scott1.py 20250114 ../app/correction_response/cfr.tsv prev.tsv scott.tsv notscott.tsv deleted.tsv
+
+--- results:
+27451 lines read from ../app/correction_response/cfr.tsv
+26074 lines written to prev.tsv
+1336 lines written to scott.tsv
+  Scott: LRV 279
+  Scott: MW 190
+  Scott: SHS 222
+  Scott: AP90 42
+  Scott: AP 602
+  Scott: PUI 1
+41 lines written to notscott.tsv
+0 lines written to deleted.tsv
+
+(+ 26074 1336 41) = 27451  AS EXPECTED
+xxx
+---------------------------------------
+# construct new cfr.tsv
+  as concatenation of prev.tsv and notscott.tsv
+cat prev.tsv notscott.tsv > new_cfr.tsv
+
+cp new_cfr.tsv ../app/correction_response/cfr.tsv
+
+----
+# sync cfr.tsv to github
+cd /c/xampp/htdocs/cologne/csl-corrections
+git status
+git add .
+git commit -m "revise cfr.tsv to batch_20251418/new_cfr.tsv"
+git push
+# sync cologne to github
+On cologne server,
+git pull
+
+Now local, github, and cologne are synced.
+
+
+
+***********************************************************
+# Initialize the 'dictionaries' subdirectory
+# Assume in batch_20250418
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250418
+
+mkdir dictionaries
+# for each of Scott's dictionaries (see above list under separate_scott.py)
+# make a subdirectory of dictionaries 
+mkdir dictionaries/lrv
+mkdir dictionaries/mw
+mkdir dictionaries/shs
+mkdir dictionaries/ap90
+mkdir dictionaries/ap
+mkdir dictionaries/pui
+
+# generate dictionaries/xxx/xxx_correctionform.txt using scott.tsv
+
+python3 ../cfr_adj.py scott.tsv correctionform.txt
+
+--- results:
+rewriting correctionform.txt ( 1335 pending )
+1336 lines read from scott.tsv
+1335 cases are pending
+rewriting dictionaries/lrv/lrv_correctionform.txt ( 278 pending )
+rewriting dictionaries/mw/mw_correctionform.txt ( 190 pending )
+rewriting dictionaries/shs/shs_correctionform.txt ( 222 pending )
+rewriting dictionaries/ap90/ap90_correctionform.txt ( 42 pending )
+rewriting dictionaries/ap/ap_correctionform.txt ( 602 pending )
+rewriting dictionaries/pui/pui_correctionform.txt ( 1 pending )
+
+***********************************************************
+This ends the preparation of Scott's corrections ast of 20250418
+The task now is to process each of the
+dictionaries/xxx/xxx_correctionform.txt files
+
+# push to github 
+cd /c/xampp/htdocs/cologne/csl-corrections
+git add .
+git commit -m "construction
+***********************************************************
