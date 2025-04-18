@@ -1,6 +1,153 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 09, 2024
-2196 correction records, with 0 PENDING
+As of April 18, 2025
+2219 correction records, with 23 PENDING
+
+Case 26110: 04/13/2025 dict=mw, L= 27167 , hw=AvI, user=ejf
+old = A/-vavIran (slp1)
+new = A/-vevIran
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26102: 04/01/2025 dict=MW, L= 44624, hw=karka, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26081: 02/09/2025 dict=MW, L=204340 , hw=vft, user=geymonat
+old = 
+new = 
+comment = Links to Whitney Roots and Westergaard Dhatupatha do not link anywhere 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26080: 02/07/2025 dict=MW, L= 151191, hw=भीष्मसू, user=
+old = -जनर्नी
+new = -जननी
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26077: 01/29/2025 dict=MW, L= 225304 , hw=षष्टितम, user=ejf
+old = of zazwa
+new = <ab>cf.</ab> zazwa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26076: 01/24/2025 dict=MW, L= 16938.1, hw=av, user=czhao
+old = (said of the gods) to be pleased with, like, accept favourably (as sacrifices, prayers or hymns), RV., (chiefly said of kings or princes)
+new = After "RV." it should by a semicolon instead of comma, so "(chiefly said of kings or princes)" should be placed with the next line "to guard, defend, ..."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26069: 01/12/2025 dict=MW, L=5571, hw=anāman, user=
+old = ring-finger
+new = ring finger
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26062: 12/30/2024 dict=MW, L= 5638, hw=anAryatA, user=ejf
+old = vileness unworthiness
+new = vileness, unworthiness
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26061: 12/29/2024 dict=MW, L= 153716, hw=भ्रातृदत्त, user=jimfunderburk
+old = In list display of simple search, the first entry of Bratfdatta is भ्रतृत्व !
+new = The H3B for 53717 needs to be H3;  and also 153718 needs to be H3B.
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26060: 12/27/2024 dict=MW, L= 233433 , hw=समधिकतररूप, user=ejf
+old = more beautiful thin
+new = more beautiful than
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26055: 12/15/2024 dict=MW, L=dashabala, hw=dashabala, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26052: 12/03/2024 dict=MW, L= , hw=mayi, user=karunamayidas
+old = mayi
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26049: 11/27/2024 dict=mw, L= 111386.1, hw=nIra, user=ejf
+old = L. गृह, L.
+new = = गृह, L.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26048: 11/27/2024 dict=mw, L=, hw=nIra, user=jim
+old = MBh.; Kāv. 
+new = = गृह, L. 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26047: 11/27/2024 dict=mw, L=, hw=agada, user=jim
+old = अगद  (H1)  [Printed book page 4,2]  अ-गद   mfn. <!!!>free from disease healthy<!!!>, RV. 
+new = free from disease, healthy [missing comma]
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26044: 11/24/2024 dict=MW, L=239501, hw=savatsa, user=Owen Flawers
+old = together with a calf having a calf
+new = together with a calf, having a calf
+comment = omitted comma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26042: 11/17/2024 dict=MW, L= 20212 8, hw=vizARa, user=ejf
+old = which 1. may
+new = which <hom>1.</hom> may
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26041: 11/16/2024 dict=mw, L= , hw=pranu, user=
+old = pranu
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26039: 11/15/2024 dict=MW, L= 218590 , hw=शीर्ष , user=ejf
+old = with शिरस्: collateral 
+new = with शिरस्; collateral  (colon to semicolon
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26035: 11/09/2024 dict=MW, L= , hw=Dwaram, user=
+old = dwara
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26034: 11/08/2024 dict=MW, L=1730, hw=aṅgulisaṃdaṃśa, user=
+old = Revision Update
+new = Please note that the original definition MUST be 'crossed out', YET displayed in MW Dictionary online. I consider this Revision to be 'dangerous' and actually an error! As Andhrabharati has noted, "Scott likes to check other dictionaries: Apte, Shabda etc." I check other dictionaries because for my own dictionary I am integrating all information from all reliable sources. The word "aṅgulisaṃdeśa" which has been revised by Monier-Williams is spelled by Apte and Shabda as "aṅgulisandeśa". If we look up the word "saṃdeśa or sandeśa" and then "integrate" the meaning of the compound "aṅgulisaṃdeśa", we will find that this is a LEGITIMATE word in the Sanskrit Language and should NOT be cancelled! In fact I am shocked at the audacity of Monier-Williams! I have heard it said that in the Sanskrit Language there exist Two Million manuscripts that predate the printing press, whereas in the Greek Language the number is a mere twenty thousand. I would like to meet someone who has read all two million manuscripts! Therefore, speaking metaphorically, I take the entire Sanskrit Language as "ākṛtigaṇa" and I do not "close the door" on any possible (and legitimate) word. In fact the masters of language are allowed to 'coin' words (even at times in violation of the rules of grammar). All this being said, for my own dictionary I include both words "aṅgulisaṃdaṃśa" AND "aṅgulisandeśa or aṅgulisaṁdeśa" with a slight variation in meaning according to the "uttarapada" (in each case).
+comment = Revision Update
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26032: 10/30/2024 dict=MW, L= 17389, hw=अवदात, user=octaveboczkowski
+old = Pur.
+new = pure
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26030: 10/16/2024 dict=MW, L= 81566.1, hw=taṃs, user=john.clayton.v
+old = at-pinsan
+new = at-þinsan
+comment = OCR mistake of italic ⟨p⟩ instead of ⟨þ⟩
+status = PENDING
+------------------------------------------------------------------------
 
 Case 26028: 10/01/2024 dict=MW, L= 10002.2, hw=apAtravarzin, user=ejf
 old = towards the und°,

@@ -1,6 +1,190 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 27, 2024
-533 correction records, with 0 PENDING
+As of April 18, 2025
+561 correction records, with 28 PENDING
+
+Case 26111: 04/16/2025 dict=AP, L=10478, hw=ūrṇā, user=christian.ferstl
+old = māḍgalyorṇāvalayini
+new = māṅgalyorṇāvalayini
+comment = misinterpretation of an akṣara
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26096: 03/20/2025 dict=AP, L=19334, hw=niṣkrayaḥ, user=christian.ferstl
+old = pītenebātmaniṣkayam
+new = pītenevātmaniṣkrayam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26095: 03/18/2025 dict=AP, L=23496, hw=praveṇiḥ, user=christian.ferstl
+old = hemabhāktimatīṃ
+new = hemabhaktimatīṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26094: 03/18/2025 dict=AP, L=23496, hw=praveṇiḥ, user=christian.ferstl
+old = hemabhāktimatīṃ
+new = hemabhacktimatīṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26093: 03/15/2025 dict=AP, L=8847, hw=utsargaḥ, user=christian.ferstl
+old = upavāda ibotsargaṃ vyābartayitumīśvaraḥ
+new = apavāda ivotsargaṃ vyāvartayitumīśvaraḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26089: 03/04/2025 dict=AP, L=32667, hw=śvaśrūḥ, user=christian.ferstl
+old = śvaśrūjanānuṣṭitacāruveśām
+new = śvaśrūjanānuṣṭhitacāruveśām
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26088: 03/04/2025 dict=AP, L=30866, hw=veṣa, user=christian.ferstl
+old = See beśa
+new = See veśa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26087: 03/03/2025 dict=AP, L=4197, hw=amithyā, user=christian.ferstl
+old = tāmūcetusta
+new = tāmūcatuste
+comment = misprint
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26086: 03/01/2025 dict=AP, L= 6851, hw=ādṛta, user=christian.ferstl
+old = nātyāddato'bhūt; ityāddatena; pṛcchatyanuvelamāddataḥ
+new = nātyādṛto'bhūt; ityādṛtena; pṛcchatyanuvelamādṛtaḥ
+comment = 3 times "da" instead of "dṛ"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26085: 03/01/2025 dict=AP, L= 20125, hw=parigrahaḥ, user=christian.ferstl
+old = ardhyaparigrahānte
+new = arghyaparigrahānte
+comment = misinterpretation of an akṣara
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26084: 02/26/2025 dict=AP, L= 9093, hw=uddhā (II), user=christian.ferstl
+old = yato sjaḥ
+new = yato rajaḥ
+comment = misinterpretation of an akshara
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26079: 02/02/2025 dict=AP, L=2784, hw=apoḍha, user=christian.ferstl
+old = apa-bah
+new = apa-vah
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26078: 02/01/2025 dict=AP, L=32132, hw=śī, user=christian.ferstl
+old = śathyate
+new = śayyate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26073: 01/19/2025 dict=AP, L=27395, hw=rājilaḥ, user=christian.ferstl
+old = mahoragavisarpiṃvikramo
+new = mahoragavisarpivikramo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26072: 01/15/2025 dict=AP, L=19210, hw=nivṛ, user=christian.ferstl
+old = nivannuṃrvānarā'dhipam
+new = nivavrur vānarā'dhipam
+comment = poor scan/copy
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26071: 01/13/2025 dict=AP, L=9120, hw=uddhyaḥ, user=christian.ferstl
+old = ivoddhapabhidyayoḥ
+new = ivoddhyabhidyayoḥ
+comment = misinterpretation of low quality scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26070: 01/13/2025 dict=AP, L= 9120, hw=uddhyaḥ, user=christian.ferstl
+old = uddhapaḥ
+new = uddhyaḥ
+comment = misreading of low quality print or scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26065: 01/02/2025 dict=AP, L= 23449, hw=pravirala, user=christian.ferstl
+old = mugdhavadhūkathaḥ
+new = mugdhavadhūkathāḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26064: 01/01/2025 dict=AP, L= 28545, hw=varūthin, user=christian.ferstl
+old = dhanurmṛtaḥ
+new = dhanurbhṛtaḥ
+comment = misread akṣara
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26063: 12/30/2024 dict=AP, L= 10035, hw=upasṛṣṭa, user=christian.ferstl
+old = rogopasṛṣṭatanurdurbasatiṃ
+new = rogopasṛṣṭatanudurvasatiṃ
+comment = misprint
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26059: 12/24/2024 dict=AP, L= 23608, hw=prasita, user=christian.ferstl
+old = siddhimubhābavāpatuḥ
+new = siddhimubhāvavāpatuḥ
+comment = misprint?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26058: 12/23/2024 dict=AP, L= 19801, hw=paṇaḥ, user=christian.ferstl
+old = ṣaḍupāyuḍkta
+new = ṣaḍupāyuṅkta
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26057: 12/19/2024 dict=AP, L= 32406 , hw=śoṇa, user=Christian Ferstl
+old = bhāgīra thīṃ śoṇa ibottaraṅgaḥ
+new = bhāgīrathīṃ śoṇa ivottaraṅgaḥ
+comment = low quality scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26051: 12/02/2024 dict=AP, L= 22109, hw=pragalbha, -lmā, user=christian.ferstl
+old = -lmā
+new = -lbhā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26050: 12/01/2024 dict=AP, L= 11099, hw=kakud, user=christian.ferstl
+old = ityāhitalakṣaṇo'bhūta
+new = ity āhitalakṣaṇo 'bhūt
+comment = misprint
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26046: 11/26/2024 dict=AP, L= 30174, hw=vilaṅghita, user=christian.ferstl
+old = vilaṅghitāghoraṇatīvrayatnāḥ
+new = vilaṅghitādhoraṇatīvrayatnāḥ
+comment = misinterpretation of a hard to read akṣara
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26045: 11/24/2024 dict=AP, L= 35972, hw=smayaḥ, user=christian.ferstl
+old = smayābeśavivarjitāya
+new = smayāveśavivarjitāya
+comment = misprint
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26043: 11/23/2024 dict=AP, L= 9725, hw=upaplavaḥ, user=christian.ferstl
+old = vāgvādirupaplavo
+new = vāyvādirupaplavo
+comment = misinterpretation of a hard to read printed edition or scan
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25959: 05/07/2024 dict=AP, L= 4564, hw=arthaḥ, user=
 old = Inplication

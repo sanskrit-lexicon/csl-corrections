@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of October 09, 2024
-81 correction records, with 0 PENDING
+As of April 18, 2025
+82 correction records, with 1 PENDING
+
+Case 26054: 12/12/2024 dict=MWE, L=791-a, hw=suspicion, user=sanaatani
+old = ---
+new = These words are listed: शङ्का, आशङ्का, संशयः, वितर्कः, तर्कः, विकल्पः, निह्नवः, LB अविश्वासः, अप्रत्ययः, कुतर्कः| I feel that संशयः is perfect for SUSPICION.  शङ्का and आशङ्का are apt for DOUBT. I have no opinion about the other words.
+comment = I am not really pointing out an error. I am rather seeking clarification. Looking forward to your reflections on this. Thanks
+status = PENDING
+------------------------------------------------------------------------
 
 Case 26020: 09/04/2024 dict=MWE, L= 232-b, hw=entitled, user=sanaatani
 old = सम्ज्ञितः

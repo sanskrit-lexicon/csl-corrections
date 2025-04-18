@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of October 09, 2024
-242 correction records, with 0 PENDING
+As of April 18, 2025
+243 correction records, with 1 PENDING
+
+Case 26056: 12/16/2024 dict=PWG, L=38129, hw=nāga, user=juzki13
+old = Śat. Br. 11,2,7,12.
+new = The number 11 looks roman number II.
+comment = Arabic-to-Roman conversion error.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 26012: 08/06/2024 dict=PWG, L= 13239, hw=ekatodant, user=
 old = ekatodant (ekatas + dant) adj. nur auf einer Seite (d. i. im Unterktefer) Zähne (d. i. Schneidezähne) habend M. 5, 18. 

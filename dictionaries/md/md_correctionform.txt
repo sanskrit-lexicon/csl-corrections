@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MD
-As of June 07, 2023
-19 correction records, with 0 PENDING
+As of April 18, 2025
+21 correction records, with 2 PENDING
+
+Case 26038: 11/13/2024 dict=MD, L= 9505, hw=d, user=
+old = blemiṣ
+new = blemish
+comment = Typo. other words are fleṣ, knaviṣ, raviṣ which should be flesh, knavish, ravish
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26037: 11/13/2024 dict=MD, L= 9505, hw=dūṣaṇa, user=madhavkiran.sodum
+old = blemiṣ
+new = blemish
+comment = Typo. there are many words with this mistake. even fleṣ should be flesh
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25431: 03/21/2023 dict=MD, L= 7313, hw=ca, user=shztg
 old = ththā ca, moreover

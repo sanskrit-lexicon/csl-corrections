@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for IEG
-As of July 22, 2019
-43 correction records, with 0 PENDING
+As of April 18, 2025
+44 correction records, with 1 PENDING
+
+Case 26109: 04/11/2025 dict=IEG, L=3874, hw=o, user=
+old = wrong headword. a more general problem: entries with d̤ (d with two dots below = ड़) are cut so od̤iya is only o.
+new = review entries with d̤ inside
+comment = Entry issue
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17948: 03/16/2016 dict=IEG, L=7814, hw=SASukAniwanka, user=ejf
 old = SASukAniwanka

@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of October 10, 2024
-435 correction records, with 0 PENDING
+As of April 18, 2025
+437 correction records, with 2 PENDING
+
+Case 26068: 01/10/2025 dict=GRA, L= 9074, hw=saṃvarta, user=juzki13
+old = -é 1023
+new = -é 1023,2
+comment = Typo, but the original printed version lacks the verse number
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26033: 11/06/2024 dict=GRA, L= 2904, hw=gamiṣṭha, user=pvstiles
+old = acvinā práti‿ávartim 〰 118,3; 292,3.
+new = aśvinā práti‿ávartim 〰 118,3; 292,3.
+comment = Typo in Graßmann 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 26021: 09/08/2024 dict=GRA, L= 7788, hw=vasatí, user=pvstiles
 old = 2〉 jánānām 356,4 (agním).

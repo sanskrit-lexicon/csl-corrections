@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of October 09, 2024
-420 correction records, with 0 PENDING
+As of April 18, 2025
+421 correction records, with 1 PENDING
+
+Case 26067: 01/08/2025 dict=VCP, L= 42644, hw=vyavasthā, user=madhavkiran.sodum
+old = viśiṣe
+new = viśeṣe
+comment = This seems to be a type even in the printed book. viśiṣe is not a valid word right?
+status = PENDING
+------------------------------------------------------------------------
 
 Case 26005: 07/20/2024 dict=VCP, L= 37664, hw=मन्त्र, user=czhao
 old = १ गुप्तमाषणे

@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of October 09, 2024
-787 correction records, with 0 PENDING
+As of April 18, 2025
+790 correction records, with 3 PENDING
+
+Case 26106: 04/04/2025 dict=BUR, L= 11194, hw=purA, user=Caujolle
+old = poëme
+new = poème
+comment = Typo, this mistake is present in at least 10 places (1 uktha (poëme) LB 2 ṛtu (poëme) LB 3 kāvya (poëme) LB 4 kṛti (poëme) LB 5 gīta (poëme) LB 6 gai (poëme) LB 7 divya (poëme) LB 8 purā (poëme) LB 9 prakara (poëme) LB 10 rāma (poëme))
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26083: 02/14/2025 dict=BUR, L= 47, hw=akṣa , user=Caujolle
+old = par extchar;  
+new = par ext. char;   (N.B. "ext." is for "extension")
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26082: 02/14/2025 dict=BUR, L= 47, hw=akṣa , user=Caujolle
+old = akṣa akṣa m. primitivt.
+new = the reference for "primitivt." is "primitivement"
+comment = reference missing
+status = PENDING
+------------------------------------------------------------------------
 
 Case 26027: 09/23/2024 dict=BUR, L= 10536, hw=parikrama, user=Caujolle
 old = parikramasaha m. (sah) houc.

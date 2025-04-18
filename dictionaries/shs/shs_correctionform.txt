@@ -1,6 +1,96 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of January 26, 2024
-185 correction records, with 0 PENDING
+As of April 18, 2025
+199 correction records, with 14 PENDING
+
+Case 26112: 04/17/2025 dict=SHS, L=- , hw=-, user=iv271
+old = Wrong book attribution
+new = The source indexed here is attributed to BHAṬṬĀCĀRYA, J. V. here:  LB https://www.sanskrit-lexicon.uni-koeln.de/scans/SHSScan/2020/web/index.php LB But the book appears to be written by someone else: Vidyasagara, Pandit-Kulapati Jibananda LB https://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/shspref/shspref01.html  LB 
+comment = Incorrect bibliography entry for the source
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26108: 04/08/2025 dict=SHS, L=27873, hw=प्रादुर्भाव, user=snbt98
+old = पादुस् in the Etymology
+new = प्रादुस्
+comment = Typo. This an error present in print. I'm aware that the maintainers policy is to digitise the contents as it is, even if errors are found. So, just tagging this error, in case it may be useful in the future.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26107: 04/07/2025 dict=SHS, L=1881, hw=अन्यजत्मन्, user=snbt98
+old = अन्यजत्मन्
+new = अन्यजन्मन्
+comment = Typo. In the etymology, जन्मन् has been entered correctly. However, for the headword, due to the print being slightly unclear, त् has been entered insted of न्.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26104: 04/02/2025 dict=SHS, L=21091, hw=नमस्, user=snbt98
+old = NA
+new = NA
+comment = "in the fifth case". It should be the fourth case. Is सम्बोधन being considered as a separate case to get this as the fifth case? Not clear. It is not a typo as it matches what we find in the scanned print. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26103: 04/02/2025 dict=SHS, L=21095, hw=नमस्कत्वा, user=snbt98
+old = नमस्कत्वा
+new = नमस्कृत्वा
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26101: 03/30/2025 dict=SHS, L=12622, hw=खङ्ग, user=snbt98
+old = खङ्ग
+new = खड्ग
+comment = Typo. Instead of the third letter of the third class, the fifth nasalised letter of the first class of vargeeya vyanjan has been written due to only slight difference in the glyphs representing them. This mistake is found repeated in the entries following it. It can be confirmed by viewing the scanned pages. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26100: 03/26/2025 dict=SHS, L=22278, hw=निष्कार्मा, user=snbt98
+old = निष्कार्मा
+new = निष्काम
+comment = Typo. There is some printing artefact after म in the scanned page. I do not think it represents र् and आ.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26099: 03/26/2025 dict=SHS, L=3859, hw=अवशक्थिका, user=snbt98
+old = kness
+new = knees
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26098: 03/21/2025 dict=SHS, L=25301, hw=पुरस्कत, user=snbt98
+old = पुरस्कत
+new = पुरस्कृत
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26097: 03/21/2025 dict=SHS, L=33410, hw=राजगामिन्, user=snbt98
+old = heris
+new = heirs
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26092: 03/15/2025 dict=SHS, L=32313, hw=म्लेच्छभोजन , user=snbt98
+old = in the Etymology LB म्नेच्छ
+new = म्लेच्छ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26091: 03/15/2025 dict=SHS, L=5541, hw=आप्रपद, user=snbt98
+old = food
+new = foot
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26090: 03/13/2025 dict=SHS, L=11663 , hw=कैकेयो, user=snbt98
+old = कैकेयो
+new = कैकेयी
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26066: 01/07/2025 dict=SHS, L=10138, hw=कार्य्यवत्, user=sachinbhatia98
+old = वात् ; engagod
+new = वान् ; engaged
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25900: 01/22/2024 dict=SHS, L= 39486, hw=śabdatanmātra, user=srhodes
 old = subtile

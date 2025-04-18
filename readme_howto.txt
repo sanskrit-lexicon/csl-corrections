@@ -40,9 +40,10 @@ click Generate new token
   click "generate new token (classic)"
   expiration 30 days
   Select the scopes you'd like to grant this token. To use your token to access repositories from the command line, select **repo**. A token with no assigned scopes can only access public information.
-  Click Generate token
+  Click Generate token: Generate new token (classic) For general use
   ghp_xxxx Click 'copy' icon
-edit ~/Users/jimfu/.bashrc
+
+edit c:/Users/jimfu/.bashrc
 export GITHUB_ACCESS_TOKEN='ghp_xxxx'
   
 ----------------------------------------------
@@ -81,6 +82,11 @@ sh post_github_issues.sh
       "Error posting: requests status =  403"
    3a. wait a few seconds (maybe a minute), and redo 1.
    3b. Keep doing this all are issues are initialized (no 403 message).
+ Note: 04-18-2025   39 issues uploaded without delay.
+    In otherwords, that expected '403' error did not occur.
+    Probably github changed something that previously
+    failed after 20 issues.
+    
 ------------------------------------------------
 sh redo_cfr.sh
 add "LRV" to 'knowndicts' in cfr_adj.py
