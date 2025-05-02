@@ -1859,3 +1859,9 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2681
 code : Headword : Old  : New : Comment
 91516 : dAkzeyI : <ls>R. iii, 20, 17, 18</ls> : <ls>R. iii, 20, 17</ls>; <ls n="R. iii, 20,">18</ls>
 ------------------------------------------------------------------------
+05-02-2025
+Github user @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/136
+code : Headword : Old  : New : Comment
+77923 : jalaDiraSana : jalaDiraSana : jalaDirasana
+------------------------------------------------------------------------
