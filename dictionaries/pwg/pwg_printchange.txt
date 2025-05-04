@@ -178,5 +178,12 @@ L code : Headword : Old  : New : Comment
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2682
 Source: user Andhrabharati
 L code : Headword : Old  : New : Comment
-58220 : 58220 : <ls>HĀR. 3,13.</ls> : <ls>HALĀY. 3,13.</ls>
+58220 : ekaviMSa : <ls>HĀR. 3,13.</ls> : <ls>HALĀY. 3,13.</ls>
+------------------------------------------------------------------------
+05-04-2025
+Github user @funderburkjim, @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2738
+code : Headword : Old  : New : Comment
+13357 : ekaviMSa : <ls>KĀTY. ŚR. 22,6,28.</ls> : <ls>KĀTY. ŚR. 22,6,26.</ls>
+13357 : ekaviMSa : <ls n="KĀTY. ŚR.">23,1,17.</ls> : <ls n="KĀTY. ŚR.">23,1,18.</ls>
 ----------------------------------------------------------------------
