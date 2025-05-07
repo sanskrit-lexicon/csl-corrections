@@ -186,4 +186,10 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2738
 code : Headword : Old  : New : Comment
 13357 : ekaviMSa : <ls>KĀTY. ŚR. 22,6,28.</ls> : <ls>KĀTY. ŚR. 22,6,26.</ls>
 13357 : ekaviMSa : <ls n="KĀTY. ŚR.">23,1,17.</ls> : <ls n="KĀTY. ŚR.">23,1,18.</ls>
+------------------------------------------------------------------------
+05-07-2025
+Github user  @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/135
+code : Headword : Old  : New : Comment
+35481 : drohin : <ls>RĀJA-TAR. 1,162.</ls> : <ls>RĀJA-TAR. 1,362.</ls>
 ----------------------------------------------------------------------

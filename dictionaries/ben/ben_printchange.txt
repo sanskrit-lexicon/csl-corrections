@@ -362,4 +362,10 @@ Dr. Dhaval Patel
 L code : Headword : Old :       New       : Comment
 1611   : Amalaka  : {%<ab>n.</ab>%} : <ab>n.</ab> :
 518    : anta     : {%Keśa-,%} {%<ab>m.</ab>%} : {%Keśa-,%} <ab>m.</ab> :
+------------------------------------------------------------------------
+05-07-2025
+Github user  @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/135
+code : Headword : Old  : New : Comment
+6848 : drohin : <ls>Rājat.</ls> 1, 162. : <ls>Rājat.</ls> 1, 362.
 -----------------------------------------------------------------------
