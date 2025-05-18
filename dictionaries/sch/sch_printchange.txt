@@ -81,3 +81,8 @@ L code : Headword : Old  : New : Comment
 https://github.com/sanskrit-lexicon/PWG/issues/143
 24228 : vizkanttar : Bhaṭṭ. 9,64 : Bhaṭṭ. 9,74  
 -----------------------------------------------------------------------
+05-16-2025
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2754
+User @funderburkjim
+L code : Headword     : Old       : New         : Comment
+19073 : praC : <ls>Mālav. 40</ls> (ed. <ls>Boll.</ls>) : <ls>Mālav. (ed. BOLL.) 40</ls>
