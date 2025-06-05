@@ -1423,3 +1423,12 @@ User @Andhrabharati
 L code : Headword     : Old       : New         : Comment
 100648 : vAmanayanA : CAURAP. (A.) 108 : CAURAP. (A.) 109 
 -------------------------------------------------------------------------
+06-05-2025
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2945143071
+User @Andhrabharati
+L code : Headword     : Old       : New         : Comment
+27585   kASyapadvIpa:  <ls>MBH. 6,6</ls> : <ls>MBH. 6,6,55</ls> ;;print_change
+114323 : SESupAli : <ls>MBH. 254,6</ls> : <ls>MBH. 3,254,16</ls> ;;print_change
+123397 : sAMsa : <ls>MBH. 6,6</ls> : <ls>MBH. 6,64</ls> ;;print_change
+130874 : sTA : <ls>MBH. 6,9</ls> : <ls>MBH. 6,93</ls> ;;print_change
+-------------------------------------------------------------------------
