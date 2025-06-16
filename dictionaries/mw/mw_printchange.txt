@@ -1932,4 +1932,13 @@ L code : Headword     : Old       : New         : Comment
 46928 : kAMsyadohana : MBh. ii, 53, 2 : MBh. ii, 53, 3 
 226924 : saMsarga : MBh. iii, 11, 238 : MBh. iii, 11238 
 222597 : SrAvaRa : MBh. iii, 100, 75 : MBh. iii, 10075 
+-------------------------------------------------------------------------
+06-15-2025
+Ref: https://github.com/sanskrit-lexicon/pwg/issues/152
+User @funderburkjim
+L code : Headword     : Old       : New         : Comment
+ 18726 : avicArita      : Hit. xii, 16 : Hit. 12, 16 
+ 48891 : kAryaparicCeda : Hit. xxxii, 22 : Hit. 32, 22 
+ 90640 : darSana        : Hit. iii, 0/1  : Hit. Introd. 9, 0/1 : ?
+117806 : pariDvaMsin    : Hit. v, 118    : Hit. ii, 118 
 ------------------------------------------------------------------------
