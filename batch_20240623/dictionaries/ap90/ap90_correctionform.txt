@@ -9,7 +9,7 @@ comment = Typo – I believe that the printed text shows this as a single word, 
 Jim: no change.  'some one' appears 9 times (acc. to ap90.txt)
      'someone' appears 0 times.
      Also, ap57 has 'some one' in print.
-status = x
+status = DONE
 ------------------------------------------------------------------------
 
 Case 125: 06/22/2024 dict=AP90, L=25720, hw=vigarh, user=srhodes
@@ -20,7 +20,7 @@ Jim: There is a further change:
    since subject is plural: {#taM vigarhaMti sADavaH#}  That dot really
    is an anusvAra.
    cf ap57: vigarhanti (ap57 uses homorganic nasals, ap90 uses anusvAra).
-status = x
+status = DONE
 ------------------------------------------------------------------------
 
 Case 111: 06/17/2024 dict=AP90, L=14001, hw=juṃgita, user=srhodes
@@ -28,7 +28,7 @@ old = Chāṇḍāla
 new = Cāṇḍāla
 comment = Typo – Please note that this is most likely a "print change." (I did not even check). But the reasoning is clear enough: In all cases (nityam) it is incorrect to "spell a word" with some letters diacritically marked and other letters (of the same word) phonetically translated into English for the "layman". Also, as I recently mentioned, this is another case worthy of a "Global Search and Replace" for any other cases of the word "Chāṇḍāla". I am certain there are many more instances in Apte Dictionary of this Very Incorrect Spelling.
 Jim: 4 changes, including this one.
-status = x  We aim to use modern IAST, but have not identified individually
+status = DONE  We aim to use modern IAST, but have not identified individually
    such changes as print changes.
    
 ------------------------------------------------------------------------
@@ -37,31 +37,31 @@ Case 92: 06/12/2024 dict=AP90, L=24427, hw=laṃghanaṃ, user=srhodes
 old = overstepping violating
 new = overstepping, violating
 comment = Typo – Please note that I did not even bother to look at the printed page as this correction seems clear enough.
-Jim: 
-status = x
+Jim: added comma (07-02-2025)
+status = DONE
 ------------------------------------------------------------------------
 
 Case 22: 06/05/2024 dict=AP90, L=31210, hw=svid, user=srhodes
 old = svodita
 new = svedita
 comment = Typo - Please note that this correction does follow the printed text (if one looks carefully). Also I believe this form refers to the causative participle, and of course the Causative form and definition are given subsequently.
-Jim: 
-status = 
+Jim:  done
+status = DONE
 ------------------------------------------------------------------------
 
 Case 16: 06/02/2024 dict=AP90, L=3235, hw=abhimanyuḥ, user=srhodes
 old = battlearray
 new = battle-array
 comment = Typo - Please note that the "hyphen" appears at a line break on the printed page, but it is required at all times for this word.
-Jim: no change: Current usage is two words: 'battle array'
+Jim: changed Current usage is two words: 'battle array'
      1828 Webster's is battle-array.  Possibly Apte was using this English dict.
-status = x
+status = DONE
 ------------------------------------------------------------------------
 
 Case 15: 06/02/2024 dict=AP90, L=3235, hw=abhimanyuḥ, user=srhodes
 old = Kṛshṇa
 new = Kṛṣṇa
 Jim: Changed this and 18 others
-status = x
+status = DONE
 ------------------------------------------------------------------------
 
