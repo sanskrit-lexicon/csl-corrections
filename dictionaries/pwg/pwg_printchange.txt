@@ -360,4 +360,14 @@ code : Headword : Old  : New : Comment
 28982      : tarka      : <ls>AK. 3,4,32</ls> (<ls>COLEBR. 28),12.</ls>      : <ls>AK. 3,4,32,12.</ls> (<ls>COLEBR. 3,4,28,12.</ls>)
 36726      : Dik        : <ls>AK. 3,4,32</ls> (<ls>COLEBR. 28),2.</ls>       : <ls>AK. 3,4,32,2.</ls> (<ls>COLEBR. 3,4,28,2.</ls>)
 38369      : nAnA       : <ls>AK. 3,4,32</ls> (<ls>COLEBR. 28),9.</ls>       : <ls>AK. 3,4,32,9.</ls> (<ls>COLEBR. 3,4,28,9.</ls>)
+------------------------------------------------------------------------
+07-19-2025
+Github users  @Andhrabharati, @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/137
+code : Headword : Old  : New : Comment
+110048 : sugopya   : PAÑCAR. 1,4,105 : PAÑCAR. 1,14,105 
+121217 : bawu      : PAÑCAR. 2,4,65  : PAÑCAR. 2,4,45 
+89364  : vAgISatva : PAÑCAR. 3,8,56  : PAÑCAR. 3,15,56 
+82375  : yoga      : PAÑCAR. 3,20,30 : PAÑCAR. 3,2,30 
+54266  : Bava      : PAÑCAR. 12,45   : PAÑCAR. 1,2,45 
 ----------------------------------------------------------------------
