@@ -370,4 +370,10 @@ code : Headword : Old  : New : Comment
 89364  : vAgISatva : PAÑCAR. 3,8,56  : PAÑCAR. 3,15,56 
 82375  : yoga      : PAÑCAR. 3,20,30 : PAÑCAR. 3,2,30 
 54266  : Bava      : PAÑCAR. 12,45   : PAÑCAR. 1,12,45 
+------------------------------------------------------------------------
+07-23-2025
+Github user @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160
+code : Headword : Old  : New : Comment
+ 107197 : sarveSa : PAÑCAR. 1,1,1,5. : PAÑCAR. 1,1,5.  : print chg pwg
 ----------------------------------------------------------------------
