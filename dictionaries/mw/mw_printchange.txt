@@ -1942,3 +1942,8 @@ L code : Headword     : Old       : New         : Comment
  90640 : darSana        : Hit. iii, 0/1  : Hit. Introd. 9, 0/1 : ?
 117806 : pariDvaMsin    : Hit. v, 118    : Hit. ii, 118 
 ------------------------------------------------------------------------
+07-28-2025
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/29
+User @drdhaval2785
+L code : Headword     : Old       : New         : Comment
+ 232191 : saMnyAsa      : compact : contract
