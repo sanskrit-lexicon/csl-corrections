@@ -1947,3 +1947,10 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/29
 User @drdhaval2785
 L code : Headword     : Old       : New         : Comment
  232191 : saMnyAsa      : compact : contract
+------------------------------------------------------------------------
+08-03-2025
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1880
+User @drdhaval2785
+L code : Headword     : Old       : New         : Comment
+193155 : viDarma      : <hom>1.</hom> :  : Removed Homonym marking
+193155 : viDarma      : (for <hom>2.</hom> See <s>vi-√ Df</s>)  :  : Removed wrong verb reference
