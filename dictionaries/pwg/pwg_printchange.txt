@@ -413,4 +413,15 @@ code : Headword : Old  : New : Comment
 57095 : maDusUdana : BHAG. Einl. XVI. fgg. : BHĀG. P. Einl. I, LXIV.
 57096 : maDusUdanasarasvatI : BHAG. Einl. XVI. fgg. :: text deleted 
 36831 : DU : BHARTṚ. p. 69. : BHARTṚ. 3,92 : to provide link to page 69
+------------------------------------------------------------------------
+08-07-2025
+Github users @funderburkjim, @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/
+code : Headword : Old  : New : Comment
+101446 : Sram : <ls>VIKR. 18,113.</ls> : <ls>VIKR. 98,13.</ls> :
+  Ref: https://github.com/sanskrit-lexicon/PWG/issues/157#issuecomment-3163863095
+24427  : caccapuwa : VIKR. ed. BOLL. S. 513. : VIKR. 513,21 : make link active
+24551  : caturasra : VIKR. 64,3. 6. S. 519. : VIKR. 64,3. 6. 519,12. : make link active
+64206  : apahastay : VIKR. ed. BOLL. S. 253. : VIKR. 253,27. : make link active
+93946  : vizkamBa  : VIKR. S. 369.fg. : VIKR. 369,24. fg. : make link active
 ----------------------------------------------------------------------
