@@ -612,8 +612,15 @@ L code : Headword : Old  : New : Comment
 ----------------------------------------------------------------------
 06-09-2024
 Source: Scott Rhodes
-Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1642
+Ref: https://github.com/sanskrit-lexicon/
 L code : Headword : Old  : New : Comment
 21555  : badDa : rivetting : riveting
 30570  : sEraMDrI : Sudheṣṇā : Sudeṣṇā : 
+----------------------------------------------------------------------
+08-024-2024
+Source: Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/ap90/issues/issue26 readme_althw_2.txt
+L code : Headword : Old  : New : Comment
+542 : atiGa : Worth : Wrath : 
+329 : acitvas : acitvas : acikitvas : headword change
 ----------------------------------------------------------------------
