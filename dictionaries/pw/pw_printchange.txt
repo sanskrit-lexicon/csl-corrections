@@ -1490,4 +1490,10 @@ Ref: https://github.com/sanskrit-lexicon/PWG/issues/160  (issue146fix)
 code : Headword : Old  : New : Comment
 97800 : Sabda : KUMĀRAS. 1,1,46. : KUMĀRAS. 1,46. : print change
 59121 : niruYCana : KUMĀRAS. 13,18,22 : KUMĀRAS. (1868) 13,18. 22 : print change
+------------------------------------------------------------------------
+09-16-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue48fix)
+code : Headword : Old  : New : Comment
+207961 : brahmalOkika : MBH. 13,150 (151),46 : MBH. 13,151,46 (150) : ref found @151
 -------------------------------------------------------------------------
