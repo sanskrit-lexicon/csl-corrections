@@ -482,3 +482,22 @@ code : Headword : Old  : New : Comment
 59359 : mahodarya : MBH. ed. Bomb. 13,7678. : MBH. 13,7678. : 
 60285 : mAsika : MBH. ed. Bomb. 14,2513 : MBH. 14,2513 : 
 ------------------------------------------------------------------------
+09-27-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue69fix)
+code : Headword : Old  : New : Comment
+46055 : purAvftta : Verz. d. Oxf. H. 54,28. : Verz. d. Oxf. H. 54,a,28. 
+43174 : pariSIlana : Verz. d. Oxf. H. 173,4 v. u. : Verz. d. Oxf. H. 173,b,4 v. u. 
+51759 : banDana : Verz. d. Oxf. H. 321,3 v. u. : Verz. d. Oxf. H. 321,b,3  v. u. 
+53444 : brahmamImAMsA : 622 (246,b) : 246,b,2. v. u. 
+93582 : viSvarUpa : 227,13. : 227,b,13. : reference to Verz. d. Oxf. H. 
+104317 : sadAnandamaya : 192,2 v. u. : 192,b,2 v. u. 
+62487 : akrama : Verz. d. Oxf. H. 232,11. 16. : Verz. d. Oxf. H. 232,a,11. 16. 
+82477 : yogANga : Verz. d. Oxf. H. 233,2. fgg. : Verz. d. Oxf. H. 233,b,2. fgg. 
+94545 : vIravarapratApa : Verz. d. Oxf. H. 181,9.: Verz. d. Oxf. H. 181,b,9. 
+106434 : saraRi : Verz. d. Oxf. H. 170,5 : Verz. d. Oxf. H. 170,b,5 
+112918 : somayAjin : Verz. d. Oxf. H. 219,7. 8. : Verz. d. Oxf. H. 219,b,7. 8. 
+85667 : lakzmI : Verz. d. Oxf. H. 97,a, No. 151,1 v. u. : Verz. d. Oxf. H. 97,a,,1 No. 151 v. u. 
+103508 : saMkrama : {#SuBavikrama#} 49,35 : {#SuBavikrama#} 49,b,35 
+113280 : sOra : {#sparSAH#} 104,34. : {#sparSAH#} 104,b,34. 
+r------------------------------------------------------------------------
