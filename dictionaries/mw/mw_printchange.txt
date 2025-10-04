@@ -1998,3 +1998,9 @@ code : Headword : Old  : New : Comment
 85572 : tIrTa : Pa▒cat. iii, 67/68 : Pa▒cat. iii, 66/67 : 
 34674 : upadAtf : Pa▒cat. iv, 107 (ed. Bombay) : Pa▒cat. (ed. Bombay) iv, 107 : To avoid link to Kosegarten : 
 ------------------------------------------------------------------------
+10-04-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue100fix)
+code : Headword : Old  : New : Comment
+109039 : nimIlitamuKa : Ragh. xix, 28, C. : Ragh. xix, 28, Ragh. (C) xix, 28 : both editions have link at xix,28.
+------------------------------------------------------------------------

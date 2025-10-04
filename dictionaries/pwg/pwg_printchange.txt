@@ -500,4 +500,10 @@ code : Headword : Old  : New : Comment
 85667 : lakzmI : Verz. d. Oxf. H. 97,a, No. 151,1 v. u. : Verz. d. Oxf. H. 97,a,,1 No. 151 v. u. 
 103508 : saMkrama : {#SuBavikrama#} 49,35 : {#SuBavikrama#} 49,b,35 
 113280 : sOra : {#sparSAH#} 104,34. : {#sparSAH#} 104,b,34. 
-r------------------------------------------------------------------------
+------------------------------------------------------------------------
+10-04-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue100fix)
+code : Headword : Old  : New : Comment
+113928 : sTA : RAGH. 12,12,49 : RAGH. 12,49 : 
+------------------------------------------------------------------------
