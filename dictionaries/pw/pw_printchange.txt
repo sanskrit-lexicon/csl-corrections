@@ -1511,4 +1511,11 @@ code : Headword : Old  : New : Comment
 133572 : har : PA▒CAT. ed. KOSEG. : PA▒CAT. :  
 91092 : yuj : PA▒CAT. ed. KOSEG. : PA▒CAT. :  
 78974 : Barts :  PA▒CAT. ed. KOSEG. : PA▒CAT. :  
+------------------------------------------------------------------------
+10-14-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue75fix)
+code : Headword : Old  : New : Comment
+128367 : susaMprahfzwa : R. ed. Bomb. 354,30 : R. ed. Bomb. 3,54,30 
+209148 : pratyupaveSana : 120,17 GORR. : R. ed. GORR. 2,120,17 
 -------------------------------------------------------------------------

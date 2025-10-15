@@ -1,4 +1,5 @@
 
+
 This file documents changes made to the digitization of PWG in which the
 digitization is intentionally different than the printed edition.
 The reasons for these changes are various.
@@ -540,4 +541,11 @@ Github users @funderburkjim
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue135fix)
 code : Headword : Old  : New : Comment
 ajitApIqa : RĀJA-TAR. IV,689. : RĀJA-TAR. 4,689. : 
+------------------------------------------------------------------------
+10-14-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue75fix)
+code : Headword : Old  : New : Comment
+0595 : maheSa : R. ed. SCHL. I, XXXI. : R. ed. SCHL. 1,31. :
+48502 : pratirAjan : 119,16 GORR. : R. GORR. 2,119,16 :
 -----------------------------------------------------------------------
