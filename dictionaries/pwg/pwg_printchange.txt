@@ -566,3 +566,12 @@ code : Headword : Old  : New : Comment
 87675 : vaD : {#mA no\ hArdi^ tvi\zA va^DIH#} 8,68,8 : ... 8,79,8 : ṚV :
 98939 : SArIra : {#Atman#} 11,4 : 14,6,11,4 : 14,7,11,4 does not exist :
 -----------------------------------------------------------------------
+11-05-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue134fix)
+code : Headword : Old  : New : Comment
+41963 : patman :  8,6,3. 8,23. : 8,8,23. : cf. 120717 patman :
+13402 : ekahAyana : {#eka^hAyanA  ... vadanti#} 6 : {#eka^hAyanA  ... vadanti#} 7 :
+54342 : Bavya : TS. 3,12,8,3 : TBR. 3,12,8,3 :
+17726 : kunaKin : TS. 2,5,17. : TS. 2,5,1,7. :
+-----------------------------------------------------------------------
