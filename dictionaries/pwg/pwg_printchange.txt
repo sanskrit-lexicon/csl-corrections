@@ -575,3 +575,12 @@ code : Headword : Old  : New : Comment
 54342 : Bavya : TS. 3,12,8,3 : TBR. 3,12,8,3 :
 17726 : kunaKin : TS. 2,5,17. : TS. 2,5,1,7. :
 -----------------------------------------------------------------------
+11-08-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue124fix)
+code : Headword : Old  : New : Comment
+26483 : jan : (ṚV.) 10,41,4 : (ṚV.) 10,31,4 
+26483 : jan : (ṚV.) 8,91,7 : (ṚV.) 8,102,7 
+38533 : nArASaMsa : VS. 5,53 : VS. 3,53 
+98643 : SAkvara : VS. 10,14. 13,85. 15,14. : VS. 10,14. 13,58. 15,14. 
+-----------------------------------------------------------------------
