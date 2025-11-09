@@ -584,3 +584,9 @@ code : Headword : Old  : New : Comment
 38533 : nArASaMsa : VS. 5,53 : VS. 3,53 
 98643 : SAkvara : VS. 10,14. 13,85. 15,14. : VS. 10,14. 13,58. 15,14. 
 -----------------------------------------------------------------------
+11-09-2025
+Github users @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue98fix)
+code : Headword : Old  : New : Comment
+116886 : hi : YĀJÑ. 2,190. 8,283. : YĀJÑ. 2,190. 3,283.
+-----------------------------------------------------------------------
