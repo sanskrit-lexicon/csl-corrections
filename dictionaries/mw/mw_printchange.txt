@@ -2020,9 +2020,18 @@ code : Headword : Old  : New : Comment
 Github users @funderburkjim
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue124fix)
 code : Headword : Old  : New : Comment
+91592: dAtyOha : VS. xxiv, 25, 39 : VS. xxiv, 25. 39 : print change
+151108 : BImala : VS. 30, 6 : VS. xxx, 6 : print change
+219021 : Sukriya : VS. 36-40 : VS. xxxvi — xxxx : print change
 -----------------------------------------------------------------------
-11-08-2025
-Github users @funderburkjim
-Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue124fix)
+11-15-2025
+@aumsanskrit
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3535794333
+@Andhrabharati
+ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/100#issuecomment-3530881857
 code : Headword : Old  : New : Comment
+2615 : atiCattra : ati—Cattra or ati—Cattraka : ati—cCattra or ati—cCattraka : headword change
+2615.1 : atiCattraka : ati—Cattra or ati—Cattraka : ati—cCattra or ati—cCattraka : headword change
+2617 : atiCattrA : ati—CattrA or ati—CattrakA : ati—cCattrA or ati—cCattrakA :  headword change
+2617.1 : atiCattrakA : ati—CattrA or ati—CattrakA : ati—cCattrA or ati—cCattrakA :  headword change
 ------------------------------------------------------------------------
