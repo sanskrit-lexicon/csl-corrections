@@ -590,3 +590,187 @@ Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue98fix)
 code : Headword : Old  : New : Comment
 116886 : hi : YĀJÑ. 2,190. 8,283. : YĀJÑ. 2,190. 3,283.
 -----------------------------------------------------------------------
+11-18-2025
+Github users @Andhrabharati, @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/170/  (issue98fix/issue84pwg/)
+   In the reference, the following are from change_pwg_3a.txt
+code : Headword : Old  : New : Comment
+840 : acCAvAka : ŚAT. BR. 13,3,4,6 : ŚAT. BR. 13,3,3,6 : 
+1073 : aYjasA : ŚAT. BR. 2,7,3,7 : ŚAT. BR. 3,7,3,7 : 
+6130 : alam : ŚAT. BR. 8,2,1,30. : ŚAT. BR. 3,2,1,30.  : 
+6130 : alam : ŚAT. BR. 9,5,7,4. : ŚAT. BR. 11,5,7,4. : 
+6351 : avatAna : ŚAT. BR. 11,1,1,21. : ŚAT. BR. 9,1,1,31. : 
+7311 : asant : ŚAT. BR. 10,4,1,30 : ŚAT. BR. 14,4,1,31 : 
+7974 : AgUrta : ŚAT. BR. 11,2,5,10 : ŚAT. BR. 11,2,4,10 : 
+9486 : Avid : ŚAT. BR. 5,2,5,31 : ŚAT. BR. 5,3,5,31 : 
+9940 : i : ŚAT. BR. 1,4,13,4. : ŚAT. BR. 1,4,1,34. : 
+10494 : IdfSa : ŚAT. BR. 14,6,4,2. : ŚAT. BR. 14,6,4,1. : 
+10616 : ukzavehat : ŚAT. BR. 14,4,4,6. : ŚAT. BR. 12,4,4,6. : 
+10870 : uttama : ŚAT. BR. 12,9,1,18. : ŚAT. BR. 12,9,1,8. : 
+10904 : uttaratas : ŚAT. BR. 14,4,2,38 : ŚAT. BR. 14,2,2,38 : 
+11850 : upanAmuka : ŚAT. BR. 2,2,4,24 : ŚAT. BR. 2,2,4,14 : 
+12780 : UrDva : ŚAT. BR. 11,1,1,44. : ŚAT. BR. 9,1,1,44. : 
+15071 : kar : ŚAT. BR. 3,5,2,25. : ŚAT. BR. 3,5,3,25. : 
+15071 : kar : ŚAT. BR. 10,2,7,15. :  ŚAT. BR. 13,2,7,15. : 
+15912 : kaSyapa : ŚAT. BR. 14,5,2,7 : ŚAT. BR. 14,5,2,6 : 
+23656 : graB : ŚAT. BR. 14,2,1,27. : ŚAT. BR. 14,3,1,22. : 
+24125 : Gfta :  ŚAT. BR. 11,6,5,4. :  ŚAT. BR. 11,5,6,4. : 
+24415 : cakzus : ŚAT. BR. 10,5,3,16 : ŚAT. BR. 10,5,3,6 : 
+24902 : car :  ŚAT. BR. 2,7,1,18 : ŚAT. BR. 14,7,1,18 : 
+25297 : ci : ŚAT. BR. 6,1,2,77. : ŚAT. BR. 6,1,2,17. : 
+25297 : ci : ŚAT. BR. 9,2,2,43 : ŚAT. BR. 9,1,2,43 : 
+28811 : tam : ŚAT. BR. 2,4,1,21. : ŚAT. BR. 2,4,2,21. : 
+30842 : tri :  ŚAT. BR. 3,2,7,6. : ŚAT. BR. 13,2,7,6. : 
+36186 : Dar : ŚAT. BR. 7,6,2,1 : ŚAT. BR. 8,6,2,1 : 
+42000 : pad : ŚAT. BR. 14,8,16,3 : ŚAT. BR. 14,9,1,3 : 
+42001 : pad : ŚAT. BR. 11,3,2,3 : ŚAT. BR. 11,3,3,3 : 
+42596 : parAvat : ŚAT. BR. 4,9,1,18. : ŚAT. BR. 14,9,1,18. : 
+42745 : paricAyya : <ls>ŚAT. BR.</ls> 5,4,11,3. :  : removed text as wrong, duplicates TS. 5,4,11,3
+43920 : pA : ŚAT. BR. 3,7,1,39. : ŚAT. BR. 3,7,1,29. : 
+44168 : pARqara : ŚAT. BR. 15,5,1,3 : ŚAT. BR. 14,5,1,3 : 
+44492 : pApa : ŚAT. BR. 13,1,5,8 :  ŚAT. BR. 13,1,5,4 : 
+51457 : Palaka : ŚAT. BR. 3,4,5,22 : ŚAT. BR. 3,5,4,22 : 
+53804 : Bagavant : ŚAT. BR. 10,5,6,3 : ŚAT. BR. 10,6,1,3 : 
+53972 : Badra : ŚAT. BR. 1,9,7,4. : ŚAT. BR. 1,9,1,4. : 
+57852 : marutvatIya : ŚAT. BR. 13,5,1,19 : ŚAT. BR. 13,5,119 : 
+72685 : gaveDuka : ŚAT. BR. 19,1,1,8 : ŚAT. BR. 9,1,1,8 : 
+81063 : yajYAyuDa : ŚAT. BR. 1,6,8,2 : ŚAT. BR. 12,5,2,8 : the printed number is a copy of the previous TS. citation!
+81660 : yavan : ŚAT. BR. 1,7,5,25 : ŚAT. BR. 1,7,2,25 : 
+81737 : yavya : ŚAT. BR. 1,7,2,46 : ŚAT. BR. 1,7,2,26 : 
+82581 : yozit : ŚAT. BR. 1,4,5,14 : ŚAT. BR. 1,4,5,13 : 
+84874 : ruc : ŚAT. BR. 5,3,10,3 : ŚAT. BR. 6,3,3,11 : 
+85104 : rUkzatA : ŚAT. BR. 13,8,3,18 : ŚAT. BR. 13,8,3,13 : 
+88301 : varuRa : ŚAT. BR. 2,3,2,20 : ŚAT. BR. 2,5,2,2 : 
+88902 : vazaw : ŚAT. BR. 1,6,1,25 : ŚAT. BR. 1,5,1,26 : 
+95108 : vfzwi : ŚAT. BR. 7,4,3,22 : ŚAT. BR. 7,4,2,22 : 
+95551 : vezaSri : ŚAT. BR. 8,5,8,3 : ŚAT. BR. 8,5,3,8 : 
+95892 : vEyAGrapadya : ŚAT. BR. 10,6,7,1 : ŚAT. BR. 10,6,1,7 : 
+96083 : vESvAnara : ŚAT. BR. 2,2,5,6 : ŚAT. BR. 5,5,2,6 : 
+96874 : vrata : ŚAT. BR. 5,7,6,1 : ŚAT. BR. 8,7,1,6 : 
+96874 : vrata : (TBR.) 2,5,1,7. : TS. 2,5,1,7. : 
+97972 : SaMBu : ŚAT. BR. 2,9,1,7 : ŚAT. BR. 1,9,1,7 : 
+101443 : SrapaRa : ŚAT. BR. 6,5,1,21 : ŚAT. BR. 6,5,2,21 : 
+102040 : Sliz : ŚAT. BR. 4,4,1,26 : ŚAT. BR. 4,1,1,26 : 
+103315 : sakft : ŚAT. BR. 1,2,3,11 : ŚAT. BR. 1,2,2,11 : 
+104731 : saMDi : ŚAT. BR. 1,6,3,55. : ŚAT. BR. 1,6,3,35. : 
+106587 : sarRIka : ŚAT. BR. 4,4,6,2 : TS. 4,4,6,2 : 
+106626 : sarpavid : ŚAT. BR. 10,5,3,20 : ŚAT. BR. 10,5,2,20 : 
+106891 : sarvaprAyaScitta : ŚAT. BR. 11,8,1,8 : ŚAT. BR. 12,4,1,8  : 
+108598 : sAyakAyana : ŚAT. BR. 10,3,6,10. 5,2,1 : ŚAT. BR. 10,4,1,10. 9,5,2,1: 
+110337 : sudeva : ŚAT. BR. 11,5,1,18 : ŚAT. BR. 11,5,1,8 : 
+110577 : suparRacit : ŚAT. BR. 5,7,2,8. : ŚAT. BR. 6,7,2,8. : 
+116521 : havis : ŚAT. BR. 13,2,8,6. : ŚAT. BR. 13,3,8,6. : 
+117730 : hotrA : ŚAT. BR. 14,2,1,29. : ŚAT. BR. 4,2,1,29. : 
+-----------------------------------------------------------------------
+11-18-2025
+Github users @Andhrabharati, @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/170/  (issue98fix/issue84pwg/)
+   In the reference, the following are from change_pwg_3b.txt
+code : Headword : Old  : New : Comment
+; pc: 1694 : adas : (ŚAT. BR.)6,4,1,19. : (ŚAT. BR.)6,3,1,19. : p
+; pc: 1967 : aDidevatam : (ŚAT. BR. 14,6,)7,76. : (ŚAT. BR. 14,6,)7,16. : p
+; pc: 1976 : aDipati : (ŚAT. BR. 14,7,)2,34. : (ŚAT. BR. 14,7,)2,24. : p
+; pc: 2645 : anirukta : (ŚAT. BR.)14,3,2,75. : (ŚAT. BR.)14,3,2,15. : p
+; pc: 2801 : anudita : (ŚAT. BR. 2,)3,7,2. : (ŚAT. BR. 2,)3,1,2. : p
+; pc: 3453 : anDa : (ŚAT. BR.)19,9,2,9. : (ŚAT. BR.)14,9,2,9. : p
+; pc: 3503 : annapeya : (ŚAT. BR. 5,1,4,)25. : (ŚAT. BR. 5,1,5,)24. : ?? p
+; pc: 3801 : apabarhis : ŚAT. BR. 3,6,1,23. : ŚAT. BR. 2,6,1,23. : p
+; pc: 4526 : aBijit : (ŚAT. BR. 12,1,2,)12. : (ŚAT. BR. 12,1,)3,12. : p
+; pc: 4611 : aBiplava : (ŚAT. BR. 12,1,2,)10. : (ŚAT. BR. 12,1,3,)10. : p
+; pc: 5032 : aBva : (ŚAT. BR. 3,)4,17,5. : (AV.)4,17,5. : p
+; pc: 5131 : amAvAsya : (ŚAT. BR. 1,6,)8,32. : (ŚAT. BR. 1,)8,3,3. : p
+; pc: 5182 : amutas : (ŚAT. BR. 8,)7,1. 13. : (ŚAT. BR. 8)7,1,13 : p
+; pc: 5200 : amfta : (ŚAT. BR.)14,9,1,30 : (ŚAT. BR.)14,4,1,30 : p
+; pc: 5249 : amftezwakA : (ŚAT. BR.)11,1,2,43. : (ŚAT. BR.)9,1,2,43. : p
+; pc: 5431 : ayana : ŚAT. BR. 2,2,1,22. 23. 5,3,10 : ŚAT. BR. 2,1,4,25.  5,3,10 : p
+; pc: 5462 : ayasmaya : (ŚAT. BR.)13,3,5,5. : (ŚAT. BR.)13,3,4,5. : p
+; pc: 5981 : arDamAsa : (ŚAT. BR. 1,3,)4,19. : (ŚAT. BR. 1,)4,1,9. : p
+; pc: 6879 : aS : (ŚAT. BR. 2,4,)3,22. : (ŚAT. BR. 2,4,)3,13. : p
+; pc: 6879 : aS : (ŚAT. BR. 2,)6,1,40 : (ŚAT. BR. 2,)6,1,48. : p
+; pc: 6884 : aSana : (ŚAT. BR.)6,3,2,5. 12. : (ŚAT. BR.)1,6,3,5. 12. : p
+; pc: 6884 : aSana : (ŚAT. BR.)7,2,5. : (ŚAT. BR.)7,1,1,25. : p
+; pc: 6906 : aSAnta : (ŚAT. BR.)11,1,1,20. : (ŚAT. BR.)9,1,1,20. : p
+; pc: 7211 : azwan : (ŚAT. BR.)2,2,1,27. : (ŚAT. BR.)2,2,1,17. : p
+; pc: 7280 : asaMKyAta : (ŚAT. BR. 7,)9,11,6. 18. : (ŚAT. BR.)9,1,1,6. 18. : p
+; pc: 7607 : ah : (ŚAT. BR. 1,5,)2,33. : (ŚAT. BR. 1,)9,2,33. : p
+; pc: 7809 : AkASa : (ŚAT. BR.)14,3,5,6 : (ŚAT. BR.)14,5,3,6 : p
+; pc: 8481 : Adya : (ŚAT. BR. 1,3,)5,22. : (ŚAT. BR. 1,)5,2,2. : p
+; pc: 9341 : Arzeya : (ŚAT. BR. 1,4,)5,19. : (ŚAT. BR. 1,)5,1,9. : p
+; pc: 9721 : As : (ŚAT. BR.)6,7,1,39. : (ŚAT. BR.)6,7,1,19. : p
+; pc: 9782 : Asuri : (ŚAT. BR. 14,)7,3,37. : (ŚAT. BR. 14,)7,3,27. : p
+; pc: 9940 : i : (ŚAT. BR.)12,2,3,16. : (ŚAT. BR.)12,2,3,6. : p
+; pc: 9940 : i : (ŚAT. BR. 11,)7,1,13. : (ŚAT. BR. 11,)7,1,3. : p
+; pc: 10090 : iDma : (ŚAT. BR.)11,2,6,20. : (ŚAT. BR.)11,2,6,2. : p
+; pc: 10604 : ukTya : (ŚAT. BR. 12,)2,6,7. : (ŚAT. BR. 12,)2,2,6. : p
+; pc: 10604 : ukTya : (ŚAT. BR. 12,2,6,)12. : (ŚAT. BR. 12,2,)2,12. : p
+; pc: 10888 : uttara : (ŚAT. BR.)6,4,2,22. : (ŚAT. BR.)6,5,2,22. : p
+; pc: 12025 : upala : (ŚAT. BR. 2,)4,3,41. : (ŚAT. BR.)4,3,4,1. : p
+; pc: 13003 : fta : (ŚAT. BR.)13,3,1,18. : (ŚAT. BR.)13,5x,1,18. : p
+; pc: 13055 : ftu : (ŚAT. BR.)11,1,1,26 : (ŚAT. BR.)9,1,1,26 : p
+; pc: 13055 : ftu : (ŚAT. BR.)8,5,1,14. 21. 22. : (ŚAT. BR.)8,4,1,14. 21. 22. : p
+; pc: 13065 : ftupAtra : (ŚAT. BR.)5,5,8,12. : (ŚAT. BR. 4,)5,5,8. 12. : p
+; pc: 13375 : ekaSata : (ŚAT. BR. 10,)17,6,1. : (ŚAT. BR. 10,2)18. 6,1. : p
+; pc: 13509 : etAvant : (ŚAT. BR.)14,5,7,14. : (ŚAT. BR.)14,5,1,14. : p
+; pc: 21814 : gam : (ŚAT. BR. 12,4,1,)21. : (ŚAT. BR. 12,4,)2,1. : p
+; pc: 24649 : catuzpAda : (ŚAT. BR.)6,8,2,17. : (ŚAT. BR.)6,8,2,7. : p
+; pc: 24861 : camasa : (ŚAT. BR.)7,2,11,2. : (ŚAT. BR.)7,2,4,2. : p
+; pc: 24902 : car : (ŚAT. BR.)12,6,2,1. : (ŚAT. BR.)11,1,6,12. : p
+; pc: 24902 : car : (ŚAT. BR.)13,7,3,22. : (ŚAT. BR.)12,7,3,22. : p
+; pc: 25297 : ci : (ŚAT. BR.)9,5,5,15. : (ŚAT. BR.)9,5,2,15. : p
+; pc: 25359 : cit : (ŚAT. BR. 19,1,)5,4 : (ŚAT. BR. 10,1,)5,4 : p
+; pc: 25359 : cit : (ŚAT. BR.)19,1,4,9. : (ŚAT. BR.)10,1,4,9. : p
+; pc: 27705 : juzARa : (ŚAT. BR. 1,6,3,)43 : (ŚAT. BR. 1,6,3,)40 : p
+; pc: 29194 : tAdfS : (ŚAT. BR. 7,)9,2,3. : (ŚAT. BR.)9,2,2,3. : p
+; pc: 30476 : tejas : (ŚAT. BR.)14,6,2,27. : (ŚAT. BR.)14,6,7,27. : p
+; pc: 31328 : trEvaRi : (ŚAT. BR. 14,)7,4,27. : (ŚAT. BR. 14,)7,3,27. : p
+; pc: 31455 : tvac : (ŚAT. BR. 14,)6,7,26. 9,30,31. : (ŚAT. BR.14,)6,7,26. 9,30. 31. : p
+; pc: 31699 : daGna : (ŚAT. BR.)12,2,1,12. : (ŚAT. BR.)12,2,1,2. : p
+; pc: 32146 : darS : (ŚAT. BR.)13,2,3,14. : (ŚAT. BR.)13,2,2,14. : p
+; pc: 33120 : dIp : (ŚAT. BR. 14,)4,11,3. : (ŚAT. BR. 14,)4,1,13. : p
+; pc: 35697 : dvitIya : (ŚAT. BR.)3,17,3,9. : (ŚAT. BR. 1,)17. 9,3,9. : p
+; pc: 35718 : dvidevatya : (ŚAT. BR. 3,3,)4,1. 5,19. : (ŚAT. BR.)4,1,5,19. : p
+; pc: 36484 : DA : (ŚAT. BR.)13,6,1,2. 37. : (ŚAT. BR.)12,6,1,2. 37. : p
+; pc: 36831 : DU : (ŚAT. BR.)13,1,3,31. : (ŚAT. BR.)14,1,3,31. : p
+; pc: 40379 : nI : (ŚAT. BR. 1,)11,26,1. : (ŚAT. BR.)11,2,6,1. : p
+; pc: 41320 : pacana : (ŚAT. BR.)6,5,43,3. 4. : (ŚAT. BR.)6,5,4,4. : p
+; pc: 42384 : parama : (ŚAT. BR.)9,2,2,12. : (ŚAT. BR.)9,2,1,12. : p
+; pc: 43415 : parjanya : (ŚAT. BR. 6,)5,2,37. : (ŚAT. BR.)7,5,2,37. : p
+; pc: 43801 : paS : (ŚAT. BR. 6,)9,5,19. : (ŚAT. BR.)9,5,1,9. : p
+; pc: 45547 : pItudAru : (ŚAT. BR.)13,4,4,17. : (ŚAT. BR.)13,4,4,7. : p
+; pc: 45657 : pucCa : (ŚAT. BR. 7,)3,2,20. : (ŚAT. BR. 7,)3,2,10. : p
+; pc: 46157 : puruza : (ŚAT. BR.)14,5,2,1. 12. 13. 5,1 : (ŚAT. BR.)14,5,1,12. 13. 5,1 : p
+; pc: 53804 : Bagavant : (ŚAT. BR. 14,)8,1,12 : (ŚAT. BR. 14,6)8,1. 12. : p
+; pc: 54144 : Bar : (ŚAT. BR.)7,1,2,42. fg. : (ŚAT. BR.)14,1,2,14. fg. : p
+; pc: 57252 : man : (ŚAT. BR.)12,4,1,19. : (ŚAT. BR.)12,4,1,9. : p
+; pc: 81021 : yajYaveSasa : (ŚAT. BR.)13,2,3,3. : (ŚAT. BR.)13,2,4,3. : p
+; pc: 82848 : rakz : (ŚAT. BR.)13,7,6,3. : (ŚAT. BR.)13,1,6,3. : p
+; pc: 83366 : raTacakra : (ŚAT. BR.)11,8,1,11. : (ŚAT. BR.)11,8,1,1. : p
+; pc: 85093 : ruh : (ŚAT. BR. 12,4,3,)41. : (ŚAT. BR. 12,4,)4,11. : p
+; pc: 86698 : lokaMpfRa : (ŚAT. BR.)7,1,1,83. : (ŚAT. BR.)7,1,1,13. : p
+; pc: 88834 : valh : (ŚAT. BR.)12,4,2,28. : (ŚAT. BR.)12,4,2,8. : p
+; pc: 88998 : vasIyaMs : (ŚAT. BR. 3,4,)9,14. : (ŚAT. BR. 3,)9,1,4. : p
+; pc: 89201 : vaha : (ŚAT. BR. 1,)2,3,28. : (ŚAT. BR.)2,2,3,28. : p
+; pc: 89842 : vAtsya : (ŚAT. BR.)14,5,4,22. : (ŚAT. BR.)14,5,5,22. : p
+; pc: 90511 : vAva : (ŚAT. BR.)12,4,1,14. : (ŚAT. BR.)12,4,1,4. : p
+; pc: 91583 : vid : (ŚAT. BR. 11,)3,32,4. : ṚV. 3,32,4. : p
+; pc: 91583 : vid : (ŚAT. BR. 11,)5,32,5. : ṚV. 5,32,5. : p
+; pc: 91583 : vid : (ŚAT. BR. 11,)7,89,4. :  ṚV. 7,89,4. : p
+; pc: 91583 : vid : (ŚAT. BR. 11,7,)50,1. : (ṚV. 7,)50,1. : p
+; pc: 93931 : vizuvant : ŚAT. BR. 10,1,2,2. : ŚAT. BR. 12,1,2,2. : p
+; pc: 96184 : vOk : (ŚAT. BR.)16,4,1,3. : (ŚAT. BR.)10,4,1,3. : p
+; pc: 96994 : SaMyos : (ŚAT. BR. 1,)6,1,47. : (ŚAT. BR.)2,6,1,47. : p
+; pc: 97586 : Satarudriya : (ŚAT. BR.)10,1,5,3. 15. : (ŚAT. BR.)10. 13. 10,2,5,15.  : p
+; pc: 99148 : SAsa : (ŚAT. BR.)13,2,3,16. : (ŚAT. BR.)13,2,2,16. : p
+; pc: 100127 : Sukra : (ŚAT. BR.)5,9,4,6.  : (ŚAT. BR.)4,5,9,6. : p
+; pc: 101313 : SyAparRa : (ŚAT. BR.)10,4,1,40. : (ŚAT. BR.)10,4,1,10. : p
+; pc: 102112 : Svan : (ŚAT. BR.)19,9,2,14. : (ŚAT. BR.)14,9,2,14. : p
+; pc: 102199 : SvApada : (ŚAT. BR.)14,2,4,16. : (ŚAT. BR.)4,2,4,16. : p
+; pc: 106569 : sarj : ŚAT. BR. 1,7,3,21. 3,6,1. 7. : ŚAT. BR. 1,7,3,21. 3,6,1,7. : p
+; pc: 108217 : sADu : (ŚAT. BR.)11,2,7,53. : (ŚAT. BR.)11,2,7,33. : p
+; pc: 109696 : sukanyA : ŚAT. BR. 4,1,5,6. 10,13. : ŚAT. BR. 4,1,5,6. 10. 13. : p
+; pc: 109753 : sukfta : (ŚAT. BR. 4,)5,1,17. : (ŚAT. BR. 4,)5,1,7. : p
+; pc: 112139 : sUta : (ŚAT. BR. 13,)7,1,43. : (ŚAT. BR.)14,7,1,43. : p
+; pc: 114549 : sma : (ŚAT. BR. 1,)2,3,44. : (ŚAT. BR.)2,3,4,4. : p
+; pc: 10437 : izwi : (ŚAT. BR.)12,8,2,11. : (ŚAT. BR.)12,8,2,21. : p
+; pc: 10437 : izwi : (ŚAT. BR.)11,1,5,11. 7,2,2.10. 4,3,5.20. : (ŚAT. BR.)11,1,5,11. 2,6,7. 4,3,5. 20. : p
+-----------------------------------------------------------------------
