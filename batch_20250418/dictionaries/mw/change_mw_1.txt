@@ -1,0 +1,1180 @@
+; <L>975<pc>5,2<k1>agniD<k2>agni/—D<e>3
+3540 old <s>agni/—D</s> ¦ (<s>agni/-D</s>, <s>D</s> for <s>i/D</s> <ab>cf.</ab> <s>agnI/<srs/>D</s>) <lex>m.</lex> the priest who kindles the sacred fire, <ls>RV. ii, 1, 2</ls>; <ls n="RV.">x, 41, 3</ls>; <ls n="RV. x,">91, 10.</ls><info lex="m"/>
+;
+3540 new <s>agni/—D</s> ¦ (<s>agni/-D</s>, <s>D</s> for <s>i/D</s>; <ab>cf.</ab> <s>agnI/<srs/>D</s>) <lex>m.</lex> the priest who kindles the sacred fire, <ls>RV. ii, 1, 2</ls>; <ls n="RV.">x, 41, 3</ls>; <ls n="RV. x,">91, 10.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>1336<pc>6,3<k1>agraha<k2>a-graha<e>2B
+4873 old <s>a-graha</s> ¦ <lex>m.</lex> non acceptance, a houseless man <ab>i.e.</ab> a <s1>Vānaprastha</s1>, a <ns>Brāhman</ns> of the third class, <ls>L.</ls><info lex="m"/>
+;
+4873 new <s>a-graha</s> ¦ <lex>m.</lex> non-acceptance, a houseless man <ab>i.e.</ab> a <s1>Vānaprastha</s1>, a <ns>Brāhman</ns> of the third class, <ls>L.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>2469<pc>11,3<k1>aRqadala<k2>aRqa—dala<e>3
+8821 old <s>aRqa—dala</s> ¦ <lex>n.</lex> egg-shell.<info lex="n"/>
+;
+8821 new <s>aRqa—dala</s> ¦ <lex>n.</lex> eggshell.<info lex="n"/>
+;---------------------------------------------------
+; <L>4105.1<pc>1310,3<k1>aDovAsas<k2>aDo—vAsas<e>3
+14692 old <s>aDo—vAsas</s> ¦ <lex>n.</lex> an under garment, <ls>Mahān.</ls><info n="sup"/><info lex="n"/>
+;
+14692 new <s>aDo—vAsas</s> ¦ <lex>n.</lex> an undergarment, <ls>Mahān.</ls><info n="sup"/><info lex="n"/>
+;---------------------------------------------------
+; <L>5905<pc>30,1<k1>anila<k2>a/nila<e>1
+21348 old <s>a/nila</s> ¦ <lex>m.</lex> (√ <s>an</s> <ab>cf.</ab> <lang>Irish</lang> <etym>anal</etym>), air or wind<info lex="m"/><listinfo n="sup"/>
+;
+21348 new <s>a/nila</s> ¦ <lex>m.</lex> (√ <s>an</s>, <ab>cf.</ab> <lang>Irish</lang> <etym>anal</etym>), air or wind<info lex="m"/><listinfo n="sup"/>
+;---------------------------------------------------
+; <L>6236<pc>32,1<k1>anugraha<k2>anu-graha<e>2A
+22529 old ¦ rear-guard<info lex="inh"/>
+;
+22529 new ¦ rearguard<info lex="inh"/>
+;---------------------------------------------------
+; <L>6384<pc>33,1<k1>anuttAna<k2>an-uttAna<e>1
+23059 old <s>an-uttAna</s> ¦ <lex>mfn.</lex> lying with the face towards, the ground<info lex="m:f:n"/>
+;
+23059 new <s>an-uttAna</s> ¦ <lex>mfn.</lex> lying with the face towards the ground<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>6548<pc>34,1<k1>anuniSITam<k2>anu-niSITam<e>1
+23632 old <s>anu-niSITam</s> ¦ <lex>ind.</lex> at mid night, <ls>Kir.</ls><info lex="ind"/>
+;
+23632 new <s>anu-niSITam</s> ¦ <lex>ind.</lex> at midnight, <ls>Kir.</ls><info lex="ind"/>
+;---------------------------------------------------
+; <L>6682<pc>35,1<k1>anupalabDisama<k2>an-upalabDi—sama<e>3
+24112 old <s>an-upalabDi—sama</s> ¦ <lex>mf(<s>A</s>) </lex> trying to establish a fact (<ab>e.g.</ab> the reality and eternity of sound) from the impossibility of perceiving the non perception of it, sophistical argument, <ls>Nyāyad.</ls><info lex="m:f#A"/>
+;
+24112 new <s>an-upalabDi—sama</s> ¦ <lex>mf(<s>A</s>) </lex> trying to establish a fact (<ab>e.g.</ab> the reality and eternity of sound) from the impossibility of perceiving the non-perception of it, sophistical argument, <ls>Nyāyad.</ls><info lex="m:f#A"/>
+;---------------------------------------------------
+; <L>6733<pc>35,2<k1>anupAlu<k2>anu-pAlu<e>2
+24285 old <s>anu-pAlu</s> ¦ <lex>n.</lex> <ab>N.</ab> of a plant, wild <bot>Calladium</bot> (?). <info lex="n"/>
+;
+24285 new <s>anu-pAlu</s> ¦ <lex>n.</lex> <ab>N.</ab> of a plant, wild <bot>Caladium</bot> (?). <info lex="n"/>
+;---------------------------------------------------
+; <L>6798<pc>35,3<k1>anuprapAtam<k2>anu-prapAtam<e>2
+24554 old <s>anu-prapAtam</s> ¦ <lex>ind.</lex> going in succession, <ls>Pāṇ. iv, 3, 56</ls>, <ab>Sch.</ab><info lex="ind"/>
+;
+24554 new <s>anu-prapAtam</s> ¦ <lex>ind.</lex> going in succession, <ls>Pāṇ. iii, 4, 56</ls>, <ab>Sch.</ab><info lex="ind"/>
+;---------------------------------------------------
+; <L>6801<pc>35,3<k1>anuprapAdam<k2>anu-prapAdam<e>2
+24567 old <s>anu-prapAdam</s> ¦ <lex>ind.</lex> going in succession, <ls>Pāṇ. iv, 3, 56</ls>, <ab>Sch.</ab><info lex="ind"/>
+;
+24567 new <s>anu-prapAdam</s> ¦ <lex>ind.</lex> going in succession, <ls>Pāṇ. iii, 4, 56</ls>, <ab>Sch.</ab><info lex="ind"/>
+;---------------------------------------------------
+; <L>6891<pc>36,2<k1>anubala<k2>anu-bala<e>1
+24905 old <s>anu-bala</s> ¦ <lex>n.</lex> rear-guard, an auxiliary army following another.<info lex="n"/>
+;
+24905 new <s>anu-bala</s> ¦ <lex>n.</lex> rearguard, an auxiliary army following another.<info lex="n"/>
+;---------------------------------------------------
+; <L>7177<pc>38,1<k1>anulomAya<k2>anulomAya<e>3
+25909 old <s>anulomA<srs/>ya</s> ¦ <lex>mfn.</lex> having fortune favourable.<info lex="m:f:n"/>
+;
+25909 new <s>anulomA<srs/>ya</s> ¦ <lex>mfn.</lex> having fortune, favourable.<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>7498<pc>40,1<k1>anuzWi<k2>anu-zWi<e>2
+27058 old <s>anu-zWi</s> ¦ <lex>f.</lex> ‘being near, present, at hand’<info lex="f"/>
+;
+27058 new <s>anu-zWi</s> ¦ <lex>f.</lex> ‘being near, present, at hand,’ only <ab>inst.</ab><info lex="f"/>
+;---------------------------------------------------
+; <L>7498.1<pc>40,1<k1>anuzWyA<k2>anu-zWyA/<e>2C
+27061 old <s>anu-°zWyA/</s> ¦ <lex>ind.</lex> only <ab>inst.</ab> immediately, <ls>ŚBr.</ls> &c.<info lex="ind"/><info hui="a"/>
+;
+27061 new <s>anu-°zWyA/</s> ¦ <lex>ind.</lex> immediately, <ls>ŚBr.</ls> &c.<info lex="ind"/><info hui="a"/>
+;---------------------------------------------------
+; <L>7515<pc>40,2<k1>anuzRavallikA<k2>an-uzRa—vallikA<e>3
+27112 old <s>an-uzRa—vallikA</s> ¦ <lex>f.</lex> the plant <ns>Nīladūrbā</ns>.<info lex="f"/>
+;
+27112 new <s>an-uzRa—vallikA</s> ¦ <lex>f.</lex> the plant <ns>Nīladūrvā</ns>.<info lex="f"/>
+;---------------------------------------------------
+; <L>7520<pc>40,2<k1>anuzyanda<k2>anu-zyanda/<e>2
+27127 old <s>anu-zyanda/</s> ¦ <lex>m.</lex> a hind-wheel, <ls>ŚBr.</ls><info lex="m"/>
+;
+27127 new <s>anu-zyanda/</s> ¦ <lex>m.</lex> a hind wheel, <ls>ŚBr.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>7681.1<pc>41,2<k1>anUkya<k2>anUkya^<e>2A
+27711 old <L>7681.1<pc>41,2<k1>anUkya<k2>anUkya^<e>2A
+;
+27711 new <L>7681.1<pc>41,2<k1>anUkya<k2>anUkya^<e>2B
+;---------------------------------------------------
+; <L>7681.1<pc>41,2<k1>anUkya<k2>anUkya^<e>2A
+27712 old ¦ backbone, <ls>RV. x, 163, 2</ls>; <ls>AV.</ls><info lex="inh"/>
+;
+27712 new <s>anUkya^</s> ¦ <lex>n.</lex> backbone, <ls>RV. x, 163, 2</ls>; <ls>AV.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>7934<pc>42,3<k1>antapAla<k2>anta—pAla<e>3
+28697 old <s>anta—pAla</s> ¦ <lex>m.</lex> a frontier-guard.<info lex="m"/>
+;
+28697 new <s>anta—pAla</s> ¦ <lex>m.</lex> a frontier guard.<info lex="m"/>
+;---------------------------------------------------
+; <L>7998<pc>43,1<k1>antaHpavitra<k2>antaH—pavitra/<e>3
+28915 old <s>antaH—pavitra/</s> ¦ the <s1>Soma</s1> when in the straining-vessel, <ls>ŚBr.</ls>
+;
+28915 new <s>antaH—pavitra/</s> ¦ the <s1>Soma</s1> when in the straining vessel, <ls>ŚBr.</ls>
+;---------------------------------------------------
+; <L>8058<pc>43,2<k1>antarAkUwa<k2>antar—AkUwa<e>3
+29221 old <L>8058<pc>43,2<k1>antarAkUwa<k2>antar—AkUwa<e>3
+;
+29221 new <L>8058<pc>43,2<k1>antarAkUta<k2>antar—AkUta<e>3
+;---------------------------------------------------
+; <L>8058<pc>43,2<k1>antarAkUwa<k2>antar—AkUwa<e>3
+29222 old <s>antar—AkUwa</s> ¦ <lex>n.</lex> hidden intention.<info lex="n"/>
+;
+29222 new <s>antar—AkUta</s> ¦ <lex>n.</lex> hidden intention.<info lex="n"/>
+;---------------------------------------------------
+; <L>8135<pc>43,3<k1>antarmfta<k2>antar—mfta<e>3
+29528 old <s>antar—mfta</s> ¦ <lex>mfn.</lex> still-born, <ls>Suśr.</ls><info lex="m:f:n"/>
+;
+29528 new <s>antar—mfta</s> ¦ <lex>mfn.</lex> stillborn, <ls>Suśr.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>8154<pc>43,3<k1>antarvastra<k2>antar—vastra<e>3
+29609 old <s>antar—vastra</s> ¦ <lex>n.</lex> an under garment, <ls>Kathās.</ls><info lex="n"/>
+;
+29609 new <s>antar—vastra</s> ¦ <lex>n.</lex> an undergarment, <ls>Kathās.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>8157<pc>43,3<k1>antarvAsas<k2>antar—vAsas<e>3
+29621 old <s>antar—vAsas</s> ¦ <lex>n.</lex> an inner or under garment, <ls>Kathās.</ls><info lex="n"/>
+;
+29621 new <s>antar—vAsas</s> ¦ <lex>n.</lex> an inner or undergarment, <ls>Kathās.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>8373<pc>44,3<k1>antyaBa<k2>antya—Ba<e>3
+30396 old <s>antya—Ba</s> ¦ <lex>n.</lex> the last <s1>Nakṣatra</s1> (<s1>Revati</s1>)<info lex="n"/>
+;
+30396 new <s>antya—Ba</s> ¦ <lex>n.</lex> the last <s1>Nakṣatra</s1> (<s1>Revatī</s1>)<info lex="n"/>
+;---------------------------------------------------
+; <L>9079<pc>48,2<k1>apaguh<k2>apa-guh<e>1
+33099 old <s>apa-√ guh</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <ab>P.</ab> <s>-gUhas</s> <ab>Ā.</ab> <s>-gUhaTAS</s>; <ab>impf.</ab> 3. <ab>pl.</ab> <s>a/pA<srs/>gUhan</s>; <ab>aor.</ab> <s>-aGu-kzat</s>) to conceal, hide, <ls>RV.</ls>; <ls>AV.</ls><info verb="pre" cp="PĀ" parse="apa+guh"/>
+;
+33099 new <s>apa-√ guh</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <ab>P.</ab> <s>-gUhas</s>, <ab>Ā.</ab> <s>-gUhaTAs</s>; <ab>impf.</ab> 3. <ab>pl.</ab> <s>a/pA<srs/>gUhan</s>; <ab>aor.</ab> <s>-aGukzat</s>) to conceal, hide, <ls>RV.</ls>; <ls>AV.</ls><info verb="pre" cp="PĀ" parse="apa+guh"/>
+;---------------------------------------------------
+; <L>9231<pc>49,2<k1>apadava<k2>apa-dava<e>1
+33677 old <s>apa-dava</s> ¦ <lex>mfn.</lex> free from forest-fire.<info lex="m:f:n"/>
+;
+33677 new <s>apa-dava</s> ¦ <lex>mfn.</lex> free from forest fire.<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>9711<pc>52,2<k1>apavaraka<k2>apa-varaka<e>2
+35541 old <s>apa-varaka</s> ¦ <lex>m.</lex> an inner apartment, lying in chamber, <ls>Kathās.</ls><info lex="m"/><info hui="b"/>
+;
+35541 new <s>apa-varaka</s> ¦ <lex>m.</lex> an inner apartment, lying-in chamber, <ls>Kathās.</ls><info lex="m"/><info hui="b"/>
+;---------------------------------------------------
+; <L>10003<pc>54,1<k1>apAtrIkarana<k2>a-pAtrI-karana<e>2
+36662 old <L>10003<pc>54,1<k1>apAtrIkarana<k2>a-pAtrI-karana<e>2
+;
+36662 new <L>10003<pc>54,1<k1>apAtrIkaraRa<k2>a-pAtrI-karaRa<e>2
+;---------------------------------------------------
+; <L>10003<pc>54,1<k1>apAtrIkarana<k2>a-pAtrI-karana<e>2
+36663 old <s>a-pAtrI-karana</s> ¦ <lex>n.</lex> = <s>a-pAtra-kftyA</s>, <ls>Mn. xi, 69.</ls><info lex="n"/>
+;
+36663 new <s>a-pAtrI-karaRa</s> ¦ <lex>n.</lex> = <s>a-pAtra-kftyA</s>, <ls>Mn. xi, 69.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>10106<pc>54,3<k1>apAzWi<k2>apAzWi<e>2
+37021 old <s>apAzWi</s> ¦ = <s>apAzwi</s> in <ab>comp.</ab> with
+;
+37021 new <s>apAzWi</s> ¦ = <s>apAzwi</s> in <ab>comp.</ab> with <s>-ha/</s> or <s>-ha/n</s>, <lex type="nhw">mfn.</lex> killing with the claws, <ls>ŚBr.</ls>
+;---------------------------------------------------
+; <L>10782<pc>59,1<k1>aprastuta<k2>a-prastuta<e>1A
+39377 old ¦ not principal, not being the chief subject-matter<info lex="inh"/>
+;
+39377 new ¦ not principal, not being the chief subject matter<info lex="inh"/>
+;---------------------------------------------------
+; <L>10785<pc>59,1<k1>aprastutapraSaMsA<k2>a-prastuta—praSaMsA<e>3
+39386 old <s>a-prastuta—praSaMsA</s> or <s>a-prastuta—stuti</s>, ¦ <lex>f.</lex> ‘conveying the subject-matter by that which is not the subject-matter’, (in rhetoric) implied or indirect expression.<info lex="f"/>
+;
+39386 new <s>a-prastuta—praSaMsA</s> or <s>a-prastuta—stuti</s>, ¦ <lex>f.</lex> ‘conveying the subject matter by that which is not the subject matter’, (in rhetoric) implied or indirect expression.<info lex="f"/>
+;---------------------------------------------------
+; <L>10787<pc>59,1<k1>aprastAvika<k2>a-prastAvika<e>2
+39392 old <s>a-prastAvika</s> ¦ <lex>mf(<s>I</s>)n.</lex> irrelevant to the subject-matter, <ls>Mālatīm.</ls><info lex="m:f#I:n"/>
+;
+39392 new <s>a-prastAvika</s> ¦ <lex>mf(<s>I</s>)n.</lex> irrelevant to the subject matter, <ls>Mālatīm.</ls><info lex="m:f#I:n"/>
+;---------------------------------------------------
+; <L>10796<pc>59,1<k1>aprAkaraRika<k2>a-prAkaraRika<e>1
+39422 old <s>a-prAkaraRika</s> ¦ <lex>mfn.</lex> not connected with the subject-matter <ab>Comm.</ab> on <ls>Mn. iii, 285.</ls><info lex="m:f:n"/>
+;
+39422 new <s>a-prAkaraRika</s> ¦ <lex>mfn.</lex> not connected with the subject matter <ab>Comm.</ab> on <ls>Mn. iii, 285.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>11040<pc>60,2<k1>abjA<k2>ab-jA/<e>2
+40226 old <s>ab-jA/</s> ¦ <lex>mfn.</lex> born, in water, <ls>RV. iv, 40, 5</ls> and <ls n="RV.">vii, 34, 16.</ls><info lex="m:f:n"/>
+;
+40226 new <s>ab-jA/</s> ¦ <lex>mfn.</lex> born in water, <ls>RV. iv, 40, 5</ls> and <ls n="RV.">vii, 34, 16.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>11063<pc>60,2<k1>abDikaPa<k2>ab-Di—kaPa<e>3
+40304 old <s>ab-Di—kaPa</s> ¦ <lex>m.</lex> cuttle fish bone, being considered as the froth of the sea.<info lex="m"/>
+;
+40304 new <s>ab-Di—kaPa</s> ¦ <lex>m.</lex> cuttlefish bone, being considered as the froth of the sea.<info lex="m"/>
+;---------------------------------------------------
+; <L>11073<pc>60,2<k1>abDiPena<k2>ab-Di—Pena<e>3
+40334 old <s>ab-Di—Pena</s> ¦ <lex>m.</lex> cuttle fish bone.<info lex="m"/>
+;
+40334 new <s>ab-Di—Pena</s> ¦ <lex>m.</lex> cuttlefish bone.<info lex="m"/>
+;---------------------------------------------------
+; <L>11185<pc>61,1<k1>aBi<k2>aBi/<h>1<e>1
+40730 old <hom>1.</hom> <s>aBi/</s> ¦ <lex>ind.</lex> (a prefix to verbs and nouns, expressing) to, towards, into, over, upon. (As a prefix to verbs of motion) it expresses the notion or going towards, approaching, &c. (As a prefix to nouns not derived from verbs) it expresses superiority, intensity, &c.<info lex="ind"/><info n="rev" pc="1315,1"/>
+;
+40730 new <hom>1.</hom> <s>aBi/</s> ¦ <lex>ind.</lex> (a prefix to verbs and nouns, expressing) to, towards, into, over, upon. (As a prefix to verbs of motion) it expresses the notion of moving or going towards, approaching, &c. (As a prefix to nouns not derived from verbs) it expresses superiority, intensity, &c.; <ab>e.g.</ab> <s>aBi-tAmra</s>, <s>aBi-nava</s>, <ab>q.v.</ab> <info lex="ind"/><info n="rev" pc="1315,1"/>
+;---------------------------------------------------
+; <L>11185.1<pc>61,1<k1>aBi<k2>aBi/<e>1A
+40733 old ¦ <ab>e.g.</ab> <s>aBi-tAmra</s>, <s>aBi-nava</s>, <ab>q.v.</ab> (As a separate adverb or preposition) it expresses (with <ab>acc.</ab>) to, towards, in the direction of, against<info lex="inh"/>
+;
+40733 new ¦ (As a separate adverb or preposition) it expresses (with <ab>acc.</ab>) to, towards, in the direction of, against<info lex="inh"/>
+;---------------------------------------------------
+; <L>11276<pc>61,3<k1>aBigamya<k2>aBi-gamya<e>2A
+41104 old ¦ accessible, tempting (for, a visit), <ls>Ragh. i, 16.</ls><info lex="inh"/>
+;
+41104 new ¦ accessible, tempting (for a visit), <ls>Ragh. i, 16.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>11328<pc>62,1<k1>aBiGAraRa<k2>aBi-GAraRa<e>2
+41283 old <s>aBi-GAraRa</s> ¦ <lex>n.</lex> the act of sprinkling ghee, be sprinkling, <ls>Kauś.</ls>; <ls>KātyŚr.</ls><info lex="n"/>
+;
+41283 new <s>aBi-GAraRa</s> ¦ <lex>n.</lex> the act of sprinkling ghee, besprinkling, <ls>Kauś.</ls>; <ls>KātyŚr.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>12065<pc>67,2<k1>aBimih<k2>aBi-mih<e>1
+43842 old <s>aBi-√ mih</s> ¦ (<ab>pr. p.</ab> <ab>gen.</ab> <ab>sg.</ab> <lex type="part">m.</lex> <s>-mehatas</s>) to wet (by urining upon), <ls>Yājñ. ii, 293.</ls><info verb="pre" cp="" parse="aBi+mih"/>
+;
+43842 new <s>aBi-√ mih</s> ¦ (<ab>pr. p.</ab> <ab>gen.</ab> <ab>sg.</ab> <lex type="part">m.</lex> <s>-mehatas</s>) to wet (by urinating upon), <ls>Yājñ. ii, 293.</ls><info verb="pre" cp="" parse="aBi+mih"/>
+;---------------------------------------------------
+; <L>12066<pc>67,2<k1>aBimihya<k2>aBi-mi/hya<e>2
+43845 old <s>aBi-mi/hya</s> ¦ <lex>mfn.</lex> to be wetted (by urining upon), <ls>ŚBr.</ls><info lex="m:f:n"/>
+;
+43845 new <s>aBi-mi/hya</s> ¦ <lex>mfn.</lex> to be wetted (by urinating upon), <ls>ŚBr.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>14000<pc>81,1<k1>amalAtaka<k2>a-malAtaka<e>1
+50403 old <s>a-malAtaka</s> or <s>a-malAnaka</s> ¦ <lex>n.</lex> (<s>a mlAna</s>, <ab>q.v.</ab>) globe amaranth (<bot>Gomphrena Globosa</bot>), (<ab>cf.</ab> <s>amilAtaka</s>.)<info lex="n"/>
+;
+50403 new <s>a-malAtaka</s> or <s>a-malAnaka</s> ¦ <lex>n.</lex> (= <s>a-mlAna</s>, <ab>q.v.</ab>) globe amaranth (<bot>Gomphrena Globosa</bot>), (<ab>cf.</ab> <s>amilAtaka</s>.)<info lex="n"/>
+;---------------------------------------------------
+; <L>14225<pc>82,2<k1>amftaprASana<k2>a-mfta—prASana<e>3
+51342 old <s>a-mfta—prA<srs/>Sana</s> or <s>a-mfta—prA<srs/>sin</s>, ¦ <lex>m.</lex> ‘living on <s1>Amṛta</s1>’, a god, <ls>R.</ls><info lex="m"/>
+;
+51342 new <s>a-mfta—prA<srs/>Sana</s> or <s>a-mfta—prA<srs/>Sin</s>, ¦ <lex>m.</lex> ‘living on <s1>Amṛta</s1>’, a god, <ls>R.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>14226<pc>82,2<k1>amftaprAsin<k2>a-mfta—prAsin<e>3
+51344 old <L>14226<pc>82,2<k1>amftaprAsin<k2>a-mfta—prAsin<e>3
+;
+51344 new <L>14226<pc>82,2<k1>amftaprASin<k2>a-mfta—prASin<e>3
+;---------------------------------------------------
+; <L>14302<pc>82,3<k1>amftopastaraRa<k2>amftopasta/raRa<e>3
+51600 old <s>amfto<srs/>pasta/raRa</s> ¦ <lex>n.</lex> water sipped as a substratum for the nectar like food, <ls>ĀśvGṛ.</ls> & <ls>MānGṛ.</ls><info lex="n"/>
+;
+51600 new <s>amfto<srs/>pasta/raRa</s> ¦ <lex>n.</lex> water sipped as a substratum for the nectar-like food, <ls>ĀśvGṛ.</ls> & <ls>MānGṛ.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>14303<pc>82,3<k1>amftopastaraRa<k2>amftopasta/raRa<e>3A
+51603 old ¦ an imperishable substratum, <ls>TĀr.</ls> (<ab>cf.</ab> <s>amptA<srs/>piDAna/</s>). <info lex="inh"/>
+;
+51603 new ¦ an imperishable substratum, <ls>TĀr.</ls> (<ab>cf.</ab> <s>amftA<srs/>piDAna/</s>). <info lex="inh"/>
+;---------------------------------------------------
+; <L>14306<pc>82,3<k1>amftAyana<k2>amftAyana<e>2
+51613 old <s>amftAyana</s> ¦ <lex>mfn.</lex> nectar like, <ls>BhP.</ls><info lex="m:f:n"/>
+;
+51613 new <s>amftAyana</s> ¦ <lex>mfn.</lex> nectar-like, <ls>BhP.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>14311<pc>82,3<k1>amftyu<k2>a/-mftyu<e>1
+51628 old <s>a/-mftyu</s> ¦ <lex>m.</lex> non death, immortality, <ls>ŚBr. xiii</ls>; <ls>KauṣUp.</ls><info lex="m"/>
+;
+51628 new <s>a/-mftyu</s> ¦ <lex>m.</lex> non-death, immortality, <ls>ŚBr. xiii</ls>; <ls>KauṣUp.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>14347<pc>83,1<k1>amokza<k2>a-mokza<e>1B
+51745 old <s>a-mokza</s> ¦ <lex>m.</lex> want of freedom, bondage confinement<info lex="m"/>
+;
+51745 new <s>a-mokza</s> ¦ <lex>m.</lex> want of freedom, bondage, confinement<info lex="m"/>
+;---------------------------------------------------
+; <L>14348<pc>83,1<k1>amokza<k2>a-mokza<e>1B
+51748 old ¦ non liberation (from mundane existence). <info lex="inh"/>
+;
+51748 new ¦ non-liberation (from mundane existence). <info lex="inh"/>
+;---------------------------------------------------
+; <L>14421<pc>83,2<k1>ambarOkas<k2>ambarOkas<e>3
+52018 old <s>ambarO<srs/>kas</s> ¦ <lex>m.</lex> ‘sky-dweller’, a good, <ls>Kum. v, 79.</ls><info lex="m"/>
+;
+52018 new <s>ambarO<srs/>kas</s> ¦ <lex>m.</lex> ‘sky-dweller’, a god, <ls>Kum. v, 79.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>14650<pc>84,2<k1>amlaka<k2>amlaka<e>2
+52849 old <s>amlaka</s> ¦ <lex>m.</lex> the plant <bot>Artocarpus Lakuca</bot><info lex="m"/>
+;
+52849 new <s>amlaka</s> ¦ <lex>m.</lex> the plant <bot>Artocarpus Lakucha</bot><info lex="m"/>
+;---------------------------------------------------
+; <L>14745<pc>84,3<k1>ayantra<k2>a-yantra/<e>1
+53161 old <s>a-yantra/</s> ¦ <lex>n.</lex> non restraint, not a means of restraining, <ls>RV. x, 46, 6</ls>, (<ab>cf.</ab> <s>paSv-a/yantra</s>.)<info lex="n"/>
+;
+53161 new <s>a-yantra/</s> ¦ <lex>n.</lex> non-restraint, not a means of restraining, <ls>RV. x, 46, 6</ls>, (<ab>cf.</ab> <s>paSv-a/yantra</s>.)<info lex="n"/>
+;---------------------------------------------------
+; <L>15073<pc>86,3<k1>araRyakulaTikA<k2>araRya—kulaTikA<e>3
+54297 old <L>15073<pc>86,3<k1>araRyakulaTikA<k2>araRya—kulaTikA<e>3
+;
+54297 new <L>15073<pc>86,3<k1>araRyakulatTikA<k2>araRya—kulatTikA<e>3
+;---------------------------------------------------
+; <L>15073<pc>86,3<k1>araRyakulaTikA<k2>araRya—kulaTikA<e>3
+54298 old <s>araRya—kulaTikA</s> ¦ <lex>f.</lex> the plant <bot>Glycine Labialis</bot> <ab>Lin.</ab>, <ls>L.</ls><info lex="f"/>
+;
+54298 new <s>araRya—kulatTikA</s> ¦ <lex>f.</lex> the plant <bot>Glycine Labialis</bot> <ab>Lin.</ab>, <ls>L.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>15120<pc>86,3<k1>araRyAyana<k2>araRyAyana<e>3
+54448 old <s>araRyA<srs/>yana</s> ¦ <lex>n.</lex> going into a forest becoming a hermit, <ls>ChUp.</ls><info lex="n"/>
+;
+54448 new <s>araRyA<srs/>yana</s> ¦ <lex>n.</lex> going into a forest, becoming a hermit, <ls>ChUp.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>15171.1<pc>87,1<k1>aram<k2>a/ram<e>1A
+54602 old ¦ (with <s>puru/</s>, or <s>priTu/</s>) enough, sufficiently, <ls>RV. i, 142, 10</ls> and <ls n="RV.">v, 66, 5</ls> with <ab>dat.</ab>, <ab>e.g.</ab> (<s>Baktaya</s>) <ab>id.</ab>, <ls>Pāṇ. viii, 2, 18</ls>, <ls>Kāś.</ls> [<ab>cf.</ab> <s>a/lam</s> and <lang>Gk.</lang> <gk>ἄρα</gk>]. <info lex="inh"/>
+;
+54602 new ¦ (with <s>puru/</s> or <s>pfTu/</s>) enough, sufficiently, <ls>RV. i, 142, 10</ls> and <ls n="RV.">v, 66, 5</ls> with <ab>dat.</ab>, <ab>e.g.</ab> (<s>BaktAya</s>) <ab>id.</ab>, <ls>Pāṇ. viii, 2, 18</ls>, <ls>Kāś.</ls> [<ab>cf.</ab> <s>a/lam</s> and <lang>Gk.</lang> <gk>ἄρα</gk>]. <info lex="inh"/>
+;---------------------------------------------------
+; <L>15372.1<pc>88,1<k1>arizwatAti<k2>a-rizwa/—tAti<e>3B
+55280 old <s>a-rizwa/—tAti</s> ¦ <lex>mfn.</lex> = <s>arizwasya kara</s> making fortunate auspicious, <ls>Pāṇ. iv, 4, 143.</ls><info lex="m:f:n"/>
+;
+55280 new <s>a-rizwa/—tAti</s> ¦ <lex>mfn.</lex> = <s>arizwasya kara</s> making fortunate, auspicious, <ls>Pāṇ. iv, 4, 143.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>15375<pc>88,1<k1>arizwanemin<k2>a-rizwa—nemin<e>3
+55304 old <s>a-rizwa—nemin</s> ¦ <lex>m.</lex> <ab>N.</ab> of a brother of <s1>Gauḍa</s1> (= <s1>Aruṇa</s1> <ab>Comm.</ab>), <ls>R. v, 2, 10</ls><info lex="m"/>
+;
+55304 new <s>a-rizwa—nemin</s> ¦ <lex>m.</lex> <ab>N.</ab> of a brother of <s1>Garuḍa</s1> (= <s1>Aruṇa</s1> <ab>Comm.</ab>), <ls>R. v, 2, 10</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>15377<pc>88,1<k1>arizwanemin<k2>a-rizwa—nemin<e>3A
+55310 old ¦ of the twenty-second <s1>Tīrthaṃkara</s1> (see <s>nemi</s>), <ls>L.</ls><info lex="inh"/>
+;
+55310 new ¦ of the twenty-second <s1>Tīrthaṃkara</s1> (see <s>-nemi</s>), <ls>L.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>15494<pc>88,3<k1>aruza<k2>aruza/<h>1<e>1
+55719 old <hom>1.</hom> <s>aruza/</s> ¦ <lex>mf(<s>a/ruzI</s>, <ls>RV. i, 92, 1</ls> and <ls n="RV. i, 92,">2</ls>; <ls n="RV.">x, 5, 5</ls>)n.</lex> red reddish (the colour of <s1>Agni</s1> and his horses, of cows, of the team of <s1>Uṣas</s1>, the <s1>Aśvin</s1>s, &c.), <ls>RV.</ls> & <ls>VS.</ls><info lex="m:f#A:f#I:n"/>
+;
+55719 new <hom>1.</hom> <s>aruza/</s> ¦ <lex>mf(<s>a/ruzI</s>, <ls>RV. i, 92, 1</ls> and <ls n="RV. i, 92,">2</ls>; <ls n="RV.">x, 5, 5</ls>)n.</lex> red, reddish (the colour of <s1>Agni</s1> and his horses, of cows, of the team of <s1>Uṣas</s1>, the <s1>Aśvin</s1>s, &c.), <ls>RV.</ls> & <ls>VS.</ls><info lex="m:f#A:f#I:n"/>
+;---------------------------------------------------
+; <L>15631.1<pc>89,2<k1>arkamUlA<k2>arka—mUlA<e>3B
+56196 old <s>arka—mUlA</s> ¦ <lex>f.</lex> (= <s>-pattra</s>, <ab>q.v.</ab>) <bot>Aristolochia Indica</bot>, <ls>L.</ls><info lex="f"/>
+;
+56196 new <s>arka—mUlA</s> ¦ <lex>f.</lex> (= <s>-pattrA</s>, <ab>q.v.</ab>) <bot>Aristolochia Indica</bot>, <ls>L.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>15655<pc>89,2<k1>arkASman<k2>arkASman<e>3
+56280 old <s>arkA<srs/>Sman</s> ¦ <lex>m.</lex> heliotrope girasol, crystal, <ls>L.</ls><info lex="m"/>
+;
+56280 new <s>arkA<srs/>Sman</s> ¦ <lex>m.</lex> heliotrope, girasol, crystal, <ls>L.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>15776<pc>90,2<k1>arjunamiSra<k2>arjuna—miSra<e>3
+56703 old <s>arjuna—miSra</s> ¦ <lex>n.</lex> <ab>N.</ab> of a commentator on <ls>MBh. vi.</ls><info lex="n"/>
+;
+56703 new <s>arjuna—miSra</s> ¦ <lex>m.</lex> <ab>N.</ab> of a commentator on <ls>MBh. vi.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>17797<pc>102,1<k1>avamehana<k2>ava-mehana<e>2
+63805 old <s>ava-mehana</s> ¦ <lex>n.</lex> urining upon, <ls>BhP.</ls><info lex="n"/>
+;
+63805 new <s>ava-mehana</s> ¦ <lex>n.</lex> urinating upon, <ls>BhP.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>17805<pc>102,1<k1>avamUtraRa<k2>ava-mUtraRa<e>2
+63839 old <s>ava-mUtraRa</s> ¦ <lex>n.</lex> urining upon, <ls>Car.</ls><info lex="n"/>
+;
+63839 new <s>ava-mUtraRa</s> ¦ <lex>n.</lex> urinating upon, <ls>Car.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>18723<pc>108,1<k1>avicAraRa<k2>a-vicAraRa<e>2
+67013 old <s>a-vicAraRa</s> ¦ <lex>n.</lex> non deliberation, non-hesitation<info lex="n"/>
+;
+67013 new <s>a-vicAraRa</s> ¦ <lex>n.</lex> non-deliberation, non-hesitation<info lex="n"/>
+;---------------------------------------------------
+; <L>20354<pc>117,2<k1>as<k2>as<h>2<e>1
+72838 old <hom>2.</hom> <s>as</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>a/syati</s> (<ab>p.</ab> <s>a/syat</s>; <ab>impf.</ab> <s>A/syat</s>, <ls>AV.</ls> [<ab>cf.</ab> <s>parA<srs/>s</s> and <s>vy-as</s>]; <ab>fut.</ab> <ab>p.</ab> <s>asizya/t</s>; <ab>aor.</ab> <s>AsTat</s> [<ls>Nir. ii, 2</ls>; <ls>Pāṇ. vii, 4, 17</ls>; <ab>cf.</ab> <s>vy-as</s>]; <ab>perf.</ab> <ab>P.</ab> <s>Asa</s> [<ab>cf.</ab> <s>parA<srs/>s</s>] <ab>Ā.</ab> <s>Ase</s> [<ab>cf.</ab> <s>vy-as</s>]; <lang>Ved.</lang> <ab>Inf.</ab> <s>a/stave</s>, <ls>VS.</ls>)
+;
+72838 new <hom>2.</hom> <s>as</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>a/syati</s> (<ab>p.</ab> <s>a/syat</s>; <ab>impf.</ab> <s>A/syat</s>, <ls>AV.</ls> [<ab>cf.</ab> <s>parA<srs/>s</s> and <s>vy-as</s>]; <ab>fut.</ab> <ab>p.</ab> <s>asizya/t</s>; <ab>aor.</ab> <s>AsTat</s> [<ls>Nir. ii, 2</ls>; <ls>Pāṇ. vii, 4, 17</ls>; <ab>cf.</ab> <s>vy-as</s>]; <ab>perf.</ab> <ab>P.</ab> <s>A/sa</s> [<ab>cf.</ab> <s>parA<srs/>s</s>] <ab>Ā.</ab> <s>Ase</s> [<ab>cf.</ab> <s>vy-as</s>]; <lang>Ved.</lang> <ab>Inf.</ab> <s>a/stave</s>, <ls>VS.</ls>)
+;---------------------------------------------------
+; <L>23320<pc>134,1<k1>ARqakapAla<k2>ARqa—kapAla<e>3
+83018 old <s>ARqa—kapAla</s> ¦ <lex>n.</lex> an egg-shell, <ls>ChUp.</ls><info lex="n"/>
+;
+83018 new <s>ARqa—kapAla</s> ¦ <lex>n.</lex> an eggshell, <ls>ChUp.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>23970<pc>137,2<k1>AdiS<k2>A-diS<h>1<e>1
+85256 old <hom>1.</hom> <s>A-√ diS</s> ¦ <ab>P.</ab> <s>-dide/zwi</s> [<ab>Subj.</ab> 3. <ab>sg.</ab> <s>-dideSati</s>, <ls>AV. vi, 6, 2</ls>, &c.], <s>-diSa/ti</s> [3. <ab>pl.</ab> <s>-diSanti</s> <ab>Impv.</ab> 2. <ab>sg.</ab> <s>-diSa</s> <ab>impf.</ab> 1. <ab>sg.</ab> <s>A<srs/>diSam</s>, &c.], rarely <s>-diSate</s> [<ls>BhP. viii, 24, 51</ls>] <ab>inf.</ab> <s>-di/Se</s> [<ls>RV. ix, 21, 5</ls>] and <s>-dezwum</s> (<ab>aor.</ab> 3. <ab>sg.</ab> <s>A<srs/>dikzat</s> [<ls>Bhaṭṭ. iii, 3</ls> See <ls>Pāṇ. iii, 1, 45</ls>] <ab>fut.</ab> 1. <ab>pl.</ab> <s>-dekzyAmaH</s>, <ab>perf.</ab> <s>-dideSa</s>) to aim at, have in view;
+;
+85256 new <hom>1.</hom> <s>A-√ diS</s> ¦ <ab>P.</ab> <s>-dide/zwi</s> [<ab>Subj.</ab> 3. <ab>sg.</ab> <s>-dideSati</s>, <ls>AV. vi, 6, 2</ls>, &c.], <s>-diSa/ti</s> [3. <ab>pl.</ab> <s>-diSanti</s>, <ab>Impv.</ab> 2. <ab>sg.</ab> <s>-diSa</s> <ab>impf.</ab> 1. <ab>sg.</ab> <s>A<srs/>diSam</s>, &c.], rarely <s>-diSate</s> [<ls>BhP. viii, 24, 51</ls>] <ab>inf.</ab> <s>-di/Se</s> [<ls>RV. ix, 21, 5</ls>] and <s>-dezwum</s> (<ab>aor.</ab> 3. <ab>sg.</ab> <s>A<srs/>dikzat</s> [<ls>Bhaṭṭ. iii, 3</ls> See <ls>Pāṇ. iii, 1, 45</ls>] <ab>fut.</ab> 1. <ab>pl.</ab> <s>-dekzyAmaH</s>, <ab>perf.</ab> <s>-dideSa</s>) to aim at, have in view;
+;---------------------------------------------------
+; <L>24743<pc>142,1<k1>Ap<k2>Ap<h>1<e>1
+87788 old <hom>1.</hom> <s>Ap</s> ¦ <ab>cl.</ab> 5. <ab>P.</ab> <s>Apno/ti</s> [<ls>AV. ix, 5, 22</ls>, &c.], (<ab>perf.</ab> <s>Apa</s> <ab>aor.</ab> <s>Apat</s> <ab>fut.</ab> <s>Apsyati</s> <ab>inf.</ab> <s>Aptum</s>) <ab>Ā.</ab> (<ab>perf.</ab> 3. <ab>pl.</ab> <s>Apire/</s>, <ls>RV. ix, 108, 4</ls>, <ab>p.</ab> <ab>pf.</ab> <s>ApAna/</s>, <ls>RV. ii, 34, 7</ls>, but also <ab>pres.</ab> <ab>p.</ab> <s>A/pnAna</s>, <ls>RV. x, 114, 7</ls>) to reach, overtake, meet with, fall upon, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> &c.;
+;
+87788 new <hom>1.</hom> <s>Ap</s> ¦ <ab>cl.</ab> 5. <ab>P.</ab> <s>Apno/ti</s> [<ls>AV. ix, 5, 22</ls>, &c.], (<ab>perf.</ab> <s>Apa</s>, <ab>aor.</ab> <s>Apat</s>, <ab>fut.</ab> <s>Apsyati</s>, <ab>inf.</ab> <s>Aptum</s>), <ab>Ā.</ab> (<ab>perf.</ab> 3. <ab>pl.</ab> <s>Apire/</s>, <ls>RV. ix, 108, 4</ls>, <ab>p.</ab> <ab>pf.</ab> <s>ApAna/</s>, <ls>RV. ii, 34, 7</ls>, but also <ab>pres.</ab> <ab>p.</ab> <s>A/pnAna</s>, <ls>RV. x, 114, 7</ls>) to reach, overtake, meet with, fall upon, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> &c.;
+;---------------------------------------------------
+; <L>28759<pc>165,1<k1>itikartavyatAmUQa<k2>iti—kartavya—tA/-mUQa<e>4
+101738 old <s>iti—kartavya—tA/-mUQa</s> ¦ <lex>mfn.</lex> embarrassed, dumb-foundered, wholly at a loss what to do, <ls>Hit.</ls><info lex="m:f:n"/>
+;
+101738 new <s>iti—kartavya—tA/-mUQa</s> ¦ <lex>mfn.</lex> embarrassed, dumbfounded, wholly at a loss what to do, <ls>Hit.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>31622<pc>180,2<k1>utpaTa<k2>ut-paTa<e>1B
+111707 old <s>ut-paTa</s> ¦ <lex>mfn.</lex> one who is come off from the right way, lost, stray, <ls>BhP.</ls><info lex="m:f:n"/>
+;
+111707 new <s>ut-paTa</s> ¦ <lex>mfn.</lex> one who has come off from the right way, lost, stray, <ls>BhP.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>36013<pc>208,3<k1>upasaMvyAna<k2>upa-saMvyAna<e>2
+126686 old <s>upa-saMvyAna</s> ¦ <lex>n.</lex> an under garment, <ls>Pāṇ. i, 1, 36.</ls><info lex="n"/>
+;
+126686 new <s>upa-saMvyAna</s> ¦ <lex>n.</lex> an undergarment, <ls>Pāṇ. i, 1, 36.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>39992<pc>231,1<k1>eqamUka<k2>eqa—mUka<e>3
+140134 old <s>eqa—mUka</s> ¦ <lex>m.</lex> deaf and dumb, <ls>L.</ls><info lex="m"/>
+;
+140134 new <s>eqa—mUka</s> ¦ <lex>mfn.</lex> deaf and dumb, <ls>L.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>45906<pc>261,3<k1>kalAcikA<k2>kalAcikA<e>1B
+159817 old <s>kalAcikA</s> ¦ <lex>f.</lex> the fore-arm, <ls>L.</ls><info lex="f"/>
+;
+159817 new <s>kalAcikA</s> ¦ <lex>f.</lex> the forearm, <ls>L.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>45907<pc>261,3<k1>kalAcI<k2>kalAcI<e>2
+159820 old <s>kalAcI</s> ¦ <lex>f.</lex> the fore-arm, <ls>L.</ls><info lex="f"/>
+;
+159820 new <s>kalAcI</s> ¦ <lex>f.</lex> the forearm, <ls>L.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>49527<pc>278,3<k1>kAlaSakti<k2>kAla—Sakti<e>3
+171323 old <s>kAla—Sakti</s> ¦ <lex>f.</lex> the <s1>Śakti</s1> or all-destroying time, <ls>Vcar.</ls><info lex="f"/>
+;
+171323 new <s>kAla—Sakti</s> ¦ <lex>f.</lex> the <s1>Śakti</s1> of all-destroying time, <ls>Vcar.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>50663<pc>284,3<k1>kizku<k2>kizku<e>1
+174987 old <s>kizku</s> ¦ <lex>m.</lex> [<lex type="hwalt">f.</lex>, <ls>L.</ls>] the fore-arm, <ls>R. v, 32, 11</ls><info lex="m:f"/>
+;
+174987 new <s>kizku</s> ¦ <lex>m.</lex> [<lex type="hwalt">f.</lex>, <ls>L.</ls>] the forearm, <ls>R. v, 32, 11</ls><info lex="m:f"/>
+;---------------------------------------------------
+; <L>72283<pc>389,3<k1>caraRopaDAna<k2>caraRopaDAna<e>3
+244678 old <s>caraRo<srs/>paDAna</s> ¦ <lex>n.</lex> a foot-rest, <ls>MBh. i, 193, 10.</ls><info lex="n"/>
+;
+244678 new <s>caraRo<srs/>paDAna</s> ¦ <lex>n.</lex> a footrest, <ls>MBh. i, 193, 10.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>73474<pc>395,2<k1>cit<k2>cit<h>4<e>1
+248458 old <div n="vp"/><ab>Caus.</ab> <s>ceta/yati</s>, <s>°te</s> (2. <ab>pl.</ab> <s>ceta/yaDvam</s> <ab>Subj.</ab> <s>cetayat</s> <ab>Impv.</ab> 2. <ab>du.</ab> <s>cetayeTAm</s> <ab>impf.</ab> <s>a/cetayat</s>, <ls>RV.</ls>; 3. <ab>pl.</ab> <s>cita/yante</s>, <ls>RV.</ls>; <ab>p.</ab> <s>cita/yat</s>, <ls>RV.</ls> (eleven times); <s>ceta/yat</s>, <ls n="RV.">x, 110, 8</ls>, &c.; <ab>Ā.</ab> <s>cetayAna</s> See <ab>s.v.</ab>)
+;
+248458 new <div n="vp"/><ab>Caus.</ab> <s>ceta/yati</s>, <s>°te</s> (2. <ab>pl.</ab> <s>ceta/yaDvam</s> <ab>Subj.</ab> <s>cetayat</s>, <ab>Impv.</ab> 2. <ab>du.</ab> <s>cetayeTAm</s> <ab>impf.</ab> <s>a/cetayat</s>, <ls>RV.</ls>; 3. <ab>pl.</ab> <s>cita/yante</s>, <ls>RV.</ls>; <ab>p.</ab> <s>cita/yat</s>, <ls>RV.</ls> (eleven times); <s>ceta/yat</s>, <ls n="RV.">x, 110, 8</ls>, &c.; <ab>Ā.</ab> <s>cetayAna</s> See <ab>s.v.</ab>)
+;---------------------------------------------------
+; <L>73765<pc>396,3<k1>citrapakza<k2>citra—pakza<e>3A
+249393 old ¦ <ab>N.</ab> of a demon causing head-ache, <ls>PārGṛ. iii, 6, 3.</ls><info lex="inh"/>
+;
+249393 new ¦ <ab>N.</ab> of a demon causing headache, <ls>PārGṛ. iii, 6, 3.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>74280<pc>398,3<k1>ciramehin<k2>cira—mehin<e>3
+251134 old <s>cira—mehin</s> ¦ <lex>m.</lex> ‘urining for a long time’, an ass, <ls>L.</ls><info lex="m"/>
+;
+251134 new <s>cira—mehin</s> ¦ <lex>m.</lex> ‘urinating for a long time’, an ass, <ls>L.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>74340<pc>399,1<k1>ciri<k2>ciri<h>2<e>1
+251341 old <hom>2.</hom> <s>ciri</s> ¦ <ab>cl.</ab> 5. <s>°fRoti</s>, to hurt, kill, <ls>Dhātup. xxvii, 30</ls>; <ls>Pāṇ. viii, 2, 78</ls>, <ls>Kāś.</ls>;
+;
+251341 new <hom>2.</hom> <s>ciri</s> ¦ <ab>cl.</ab> 5. <s>°riRoti</s>, to hurt, kill, <ls>Dhātup. xxvii, 30</ls>; <ls>Pāṇ. viii, 2, 78</ls>, <ls>Kāś.</ls>;
+;---------------------------------------------------
+; <L>74465<pc>399,3<k1>cIrI<k2>cI/rI<e>1B
+251724 old ¦ the hem of an under garment, <ls>L.</ls><info lex="inh"/>
+;
+251724 new ¦ the hem of an undergarment, <ls>L.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>76419.2<pc>408,3<k1>jaGana<k2>jaGa/na<e>1A
+257973 old ¦ rear-guard, <ls>MBh. iii</ls>, <ls n="MBh.">v f.</ls>, <ls n="MBh.">ix</ls><info lex="inh"/>
+;
+257973 new ¦ rearguard, <ls>MBh. iii</ls>, <ls n="MBh.">v f.</ls>, <ls n="MBh.">ix</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>76430<pc>408,3<k1>jaGanArDa<k2>jaGanArDa/<e>3A
+258012 old ¦ rear-guard, <ls>MBh. v, 5162.</ls><info lex="inh"/>
+;
+258012 new ¦ rearguard, <ls>MBh. v, 5162.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>76735<pc>410,1<k1>jan<k2>jan<e>1
+258972 old <div n="vp"/> <ab>cl.</ab> 4. <s>jA/yate</s> (<lang>ep.</lang> also <s>°ti</s>; <ab>impf.</ab> <s>a/jAyata</s>; <ab>pr.p.</ab> <s>jayamAna</s>; <ab>fut.</ab> <s>janizyate</s>; <ab>aor.</ab> <s>a/janizwa</s>; 1. [<ls>RV. viii, 6, 10</ls>] and 3. <ab>sg.</ab> <s>a/jani</s>; 3. <ab>sg.</ab> <s>ja/ni</s>, <ls n="RV.">i, 141, 1</ls>; <s>jA/ni</s>, <ls n="RV. viii,">7, 36</ls>; <ab>perf.</ab> <s>jajYe/</s>, 2. <ab>sg.</ab> <s>°jYize/</s>, 3. <ab>pl.</ab> <s>°jYire/</s>, <ab>p.</ab> <s>°jYAna/</s>) and [<ls>RV.</ls>] <ab>cl.</ab> 2. (?) <ab>Ā.</ab> (2. <ab>sg.</ab> <s>janize/</s>, 2. <ab>pl.</ab> <s>°niDve</s>, <ab>Impv.</ab> <s>°nizvA</s> [<ls n="RV.">vi, 15, 18</ls>], <s>°niDvam</s>, <ab>cf.</ab> <ls>Pāṇ. vii, 2, 78</ls>; <ab>impf.</ab> 3. <ab>p.</ab> <s>ajYata</s> [<ab>aor.</ab>, <ls>Pāṇ. ii, 4, 80</ls>], <ls>AitBr.</ls>), twice <ab>cl.</ab> 1. <ab>Ā.</ab> (<ab>impf.</ab> 3. <ab>pl.</ab> <s>ajanatA</s>, <ls>RV. iv, 5, 5</ls>; <ab>p.</ab> <s>ja/namAna</s>, <ls n="RV.">viii, 99, 3</ls>)
+;
+258972 new <div n="vp"/> <ab>cl.</ab> 4. <s>jA/yate</s> (<lang>ep.</lang> also <s>°ti</s>; <ab>impf.</ab> <s>a/jAyata</s>; <ab>pr.p.</ab> <s>jA/yamAna</s>; <ab>fut.</ab> <s>janizyate</s>; <ab>aor.</ab> <s>a/janizwa</s>; 1. [<ls>RV. viii, 6, 10</ls>] and 3. <ab>sg.</ab> <s>a/jani</s>; 3. <ab>sg.</ab> <s>ja/ni</s>, <ls n="RV.">i, 141, 1</ls>; <s>jA/ni</s>, <ls n="RV. viii,">7, 36</ls>; <ab>perf.</ab> <s>jajYe/</s>, 2. <ab>sg.</ab> <s>°jYize/</s>, 3. <ab>pl.</ab> <s>°jYire/</s>, <ab>p.</ab> <s>°jYAna/</s>) and [<ls>RV.</ls>] <ab>cl.</ab> 2. (?) <ab>Ā.</ab> (2. <ab>sg.</ab> <s>janize</s>, 2. <ab>pl.</ab> <s>°niDve</s>, <ab>Impv.</ab> <s>°nizvA</s> [<ls n="RV.">vi, 15, 18</ls>], <s>°niDvam</s>, <ab>cf.</ab> <ls>Pāṇ. vii, 2, 78</ls>; <ab>impf.</ab> 3. <ab>p.</ab> <s>ajYata</s> [<ab>aor.</ab>, <ls>Pāṇ. ii, 4, 80</ls>], <ls>AitBr.</ls>), twice <ab>cl.</ab> 1. <ab>Ā.</ab> (<ab>impf.</ab> 3. <ab>pl.</ab> <s>ajanatA</s>, <ls>RV. iv, 5, 5</ls>; <ab>p.</ab> <s>ja/namAna</s>, <ls n="RV.">viii, 99, 3</ls>)
+;---------------------------------------------------
+; <L>78427<pc>417,1<k1>jAgf<k2>jAgf<e>1
+264375 old <div n="vp"/><ab>Caus.</ab> (<ab>aor.</ab> 2. and 3. <ab>sg.</ab> <s>a/jIgar</s> <ab>Impv.</ab> <s>jigfta/m</s>, <s>°ta/</s>) to awaken, <ls>RV.</ls>;
+;
+264375 new <div n="vp"/><ab>Caus.</ab> (<ab>aor.</ab> 2. and 3. <ab>sg.</ab> <s>a/jIgar</s>, <ab>Impv.</ab> <s>jigfta/m</s>, <s>°ta/</s>) to awaken, <ls>RV.</ls>;
+;---------------------------------------------------
+; <L>79058<pc>419,3<k1>jAla<k2>jAla<e>1A
+266435 old ¦ deception, illusion magic, <ls>Daś. viii, 42</ls>; <ls>Kathās. xxiv, 199</ls><info lex="inh"/>
+;
+266435 new ¦ deception, illusion, magic, <ls>Daś. viii, 42</ls>; <ls>Kathās. xxiv, 199</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>82867<pc>438,1<k1>tam<k2>tam<e>1
+279013 old <div n="vp"/><ab>Caus.</ab> <s>tama/yati</s> (<ab>aor.</ab> <ab>Pass.</ab> <s>atAmi</s>, <ls>Pāṇ. vi, 4, 93</ls>, <ls>Kāś.</ls>) to suffocate, deprive of breath, <ls>ŚBr. iii, 3, 2, 19</ls> and <ls n="ŚBr. iii,">8, 1, 15</ls>; <ls>KātyŚr. vi, 5, 18</ls>;
+;
+279013 new <div n="vp"/><ab>Caus.</ab> <s>tama/yati</s> (<ab>aor.</ab> <ab>Pass.</ab> <s>atAmi</s> or <s>atami</s>, <ls>Pāṇ. vi, 4, 93</ls>, <ls>Kāś.</ls>) to suffocate, deprive of breath, <ls>ŚBr. iii, 3, 2, 19</ls> and <ls n="ŚBr. iii,">8, 1, 15</ls>; <ls>KātyŚr. vi, 5, 18</ls>;
+;---------------------------------------------------
+; <L>83503.24<pc>440,3<k1>tala<k2>tala<e>1B
+281083 old <s>tala</s> ¦ <lex>m.</lex> the fore-arm, <ls>L.</ls><info lex="m"/>
+;
+281083 new <s>tala</s> ¦ <lex>m.</lex> the forearm, <ls>L.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>85171<pc>447,3<k1>tiryagvAtasevA<k2>tiryag—vAta-sevA<e>3
+286425 old <s>tiryag—vAta-sevA</s> ¦ <lex>f.</lex> ‘attending the side-wind’, urining or evacuation by stool, <ls>Gaut. ii, 27.</ls><info lex="f"/>
+;
+286425 new <s>tiryag—vAta-sevA</s> ¦ <lex>f.</lex> ‘attending the side-wind’, urinating or evacuation by stool, <ls>Gaut. ii, 27.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>86723<pc>453,3<k1>tfp<k2>tfp<h>1<e>1
+291414 old <ab>cl.</ab> 5. [<ab>Subj.</ab> 2. <ab>sg.</ab> <s>tfpRa/vas</s> <ab>Impv.</ab> <s>°Ruhi</s>, <s>°Ruta/m</s>, <ls>RV.</ls> (see also <s>a/-tfpRuvat</s>); <s>°noti</s>, <ls>Dhātup.</ls> and <ab>g.</ab> <s>kzuBnA<srs/>di</s>]
+;
+291414 new <ab>cl.</ab> 5. [<ab>Subj.</ab> 2. <ab>sg.</ab> <s>tfpRa/vas</s>, <ab>Impv.</ab> <s>°Ruhi</s>, <s>°Ruta/m</s>, <ls>RV.</ls> (see also <s>a/-tfpRuvat</s>); <s>°noti</s>, <ls>Dhātup.</ls> and <ab>g.</ab> <s>kzuBnA<srs/>di</s>]
+;---------------------------------------------------
+; <L>86723<pc>453,3<k1>tfp<k2>tfp<h>1<e>1
+291415 old <ab>cl.</ab> 6. [2. <ab>sg.</ab> <s>tfmpa/si</s> <ab>Impv.</ab> <s>°pa/</s>, <s>°patu</s>, &c., <ls>RV.</ls>; <ls>ŚBr.</ls>; <ab>cf.</ab> <ls>Pāṇ. vii, 1, 59</ls>, <ab>Vārtt.</ab> 1, <ls>Pat.</ls>; <s>tfpati</s>, <ls>Dhātup.</ls>; <ab>pf.</ab> <ab>p.</ab> <ab>Ā.</ab> <s>tAtfpARa/</s>, <ls>RV. x, 95, 16</ls>; <ab>P.</ab> <s>tatarpa</s>; 3. <ab>pl.</ab> <s>tAtfpur</s>, <ls>AV. xi, 7, 13</ls>; <ab>aor.</ab> <s>atfpat</s>, <ls n="AV.">iii, 13, 6</ls> or <s>atrApsIt</s>, <ls>Pāṇ. iii, 1, 44</ls>, <ab>Vārtt.</ab>; <s>atarpIt</s>, <s>atArpsIt</s>, <ls>Vop.</ls>; <ab>fut.</ab> 1st <s>tarpizyati</s> (but <ab>cf.</ab> <ls>Pāṇ. vii, 2, 10</ls>; <ls>Siddh.</ls>), <s>tarpsy°</s>, <s>trapsy°</s>; <ab>Cond.</ab> <s>atrapsyat</s>, <ls>AitUp. iii, 3</ls>; <ab>fut.</ab> 2nd <s>tarpitA</s>, <s>°ptA</s>, <s>traptA</s>, <ls>Kāś.</ls> on <ls>Pāṇ. vi, 1, 59</ls> and <ls n="Pāṇ.">vii, 2, 45</ls>]
+;
+291415 new <ab>cl.</ab> 6. [2. <ab>sg.</ab> <s>tfmpa/si</s>, <ab>Impv.</ab> <s>°pa/</s>, <s>°patu</s>, &c., <ls>RV.</ls>; <ls>ŚBr.</ls>; <ab>cf.</ab> <ls>Pāṇ. vii, 1, 59</ls>, <ab>Vārtt.</ab> 1, <ls>Pat.</ls>; <s>tfpati</s>, <ls>Dhātup.</ls>; <ab>pf.</ab> <ab>p.</ab> <ab>Ā.</ab> <s>tAtfpARa/</s>, <ls>RV. x, 95, 16</ls>; <ab>P.</ab> <s>tatarpa</s>; 3. <ab>pl.</ab> <s>tAtfpur</s>, <ls>AV. xi, 7, 13</ls>; <ab>aor.</ab> <s>atfpat</s>, <ls n="AV.">iii, 13, 6</ls> or <s>atrApsIt</s>, <ls>Pāṇ. iii, 1, 44</ls>, <ab>Vārtt.</ab>; <s>atarpIt</s>, <s>atArpsIt</s>, <ls>Vop.</ls>; <ab>fut.</ab> 1st <s>tarpizyati</s> (but <ab>cf.</ab> <ls>Pāṇ. vii, 2, 10</ls>; <ls>Siddh.</ls>), <s>tarpsy°</s>, <s>trapsy°</s>; <ab>Cond.</ab> <s>atrapsyat</s>, <ls>AitUp. iii, 3</ls>; <ab>fut.</ab> 2nd <s>tarpitA</s>, <s>°ptA</s>, <s>traptA</s>, <ls>Kāś.</ls> on <ls>Pāṇ. vi, 1, 59</ls> and <ls n="Pāṇ.">vii, 2, 45</ls>]
+;---------------------------------------------------
+; <L>88821<pc>462,3<k1>tryaNga<k2>try—aNga/<e>3
+298329 old <s>try—aNga/</s> ¦ <lex>n.</lex> <ab>pl.</ab> the 3 portions of a victim belonging to <s1>Sviṣṭakṛt</s1> (upper part of the right fore-foot, part of the left thigh, and part of the intestines), <ls>TS. vi</ls>; <ls>ŚBr. iii</ls>; <ls>Kauś.</ls>; <ls>KātyŚr.</ls>, <ab>Sch.</ab><info lex="n"/>
+;
+298329 new <s>try—aNga/</s> ¦ <lex>n.</lex> <ab>pl.</ab> the 3 portions of a victim belonging to <s1>Sviṣṭakṛt</s1> (upper part of the right forefoot, part of the left thigh, and part of the intestines), <ls>TS. vi</ls>; <ls>ŚBr. iii</ls>; <ls>Kauś.</ls>; <ls>KātyŚr.</ls>, <ab>Sch.</ab><info lex="n"/>
+;---------------------------------------------------
+; <L>90246<pc>469,2<k1>dam<k2>dam<h>1<e>1
+303192 old <hom>1.</hom> <s>dam</s> ¦ <ab>cl.</ab> 4. <s>dAmyati</s> (<ls>Pāṇ. vii, 3, 74</ls>; <ab>ind.p.</ab> <s>dAntvA</s> and <s>damitvA</s>, <ls n="Pāṇ. vii,">2, 56</ls>; <ab>aor.</ab> <ab>Pass.</ab> <s>adami</s>, <ls n="Pāṇ. vii,">3, 34</ls>, <ls>Kāś.</ls>; <ab>P.</ab> <s>°mit</s>, <ls>Bhaṭṭ. xv, 37</ls>)
+;
+303192 new <hom>1.</hom> <s>dam</s> ¦ <ab>cl.</ab> 4. <s>dAmyati</s> (<ls>Pāṇ. vii, 3, 74</ls>; <ab>ind.p.</ab> <s>dAntvA</s> and <s>damitvA</s>, <ls n="Pāṇ. vii,">2, 56</ls>; <ab>aor.</ab> <ab>Pass.</ab> <s>adami</s>, <ls n="Pāṇ. vii,">3, 34</ls>, <ls>Kāś.</ls>; <ab>P.</ab> <s>°mIt</s>, <ls>Bhaṭṭ. xv, 37</ls>)
+;---------------------------------------------------
+; <L>92228<pc>478,2<k1>div<k2>div<h>1<e>1
+309772 old <div n="to"/>to ask, beg;
+;
+309772 new to ask, beg;
+;---------------------------------------------------
+; <L>92228<pc>478,2<k1>div<k2>div<h>1<e>1
+309773 old <div n="to"/>to go;
+;
+309773 new to go;
+;---------------------------------------------------
+; <L>92658<pc>480,3<k1>dI<k2>dI<h>3<e>1
+311315 old <div n="vp"/><ab>Desid.</ab> <s>didizate</s> and <s>didAsate</s>, <ls>ib.</ls><info westergaard="dIN,26.25,04.0025"/><info verb="root" cp="4Ā"/>
+;
+311315 new <div n="vp"/><ab>Desid.</ab> <s>didIzate</s> and <s>didAsate</s>, <ls>ib.</ls><info westergaard="dIN,26.25,04.0025"/><info verb="root" cp="4Ā"/>
+;---------------------------------------------------
+; <L>92769<pc>481,1<k1>dIp<k2>dIp<e>1
+311672 old <div n="vp"/><ab>Caus.</ab> <s>dIpa/yati</s>, <s>°te</s> <ab>aor.</ab> <s>adIdipat</s> or <s>adidIpat</s> (<ls>Pāṇ. vii, 4, 3</ls>) to kindle, set on fire, inflame, <ls>TāṇḍyaBr. xvi, 1</ls>; <ls>ĀśvGṛ. iv, 6</ls>; <ls>Kauś. 60</ls> &c.;
+;
+311672 new <div n="vp"/><ab>Caus.</ab> <s>dIpa/yati</s>, <s>°te</s>, <ab>aor.</ab> <s>adIdipat</s> or <s>adidIpat</s> (<ls>Pāṇ. vii, 4, 3</ls>) to kindle, set on fire, inflame, <ls>TāṇḍyaBr. xvi, 1</ls>; <ls>ĀśvGṛ. iv, 6</ls>; <ls>Kauś. 60</ls> &c.;
+;---------------------------------------------------
+; <L>95246<pc>491,1<k1>dfp<k2>dfp<h>2<e>1
+319650 old <hom>2.</hom> <s>dfp</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>dfpyati</s> (<s>darpati</s> only, <ls>ĀpDh. i, 13, 4</ls>; <ab>fut.</ab> <s>dra/psyati</s> or <s>darpizyati</s>, <ls>Br.</ls>; <s>darpitA</s>, <s>°ptA</s>, and <s>draptA</s>, <ls>Pāṇ. vii, 2, 45</ls>; <ab>pf.</ab> <s>dadarpa</s>; <ab>aor.</ab> <s>adfpat</s>, <ls>Br.</ls>; <s>adrApsIt</s>, <ls>Pāṇ. iii, 1, 44</ls>, <ab>Vārtt.</ab> 7; <s>adarpIt</s> and <s>adArp sIt</s>, <ls>Vop.</ls>) to be mad or foolish, to rave, <ls>Br.</ls>;
+;
+319650 new <hom>2.</hom> <s>dfp</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>dfpyati</s> (<s>darpati</s> only, <ls>ĀpDh. i, 13, 4</ls>; <ab>fut.</ab> <s>dra/psyati</s> or <s>darpizyati</s>, <ls>Br.</ls>; <s>darpitA</s>, <s>°ptA</s>, and <s>draptA</s>, <ls>Pāṇ. vii, 2, 45</ls>; <ab>pf.</ab> <s>dadarpa</s>; <ab>aor.</ab> <s>adfpat</s>, <ls>Br.</ls>; <s>adrApsIt</s>, <ls>Pāṇ. iii, 1, 44</ls>, <ab>Vārtt.</ab> 7; <s>adarpIt</s> and <s>adArpsIt</s>, <ls>Vop.</ls>) to be mad or foolish, to rave, <ls>Br.</ls>;
+;---------------------------------------------------
+; <L>96740<pc>497,1<k1>dEtyanASana<k2>dEtya—nASana<e>3
+324479 old <s>dEtya—nASana</s> ¦ <lex>m.</lex> ‘<s1 n="Daitya">D°</s1>s-destroyer’, <ab>N.</ab> of <s1>Viṣṇu</s1>, <ls>MBh.</ls><info lex="m"/>
+;
+324479 new <s>dEtya—nASana</s> ¦ <lex>m.</lex> ‘<s1 n="Daitya">D°</s1>-destroyer’, <ab>N.</ab> of <s1>Viṣṇu</s1>, <ls>MBh.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>96743<pc>497,1<k1>dEtyapa<k2>dEtya—pa<e>3
+324488 old <s>dEtya—pa</s> and <s>dEtya—pati</s>, ¦ <lex>m.</lex>, ‘<s1 n="Daitya">D°</s1>s-prince’, <ab>N.</ab> of <s1>Bali</s1>, <ls>MBh.</ls>; <ls>Kathās.</ls><info lex="m"/>
+;
+324488 new <s>dEtya—pa</s> and <s>dEtya—pati</s>, ¦ <lex>m.</lex>, ‘<s1 n="Daitya">D°</s1>-prince’, <ab>N.</ab> of <s1>Bali</s1>, <ls>MBh.</ls>; <ls>Kathās.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>96757<pc>497,2<k1>dEtyAntaka<k2>dEtyAntaka<e>3
+324530 old <s>dEtyA<srs/>ntaka</s> ¦ <lex>m.</lex> ‘<s1 n="Daitya">D°</s1>s. destroyer’, <ls>Ratn.</ls><info lex="m"/>
+;
+324530 new <s>dEtyA<srs/>ntaka</s> ¦ <lex>m.</lex> ‘<s1 n="Daitya">D°</s1>-destroyer’, <ls>Ratn.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>97096<pc>498,3<k1>dozan<k2>doza/n<e>1
+325664 old <s>doza/n</s> ¦ <lex>n.</lex> (occurring only in <ab>nom.</ab> <ab>du.</ab> <s>doza/RI</s>, <ls>AV.</ls>; <ls>AitBr.</ls>; <ab>gen.</ab> <ab>sg.</ab> <s>dozRa/s</s>, <ls>ŚBr.</ls>; <ab>instr.</ab> <s>dozRA</s> <ab>loc.</ab> <s>dozRi</s> [or <s>dozaRi-</s> See below] <ab>gen.</ab> <ab>du.</ab> <s>dozRos</s>, <ls>Rājat.</ls>; <ab>acc.</ab> <ab>pl.</ab> [<lex type="hwalt">m.</lex> !] <s>dozRas</s>, <ls>Pāṇ. vi, 1, 63</ls>; the other forms are supplied by <s>dos</s>, <ab>q.v.</ab>) the fore-arm, the lower part of the fore-foot of an animal<info lex="m:n"/>
+;
+325664 new <s>doza/n</s> ¦ <lex>n.</lex> (occurring only in <ab>nom.</ab> <ab>du.</ab> <s>doza/RI</s>, <ls>AV.</ls>; <ls>AitBr.</ls>; <ab>gen.</ab> <ab>sg.</ab> <s>dozRa/s</s>, <ls>ŚBr.</ls>; <ab>instr.</ab> <s>dozRA</s> <ab>loc.</ab> <s>dozRi</s> [or <s>dozaRi-</s> See below] <ab>gen.</ab> <ab>du.</ab> <s>dozRos</s>, <ls>Rājat.</ls>; <ab>acc.</ab> <ab>pl.</ab> [<lex type="hwalt">m.</lex> !] <s>dozRas</s>, <ls>Pāṇ. vi, 1, 63</ls>; the other forms are supplied by <s>dos</s>, <ab>q.v.</ab>) the forearm, the lower part of the forefoot of an animal<info lex="m:n"/>
+;---------------------------------------------------
+; <L>97101<pc>498,3<k1>dos<k2>do/s<e>2
+325679 old <s>do/s</s> ¦ <lex>n.</lex> (<lex type="hwalt">m.</lex> only, <ls>R. vi, 1, 3</ls>; <ab>nom.</ab> <ab>acc.</ab> <ab>sg.</ab> <s>do/s</s>, <ls>ŚBr.</ls>; <ab>du.</ab> <s>dozI</s>, <ls>Kauś.</ls>; <s>dorByAm</s> <lex type="hwinfo">n.</lex>, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ab>pl.</ab> <s>°Bis</s>, <ls>Mālav.</ls>; <s>doHzu</s>, <ls>BhP.</ls>) the fore-arm, the arm &c. = <s>dozan</s> (<ab>q.v.</ab>)<info lex="m:n"/>
+;
+325679 new <s>do/s</s> ¦ <lex>n.</lex> (<lex type="hwalt">m.</lex> only, <ls>R. vi, 1, 3</ls>; <ab>nom.</ab> <ab>acc.</ab> <ab>sg.</ab> <s>do/s</s>, <ls>ŚBr.</ls>; <ab>du.</ab> <s>dozI</s>, <ls>Kauś.</ls>; <s>dorByAm</s> <lex type="hwinfo">n.</lex>, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ab>pl.</ab> <s>°Bis</s>, <ls>Mālav.</ls>; <s>doHzu</s>, <ls>BhP.</ls>) the forearm, the arm &c. = <s>dozan</s> (<ab>q.v.</ab>)<info lex="m:n"/>
+;---------------------------------------------------
+; <L>97951<pc>502,2<k1>druh<k2>druh<h>1<e>1
+328423 old <L>97951<pc>502,2<k1>druh<k2>druh<h>1<e>1
+;
+328423 new <L>979511<pc>502,2<k1>druh<k2>druh<h>1<e>1
+;---------------------------------------------------
+; <L>97951<pc>502,2<k1>druh<k2>druh<h>1<e>1
+328424 old <hom>1.</hom> <s>druh</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>dru/hyati</s> (<lang>ep.</lang> also <ab>Ā.</ab> <s>°te</s>), <ls>Br.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>pf.</ab> <s>dudro/ha</s>, <ls>RV.</ls>, <s>°hiTa</s>, <ls>AV.</ls>; <ab>aor.</ab> <s>adruhat</s>, <ab>Gr.</ab>, <ab>Subj.</ab> 2. <ab>sg.</ab> <s>druhas</s>, <ls>MBh., 3</ls> <ab>pl.</ab> <s>druhan</s> [with <s>mA</s>] <ls>RV.</ls>; 2. <ab>sg.</ab> <s>adrukzas</s>, <ls>AitBr.</ls>; <ab>fut.</ab> <s>Drokzyati</s>, <ls>MaitrS.</ls>, <s>drohizyati</s>, <ls>Pāṇ. vii, 2, 45</ls>; <s>drogDA</s>, <s>droQA</s> or <s>drohitA</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>drogDavE</s>, <ls>Kāṭh.</ls>; <ab>ind.p.</ab> <s>drugDvA</s>, <s>droCitvA</s>, <s>druhitvA</s> <ab>Gr.</ab>; <s>-druhya</s>, <ls>MaitrS.</ls>)
+;
+328424 new <hom>1.</hom> <s>druh</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <s>dru/hyati</s> (<lang>ep.</lang> also <ab>Ā.</ab> <s>°te</s>), <ls>Br.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>pf.</ab> <s>dudro/ha</s>, <ls>RV.</ls>, <s>°hiTa</s>, <ls>AV.</ls>; <ab>aor.</ab> <s>adruhat</s>, <ab>Gr.</ab>, <ab>Subj.</ab> 2. <ab>sg.</ab> <s>druhas</s>, <ls>MBh., 3</ls> <ab>pl.</ab> <s>druhan</s> [with <s>mA</s>] <ls>RV.</ls>; 2. <ab>sg.</ab> <s>adrukzas</s>, <ls>AitBr.</ls>; <ab>fut.</ab> <s>Drokzyati</s>, <ls>MaitrS.</ls>, <s>drohizyati</s>, <ls>Pāṇ. vii, 2, 45</ls>; <s>drogDA</s>, <s>droQA</s> or <s>drohitA</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>drogDavE</s>, <ls>Kāṭh.</ls>; <ab>ind.p.</ab> <s>drugDvA</s>, <s>drohitvA</s>, <s>druhitvA</s>, <ab>Gr.</ab>; <s>-druhya</s>, <ls>MaitrS.</ls>)
+;---------------------------------------------------
+; <L>101318<pc>517,1<k1>DI<k2>DI<h>3<e>1
+339553 old <div n="to"/>to propitiate (?), <ls>Dhātup. xxvi, 37.</ls><info westergaard="Co,26.37,04.0039"/><info verb="root" cp="4Ā"/>
+;
+339553 new <div n="to"/>to propitiate (?), <ls>Dhātup. xxvi, 27.</ls><info westergaard="Co,26.37,04.0039"/><info verb="root" cp="4Ā"/>
+;---------------------------------------------------
+; <L>101481<pc>517,3<k1>DU<k2>DU<h>1<e>1
+340068 old <div n="vp"/> <ab>cl.</ab> 2. <ab>Ā.</ab>, 3. <ab>pl.</ab> <s>Duvate</s> (<s>Dunva/te</s>?), <ls>ŚBr.</ls>;
+;
+340068 new <div n="vp"/> <ab>cl.</ab> 2. <ab>Ā.</ab>, 3. <ab>pl.</ab> <s>Duva/te</s> (<s>Dunva/te</s>?), <ls>ŚBr.</ls>;
+;---------------------------------------------------
+; <L>101481<pc>517,3<k1>DU<k2>DU<h>1<e>1
+340079 old <div n="vp"/> <ab>Intens.</ab> <s>doDavIti</s>, <ls>RV.</ls>; <ls>MBh.</ls> (<ab>p.</ab> <s>do<srs/>Duvat da/viDvat</s>, <ls>RV.</ls>);
+;
+340079 new <div n="vp"/> <ab>Intens.</ab> <s>doDavIti</s>, <ls>RV.</ls>; <ls>MBh.</ls> (<ab>p.</ab> <s>do/Duvat da/viDvat</s>, <ls>RV.</ls>);
+;---------------------------------------------------
+; <L>101933<pc>519,3<k1>Dfz<k2>Dfz<e>1
+341589 old <div n="vp"/> <ab>cl.</ab> 1. <ab>P.</ab> <s>Da/rzati</s>, <ls>VS.</ls>; <ls>R.</ls> (<ab>p.</ab> <s>Dfza/t</s>, <s>°za/mARa</s>, <ls>RV.</ls>; <s>°zARa/</s>, <ls>AV.</ls>; <ab>perf.</ab> <s>daDa/rza</s>, <ls>RV.</ls> &c. &c.; 3. <ab>pl.</ab> <s>dADfzur</s>, <ls>AV.</ls>; <ab>Subj.</ab> <s>daDarzat</s>, <s>°zati</s>, <s>°zIt</s>, <ls>RV.</ls>; <s>daDfzate</s>, <s>°zanta</s>, <ls>AV.</ls>; <ab>p.</ab> <s>daDfzva/s</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>aDfzas</s>, <ls>ŚBr.</ls>, <s>aDazizur</s>, <ls>TĀr.</ls>; <ab>fut.</ab> <s>Darzizyati</s>, <s>°zitA</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>-Dfzya</s>, <ls>Br.</ls>; <ab>inf.</ab> <s>-Df/zas</s>, <s>°zi</s>, <ls>RV.</ls>),
+;
+341589 new <div n="vp"/> <ab>cl.</ab> 1. <ab>P.</ab> <s>Da/rzati</s>, <ls>VS.</ls>; <ls>R.</ls> (<ab>p.</ab> <s>Dfza/t</s>, <s>°za/mARa</s>, <ls>RV.</ls>; <s>°zARa/</s>, <ls>AV.</ls>; <ab>perf.</ab> <s>daDa/rza</s>, <ls>RV.</ls> &c. &c.; 3. <ab>pl.</ab> <s>dADfzur</s>, <ls>AV.</ls>; <ab>Subj.</ab> <s>daDarzat</s>, <s>°zati</s>, <s>°zIt</s>, <ls>RV.</ls>; <s>daDfzate</s>, <s>°zanta</s>, <ls>AV.</ls>; <ab>p.</ab> <s>daDfzva/s</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>aDfzas</s>, <ls>ŚBr.</ls>, <s>aDarzizur</s>, <ls>TĀr.</ls>; <ab>fut.</ab> <s>Darzizyati</s>, <s>°zitA</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>-Dfzya</s>, <ls>Br.</ls>; <ab>inf.</ab> <s>-Df/zas</s>, <s>°zi</s>, <ls>RV.</ls>),
+;---------------------------------------------------
+; <L>110221<pc>559,1<k1>nivas<k2>ni-vas<e>1
+369954 old <div n="to"/>to clothe or dress one's self (<ab>aor.</ab> <s>-avasizwa</s> <ab>Impv.</ab> <s>-vadDvam</s>), <ls>Bhaṭṭ.</ls>;
+;
+369954 new <div n="to"/>to clothe or dress one's self (<ab>aor.</ab> <s>-avasizwa</s>, <ab>Impv.</ab> <s>-vadDvam</s>), <ls>Bhaṭṭ.</ls>;
+;---------------------------------------------------
+; <L>110224<pc>559,1<k1>nivasana<k2>ni-vasana<e>3A
+369965 old ¦ an under garment, <ls>L.</ls><info lex="inh"/>
+;
+369965 new ¦ an undergarment, <ls>L.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>111022<pc>563,3<k1>nizpf<k2>niz-pf<e>1
+372714 old <s>niz-√ pf</s> ¦ <ab>P.</ab> <s>-piparti</s> (2. <ab>pl.</ab> <s>-pipfTaH</s> <ab>Impv.</ab> <s>-pipartana</s> <ab>Subj.</ab> <ab>aor.</ab> <s>-parzat</s>), to bring out, rescue or deliver from (<ab>abl.</ab>), <ls>RV.</ls>;
+;
+372714 new <s>niz-√ pf</s> ¦ <ab>P.</ab> <s>-piparti</s> (2. <ab>pl.</ab> <s>-pipfTaH</s>, <ab>Impv.</ab> <s>-pipartana</s> <ab>Subj.</ab> <ab>aor.</ab> <s>-parzat</s>), to bring out, rescue or deliver from (<ab>abl.</ab>), <ls>RV.</ls>;
+;---------------------------------------------------
+; <L>114404<pc>579,2<k1>pawutaravanadAha<k2>pawu—tara—vana-dAha<e>4
+384499 old <s>pawu—tara—vana-dAha</s> ¦ <lex>m.</lex> a raging forest-fire, <ls>Ṛt.</ls><info lex="m"/>
+;
+384499 new <s>pawu—tara—vana-dAha</s> ¦ <lex>m.</lex> a raging forest fire, <ls>Ṛt.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>117760.1<pc>596,1<k1>pariDAna<k2>pari-DA/na<e>3A
+396043 old ¦ a garment, (<ab>esp.</ab>) an under garment (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>), <ls>AV.</ls>; <ls>ŚBr.</ls> &c. (also <s>parI-D°</s>)<info lex="f#A"/><info lex="inh"/>
+;
+396043 new ¦ a garment, (<ab>esp.</ab>) an undergarment (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>), <ls>AV.</ls>; <ls>ŚBr.</ls> &c. (also <s>parI-D°</s>)<info lex="f#A"/><info lex="inh"/>
+;---------------------------------------------------
+; <L>117760.5<pc>596,1<k1>pariDAnIya<k2>pari-DAnIya<e>4
+396055 old <s>pari-DA°nIya</s> ¦ <lex>n.</lex> an under garment<info lex="n"/>
+;
+396055 new <s>pari-DA°nIya</s> ¦ <lex>n.</lex> an undergarment<info lex="n"/>
+;---------------------------------------------------
+; <L>117785<pc>596,1<k1>pariDeya<k2>pari-Deya<e>3B
+396133 old <s>pari-Deya</s> ¦ <lex>n.</lex> an under garment (?), <ls>MW.</ls><info lex="n"/>
+;
+396133 new <s>pari-Deya</s> ¦ <lex>n.</lex> an undergarment (?), <ls>MW.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>120161<pc>609,3<k1>palAva<k2>palA/va<e>2A
+404140 old ¦ a fish-hook, <ls>Vāsav.</ls><info lex="inh"/>
+;
+404140 new ¦ a fishhook, <ls>Vāsav.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>120443<pc>611,1<k1>pavitra<k2>pavi/tra<e>2A
+405035 old ¦ <ab>N.</ab> of <s1>Viṣṇu</s1> (also <ab n="presented">p°</ab> <s>pavintrARAm</s>), <ls>MBh.</ls> (<ab>cf.</ab> <ls>RTL. 106</ls>)<info lex="inh"/>
+;
+405035 new ¦ <ab>N.</ab> of <s1>Viṣṇu</s1> (also <s>p° pavitrARAm</s>), <ls>MBh.</ls> (<ab>cf.</ab> <ls>RTL. 106</ls>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>122082<pc>618,1<k1>padopasaMgrahaRa<k2>padopasaMgrahaRa<e>3
+410386 old <L>122082<pc>618,1<k1>padopasaMgrahaRa<k2>padopasaMgrahaRa<e>3
+;
+410386 new <L>122082<pc>618,1<k1>pAdopasaMgrahaRa<k2>pAdopasaMgrahaRa<e>3
+;---------------------------------------------------
+; <L>122082<pc>618,1<k1>padopasaMgrahaRa<k2>padopasaMgrahaRa<e>3
+410387 old <s>pado<srs/>pasaMgrahaRa</s> ¦ <lex>n.</lex> clasping the <ab n="foot">f°</ab> (of a teacher), <ls>Gaut.</ls><info lex="n"/>
+;
+410387 new <s>pAdo<srs/>pasaMgrahaRa</s> ¦ <lex>n.</lex> clasping the <ab n="foot">f°</ab> (of a teacher), <ls>Gaut.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>123123<pc>622,3<k1>pArzRitra<k2>pArzRi—tra<e>3
+413771 old <s>pArzRi—tra</s> ¦ <lex>n.</lex> a rear-guard reserve, <ls>L.</ls><info lex="n"/>
+;
+413771 new <s>pArzRi—tra</s> ¦ <lex>n.</lex> a rearguard reserve, <ls>L.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>125645<pc>633,2<k1>puT<k2>puT<e>1
+421755 old <div n="vp"/><ab>Caus.</ab> <s>poTayati</s> (<ab>P.</ab> <ab>Ā.</ab> <s>poTayAna</s> <ab>fut.</ab>, <s>poTayizye</s>), to crush, kill, destroy, <ls>MBh.</ls>; <ls>Hariv.</ls>;
+;
+421755 new <div n="vp"/><ab>Caus.</ab> <s>poTayati</s> (<ab>Ā.</ab> <ab>p.</ab> <s>poTayAna</s>, <ab>fut.</ab> <s>poTayizye</s>), to crush, kill, destroy, <ls>MBh.</ls>; <ls>Hariv.</ls>;
+;---------------------------------------------------
+; <L>129638<pc>651,3<k1>pOrvapadika<k2>pOrva—padika<e>3
+434812 old <s>pOrva—padika</s> ¦ <lex>mfn.</lex> seizing by the fore-foot (?), <ls>Kāś.</ls> on <ls>Pāṇ. iv, 4, 39</ls><info lex="m:f:n"/>
+;
+434812 new <s>pOrva—padika</s> ¦ <lex>mfn.</lex> seizing by the forefoot (?), <ls>Kāś.</ls> on <ls>Pāṇ. iv, 4, 39</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>130202<pc>654,3<k1>prakozWa<k2>pra-kozWa<e>1
+436786 old <s>pra-kozWa</s> ¦ <lex>m.</lex> the fore-arm, <ls>Kālid.</ls>; <ls>BhP.</ls>; <ls>Suśr.</ls><info lex="m"/>
+;
+436786 new <s>pra-kozWa</s> ¦ <lex>m.</lex> the forearm, <ls>Kālid.</ls>; <ls>BhP.</ls>; <ls>Suśr.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>131657<pc>662,3<k1>pratibAhu<k2>prati—bAhu<e>3
+441851 old <s>prati—bAhu</s> ¦ <lex>m.</lex> fore-arm, <ls>Var.</ls><info lex="m"/>
+;
+441851 new <s>prati—bAhu</s> ¦ <lex>m.</lex> forearm, <ls>Var.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>132911<pc>669,2<k1>pratiyatna<k2>prati-yatna<e>3A
+446046 old ¦ preparation, elaboration, manufacture, <ls>Śiś. iii, 54</ls> (<ab>cf.</ab> <s>a-prati-pUrva</s>)<info lex="inh"/>
+;
+446046 new ¦ preparation, elaboration, manufacture, <ls>Śiś. iii, 54</ls> (<ab>cf.</ab> <s>a-pr°-pUrva</s>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>135181<pc>682,2<k1>prapARi<k2>pra-pARi<e>1
+453613 old <s>pra-pARi</s> or <s>pra-pA°Rika</s>, ¦ <lex>m.</lex> the fore-arm, <ls>Car.</ls><info lex="m"/>
+;
+453613 new <s>pra-pARi</s> or <s>pra-pA°Rika</s>, ¦ <lex>m.</lex> the forearm, <ls>Car.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>135283<pc>683,1<k1>prabanDArTa<k2>pra-banDArTa<e>4
+453970 old <s>pra-°ban°DA<srs/>rTa</s> ¦ <lex>m.</lex> the subject-matter of a composition or treatise, <ls>A.</ls><info lex="m"/>
+;
+453970 new <s>pra-°ban°DA<srs/>rTa</s> ¦ <lex>m.</lex> the subject matter of a composition or treatise, <ls>A.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>135328<pc>683,2<k1>prabAhu<k2>pra-bAhu<e>1
+454115 old <s>pra-bAhu</s> ¦ <lex>m.</lex> the fore-arm, <ls>Var.</ls>; <ls>VP.</ls><info lex="m"/>
+;
+454115 new <s>pra-bAhu</s> ¦ <lex>m.</lex> the forearm, <ls>Var.</ls>; <ls>VP.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>137381<pc>694,2<k1>pravezwa<k2>pra-vezwa<e>2A
+461059 old ¦ the fore-arm or wrist (<ab>cf.</ab> <s>pra-kozWa</s>)<info lex="inh"/>
+;
+461059 new ¦ the forearm or wrist (<ab>cf.</ab> <s>pra-kozWa</s>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>138279<pc>699,2<k1>prastuta<k2>pra/-stuta<e>2B
+464158 old ¦ (in <ab>rhet.</ab>) the chief subject-matter, that which is the subject of any statement or comparison (= <s>upameya</s>; <ab>cf.</ab> <ls>IW. 109, 457</ls>, and <s>°tA<srs/>Nkura</s>)<info lex="inh"/>
+;
+464158 new ¦ (in <ab>rhet.</ab>) the chief subject matter, that which is the subject of any statement or comparison (= <s>upameya</s>; <ab>cf.</ab> <ls>IW. 109, 457</ls>, and <s>°tA<srs/>Nkura</s>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>140436<pc>709,3<k1>prI<k2>prI<h>1<e>1
+471336 old <div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls n="Dhātup.">xxvi, 35</ls>) <s>prIyate</s> (rather <ab>Pass.</ab>; <lang>ep.</lang> and <ab>mc.</ab> also <s>°ti</s> and <s>priyate</s>, <s>°ti</s>; <ab>pf.</ab> <s>pipriye/</s>, <ab>p.</ab> <s>°yARa/</s> <ab>Subj.</ab> <s>pipra/yat</s>; <ab>Impv.</ab> <s>pipra/yasva</s> or <s>°prIhi/</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>aprEzIt</s>, <ls>Br.</ls> <ab>Subj.</ab> <s>pre/zat</s>, <ls>RV.</ls> <pb n="710,1"/>; <s>aprezwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>prezyati</s>, <s>°te</s>, <s>pretA</s>, <ls>ib.</ls>) <ab>P.</ab> to please, gladden, delight, gratify, cheer, comfort, soothe, propitiate, <ls>RV.</ls> &c. &c.;
+;
+471336 new <div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls n="Dhātup.">xxvi, 35</ls>) <s>prIyate</s> (rather <ab>Pass.</ab>; <lang>ep.</lang> and <ab>mc.</ab> also <s>°ti</s> and <s>priyate</s>, <s>°ti</s>; <ab>pf.</ab> <s>pipriye/</s>, <ab>p.</ab> <s>°yARa/</s>, <ab>Subj.</ab> <s>pipra/yat</s>; <ab>Impv.</ab> <s>pipra/yasva</s> or <s>°prIhi/</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>aprEzIt</s>, <ls>Br.</ls> <ab>Subj.</ab> <s>pre/zat</s>, <ls>RV.</ls> <pb n="710,1"/>; <s>aprezwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>prezyati</s>, <s>°te</s>, <s>pretA</s>, <ls>ib.</ls>) <ab>P.</ab> to please, gladden, delight, gratify, cheer, comfort, soothe, propitiate, <ls>RV.</ls> &c. &c.;
+;---------------------------------------------------
+; <L>142408<pc>719,3<k1>baqiSa<k2>baqiSa<e>1
+477805 old <s>baqiSa</s> ¦ <lex>mf(<s>A</s> or <s>I</s>)n.</lex> (also written <s>vaqiSa</s> and <s>valiSa</s>; <ab>cf.</ab> also <s>bariSI</s>) a hook, fish-hook, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Pur.</ls>; <ls>Suśr.</ls><info lex="m:f#A:f#I:n"/>
+;
+477805 new <s>baqiSa</s> ¦ <lex>mf(<s>A</s> or <s>I</s>)n.</lex> (also written <s>vaqiSa</s> and <s>valiSa</s>; <ab>cf.</ab> also <s>bariSI</s>) a hook, fishhook, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Pur.</ls>; <ls>Suśr.</ls><info lex="m:f#A:f#I:n"/>
+;---------------------------------------------------
+; <L>143414<pc>724,1<k1>baliSa<k2>baliSa<e>1
+481059 old <s>baliSa</s> ¦ <lex>nf (<s>i</s> or <s>SI</s>). </lex> (also written <s>val°</s>) a hook, fish-hook, <ls>L.</ls> (<ab>cf.</ab> <s>baqiSa</s>). <info lex="f#i:f#SI:n"/>
+;
+481059 new <s>baliSa</s> ¦ <lex>nf (<s>i</s> or <s>SI</s>). </lex> (also written <s>val°</s>) a hook, fishhook, <ls>L.</ls> (<ab>cf.</ab> <s>baqiSa</s>). <info lex="f#i:f#SI:n"/>
+;---------------------------------------------------
+; <L>144913<pc>730,2<k1>bAhu<k2>bAhu/<h>1<e>1
+485808 old <hom>1.</hom> <s>bAhu/</s> ¦ <lex>m.</lex> <lex>f.</lex> (<lex type="hwinfo">f.</lex>, <ls>L.</ls>) (<ab>fr.</ab> √ <s>bah</s>, <s>baMh</s>; for <hom>2.</hom> <s>bAhu</s> See <ab>col.</ab> 3) the arm, (<ab>esp.</ab>) the fore-arm, the arm between the elbow and the wrist (<ab>opp.</ab> to <s>pra-gaRqa</s>, <ab>q.v.</ab>; in <ab>medic.</ab> the whole upper extremity of the body, as <ab>opp.</ab> to <s>sakTi</s>, the lower <ab n="extremity">ext°</ab>), <ls>RV.</ls> &c. &c.<info lex="m:f"/>
+;
+485808 new <hom>1.</hom> <s>bAhu/</s> ¦ <lex>m.</lex> <lex>f.</lex> (<lex type="hwinfo">f.</lex>, <ls>L.</ls>) (<ab>fr.</ab> √ <s>bah</s>, <s>baMh</s>; for <hom>2.</hom> <s>bAhu</s> See <ab>col.</ab> 3) the arm, (<ab>esp.</ab>) the forearm, the arm between the elbow and the wrist (<ab>opp.</ab> to <s>pra-gaRqa</s>, <ab>q.v.</ab>; in <ab>medic.</ab> the whole upper extremity of the body, as <ab>opp.</ab> to <s>sakTi</s>, the lower <ab n="extremity">ext°</ab>), <ls>RV.</ls> &c. &c.<info lex="m:f"/>
+;---------------------------------------------------
+; <L>144915<pc>730,2<k1>bAhu<k2>bAhu/<e>1A
+485814 old ¦ the fore-foot of an animal (<ab>esp.</ab> its upper part), <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ls>ĀśvGṛ.</ls><info lex="inh"/>
+;
+485814 new ¦ the forefoot of an animal (<ab>esp.</ab> its upper part), <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ls>ĀśvGṛ.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>150332<pc>754,3<k1>BAvArTa<k2>BAvArTa<e>3A
+503496 old ¦ the subject-matter, <ls>ib.</ls> (<ab>cf.</ab> <ab>comp.</ab>)<info lex="inh"/>
+;
+503496 new ¦ the subject matter, <ls>ib.</ls> (<ab>cf.</ab> <ab>comp.</ab>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>150778<pc>757,1<k1>Bindu<k2>Bindu/<e>2B
+505000 old <s>Bindu/</s> ¦ <lex>f.</lex> a woman who brings forth a still-born child, <ls>L.</ls> (<ab>cf.</ab> <s>nindu</s>). <info lex="f"/>
+;
+505000 new <s>Bindu/</s> ¦ <lex>f.</lex> a woman who brings forth a stillborn child, <ls>L.</ls> (<ab>cf.</ab> <s>nindu</s>). <info lex="f"/>
+;---------------------------------------------------
+; <L>151825<pc>762,1<k1>BUtagrAma<k2>BUta—grAma<e>3A
+508507 old ¦ any aggregate or elementary matter, the body, <ls>W.</ls><info lex="inh"/>
+;
+508507 new ¦ any aggregate of elementary matter, the body, <ls>W.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>153489<pc>769,2<k1>Brajj<k2>Brajj<h>1<e>1
+513755 old <hom>1.</hom> <s>Brajj</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxviii, 4</ls>; <ab>cf.</ab> √ <s>Bfj</s>) <s>Bfjja/ti</s>, <s>°te</s> (in <ls>Bhaṭṭ.</ls> only forms of the <ab>pr.</ab> <ab>P.</ab>, and <ab>pf.</ab> <s>baBrajja</s>; <ab>Gr.</ab> also <ab>pf.</ab> <s>baBrajye</s> and <s>baBarja</s>, <s>°je</s>; <ab>aor.</ab> <s>aBrAkzIt</s>, <s>aBArkzIt</s>; <s>aBArkzIt</s>, <s>aBazwa</s>; <s>aBarzwa</s>; <ab>fut.</ab> <s>Brakzyati</s>, <s>°te</s>, <s>Barkzyati</s>, <s>°te</s>; <s>BrazwA</s>, <s>BarzwA</s>; <ab>inf.</ab> <s>Brazwum</s> and <s>Barzwum</s>; <ab>ind.p.</ab> <s>BfzwvA</s>),
+;
+513755 new <hom>1.</hom> <s>Brajj</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxviii, 4</ls>; <ab>cf.</ab> √ <s>Bfj</s>) <s>Bfjja/ti</s>, <s>°te</s> (in <ls>Bhaṭṭ.</ls> only forms of the <ab>pr.</ab> <ab>P.</ab>, and <ab>pf.</ab> <s>baBrajja</s>; <ab>Gr.</ab> also <ab>pf.</ab> <s>baBrajje</s> and <s>baBarja</s>, <s>°je</s>; <ab>aor.</ab> <s>aBrAkzIt</s>, <s>aBArkzIt</s>; <s>aBrazwa</s>, <s>aBarzwa</s>; <ab>fut.</ab> <s>Brakzyati</s>, <s>°te</s>, <s>Barkzyati</s>, <s>°te</s>; <s>BrazwA</s>, <s>BarzwA</s>; <ab>inf.</ab> <s>Brazwum</s> and <s>Barzwum</s>; <ab>ind.p.</ab> <s>BfzwvA</s>),
+;---------------------------------------------------
+; <L>155130<pc>776,3<k1>matsyabanDana<k2>matsya—banDana<e>3
+518981 old <s>matsya—banDana</s> ¦ <lex>n.</lex> a <ab n="fish">f°</ab>-hook, <ls>L.</ls><info lex="n"/>
+;
+518981 new <s>matsya—banDana</s> ¦ <lex>n.</lex> a <ab n="fish">f°</ab>hook, <ls>L.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>155424<pc>778,1<k1>madAtyaya<k2>madAtyaya<e>3
+519937 old <s>madA<srs/>tyaya</s> ¦ <lex>m.</lex> ‘passing off of wine’, disorder resulting from intoxication (as head-ache &c.), <ls>Suśr.</ls> (<ab>cf.</ab> <s>pAnA<srs/>tyaya</s>)<info lex="m"/>
+;
+519937 new <s>madA<srs/>tyaya</s> ¦ <lex>m.</lex> ‘passing off of wine’, disorder resulting from intoxication (as headache &c.), <ls>Suśr.</ls> (<ab>cf.</ab> <s>pAnA<srs/>tyaya</s>)<info lex="m"/>
+;---------------------------------------------------
+; <L>156626<pc>783,1<k1>man<k2>man<e>1
+523880 old <s>mamnA/Te</s>, <s>°nA/ts</s>, <ls>RV.</ls>;
+;
+523880 new <s>mamnA/Te</s>, <s>°nA/te</s>, <ls>RV.</ls>;
+;---------------------------------------------------
+; <L>156626<pc>783,1<k1>man<k2>man<e>1
+523881 old <ab>aor.</ab> <s>a/mata</s>, <s>a/manmahi</s> <ab>Subj.</ab> <s>manAmahe</s>, <s>mananta</s>, <ab>p.</ab> <s>manAna/</s>, <ab>q.v.</ab>, <ls>RV.</ls>;
+;
+523881 new <ab>aor.</ab> <s>a/mata</s>, <s>a/manmahi</s>, <ab>Subj.</ab> <s>manAmahe</s>, <s>mananta</s>, <ab>p.</ab> <s>manAna/</s>, <ab>q.v.</ab>, <ls>RV.</ls>;
+;---------------------------------------------------
+; <L>156626<pc>783,1<k1>man<k2>man<e>1
+523882 old <s>maMsi</s>, <s>amaMsta</s> <ab>Subj.</ab> <s>maMsate</s> <ab>Prec.</ab> <s>maMsIzwa</s>, 1. <ab>pers.</ab> <ab>mc.</ab> <s>masIya</s>, <ls>ib.</ls>;
+;
+523882 new <s>maMsi</s>, <s>amaMsta</s>, <ab>Subj.</ab> <s>maMsate</s>, <ab>Prec.</ab> <s>maMsIzwa</s>, 1. <ab>pers.</ab> <ab>mc.</ab> <s>masIya</s>, <ls>ib.</ls>;
+;---------------------------------------------------
+; <L>156626<pc>783,1<k1>man<k2>man<e>1
+523883 old <s>mAMsta</s>, <ls>AV.</ls>, <s>°stAdm</s>, <ls>TĀr.</ls>;
+;
+523883 new <s>mAMsta</s>, <ls>AV.</ls>, <s>°stAm</s>, <ls>TĀr.</ls>;
+;---------------------------------------------------
+; <L>156626<pc>783,1<k1>man<k2>man<e>1
+523887 old <s>manta</s>, <s>manitA</s> <ab>Gr.</ab>;
+;
+523887 new <s>mantA</s>, <s>manitA</s>, <ab>Gr.</ab>;
+;---------------------------------------------------
+; <L>156626<pc>783,1<k1>man<k2>man<e>1
+523907 old <div n="vp"/><ab>Desid.</ab> (<ls>Dhātup. xxiii, 3</ls>) <s>mImAMsate</s> (rarely <s>°ti</s>; <s>amImAMsizWAs</s>, <ls>ŚBr.</ls>; <s>mImAMsya/te</s>, <ls>AV.</ls>; <s>mimaMsate</s>, <s>mimanizate</s> <ab>Gr.</ab>),
+;
+523907 new <div n="vp"/><ab>Desid.</ab> (<ls>Dhātup. xxiii, 3</ls>) <s>mImAMsate</s> (rarely <s>°ti</s>; <s>amImAMsizWAs</s>, <ls>ŚBr.</ls>; <s>mImAMsya/te</s>, <ls>AV.</ls>; <s>mimaMsate</s>, <s>mimaMsizate</s> <ab>Gr.</ab>),
+;---------------------------------------------------
+; <L>159073<pc>793,3<k1>mastakajvara<k2>mastaka—jvara<e>3
+531843 old <s>mastaka—jvara</s> ¦ <lex>m.</lex> ‘head-fever’, head-ache, <ls>BhP.</ls><info lex="m"/>
+;
+531843 new <s>mastaka—jvara</s> ¦ <lex>m.</lex> ‘head-fever’, headache, <ls>BhP.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>159077<pc>793,3<k1>mastakaSUla<k2>mastaka—SUla<e>3
+531855 old <s>mastaka—SUla</s> ¦ <lex>n.</lex> sharp or shooting pain in the head, head-ache, <ls>Vet.</ls><info lex="n"/>
+;
+531855 new <s>mastaka—SUla</s> ¦ <lex>n.</lex> sharp or shooting pain in the head, headache, <ls>Vet.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>161697<pc>804,2<k1>mA<k2>mA<h>3<e>1
+540793 old <div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls n="Dhātup.">xxvi, 33</ls>) <s>mAyate</s> (<lang>Ved.</lang> and <lang>ep.</lang> also <s>mimAti</s> <ab>Pot.</ab> <s>mimIyAt</s> <ab>Impv.</ab>, <s>mimIhi</s>; <ab>Pot.</ab> <s>mimet</s>, <ls>Br.</ls>; <ab>pf.</ab> <s>mamO/</s>, <s>mame</s>, <s>mamire/</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>a/mAsi</s> <ab>Subj.</ab> <s>mA/sAtE</s>, <ls>AV.</ls>; <s>amAsIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>mAsIzwa</s>, <s>meyAt</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>mAtA</s>; <s>mAsyati</s>, <s>mAsyate</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>-me/</s>, <s>-mE/</s>, <ls>RV.</ls>; <s>mAtum</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>mitvA/</s>, <s>-mA/ya</s>, <ls>RV.</ls> &c. &c.),
+;
+540793 new <div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls n="Dhātup.">xxvi, 33</ls>) <s>mAyate</s> (<lang>Ved.</lang> and <lang>ep.</lang> also <s>mimAti</s> <ab>Pot.</ab> <s>mimIyAt</s>, <ab>Impv.</ab>, <s>mimIhi</s>; <ab>Pot.</ab> <s>mimet</s>, <ls>Br.</ls>; <ab>pf.</ab> <s>mamO/</s>, <s>mame</s>, <s>mamire/</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>a/mAsi</s> <ab>Subj.</ab> <s>mA/sAtE</s>, <ls>AV.</ls>; <s>amAsIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>mAsIzwa</s>, <s>meyAt</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>mAtA</s>; <s>mAsyati</s>, <s>mAsyate</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>-me/</s>, <s>-mE/</s>, <ls>RV.</ls>; <s>mAtum</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>mitvA/</s>, <s>-mA/ya</s>, <ls>RV.</ls> &c. &c.),
+;---------------------------------------------------
+; <L>163565<pc>813,2<k1>mArtavatsa<k2>mA/rtavatsa<e>1
+546756 old <s>mA/rtavatsa</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <s>mfta-vatsA</s>) a still-born child, <ls>AV.</ls><info lex="n"/>
+;
+546756 new <s>mA/rtavatsa</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <s>mfta-vatsA</s>) a stillborn child, <ls>AV.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>165859<pc>824,1<k1>muz<k2>muz<h>2<e>1
+554218 old <div n="vp"/><ab>Intens.</ab> <s>momuzyate</s>, <s>momozwi</s>, <ls>ib.</ls> [For kindred words See under <hom>2.</hom> <s>mU/z</s>, <ab>p.</ab> 827.]<info westergaard="muza,31.58,09.0062;mUza,17.25,01.0440"/><info whitneyroots="muz,123"/><info verb="genuineroot" cp="9,1P,6P"/>
+;
+554218 new <div n="vp"/><ab>Intens.</ab> <s>momuzyate</s>, <s>momozwi</s>, <ls>ib.</ls> [For kindred words, see under <hom>2.</hom> <s>mU/z</s>, <ab>p.</ab> 827.]<info westergaard="muza,31.58,09.0062;mUza,17.25,01.0440"/><info whitneyroots="muz,123"/><info verb="genuineroot" cp="9,1P,6P"/>
+;---------------------------------------------------
+; <L>166006<pc>824,3<k1>muh<k2>muh<h>1<e>1
+554677 old <hom>1.</hom> <s>muh</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 89</ls>) <s>mu/hyati</s> (rarely <ab>Ā.</ab> <s>°te</s>; <ab>pf.</ab> <s>mumoha</s>, <ls>Br.</ls> &c. <pb n="825,1"/>; <s>mumuhe</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>amuhat</s>, <ls>Br.</ls>; <ab>fut.</ab> <s>mohitA</s>, <s>mogDA</s>, <s>moQA</s> <ab>Gr.</ab>; <s>mohizya/ti</s>, <ls>Br.</ls>; <s>mokzyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>muhe/</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>mohitvA</s>, <s>muhiSvA</s>; <s>mugDvA</s>, <s>mUQvA</s> <ab>Gr.</ab>; <s>-mo/ham</s> <ab>Gr.</ab>),
+;
+554677 new <hom>1.</hom> <s>muh</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 89</ls>) <s>mu/hyati</s> (rarely <ab>Ā.</ab> <s>°te</s>; <ab>pf.</ab> <s>mumoha</s>, <ls>Br.</ls> &c. <pb n="825,1"/>; <s>mumuhe</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>amuhat</s>, <ls>Br.</ls>; <ab>fut.</ab> <s>mohitA</s>, <s>mogDA</s>, <s>moQA</s> <ab>Gr.</ab>; <s>mohizya/ti</s>, <ls>Br.</ls>; <s>mokzyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>muhe/</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>mohitvA</s>, <s>muhitvA</s>; <s>mugDvA</s>, <s>mUQvA</s> <ab>Gr.</ab>; <s>-mo/ham</s> <ab>Gr.</ab>),
+;---------------------------------------------------
+; <L>166669<pc>827,3<k1>mftasUtaka<k2>mfta—sUtaka<e>3B
+556782 old <s>mfta—sUtaka</s> ¦ <lex>n.</lex> bringing forth a still-born child, <ls>MaitrUp.</ls>; <ls>VarBṛS.</ls><info lex="n"/>
+;
+556782 new <s>mfta—sUtaka</s> ¦ <lex>n.</lex> bringing forth a stillborn child, <ls>MaitrUp.</ls>; <ls>VarBṛS.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>167200<pc>830,1<k1>mfRAlANgada<k2>mfRAlANgada<e>3
+558504 old <s>mfRAlA<srs/>Ngada</s> ¦ <lex>n.</lex> = <s>mfRAla</s>, <s>-valaya</s>, <ls>Kathās.</ls><info lex="n"/>
+;
+558504 new <s>mfRAlA<srs/>Ngada</s> ¦ <lex>n.</lex> = <s>mfRAla-valaya</s>, <ls>Kathās.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>171731<pc>853,2<k1>yuj<k2>yuj<h>1<e>1
+573655 old <s>yuje</s>, <s>yujmahe</s>, 3. <ab>pl.</ab> <s>yujata</s> <ab>Impv.</ab> <s>yukzva/</s>;
+;
+573655 new <s>yuje</s>, <s>yujmahe</s>, 3. <ab>pl.</ab> <s>yujata</s>, <ab>Impv.</ab> <s>yukzva/</s>;
+;---------------------------------------------------
+; <L>174809<pc>866,3<k1>raD<k2>raD<e>1
+583642 old <s>raD</s> or <s>ranD</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 84</ls>) <s>ra/Dyati</s> (<ab>pf.</ab> <s>raranDa</s>, 1. <ab>pl.</ab> <s>raranDima</s> or <s>reDma</s> <ab>Gr.</ab>; 3. <ab>pl.</ab> <s>rAraDu/H</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>araDat</s>, <ls>ib.</ls>; <ab>Subj.</ab> <s>ranDIs</s> <ab>Impv.</ab> <s>ranDi</s> for <s>randDi</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>raDitA</s>, <s>radDA</s> <ab>Gr.</ab>; <s>raDizyati</s>, <s>ratsyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>raDitum</s>, <ls>Bhaṭṭ.</ls>),
+;
+583642 new <s>raD</s> or <s>ranD</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 84</ls>) <s>ra/Dyati</s> (<ab>pf.</ab> <s>raranDa</s>, 1. <ab>pl.</ab> <s>raranDima</s> or <s>reDma</s> <ab>Gr.</ab>; 3. <ab>pl.</ab> <s>rAraDu/H</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>araDat</s>, <ls>ib.</ls>; <ab>Subj.</ab> <s>ranDIs</s>, <ab>Impv.</ab> <s>ranDi</s> for <s>randDi</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>raDitA</s>, <s>radDA</s> <ab>Gr.</ab>; <s>raDizyati</s>, <s>ratsyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>raDitum</s>, <ls>Bhaṭṭ.</ls>),
+;---------------------------------------------------
+; <L>176246<pc>872,3<k1>rAj<k2>rAj<h>1<e>1
+588274 old <div n="vp"/><ab>Intens.</ab> <s>rArAjyate</s>, <s>rArAzwi</s>, <ls>ib.</ls>[For cognate words See under <s>rAjan</s>.]<info westergaard="rAjf,19.74,01.0553"/><info whitneyroots="rAj,138"/><info verb="genuineroot" cp="1P,1Ā"/>
+;
+588274 new <div n="vp"/><ab>Intens.</ab> <s>rArAjyate</s>, <s>rArAzwi</s>, <ls>ib.</ls> [For cognate words, see under <s>rAjan</s>.]<info westergaard="rAjf,19.74,01.0553"/><info whitneyroots="rAj,138"/><info verb="genuineroot" cp="1P,1Ā"/>
+;---------------------------------------------------
+; <L>177153<pc>876,2<k1>rAD<k2>rAD<e>1
+591172 old <s>rAD</s> ¦ (<ab>cf.</ab> √ <s>fD</s> and <s>raD</s>) <ab>cl.</ab> 5. 4. <ab>P.</ab> (<ls>Dhātup. xvii, 16</ls>; <ls n="Dhātup.">xxvi, 71</ls>) <s>rADno/ti</s>, <s>rADyati</s> (<lang>Ved.</lang> also <ab>pr.</ab> <s>rADati</s> and <s>rA/Dyate</s>; <ab>pf.</ab> <s>rarA/Da</s>, <ls>RV.</ls> &c. &c. [2. <ab>sg.</ab> <s>rarADiTa</s> or <s>reDita</s>, <ab>cf.</ab> <ls>Pāṇ. vi, 4, 123</ls>]; <ab>aor.</ab>, <s>arAtsIt</s>, <s>rADizi</s>, <ls>AV.</ls>; <ls>Br.</ls>; <ab>Prec.</ab> <s>rADyAsam</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>rAdDA</s> <ab>Gr.</ab>; <s>rAtsyati</s>, <ls>AV.</ls>; <ls>Br.</ls>; <ab>ind.p.</ab> <s>rAdDvA/</s>, <s>-rADya</s>, <ls>Br.</ls>),
+;
+591172 new <s>rAD</s> ¦ (<ab>cf.</ab> √ <s>fD</s> and <s>raD</s>) <ab>cl.</ab> 5. 4. <ab>P.</ab> (<ls>Dhātup. xxvii, 16</ls>; <ls n="Dhātup.">xxvi, 71</ls>) <s>rADno/ti</s>, <s>rADyati</s> (<lang>Ved.</lang> also <ab>pr.</ab> <s>rADati</s> and <s>rA/Dyate</s>; <ab>pf.</ab> <s>rarA/Da</s>, <ls>RV.</ls> &c. &c. [2. <ab>sg.</ab> <s>rarADiTa</s> or <s>reDiTa</s>, <ab>cf.</ab> <ls>Pāṇ. vi, 4, 123</ls>]; <ab>aor.</ab>, <s>arAtsIt</s>, <s>rADizi</s>, <ls>AV.</ls>; <ls>Br.</ls>; <ab>Prec.</ab> <s>rADyAsam</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>rAdDA</s> <ab>Gr.</ab>; <s>rAtsyati</s>, <ls>AV.</ls>; <ls>Br.</ls>; <ab>ind.p.</ab> <s>rAdDvA/</s>, <s>-rADya</s>, <ls>Br.</ls>),
+;---------------------------------------------------
+; <L>182638<pc>902,3<k1>lipisaMnAha<k2>lipi—saMnAha<e>3
+608833 old <s>lipi—saMnAha</s> ¦ <lex>m.</lex> ‘writing belt’, a belt worn on the fore-arm, <ls>L.</ls><info lex="m"/>
+;
+608833 new <s>lipi—saMnAha</s> ¦ <lex>m.</lex> ‘writing belt’, a belt worn on the forearm, <ls>L.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>182956<pc>904,2<k1>lup<k2>lup<h>1<e>1
+609890 old <div n="vp"/> <s>lolupyate</s> = <s>garirhitaM lumpati</s>, <ls>Pāṇ. iii, 1, 24</ls>;
+;
+609890 new <div n="vp"/> <s>lolupyate</s> = <s>garhitaM lumpati</s>, <ls>Pāṇ. iii, 1, 24</ls>;
+;---------------------------------------------------
+; <L>182956<pc>904,2<k1>lup<k2>lup<h>1<e>1
+609891 old <div n="to"/>to be greedy, in <s>a-lolupyamAna</s>, <ab>q.v.</ab> [For cognate words See under √ <s>rup</s>.]<info westergaard="lupx,28.137,06.0139;lupu,26.126,04.0132"/><info whitneyroots="lup,149"/><info verb="genuineroot" cp="6P,6Ā,4P,4Ā"/>
+;
+609891 new <div n="to"/>to be greedy, in <s>a-lolupyamAna</s>, <ab>q.v.</ab> [For cognate words, see under √ <s>rup</s>.]<info westergaard="lupx,28.137,06.0139;lupu,26.126,04.0132"/><info whitneyroots="lup,149"/><info verb="genuineroot" cp="6P,6Ā,4P,4Ā"/>
+;---------------------------------------------------
+; <L>183010<pc>904,3<k1>luB<k2>luB<e>1
+610062 old <s>luB</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> <s>luBati</s> (only <ls>Dhātup. xviii, 22</ls>) or <ab>cl.</ab> 4. <ab>P.</ab> <ls n="Dhātup.">xxvi, 124</ls> <s>lu/Byati</s> (<ab>pf.</ab> <s>luluBe</s>, <ls>R.</ls>; <ab>aor.</ab> <s>aluBat</s>, or <s>aloBIt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>lobDA</s>, or <s>loBitA</s>, <s>loBizyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>lobDum</s>, <ls>MBh.</ls>; <ab>ind.p.</ab> <s>loBitvA</s>, <s>luBitvA</s>, <s>lubDvA</s> <ab>Gr.</ab>),
+;
+610062 new <s>luB</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> <s>luBati</s> (only <ls>Dhātup. xxviii, 22</ls>) or <ab>cl.</ab> 4. <ab>P.</ab> <ls n="Dhātup.">xxvi, 128</ls> <s>lu/Byati</s> (<ab>pf.</ab> <s>luluBe</s>, <ls>R.</ls>; <ab>aor.</ab> <s>aluBat</s>, or <s>aloBIt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>lobDA</s>, or <s>loBitA</s>, <s>loBizyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>lobDum</s>, <ls>MBh.</ls>; <ab>ind.p.</ab> <s>loBitvA</s>, <s>luBitvA</s>, <s>lubDvA</s> <ab>Gr.</ab>),
+;---------------------------------------------------
+; <L>183786<pc>908,3<k1>loha<k2>loha/<e>1B
+612547 old ¦ a fish-hook, <ls>L.</ls><info lex="inh"/>
+;
+612547 new ¦ a fishhook, <ls>L.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>184793<pc>913,1<k1>vaj<k2>vaj<e>1
+615775 old <div n="vp"/><ab>Caus.</ab> or <ab>cl.</ab> 10. <ab>P.</ab> <s>vAjayati</s>, to prepare the way, to trim or feather an arrow (<s>mArga-</s>, or <s>mArgaRa-saMskA<srs/>re</s>), <ls>Dhātup. xxxii, 74</ls>. Another √ <s>vaj</s> or <s>uj</s>, ‘to be hard or strong’, may be inferred from <s>ugra</s>, <s>ojas</s>, <s>vajra</s>, <s>vAja</s> (<ab>qq.vv.</ab>), the last of which gave rise to the <ab>Nom.</ab> <s>vAjaya</s>, <ab>q.v.</ab> [For cognate words See under <s>ugra</s> and <s>ojas</s>.]<info westergaard="vaja,7.78,01.0157;vaja,32.74,10.0069"/><info whitneyroots="vaj,152"/><info verb="root" cp="1P,10P"/>
+;
+615775 new <div n="vp"/><ab>Caus.</ab> or <ab>cl.</ab> 10. <ab>P.</ab> <s>vAjayati</s>, to prepare the way, to trim or feather an arrow (<s>mArga-</s>, or <s>mArgaRa-saMskA<srs/>re</s>), <ls>Dhātup. xxxii, 74</ls>. Another √ <s>vaj</s> or <s>uj</s>, ‘to be hard or strong’, may be inferred from <s>ugra</s>, <s>ojas</s>, <s>vajra</s>, <s>vAja</s> (<ab>qq.vv.</ab>), the last of which gave rise to the <ab>Nom.</ab> <s>vAjaya</s>, <ab>q.v.</ab> [For cognate words, see under <s>ugra</s> and <s>ojas</s>.]<info westergaard="vaja,7.78,01.0157;vaja,32.74,10.0069"/><info whitneyroots="vaj,152"/><info verb="root" cp="1P,10P"/>
+;---------------------------------------------------
+; <L>186557<pc>921,1<k1>vayohARi<k2>vayo—hARi<e>3
+621406 old <L>186557<pc>921,1<k1>vayohARi<k2>vayo—hARi<e>3
+;
+621406 new <L>186557<pc>921,1<k1>vayohAni<k2>vayo—hAni<e>3
+;---------------------------------------------------
+; <L>186557<pc>921,1<k1>vayohARi<k2>vayo—hARi<e>3
+621407 old <s>vayo—hARi</s> ¦ <lex>f.</lex> loss of youth or vigour, the growing old, <ls>Dhātup.</ls>; <ls>Sāy.</ls><info lex="f"/>
+;
+621407 new <s>vayo—hAni</s> ¦ <lex>f.</lex> loss of youth or vigour, the growing old, <ls>Dhātup.</ls>; <ls>Sāy.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>186585<pc>921,1<k1>varaRasI<k2>varaRasI<e>2
+621491 old <s>varaRasI</s> (<ls>L.</ls>) and <s>varaRASI</s> (<ls>Gal.</ls>), ¦ <lex>f.</lex> Benares (more usually <s>varAnasI</s> and <s>vArARasI</s>, <ab>qq.vv.</ab>)<info lex="f"/>
+;
+621491 new <s>varaRasI</s> (<ls>L.</ls>) and <s>varaRASI</s> (<ls>Gal.</ls>), ¦ <lex>f.</lex> Benares (more usually <s>varARasI</s> and <s>vArARasI</s>, <ab>qq.vv.</ab>)<info lex="f"/>
+;---------------------------------------------------
+; <L>186597<pc>921,1<k1>varaRqalambuka<k2>varaRqa—lambuka<e>3
+621527 old <s>varaRqa—lambuka</s> ¦ <lex>m.</lex> the string of a fish-hook (?), <ls>Mṛcch.</ls><info lex="m"/>
+;
+621527 new <s>varaRqa—lambuka</s> ¦ <lex>m.</lex> the string of a fishhook (?), <ls>Mṛcch.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>187227<pc>924,1<k1>varja<k2>varja<e>2
+623608 old <s>varja</s> ¦ <lex>mf(<s>A</s>)n.</lex> (<ab>ifc.</ab>) free from, devoid of excluding, with the exception of <ls>MBh.</ls>; <ls>BhP.</ls><info lex="m:f#A:n"/><info hui="a"/>
+;
+623608 new <s>varja</s> ¦ <lex>mf(<s>A</s>)n.</lex> (<ab>ifc.</ab>) free from, devoid of, excluding, with the exception of <ls>MBh.</ls>; <ls>BhP.</ls><info lex="m:f#A:n"/><info hui="a"/>
+;---------------------------------------------------
+; <L>188610<pc>930,1<k1>vasantamAsa<k2>vasanta—mAsa<e>3
+627917 old <s>vasanta—mAsa</s> ¦ <lex>m.</lex> <ab>N.</ab> of the 9th ninth, <ls>L.</ls><info lex="m"/>
+;
+627917 new <s>vasanta—mAsa</s> ¦ <lex>m.</lex> <ab>N.</ab> of the 9th month, <ls>L.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>189130<pc>932,3<k1>vastu<k2>vastu<e>2A
+629652 old ¦ subject, subject-matter, contents, theme (of a speech &c.), plot (of a drama or poem), <ls>Kāv.</ls>; <ls>Daśar.</ls>; <ls>Sāh.</ls> &c.<info lex="inh"/>
+;
+629652 new ¦ subject, subject matter, contents, theme (of a speech &c.), plot (of a drama or poem), <ls>Kāv.</ls>; <ls>Daśar.</ls>; <ls>Sāh.</ls> &c.<info lex="inh"/>
+;---------------------------------------------------
+; <L>192316<pc>947,2<k1>vAsas<k2>vA/sas<h>1<e>2
+639837 old <hom>1.</hom> <s>vA/sas</s> ¦ <lex>n.</lex> (for <hom>2.</hom> See <ab>col.</ab> 2) cloth, clothes, dress, a garment (<ab>du.</ab> an upper and under garment; <ab>cf.</ab> <s>vAso-yuga</s>), <ls>RV.</ls> &c. &c.<info lex="n"/>
+;
+639837 new <hom>1.</hom> <s>vA/sas</s> ¦ <lex>n.</lex> (for <hom>2.</hom> See <ab>col.</ab> 2) cloth, clothes, dress, a garment (<ab>du.</ab> an upper and undergarment; <ab>cf.</ab> <s>vAso-yuga</s>), <ls>RV.</ls> &c. &c.<info lex="n"/>
+;---------------------------------------------------
+; <L>194956<pc>959,3<k1>vij<k2>vij<h>1<e>1
+648612 old <hom>1.</hom> <s>vij</s> ¦ (<ab>cf.</ab> √ <s>vic</s>) <ab>cl.</ab> 6. <ab>Ā.</ab> <s>vija/te</s> (<ab>mc.</ab> also <s>vijati</s> and <s>vejate</s>, and <ab>accord.</ab> to <ls>Dhātup. xxix, 23</ls> and <ls n="Dhātup.">xxv, 12</ls> also <ab>cl.</ab> 1. <ab>P.</ab> <s>vinakti</s>, and <ab>cl.</ab> 3. <ab>P.</ab> <ab>Ā.</ab> <s>vevekti</s>, <s>vevikte</s>; <ab>pf.</ab> <s>vivije</s>, 3. <ab>pl.</ab> <s>°jre</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>vikTAs</s>, <s>vikta</s>, <ls>ib.</ls>; <s>avijIt</s>, <s>avijizwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>vijitA</s>, <ls>ib.</ls>; <s>vijizyati</s>, <ls>MBh.</ls>; <s>vejizyati</s>, <ls>Śatr.</ls>; <ab>inf.</ab> <s>vijitum</s> <ab>Gr.</ab>),
+;
+648612 new <hom>1.</hom> <s>vij</s> ¦ (<ab>cf.</ab> √ <s>vic</s>) <ab>cl.</ab> 6. <ab>Ā.</ab> <s>vija/te</s> (<ab>mc.</ab> also <s>vijati</s> and <s>vejate</s>, and <ab>accord.</ab> to <ls>Dhātup. xxix, 23</ls> and <ls n="Dhātup.">xxv, 12</ls> also <ab>cl.</ab> 7. <ab>P.</ab> <s>vinakti</s>, and <ab>cl.</ab> 3. <ab>P.</ab> <ab>Ā.</ab> <s>vevekti</s>, <s>vevikte</s>; <ab>pf.</ab> <s>vivije</s>, 3. <ab>pl.</ab> <s>°jre</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>vikTAs</s>, <s>vikta</s>, <ls>ib.</ls>; <s>avijIt</s>, <s>avijizwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>vijitA</s>, <ls>ib.</ls>; <s>vijizyati</s>, <ls>MBh.</ls>; <s>vejizyati</s>, <ls>Śatr.</ls>; <ab>inf.</ab> <s>vijitum</s> <ab>Gr.</ab>),
+;---------------------------------------------------
+; <L>200323<pc>988,3<k1>vivfttadaMzwra<k2>vi-vftta—daMzwra<e>3
+666537 old <s>vi-vftta—daMzwra</s> ¦ <lex>mfn.</lex> with opened jaws, showing the teeth, <ls>Hariv.</ls> (<ab>mc.</ab> for <s>vi-vftad°</s>; <ab>v.l.</ab> <s>vi-vridDa-d°</s>.)<info lex="m:f:n"/>
+;
+666537 new <s>vi-vftta—daMzwra</s> ¦ <lex>mfn.</lex> with opened jaws, showing the teeth, <ls>Hariv.</ls> (<ab>mc.</ab> for <s>vi-vftad°</s>; <ab>v.l.</ab> <s>vi-vfdDa-d°</s>.)<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>200644<pc>990,3<k1>viSezaBAga<k2>vi-Seza—BAga<e>3
+667642 old <s>vi-Seza—BAga</s> ¦ <lex>m.</lex> a <ab>partic.</ab> part of an elephant's fore-foot, <ls>L.</ls><info lex="m"/>
+;
+667642 new <s>vi-Seza—BAga</s> ¦ <lex>m.</lex> a <ab>partic.</ab> part of an elephant's forefoot, <ls>L.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>202028<pc>997,1<k1>vizaya<k2>vizaya<e>1A
+672342 old ¦ any subject or topic, subject-matter, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="inh"/>
+;
+672342 new ¦ any subject or topic, subject matter, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="inh"/>
+;---------------------------------------------------
+; <L>203978<pc>1007,1<k1>vf<k2>vf<h>1<e>1
+678878 old <s>vflvI/</s>, <ls>RV.</ls>;
+;
+678878 new <s>vftvI/</s>, <ls>RV.</ls>;
+;---------------------------------------------------
+; <L>205140<pc>1013,1<k1>vfzalI<k2>vf/zalI<e>2
+682708 old <s>vf/zalI</s> ¦ <lex>f.</lex> a woman of low caste, <s1>Śūdra</s1> woman, <ls>ŚBr.</ls> &c. &c. (<ls>L.</ls> also ‘an unmarried girl twelve years old in whom menstruation has commenced; a woman during menstruation; a barren woman; the mother of a still-born child’). <info lex="f"/><info hui="b"/>
+;
+682708 new <s>vf/zalI</s> ¦ <lex>f.</lex> a woman of low caste, <s1>Śūdra</s1> woman, <ls>ŚBr.</ls> &c. &c. (<ls>L.</ls> also ‘an unmarried girl twelve years old in whom menstruation has commenced; a woman during menstruation; a barren woman; the mother of a stillborn child’). <info lex="f"/><info hui="b"/>
+;---------------------------------------------------
+; <L>206358<pc>1019,1<k1>veSa<k2>veSa/<e>1A
+686742 old ¦ often <ab>w.r.</ab> for <s>veza</s>. [For cognate words See under √ <hom>1.</hom> <s>viS</s>.]<info lex="inh"/>
+;
+686742 new ¦ often <ab>w.r.</ab> for <s>veza</s>. [For cognate words, see under √ <hom>1.</hom> <s>viS</s>.]<info lex="inh"/>
+;---------------------------------------------------
+; <L>208671<pc>1031,1<k1>vyaD<k2>vyaD<e>1
+693997 old <s>vyaD</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 72</ls>) <s>vi/Dyati</s> (<lang>ep.</lang> also <s>°te</s>; <ab>pf.</ab> <ab>p.</ab> <s>vivyADa</s>, <ls>Br.</ls> &c.; 3. <ab>pl.</ab> <s>vivyaDuH</s>, <ls>MBh.</ls>, <s>viviDuH</s>, <ls>Up.</ls>; <ab>Ā.</ab> <s>vivyaDe</s>, <ls>MBh.</ls>; <ab>p.</ab> <s>viviDva/s</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>vyAtsIH</s>, <ls>Br.</ls>; <ab>Prec.</ab> <s>viDyAt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>vedDA</s>, <s>vetsyati</s>, <s>°te</s>, <ls>MBh.</ls>; <s>vyadDA</s>, <s>vyatsyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>vedDum</s>, <ls>MBh.</ls>; <s>-viDe</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>viqQvA</s>, <s>-viDya</s>, <ls>MBh.</ls>),
+;
+693997 new <s>vyaD</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 72</ls>) <s>vi/Dyati</s> (<lang>ep.</lang> also <s>°te</s>; <ab>pf.</ab> <ab>p.</ab> <s>vivyADa</s>, <ls>Br.</ls> &c.; 3. <ab>pl.</ab> <s>vivyaDuH</s>, <ls>MBh.</ls>, <s>viviDuH</s>, <ls>Up.</ls>; <ab>Ā.</ab> <s>vivyaDe</s>, <ls>MBh.</ls>; <ab>p.</ab> <s>viviDva/s</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>vyAtsIH</s>, <ls>Br.</ls>; <ab>Prec.</ab> <s>viDyAt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>vedDA</s>, <s>vetsyati</s>, <s>°te</s>, <ls>MBh.</ls>; <s>vyadDA</s>, <s>vyatsyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>vedDum</s>, <ls>MBh.</ls>; <s>-viDe</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>vidDvA</s>, <s>-viDya</s>, <ls>MBh.</ls>),
+;---------------------------------------------------
+; <L>210711<pc>1043,1<k1>vraSc<k2>vraSc<e>1
+700855 old <s>vraSc</s> ¦ (<ab>cf.</ab> √ <s>vfk</s>) <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxviii, 11</ls>) <s>vfSca/ti</s> (<ab>pr. p.</ab> <s>vfkRan</s> [?] <ls>BhP.</ls>; <ab>pf.</ab> <s>vavraSca</s>, <s>°ciTa</s> <ab>Gr.</ab>; <ab>aor.</ab> <s>avraScIt</s>, <s>avrAkzIt</s>, <ls>ib.</ls>; <s>vfkzi</s>, <ls>Br.</ls>; <ab>fut.</ab> <s>vraScitA</s>, <s>vrazwA</s> <ab>Gr.</ab>; <s>vraScizyati</s>, <s>vrakzyati</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>vraScitvA</s>, <ls>ib.</ls>; <s>vfzwvA/</s>, <ls>AV.</ls>; <s>vfktvI/</s>, <ls>RV.</ls>; <s>-vra/Scam</s>, <s>-vftcya</s>, <ls>Br.</ls> &c.),
+;
+700855 new <s>vraSc</s> ¦ (<ab>cf.</ab> √ <s>vfk</s>) <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxviii, 11</ls>) <s>vfSca/ti</s> (<ab>pr. p.</ab> <s>vfkRan</s> [?] <ls>BhP.</ls>; <ab>pf.</ab> <s>vavraSca</s>, <s>°ciTa</s> <ab>Gr.</ab>; <ab>aor.</ab> <s>avraScIt</s>, <s>avrAkzIt</s>, <ls>ib.</ls>; <s>vfkzi</s>, <ls>Br.</ls>; <ab>fut.</ab> <s>vraScitA</s>, <s>vrazwA</s> <ab>Gr.</ab>; <s>vraScizyati</s>, <s>vrakzyati</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>vraScitvA</s>, <ls>ib.</ls>; <s>vfzwvA/</s>, <ls>AV.</ls>; <s>vfktvI/</s>, <ls>RV.</ls>; <s>-vra/Scam</s>, <s>-vfScya</s>, <ls>Br.</ls> &c.),
+;---------------------------------------------------
+; <L>210711<pc>1043,1<k1>vraSc<k2>vraSc<e>1
+700860 old <div n="vp"/><ab>Intens.</ab> <s>varIvfScyate</s>, <s>varIvftcIti</s>, <ls>ib.</ls><info westergaard="vrascu,28.11,06.0014"/><info whitneyroots="vraSc,168"/><info verb="genuineroot" cp="6P"/>
+;
+700860 new <div n="vp"/><ab>Intens.</ab> <s>varIvfScyate</s>, <s>varIvfScIti</s>, <ls>ib.</ls><info westergaard="vrascu,28.11,06.0014"/><info whitneyroots="vraSc,168"/><info verb="genuineroot" cp="6P"/>
+;---------------------------------------------------
+; <L>210763<pc>1043,2<k1>vrI<k2>vrI<e>1
+701022 old <s>vrI</s> ¦ (<ab>cf.</ab> √ <s>vf</s> and <s>vlI</s>) <ab>cl.</ab> 9. <ab>P.</ab> and <ab>cl.</ab> 4. <ab>Ā.</ab> <s>vrIRAti</s>, <s>vriRAti</s>, or <s>vrIyate</s>, ‘to choose’ or ‘to cover’ (<s>varaRe</s>), <ls>Dhātup. xxxi, 31</ls>; <ls n="Dhātup.">xxvi, 31</ls> <ab>Caus.</ab> <s>vrayayati</s>, or <s>vrepayati</s> <ab>Gr.</ab>:
+;
+701022 new <s>vrI</s> ¦ (<ab>cf.</ab> √ <s>vf</s> and <s>vlI</s>) <ab>cl.</ab> 9. <ab>P.</ab> and <ab>cl.</ab> 4. <ab>Ā.</ab> <s>vrIRAti</s>, <s>vriRAti</s>, or <s>vrIyate</s>, ‘to choose’ or ‘to cover’ (<s>varaRe</s>), <ls>Dhātup. xxxi, 31</ls>; <ls n="Dhātup.">xxvi, 31</ls> <ab>Caus.</ab> <s>vrAyayati</s>, or <s>vrepayati</s> <ab>Gr.</ab>:
+;---------------------------------------------------
+; <L>211289<pc>1046,1<k1>Sakala<k2>Sa/kala<e>1B
+702670 old ¦ the half of an egg-shell, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="inh"/>
+;
+702670 new ¦ the half of an eggshell, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="inh"/>
+;---------------------------------------------------
+; <L>212911<pc>1053,3<k1>Sam<k2>Sam<h>1<e>1
+708019 old <hom>1.</hom> <s>Sam</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 92</ls>), <s>SA/myati</s> (rarely <s>°te</s>, and <lang>ep.</lang> also <s>Samati</s>, <s>°te</s>; <lang>Ved.</lang> <s>Samyati</s>, <s>Simyati</s>, and <ab>cl.</ab> 9. <s>SamnAti</s> [<ls>Naigh. ii, 9</ls>], <s>SamnIze</s>, <s>SamnITAs</s> <ab>Impv.</ab> <s>SamnIzva</s>, <s>SamIzva</s>, <s>Samizva</s>, <s>SamIDvam</s>; <ab>pf.</ab> <s>SaSAma</s>, <s>SemuH</s>, <ls>Br.</ls> &c.; <s>SaSame/</s> <ab>Subj.</ab> <s>SaSa/mate</s>, <ls>RV.</ls>; <ab>p.</ab> <s>SaSamAna/</s> [<ab>q.v.</ab>]; <ab>aor.</ab> <s>a/SamizWAs</s>, <ls>RV.</ls>; <s>aSamat</s>, <ls>Br.</ls> [<ab>cf.</ab> <ab>pres.</ab>]; <ab>Prec.</ab> <s>SamyAt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>SamitA</s>, <s>Samizyati</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>SamitvA</s>, <s>SAntvA</s>, <s>SAmam</s> or <s>Samam</s>, <ls>ib.</ls>),
+;
+708019 new <hom>1.</hom> <s>Sam</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 92</ls>), <s>SA/myati</s> (rarely <s>°te</s>, and <lang>ep.</lang> also <s>Samati</s>, <s>°te</s>; <lang>Ved.</lang> <s>Samyati</s>, <s>Simyati</s>, and <ab>cl.</ab> 9. <s>SamnAti</s> [<ls>Naigh. ii, 9</ls>], <s>SamnIze</s>, <s>SamnITAs</s>, <ab>Impv.</ab> <s>SamnIzva</s>, <s>SamIzva</s>, <s>Samizva</s>, <s>SamIDvam</s>; <ab>pf.</ab> <s>SaSAma</s>, <s>SemuH</s>, <ls>Br.</ls> &c.; <s>SaSame/</s> <ab>Subj.</ab> <s>SaSa/mate</s>, <ls>RV.</ls>; <ab>p.</ab> <s>SaSamAna/</s> [<ab>q.v.</ab>]; <ab>aor.</ab> <s>a/SamizWAs</s>, <ls>RV.</ls>; <s>aSamat</s>, <ls>Br.</ls> [<ab>cf.</ab> <ab>pres.</ab>]; <ab>Prec.</ab> <s>SamyAt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>SamitA</s>, <s>Samizyati</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>SamitvA</s>, <s>SAntvA</s>, <s>SAmam</s> or <s>Samam</s>, <ls>ib.</ls>),
+;---------------------------------------------------
+; <L>213059<pc>1054,2<k1>SampAka<k2>Sam—pAka<e>3
+708490 old <s>Sam—pAka</s> ¦ <lex>m.</lex> <bot>Cathartocarpus Fistula</bot>, <ls>MBh.</ls>; <ls>Suśr.</ls> &c. (perhaps <ab>w.r.</ab> for <s>SamyAka</s> <ab>cf.</ab> <s>SamyA</s>)<info lex="m"/>
+;
+708490 new <s>Sam—pAka</s> ¦ <lex>m.</lex> <bot>Cathartocarpus Fistula</bot>, <ls>MBh.</ls>; <ls>Suśr.</ls> &c. (perhaps <ab>w.r.</ab> for <s>SamyAka</s>, <ab>cf.</ab> <s>SamyA</s>)<info lex="m"/>
+;---------------------------------------------------
+; <L>216412<pc>1069,2<k1>SAstravid<k2>SAstra—vid<e>3
+718915 old <s>SAstra—vid</s> ¦ <lex>mfn.</lex> = <s>-jYA</s>, <ls>Mn.</ls>; <ls>Gaut.</ls>; <ls>VarBṛ.</ls><info lex="m:f:n"/>
+;
+718915 new <s>SAstra—vid</s> ¦ <lex>mfn.</lex> = <s>-jYa</s>, <ls>Mn.</ls>; <ls>Gaut.</ls>; <ls>VarBṛ.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>216872<pc>1071,2<k1>SitAman<k2>Si/tAman<e>1
+720323 old <s>Si/tAman</s> ¦ <lex>n.</lex> (of doubtful derivation; <ab>cf.</ab> <s>SitIman</s>) a <ab>partic.</ab> part of a sacrificial victim (<ab>accord.</ab> to <s1>Yāska</s1> ‘the under fore-foot’ <ab>accord.</ab> to others ‘the shoulder-blade, the liver &c.’; see <ls>Nir. iv, 13</ls>), <ls>VS.</ls>; <ls>TBr.</ls> (<s>°ma-ta/s</s> <lex type="phw">ind.</lex>)<info phwchild="216872.1"/><info lex="n"/>
+;
+720323 new <s>Si/tAman</s> ¦ <lex>n.</lex> (of doubtful derivation; <ab>cf.</ab> <s>SitIman</s>) a <ab>partic.</ab> part of a sacrificial victim (<ab>accord.</ab> to <s1>Yāska</s1> ‘the under forefoot’ <ab>accord.</ab> to others ‘the shoulder-blade, the liver &c.’; see <ls>Nir. iv, 13</ls>), <ls>VS.</ls>; <ls>TBr.</ls> (<s>°ma-ta/s</s> <lex type="phw">ind.</lex>)<info phwchild="216872.1"/><info lex="n"/>
+;---------------------------------------------------
+; <L>217117<pc>1072,3<k1>SiraHpIqA<k2>SiraH—pIqA<e>3
+721088 old <s>SiraH—pIqA</s> ¦ <lex>f.</lex> head-ache, <ls>W.</ls><info lex="f"/>
+;
+721088 new <s>SiraH—pIqA</s> ¦ <lex>f.</lex> headache, <ls>W.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>217124<pc>1072,3<k1>SiraHSUla<k2>SiraH—SUla<e>3
+721109 old <s>SiraH—SUla</s> ¦ <lex>n.</lex> violent head-ache, <ls>Suśr.</ls>; <ls>Kathās.</ls> &c.<info lex="n"/>
+;
+721109 new <s>SiraH—SUla</s> ¦ <lex>n.</lex> violent headache, <ls>Suśr.</ls>; <ls>Kathās.</ls> &c.<info lex="n"/>
+;---------------------------------------------------
+; <L>217166<pc>1072,3<k1>Sirojvara<k2>Siro—jvara<e>3
+721250 old <s>Siro—jvara</s> ¦ <lex>m.</lex> fever with head-ache, <ls>MBh.</ls><info lex="m"/>
+;
+721250 new <s>Siro—jvara</s> ¦ <lex>m.</lex> fever with headache, <ls>MBh.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>217184<pc>1072,3<k1>SiroBitApa<k2>Siro—'BitApa<e>3
+721304 old <s>Siro—'BitApa</s> ¦ (<s>°ras-aB°</s>), <lex>m.</lex> head-ache, <ls>MBh.</ls>; <ls>Suśr.</ls><info lex="m"/>
+;
+721304 new <s>Siro—'BitApa</s> ¦ (<s>°ras-aB°</s>), <lex>m.</lex> headache, <ls>MBh.</ls>; <ls>Suśr.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>217210<pc>1073,1<k1>Sirorti<k2>Siro—'rti<e>3
+721394 old <s>Siro—'rti</s> ¦ (<s>°ras-ar°</s>), <lex>f.</lex> head-ache, <ls>Kathās.</ls><info lex="f"/>
+;
+721394 new <s>Siro—'rti</s> ¦ (<s>°ras-ar°</s>), <lex>f.</lex> headache, <ls>Kathās.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>217222<pc>1073,1<k1>SirovedanA<k2>Siro—vedanA<e>3
+721430 old <s>Siro—vedanA</s> ¦ <lex>f.</lex> head-ache, <ls>Kād.</ls><info lex="f"/>
+;
+721430 new <s>Siro—vedanA</s> ¦ <lex>f.</lex> headache, <ls>Kād.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>218620<pc>1078,3<k1>SIrzavedanA<k2>SIrza—vedanA<e>3
+726009 old <s>SIrza—vedanA</s> ¦ (<ls>Ratnāv.</ls>) <lex>f.</lex> head-ache.<info lex="f"/>
+;
+726009 new <s>SIrza—vedanA</s> ¦ (<ls>Ratnāv.</ls>) <lex>f.</lex> headache.<info lex="f"/>
+;---------------------------------------------------
+; <L>218621<pc>1078,3<k1>SIrzavyaTA<k2>SIrza—vyaTA<e>3
+726012 old <s>SIrza—vyaTA</s> ¦ (<ls>Pañcad.</ls>) <lex>f.</lex> head-ache.<info lex="f"/>
+;
+726012 new <s>SIrza—vyaTA</s> ¦ (<ls>Pañcad.</ls>) <lex>f.</lex> headache.<info lex="f"/>
+;---------------------------------------------------
+; <L>218639<pc>1079,1<k1>SIrzaktimat<k2>SIrzakti—ma/t<e>3
+726066 old <s>SIrzakti—ma/t</s> ¦ <lex>mfn.</lex> suffering from head-ache, <ls>TS.</ls><info lex="m:f:n"/>
+;
+726066 new <s>SIrzakti—ma/t</s> ¦ <lex>mfn.</lex> suffering from headache, <ls>TS.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>219184<pc>1081,1<k1>Suc<k2>Suc<h>1<e>1
+727738 old <hom>1.</hom> <s>Suc</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. vii, 1</ls>) <s>Socati</s> (<lang>Ved.</lang> and <lang>ep.</lang> also <s>°te</s>; once in <ls>ŚBr.</ls> <s>-Sucyati</s> [<ab>cf.</ab> <s>saM-√ Suc</s>]; and in <ls>MBh. iii, 2372</ls> <s>Socimi</s>; <ab>pf.</ab> <s>SuSoca</s> <ab>Impv.</ab> <s>SuSugDi</s> <ab>Pot.</ab> <s>SuSucIta</s>, <ab>p.</ab> <s>SuSukva/s</s> and <s>SuSucAna/</s>, <ab>aor.</ab> <s>aSucat</s> [<ab>p.</ab> <s>Suca/t</s> and <s>Suca/mAna</s>] <ls>RV.</ls>; <s>aSocIt</s> [2. <ab>sg.</ab> <s>SocIH</s>] <ls>Br.</ls>; <s>aSocizwa</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>SucyAsam</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>SoktA</s> or <s>SocitA</s>, <ls>ib.</ls>; <s>Sucizyati</s>, <s>°te</s>, <ls>MBh.</ls> &c. &c.; <ab>inf.</ab> <s>Suca/DyE</s>, <ls>RV.</ls>; <s>Soktum</s> or <s>Socitum</s>, <ls>MBh.</ls> &c.; <ab>ind.p.</ab> <s>SocitvA</s>, <ls>MBh.</ls>; <s>SucitvA</s>, <ls>Pāṇ. i, 2, 26</ls>)
+;
+727738 new <hom>1.</hom> <s>Suc</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. vii, 1</ls>) <s>Socati</s> (<lang>Ved.</lang> and <lang>ep.</lang> also <s>°te</s>; once in <ls>ŚBr.</ls> <s>-Sucyati</s> [<ab>cf.</ab> <s>saM-√ Suc</s>]; and in <ls>MBh. iii, 2372</ls> <s>Socimi</s>; <ab>pf.</ab> <s>SuSoca</s>, <ab>Impv.</ab> <s>SuSugDi</s> <ab>Pot.</ab> <s>SuSucIta</s>, <ab>p.</ab> <s>SuSukva/s</s> and <s>SuSucAna/</s>, <ab>aor.</ab> <s>aSucat</s> [<ab>p.</ab> <s>Suca/t</s> and <s>Suca/mAna</s>] <ls>RV.</ls>; <s>aSocIt</s> [2. <ab>sg.</ab> <s>SocIH</s>] <ls>Br.</ls>; <s>aSocizwa</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>SucyAsam</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>SoktA</s> or <s>SocitA</s>, <ls>ib.</ls>; <s>Sucizyati</s>, <s>°te</s>, <ls>MBh.</ls> &c. &c.; <ab>inf.</ab> <s>Suca/DyE</s>, <ls>RV.</ls>; <s>Soktum</s> or <s>Socitum</s>, <ls>MBh.</ls> &c.; <ab>ind.p.</ab> <s>SocitvA</s>, <ls>MBh.</ls>; <s>SucitvA</s>, <ls>Pāṇ. i, 2, 26</ls>)
+;---------------------------------------------------
+; <L>219366<pc>1082,1<k1>SuD<k2>SuD<e>1
+728318 old <div n="vp"/> <ab>cl.</ab> 4. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxvi, 82</ls>) <s>SuDyati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pf.</ab> <s>SuSoDa</s> <ab>aor.</ab> <s>aSuDat</s> <ab>fut.</ab> <s>SodDA</s>, <s>Sotsyati</s>, <ab>inf.</ab> <s>SodDum</s> <ab>Gr.</ab>),
+;
+728318 new <div n="vp"/> <ab>cl.</ab> 4. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxvi, 82</ls>) <s>SuDyati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pf.</ab> <s>SuSoDa</s>, <ab>aor.</ab> <s>aSuDat</s>, <ab>fut.</ab> <s>SodDA</s>, <s>Sotsyati</s>, <ab>inf.</ab> <s>SodDum</s> <ab>Gr.</ab>),
+;---------------------------------------------------
+; <L>220017<pc>1085,1<k1>Suzkala<k2>Suzkala<e>2B
+730346 old <s>Suzkala</s> ¦ <lex>n.</lex> a fish-hook, <ls>TBr.</ls>, <ab>Sch.</ab><info lex="n"/>
+;
+730346 new <s>Suzkala</s> ¦ <lex>n.</lex> a fishhook, <ls>TBr.</ls>, <ab>Sch.</ab><info lex="n"/>
+;---------------------------------------------------
+; <L>222401<pc>1096,1<k1>Sram<k2>Sram<h>1<e>1
+737752 old <hom>1.</hom> <s>Sram</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 95</ls>) <s>SrAmyati</s> (in later language also <s>Sramati</s>, <s>te</s>; <ab>pf.</ab> <s>SaSrama</s>, 3. <ab>pl.</ab> <s>SaSramuH</s> or [<ls>ŚāṅkhBr.</ls>] <s>SremuH</s>, <ab>p.</ab> <s>SaSramARa/</s>, <ls>RV.</ls>; <ls>MBh.</ls>; <ab>aor.</ab> <s>ASramat</s>, <ls>AV.</ls>, <ab>Subj.</ab> <s>Sramat</s>, <ls>RV.</ls>; <s>Sramizma</s>, <ls>ib.</ls>; <ls>Br.</ls>; <ab>fut.</ab> <s>SramitA</s>, <ls>MBh.</ls>; <s>Sramizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>Sramitum</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>-Sra/mya</s>, <ls>Br.</ls>),
+;
+737752 new <hom>1.</hom> <s>Sram</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 95</ls>) <s>SrAmyati</s> (in later language also <s>Sramati</s>, <s>te</s>; <ab>pf.</ab> <s>SaSrama</s>, 3. <ab>pl.</ab> <s>SaSramuH</s> or [<ls>ŚāṅkhBr.</ls>] <s>SremuH</s>, <ab>p.</ab> <s>SaSramARa/</s>, <ls>RV.</ls>; <ls>MBh.</ls>; <ab>aor.</ab> <s>a/Sramat</s>, <ls>AV.</ls>, <ab>Subj.</ab> <s>Sramat</s>, <ls>RV.</ls>; <s>Sramizma</s>, <ls>ib.</ls>; <ls>Br.</ls>; <ab>fut.</ab> <s>SramitA</s>, <ls>MBh.</ls>; <s>Sramizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>Sramitum</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>-Sra/mya</s>, <ls>Br.</ls>),
+;---------------------------------------------------
+; <L>222401<pc>1096,1<k1>Sram<k2>Sram<h>1<e>1
+737758 old <div n="to"/> (<s>SrAmayati</s>), to speak to, address, invite (<s>AmantraRe</s>), <ls>Dhātup. xxxv, 40</ls> (<ab>v.l.</ab> for <s>grAm°</s> <ab>cf.</ab> <s>grAmaya</s>) :
+;
+737758 new <div n="to"/> (<s>SrAmayati</s>), to speak to, address, invite (<s>AmantraRe</s>), <ls>Dhātup. xxxv, 40</ls> (<ab>v.l.</ab> for <s>grAm°</s>, <ab>cf.</ab> <s>grAmaya</s>) :
+;---------------------------------------------------
+; <L>223393<pc>1100,3<k1>Sru<k2>Sru<h>1<e>1
+741008 old <ab>Subj.</ab> <s>Srozan</s> <ab>Impv.</ab> <s>Srozantu</s>, <ls>RV.</ls> [<ab>cf.</ab> <s>Sro/zamARa</s>];
+;
+741008 new <ab>Subj.</ab> <s>Srozan</s>, <ab>Impv.</ab> <s>Srozantu</s>, <ls>RV.</ls> [<ab>cf.</ab> <s>Sro/zamARa</s>];
+;---------------------------------------------------
+; <L>223624<pc>1102,1<k1>Srutivizaya<k2>Sruti—vizaya<e>3A
+741747 old ¦ subject-matter or doctrine of the <s1>Veda</s1>, any sacred matter or ordinance, <ls>W.</ls><info lex="inh"/>
+;
+741747 new ¦ subject matter or doctrine of the <s1>Veda</s1>, any sacred matter or ordinance, <ls>W.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>225200<pc>1109,2<k1>zaqbindu<k2>zaq—bindu<e>3B
+747001 old <s>zaq—bindu</s> ¦ (with <s>tEla</s>) <lex>n.</lex> an oily mixture six drops of which are drawn up the nose (as a remedy for head-ache), <ls>Bhpr.</ls><info lex="n"/>
+;
+747001 new <s>zaq—bindu</s> ¦ (with <s>tEla</s>) <lex>n.</lex> an oily mixture six drops of which are drawn up the nose (as a remedy for headache), <ls>Bhpr.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>225563<pc>1111,1<k1>zWiv<k2>zWiv<e>1
+748163 old <s>zWiv</s> or <s>zWIv</s> ¦ <ab>cl.</ab> 1. 4.<ab>P.</ab> (<ls>Dhātup. xv, 52</ls>; <ls n="Dhātup.">xxvi, 4</ls>) <s>zWIvati</s> or <s>zWIvyati</s> (<ab>pf.</ab> <s>wizWeva</s>, <ls>Br.</ls>; <s>tizWeva</s> <ab>Gr.</ab>; <ab>aor.</ab> <s>azWevIt</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>zTevitA</s>, <s>zWevizyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>zWevitum</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>zWevitvA</s> or <s>zWyUtvA</s>, <ls>ib.</ls>; <s>-zWIvya</s>, <ls>Mn.</ls>),
+;
+748163 new <s>zWiv</s> or <s>zWIv</s> ¦ <ab>cl.</ab> 1. 4.<ab>P.</ab> (<ls>Dhātup. xv, 52</ls>; <ls n="Dhātup.">xxvi, 4</ls>) <s>zWIvati</s> or <s>zWIvyati</s> (<ab>pf.</ab> <s>tizWeva</s>, <ls>Br.</ls>; <s>wizWeva</s>, <ab>Gr.</ab>; <ab>aor.</ab> <s>azWevIt</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>zTevitA</s>, <s>zWevizyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>zWevitum</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>zWevitvA</s> or <s>zWyUtvA</s>, <ls>ib.</ls>; <s>-zWIvya</s>, <ls>Mn.</ls>),
+;---------------------------------------------------
+; <L>227799<pc>1124,3<k1>sakft<k2>sa-kf/t<e>1B
+755714 old ¦ at once, together, <ls>W.</ls>[For cognate words See under <hom>7.</hom> <s>sa</s>.]<info lex="inh"/>
+;
+755714 new ¦ at once, together, <ls>W.</ls> [For cognate words, see under <hom>7.</hom> <s>sa</s>.]<info lex="inh"/>
+;---------------------------------------------------
+; <L>227922<pc>1125,2<k1>saG<k2>saG<e>1
+756104 old <s>saG</s> ¦ (<ab>cf.</ab> √ <s>sah</s>) <ab>cl.</ab> 5. <ab>P.</ab> (<ls>Dhātup. xxvii, 20</ls>) <s>saGnoti</s> (occurring only in <ab>impf.</ab> <s>a/saGnoH a/saGnoH°not</s> <ab>Pot.</ab> <s>saGnuyAt</s> <ab>Subj.</ab> <s>sa/Gat</s> <ab>Prec.</ab> <s>saGyAsam</s>, and <ab>inf.</ab> <s>sagDyE</s>; <ab>Gr.</ab> also <ab>pf.</ab> <s>sasAGa</s> <ab>aor.</ab> <s>asaGIt</s>, or <s>asAGIt</s> &c.),
+;
+756104 new <s>saG</s> ¦ (<ab>cf.</ab> √ <s>sah</s>) <ab>cl.</ab> 5. <ab>P.</ab> (<ls>Dhātup. xxvii, 20</ls>) <s>saGnoti</s> (occurring only in <ab>impf.</ab> <s>a/saGnoH a/saGnoH°not</s> <ab>Pot.</ab> <s>saGnuyAt</s> <ab>Subj.</ab> <s>sa/Gat</s>, <ab>Prec.</ab> <s>saGyAsam</s>, and <ab>inf.</ab> <s>sagDyE</s>; <ab>Gr.</ab> also <ab>pf.</ab> <s>sasAGa</s> <ab>aor.</ab> <s>asaGIt</s>, or <s>asAGIt</s> &c.),
+;---------------------------------------------------
+; <L>232168<pc>1147,3<k1>saMnaya<k2>saM-naya/<e>2B
+770455 old ¦ the rear of an army, rear-guard, <ls>L.</ls><info lex="inh"/>
+;
+770455 new ¦ the rear of an army, rearguard, <ls>L.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>239777<pc>1192,1<k1>sasrIvfkza<k2>sa—srI-vfkza<e>3
+796325 old <L>239777<pc>1192,1<k1>sasrIvfkza<k2>sa—srI-vfkza<e>3
+;
+796325 new <L>239777<pc>1192,1<k1>saSrIvfkza<k2>sa—SrI-vfkza<e>3
+;---------------------------------------------------
+; <L>239777<pc>1192,1<k1>sasrIvfkza<k2>sa—srI-vfkza<e>3
+796326 old <s>sa—srI-vfkza</s> ¦ <lex>mfn.</lex> marked with a circular tuft or curl of hair on the breast (as a horse), <ls>Kathās.</ls><info lex="m:f:n"/>
+;
+796326 new <s>sa—SrI-vfkza</s> ¦ <lex>mfn.</lex> marked with a circular tuft or curl of hair on the breast (as a horse), <ls>Kathās.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>241500<pc>1200,3<k1>sAD<k2>sAD<h>1<e>1
+802049 old <div n="vp"/><ab>Intens.</ab>, <s>sAsADyate</s>, <s>sAsdiDi</s>, <ls>ib.</ls><info westergaard="rADa,26.71,04.0076;sADa,27.16,05.0017"/><info whitneyroots="sAD,185"/><info verb="genuineroot" cp="1P,1Ā,4,5"/>
+;
+802049 new <div n="vp"/><ab>Intens.</ab>, <s>sAsADyate</s>, <s>sAsAdDi</s>, <ls>ib.</ls><info westergaard="rADa,26.71,04.0076;sADa,27.16,05.0017"/><info whitneyroots="sAD,185"/><info verb="genuineroot" cp="1P,1Ā,4,5"/>
+;---------------------------------------------------
+; <L>243722<pc>1212,3<k1>si<k2>si<h>1<e>1
+809108 old <hom>1.</hom> <s>si</s> ¦ (<ab>cf.</ab> √ <hom>4.</hom> <s>sA</s>) <ab>cl.</ab> 5. 9. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxvii, 2</ls>; <ls n="Dhātup.">xxxi, 5</ls>) <s>sinoti</s>, <s>sinute</s>; <s>sinA/ti</s>, <s>sinite</s> (really occurring only in <ab>pres.</ab> <s>sinA/ti</s>, <ab>impf.</ab> <s>asinot</s>; <ab>pf.</ab> <s>sizAya</s>, <ls>RV.</ls>; <ab>aor.</ab> [?] <s>sizet</s>, <ls>ib.</ls>; <s>asEzIt</s>, <s>asezwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>setA</s>, <ls>ib.</ls>; <s>sizyati</s>, <ls>MBh.</ls>; <s>sezyati</s>, <s>°te</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>se/tave</s>, <ls>AV.</ls>; <s>setum</s> <ab>Gr.</ab>),
+;
+809108 new <hom>1.</hom> <s>si</s> ¦ (<ab>cf.</ab> √ <hom>4.</hom> <s>sA</s>) <ab>cl.</ab> 5. 9. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxvii, 2</ls>; <ls n="Dhātup.">xxxi, 5</ls>) <s>sinoti</s>, <s>sinute</s>; <s>sinA/ti</s>, <s>sinIte</s> (really occurring only in <ab>pres.</ab> <s>sinA/ti</s>, <ab>impf.</ab> <s>asinot</s>; <ab>pf.</ab> <s>sizAya</s>, <ls>RV.</ls>; <ab>aor.</ab> [?] <s>sizet</s>, <ls>ib.</ls>; <s>asEzIt</s>, <s>asezwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>setA</s>, <ls>ib.</ls>; <s>sizyati</s>, <ls>MBh.</ls>; <s>sezyati</s>, <s>°te</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>se/tave</s>, <ls>AV.</ls>; <s>setum</s> <ab>Gr.</ab>),
+;---------------------------------------------------
+; <L>245169<pc>1219,1<k1>sImADipa<k2>sImADipa<e>3
+813743 old <s>sImA<srs/>°Dipa</s> ¦ (<s>°mA<srs/>D°</s>), <lex>m.</lex> a frontier-guardian, keeper of the borders, <ls>Pañcat.</ls><info lex="m"/>
+;
+813743 new <s>sImA<srs/>°Dipa</s> ¦ (<s>°mA<srs/>D°</s>), <lex>m.</lex> a frontier guardian, keeper of the borders, <ls>Pañcat.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>251474<pc>1243,2<k1>sUrya<k2>sU/rya<e>2B
+833962 old <s>sU/rya</s> ¦ <lex>mfn.</lex> solar (perhaps <ab>w.r.</ab> for <s>sOrya</s>), <ls>Jyot.</ls>[For cognate words See under <hom>2.</hom> <s>sva/r</s>.]<info lex="m:f:n"/>
+;
+833962 new <s>sU/rya</s> ¦ <lex>mfn.</lex> solar (perhaps <ab>w.r.</ab> for <s>sOrya</s>), <ls>Jyot.</ls> [For cognate words, see under <hom>2.</hom> <s>sva/r</s>.]<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>251758<pc>1244,2<k1>sUryAvarta<k2>sUryAvarta<e>3A
+834907 old ¦ head-ache which increases or diminishes according to the course of the sun, <ls>Suśr.</ls><info lex="inh"/>
+;
+834907 new ¦ headache which increases or diminishes according to the course of the sun, <ls>Suśr.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>254632<pc>1259,1<k1>stu<k2>stu<h>1<e>1
+844084 old (in <ls>RV.</ls> also <s>sta/vate</s>, 3. <ab>sg.</ab> <s>stave</s> [with <ab>pass.</ab> sense], 1. 3. <ab>sg.</ab> <s>stuze/</s> <ab>Impv.</ab> <s>stozi</s>, <ab>p.</ab> [mostly with <ab>pass.</ab> sense] <s>stuvAna/</s>, <s>sta/vAna</s> or <s>stavAna/</s>, <s>sta/vamAna</s>;
+;
+844084 new (in <ls>RV.</ls> also <s>sta/vate</s>, 3. <ab>sg.</ab> <s>stave</s> [with <ab>pass.</ab> sense], 1. 3. <ab>sg.</ab> <s>stuze/</s>, <ab>Impv.</ab> <s>stozi</s>, <ab>p.</ab> [mostly with <ab>pass.</ab> sense] <s>stuvAna/</s>, <s>sta/vAna</s> or <s>stavAna/</s>, <s>sta/vamAna</s>;
+;---------------------------------------------------
+; <L>256475<pc>1268,1<k1>snuh<k2>snuh<h>1<e>1
+849932 old <div n="to"/>to be moist (= √ <s>snih</s> See <s>snUhan</s>). <info westergaard="znuha,26.90,04.0096"/><info verb="root" cp="4P"/>
+;
+849932 new <div n="to"/>to be moist (= √ <s>snih</s>, see <s>snUhan</s>). <info westergaard="znuha,26.90,04.0096"/><info verb="root" cp="4P"/>
+;---------------------------------------------------
+; <L>256588<pc>1268,3<k1>spf<k2>spf<h>1<e>1
+850309 old <hom>1.</hom> <s>spf</s> ¦ (<ab>v.l.</ab> <s>stf</s> and <s>smf</s>) <ab>cl.</ab> 5. <ab>P.</ab> (<ls>Dhātup. xxvii, 13</ls>) <s>spfRo/ti</s> (in <s1>Veda</s1> also <s>spfRute/</s>; <ab>pf.</ab> <s>paspAra</s>, <ls>Br.</ls>; <ab>aor.</ab> <s>aspar</s> <ab>Subj.</ab> <s>sparat</s> <ab>Impv.</ab> <s>spfDi</s>, <ls>RV.</ls>; <s>a/spArzam</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>spartA</s>, <s>sparizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>spa/rase</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>spftvA/</s>, <ls>Br.</ls>),
+;
+850309 new <hom>1.</hom> <s>spf</s> ¦ (<ab>v.l.</ab> <s>stf</s> and <s>smf</s>) <ab>cl.</ab> 5. <ab>P.</ab> (<ls>Dhātup. xxvii, 13</ls>) <s>spfRo/ti</s> (in <s1>Veda</s1> also <s>spfRute/</s>; <ab>pf.</ab> <s>paspAra</s>, <ls>Br.</ls>; <ab>aor.</ab> <s>aspar</s>, <ab>Subj.</ab> <s>sparat</s>, <ab>Impv.</ab> <s>spfDi</s>, <ls>RV.</ls>; <s>a/spArzam</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>spartA</s>, <s>sparizyati</s>, <ab>Gr.</ab>; <ab>inf.</ab> <s>spa/rase</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>spftvA/</s>, <ls>Br.</ls>),
+;---------------------------------------------------
+; <L>257015<pc>1271,1<k1>sPul<k2>sPul<e>1
+851712 old <div n="to"/>to slay, kill, <ls>Naigh. ii, 19.</ls>[For cognate words See under √ <s>sPal</s>.]<info westergaard="sPula,28.96,06.0093"/><info verb="genuineroot" cp="6P"/>
+;
+851712 new <div n="to"/>to slay, kill, <ls>Naigh. ii, 19.</ls> [For cognate words, see under √ <s>sPal</s>.]<info westergaard="sPula,28.96,06.0093"/><info verb="genuineroot" cp="6P"/>
+;---------------------------------------------------
+; <L>257618<pc>1274,2<k1>sriv<k2>sriv<e>1
+853643 old <s>sriv</s> or <s>srIv</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 3</ls>) <s>srIvyati</s> (<ab>Gr.</ab> also <ab>pf.</ab> <s>siSreva</s>; <ab>aor.</ab> <s>asrevIt</s>; <ab>fut.</ab> <s>srevitA</s>; <ab>ind.p.</ab> <s>srevitvA</s> or <s>srUtvA</s>),
+;
+853643 new <s>sriv</s> or <s>srIv</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 3</ls>) <s>srIvyati</s> (<ab>Gr.</ab> also <ab>pf.</ab> <s>sisreva</s>; <ab>aor.</ab> <s>asrevIt</s>; <ab>fut.</ab> <s>srevitA</s>; <ab>ind.p.</ab> <s>srevitvA</s> or <s>srUtvA</s>),
+;---------------------------------------------------
+; <L>262138<pc>1294,3<k1>hasta<k2>ha/sta<e>1A
+868282 old ¦ the fore-arm (a measure of length from the elbow to the tip of the middle finger, = 24 <s1>Aṅgula</s1>s or about 18 inches), <ls>VarBṛS.</ls>; <ls>Rājat.</ls> &c.<info lex="inh"/>
+;
+868282 new ¦ the forearm (a measure of length from the elbow to the tip of the middle finger, = 24 <s1>Aṅgula</s1>s or about 18 inches), <ls>VarBṛS.</ls>; <ls>Rājat.</ls> &c.<info lex="inh"/>
+;---------------------------------------------------
+; <L>262156<pc>1294,3<k1>hastakohali<k2>hasta—kohali<e>3
+868336 old <s>hasta—kohali</s> ¦ (?) <lex>f.</lex> the binding of the string round the fore-arm of the bride and bridegroom, <ls>L.</ls><info lex="f"/>
+;
+868336 new <s>hasta—kohali</s> ¦ (?) <lex>f.</lex> the binding of the string round the forearm of the bride and bridegroom, <ls>L.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>262717<pc>1297,2<k1>hi<k2>hi<h>1<e>1
+870121 old <hom>1.</hom> <s>hi</s> ¦ (<ab>cf.</ab> √ <s>hay</s>) <ab>cl.</ab> 5. <ab>P.</ab> (<ls>Dhātup. xxvii, 11</ls>) <s>hino/ti</s> (<lang>Ved.</lang> also <s>hinute/</s>, <s>hi/nvati</s> and <s>hinva/ti</s>, <s>°te</s>; <ab>p.</ab> <s>hinvAna/</s> [with <ab>act.</ab> and <ab>pass.</ab> sense] <ls>RV.</ls>; <s>ha/yat</s>, <ls>RV.</ls>; <ls>TS.</ls>; 1. <ab>sg.</ab> <s>hize</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>jiGAya</s>, <s>jiGyuH</s>, <ls>Br.</ls> &c.; <s>jiGye</s> [with <ab>pass.</ab> sense] <ls>Bhaṭṭ.</ls>; <ab>aor.</ab> <s>a/hema</s>, <s>ahyan</s>, <s>heta</s> <ab>p.</ab> <s>hiyAna/</s> [with <ab>pass.</ab> sense] <ls>RV.</ls>; <s>ahyam</s> [?], <s>a/hEt</s>, <ls>AV.</ls>; <s>ahEzIt</s>, <ls>Br.</ls>; <s>ahezata</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>hetA</s> <ab>Gr.</ab>; <s>hezyati</s>, <ls>MBh.</ls> &c.; <ab>inf.</ab> <s>-hye/</s>, <ls>RV.</ls>),
+;
+870121 new <hom>1.</hom> <s>hi</s> ¦ (<ab>cf.</ab> √ <s>hay</s>) <ab>cl.</ab> 5. <ab>P.</ab> (<ls>Dhātup. xxvii, 11</ls>) <s>hino/ti</s> (<lang>Ved.</lang> also <s>hinute/</s>, <s>hi/nvati</s> and <s>hinva/ti</s>, <s>°te</s>; <ab>p.</ab> <s>hinvAna/</s> [with <ab>act.</ab> and <ab>pass.</ab> sense] <ls>RV.</ls>; <s>ha/yat</s>, <ls>RV.</ls>; <ls>TS.</ls>; 1. <ab>sg.</ab> <s>hize</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>jiGAya</s>, <s>jiGyuH</s>, <ls>Br.</ls> &c.; <s>jiGye</s> [with <ab>pass.</ab> sense] <ls>Bhaṭṭ.</ls>; <ab>aor.</ab> <s>a/hema</s>, <s>ahyan</s>, <s>heta</s> <ab>p.</ab> <s>hiyAna/</s> [with <ab>pass.</ab> sense] <ls>RV.</ls>; <s>ahyam</s> [?], <s>a/hEt</s>, <ls>AV.</ls>; <s>ahEzIt</s>, <ls>Br.</ls>; <s>ahezata</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>hetA</s> <ab>Gr.</ab>; <s>hezyati</s>, <ls>MBh.</ls> &c.; <ab>inf.</ab> <s>-hye\</s>, <ls>RV.</ls>),
+;---------------------------------------------------

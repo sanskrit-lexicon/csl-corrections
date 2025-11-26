@@ -2035,3 +2035,46 @@ code : Headword : Old  : New : Comment
 2617 : atiCattrA : ati—CattrA or ati—CattrakA : ati—cCattrA or ati—cCattrakA :  headword change
 2617.1 : atiCattrakA : ati—CattrA or ati—CattrakA : ati—cCattrA or ati—cCattrakA :  headword change
 ------------------------------------------------------------------------
+11-25-2025
+@aumsanskrit corrections implemented @funderburkjim
+ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+code : Headword : Old  : New : Comment
+194956 : vij : cl. 1. P. vinakti : cl. 7. P. vinakti :
+15776 : arjunamiSra : n. N. of a : m. N. of a :
+14650 : amlaka : Artocarpus Lakuca : Artocarpus Lakucha
+15073 : araRyakulaTikA : araRyakulaTikA : araRyakulatTikA
+177153 : rAD : Dhātup. xvii, 16 : Dhātup. xxvii, 16
+12066 : aBimihya  : urining : urinating : also change 5 other instances
+28759 : itikartavyatAmUQa : dumb-foundered : dumbfounded
+183010 : luB : xxvi, 124 : xxvi, 128
+227762 : sakalaloka : every one : everyone
+153448 : BraMS : xxvi, 116 : xxvi, 115
+10782 : aprastuta : subject-matter : subject matter: also 10 other instances changed
+72283 : caraRopaDAna : foot-rest : footrest
+10003 : apAtrIkarana : apAtrIkarana : apAtrIkaraRa
+151825 : BUtagrAma : aggregate or elementary : aggregate of elementary
+177153 : rAD : rarADiTa or reDita : rarADiTa or reDiTa
+217124 : SiraHSUla : head-ache : headache : also 14 other instances changed
+9231 : apadava : forest-fire : forest fire : also changed 1 other
+211289 : Sakala : egg-shell : eggshell : 2 others similarly changed
+8154 : antarvastra : under garment : undergarment : 9 other instances also changed
+163565 : mArtavatsa : still-born : stillborn : 4 others also changed
+7934 : antapAla : frontier-guard : frontier guard : 1 other also changed
+39992 : eqamUka : m. : mfn. :
+7998 : antaHpavitra : straining-vessel : straining vessel
+8058 : antarAkUwa : antarAkUwa : antarAkUta
+142408 : baqiSa : fish-hook : fishhook : also 5 others changed
+101318 : DI : Dhātup. xxvi, 37 : Dhātup. xxvi, 27 :
+7681.1 : anUkya : backbone  : n. backbone :
+7515 : anuzRavallikA : the plant Nīladūrbā : the plant Nīladūrvā
+7520 : anuzyanda : hind-wheel : hind wheel :
+144913 : bAhu : fore-arm : forearm : also change 14 other instances
+97096 : dozan : fore-foot : forefoot : Also change 5 other instances
+186557 : vayohARi : vayohARi : vayohAni : headword change
+6891 : anubala : rear-guard : rearguard : Also change 5 other instances
+6801 : anuprapAdam : Pāṇ. iv, 3, 56 : Pāṇ. iii, 4, 56 : confirm PD, PWG
+6798 : anuprapAtam : Pāṇ. iv, 3, 56 : Pāṇ. iii, 4, 56 : confirm PD, PWG
+6733 : anupAlu : Calladium : Caladium 
+31622 : utpaTa : one who is come off from the right way : one who has come off from the right way : 
+  
+-----------------------------------------------------------------------

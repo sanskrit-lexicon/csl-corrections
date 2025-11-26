@@ -1,0 +1,187 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 18, 2025
+This file prepared 11-25-2025
+
+These 26 cases have NOT been done.
+
+* TODO Case 1231: 04/12/2025 dict=MW, L=1544.1, hw=aṅgadīya, user=srhodes
+old = Alphabetical Placement Error
+new = Please note that the supplemental insertion of this Headword into the Main Entry must come just after the Headword: "aṅgadin  [ID=1546.1 sup]". The reason for this correction is printed in the Supplementary section itself which clearly shows this very ordering: "aṅgadin" followed by "aṅgadīya".  Therefore the order cannot be suddenly changed in the Main Entry itself. Also, the ID number: "1544.1 sup" will need to be corrected as well. Furthermore, I do no understand why the window displays also shows the following two words:  LB aṅga—dā f. the female elephant of the south [ID=1545 ] LB aṅga—da n. a bracelet worn on the upper arm. [ID=1546 ]
+comment = Alphabetical Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1201: 04/11/2025 dict=MW, L=153489, hw=bhrajj, user=srhodes
+old = bābharṣṭi
+new = ?
+comment = Typo – Please note that the form "bābharṣṭi" is questionable due complete lack of confirmation from any other source. I hope that Andhrabharati will be able to confirm this questionable form, as being either erroneous or authorized.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1112: 04/04/2025 dict=MW, L=89565, hw=dagh, user=srhodes
+old = Prec. 3. sg. °ghyās;
+new = Prec. 2. sg. °ghyās;
+comment = Typo – Please note that this is a possible "print change", based upon what is usually expected. Perhaps, this is an exceptional case? Therefore, we need clarification from Dr. Dhaval or Andhrabharati
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1051: 03/30/2025 dict=MW, L=14235, hw=amṛtabhavana, user=srhodes
+old = Amṛta-prabhā
+new = Amṛta-prabha
+comment = Typo – Please note that this is a possible "print change", following this definition as given by APTE. The question for Andhrabharati is this: "Was this monastery built by a man or woman?". THAT will give us the correct name here, either masculine or feminine.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1036: 03/29/2025 dict=MW, L=177153, hw=rādh, user=srhodes
+old = Desid. rirātsati
+new = Desid. -rirātsati
+comment = Typo – Please note that this correction follows the printed text. However, I do not understand why the "hyphen" is used here. Certainly this form and the following form: "ritsati", are both available for use without a prefix. If the "hyphen" is dropped in both cases, then a "print change" will be required.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1017: 03/27/2025 dict=MW, L=262717, hw=hi, user=srhodes
+old = jihāpayiṣati
+new = jighāyayiṣati
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. The form given as: "jihāpayiṣati" seems strange.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 940: 03/21/2025 dict=MW, L=12577, hw=abhīṣah, user=srhodes
+old = abhīṣah
+new = abhīṣāh
+comment = Typo – Please note that we need Andhrabharati to confirm the correct prātipadika form. Apte gives the form as: "abhīṣāh" • MW gives: "abhīṣah". Are both forms correct? Or is one of the forms in error?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 911: 03/18/2025 dict=MW, L=164084, hw=mi, user=srhodes
+old = memayīte
+new = memayīti
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 907: 03/18/2025 dict=MW, L=12554, hw=abhiṣac, user=srhodes
+old = abhi-ṣác
+new = abhi-ṣāc
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati. The accent should probably be retained, but the question here is regarding the "long vowel" OR "short vowel". APTE and other sources give this prātipadika with a long vowel. Is MW Dictionary in error? Or are both "long" and "short" vowels authorized in this case? OR, are there actually TWO words here? One word with the "short" vowel and one word with the "long" vowel. We await Andhrabharati's wise counsel.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 856: 03/14/2025 dict=MW, L=103699, hw=nabh, user=srhodes
+old = Caus. nabhayati
+new = Caus. nābhayati
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval and Andhrabharati. I understand that sometimes the causative may be formed either way. However, in this case, I find greater usage of the form "nābhayati", which MW dictionary does not acknowledge. Andhrabharati, please advise us with your wise counsel.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 548: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °noti, Dhātup.
+new = °ṇoti, Dhātup.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval or Andhrabharati. All of the class 5 forms seem to have the letter "ṇ" which seems to be correct. But here, the form is given as: "tṛpnoti", with the dental nasal letter: "n".
+status = PENDING  Jim: no change - cf  PWG "tṛpṇoti ved., tṛpnoti Dhātup. 27,24. "
+------------------------------------------------------------------------
+
+* TODO Case 546: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °trapti
+new = ???
+comment = Typo – I am wondering if Andhrabharati can confirm the authority of this Intensive form: "tarītrapti". I have found only one other listing for this form, and therefore I am doubtful as to the accuracy.
+status = PENDING
+------------------------------------------------------------------------
+* TODO Case 491: 02/21/2025 dict=MW, L=9839, hw=apasavya, user=srhodes
+old = to the left, from the right to the left
+new = to the right, from the left to the right
+comment = Typo – Please note that we need Andhrabharati to check into this. Apte and everyone else seems to confirm this correction. Apparently "apasavya" means: अपक्रान्तं सव्यात् "gone away from the left". Therefore, how can we have the meaning given by MW which seems to be contrary?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 463: 02/18/2025 dict=MW, L=8985, hw=apakāra, user=srhodes
+old = despise
+new = despise ?
+comment = Typo – Please note this particular definition: "despise" is a VERB. We cannot have a verb used directly for the definition of a noun.  For my own purposes, I have relocated the definition: "despise" ,  under the causative form: "apakārayati".  Does Andhrabharati have an opinion on this?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 347: 02/06/2025 dict=MW, L=8632.4, hw=anyatsthānagata, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: "anyatsthānagata [ID=8632.4 sup]", must be placed just prior to the Main Entry Compound: "anyadāśā [ID=8652]". Of course the ID number of "anyatsthānagata" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 346: 02/06/2025 dict=MW, L=8632.3, hw=anyatpārśva, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: "anyatpārśva [ID=8632.3 sup]", must be placed just after the Main Entry Compound: "anyatkṛ [ID=8651]". Of course the ID number of "anyatpārśva" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 345: 02/06/2025 dict=MW, L=8632.2, hw=anyatkāma, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: “anyatkāma mfn. [ID=8632.2 sup]”, must be placed just prior to this Main Entry Compound: "anyatkāraka mfn. [ID=8650]". Of course the ID number of "anyatkāma" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 344: 02/06/2025 dict=MW, L=8632.1, hw=anyat, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: “anyat (in comp.) [ID=8632.1 sup]”, must be placed just prior to this listing of compounds! Please relocate the Supplemental Headword: “anyat (in comp.) [ID=8632.1 sup]” to just prior to the Headword : "anyatkāraka [ID=8650]". Of course the ID number of "anyat" will have to be changed accordingly.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 290: 02/03/2025 dict=MW, L=96951, hw=do, user=srhodes
+old = aor. adāsīt and adāt, Pāṇ. ii, 4, 78;
+new = aor. adāt
+comment = Typo – Please note that this is a VERY important "print change." If you check the rule cited above: "Pāṇ. ii, 4, 78", you will see that the root √do is NOT mentioned. Therefore the elision of sic is NOT optional. Therefore, the form given above: "adāsīt" is incorrect.
+status = PENDING AB/DP to check
+------------------------------------------------------------------------
+
+* TODO Case 219: 01/30/2025 dict=MW, L=8087.2, hw=antarghāta, user=srhodes
+old = antar—ghana or antar—ghāta, m. a place between the entrance-door and the house
+new = Possibly Delete?
+comment = Typo – Please note that APTE very specifically does NOT give the above definition for these two words. APTE says ONLY: 1) "antarghana - N. of a country of Bāhīka (or Bālhīka)"; 2) "antarghāta – striking in the middle". I Hope that Andhrabharati will look into this, as we know MW sometimes misses the mark through plagiarism etc.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 218: 01/30/2025 dict=MW, L=8087.1, hw=antarghana, user=srhodes
+old = antar—ghana or antar—ghāta, m. a place between the entrance-door and the house
+new = Possibly Delete?
+comment = Typo – Please note that APTE very specifically does NOT give the above definition for these two words. APTE says ONLY: 1) "antarghana - N. of a country of Bāhīka (or Bālhīka)"; 2) "antarghāta – striking in the middle". I Hope that Andhrabharati will look into this, as we know MW sometimes misses the mark through plagiarism etc.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 195: 01/29/2025 dict=MW, L=183201, hw=lelāya, user=srhodes
+old = p. lelāyántī gen. leláyatas;
+new = p. lelāyántī, gen. lelā́yatas;
+comment = Typo – Please note the "comma" has been added, as well as a further correction is either a "print change" or it is correct as it stands. The question I have is this: Why is the vowel shortened in the printed form "gen. leláyatas", when every other form of this verb contains the long vowel ā ;  Therefore is this an error, or indeed do we have an odd "short vowel" in the genitive singular?
+status = PENDING  Jim: cf pwg lI (hom 3), page 6-0553 which shows MW spellings.
+------------------------------------------------------------------------
+
+* TODO Case 172: 01/28/2025 dict=MW, L=161620, hw=mahemati, user=srhodes
+old = mahemati
+new = mahemate
+comment = Typo – Please note that this is a suggested "print change". LB The reasoning is as follows: the word given as: “mahenadi" is the feminine singular vocative case of the Headword “mahinadī”. By this same reasoning, the word given as “mahemati” is INCORRECT. Because in this regard, the prātipadika Headword is “mahimati [ID=161411]” and here, the feminine vocative case is clearly printed as “mahemate”. Therefore, the spelling given in the Headword “mahemati [ID=161620]” should be corrected to the feminine singular vocative form printed under the Official Prātipadika Headword "mahimati [ID=161411]". And just to be clear, feminine vocative case is clearly printed as "mahemate", thereby proving the Headword “mahemati [ID=161620]” is INCORRECT.
+status = PENDING  Jim thinks no change. Andhrabharati/Dhaval ?
+------------------------------------------------------------------------
+* TODO Case 46: 01/18/2025 dict=MW, L=18787.1, hw=avitaraṇa, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "avitarka [ID=18783]" in the Hierarchical listing of words. This is the proper alphabetical location, since there is not etymological relation to the currently preceding Headword "avitṛ́ [ID=18771]".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 45: 01/18/2025 dict=MW, L=18787.1, hw=avitaraṇa, user=srhodes
+old = Indentation Error  Placement error
+new = Please note that the Headword "avitṛ́ mfn. a favourer, protector [ID=18771]" derives from the verbal root √av as indicated by the following statement: "avitṛ́ See avita. [ID=18787]". However, the Supplemental Headword "avitaraṇa" derives from the verbal root √tṝ with the prefix "vi" preceded by the negative particle "a". Since MW dictionary is the greatest Etymological Sanskrit Dictionary in existence, we must pay tribute and properly place this Supplemental Headword "avitaraṇa" accordingly. This means NO INDENTATION in the Hierarchy List Column, because there is no relation here to the preceding Headword "avitṛ́ [ID=18771]". I am certain that Andhrabharati would be pleased with the reasoning here.
+comment = Indentation Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 8: 01/15/2025 dict=MW, L=5931.1, hw=anilāśana, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "anilāśin [ID=5930 ]" in the Hierarchical listing of words.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+
