@@ -2036,7 +2036,8 @@ code : Headword : Old  : New : Comment
 2617.1 : atiCattrakA : ati—CattrA or ati—CattrakA : ati—cCattrA or ati—cCattrakA :  headword change
 ------------------------------------------------------------------------
 11-25-2025
-@aumsanskrit corrections implemented @funderburkjim
+@aumsanskrit corrections with advice from @Andhrabharati
+implemented @funderburkjim
 ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
 code : Headword : Old  : New : Comment
 194956 : vij : cl. 1. P. vinakti : cl. 7. P. vinakti :
@@ -2077,4 +2078,49 @@ code : Headword : Old  : New : Comment
 6733 : anupAlu : Calladium : Caladium 
 31622 : utpaTa : one who is come off from the right way : one who has come off from the right way : 
   
+------------------------------------------------------------------------
+11-29-2025
+@aumsanskrit corrections with advice from @Andhrabharati
+implemented @funderburkjim
+ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+code : Headword : Old  : New : Comment
+251404 : sUpadvaMSa : sUpadvaMSa : sUpadaMSa  : headword change
+29312 : iBapowA : f. iBapowA : m. iBapota : cf. AP, LRV
+32214 : udakodaYjana : udakodaYjana : udakodaYcana : headword change
+116409 : parAhata : m. : mfn. : 
+32318 : udIcya : a kind of perfume : (am), n. a kind of perfume
+31730 : utpAdaSayAna : utpAdaSayAna : utpAdaSayana : headword change
+187722 : varDanI : varDanI the act of increasing : varDana (am), n. the act of increasing : Also 187723, 187724, 187725 changed to varDana, all n.
+33275 : udbanDa : united : untied : cf. cae
+202269 : vizk : Dhātup. xxxv, 34 : Dhātup. xxxv, 84
+32034 : utsarpiRI : ava-sarpiRi : ava-sarpiRI
+31278 : uttaravAdin : replicant : respondent : replicant in this sense is archaic.
+162963 : mAnasotka : m. : mfn.  : classify as adjective
+167430 : mfz : Dhātup. xxxiv, 40 : Dhātup. xxxiv, 42 
+44162 : karavAlikA : -pAlika  : -pAlikA
+29741.1 : IdfS : f. such a condition : n. such a condition :
+96422 : devitama : devitama : devitamA
+28987 : indrajAla : juggle : jugglery
+194955 : viC : Dhātup. xxxiii, 109 : Dhātup. xxxiii, 100
+165082 : muc : Dhātup. xxxiii, 66 : Dhātup. xxxiii, 69
+181234 : laq : xxxii, 15 : xxxiii, 14 : (Dhātup. reference)
+128362 : pfT : Dhātup. xxxii, 10 : Dhātup. xxxii, 20
+37438 : ulaq : Dhātup. xxii, 9 : Dhātup. xxxii, 9
+263989 : heQ : Dhātup. xxi, 60 : Dhātup. xxxi, 60
+21864 : ahiripu : = -aviz : = -dviz :
+21413 : asTisaMhAra : id. : the plant Vitis Quadrangularis
+21412 : asTiSfNKalA : the plant <bot>Vitis Quadrangularis</bot> : 
+222857 : SrI : SiSrIye : SiSriye : cf. Whitney roots, Kale Higher Sanskrit Grammar
+124541 : piz : pizya : -pizya : ind.p. with prefix
+178755 : ruD : roruDaH, MBh. : roruDaH, R. ii, 58, 20 : 
+18803 : avidAhin : not producing heartburn : producing heartburn
+17283 : avawaviroDana : avawaviroDana : avawaniroDana : headword change
+17555 : avanAmita : cf. an-avanAmita-vEj : cf. an-avanAmita-vEjayanta : clarify reference
+178117 : rimP : to hurl : to hurt
+16469 : arSoGora : arSoGora : arSoGna : headword change
+16470 : arSoGora : arSoGora : arSoGna : headword change
+16471 : arSoGora : arSoGora : arSoGna : headword change
+16472 : arSoGorI : arSoGorI : arSoGnI : headword change
+183010 : luB : Dhātup. xviii, 22 : Dhātup. xxviii, 22
+
 -----------------------------------------------------------------------

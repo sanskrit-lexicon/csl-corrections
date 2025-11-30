@@ -1,0 +1,172 @@
+Sanskrit Lexicon Correction Form History for PW
+As of November 26, 2025
+26 correction records, with 26 PENDING
+
+Case 2280: 11/19/2025 dict=PW, L=16227.1, hw=āśrāva, user=srhodes
+old = für āśrava und āśrāva
+new = für āsrava und āsrāva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2235: 11/14/2025 dict=PW, L=56632, hw=naptar, user=srhodes
+old = naptri
+new = naptrī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2201: 11/09/2025 dict=PW, L=121239, hw=saṃmānana, user=srhodes
+old = No Typo
+new = No Correction!
+comment = Please ignore the previous submission. It was the "page translation" itself which caused the typo! But there is actually no Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2200: 11/09/2025 dict=PW, L=121239, hw=sammanana, user=srhodes
+old = sammanana
+new = saṃmānana
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1992: 10/22/2025 dict=PW, L=53515, hw=druh, user=srhodes
+old = drughrukṣu
+new = dudhrukṣu
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1861: 10/11/2025 dict=PW, L=20321, hw=upādhyāya, user=srhodes
+old = sarbasvam
+new = sarvasvam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1652: 09/20/2025 dict=PW, L=4862, hw=anuvrata, user=srhodes
+old = aṇubrata
+new = aṇuvrata
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1633: 09/19/2025 dict=PW, L=52105, hw=dṛṣṭi, user=srhodes
+old = daṣṭiṃ dā
+new = dṛṣṭiṃ dā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1604: 09/12/2025 dict=PW, L=9495, hw=kañcanaprabha, user=srhodes
+old = kañcanaprabha
+new = kāñcanaprabha
+comment = Typo – Please note that this correction has been confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1603: 09/12/2025 dict=PW, L=9495, hw=kañcanaprabha, user=srhodes
+old = R. 2,44,90
+new = R. 4,44,90
+comment = Typo – Please note that this correction has been confirmed by Andhrabharati. Please update the link accordingly!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1602: 09/12/2025 dict=PW, L=9495, hw=kañcanaprabha, user=srhodes
+old = R. 2,44,90.
+new = R. 4,44,90
+comment = Typo – Please note that this correction has been confirmed by Andhrabharati. Please update the link accordingly!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1588: 09/11/2025 dict=PW, L=118580, hw=sadṛśa, user=srhodes
+old = sadṛśama
+new = sadṛśam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1500: 09/05/2025 dict=PW, L=34764, hw=garīyasa, user=srhodes
+old = garīyasa
+new = garīyas
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1494: 09/04/2025 dict=PW, L=121109, hw=saṃbandhin, user=srhodes
+old = in the comp .
+new = in the comp.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1472: 09/02/2025 dict=PW, L=86482, hw=mārtya, user=srhodes
+old = martya
+new = mārtya
+comment = Typo – Please note that this correction needs to be made at the TOP of the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1466: 09/02/2025 dict=PW, L=14557, hw=ādhi, user=srhodes
+old = 2. adhi m.
+new = 2. ādhi m.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1329: 08/19/2025 dict=PW, L=16227.1, hw=āśrāva, user=srhodes
+old = erroneous for āśrava and āśrāva
+new = erroneous for āsrava and āsrāva
+comment = Typo – Please note that this correction has been indicated by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1328: 08/19/2025 dict=PW, L=16227, hw=āśrava, user=srhodes
+old = erroneous for āśrava and āśrāva
+new = erroneous for āsrava and āsrāva
+comment = Typo – Please note that this correction has been indicated by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1201: 08/09/2025 dict=PW, L=15931, hw=āvarīvar, user=srhodes
+old = from vart
+new = from var
+comment = Typo – Please note that this is a suggested "print change". I take the root as "vṛ", however I believe that Böhtlingk spells as "var" according to his German transliteration.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1200: 08/09/2025 dict=PW, L=15921, hw=āvayātaka, user=srhodes
+old = āvayāta
+new = avayāta
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1055: 07/29/2025 dict=PW, L=72466, hw=prapāṇa, user=srhodes
+old = = prapana
+new = = prapāna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 691: 06/27/2025 dict=PW, L=13484, hw=ākenipa, user=srhodes
+old = godhāvin
+new = medhāvin
+status = PENDING
+------------------------------------------------------------------------
+
+Case 690: 06/27/2025 dict=PW, L=13484, hw=arkanipa, user=srhodes
+old = arkanipa
+new = ākenipa
+comment = Typo – Headword Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 689: 06/27/2025 dict=PW, L=13484, hw=arkanipa, user=srhodes
+old = godhāvin
+new = medhāvin
+status = PENDING
+------------------------------------------------------------------------
+
+Case 618: 06/21/2025 dict=PW, L=127132.1, hw=subhrū, user=srhodes
+old = ( n. subhrū )
+new = ( n. subhru )
+status = PENDING
+------------------------------------------------------------------------
+
+Case 552: 06/14/2025 dict=PW, L=348, hw=akṣi, user=srhodes
+old = akṣiṇi, akṣibhyām, akṣīṇi (also akṣī in the older language), akṣi bhis
+new = akṣiṇī, akṣibhyām, akṣīṇi (also akṣī in the older language), akṣibhis
+comment = Typo – Please note two corrections have been made here.
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,1168 @@
+mw_done.txt for 20251126 batch
+164 cases from mw_correctionform.txt (lines start with '* TODOx')
+These cases have been changed, except for
+14 cases deemed to need no change (search 'NO CHANGE')
+38 print changes. lines start with '** pc:'
+Various comments from 'Jim'
+
+* TODOx Case 2345: 11/25/2025 dict=MW, L=49527, hw=kālaśakti, user=srhodes
+old = Śakti or all-destroying time,
+new = Śakti of all-destroying time,
+comment = Typo – Please note that this correction is possibly a "print change", depending upon how you interpret the printed page.
+status = DONE previously
+------------------------------------------------------------------------
+
+* TODOx Case 2336: 11/24/2025 dict=MW, L=185579, hw=vadh, user=srhodes
+old = ; 6, 62; 
+new = ; vi, 4, 62; 
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2320: 11/22/2025 dict=MW, L=251404, hw=sūpadvaṃśa, user=srhodes
+old = sūpadvaṃśa
+new = sūpadaṃśa
+comment = Typo – Please note that this correction is a "print change", confirmed by Andhrabharati.
+status = DONE
+** pc: 251404<pc>1242,3<k1>sUpadvaMSa : sUpadvaMSa : sUpadaMSa  : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 2279: 11/19/2025 dict=MW, L=34523.1, hw=upacīkā, user=srhodes
+old = upajikā
+new = upajīkā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2260: 11/17/2025 dict=MW, L=127072, hw=puṣpapeśala, user=srhodes
+old = as delicate, as f°
+new = as delicate as a f°
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2243: 11/16/2025 dict=MW, L=152865, hw=bhedanaka, user=srhodes
+old = ghaṭa-bho
+new = ghaṭa-bh°
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2226: 11/12/2025 dict=MW, L=163200, hw=māyūra, user=srhodes
+old = p°, 
+new = p°s, 
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2225: 11/12/2025 dict=MW, L=163199, hw=māyūra, user=srhodes
+old = p°, 
+new = p°s, 
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2224: 11/12/2025 dict=MW, L=163198, hw=māyūra, user=srhodes
+old = p°' feathers
+new = p°s' feathers
+comment = Typo – Please note that this correction follows the printed text. However, I prefer simply "peacock feathers".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2223: 11/12/2025 dict=MW, L=163209, hw=māyūraka, user=srhodes
+old = p°' feathers
+new = p°s' feathers
+comment = Typo – Please note that this correction follows the printed text. However, I prefer simply "peacock feathers".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2222: 11/12/2025 dict=MW, L=163209, hw=māyūraka, user=srhodes
+old = p°' feathers
+new = p°s' feathers
+comment = Typo – Please note that this correction follows the printed text. However, I prefer simply "peacock feathers".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2221: 11/12/2025 dict=MW, L=163209, hw=māyūraka, user=srhodes
+old = p°' feathers
+new = p°s' feathers
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2220: 11/12/2025 dict=MW, L=34258, hw=upakrośana, user=srhodes
+old = censuring blaming
+new = censuring, blaming
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2196: 11/08/2025 dict=MW, L=29312, hw=ibhapoṭā, user=srhodes
+old = ibhapoṭā f.
+new = ibhapota m.
+comment = Typo – Please note that this "print change" correction has been confirmed by Andhrabharati.
+status = DONE  AP has identical wording (under iBaH)
+** pc: 29312<pc>167,3<k1>iBapowA : f. iBapowA : m. iBapota : cf. AP, LRV
+------------------------------------------------------------------------
+
+* TODOx Case 2169: 11/06/2025 dict=MW, L=33846, hw=unnayana, user=srhodes
+old = lifting, up
+new = lifting up
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2160: 11/05/2025 dict=MW, L=32214, hw=udakodañjana, user=srhodes
+old = udakodañjana
+new = udakodañcana
+comment = Typo – Please note that this "print change" has been confirmed by Andhrabharati.
+status = DONE
+** pc: 32214<pc>183,3<k1>udakodaYjana : udakodaYjana : udakodaYcana : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 2155: 11/05/2025 dict=MW, L=116409, hw=parāhata, user=srhodes
+old = parāhata m. struck
+new = parāhata mfn. struck
+comment = Typo – Please note that this "print change" that has been confirmed by Andhrabharati. The word must be taken as an adjective, and therefore the gender must be made available accordingly as: "mfn."
+status = DONE
+** pc: 116409<pc>588,1<k1>parAhata : m. : mfn. : 
+------------------------------------------------------------------------
+
+* TODOx Case 2154: 11/05/2025 dict=MW, L=32318, hw=udīcya, user=srhodes
+old = a kind of perfume
+new = (am), n. a kind of perfume
+comment = Typo – Please note that this "print change" that has been confirmed by Andhrabharati. The gender must be stated here as "neuter".
+status = DONE  confirmed AP
+** pc: 32318<pc>184,2<k1>udIcya : a kind of perfume : (am), n. a kind of perfume
+------------------------------------------------------------------------
+
+* TODOx  Case 2147: 11/04/2025 dict=MW, L=31730, hw=utpādaśayāna, user=srhodes
+old = utpādaśayāna
+new = utpādaśayana
+comment = Typo – Please note that this "print change" has been confirmed by Andhrabharati.
+status = DONE
+** pc: 31730<pc>181,1<k1>utpAdaSayAna : utpAdaSayAna : utpAdaSayana : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 2110: 11/02/2025 dict=MW, L=187722, hw=vardhana, user=srhodes
+old = the act of increasing
+new = (am), n. the act of increasing
+comment = Typo – Please note that this correction has been confirmed and indicated by Andhrabharati. The "neuter gender" has been omitted from the printed text. This correction is for the purpose of making explicit the Neuter Gender from this point to the end of the remaining definitions. Thus the "Feminine Gender" is properly canceled.
+status = DONE
+** pc: 187722<pc>926,1<k1>varDanI : varDanI the act of increasing : varDana (am), n. the act of increasing : Also 187723, 187724, 187725 changed to varDana, all n.
+---------------------------------------------------------------------
+* TODOx dup Case 2109: 11/02/2025 dict=MW, L=187722, hw=vardhana, user=srhodes
+old = the act of increasing
+new = (am), n. the act of increasing
+comment = Typo – Please note that this correction has been confirmed and indicated by Andhrabharati. The "neuter gender" has been omitted from the printed text. This correction is for the purpose of making explicit the Neuter Gender from this point to the end of the remaining definitions. Thus the "Feminine Gender" is properly canceled.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2105: 11/02/2025 dict=MW, L=33501, hw=udrāva, user=srhodes
+old = aloud noise,
+new = a loud noise,
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 2077: 10/29/2025 dict=MW, L=33275, hw=udbandha, user=srhodes
+old = united
+new = untied
+comment = Typo – Please note that this is a "print change" that has been confirmed by Andhrabharati.
+status = DONE
+** pc: 33275<pc>190,1<k1>udbanDa : united : untied : cf. cae
+------------------------------------------------------------------------
+
+* TODOx Case 2049: 10/27/2025 dict=MW, L=202269, hw=viṣk, user=srhodes
+old = Dhātup. xxxv, 34
+new = Dhātup. xxxv, 84
+comment = Typo – Please note that this is a "print change" that easy to verify by consulting the source.
+status = DONE
+** pc: 202269<pc>998,2<k1>vizk : Dhātup. xxxv, 34 : Dhātup. xxxv, 84
+------------------------------------------------------------------------
+
+* TODOx Case 1905: 10/15/2025 dict=MW, L=32034, hw=utsarpin, user=srhodes
+old = ava-sarpiṇi
+new = ava-sarpiṇī
+comment = Typo – Please note that this is a "print change", verified by the actual Headword listed by MW himself: "avasarpiṇī" !
+status = DONE 
+** pc: 32034<pc>182,3<k1>utsarpiRI : ava-sarpiRi : ava-sarpiRI
+------------------------------------------------------------------------
+
+* TODOx Case 1843: 10/08/2025 dict=MW, L=31278, hw=uttaravādin, user=srhodes
+old = replicant
+new = respondent
+comment = Typo – Please note that this is a suggested "print change", based upon what appears to be a more current and understandable word. I hope that Jim Funderburk will personally have a look into this.
+status = DONE
+Jim: ap: respondent, wil: replicant  (probably source of MW usage)
+   https://en.wiktionary.org/wiki/replicant  gives the meaning 'One who replies"
+ and classifies as 'archaic'.  OED is behind a paywall, but mentions that
+ there is one archaic meaning.  Current usage based on science fiction movie
+ Blade Runner
+conclusion: 'respondent' is made as a print change, as Aumsanskrit suggests.
+** pc: 31278<pc>178,3<k1>uttaravAdin : replicant : respondent : replicant in this sense is archaic.
+------------------------------------------------------------------------
+
+* TODOx Case 1810: 10/06/2025 dict=MW, L=31050, hw=uttānahasta, user=srhodes
+old = having the hand, extended
+new = having the hands extended
+comment = Typo – UPDATED CORRECTION!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1809: 10/06/2025 dict=MW, L=31050, hw=uttānahasta, user=srhodes
+old = having the hand, extended
+new = having the hand extended
+status = DONE  see Case 1810 
+------------------------------------------------------------------------
+
+* TODOx Case 1777: 10/02/2025 dict=MW, L=30751, hw=utkamp, user=srhodes
+old = cause to, tremble
+new = cause to tremble
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1775: 10/02/2025 dict=MW, L=162963, hw=mānasotka, user=srhodes
+old = mānasotka m.
+new = mānasotka mfn.
+comment = Typo – Please note that Andhrabharati has confirmed this "print change", as this word is properly an adjective
+status = DONE cf. AP, MD
+** pc: 162963<pc>810,1<k1>mAnasotka : m. : mfn.  : classify as adjective
+------------------------------------------------------------------------
+
+* TODOx Case 1716: 09/29/2025 dict=MW, L=30468, hw=ucchrayaṇa, user=srhodes
+old = raising erecting
+new = raising, erecting
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1703: 09/26/2025 dict=MW, L=167430, hw=mṛṣ, user=srhodes
+old = Dhātup. xxxiv, 40
+new = Dhātup. xxxiv, 42
+comment = Typo – Please note that this is a confirmed "print change" verified by checking the Westergaard Dhatupatha link: 34.40 , which incidentally needs to be corrected as well to read: "34.42" with the following webpage link update: "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-westergaard/disp/index.php?section=34".
+status = DONE
+** pc: 167430<pc>831,1<k1>mfz : Dhātup. xxxiv, 40 : Dhātup. xxxiv, 42 
+------------------------------------------------------------------------
+
+* TODOx Case 1662: 09/21/2025 dict=MW, L=44162, hw=karavālikā, user=srhodes
+old = = -pālika
+new = = -pālikā
+comment = Typo – Please note that this is a "print change", based upon the actual listing by MW himself !
+status = DONE
+** pc: 44162<pc>253,3<k1>karavAlikA : -pAlika  : -pAlikA
+------------------------------------------------------------------------
+
+* TODOx Case 1643: 09/20/2025 dict=MW, L=29741.1, hw=īdṛś, user=srhodes
+old = f. such
+new = n. such
+comment = Typo – Please note that this correction of the erroneous "feminine gender" to the authorized "neuter gender", has been confirmed by Andhrabharati.
+status = DONE  
+Jim cf. mw72 has n. for this Vedic usage, so 'f.' in mw(99) is probably error.
+** pc: 29741.1<pc>170,2<k1>IdfS : f. such a condition : n. such a condition :
+------------------------------------------------------------------------
+
+* TODOx Case 1634: 09/19/2025 dict=MW, L=97054, hw=doṣadṛṣṭi, user=srhodes
+old = f°. finding
+new = f°-finding
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1616: 09/15/2025 dict=MW, L=5933, hw=anilaya, user=srhodes
+old = a-nilaya
+new = an-ilaya
+comment = Typo – Please note that this is an important "print change" based upon my understanding of Andhrabharati's clarification in this matter.
+status = NO CHANGE : Jim: 'a-nilaya': MD, PD, PWG ("s. u" nilaya)
+------------------------------------------------------------------------
+
+* TODOx Case 1591: 09/11/2025 dict=MW, L=29048, hw=indrapuṣpa, user=srhodes
+old = indrapuṣpa
+new = DELETE
+comment = Typo – Please note that "indrapuṣpa" in the masculine gender is very likely Erroneous, Incorrect and without Authority. Therefore, please consider Deletion or some other suitable remedy.
+status = NO CHANGE mw likely following PW, which has m. 
+------------------------------------------------------------------------
+
+* TODOx Case 1587: 09/11/2025 dict=MW, L=96422, hw=devitama, user=srhodes
+old = devi—tama
+new = devi—tamā
+comment = Typo – Please note that this is a suggested "print change", based upon the fact of the actual word printed as "devitamā", located precisely as is specified: "See deva." Look under "deva" and you find "devitamā", hence the need for this correction. Also please note that the Headword "devitamā" has already been listed as: "devi-tamā f., superl., RV. ii, 41, 16 [ID=96278]". Therefore some sort of "MERGING" of the listings may be required. But, please note that there is no such word as: "devitama", it exists only in the Feminine Gender!
+status = DONE  Jim: devitamA (L=96278) is CDSL 'parenthetical headword' ,
+   whose 'parent' is '95518,deva'.
+** pc: 96422<pc>496,1<k1>devitama : devitama : devitamA
+------------------------------------------------------------------------
+
+* TODOx dup Case 1586: 09/11/2025 dict=MW, L=96422, hw=devitama, user=srhodes
+old = devi—tama
+new = devi—tamā
+comment = Typo – Please note that this is a suggested "print change", based upon the fact of the actual word printed as "devitamā", located precisely as is specified: "See deva." Look under "deva" and you find "devitamā", hence the need for this correction. Also please note that the Headword "devitamā" has already been listed as: "devi-tamā f., superl., RV. ii, 41, 16 [ID=96278]". Therefore some sort of "MERGING" of the listings may be required. But, please note that there is no such word as: "devitama", it exists only in the Feminine Gender!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1585: 09/10/2025 dict=MW, L=186557, hw=vayohāṇi, user=srhodes
+old = vayohāṇi
+new = vayohāni
+comment = Typo – Please note that this is a suggested "print change", on the strength of the reference given here by MW to the Dhātupāṭha. The Dhātupāṭha clearly prints "vayohāni". You may consult the file: "radiceslingusan00westgoog_0418.jp2". I hope that Andhrabharati will confirm this correction.
+status = DONE previously changed
+------------------------------------------------------------------------
+
+* TODOx Case 1570: 09/09/2025 dict=MW, L=132280, hw=praticakṣaṇa, user=srhodes
+old = at viewing
+new = viewing
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1567: 09/08/2025 dict=MW, L=28979, hw=indracchanda, user=srhodes
+old = indracchanda
+new = indracchandas
+comment = Typo – Please note that this is a suggested "print change" based upon the fact (as pointed out by Andhrabharati) that both SKD and VCP have given the explicit termination 's'. Since MW does not print the authorized Headword: "indracchandas", therefore, the form "indracchanda" must be considered as incorrect, irrespective of any other citation.
+status = NO CHANGE Jim:  MW follows PW.  Note MW/PW are 'm.' while 
+   in AP, SKD indracCandas is n.  If we want to 'correct' MW, then 
+   we would also want to 'correct' PW.  
+
+------------------------------------------------------------------------
+
+* TODOx Case 1564: 09/08/2025 dict=MW, L=29061, hw=indrabhaginī, user=srhodes
+old = Parvatī
+new = Pārvatī
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = NO CHANGE  MW follows PW.  As with indracchanda.
+   We have variant spellings in dictionaries. 
+   Suppose MW and PW have a given spelling X while SKD, VCP, AP have
+   spelling Y.  Should CDSL 'correct' MW and PW?  
+   More thought needed.
+------------------------------------------------------------------------
+
+* TODOx Case 1563: 09/08/2025 dict=MW, L=28987, hw=indrajāla, user=srhodes
+old = juggle
+new = jugglery
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = DONE Jim : cf. AB. juggle is a verb, jugglery an associated noun
+** pc: 28987<pc>166,2<k1>indrajAla : juggle : jugglery
+------------------------------------------------------------------------
+
+* TODOx dup Case 1562: 09/08/2025 dict=MW, L=28987, hw=indrajāla, user=srhodes
+old = juggle
+new = jugglery
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1561: 09/08/2025 dict=MW, L=28987, hw=indrajāla, user=srhodes
+old = juggle
+new = jugglery
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1560: 09/08/2025 dict=MW, L=28987, hw=indrajāla, user=srhodes
+old = juggle
+new = jugglery
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1559: 09/08/2025 dict=MW, L=28987, hw=indrajāla, user=srhodes
+old = juggle
+new = jugglery
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1551: 09/08/2025 dict=MW, L=28987, hw=indrajāla, user=srhodes
+old = juggle
+new = jugglery
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1539: 09/08/2025 dict=MW, L=194955, hw=vich, user=srhodes
+old = Dhātup. xxxiii, 109
+new = Dhātup. xxxiii, 100
+comment = Typo – Please note that this is a confirmed "print change". You may consult the file: "radiceslingusan00westgoog_0417.jp2". ALSO, please note that following link provided in the Window Display needs to be updated both in "spelling" and in the "linked page" itself: "Westergaard Dhatupatha links: 33.109"  ——becomes—— "Westergaard Dhatupatha links: 33.100".
+status = DONE
+** pc: 194955<pc>959,3<k1>viC : Dhātup. xxxiii, 109 : Dhātup. xxxiii, 100
+------------------------------------------------------------------------
+
+* TODOx Case 1517: 09/06/2025 dict=MW, L=51661, hw=kuṭumbaya, user=srhodes
+old = P. °yati
+new = Ā. °yate
+comment = Typo – Please note that this "print change" has been confirmed by Andhrabharati.
+status = NO CHANGE Jim: Difference of opinion
+  yati : MW, PW
+  yate : mw72, pwg
+   
+------------------------------------------------------------------------
+
+* TODOx Case 1487: 09/03/2025 dict=MW, L=165082.1, hw=muc, user=srhodes
+old = Dhātup. xxxiii, 66
+new = Dhātup. xxxiii, 69
+comment = Typo – Please note that this is a suggested "print change", based upon looking at the "official" file: "radiceslingusan00westgoog_0417.jp2". Also the associated "LINK": "Westergaard Dhatupatha links: 33.66", WILL NEED TO BE UPDATED AS WELL.
+status = DONE
+** pc: 165082<pc>820,3<k1>muc : Dhātup. xxxiii, 66 : Dhātup. xxxiii, 69
+------------------------------------------------------------------------
+
+* TODOx Case 1432: 08/29/2025 dict=MW, L=156626, hw=man, user=srhodes
+old = Desid. of Desid. mimāmiṣate Gr.:  
+new = Desid. of Desid. mīmāṁsiṣate Gr.:
+status = DONE
+ mimAmizate ->  mImAMsizate
+
+------------------------------------------------------------------------
+
+* TODOx Case 1410: 08/27/2025 dict=MW, L=64984, hw=gālana, user=srhodes
+old = gai
+new = gal
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1409: 08/27/2025 dict=MW, L=64984, hw=gālana, user=srhodes
+old = gai
+new = gal
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1408: 08/27/2025 dict=MW, L=64984, hw=gālana, user=srhodes
+old = gai
+new = gal
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1407: 08/27/2025 dict=MW, L=64984, hw=gālana, user=srhodes
+old = gai
+new = gal
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1406: 08/27/2025 dict=MW, L=64984, hw=gālana, user=srhodes
+old = gai
+new = gal
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1401: 08/27/2025 dict=MW, L=28249, hw=āsrava, user=srhodes
+old = two fold
+new = twofold
+comment = Typo – Please note that these two word are better written as a single word, and therefore this may be considered as a Global correction as well.
+status = DONE  Jim: 'two fold' (3 instances); 'twofold' (32 instances)
+  The ASrava instance is a typo (corrected)
+  L=98676, dviviDa is a typo (corrected)
+  98690 dvivraRIya is a typo (corrected
+------------------------------------------------------------------------
+
+* TODOx Case 1376: 08/25/2025 dict=MW, L=181234, hw=laḍ, user=srhodes
+old = xxxii, 15
+new = xxxiii, 14
+comment = Typo – Please note that this is a suggested "print change" pending approval by Andhrabharati.
+status = DONE
+** pc: 181234<pc>895,3<k1>laq : xxxii, 15 : xxxiii, 14 : (Dhātup. reference)
+------------------------------------------------------------------------
+
+* TODOx Case 1302: 08/17/2025 dict=MW, L=81523, hw=ḍhauk, user=srhodes
+old = ḍuḍkaukiṣate
+new = ḍuḍhaukiṣate
+comment = Typo – Please note that this correction has been indicated by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1262: 08/12/2025 dict=MW, L=134613, hw=pradakṣiṇāvartaśikha, user=srhodes
+old = = °ṇarcis
+new = = °ṇārcis
+comment = Typo – Please note that this may be a "print change", depending upon the reading.
+status = DONE :  Jim:  consider a typo, with poorly printed 'hat' over 'a'
+------------------------------------------------------------------------
+
+* TODOx Case 1205: 08/09/2025 dict=MW, L=27006, hw=āvayās, user=srhodes
+old = āvayās m. (f. ?) pl. water
+new = āvayās f. pl. water
+comment = Typo – Please note that this is a "print change" on the authority of Böhtlingk
+status = NO CHANGE
+  Jim :  AvayAs  Several dictionaries have either AvayaH or AvayA as water.
+  The nom. plural is AvayAH for both Avaya m. and AvayA f.
+  AP  AvayaH, AvayA Water (Ved.)
+  mw72 as, ā, m. f. water.
+  pwg āvaya m. oder f. Wasser   
+  I don't see "authority of Böhtlingk" in support of dropping the f.
+  Conclude no change
+------------------------------------------------------------------------
+
+* TODOx dup Case 1204: 08/09/2025 dict=MW, L=27006, hw=āvayās, user=srhodes
+old = āvayās m. (f. ?) pl. water
+new = āvayās f. pl. water
+comment = Typo – Please note that this is a "print change" on the authority of Böhtlingk
+status = 
+------------------------------------------------------------------------
+
+* TODOx START dup Case 1203: 08/09/2025 dict=MW, L=27006, hw=āvayās, user=srhodes
+old = āvayās
+new = āvayā
+comment = Typo – Please note that this is a Headword "print change" on the authority of Böhtlingk
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1104: 08/01/2025 dict=MW, L=40443.1, hw=aindranighanṭu, user=srhodes
+old = aindranighanṭu
+new = aindranighaṇṭu
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 979: 07/19/2025 dict=MW, L=128362, hw=pṛth, user=srhodes
+old = Dhātup. xxxii, 10
+new = Dhātup. xxxii, 20
+comment = Typo – Please note that this is a suggested "print change" which may be confirmed by consulting the file: radiceslingusan00westgoog_0413.jp2 ;  In any case "Dhātup. xxxii, 10" appears to refer to the root √jal or √laj
+status = DONE
+** pc: 128362<pc>645,3<k1>pfT : Dhātup. xxxii, 10 : Dhātup. xxxii, 20
+------------------------------------------------------------------------
+
+* TODOx Case 938: 07/15/2025 dict=MW, L=37438, hw=ulaḍ, user=srhodes
+old = Dhātup. xxii, 9;
+new = Dhātup. xxxii, 9;
+comment = Typo – Please note that this is a "print change" that may be confirmed by consulting the file: radiceslingusan00westgoog_0413
+status = DONE
+** pc: 37438<pc>218,2<k1>ulaq : Dhātup. xxii, 9 : Dhātup. xxxii, 9
+------------------------------------------------------------------------
+
+* TODOx Case 846: 07/08/2025 dict=MW, L=263989, hw=heḍh, user=srhodes
+old = Dhātup. xxi, 60;
+new = Dhātup. xxxi, 60;
+comment = Typo – Please note that this is a "print change". You may confirm this by checking with the file: "radiceslingusan00westgoog_0412.jp2".
+status = DONE  Jim there is no xxi,60.
+** pc: 263989<pc>1303,3<k1>heQ : Dhātup. xxi, 60 : Dhātup. xxxi, 60
+------------------------------------------------------------------------
+
+* TODOx Case 845: 07/08/2025 dict=MW, L=263989.1, hw=heṭh, user=srhodes
+old = Dhātup. xxi, 60;
+new = Dhātup. xxxi, 60;
+comment = Typo – Please note that this is a "print change". You may confirm this by checking with the file: "radiceslingusan00westgoog_0412.jp2".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 821: 07/05/2025 dict=MW, L=78631, hw=jātasneha, user=srhodes
+old = feeling, affection
+new = feeling affection
+comment = Typo – Please note that the proper "sense" being conveyed requires the two words to be taken as a SINGLE expression. Thus, for example, this may be considered as "a quality" of a person who is "feeling affection", (i.e. affectionate).
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 816: 07/05/2025 dict=MW, L=23002.3, hw=ācchidya, user=srhodes
+old = not with standing
+new = notwithstanding
+comment = Typo – Please note that this expression is better written as a single word (and it may be used as a preposition or adverb). Please make  this a Global correction.
+status = DONE Jim: no other instances
+------------------------------------------------------------------------
+
+* TODOx Case 756: 06/30/2025 dict=MW, L=234624, hw=samāvṛ, user=srhodes
+old = -vṛnute
+new = -vṛṇute
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 755: 06/30/2025 dict=MW, L=183375, hw=lokampṛṇā, user=srhodes
+old = lokám pṛna
+new = lokám pṛṇa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 742: 06/30/2025 dict=MW, L=80318, hw=jñā, user=srhodes
+old = °nāná irr. °namāna 
+new = °nāná, irr. °namāna 
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 741: 06/30/2025 dict=MW, L=80318, hw=jñā, user=srhodes
+old = Impv. °nītat
+new = Impv. °nītā́t
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 740: 06/30/2025 dict=MW, L=80318, hw=jñā, user=srhodes
+old = Subj. °nat
+new = Subj. °nāt  Jim: accented long-A: (slp1 A/
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 730: 06/28/2025 dict=MW, L=153766, hw=bhrī, user=srhodes
+old = -√hiṃs
+new = =√hiṃs
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 729: 06/28/2025 dict=MW, L=153766, hw=bhrī, user=srhodes
+old = bhrī ṇāti
+new = bhrīṇāti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 728: 06/28/2025 dict=MW, L=210763, hw=vrī, user=srhodes
+old = xxxi, 31
+new = xxxi, 33
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 721: 06/28/2025 dict=MW, L=210822, hw=vlī, user=srhodes
+old = avivlirpat
+new = avivlipat
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 720: 06/28/2025 dict=MW, L=137135, hw=pravistṛ, user=srhodes
+old = pravistṛ
+new = pravistṝ
+comment = Typo – Please note that this is a suggested Headword "print change", based upon the fact that the form cited here: "-stṛṇāti" exclusively belongs to the class 9 root √stṝ , and this root classification should not be "set aside", by the personal taste of Monier Williams' grouping of the roots √stṛ and √stṝ .  Despite MW's grouping, the roots remain distinctly as class 5 and class 9, respectively!
+status = NO CHANGE:  Jim:  MW under L=254842  says stṛ or stṝ.
+   So the forms are same for both.
+------------------------------------------------------------------------
+
+* TODOx Case 667: 06/25/2025 dict=MW, L=221379, hw=śokākula, user=srhodes
+old = overcome, with
+new = overcome with
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 609: 06/20/2025 dict=MW, L=186557, hw=vayohāṇi, user=srhodes
+old = vayohāṇi
+new = vayohāni
+comment = Typo – Please note that this is a likely "print change", pending approval by Andhrabharati.
+status = DONE  Change made at Case 1585 above
+------------------------------------------------------------------------
+
+* TODOx Case 608: 06/20/2025 dict=MW, L=21864, hw=ahiripu, user=srhodes
+old = (= -aviṣ, q.v.)
+new = (= -dviṣ, q.v.)
+comment = Typo – Please note that this is an important "print change", pending approval by Andhrabharati.
+status = DONE
+** pc: 21864<pc>125,2<k1>ahiripu : = -aviz : = -dviz :
+------------------------------------------------------------------------
+
+* TODOx Case 607: 06/20/2025 dict=MW, L=19865, hw=aśleṣā, user=srhodes
+old = (= aśleṣā́
+new = (= āśleṣā́
+status = DONE  Jim: ā-śleṣā́
+------------------------------------------------------------------------
+
+* TODOx Case 604: 06/20/2025 dict=MW, L=127307, hw=pū, user=srhodes
+old = punīhi
+new = punīhí
+comment = Typo – Please note the correction in accent.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 582: 06/17/2025 dict=MW, L=211167, hw=śakvarī, user=srhodes
+old = wrongly written śakkarī or śarkarī
+new = wrongly written śakkarī
+comment = Typo – Please note that this correction is approved by authorities, including MW dictionary itself which lists the Headword: "śarkarī  a kind of metre".
+status = NO CHANGE  Jim: 
+  mw72: Śarkarī, f. a kind of metre (= śakvarī, sakkarī);
+  skd: śarkarī , strī, chandoviśeṣaḥ 
+  mw:  śarkarī ,  kind of metre (cf. śakvarī).
+  etc. etc.
+  Should cdsl try to untangle these words? Certainly beyond me to do so.
+------------------------------------------------------------------------
+
+* TODOx Case 571: 06/16/2025 dict=MW, L=21493.1, hw=asma, user=srhodes
+old = instr. asmā́bhis dat. asmábhyam abl. asmát, in later, language also asmat-tas [MBh. &c.] gen. asmā́kam [exceptionally asmā́ka, RV. i, 173, 10; AV.] loc. asmā́su
+new = instr. asmā́bhis, dat. asmábhyam, abl. asmát, in later, language also asmat-tas [MBh. &c.], gen. asmā́kam [exceptionally asmā́ka, RV. i, 173, 10; AV.], loc. asmā́su
+comment = Typo – UPDATED CORRECTION: Please note many "commas" added above.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 568: 06/16/2025 dict=MW, L=21493, hw=asma, user=srhodes
+old = instr. asmā́bhis dat. asmábhyam abl. asmát, in later, language also asmat-tas [MBh. &c.] gen. asmā́kam [exceptionally asmā́ka, RV. i, 173, 10; AV.] loc. asmā́su
+new = instr. asmā́bhis dat., asmábhyam abl., asmát, in later, language also asmat-tas [MBh. &c.], gen. asmā́kam [exceptionally asmā́ka, RV. i, 173, 10; AV.], loc. asmā́su
+comment = Typo – please note many "commas" added above.
+status = DONE  see case 571 above
+------------------------------------------------------------------------
+
+* TODOx Case 567: 06/16/2025 dict=MW, L=21493, hw=asma, user=srhodes
+old = dat. ásmai, or asmaí abl. asimā́t loc. asmin
+new = dat. ásmai or asmaí, abl. asmā́t, loc. asmín
+comment = Typo – please note several corrections above.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 564: 06/15/2025 dict=MW, L=21414, hw=asthisaṃhārī, user=srhodes
+old = id.
+new = the plant Vitis Quadrangularis
+comment = Typo – Please note that this is a suggested "print change" in order to make the meaning clear.
+status = DONE Jim: This is an obscure use of 'id.',
+     I would have thought 'id.' refers to (based on print) "asTiSfNKalA",
+     which in turn has 'id.' which (I would guess) refers to 
+     "asTivilaya" = "the dissolving of bones".
+     But PW shows asTiSfNKalA = Vitis quadrangularis
+     and PW shows asTisaMhAra = Vitis quadrangularis.
+     So, Scott's solution looks right
+** pc: 21413<pc>123,1<k1>asTisaMhAra : id. : the plant Vitis Quadrangularis
+------------------------------------------------------------------------
+
+* TODOx Case 563: 06/15/2025 dict=MW, L=21413, hw=asthisaṃhāra, user=srhodes
+old = id.
+new = the plant Vitis Quadrangularis
+comment = Typo – Please note that this is a suggested "print change" in order to make the meaning clear.
+status = DONE  
+------------------------------------------------------------------------
+
+* TODOx Case 562: 06/15/2025 dict=MW, L=21412, hw=asthiśṛṅkhalā, user=srhodes
+old = id.
+new = the plant Vitis Quadrangularis
+comment = Typo – Please note that this is a suggested "print change" in order to make the meaning clear.
+status = DONE see Case 564
+** pc: 21412<pc>123,1<k1>asTiSfNKalA : the plant <bot>Vitis Quadrangularis</bot> : 
+------------------------------------------------------------------------
+
+* TODOx Case 550: 06/13/2025 dict=MW, L=164607, hw=mī, user=srhodes
+old = -mīya, māya
+new = -mīya, -māya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 539: 06/13/2025 dict=MW, L=222857, hw=śrī, user=srhodes
+old = śiśrīye
+new = śiśriye
+comment = Typo – Please note that this is a suggested "print change" pending confirmation by Andhrabharati
+status = DONE Jim: Kale Higher-sanskrit grammar (dhatukosha) confirms
+ Also Whitney roots confirms.
+** pc: 222857<pc>1098,2<k1>SrI : SiSrIye : SiSriye : cf. Whitney roots, Kale Higher Sanskrit Grammar
+------------------------------------------------------------------------
+
+* TODOx Case 538: 06/13/2025 dict=MW, L=58088, hw=krī, user=srhodes
+old = ind.p. krīvā́
+new = ind.p. krītvā́
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 520: 06/10/2025 dict=MW, L=100144, hw=dharmapracāra, user=srhodes
+old = right’ fig.
+new = right’, fig.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 511: 06/09/2025 dict=MW, L=54148, hw=kṛ, user=srhodes
+old = Ā. 1. sg. kṛske (RV. x, 49, 7)
+new = Ā. 1. sg. kṛṣe (RV. x, 49, 7)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 495: 06/06/2025 dict=MW, L=21269, hw=astaśikhara, user=srhodes
+old = = mastaka
+new = = -mastaka
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 457: 06/03/2025 dict=MW, L=20166.6, hw=aṣāḍhā, user=srhodes
+old = pinvā
+new = pūrvā
+comment = Typo – Please note that this is a serious correction!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 453: 06/02/2025 dict=MW, L=2267, hw=añj, user=srhodes
+old = ā-nañja
+new = ānañja
+comment = Typo – Please note that the "hyphen" was only needed for the printed line break – which does not exist online!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 448: 06/02/2025 dict=MW, L=262731, hw=hiṃs, user=srhodes
+old = hiṃsita Gr.
+new = hiṃsitā, Gr.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 447: 06/02/2025 dict=MW, L=262731, hw=hiṃs, user=srhodes
+old = jīhiṃsīḥ, AV.
+new = jíhiṃsīḥ, AV.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 446: 06/01/2025 dict=MW, L=82587, hw=tandri, user=srhodes
+old = tandri m.
+new = tandri
+comment = Typo – Please note that there is no indication of "masculine gender" in the printed text, and in fact all authorities print: "feminine". I hope that Andhrabharati will confirm as well. Question: "Should the feminine gender be printed here? Or just left without gender?"
+status = NO CHANGE : Jim: tandra (m.), tandrI = tandrA.  AP has tandriH, tandrI
+  So tandri m. needs no change
+------------------------------------------------------------------------
+
+* TODOx Case 432: 06/01/2025 dict=MW, L=186768, hw=varūthin, user=srhodes
+old = a ear
+new = a car
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 431: 06/01/2025 dict=MW, L=106550, hw=nirantara, user=srhodes
+old = faithful true
+new = faithful, true
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 427: 05/31/2025 dict=MW, L=19924.4, hw=aśvapati, user=srhodes
+old = Sāvitri
+new = Sāvitrī
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 420: 05/30/2025 dict=MW, L=147928, hw=bhañj, user=srhodes
+old = Intens. bambhajyate or °jīti
+new = Intens. bambhajyate or bambhañjīti
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati. The reason for this suggestion is the possible need for the nasal letter "ñ" in the yaṅluk intensive form.
+status = NO CHANGE.  PWG: intens. bamBajyate, bamBajIti P. 7,4,86. Vop. 20,8.
+------------------------------------------------------------------------
+
+* TODOx Case 419: 05/30/2025 dict=MW, L=124541, hw=piṣ, user=srhodes
+old = piṣya, MBh.
+new = -piṣya, MBh.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati. The reason for this suggestion is that normally this sort of form is preceded by a prefix  (i.e. anu, ā, pari etc.).
+status = DONE 
+** pc: 124541<pc>628,3<k1>piz : pizya : -pizya : ind.p. with prefix
+
+------------------------------------------------------------------------
+
+* TODOx Case 409: 05/29/2025 dict=MW, L=19696, hw=aśauṭīrya, user=srhodes
+old = self confidence
+new = self-confidence
+status = DONE Jim. '-' at line-break. also self-confidence 7 other instances
+------------------------------------------------------------------------
+
+* TODOx Case 393: 05/27/2025 dict=MW, L=178755, hw=rudh, user=srhodes
+old = (only rorudhaḥ, MBh.)
+new = (only rorudhaḥ, R.)
+comment = Typo – Please note that this "print change" has been confirmed by the Great Andhrabharati. The abbreviation "R." is meant to stand for "Rāmāyaṇa" and a citation example is found at this location: "ii, 58, 20".
+status = DONE
+** pc: 178755<pc>884,1<k1>ruD : roruDaH, MBh. : roruDaH, R. ii, 58, 20 : 
+------------------------------------------------------------------------
+
+* TODOx Case 386: 05/26/2025 dict=MW, L=178755, hw=rudh, user=srhodes
+old = -rodham, ib.)
+new = -ródham, ib.)
+comment = Typo – Please note that this correction in accent is for the joy of Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 385: 05/26/2025 dict=MW, L=178755, hw=rudh, user=srhodes
+old = -rodham, ib.)
+new = -ródham, ib.)
+comment = Typo – Please note that this correction in accent is for the joy of Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 384: 05/26/2025 dict=MW, L=178755, hw=rudh, user=srhodes
+old = rorudhaḥ
+new = roruddhaḥ
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = NO CHANGE Jim:  roruDaH confirmed by PWG
+------------------------------------------------------------------------
+
+* TODOx  dup Case 383: 05/26/2025 dict=MW, L=178755, hw=rudh, user=srhodes
+old = rorudhaḥ
+new = roruddhaḥ
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 374: 05/25/2025 dict=MW, L=18803, hw=avidāhin, user=srhodes
+old = not producing heartburn
+new = producing heartburn
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = DONE
+** pc: 18803<pc>108,3<k1>avidAhin : not producing heartburn : producing heartburn
+------------------------------------------------------------------------
+
+* TODOx Case 358: 05/24/2025 dict=MW, L=19169, hw=avṛṣṭikāma, user=srhodes
+old = not, wishing rain
+new = not wishing rain
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 342: 05/22/2025 dict=MW, L=18946, hw=avimukteśa, user=srhodes
+old = particular from
+new = particular form
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 341: 05/22/2025 dict=MW, L=18928, hw=avibhāvya, user=srhodes
+old = (as indistinct, speech)
+new = (as indistinct speech)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 333: 05/20/2025 dict=MW, L=18766, hw=avijñeya, user=srhodes
+old = undistinguishable undiscernible
+new = undistinguishable, undiscernible
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 331: 05/20/2025 dict=MW, L=230505, hw=sad, user=srhodes
+old = xxvii, 133
+new = xxviii, 133
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 325: 05/19/2025 dict=MW, L=18615, hw=avikaṭoraṇa, user=srhodes
+old = to, the king
+new = to the king
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 319: 05/18/2025 dict=MW, L=18546, hw=avāntaradiśā, user=srhodes
+old = = -dis
+new = = -díś
+comment = Typo – Please note two corrections here: 1) the accent has been added for the joy of Andhrabharati; 2) the final letter has been corrected.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 313: 05/17/2025 dict=MW, L=18404, hw=avasthāyin, user=srhodes
+old = staying residing
+new = staying, residing
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 312: 05/17/2025 dict=MW, L=18404, hw=avasthāyin, user=srhodes
+old = staying residing
+new = staying, residing
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 308: 05/16/2025 dict=MW, L=130824, hw=prach, user=srhodes
+old = pṛcchati
+new = pṛccháti
+comment = Typo – Please note that we have added the "missing" accent for the joy of Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 307: 05/16/2025 dict=MW, L=144696, hw=bālāvastha, user=srhodes
+old = being, in childhood
+new = being in childhood
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 296: 05/15/2025 dict=MW, L=18248, hw=avasāda, user=srhodes
+old = failing exhaustion
+new = failing, exhaustion
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 279: 05/13/2025 dict=MW, L=91636.1, hw=dāmalipta, user=srhodes
+old = f. n. N. of a town
+new = n. and (ā), f. N. of a town
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 278: 05/12/2025 dict=MW, L=17985, hw=avarṇa, user=srhodes
+old = Nārāsyaṇa
+new = Nārāyaṇa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 277: 05/12/2025 dict=MW, L=17968, hw=avarohaka, user=srhodes
+old = See asvāv°
+new = See aśvāv°
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 271: 05/12/2025 dict=MW, L=166607, hw=mṛ, user=srhodes
+old = mriṣīṣṭa
+new = mṛṣīṣṭa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 196: 05/03/2025 dict=MW, L=17283, hw=avaṭavirodhana, user=srhodes
+old = avaṭavirodhana
+new = avaṭanirodhana
+comment = Typo – Please note that this correction is a "print change", which has been confirmed by Andhrabharati.
+status = DONE Jim AP, PW, PWG confirm. Only YAT has avaṭavirodhana
+** pc: 17283<pc>98,3<k1>avawaviroDana : avawaviroDana : avawaniroDana : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 190: 05/03/2025 dict=MW, L=17225, hw=avacūḍa, user=srhodes
+old = a pendent, tuft
+new = a pendent tuft
+comment = Typo – Please note that this is an important correction following the printed text. The word "pendent" is an adjective modifying the noun "tuft". If pendent were intended to be a "noun", it would be spelled as "pendant" ; But no comma is present and the text is clear.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 180: 05/02/2025 dict=MW, L=146034, hw=bṛh, user=srhodes
+old = aor. barhīt
+new = aor. abarhīt
+comment = Typo – Please note that this is a possible "print change", pending confirmation.
+status = NO CHANGE. Whitney roots: "Aor. ... barhIs -It RV."
+------------------------------------------------------------------------
+
+* TODOx Case 149: 04/29/2025 dict=MW, L=6240, hw=anugrahaṇa, user=srhodes
+old = anu-graha
+new = = anu-graha
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 148: 04/29/2025 dict=MW, L=237258, hw=sammṛj, user=srhodes
+old = sweep clean
+new = sweep, clean
+status = NO CHANGE : Jim "sweep clean" is meaningful, also cf. AP, mw72
+------------------------------------------------------------------------
+
+* TODOx Case 144: 04/29/2025 dict=MW, L=17555, hw=avanāmita, user=srhodes
+old = (cf. an-avanāmita-vaij°)
+new = (cf. an-avanāmita-vaijayanta)
+comment = Typo – Please note that this is a suggested "print change", based upon the lack of clarity in regard to the reference cited.
+status = DONE
+** pc: 17555<pc>100,2<k1>avanAmita : cf. an-avanAmita-vEj : cf. an-avanAmita-vEjayanta : clarify reference
+------------------------------------------------------------------------
+
+* TODOx Case 134: 04/28/2025 dict=MW, L=16940, hw=ava, user=srhodes
+old = (cf. niravát.)
+new = (cf. niravá.)
+comment = Typo – UPDATED CORRECTION
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 133: 04/28/2025 dict=MW, L=16940, hw=ava, user=srhodes
+old = (cf. niravát.)
+new = (cf. niravát)
+status = DONE  see Case 134
+------------------------------------------------------------------------
+
+* TODOx Case 121: 04/27/2025 dict=MW, L=165840, hw=mūrtivighneśa, user=srhodes
+old = mantāḥ
+new = mantrāḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 117: 04/27/2025 dict=MW, L=40256, hw=eṣa, user=srhodes
+old = (cf. svaīṣá)
+new = (cf. svaiṣá)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 106: 04/26/2025 dict=MW, L=74888, hw=cṛt, user=srhodes
+old = caitiṣy°
+new = cartiṣy°
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 92: 04/25/2025 dict=MW, L=16621, hw=alaṃkṛti, user=srhodes
+old = (cf. -kara
+new = (cf. -kāra
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 82: 04/24/2025 dict=MW, L=178117, hw=rimph, user=srhodes
+old = hurl
+new = hurt
+status = DONE
+** pc: 178117<pc>881,1<k1>rimP : to hurl : to hurt
+------------------------------------------------------------------------
+
+* TODOx Case 77: 04/24/2025 dict=MW, L=16570, hw=alaṅghanīyatā, user=srhodes
+old = insurmountableness inaccessibility
+new = insurmountableness, inaccessibility
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 68: 04/23/2025 dict=MW, L=101817, hw=dhṛt, user=srhodes
+old = having possessing
+new = having, possessing
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 66: 04/23/2025 dict=MW, L=16472, hw=arśoghora, user=srhodes
+old = arśo—ghorī
+new = arśo—ghnī
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = DONE 
+ Jim: arSoGora and arSoGorI are found only in MW.
+      AP, MW72, PWG have arSoGna, arSoGnI 
+      Suggest print changes at the 4 entries
+       16469, 16470, 16471 arSoGora -> arSoGna
+       16472 arSoGorI -> arSoGnI
+** pc: 16469<pc>93,3<k1>arSoGora : arSoGora : arSoGna : headword change
+** pc: 16470<pc>93,3<k1>arSoGora : arSoGora : arSoGna : headword change
+** pc: 16471<pc>93,3<k1>arSoGora : arSoGora : arSoGna : headword change
+** pc: 16472<pc>93,3<k1>arSoGorI : arSoGorI : arSoGnI : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 65: 04/23/2025 dict=MW, L=16470, hw=arśoghora, user=srhodes
+old = arśoghora
+new = arśoghna
+comment = Typo – Please note that this is a Headword Typo, confirmed by the authority of Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 64: 04/23/2025 dict=MW, L=16469, hw=arśoghora, user=srhodes
+old = arśoghora
+new = arśoghna
+comment = Typo – Please note that this is a Headword Typo, confirmed by the authority of Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 54: 04/22/2025 dict=MW, L=183010, hw=lubh, user=srhodes
+old = xxvi, 124
+new = xxvi, 128
+comment = Typo – You may confirm this "print change" by consulting the file: "radiceslingusan00westgoog_0406.jp2"
+status = DONE  previously changed. seee mw_printchange.txt in csl-corrections
+------------------------------------------------------------------------
+
+* TODOx Case 53: 04/22/2025 dict=MW, L=183010, hw=lubh, user=srhodes
+old = Dhātup. xviii, 22
+new = Dhātup. xxviii, 22
+status = DONE
+** pc: 183010<pc>904,3<k1>luB : Dhātup. xviii, 22 : Dhātup. xxviii, 22
+------------------------------------------------------------------------
+
+* TODOx Case 47: 04/21/2025 dict=MW, L=195415, hw=viḍambana, user=srhodes
+old = degradation profanation
+new = degradation, profanation
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 34: 04/20/2025 dict=MW, L=16159.1, hw=ardhacandrākṛta, user=srhodes
+old = ardhacandrākṛta
+new = ardhacandrākṛti
+comment = Typo – I hope that Andhrabharati will clarify the spelling of this Headword. Apte Dictionary gives: "ardhacandrākṛti" ; while MW gives "ardhacandrākṛta". The question for Andhrabharati is this: "Are both forms correct?" OR is one of the two forms incorrect?
+status = NO CHANGE Jim: MW is only source of ardhacandrākṛta.
+     AP, shs, vcp, wil  mention only ardhacandrākṛti.
+     But that doesn't mean "ardhacandrākṛta" is wrong!
+------------------------------------------------------------------------
+
+* TODOx Case 32: 04/20/2025 dict=MW, L=16159.1, hw=ardhacandrākṛta, user=srhodes
+old = half moon shaped, crescent shaped
+new = half-moon-shaped, crescent-shaped
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 31: 04/20/2025 dict=MW, L=16159, hw=ardhacandrākāra, user=srhodes
+old = half moon shaped, crescent shaped
+new = half-moon-shaped, crescent-shaped
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 28: 04/20/2025 dict=MW, L=16166, hw=ardhajāhnavī, user=srhodes
+old = = gaṅgā
+new = = -gaṅgā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 26: 04/20/2025 dict=MW, L=16314, hw=ardhokta, user=srhodes
+old = half, uttered
+new = half-uttered
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 20: 04/19/2025 dict=MW, L=162816, hw=mānin, user=srhodes
+old = (pratī)
+new = (prati)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 19: 04/19/2025 dict=MW, L=16145, hw=ardhacaturtha, user=srhodes
+old = see above 2. ardha tend
+new = see above, 2. ardhá at end
+comment = Typo – I have added the accent for the joy of Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 17: 04/19/2025 dict=MW, L=16292, hw=ardhārdha, user=srhodes
+old = half of, the half of
+new = half of the half of
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 13: 04/19/2025 dict=MW, L=16145, hw=ardhacaturtha, user=srhodes
+old = addhuṭṭha See s.v. adhyuṣṭa
+new = addhuṭṭha, see s.v. adhyuṣṭa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 12: 04/19/2025 dict=MW, L=16145, hw=ardhacaturtha, user=srhodes
+old = (see above 2. ardha tend)
+new = (see above, 2. ardha at end)
+comment = Typo – Please note three corrections here: 1) the comma inserted; 2) the accent added; 3) "at end". The accent has been corrected for the joy of Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+

@@ -1,0 +1,299 @@
+mw_todo_misc.txt for 20251126 batch
+38 cases from mw_correctionform.txt (lines start with '* TODO ')
+  These proposed changes have not been done as of now.
+
+* TODO Case 1883: 10/14/2025 dict=MW, L=31839.1, hw=utsaṅgapādatā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword, according to alphabetical ordering, should be placed just before the main entry Headword "utsaṅgavat [ID=31837]".  Also, "utsaṅgapādatā" should be "double-indented", as it is a proper compound.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1772: 10/02/2025 dict=MW, L=30713, hw=utkacchā, user=srhodes
+old = verses (each verse
+new = lines (each line
+comment = Typo – Please note that Andhrabharati has confirmed this "print change".
+status = PENDING
+Jim: 'line' confirmed AP, but PWG has 'verse' , which is probably source for MW
+  PWG: eine Stanze von 6 Versen, in der jeder Vers aus 11 Moren (4 + 4 + 3) besteht
+    Google: a stanza of 6 verses, in which each verse consists of 11 morae (4 + 4 + 3)
+------------------------------------------------------------------------
+
+* TODO Case 1660: 09/20/2025 dict=MW, L=1544.1, hw=aṅgadīya, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "aṅgadin mfn. [ID=1546.1 sup]" in the Hierarchical listing of words. This correction is proven by glancing at the supplementary section where the Headword "aṅgadīya" is placed BENEATH the primary supplemental word "aṅgadin". This ordering of words with "aṅgadin" (primary) followed by "aṅgadīya" (subordinate) CANNOT be violated when moved into the Main Entry!
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1659: 09/20/2025 dict=MW, L=1546.1, hw=aṅgadin, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the word "aṅgikā f.[ID=1611]" in the Hierarchical listing of words. This correction is proven by glancing at the supplementary section where the Headword "aṅgadin" is placed AFTER all of the supplementary compounds beginning with the stem "aṅga". ALSO, please note that "aṅgadin" should only have a SINGLE indentation in the Hierarchy listing as it is NOT a proper compound, but simply derivative like "aṅgaka and aṅgikā".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1647: 09/20/2025 dict=MW, L=29740.1, hw=īdṛgavastha, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "īdṛktā [ID=29742]" in the Hierarchical listing of words. The reason for this is because the compound "īdṛgavastha" is shown to be formed from "īdṛś —> īdṛk + avastha —> īdṛg-avastha". As MW places words such as "īdṛktā" equivalent to proper compounds, then "īdṛgavastha" must follow "īdṛktā", according to proper alphabetical order, and furthermore "īdṛgavastha" must be Double Indented so as to be equivalen with "īdṛktā" (even though the later is not a proper compound but permitted to be treated as such by MW's apologetic footnote!
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1646: 09/20/2025 dict=MW, L=29744.1, hw=īdṛśabhūtatā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "īdṛśaka [ID=29743.1]" in the Hierarchical listing of words. Please note that the general rule in MW dictionary is that the forms ending in the affix "ka" ALWAYS come after all of the proper compounds. You may confirm this by checking the placement of the Headword: "rājaka [ID=176824]", by way of example.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1645: 09/20/2025 dict=MW, L=29744, hw=īdṛśabhūta, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "īdṛśa [ID=29743]" in the Hierarchical listing of words. Please note that the general rule in MW dictionary is the forms ending in the affix "ka" ALWAYS come after all of the proper compounds. You may confirm this by checking the placement of the Headword: "rājaka [ID=176824]", by way of example
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1623: 09/16/2025 dict=MW, L=29479.2, hw=iṣuparṣin, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "iṣupāta [ID=29479.1 sup]" in the Hierarchical listing of words. The reason for this ordering is because it precisely follows the order given in the Supplementary Section. This order can not be violated in the Main Entry when no other word comes between them!
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO 11-26-2025 Case 1590: 09/11/2025 dict=MW, L=29294, hw=inv, user=srhodes
+old = °ainot
+new = ainot
+comment = Typo – Please note that this is a suggested "print change", because what purpose can the symbol " ° " serve here?
+status = NOCHANGE  Jim: puzzling, but a better reason needed before change
+------------------------------------------------------------------------
+
+* TODO Case 1486: 09/03/2025 dict=MW, L=28786, hw=itīka, user=srhodes
+old = itīka
+new = itika
+comment = Typo – Please note that this is a "print change" on the authority that both PWG and VCP concur on this Pāṇinian word. This point was brought to my attention by Andhrabharati.
+status = PENDING  Jim: itika AP, PW, PWG, VCP
+ itIka mw, mw72, pw, pwg
+ 
+------------------------------------------------------------------------
+
+* TODO Case 1405: 08/27/2025 dict=MW, L=64205.2, hw=galarandhra, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just BEFORE the word "galavārtta [ID=64258]" in the Hierarchical listing of words. The reason for this placement is that the supplemental compound "galarandhra" is formed from 2. gala which refers to the "neck" !
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1404: 08/27/2025 dict=MW, L=64205.1, hw=galamoṭana, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "galamekhalā [ID=64257]" in the Hierarchical listing of words. The reason for this placement is that the supplemental compound "galamoṭana" is formed from 2. gala which refers to the "neck" !
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1403: 08/27/2025 dict=MW, L=64204.1, hw=galagranthi, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "galagolī [ID=64249]" in the Hierarchical listing of words. The reason for this placement is that the supplemental compound "galagranthi" is formed from 2. gala which refers to the "neck" !
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1271: 08/13/2025 dict=MW, L=62305, hw=gaj, user=srhodes
+old = gajayati
+new = gājayati
+comment = Typo – Please note that this is a "print change" as confirmed by Andhrabharati and other Great Authorities.
+status = PENDING Jim. cf. bur (gAjayAmi), mw72, skd (gAjayati), 
+         vcp, wil, mw (gajayati)
+         Who to believe
+------------------------------------------------------------------------
+
+* TODO Case 1270: 08/13/2025 dict=MW, L=15588.1, hw=ark, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word ""arkya [ID=15667]" in the Hierarchical listing of words. In this way all of the proper compounds for "1. arka" are listed first. Andhrabharati has confirmed this placement correction as well.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1232: 08/10/2025 dict=MW, L=25407, hw=āma, user=srhodes
+old = grain not yet freed from chaff
+new = grain freed from chaff
+comment = Typo – Please note that this is a "print change" based upon the general concensus as confirmed by Andhrabharati.
+status = PENDING  cf. AP n. grain freed from chaff; SKD (?)
+   Jim: which is right?  as adj. meaning of Ama is 'raw'. This primary meaning
+   seems closer to 'grain not yet freed from chaff'
+------------------------------------------------------------------------
+
+* TODO Case 1111: 08/02/2025 dict=MW, L=25163, hw=āpvā, user=srhodes
+old = āpvā nom. of āpvan m. ?
+new = āpvā f.
+comment = Typo – Please note that this is a suggested "print change", and the gender should be changed to feminine. I believe that this has been confirmed by the authority of Andhrabharati. I suppose that this could be considered as a "revision" and marked as such, while giving credit to Andhrabharati.
+status = PENDING  Jim: why ? CDSL needs to develop rules. 
+------------------------------------------------------------------------
+
+* TODO Case 1073: 07/30/2025 dict=MW, L=25828.4, hw=āyāsya, user=srhodes
+old = Double Indentation Error in the Hierarchy Listing.
+new = Make a Single Indentation of this Headword in the Hierarchy Listing. Also, Please note that the Headword "āyāsya", may be better placed AFTER the Headword "āyāsin", according to the alphabetical order of letters within the word (as 'sy' follows 'si').
+comment = Double Indentation Error in the Hierarchy Listing.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1072: 07/30/2025 dict=MW, L=25828.3, hw=āyāsita, user=srhodes
+old = Double Indentation Error in the Hierarchy Listing.
+new = Make a Single Indentation of this Headword in the Hierarchy Listing.
+comment = Double Indentation Error in the Hierarchy Listing.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1071: 07/30/2025 dict=MW, L=25828.2, hw=āyāsana, user=srhodes
+old = Double Indentation Error in the Hierarchy Listing.
+new = Make a Single Indentation of this Headword in the Hierarchy Listing.
+comment = Double Indentation Error in the Hierarchy Listing.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1070: 07/30/2025 dict=MW, L=25828.1, hw=āyāsadāyin, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "āyāsa m. [ID= 25826]" as "āyāsadāyin" is a proper compound formed from the pūrvapada "āyāsa".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 956: 07/16/2025 dict=MW, L=24186.1, hw=ādhistena, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ādhibhoga [ID=24131]" in the Hierarchical listing of words. Please note that definition in both cases refers to "a deposit", and thus the correct location of this compound "ādhistena" is confirmed!
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 678: 06/26/2025 dict=MW, L=22115.1, hw=ākāśagarbha, user=srhodes
+old = This Supplemental Entry is a Revision!
+new = On the Authority of Andhrabharati's keen insight, the supplemental entry: "ākāśagarbha" should be treated as a "revision" to the following Headword: "ākāśagarbhi [ID=22116]". The reasoning is as follows: the Main Entry Headword: "ākāśagarbhi" contains the wrong spelling, and the correct spelling has been printed in the annexure as: "ākāśagarbha". Therefore the supplemental entry should not be treated as a separate word to be located within the Main Entry Hierarchy, but rather should be strictly treated as a "revision" to the Main Entry Headword: "ākāśagarbhi [ID=22116]".
+comment = This Supplemental Entry is a Revision!
+status = NO CHANGE:
+Jim: PW: ākāśagarbhi (°garbha ?) m. N. pr. eines Bodhisattva.    
+     
+------------------------------------------------------------------------
+
+* TODO Case 661: 06/24/2025 dict=MW, L=22116, hw=ākāśagarbhi, user=srhodes
+old = ākāśagarbhi
+new = ākāśagarbha
+comment = Typo – Please note that this is a "print change" confirmed by Andhrabharati.
+status = PENDING : Refer to Case 678 
+------------------------------------------------------------------------
+
+* TODO Case 651: 06/23/2025 dict=MW, L=66808, hw=gṝ, user=srhodes
+old = 1. sg. Ā. gṛṇīṣé
+new = 2. sg. Ā. gṛṇīṣé
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING  Jim: 
+ pwg (gar) has 'gṛṇāna; gṛṇīpe 1. sg. — med. öfters mit pass.'
+    Note typo in CDSL (gṛṇīpe -> gṛṇīṣe). 
+   This argues against the possible print change
+------------------------------------------------------------------------
+
+* TODO Case 630: 06/22/2025 dict=MW, L=21954, hw=ahutād, user=srhodes
+old = ahutā́d
+new = ahutā́da
+comment = Typo – Please note that this is a "print change" confirmed by Andhrabharati, as the word is formed with the suffix -ada, not -ad.
+status = PENDING Jim: AP agrees with AB's view; 
+  But PW uses ahutAd with
+   "nicht vom Geopferten geniessend, dem nicht gebührt vom Opfer zu essen, 
+    oder Nicht geopfertes essend" 
+   " not partaking of what was sacrificed, to whom it is not due to eat of the sacrifice, or eating what was not sacrificed"
+  So MW follows PW (as we have seen many times).  Thus, Change does not
+  seem warranted to me.
+------------------------------------------------------------------------
+
+* TODO Case 559: 06/14/2025 dict=MW, L=21178, hw=asṛpāṭa, user=srhodes
+old = (corrupt form) for asṛk-pāta, q,
+new = (derived from asṛk-pāta)  = asṛk-pāta, q.v.,
+comment = Typo – Please note that this is a "print change revision" that has been authorized by Andhrabharati following an authoritative source. You may decide exactly how to "word" this correction, I have suggested one way. Also, note that the final portion: "q" must be corrected to read: "q.v."
+status = PENDING  Jim:  What is that authoritative source? 
+  Also, MW refers to asfk-pAta already (and asfkpAta refers to asf-pAwa.
+  So why should we change MW's opinion "corrupt form" of the relation between
+  the two spellings? 
+------------------------------------------------------------------------
+
+* TODO Case 548: 06/13/2025 dict=MW, L=19889, hw=aśvagati, user=srhodes
+old = four verses of eighteen [or sixteen?] 
+new = four lines of eighteen
+comment = Typo – Please note that the above two corrections are a "print change" authorized by Andhrabharati and all other great authorities.
+status = PENDING Jim: prefer no change. pwg gives sources for both
+   16 and 18. Don't know reason for changing 'verse' to 'line'
+------------------------------------------------------------------------
+
+* TODO dup Case 445: 06/01/2025 dict=MW, L=82587, hw=tandri, user=srhodes
+old = tandri m.
+new = tandri
+comment = Typo – Please note that there is no indication of "masculine gender" in the printed text, and in fact all authorities print: "feminine". I hope that Andhrabharati will confirm as well. Question: "Should the feminine gender be printed here? Or just left without gender?"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 414: 05/29/2025 dict=MW, L=158220, hw=marīcopapurāṇa, user=srhodes
+old = Placement Error
+new = The Headword "marīcopapurāṇa" should be placed under (and after) the Headword "marīca [ID=158187]" as it decomposes to "marīca + upapurāṇa". This correction has been confirmed by the great authority Andhrabharati. As a side note, we hope that Dr. Dhaval is alive and well.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 389: 05/27/2025 dict=MW, L=19413.1, hw=aśanakriyā, user=srhodes
+old = Placement Error
+new = Based upon the definition given, this Supplemental Compound must be placed under the Headword "2. áśana n. eating, [ID=19417]". Therefore, following the proper alphabetical order, the Supplemental Headword "aśanakriyā", must be placed just after the Main Entry Headword "aśanakṛ́t mfn. preparing food, [ID=19420]".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 352: 05/23/2025 dict=MW, L=244032, hw=sic, user=srhodes
+old = siṣikṣati
+new = Possibly Delete
+comment = Typo – Please note that the root is considered as: "√ṣic" ,  which means the Desid. form should only be: "sisikṣati". I find no indication of a variation of the root purely as: "√sic" , and I find no evidence of this form in usage: ""sisikṣati". I hope that Andhrabharati will look into the form: "siṣikṣati" , and either confirm or deny its correctness.
+status = PENDING.  Jim: BUR sisikṣāmi dés. de sic
+  PW: Desid. abhiṣiṣikṣati,  Desid. pariṣiṣikṣati.
+------------------------------------------------------------------------
+
+* TODO Case 309: 05/17/2025 dict=MW, L=137080.1, hw=praviṣṭadīkṣa, user=srhodes
+old = pra-viṣṭadīkṣa
+new = pra-viṣṭa-dīkṣa  (Jim: this change done)
+comment = Typo – Please note that in addition to the correction made above, there is also a "Placement Error" in locating this Supplemental Entry into the Main Entry Hierarchy. Since this is a "Proper Compound" formed by the pūrvapada "praviṣṭa", it must necessarily be placed prior to the Headword "praviṣṭaka [ID=137080 ]", which is not a "Proper Compound", but rather a derivative formed with the affix "ka". This is the standard procedure  followed in MW dictionary, and I hope that Andhrabharati will notice his name here, and confirm this placement correction which has been clearly stated.
+status = PENDING  Placement Error not done
+------------------------------------------------------------------------
+
+* TODO Case 260: 05/10/2025 dict=MW, L=17808.1, hw=avamūrdhaka, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "avamūrdhaśaya mfn. [ID=17809 ]" in the Hierarchical listing of words. The reason for this correction follows the standard of placing words ending in "ka" AFTER all of the "proper" compounds formed from the pūrvapada.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 150: 04/30/2025 dict=MW, L=86816, hw=tṛh, user=srhodes
+old = cf. vi-;
+new = DELETE ?
+comment = Typo – Please note that I am unable to trace the reference made above: "cf. vi-". I hope that Andhrabharati will look into this. I find no such form as: "vitṛh" etc.
+status = PENDING
+  Jim: PWG:  dass.: vitṛṃhāṇāstiṣṭhanti Ts. 2,2,11,2. mitho vi tṛhyantāmarāpyaḥ Av. 1,28,4.
+------------------------------------------------------------------------
+
+* TODO Case 69: 04/23/2025 dict=MW, L=77741, hw=jarc, user=srhodes
+old = cl. 1.
+new = cl. 6.
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = PENDING
+ Jim: AP: jarc (-rch, -rj) 1, 6. P. 
+    mw72: jarc, cl. 1. 6. P. jarcati, 
+    Should the change be "cl. 1. 6." ?
+------------------------------------------------------------------------
+
+* TODO dup Case 67: 04/23/2025 dict=MW, L=77741, hw=jarc, user=srhodes
+old = cl. 1.
+new = cl. 6.
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = PENDING  Jim: refer Case 69
+------------------------------------------------------------------------
+
+* TODO Case 61: 04/23/2025 dict=MW, L=16424.31, hw=arvāksrotas, user=srhodes
+old = Supplemental Placement Error and Double Headword Listing
+new = Please note that this "Supplemental Entry" should simply be added to the Existing Main Entry Headword: "arvāk—srotas [ID=16433 ]". There is no difference in accent, and this Headword must neither be listed twice nor be listed against the proper Alphabetical order of Compounds coming under "arvāk".
+comment = Supplemental Placement Error and Double Headword Listing
+status = PENDING
+------------------------------------------------------------------------
+
