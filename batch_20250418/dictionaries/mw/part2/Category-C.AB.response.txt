@@ -1,0 +1,103 @@
+Category-C: Others (9  cases)
+With further edits by Jim (11-30-2025)
+7 status = NO CHANGE
+1 status = DONE  
+1 status = PENDING  
+
+Case 1051 -- Make change to AP cpd. BAvanam -> Bavana, bha->bhA
+================
+
+* Case 1051: 03/30/2025 dict=MW, L=14235, hw=amṛtabhavana, user=srhodes
+old = Amṛta-prabhā
+new = Amṛta-prabha
+comment = Typo – Please note that this is a possible "print change", following this definition as given by APTE. The question for Andhrabharati is this: "Was this monastery built by a man or woman?". THAT will give us the correct name here, either masculine or feminine.
+status = NO CHANGE
+
+** AB comment:
+No change is required in MW; on the contrary, AP57 needs correction as the word is feminine.
+Supporting details may be seen at my earlier [response](https://github.com/sanskrit-lexicon/csl-corrections/issues/92#issuecomment-2806734706) to Scott.
+------------------------------------------------------------------------
+* Case 940: 03/21/2025 dict=MW, L=12577, hw=abhīṣah, user=srhodes
+old = abhīṣah
+new = abhīṣāh
+comment = Typo – Please note that we need Andhrabharati to confirm the correct prātipadika form. Apte gives the form as: "abhīṣāh" • MW gives: "abhīṣah". Are both forms correct? Or is one of the forms in error?
+status = NO CHANGE
+
+** AB comment:
+No change is required either in MW or Apte.
+The said word occurs in both the forms (differring in the "stress"); cf. the pwk suppl. entry in Vol. 5 (L-206358 ) which mentions this.
+------------------------------------------------------------------------
+* Case 907: 03/18/2025 dict=MW, L=12554, hw=abhiṣac, user=srhodes
+old = abhi-ṣác
+new = abhi-ṣāc
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati. The accent should probably be retained, but the question here is regarding the "long vowel" OR "short vowel". APTE and other sources give this prātipadika with a long vowel. Is MW Dictionary in error? Or are both "long" and "short" vowels authorized in this case? OR, are there actually TWO words here? One word with the "short" vowel and one word with the "long" vowel. We await Andhrabharati's wise counsel.
+status = NO CHANGE
+
+** AB comment:
+No change is required either in MW or Apte.
+This word occurs with both short & long vowels (differring in the "stress"); cf. the pwk entry L-7660 which mentions this.
+------------------------------------------------------------------------
+* Case 491: 02/21/2025 dict=MW, L=9839, hw=apasavya, user=srhodes
+old = to the left, from the right to the left
+new = to the right, from the left to the right
+comment = Typo – Please note that we need Andhrabharati to check into this. Apte and everyone else seems to confirm this correction. Apparently "apasavya" means: अपक्रान्तं सव्यात् "gone away from the left". Therefore, how can we have the meaning given by MW which seems to be contrary?
+status = PENDING
+
+** AB comment:
+Who are all that come under ‘everyone’ as per Scott? Let's spend some more time in discussion, before concluding the matter!
+------------------------------------------------------------------------
+* Case 463: 02/18/2025 dict=MW, L=8985, hw=apakāra, user=srhodes
+old = despise
+new = despise ?
+comment = Typo – Please note this particular definition: "despise" is a VERB. We cannot have a verb used directly for the definition of a noun.  For my own purposes, I have relocated the definition: "despise" ,  under the causative form: "apakārayati".  Does Andhrabharati have an opinion on this?
+status = NO CHANGE
+
+** AB comment:
+Let's note that this meaning is given along with "disdain" (as a noun form); but as Scott pointed out, it is primarily a verb form.
+This addl. entry is picked up from pwk, which has it as "scorn/rejection", by MW99.
+Instead of separating it out (by relocation as another entry), this could probably be changed as "despite" (which is used as both verb and noun)!
+
+But, many a times a verb is simply used in a noun context without changing its form at all; the meaning is inferred from the surrounding words in the sentence. This flexibility is a key characteristic of the English language, allowing words to shift roles based on their function within a sentence.
+Also, we come across some verbs directly being used as nouns (as indicated above) without adding -ing or other suffixes, namely as infinitives by pre-fixing "to".
+As such, I preferred to retain "despise" meaning "as is" in my version.
+------------------------------------------------------------------------
+* Case 219: 01/30/2025 dict=MW, L=8087.2, hw=antarghāta, user=srhodes
+old = antar—ghana or antar—ghāta, m. a place between the entrance-door and the house
+new = Possibly Delete?
+comment = Typo – Please note that APTE very specifically does NOT give the above definition for these two words. APTE says ONLY: 1) "antarghana - N. of a country of Bāhīka (or Bālhīka)"; 2) "antarghāta – striking in the middle". I Hope that Andhrabharati will look into this, as we know MW sometimes misses the mark through plagiarism etc.
+status = NO CHANGE
+
+** AB comment:
+Same as the next; this is a repeat post by Scott
+------------------------------------------------------------------------
+* Case 218: 01/30/2025 dict=MW, L=8087.1, hw=antarghana, user=srhodes
+old = antar—ghana or antar—ghāta, m. a place between the entrance-door and the house
+new = Possibly Delete?
+comment = Typo – Please note that APTE very specifically does NOT give the above definition for these two words. APTE says ONLY: 1) "antarghana - N. of a country of Bāhīka (or Bālhīka)"; 2) "antarghāta – striking in the middle". I Hope that Andhrabharati will look into this, as we know MW sometimes misses the mark through plagiarism etc.
+status = NO CHANGE
+
+** AB comment:
+Nothing to do here.
+As indicated in MW (taken from PWG), "antarghana" is simply a variant form of the word "antarghaṇa". Apte has just chose to take the "antarghaṇa" out of the two.
+------------------------------------------------------------------------
+* Case 195: 01/29/2025 dict=MW, L=183201, hw=lelāya, user=srhodes
+old = p. lelāyántī gen. leláyatas;
+new = p. lelāyántī, gen. lelā́yatas;
+comment = Typo – Please note the "comma" has been added, as well as a further correction is either a "print change" or it is correct as it stands. The question I have is this: Why is the vowel shortened in the printed form "gen. leláyatas", when every other form of this verb contains the long vowel ā ;  Therefore is this an error, or indeed do we have an odd "short vowel" in the genitive singular?
+status = DONE  (comma added)
+Jim: cf pwg lI (hom 3), page 6-0553 which shows MW spellings.
+
+** AB comment:
+Just have the missing comma inserted, as found by Scott.
+And yes, the short vowel form does occur in the literature; in addn. to what PWG has (as pointed out by Jim), it is mentioned by Whitney as well to be in V(eda-Samhitā)s & B(rāhmaṇa)s; cf. https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-whitroot/disp/index.php?page=148 (first line under the entry √1. lī, ‘cling’)
+------------------------------------------------------------------------
+* Case 172: 01/28/2025 dict=MW, L=161620, hw=mahemati, user=srhodes
+old = mahemati
+new = mahemate
+comment = Typo – Please note that this is a suggested "print change". LB The reasoning is as follows: the word given as: “mahenadi" is the feminine singular vocative case of the Headword “mahinadī”. By this same reasoning, the word given as “mahemati” is INCORRECT. Because in this regard, the prātipadika Headword is “mahimati [ID=161411]” and here, the feminine vocative case is clearly printed as “mahemate”. Therefore, the spelling given in the Headword “mahemati [ID=161620]” should be corrected to the feminine singular vocative form printed under the Official Prātipadika Headword "mahimati [ID=161411]". And just to be clear, feminine vocative case is clearly printed as "mahemate", thereby proving the Headword “mahemati [ID=161620]” is INCORRECT.
+status = NO CHANGE
+  Jim thinks no change. Andhrabharati/Dhaval ?
+
+** AB comment:
+Nothing to do here; cf. PWG entry L-59194 (mahi), which has "equated" with "mahe".
+------------------------------------------------------------------------

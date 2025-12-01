@@ -1,0 +1,98 @@
+Category-A: Placement/Indentation related (8  cases)
+With further edits by Jim (11-30-2025)
+Note: Jim solutions per AB. All DONE
+=========================
+
+* Case 1231: 04/12/2025 dict=MW, L=1544.1, hw=aṅgadīya, user=srhodes
+old = Alphabetical Placement Error
+new = Please note that the supplemental insertion of this Headword into the Main Entry must come just after the Headword: "aṅgadin  [ID=1546.1 sup]". The reason for this correction is printed in the Supplementary section itself which clearly shows this very ordering: "aṅgadin" followed by "aṅgadīya".  Therefore the order cannot be suddenly changed in the Main Entry itself. Also, the ID number: "1544.1 sup" will need to be corrected as well. Furthermore, I do no understand why the window displays also shows the following two words:  LB aṅga—dā f. the female elephant of the south [ID=1545 ] LB aṅga—da n. a bracelet worn on the upper arm. [ID=1546 ]
+comment = Alphabetical Placement Error
+status = DONE 
+
+** AB comment:
+With due consideration of the annexure entry ordering, even the "aṅgadin" entry should be placed after all "aṅga" compounds [namely, after "aṅgāṅgi-bhāva-saṃkara", L-1601.1], and alphabetically after "aṅgati", L-1621.
+I have the two words placed as "aṅgadin", L-1621.1 (as H1) and "aṅgadīya", L-1621.2 (as H3) in my version.
+[Of course, we may note here that the aṅgadīya is not a derivative of aṅgadin (adjective), but of aṅgada (masculine); i.e. technically it cannot be placed "under" aṅgadin!]
+
+** Jim: 1546.1, aNgadin -> 1621.1 H1
+        1544.1, aNgadIya -> 1621.2  H1  
+
+------------------------------------------------------------------------
+* Case 347: 02/06/2025 dict=MW, L=8632.4, hw=anyatsthānagata, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: "anyatsthānagata [ID=8632.4 sup]", must be placed just prior to the Main Entry Compound: "anyadāśā [ID=8652]". Of course the ID number of "anyatsthānagata" will have to be changed accordingly.
+comment = Placement Error
+status = DONE
+
+** AB comment:
+I have this placed at L-8651.2 in my version.
+** Jim:  
+  8632.1 anyat H2 -> 8649.1 H2
+  8632.2 anyatkAma H3 -> 8649.2 H3
+  (8650 anyatkAraka H2) -> H3
+  (8651 anyatkf H3) 
+  8632.3 anyatpArSva H3 -> 8651.1 H3
+  8632.4 anyatsTAnagata H3 -> 8651.2 H3
+  (8652 anyadASA H3)
+  (8653 anyadASis H3)
+------------------------------------------------------------------------
+* Case 346: 02/06/2025 dict=MW, L=8632.3, hw=anyatpārśva, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: "anyatpārśva [ID=8632.3 sup]", must be placed just after the Main Entry Compound: "anyatkṛ [ID=8651]". Of course the ID number of "anyatpārśva" will have to be changed accordingly.
+comment = Placement Error
+status = DONE
+
+** AB comment:
+I have this placed at L-8651.1 in my version.
+** Jim agree. see my comment at Case 347  
+------------------------------------------------------------------------
+* Case 345: 02/06/2025 dict=MW, L=8632.2, hw=anyatkāma, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: “anyatkāma mfn. [ID=8632.2 sup]”, must be placed just prior to this Main Entry Compound: "anyatkāraka mfn. [ID=8650]". Of course the ID number of "anyatkāma" will have to be changed accordingly.
+comment = Placement Error
+status = DONE
+
+** AB comment:
+I have this placed at L-8649.2 in my version.
+** Jim: agree see my comment at Case 347
+------------------------------------------------------------------------
+* Case 344: 02/06/2025 dict=MW, L=8632.1, hw=anyat, user=srhodes
+old = Placement Error
+new = Please note that in the Main Entry of MW dictionary, the compounds formed by the pūrvapada: “anyat” begin with: “anyatkāraka mfn. [ID=8650]”. Therefore, the supplemental insertion of the Headword: “anyat (in comp.) [ID=8632.1 sup]”, must be placed just prior to this listing of compounds! Please relocate the Supplemental Headword: “anyat (in comp.) [ID=8632.1 sup]” to just prior to the Headword : "anyatkāraka [ID=8650]". Of course the ID number of "anyat" will have to be changed accordingly.
+comment = Placement Error
+status = DONE
+
+** AB comment:
+I have this at L-8649.1 in my version.
+** Jim agree see my comment at Case 347
+------------------------------------------------------------------------
+* Case 46: 01/18/2025 dict=MW, L=18787.1, hw=avitaraṇa, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "avitarka [ID=18783]" in the Hierarchical listing of words. This is the proper alphabetical location, since there is not etymological relation to the currently preceding Headword "avitṛ́ [ID=18771]".
+comment = Placement Error
+status = DONE
+
+** AB comment:
+I have this at L-18782.1 in my version.
+** Jim agree - H1
+------------------------------------------------------------------------
+* Case 45: 01/18/2025 dict=MW, L=18787.1, hw=avitaraṇa, user=srhodes
+old = Indentation Error  Placement error
+new = Please note that the Headword "avitṛ́ mfn. a favourer, protector [ID=18771]" derives from the verbal root √av as indicated by the following statement: "avitṛ́ See avita. [ID=18787]". However, the Supplemental Headword "avitaraṇa" derives from the verbal root √tṝ with the prefix "vi" preceded by the negative particle "a". Since MW dictionary is the greatest Etymological Sanskrit Dictionary in existence, we must pay tribute and properly place this Supplemental Headword "avitaraṇa" accordingly. This means NO INDENTATION in the Hierarchy List Column, because there is no relation here to the preceding Headword "avitṛ́ [ID=18771]". I am certain that Andhrabharati would be pleased with the reasoning here.
+comment = Indentation Error
+status = DONE
+
+** AB comment:
+Same as above, in different wordings by Scott. I have this at L-18782.1 in my version.
+
+------------------------------------------------------------------------
+* Case 8: 01/15/2025 dict=MW, L=5931.1, hw=anilāśana, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "anilāśin [ID=5930 ]" in the Hierarchical listing of words.
+comment = Placement Error
+status = DONE
+
+** AB comment:
+I have this at L-5929.1 in my version.
+** Jim: agree
+------------------------------------------------------------------------
