@@ -1,0 +1,61 @@
+2025-12-04
+csl-corrections/batch_20250418/dictionaries/ap
+
+8 TODOd  Suggested display changes
+
+* TODOd Case 136: 01/27/2025 dict=AP, L=2233, hw=anusāraṇā, user=srhodes
+old =                  [ID=2233]
+new = [ID=2233]
+comment = Typo – Please note that the "blank space" is not needed. In fact, you could conduct a Global Search for the following target: "                 [" , which would locate similar cases for correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOd Case 151: 01/27/2025 dict=AP, L=2263, hw=anūkaḥ, user=srhodes
+old = (where LB Page0114-2 LB  Sāy. 
+new = (where Sāy. 
+comment = Typo – Please note that I disagree with listing "page breaks" online. I consider this to be an unnecessary visual distraction to the listing of definitions. When someone clicks the "page link" to view the printed page, the page break will present itself in an "obvious manner" which precludes the necessity of including such a "page break" online. This of course is my preference, and I will not be mentioning it again, however I you will give this suggestion some consideration.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOd Case 153: 01/27/2025 dict=AP, L=2276, hw=anūpa, user=srhodes
+old = country LB (-pāḥ pl.); tāmagrataḥ anūparājasya vidhāya  R. 6. 37.
+new = country (-pāḥ pl.); tāmagrataḥ anūparājasya vidhāya  R. 6. 37.
+comment = Typo – Please keep the line continuous and unbroken.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOd Case 155: 01/27/2025 dict=AP, L=2280, hw=anūru, user=srhodes
+old = having anūru for his charioteer
+new = having Anūru for his charioteer
+comment = Typo – Please note that this word is printed in devanāgarī script. Here the word has been transliterated and it represents a proper name. Generally, proper names are capitalized in the English language, and this is a Sanskrit-English dictionary. Also, please take note that the word "Aruṇa", previously mentioned has been capitalized on the printed page in support of my reasoning.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOd Case 174: 01/29/2025 dict=AP, L=2320, hw=anoṅkṛta, user=srhodes
+old = om
+new = om —FONT CHANGE— "Bold Italic Font"
+comment = Typo – Please note that this word is written in Devanāgarī script on the printed page. However, since the word has been transliterated, I believe that the word should appear in bold italics.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOd Case 175: 01/29/2025 dict=AP, L=2321, hw=anodana, user=srhodes
+old = vrata
+new = vrata —FONT CHANGE— "Bold Italic Font"
+comment = Typo – Please note that this word is written in Devanāgarī script on the printed page. However, since the word has been transliterated, I believe that the word should appear in bold italics.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOd Case dup 176: 01/29/2025 dict=AP, L=2321, hw=anodana, user=srhodes
+old = vrata
+new = vrata —FONT CHANGE— "Bold Italic Font"
+comment = Typo – Please note that this word is written in Devanāgarī script on the printed page. However, since the word has been transliterated, I believe that the word should appear in bold italics.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOd Case 676: 03/04/2025 dict=AP, L=3225, hw=apsaras, user=srhodes
+old = N. of the Gandharva śikhaṇḍin
+new = N. of the Gandharva Śikhaṇḍin
+comment = Typo – Please note that this correction is for the transliteration of the word which appears in devanāgarī script. The capital letter is important, because the word "Śikhaṇḍin" is a Proper Name. Also, if you look up the word "śikhaṇḍin" in the APTE dictionary, you will notice that Apte himself spells the word with a capital letter as for example, "Śikhaṇḍin was originally a female etc." as well as: "but Śikhaṇḍin contrived, by practising austere penance etc.".
+status = PENDING
+------------------------------------------------------------------------
+

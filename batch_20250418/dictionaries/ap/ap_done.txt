@@ -1,0 +1,3328 @@
+2025-12-04
+csl-corrections/batch_20250418/dictionaries/ap
+
+506 TODOx  normal process. Corrections made to ap.txt
+Also see ap_change.txt
+29 comments by 'Jim'
+12 'NO CHANGE'
+
+--------------------------------
+* TODOx Case 0: 
+ This taken from a proposed correction to MW:
+  03/30/2025 dict=MW, L=14235, hw=amṛtabhavana, user=srhodes
+old = Amṛta-prabhā
+new = Amṛta-prabha
+comment = Typo – Please note that this is a possible "print change", following this definition as given by APTE. The question for Andhrabharati is this: "Was this monastery built by a man or woman?". THAT will give us the correct name here, either masculine or feminine.
+status = NO CHANGE
+
+AB comment:
+No change is required in MW; on the contrary, AP57 needs correction as the word is feminine.
+Supporting details may be seen at my earlier [response](https://github.com/sanskrit-lexicon/csl-corrections/issues/92#issuecomment-2806734706) to Scott.
+
+** pc: 4229<pc>0204-1<k1>amfta : -Bavanam ... built by Amṛtaprabha : -Bavanam ... built by Amṛtaprabhā : https://github.com/sanskrit-lexicon/csl-corrections/issues/92#issuecomment-2806734706
+------------------------------------------------------------------------
+
+* TODOx Case 134: 01/27/2025 dict=AP, L=2227, hw=anusṛ, user=srhodes
+old = vāyuranusārayatība mām
+new = vāyuranusārayatīva mām
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 135: 01/27/2025 dict=AP, L=2227, hw=anusṛ, user=srhodes
+old = vāyuranusārayatība mām
+new = vāyuranusārayatīva mām
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 139: 01/27/2025 dict=AP, L=2255, hw=anusvāraḥ, user=srhodes
+old = caused by an anusvāra.
+new = caused by an ???
+comment = Typo – Please let me know if words such as these: "anusvāra", which are printed in devanāgarī script (on the printed page) are meant to be shown in bold italic letters when transliterated online?
+status = NO CHANGE
+  Jim: Should display as non-bold, which is the case in "caused by an anusvāra."
+  
+------------------------------------------------------------------------
+
+* TODOx Case dup 140: 01/27/2025 dict=AP, L=2255, hw=anusvāraḥ, user=srhodes
+old = caused by an anusvāra.
+new = caused by an ???
+comment = Typo – Please let me know if words such as these: "anusvāra", which are printed in devanāgarī script (on the printed page) are meant to be shown in bold italic letters when transliterated online?
+status = NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case dup 141: 01/27/2025 dict=AP, L=2255, hw=anusvāraḥ, user=srhodes
+old = caused by an anusvāra.
+new = caused by an ???
+comment = Typo – Please let me know if words such as these: "anusvāra", which are printed in devanāgarī script (on the printed page) are meant to be shown in bold italic letters when transliterated online?
+status = NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case dup 142: 01/27/2025 dict=AP, L=2255, hw=anusvāraḥ, user=srhodes
+old = caused by an anusvāra.
+new = caused by an ???
+comment = Typo – Please let me know if words such as these: "anusvāra", which are printed in devanāgarī script (on the printed page) are meant to be shown in bold italic letters when transliterated online?
+status = NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case dup 143: 01/27/2025 dict=AP, L=2255, hw=anusvāraḥ, user=srhodes
+old = caused by an anusvāra.
+new = caused by an ???
+comment = Typo – Please let me know if words such as these: "anusvāra", which are printed in devanāgarī script (on the printed page) are meant to be shown in bold italic letters when transliterated online?
+status = NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case dup 144: 01/27/2025 dict=AP, L=2255, hw=anusvāraḥ, user=srhodes
+old = caused by an anusvāra.
+new = caused by an ???
+comment = Typo – Please let me know if words such as these: "anusvāra", which are printed in devanāgarī script (on the printed page) are meant to be shown in bold italic letters when transliterated online?
+status = NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case dup 145: 01/27/2025 dict=AP, L=2255, hw=anusvāraḥ, user=srhodes
+old = caused by an anusvāra.
+new = caused by an ???
+comment = Typo – Please let me know if words such as these: "anusvāra", which are printed in devanāgarī script (on the printed page) are meant to be shown in bold italic letters when transliterated online?
+status = NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case 147: 01/27/2025 dict=AP, L=2259, hw=anuhṛ, user=srhodes
+old = piturmātuścāgaṃtaṃ
+new = piturmātuścāgataṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 169: 01/28/2025 dict=AP, L=2298, hw=aneka, user=srhodes
+old = 3 Agitated. perplexed
+new = 3 Agitated, perplexed
+comment = Typo – Please note that this is a "print change" that follows the standard of listing several definitions after a given "number" and being separated by the use of a "comma".
+status = DONE
+** pc: 2298<pc>0115-2<k1>aneka :  Agitated. perplexed :  Agitated, perplexed
+------------------------------------------------------------------------
+
+* TODOx Case 170: 01/28/2025 dict=AP, L=2298, hw=aneka, user=srhodes
+old = °bādaḥ scepticism
+new = °vādaḥ scepticism
+comment = Typo – Please note that this is a suggested "print change". I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence, and therefore I suggest that we follow MW Dictionary which lists this Headword as: "anekāntavāda".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 171: 01/28/2025 dict=AP, L=2298, hw=aneka, user=srhodes
+old = anekārthatvamanyāgyam
+new = anekārthatvamanyāyyam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 177: 01/29/2025 dict=AP, L=2323, hw=anaucityam, user=srhodes
+old = anaucityāddate
+new = anaucityādṛte
+comment = Typo – Scott has a very good eye!  Jim: Yes, he does!
+status = DONE
+
+------------------------------------------------------------------------
+
+* TODOx Case 178: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = ddaśyate
+new = dṛśyate
+comment = Typo – Scott has a very good eye!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 179: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = chāṇḍāla
+new = cāṇḍāla
+comment = Typo – Please note that this word has been properly transliterated except for the first letter. This is misleading and should therefore be corrected. The word is properly spelled: "चाण्डाल", therefore proper transliteration must be: "cāṇḍāla". The spelling here, beginning with the letter "ch" is misleading as well as an error worthy of correction. You may also consider this to be a Global Correction across all dictionaries.
+status = DONE
+** pc: 2328<pc>0117-1<k1>anta : chāṇḍāla : cāṇḍāla : also changed 6 more
+------------------------------------------------------------------------
+
+* TODOx Case 180: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = -cakam
+new = -cakram
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 182: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = -śapyā
+new = -śayyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 184: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = (kālacakam)
+new = (kālacakram)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 185: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = -satkiyā
+new = -satkriyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 186: 01/29/2025 dict=AP, L=2331, hw=antavat, user=srhodes
+old = basu
+new = vasu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 188: 01/29/2025 dict=AP, L=2332, hw=ante, user=srhodes
+old = Chāṇḍāla
+new = Cāṇḍāla
+comment = Typo – Please note that this word has been properly transliterated except for the first letter. This is misleading and should therefore be corrected. The word is properly spelled: "चाण्डाल", therefore proper transliteration must be: "cāṇḍāla". The spelling here, beginning with the letter "ch" is misleading as well as an error worthy of correction. Please make this a Global correction across all dictionaries. Otherwise, you will be hearing from me again and again, on this point.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 189: 01/29/2025 dict=AP, L=2332, hw=ante, user=srhodes
+old = ācāryo'ntebāsinamanuśāsti
+new = ācāryo'ntevāsinamanuśāsti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 190: 01/29/2025 dict=AP, L=2332, hw=ante, user=srhodes
+old = śṛṇbanvayasāṃ
+new = śṛṇvanvayasāṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 191: 01/29/2025 dict=AP, L=2332, hw=ante, user=srhodes
+old = (in statu pupilavi)
+new = (in statu pupillari)
+comment = Typo – Please note that this is a "print change". The correction follows both MW dictionary as well as online sources that verify this correction.
+status = DONE
+** pc: 2332<pc>0118-2<k1>ante : in statu pupilavi : in statu pupillari
+------------------------------------------------------------------------
+
+* TODOx Case 192: 01/29/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = °ghā
+new = °dhā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 193: 01/29/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = nivasannantardāruṇi laṅdhyo bahniḥ
+new = nivasannantardāruṇi laṅghyo vahniḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 194: 01/29/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = hiraṇmagyorha
+new = hiraṇmayyorha
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 207: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = nidighyāsana
+new = nididhyāsana
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 208: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = sarvadohinām
+new = sarvadehinām
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 209: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = karaṇama
+new = karaṇam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 210: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = dayārdrabhābamākhyātamantaḥkaraṇairviśaṅkaiḥ
+new = dayārdrabhāvamākhyātamantaḥkaraṇairviśaṅkaiḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 211: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = buddhapahaṅkāramanāṃsi
+new = buddhyahaṅkāramanāṃsi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 212: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = (-ki) miḥ
+new = (-kri) miḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 213: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = galamāṃsāpiṇḍasya gaḍoryathā nirarthakatbaṃ tadvat
+new = galamāṃsapiṇḍasya gaḍoryathā nirarthakatvaṃ tadvat
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 214: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = guḍavalayaḥ
+new = gudavalayaḥ
+comment = Typo – Please note that this is a suggsted "print change", based upon two points: 1) This correction follows MW dictionary; 2) Please look up the pūrvapada here: "guda" versus "guḍa".
+status = DONE
+** pc: 2334<pc>0118-2<k1>antar : guqavalayaH : gudavalayaH : 
+------------------------------------------------------------------------
+
+* TODOx Case 215: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = pañcakośyāṃ kṛtaṃ pāpamantargehe binaśyati
+new = pañcakrośyāṃ kṛtaṃ pāpamantargehe vinaśyati
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 216: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = koḍībhavatyasmin
+new = kroḍībhavatyasmin
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 217: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = dvāramatikamya
+new = dvāramatikramya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 220: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = bāhīkagrāmahiśeṣasya
+new = bāhīkagrāmaviśeṣasya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 221: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = jaṭharama
+new = jaṭharam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 223: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = kaścitpraviśāti
+new = kaścitpraviśati
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 224: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = jalakīḍāṃ
+new = jalakrīḍāṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 225: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = vācamucitāmantaḥpure bhyo
+new = vācamucitāmantaḥpurebhyo
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 229: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = -vigāhaḥ, -hanam entering within, penetration.
+new = -vigāhaḥ, -vigāhanam entering within, penetration.
+comment = Typo – Please note that this is a suggested "print change" in order to make the second word clear.
+status = DONE
+** pc: 2334<pc>0118-2<k1>antar : -vigAhaH, -hanam : -vigAhaH, -vigAhanam
+------------------------------------------------------------------------
+
+* TODOx Case 253: 01/31/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = (also written antaḥstha)
+new = ???
+comment = Typo – Please note that this is a redundant statement. Because the compound cited here is in fact, "antaḥstha" itself. The Headword here is: "antar", therefore the compound cited here is: "antaḥstha". How can it then be stated, "(also written antaḥstha)"? This is pure redundancy.
+status = DONE  Jim: 
+** pc: 2334<pc>0118-2<k1>antar : (also written antaHsTa)  :  :  phrase removed 
+------------------------------------------------------------------------
+
+* TODOx Case 254: 01/31/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = Rigveda
+new = Ṛgveda
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction across all dictionaries: "Ṛi" ——becomes—— "Ṛ" AND "ṛi" ——becomes—— "ṛ".
+status = DONE
+** pc: 2334<pc>0118-2<k1>antar : Rigveda : Ṛgveda : 5 other also changed
+------------------------------------------------------------------------
+
+* TODOx Case 255: 01/31/2025 dict=AP, L=2335, hw=antara, user=srhodes
+old = jālāntarapreṣitaddaṣṭiḥ
+new = jālāntarapreṣitadṛṣṭiḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 269: 02/01/2025 dict=AP, L=2335, hw=antara, user=srhodes
+old = -cakam
+new = -cakram
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 270: 02/01/2025 dict=AP, L=2335, hw=antara, user=srhodes
+old = -pūjā = antara-pūjā.
+new = -pūjā = antar-pūjā.
+comment = Typo – Please note that this is a "print change."  The reasoning is as follows: 1) The compound itself is "antarapūjā", therefore the definition offered cannot be the very same word; 2) Therefore, we must take the definition as being "antar-pūjā" which finally becomes "antaḥpūjā" (by Sandhi), thus meaning "inward or silent worship" (according to MW).
+status = DONE  Jim: Consider as typo 
+------------------------------------------------------------------------
+
+* TODOx Case 272: 02/01/2025 dict=AP, L=2341, hw=antarayati, user=srhodes
+old = sarānantarāyānantarayan
+new = sarvānantarāyānantarayan
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 273: 02/01/2025 dict=AP, L=2341, hw=antarayati, user=srhodes
+old = mahārṇabaughaḥ
+new = mahārṇavaughaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 274: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = bhainamantarā
+new = mainamantarā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 277: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = intravals
+new = intervals
+comment = Typo – Please consider this to be a print change.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 278: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = kamaṇṅaluḥ
+new = kamaṇḍaluḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 279: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = cakurantarorāvulūkhalam
+new = cakrurantarorāvulūkhalam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 280: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = -diś see antaradiś.
+new = -diś see antaradiśā
+comment = Typo – Please note that this is a possible "print change", based upon the nonexistence of the word "antaradiś"; whereas, the word "antaradiśā" has been previously mentioned and present also in MW dictionary. Also, there has been given: "antarā dik", but definitely not "antardiś".
+status = NO CHANGE  PD has antaradiS and antarAdiS, with similar 'meanings'
+------------------------------------------------------------------------
+
+* TODOx Case 281: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = śakaścidā
+new = śakraścidā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 283: 02/01/2025 dict=AP, L=2344, hw=antarālam, user=srhodes
+old = the midle; or middst;
+new = the middle; or midst;
+comment = Typo – Print Change Correction.
+status = DONE
+** pc: 2344<pc>0124-1<k1>antarAlam : the midle; or middst; : the middle; or midst;
+------------------------------------------------------------------------
+
+* TODOx Case 295: 02/03/2025 dict=AP, L=2368, hw=anti, user=srhodes
+old = vṛṣaṇāantidavam
+new = vṛṣaṇāantidevam
+comment = Typo – I checked the actual verse cited: "Rv. 1. 180. 7.", and this confirms the correction
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 297: 02/03/2025 dict=AP, L=2368, hw=anti, user=srhodes
+old = -ṣumṇa
+new = -sumna
+comment = Typo – Please note that this a possible "print change", based upon MW. Of course this is a correction based upon the question of SANDHI. The only question is: "Which form is correct?". I hope that Andhrabharati or Dr. Dhaval will verify this form.
+status = NO CHANGE  PD has antiṣumṇa, also PWG which explains the sandhi
+------------------------------------------------------------------------
+
+* TODOx Case 298: 02/03/2025 dict=AP, L=2374, hw=antya, user=srhodes
+old = °maṇṅanam
+new = °maṇḍanam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 299: 02/03/2025 dict=AP, L=2374, hw=antya, user=srhodes
+old = canḍāla
+new = caṇḍāla
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 300: 02/03/2025 dict=AP, L=2374, hw=antya, user=srhodes
+old = Mlechcha
+new = Mleccha
+status = DONE  this is a print change suggestion. AP has headword 'mlecCaH' (slp1)
+  whose iast transliteration is mlecchaḥ.  This agrees with Scott.
+** pc: 2374<pc>0126-2<k1>antya : Mlechcha : Mleccha
+------------------------------------------------------------------------
+
+* TODOx Case 301: 02/03/2025 dict=AP, L=2374, hw=antya, user=srhodes
+old = biśeṣa
+new = viśeṣa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 303: 02/03/2025 dict=AP, L=2374, hw=antya, user=srhodes
+old = chāṇḍāla
+new = cāṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 305: 02/03/2025 dict=AP, L=2381, hw=andikā, user=srhodes
+old = (cf. -antikā).
+new = (cf. antikā).
+comment = Typo – Please note that the "hyphen" is not needed.
+status = DONE
+** pc: 2381<pc>0127-2<k1>andikA : cf. -antikA : cf. antikA :
+------------------------------------------------------------------------
+
+* TODOx Case 313: 02/04/2025 dict=AP, L=2385, hw=andha, user=srhodes
+old = ddaṣṭapabhāvasya
+new = dṛṣṭyabhāvasya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 314: 02/04/2025 dict=AP, L=2385, hw=andha, user=srhodes
+old = lokamandhatamasātkamoditau
+new = lokamandhatamasātkramoditau
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 315: 02/04/2025 dict=AP, L=2385, hw=andha, user=srhodes
+old = kodha ucyate
+new = krodha ucyate
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 316: 02/04/2025 dict=AP, L=2385, hw=andha, user=srhodes
+old = stanamatisārakāsahikkāchadīṃbhirjvarasahitābhirardyamānaḥ
+new = stanamatisārakāsahikkāchardībhirjvarasahitābhirardyamānaḥ
+status = DONE  
+Jim: the ā in old NOT EQ the ā in new !  
+------------------------------------------------------------------------
+
+* TODOx Case 328: 02/05/2025 dict=AP, L=2389, hw=andhikā, user=srhodes
+old = ddaṣṭikṣayo
+new = dṛṣṭikṣayo
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 329: 02/05/2025 dict=AP, L=2396, hw=annam, user=srhodes
+old = annajībanaḥ
+new = annajīvanaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 332: 02/05/2025 dict=AP, L=2396, hw=annam, user=srhodes
+old = hickup
+new = hiccup
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 333: 02/05/2025 dict=AP, L=2396, hw=annam, user=srhodes
+old = Savitṛ. Agni
+new = Savitṛ, Agni
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 342: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = daddaśe
+new = dadṛśe
+comment = Typo – Please note that this could be considered a Global correction. It is unlikely for this form to have any other possible spelling. In the APTE dictionary this error could occur a number of times. Therefore, a Global "search and replace" to the master file will save both you and I from discussing this again.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 343: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = priyādarśanāddate
+new = priyādarśanādṛte
+comment = Typo – Please note that the following portion: "āddate" could be considered a Global correction to become: "ādṛte". It is unlikely for this configuration of letters: "āddate" to have any other possible correct spelling than "ādṛte". In the APTE dictionary this error could occur a number of times. Therefore, a Global "search and replace" to the master file will save both you and I from discussing this again.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 348: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = ekaanya the one — the other
+new = eka—anya the one — the other
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 349: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = badanamadirāṃ
+new = vadanamadirāṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 350: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = kocit—anye someothers
+new = kecit—anye some—others
+comment = Typo – Please note that this is an important correction.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 351: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = vījakṣetre
+new = bījakṣetre
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 355: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = womon
+new = women
+status = DONE 
+------------------------------------------------------------------------
+
+* TODOx Case 356: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = womon
+new = woman
+comment = Typo – UPDATED CORRECTION
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 357: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = -vījasamudbhava
+new = -bījasamudbhava
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 359: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = asaṃsṛṣṭapapi
+new = asaṃsṛṣṭyapi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 360: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = Bārhmaṇa
+new = Brāhmaṇa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 361: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = -saṃkānta
+new = -saṃkrānta
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 362: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = (anyatra = anye).
+new = (anyatra = anyasmin).
+comment = Typo – Please note that this is a suggested "print change." The equality stated here appears to be referring to the Locative form of "anya", which is NOT "anye", but rather "anyasmin". Also this appears to be applicable to the following "Number (4)" definitions listed as: "Otherwise, in another way, in the other case, in the other sense"; and therefore, perhaps this correction should also be moved accordingly so as not to appear with the "Number (3)" definitions: "Except, without, other than"; but rather at the Head of the "Number (4)" definitions.
+status = DONE   See correction at Case 363
+------------------------------------------------------------------------
+
+* TODOx Case 364: 02/07/2025 dict=AP, L=2411, hw=anyathā, user=srhodes
+old = -ddhvam
+new = -ddham
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 365: 02/07/2025 dict=AP, L=2416, hw=anyādṛkṣ, user=srhodes
+old = anyādṛkṣ
+new = anyādṛkṣa
+comment = Typo – Please note that this is a Headword "print change" as confirmed by MW dictionary AND Vācaspatyam. Also, the statement above: "...karmakartari ksa, kvin, kañ vā  P. III. 2. 60" seems to indicate this as well, by the affix: "ksa".
+status = DONE
+** pc: 2416<pc>0132-1<k1>anyAdfkz : anyAdfkz : anyAdfkza : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 366: 02/08/2025 dict=AP, L=30709, hw=vṛt, user=srhodes
+old = cf. bāvṛt
+new = cf. vāvṛt
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 377: 02/08/2025 dict=AP, L=2420, hw=anyonya, user=srhodes
+old = tādātbhyasaṃbandhāvacchinnapratiyogiko'nyonyābhābaḥ
+new = tādātmyasaṃbandhāvacchinnapratiyogiko'nyonyābhāvaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 378: 02/08/2025 dict=AP, L=2428, hw=anvakṣa, user=srhodes
+old = nṛpagoviprairanakṣaṃ cātmadhātinām
+new = nṛpagoviprairanvakṣaṃ cātmaghātinām
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 379: 02/08/2025 dict=AP, L=2431, hw=anvak, user=srhodes
+old = ddaśau
+new = dṛśau
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 383: 02/09/2025 dict=AP, L=2436, hw=anvartha, user=srhodes
+old = bhabiṣyantī
+new = bhaviṣyantī
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 384: 02/09/2025 dict=AP, L=2441, hw=anvavāyaḥ, user=srhodes
+old = kamādyenābhiṣecitāḥ
+new = kramādyenābhiṣecitāḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 386: 02/09/2025 dict=AP, L=2457, hw=anvādeśaḥ, user=srhodes
+old = vidhātubhupāttasya
+new = vidhātumupāttasya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 387: 02/09/2025 dict=AP, L=2466, hw=anvāyātyā, user=srhodes
+old = anvāyā.;
+new = anvāyā.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 389: 02/10/2025 dict=AP, L=2479, hw=anvāhāryaḥ, user=srhodes
+old = athānbāhāryapacanādutthito
+new = athānvāhāryapacanādutthito
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 390: 02/10/2025 dict=AP, L=2483, hw=anvayaḥ, user=srhodes
+old = sthitikiyāyāmanvayaḥ
+new = sthitikriyāyāmanvayaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 391: 02/10/2025 dict=AP, L=2483, hw=anvayaḥ, user=srhodes
+old = bahnimān
+new = vahnimān
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 392: 02/10/2025 dict=AP, L=2483, hw=anvayaḥ, user=srhodes
+old = -jhaḥ
+new = -jñaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 393: 02/10/2025 dict=AP, L=2483, hw=anvayaḥ, user=srhodes
+old = abhidhānabādaḥ
+new = abhidhānavādaḥ
+status = DONE  see case 394
+------------------------------------------------------------------------
+
+* TODOx Case 394: 02/10/2025 dict=AP, L=2487, hw=anvita, user=srhodes
+old = abhidhānabādaḥ
+new = abhidhānavādaḥ
+comment = Typo – UPDATED HEADWORD AND ID NUMBER
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 400: 02/11/2025 dict=AP, L=2492, hw=anveṣaka, user=srhodes
+old = anupadyanbeṣṭā
+new = anupadyanveṣṭā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 401: 02/11/2025 dict=AP, L=2495, hw=anvīkṣika, user=srhodes
+old = buddhayā
+new = buddhyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 402: 02/11/2025 dict=AP, L=2499, hw=ap, user=srhodes
+old = adbhapaḥ
+new = adbhyaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 403: 02/11/2025 dict=AP, L=2499, hw=ap, user=srhodes
+old = adbhayo
+new = adbhyo
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 404: 02/11/2025 dict=AP, L=2499, hw=ap, user=srhodes
+old = Vuruṇa
+new = Varuṇa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 405: 02/11/2025 dict=AP, L=2499, hw=ap, user=srhodes
+old = -pittama
+new = -pittam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 406: 02/11/2025 dict=AP, L=2500, hw=apa, user=srhodes
+old = °biṣṇu
+new = °viṣṇu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 410: 02/12/2025 dict=AP, L=2514, hw=apakriyā, user=srhodes
+old = sāntvamapakiyā  Śi. 2. 54 ; mā kṛthāḥ punaramūmapakiyām
+new = sāntvamapakriyā  Śi. 2. 54 ; mā kṛthāḥ punaramūmapakriyām
+comment = Typo – Please note that two corrections have been made here (and both mistakes are similar).
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 411: 02/12/2025 dict=AP, L=2515, hw=apakṛṣ, user=srhodes
+old = ānāyibhistāmapakṛṣṭanakām
+new = ānāyibhistāmapakṛṣṭanakrām
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 412: 02/12/2025 dict=AP, L=2516, hw=apakarṣaḥ, user=srhodes
+old = manuṣyoṣviha
+new = manuṣyeṣviha
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 420: 02/13/2025 dict=AP, L=2520, hw=apakṝ, user=srhodes
+old = kukvuṭo
+new = kukkuṭo
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 422: 02/13/2025 dict=AP, L=2557, hw=apacaḥ, user=srhodes
+old = ākośe
+new = ākrośe
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 423: 02/13/2025 dict=AP, L=2560, hw=apacāraḥ, user=srhodes
+old = gurāviba
+new = gurāviva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 436: 02/14/2025 dict=AP, L=2568, hw=apacitiḥ, user=srhodes
+old = Marīchi
+new = Marīci
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = DONE
+** pc: 2568<pc>0139-1<k1>apacitiH : Marīchi : Marīci : also 5 others changed
+------------------------------------------------------------------------
+
+* TODOx Case 437: 02/14/2025 dict=AP, L=2574, hw=apacyu, user=srhodes
+old = A. 1
+new = Ā. 1
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. The Global correction to the master files could be made as follows:  "A. 1 To" ——becomes—— "Ā. 1 To". This Globl replacement could also be made using each numeral 1-10, so as to correct every single class of roots. Please note that the abbreviation for Ātmanepadam and Ātmanepadī should be written correctly.
+status = DONE  
+Jim:  2 matches for "A. [0-9]+ To"  These both changed.  Good to think of regex patterns
+------------------------------------------------------------------------
+
+* TODOx Case 438: 02/14/2025 dict=AP, L=2581, hw=apajñā, user=srhodes
+old = 9A. To
+new = 9 Ā. To
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. The Global correction to the master files could be made as follows:  "9A. To" ——becomes—— "9 Ā. To". This Globl replacement could also be made using each numeral 1-10, so as to correct every single class of roots. Please note that the abbreviation for Ātmanepadam and Ātmanepadī should be written correctly.
+status = DONE
+33 matches for "A. To"  these changed to "Ā. To"  
+The Space (9 Ā.)is a separate issue not changed now.
+------------------------------------------------------------------------
+
+* TODOx Case 439: 02/15/2025 dict=AP, L=2700, hw=aparatiḥ, user=srhodes
+old = (= aparati
+new = (= uparati
+comment = Typo – Please note that this is a suggested print change. Here, the reference being made cannot be to itself!  Thus  "uparati"  must be the correct reference.
+status = DONE
+** pc: 2700<pc>0145-1<k1>aparatiH : = aparati : = uparati
+------------------------------------------------------------------------
+
+* TODOx Case 440: 02/15/2025 dict=AP, L=2607, hw=apatha, user=srhodes
+old = kākiīmapyapathaprapannāṃ
+new = kākinīmapyapathaprapannāṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 442: 02/15/2025 dict=AP, L=2615, hw=apadānam, user=srhodes
+old = vikāntāstvayā
+new = vikrāntāstvayā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 446: 02/15/2025 dict=AP, L=2626, hw=apadvāram, user=srhodes
+old = apadvārairvīṃkṣate
+new = apadvārairvīkṣate
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 447: 02/15/2025 dict=AP, L=2633, hw=apadhvaṃs, user=srhodes
+old = A (rarely P.)
+new = Ā. (rarely P.)
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. The abbreviation for Ātmanepadam and Ātmanepadī should be correctly written and abbreviated.
+status = DONE  
+Jim: No other instances in AP
+------------------------------------------------------------------------
+
+* TODOx Case 448: 02/15/2025 dict=AP, L=2633, hw=apadhvaṃs, user=srhodes
+old = badan kodhasamanvitaḥ
+new = vadan krodhasamanvitaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 449: 02/15/2025 dict=AP, L=2641, hw=apanī, user=srhodes
+old = diṣṭapā śalyaṃ me hṛdayādapanītamiva
+new = diṣṭayā śalyaṃ me hṛdayādapanītamiva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 450: 02/15/2025 dict=AP, L=2641, hw=apanī, user=srhodes
+old = diṣṭapā śalyaṃ me hṛdayādapanītamiva
+new = diṣṭayā śalyaṃ me hṛdayādapanītamiva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 451: 02/15/2025 dict=AP, L=2642, hw=apanayaḥ, user=srhodes
+old = vikameṇa
+new = vikrameṇa
+comment = Typo – Please note that the letter "ṇ" affirms this correction.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 454: 02/16/2025 dict=AP, L=2675, hw=apamanyu, user=srhodes
+old = ddaṣṭāstenāpamanyunā
+new = dṛṣṭāstenāpamanyunā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 456: 02/16/2025 dict=AP, L=2678, hw=apamārgaḥ, user=srhodes
+old = amṛtadravairvidadhadabjaddaśāmapamārgamoṣadhipatiḥ
+new = amṛtadravairvidadhadabjadṛśāmapamārgamoṣadhipatiḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 459: 02/17/2025 dict=AP, L=2690, hw=apara, user=srhodes
+old = latter helf
+new = latter half
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 465: 02/18/2025 dict=AP, L=2707, hw=aparādh, user=srhodes
+old = kiṃ punarasurābalepena bhavatīnāmaparāddham
+new = kiṃ punarasurāvalepena bhavatīnāmaparāddham
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 466: 02/18/2025 dict=AP, L=2708, hw=aparāddha, user=srhodes
+old = yadhā ciraṃ mayi
+new = yadā ciraṃ mayi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 467: 02/18/2025 dict=AP, L=2710, hw=aparādhaḥ, user=srhodes
+old = Śaṅkarāchārya
+new = Śaṅkarācārya
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".  LB ALSO PLEASE NOTE: This correction needs to be made twice here, as well as Globally in any other occurrence!
+status = DONE
+** pc: 2710<pc>0145-2<k1>aparADaH : Śaṅkarāchārya : Śaṅkarācārya : 12 others also changed
+------------------------------------------------------------------------
+
+* TODOx Case 468: 02/18/2025 dict=AP, L=2714, hw=aparārkaḥ, user=srhodes
+old = yājñavakyasmṛti
+new = yājñavalkyasmṛti
+comment = Typo – Please note that this correction is a "print change". This correction has been verified by all learned authorities.
+status = DONE
+** pc: 2714<pc>0145-2<k1>aparArkaH : yAjYavakyasmfti : yAjYavalkyasmfti
+------------------------------------------------------------------------
+
+* TODOx Case 475: 02/20/2025 dict=AP, L=2690, hw=apara, user=srhodes
+old = ayaṃ sa rasanotkaṣīṃ pīnastanavimardanaḥ . nābhyūrujaghanaspaśīṃ nīvīvisraṃsanaḥ karaḥ
+new = ayaṃ sa rasanotkarṣī pīnastanavimardanaḥ . nābhyūrujaghanasparśī nīvivisraṃsanaḥ karaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 476: 02/20/2025 dict=AP, L=2774, hw=apavādaḥ, user=srhodes
+old = bastutattvaviniścayaḥ
+new = vastutattvaviniścayaḥ
+comment = Typo – Please note that the printed page clearly prints "vastu" three times. Therefore we cannot except an OCR error such as "bastu" and support it on the basis of "regional differences", thereby approving the letter "b" in place of the letter "v". At some point this "swap" of letters simply becomes Bad Sanskrit. In fact, have regional differences degraded the purity of this magnificent language, and where do we draw the line?
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 477: 02/20/2025 dict=AP, L=2781, hw=apavah, user=srhodes
+old = Font Error
+new = "16. 6", is a continued reference and should appear exactly like the preceding reference: "R. 13. 22"
+comment = Font Error
+status = DONE
+ <ls n="R.">16. 6</ls>
+------------------------------------------------------------------------
+
+* TODOx Case 478: 02/20/2025 dict=AP, L=2781, hw=apavah, user=srhodes
+old = Font Error
+new = "13. 70, is a continued reference and should appear exactly like the preceding reference: "R. 11. 25"
+comment = Font Error
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 479: 02/20/2025 dict=AP, L=2781, hw=apavah, user=srhodes
+old = Font Error
+new = "13. 70, is a continued reference and should appear exactly like the preceding reference: "R. 11. 25"
+comment = Font Error
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 480: 02/20/2025 dict=AP, L=2781, hw=apavah, user=srhodes
+old = Font Error
+new = "13. 70", is a continued reference and should appear exactly like the preceding reference: "R. 11. 25"
+comment = Font Error
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 481: 02/20/2025 dict=AP, L=3050, hw=apoḍha, user=srhodes
+old = see under apa-bah
+new = see under apa-vah
+comment = Typo – Please note that the printed page clearly prints "apavah" (see ID=2784). Therefore we cannot except an OCR error such as "apa-bah" and support it on the basis of "regional differences", thereby approving the letter "b" in place of the letter "v". At some point this "swap" of letters simply becomes Bad Sanskrit. In fact, have regional differences degraded the purity of this magnificent language, and where do we draw the line?
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 483: 02/20/2025 dict=AP, L=2797, hw=apavārita, user=srhodes
+old = -tama,
+new = -tam,
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 488: 02/21/2025 dict=AP, L=2802, hw=apavarjita, user=srhodes
+old = apavarjitabiplave
+new = apavarjitaviplave
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 489: 02/21/2025 dict=AP, L=2825, hw=apaśuc, user=srhodes
+old = vināpaśugdhnāt
+new = vināpaśugghnāt
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 490: 02/21/2025 dict=AP, L=2841, hw=apasadaḥ, user=srhodes
+old = ṣaḍapaghvaṃsajāḥ
+new = ṣaḍapadhvaṃsajāḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 492: 02/21/2025 dict=AP, L=2863, hw=vindhyaparbataḥ, user=srhodes
+old = vindhyaparbataḥ
+new = vindhyaparvataḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 494: 02/21/2025 dict=AP, L=2876, hw=apasmaraṇam, user=srhodes
+old = śabara's
+new = Śabara's
+comment = Typo – Please note that this word has been printed with a capital letter previously. Therefore, we must "extend the honor" to this second printing of the word.
+status = NO CHANGE first Śabara is IAST in print, 2nd one is Devanagari 
+------------------------------------------------------------------------
+
+* TODOx Case 495: 02/21/2025 dict=AP, L=2877, hw=apasmārin, user=srhodes
+old = patimāpagānāmasābapasmāriṇamāśaśaṅke
+new = patimāpagānāmasāvapasmāriṇamāśaśaṅke
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 500: 02/22/2025 dict=AP, L=2897, hw=apahṛ, user=srhodes
+old = V. 3.  LB 1
+new = V. 3. 1
+comment = Font Error – Correction needs to maintain continuous line and same Font Style.
+status = DONE  markup error
+------------------------------------------------------------------------
+
+* TODOx Case 501: 02/22/2025 dict=AP, L=2897, hw=apahṛ, user=srhodes
+old = apahniye
+new = apahriye
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 502: 02/22/2025 dict=AP, L=2897, hw=apahṛ, user=srhodes
+old = 277
+new = "277" should appear in the same Font as "K. 109 " (previously).
+comment = Font Style Error
+status = DONE <ls n="K.">277</ls>
+------------------------------------------------------------------------
+
+* TODOx Case 504: 02/22/2025 dict=AP, L=2903, hw=apahnavaḥ, user=srhodes
+old = mā'pahnabaṃ
+new = mā'pahnavaṃ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 505: 02/22/2025 dict=AP, L=2904, hw=apahnu, user=srhodes
+old = yaścaṃ
+new = yaśca
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 506: 02/22/2025 dict=AP, L=2904, hw=apahnu, user=srhodes
+old = sakhīpurato'-pahnutaḥ
+new = sakhīpurato'pahnutaḥ
+comment = Typo – Please note that this is a result of a page break on the printed page. There is no reason to include the "page break" notation online.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 507: 02/22/2025 dict=AP, L=2908, hw=apāka, user=srhodes
+old = Immaturity not being ripe
+new = Immaturity, not being ripe
+comment = Typo – Please note that this is a "print change" due to the required "comma" which is missing from the printed page.
+status = DONE
+** pc: 2908<pc>0152-2<k1>apAka : Immaturity not being ripe : Immaturity, not being ripe
+------------------------------------------------------------------------
+
+* TODOx Case 510: 02/22/2025 dict=AP, L=2910, hw=apākaraṇam, user=srhodes
+old = refutaion
+new = refutation
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 511: 02/22/2025 dict=AP, L=2917, hw=apāṅkta, user=srhodes
+old = fat meals
+new = at meals
+comment = Typo – This is correction may be helpful for losing weight!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 512: 02/22/2025 dict=AP, L=2918, hw=apāṅga, user=srhodes
+old = ddaṣṭā
+new = dṛṣṭā
+comment = Typo – You may consider to make this to Global Correction using the target search: " ddaṣṭā "  ——becomes—–  " dṛṣṭā " • the initial and following space surrounding the target search " ddaṣṭā " is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddaṣṭā " in every single occurrence can only be this: " dṛṣṭā " – There is no other possible correct combination of these letters.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 523: 02/23/2025 dict=AP, L=2924, hw=apāṭhatha, user=srhodes
+old = apāṭhatha
+new = apāṭhya
+comment = Typo – A great catch by Scott!
+status = DONE  Headword change. cf MW
+------------------------------------------------------------------------
+
+* TODOx Case 524: 02/23/2025 dict=AP, L=2928, hw=apād, user=srhodes
+old = apād
+new = apāda
+comment = Typo – A great catch by Scott!
+status = DONE headword correction
+------------------------------------------------------------------------
+
+* TODOx Case 525: 02/23/2025 dict=AP, L=2933, hw=apān, user=srhodes
+old = out. respire
+new = out, respire
+comment = Typo – Please note that generally there is a "comma" separating common definitions.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 526: 02/23/2025 dict=AP, L=2937, hw=apāntaratamā, user=srhodes
+old = apāntaratamā
+new = apāntaratamas
+comment = Typo – Please note that APTE has listed the Headword with the First Case Singular Declined Form. This is confirmed by the Citation given: "apāntaratamā nāma suto vāksaṃbhavaḥ prabhuḥ ..  Mb. 12. 349. 39." However (in all dictionaries), the Headword MUST be given in the prātipadika form. Also, this correction is confirmed by MW dictionary and Vācaspatyam.
+status = NO CHANGE. Jim: Apte generally uses nom. sg. as citation 
+  We might at some future time want to 'change' apte (and SKD) to use prātipadika form.
+------------------------------------------------------------------------
+
+* TODOx Case 528: 02/23/2025 dict=AP, L=2947, hw=apārtha, user=srhodes
+old = sarbametadapārthaṃ
+new = sarvametadapārthaṃ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 529: 02/23/2025 dict=AP, L=2947, hw=apārtha, user=srhodes
+old = nāddataḥ
+new = nādṛtaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 531: 02/24/2025 dict=AP, L=2956, hw=apāvṛtta, user=srhodes
+old = drakṣyābhyapāvṛttāṃ parairiba
+new = drakṣyāmyapāvṛttāṃ parairiva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 532: 02/24/2025 dict=AP, L=2958, hw=apāśri, user=srhodes
+old = śarīrasyeba
+new = śarīrasyeva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 534: 02/24/2025 dict=AP, L=2963, hw=apās, user=srhodes
+old = kāvyalakṣaṇatbamapāstam
+new = kāvyalakṣaṇatvamapāstam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 536: 02/24/2025 dict=AP, L=2971, hw=api, user=srhodes
+old = bā'pi
+new = vā'pi
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 537: 02/24/2025 dict=AP, L=2971, hw=api, user=srhodes
+old = bā'pi
+new = vā'pi
+comment = Typo – PLEASE NOTE THAT THIS CORRECTION NEEDS TO BE MADE HERE MORE THAN ONCE.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 538: 02/24/2025 dict=AP, L=2971, hw=api, user=srhodes
+old = bhavāddaśeṣu
+new = bhavādṛśeṣu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 539: 02/24/2025 dict=AP, L=2971, hw=api, user=srhodes
+old = bhavāddaśeṣu
+new = bhavādṛśeṣu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 540: 02/24/2025 dict=AP, L=2971, hw=api, user=srhodes
+old = bhabet
+new = bhavet
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 541: 02/24/2025 dict=AP, L=2971, hw=api, user=srhodes
+old = kāmacārakiyāsu
+new = kāmacārakriyāsu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 544: 02/24/2025 dict=AP, L=2977, hw=apija, user=srhodes
+old = Jyeshṭha
+new = Jyeṣṭha
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṭha') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 545: 02/24/2025 dict=AP, L=2985, hw=apidhiḥ, user=srhodes
+old = api dhīm̐ r
+new = apidhīm̐r
+comment = Typo – please note that this correction follows the actual Ṛgveda text. Also, you might consider moving this entire quotation to the next line, thus making it continuous (so as not to be interrupted by a line break). Also, I am wondering what the exact prātipadika is for this Vedic definition. I am guessing it should be considered as: "apidhī". Does Apte take it as "apidhi" feminine?  I am uncertain as to exactly what this implies: "-dhiḥ" ; certainly not "apidhidhi", but then why the hyphen and separate printing as: "-dhiḥ" ?
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 554: 02/25/2025 dict=AP, L=2988, hw=apiparikliṣṭa, user=srhodes
+old = ātmakāryagarīyastvāddhaktuṃ
+new = ātmakāryagarīyastvādvaktuṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 565: 02/26/2025 dict=AP, L=3021, hw=apūpaḥ, user=srhodes
+old = bhīmenā. LB Page0157-2 LB tibalena
+new = bhīmenā- LB Page0157-2 LB tibalena
+comment = Typo – Please note that this quotation has been broken by a page break. I would prefer to remove all page breaks from online as they serve no good purpose (in my view). I would prefer to see: "bhīmenātibalena". But at the very least there should be the "hyphen" which occurs on the printed page to show the continuity.
+status = DONE Jim: moved bhīmenā after LB
+------------------------------------------------------------------------
+
+* TODOx Case 566: 02/26/2025 dict=AP, L=3025, hw=apūrṇa, user=srhodes
+old = śatakatūnām
+new = śatakratūnām
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 567: 02/26/2025 dict=AP, L=3029, hw=apūrvavat, user=srhodes
+old = ddaṣṭo
+new = dṛṣṭo
+comment = Typo – You may consider to make this to Global Correction using the target search: " ddaṣṭo'"  ——becomes—–  " dṛṣṭo'" • the initial blank space in fron of the target search: " ddaṣṭo'" will ensure that there is no ativyāpti. The form: ddaṣṭo' in every single occurrence can only be this: dṛṣṭo' – There is no other possible correct combination of these letters.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 568: 02/26/2025 dict=AP, L=3030, hw=apūrvin, user=srhodes
+old = apūrvī bhāryayā cāthīṃ varuṇaḥ
+new = apūrvī bhāryayā cārthī taruṇaḥ
+comment = Typo – Please note that this verse citation has been corrected here by following the authentic verse given as: Rām. 3. 18. 4. This does entail a "print change" for the corrected word: "taruṇaḥ". It is worth mentioning that the entire definition given here depends exclusively on this particular construction with the word "bhāryayā", Thus: "Having not enjoyed the married life with a wife before". It is strange to give such a particularized definition when the word  "apūrvin" may be used in other ways.
+status = DONE
+** pc: 3030<pc>0158-1<k1>apUrvin : varuRaH : taruRaH
+------------------------------------------------------------------------
+
+* TODOx Case 569: 02/26/2025 dict=AP, L=3038, hw=ape, user=srhodes
+old = nabadyutirapaiti
+new = navadyutirapaiti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 570: 02/26/2025 dict=AP, L=3039, hw=apāyaḥ, user=srhodes
+old = ca siddhip
+new = ca siddhim
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 585: 02/27/2025 dict=AP, L=3042, hw=apekṣ, user=srhodes
+old = tadānapekṣya svaśarīramārdabam
+new = tadānapekṣya svaśarīramārdavam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case dup 586: 02/27/2025 dict=AP, L=3042, hw=apekṣ, user=srhodes
+old = tadānapekṣya svaśarīramārdabam
+new = tadānapekṣya svaśarīramārdavam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 587: 02/27/2025 dict=AP, L=3042, hw=apekṣ, user=srhodes
+old = tadānapekṣya svaśarīramārdabam
+new = tadānapekṣya svaśarīramārdavam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 590: 02/27/2025 dict=AP, L=3047, hw=apeya, user=srhodes
+old = bhabati
+new = bhavati
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 591: 02/27/2025 dict=AP, L=3048, hw=apehi, user=srhodes
+old = °karā
+new = °kaṭā
+comment = Typo – Please note that this is a possible "print change" based upon my current dictionary of Sanskrit words. For the word given here as "apehikarā", I have the word  "apehikaṭā". Perhaps both words exist. We need Dr. Dhaval or Andhrabharati to confirm this.
+status = DONE  cf. pwg
+** pc: 3048<pc>0159-1<k1>apehi : °karA : °kawA  : cf. pwg
+------------------------------------------------------------------------
+
+* TODOx (dup case 481) Case 593: 02/27/2025 dict=AP, L=3050, hw=apoḍha, user=srhodes
+old = apa-bah
+new = apa-vah
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+statusx = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 610: 02/28/2025 dict=AP, L=3053, hw=apoh, user=srhodes
+old = saukhyaurduḥkhānyapohati
+new = saukhyairduḥkhānyapohati
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 615: 03/01/2025 dict=AP, L=3090, hw=apragalbha, user=srhodes
+old = (opp. ghṛṣṭa)
+new = (opp. dhṛṣṭa)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 619: 03/01/2025 dict=AP, L=3123, hw=apratima, user=srhodes
+old = tyadaprati. -mānamojo
+new = tyadapratimānamojo
+comment = Typo – Please note that this correction follows the printed text; of course it is unnecessary to notate a line break here, when there is no such occasion in the online window display.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 628: 03/02/2025 dict=AP, L=3133, hw=apratiṣṭha, user=srhodes
+old = jagadāhuranīścaram
+new = jagadāhuranīśvaram
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 630: 03/02/2025 dict=AP, L=3137, hw=apratisaṃkhya, user=srhodes
+old = ākāṃśa
+new = ākāśa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 631: 03/02/2025 dict=AP, L=3138, hw=apratihata, user=srhodes
+old = kodhajyotiḥ
+new = krodhajyotiḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 632: 03/02/2025 dict=AP, L=3135, hw=apratiṣṭhita, user=srhodes
+old = Viṣṇu
+new = Viṣṇu.
+comment = Typo – Please note that generally the definitions listed end with a "period".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 633: 03/02/2025 dict=AP, L=3157, hw=apramāda, user=srhodes
+old = śaucākodhāpramādatā
+new = śaucākrodhāpramādatā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 657: 03/03/2025 dict=AP, L=3175, hw=apravartaka, user=srhodes
+old = pūrṇamapravatīṃti
+new = pūrṇamapravartīti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 658: 03/03/2025 dict=AP, L=3182, hw=aprasakta, user=srhodes
+old = biveśa
+new = viveśa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 672: 03/04/2025 dict=AP, L=3206, hw=aprāpta, user=srhodes
+old = rāghabo
+new = rāghavo
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 673: 03/04/2025 dict=AP, L=3213, hw=apriya, user=srhodes
+old = bandhyārthadhnyapriyaṃvadā
+new = vandhyārthaghnyapriyaṃvadā
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 674: 03/04/2025 dict=AP, L=3222, hw=apva, user=srhodes
+old = -ṣvā
+new = -pvā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 675: 03/04/2025 dict=AP, L=3228, hw=apsas, user=srhodes
+old = Rv. 1. 124. 6.
+new = Rv. 1. 124. 7.
+comment = Typo – Please consider this to be a "print change" pending confirmation by Dr. Dhaval or Andhrabharati. My trusted source of Ṛgveda gives this corrected verse number.
+status = DONE  Jim: Confirmed by 'apsas' in pwg
+** pc: 3228<pc>0165-1<k1>apsas : Rv. 1. 124. 6. : Rv. 1. 124. 7.
+------------------------------------------------------------------------
+
+* TODOx Case 682: 03/05/2025 dict=AP, L=3230, hw=aphala, user=srhodes
+old = kodhātsā
+new = krodhātsā
+comment = Typo – Also, please note that the Global Correction could be made as follows: " kodhā"  ——becomes—— " krodhā" ; this combination of letters is unlikely to be anything other than the corrected form and the initial "space" withithin the quoted "search and replace" can help guarantee the correctness.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 683: 03/05/2025 dict=AP, L=3230, hw=aphala, user=srhodes
+old = kiyate
+new = kriyate
+comment = Typo – Also, please note that the Global Correction could be made as follows: " kiyate"  ——becomes—— " kriyate" ; this combination of letters is unlikely to be anything other than the corrected form and the initial "space" withithin the quoted "search and replace" can help guarantee the correctness.
+status = DONE  Jim: global change made, 9 cases
+------------------------------------------------------------------------
+
+* TODOx Case 684: 03/05/2025 dict=AP, L=3233, hw=ab, user=srhodes
+old = ab = amb
+new = aba = amba
+comment = Typo – Please note that this is a Headword typo.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 685: 03/05/2025 dict=AP, L=3234, hw=abaddha, user=srhodes
+old = Rāyamukuta
+new = Rāyamukuṭa
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 't') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "t" is misleading, because the correct letter is: "ṭ".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 686: 03/05/2025 dict=AP, L=3234, hw=abaddha, user=srhodes
+old = Rāyamukuta
+new = Rāyamukuṭa
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 't') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "t" is misleading, because the correct letter is: "ṭ".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 687: 03/05/2025 dict=AP, L=3242, hw=abala, user=srhodes
+old = yābhirvilolataratārakaddaṣṭipātaiḥ
+new = yābhirvilolataratārakadṛṣṭipātaiḥ
+comment = Typo – Also, please note that the Global Correction could be made as follows: "ddaṣṭi"  ——becomes—— "dṛṣṭi" ; this combination of letters is unlikely to be anything other than this precise corrected form
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 688: 03/05/2025 dict=AP, L=3242, hw=abala, user=srhodes
+old = śakādayo'pi
+new = śakrādayo'pi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 689: 03/05/2025 dict=AP, L=3242, hw=abala, user=srhodes
+old = °janaḥ a. woman
+new = °janaḥ a woman
+comment = Typo – Please note that this is a suggested "print change" as the form of the word given: "abalājanaḥ" is clearly indicated specifically in the masculine gender. Therefore we cannot take this particular word as being an adjective. What does the form: "a." mean? It must simply mean "a" in reference to the definition given: "a woman".
+status = DONE
+** pc: 3242<pc>0165-2<k1>abala : {%a.%} woman : a woman  : {%a.%} means 'a.' in italic type
+------------------------------------------------------------------------
+
+* TODOx Case 690: 03/05/2025 dict=AP, L=3250, hw=abibhīvas, user=srhodes
+old = ddakṣase
+new = dṛkṣase
+comment = Typo – Also, please note that the Global Correction could be made as follows: "ddakṣase"  ——becomes—— "dṛkṣase" ; this combination of letters is unlikely to be anything other than this precise corrected form.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 692: 03/05/2025 dict=AP, L=4883, hw=avaghūrṇaḥ, user=srhodes
+old = Agitated perturbed
+new = Agitated, perturbed
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 703: 03/06/2025 dict=AP, L=3252, hw=abuddha, user=srhodes
+old = buddhapamānaṃ
+new = buddhyamānaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 704: 03/06/2025 dict=AP, L=3253, hw=abuddhiḥ, user=srhodes
+old = prabuddhapā
+new = prabuddhyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 705: 03/06/2025 dict=AP, L=3254, hw=abudh, user=srhodes
+old = aptut
+new = abhut
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 706: 03/06/2025 dict=AP, L=3254, hw=abudh, user=srhodes
+old = aptut
+new = abhut
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 707: 03/06/2025 dict=AP, L=3254, hw=abudh, user=srhodes
+old = aptut
+new = abhut
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 708: 03/06/2025 dict=AP, L=3259, hw=abja, user=srhodes
+old = -bāhanaḥ
+new = -vāhanaḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 730: 03/07/2025 dict=AP, L=3275, hw=abrahmaṇya, user=srhodes
+old = kanditaṃ puraḥ . abrahmaṇyamanutkāntajībo
+new = kranditaṃ puraḥ . abrahmaṇyamanutkāntajīvo
+comment = Typo – Please note that TWO corrections have been made here.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dupCase 731: 03/07/2025 dict=AP, L=3275, hw=abrahmaṇya, user=srhodes
+old = kanditaṃ puraḥ . abrahmaṇyamanutkāntajībo
+new = kranditaṃ puraḥ . abrahmaṇyamanutkāntajīvo
+comment = Typo – Please note that TWO corrections have been made here.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 732: 03/07/2025 dict=AP, L=3294, hw=abhavaḥ, user=srhodes
+old = prāptumabhabamabhivāñchati
+new = prāptumabhavamabhivāñchati
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx  Case 733: 03/07/2025 dict=AP, L=3294, hw=abhavaḥ, user=srhodes
+old = bhavābhabātmakam
+new = bhavābhavātmakam
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 751: 03/08/2025 dict=AP, L=3301, hw=abhāva, user=srhodes
+old = bhāvabhinno'bhābaḥ
+new = bhāvabhinno'bhāvaḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 752: 03/08/2025 dict=AP, L=3301, hw=abhāva, user=srhodes
+old = pradhbaṃsābhāva
+new = pradhvaṃsābhāva
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 753: 03/08/2025 dict=AP, L=3308, hw=abhi, user=srhodes
+old = °siñc to sprinkle on
+new = °sic to sprinkle on
+comment = Typo – Please note that this is a "print change". All sources refer to this root as √sic NOT √siñc, and this includes Apte himself! Also note in this case the reference will be properly: "abhiṣic", therefore you may choose to make the final "print change" appear as: " °ṣic "
+status = DONE
+** pc: 3308<pc>0168-2<k1>aBi : siYc to sprinkle on : sic to sprinkle on
+------------------------------------------------------------------------
+
+* TODOx Case 754: 03/08/2025 dict=AP, L=3308, hw=abhi, user=srhodes
+old = bidyut
+new = vidyut
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 755: 03/08/2025 dict=AP, L=3308, hw=abhi, user=srhodes
+old = abhyarkavimbaṃ
+new = abhyarkabimbaṃ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 756: 03/08/2025 dict=AP, L=3308, hw=abhi, user=srhodes
+old = tbarayantyaḥ
+new = tvarayantyaḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 757: 03/08/2025 dict=AP, L=3308, hw=abhi, user=srhodes
+old = bacane
+new = vacane
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 758: 03/08/2025 dict=AP, L=3309, hw=abhika, user=srhodes
+old = sbayamabartayatsamāḥ
+new = svayamavartayatsamāḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 759: 03/08/2025 dict=AP, L=3313, hw=abhikamp, user=srhodes
+old = o' tremble
+new = or tremble
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 760: 03/08/2025 dict=AP, L=3319, hw=abhikṛ, user=srhodes
+old = niveśamabhicakatuḥ
+new = niveśamabhicakratuḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 769: 03/09/2025 dict=AP, L=3328, hw=abhikramaṇam, user=srhodes
+old = -kāntiḥ
+new = -krāntiḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 770: 03/09/2025 dict=AP, L=3342, hw=abhigam, user=srhodes
+old = manumekāgramāsīnamābhigamya
+new = manumekāgramāsīnamabhigamya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 771: 03/09/2025 dict=AP, L=3342, hw=abhigam, user=srhodes
+old = diṣṭapā
+new = diṣṭyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 772: 03/09/2025 dict=AP, L=3344, hw=abhigamaḥ, user=srhodes
+old = Approahing
+new = Approaching
+comment = Typo – Please note that this is a "print change".
+status = DONE  
+** pc: 3344<pc>0170-1<k1>aBigamaH : Approahing : Approaching
+------------------------------------------------------------------------
+
+* TODOx Case 773: 03/09/2025 dict=AP, L=3344, hw=abhigamaḥ, user=srhodes
+old = -gamanama
+new = -gamanam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 785: 03/10/2025 dict=AP, L=3364, hw=abhigrah, user=srhodes
+old = corayitbā
+new = corayitvā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 786: 03/10/2025 dict=AP, L=3370, hw=abhighṛ, user=srhodes
+old = trickel
+new = trickle
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 788: 03/10/2025 dict=AP, L=3375, hw=abhicakṣ, user=srhodes
+old = cikitbo
+new = cikitvo
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 789: 03/10/2025 dict=AP, L=3377, hw=abhicar, user=srhodes
+old = birādhadanukabandhaprabhṛtayaḥ
+new = virādhadanukabandhaprabhṛtayaḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE  Scott has his 'hard hat' on!
+------------------------------------------------------------------------
+
+* TODOx Case 795: 03/10/2025 dict=AP, L=3387, hw=abhijanaḥ, user=srhodes
+old = kalahaṃsakādābhijanaṃ
+new = kalahaṃsakādabhijanaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 796: 03/10/2025 dict=AP, L=3387, hw=abhijanaḥ, user=srhodes
+old = tānguṇānsaṃpradhāryāhamagtyaṃ
+new = tānguṇānsaṃpradhāryāhamagryaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 803: 03/11/2025 dict=AP, L=3395, hw=abhijit, user=srhodes
+old = gabāmayana
+new = gavāmayana
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 804: 03/11/2025 dict=AP, L=3401, hw=abhijña, user=srhodes
+old = kiyante
+new = kriyante
+comment = If you make the Global "find and replace" correction using the target: " kiyante " ———becomes——— " kriyante " ,  then this will avoid ativyāpti by isolating the single word with a preceding and following "blank space".
+status = DONE  Jim: global change, 5 instances
+------------------------------------------------------------------------
+
+* TODOx Case 805: 03/11/2025 dict=AP, L=3401, hw=abhijña, user=srhodes
+old = bhavānsebādharmasya
+new = bhavānsevādharmasya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 806: 03/11/2025 dict=AP, L=3401, hw=abhijña, user=srhodes
+old = bhavānsebādharmasya
+new = bhavānsevādharmasya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 807: 03/11/2025 dict=AP, L=3401, hw=abhijña, user=srhodes
+old = bhavānsebādharmasya
+new = bhavānsevādharmasya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 808: 03/11/2025 dict=AP, L=3404, hw=abhijñānam, user=srhodes
+old = -śākuntalam
+new = -śakuntalam
+comment = Typo – Please note that this is a possible "print change", following MW dictionary and Apte's own statement: "(the reading °śākuntalam is grammatically indefensible)".
+status = DONE
+** pc: 3404<pc>0172-1<k1>aBijYAnam : -SAkuntalam : -Sakuntalam
+------------------------------------------------------------------------
+
+* TODOx Case 809: 03/11/2025 dict=AP, L=3425, hw=abhidru, user=srhodes
+old = payasyabhidrabati
+new = payasyabhidravati
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 810: 03/11/2025 dict=AP, L=3430, hw=abhidruh, user=srhodes
+old = (A. in epic poetry)
+new = (Ā. in epic poetry)
+comment = Typo – I prefer accuracy, which frankly is the strength of the Sanskrit Language. Why degrade it?
+status = DONE
+Jim: global change '(A.' -> '(Ā.'  -- 7 instances
+------------------------------------------------------------------------
+
+* TODOx Case 811: 03/11/2025 dict=AP, L=3430, hw=abhidruh, user=srhodes
+old = kūramabhidruhyati
+new = krūramabhidruhyati
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 817: 03/12/2025 dict=AP, L=3435, hw=abhidhā, user=srhodes
+old = bācyo'rtho' bhidhayā
+new = vācyo'rtho'bhidhayā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 818: 03/12/2025 dict=AP, L=3440, hw=abhihita, user=srhodes
+old = vāchyārtha
+new = vācyārtha
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = DONE
+** pc: 3440<pc>0174-1<k1>aBihita : vāchyārtha : vācyārtha 
+------------------------------------------------------------------------
+
+* TODOx Case 819: 03/12/2025 dict=AP, L=3443, hw=abhidhāvaka, user=srhodes
+old = vikuṣṭe
+new = vikruṣṭe
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 820: 03/12/2025 dict=AP, L=3446, hw=abhidhyai, user=srhodes
+old = śaśvacchumaṃ
+new = śaśvacchubhaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 821: 03/12/2025 dict=AP, L=3449, hw=abhinand, user=srhodes
+old = tātakāśyapainaivaṃ
+new = tātakāśyapenaivaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 822: 03/12/2025 dict=AP, L=3452, hw=abhinandanīya, user=srhodes
+old = dvāvapyabhūtāmābhinandyasattvau
+new = dvāvapyabhūtāmabhinandyasattvau
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 823: 03/12/2025 dict=AP, L=3454, hw=abhinabhaḥ, user=srhodes
+old = bribhraccāndrīmabhinabhaḥ
+new = bibhraccāndrīmabhinabhaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 835: 03/13/2025 dict=AP, L=3469, hw=abhiniviṣṭa, user=srhodes
+old = (garbhaṃm) lokapālānubhābaiḥ 
+new = (garbham) lokapālānubhāvaiḥ 
+comment = Typo – Please note that there are two corrections here.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 836: 03/13/2025 dict=AP, L=3471, hw=abhiniveśaḥ, user=srhodes
+old = abidyāsmitārāgadveṣābhiniveśāḥ
+new = avidyāsmitārāgadveṣābhiniveśāḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 837: 03/13/2025 dict=AP, L=3483, hw=abhinayaḥ, user=srhodes
+old = nṛtyābhinayākiyācyutam
+new = nṛtyābhinayākriyācyutam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 838: 03/13/2025 dict=AP, L=3483, hw=abhinayaḥ, user=srhodes
+old = ubhābabhinayācāryau
+new = ubhāvabhinayācāryau
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 839: 03/13/2025 dict=AP, L=3486, hw=abhineya, user=srhodes
+old = ddaśyaṃ
+new = dṛśyaṃ
+comment = Typo – You may consider making this a Global Correction using the target search: " ddaśy"  ——becomes—–  " dṛśy" • the initial space is required to avoid ativyāpti; and by using only a portion of the word as "dṛśy" , without a final declined form, many other cases of this type will be simultaneously corrected in the Master File with this "Search/Replace" function. There is no other possible correct combination of these letters, therefore this will save us from repeatedly making such a correction.
+status = DONE  Jim: Global change - 9 instances changed
+------------------------------------------------------------------------
+
+* TODOx Case 840: 03/13/2025 dict=AP, L=3494, hw=abhipattiḥ, user=srhodes
+old = athābhipattirlekasya
+new = athābhipattirlokasya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 841: 03/13/2025 dict=AP, L=6780, hw=ātman, user=srhodes
+old = dūrālabhāḥ
+new = durālabhāḥ
+status = DONE
+** pc: 6780<pc>0323-2<k1>Atman : dUrAlaBAH : durAlaBAH
+------------------------------------------------------------------------
+
+* TODOx Case 843: 03/13/2025 dict=AP, L=3495, hw=abhipanna, user=srhodes
+old = sikatāsetabo
+new = sikatāsetavo
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 844: 03/13/2025 dict=AP, L=3499, hw=abhipātaḥ, user=srhodes
+old = biyadabhipātalāghavena
+new = viyadabhipātalāghavena
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 845: 03/13/2025 dict=AP, L=3509, hw=abhipraṇī, user=srhodes
+old = jajbāla
+new = jajvāla
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 848: 03/14/2025 dict=AP, L=3525, hw=abhiprāya, user=srhodes
+old = kiyāphale
+new = kriyāphale
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 849: 03/14/2025 dict=AP, L=3525, hw=abhiprāya, user=srhodes
+old = siddhapanti
+new = siddhayanti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 850: 03/14/2025 dict=AP, L=3525, hw=abhiprāya, user=srhodes
+old = siddhapanti
+new = siddhayanti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 851: 03/14/2025 dict=AP, L=3541, hw=abhibhū, user=srhodes
+old = kṛtsnamadharmo'bhibhabhūta
+new = kṛtsnamadharmo'bhibhavatyuta
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 852: 03/14/2025 dict=AP, L=3541, hw=abhibhū, user=srhodes
+old = vipado'bhibhavantyabikamam
+new = vipado'bhibhavantyavikramam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 853: 03/14/2025 dict=AP, L=3541, hw=abhibhū, user=srhodes
+old = abhyabhābi
+new = abhyabhāvi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 854: 03/14/2025 dict=AP, L=3542, hw=abhibhavaḥ, user=srhodes
+old = sūryakāntāstadanyatejobhibhavādvamanti
+new = sūryakāntāstadanyatejo'bhibhavādvamanti
+comment = Typo – Please note that this is a confirmed "print change." I am very pleased to be correcting such errors.
+status = DONE
+** pc: 3542<pc>0178-2<k1>aBiBavaH : sUryakAntAstadanyatejoBiBavAdvamanti : sUryakAntAstadanyatejo'BiBavAdvamanti  : add ' (avagraha)
+------------------------------------------------------------------------
+
+* TODOx dup Case 855: 03/14/2025 dict=AP, L=3542, hw=abhibhavaḥ, user=srhodes
+old = sūryakāntāstadanyatejobhibhavādvamanti
+new = sūryakāntāstadanyatejo'bhibhavādvamanti
+comment = Typo – Please note that this is a confirmed "print change." I am very pleased to be correcting such errors.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 857: 03/14/2025 dict=AP, L=3554, hw=abhimata, user=srhodes
+old = bada
+new = vada
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 858: 03/14/2025 dict=AP, L=3555, hw=abhimatiḥ, user=srhodes
+old = vikiyā
+new = vikriyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 859: 03/14/2025 dict=AP, L=3556, hw=abhimanas, user=srhodes
+old = sarbe
+new = sarve
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 867: 03/15/2025 dict=AP, L=3568, hw=abhimanyuḥ, user=srhodes
+old = Chākṣuṣa
+new = Cākṣuṣa
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā' and 'ṣ') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c"
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 868: 03/15/2025 dict=AP, L=3568, hw=abhimanyuḥ, user=srhodes
+old = Kāshmir
+new = Kāśmīra
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the combination: "sh" is misleading, because the correct letter is: "ś". Also, please note that this word may also be written in English as: "Kashmir", without any diacritics. So, you must choose one or the other.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 869: 03/15/2025 dict=AP, L=3570, hw=abhimāti, user=srhodes
+old = daghe
+new = dadhe
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 872: 03/15/2025 dict=AP, L=3574, hw=abhimukha, user=srhodes
+old = babhūbuḥ
+new = babhūvuḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 873: 03/15/2025 dict=AP, L=3574, hw=abhimukha, user=srhodes
+old = mapyabhimukhībhūya
+new = mathyabhimukhībhūya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 874: 03/15/2025 dict=AP, L=3574, hw=abhimukha, user=srhodes
+old = anabhimukhaḥ sukhānābh
+new = anabhimukhaḥ sukhānām
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 875: 03/16/2025 dict=AP, L=3596, hw=abhiyuj, user=srhodes
+old = bhavantamabhiyoktumudyuḍkte
+new = bhavantamabhiyoktumudyuṅkte
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 876: 03/16/2025 dict=AP, L=3597, hw=abhiyukta, user=srhodes
+old = abhiyuktāśca ye yatra yannivandhaṃ niyojayet
+new = abhiyuktāśca ye yatra yannibandhaṃ niyojayet
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 877: 03/16/2025 dict=AP, L=3601, hw=abhiyoktṛ, user=srhodes
+old = tvayyutkṛṣṭabale'bhiyoktiri
+new = tvayyutkṛṣṭabale'bhiyoktari
+comment = Typo – Please note that this is a suggested "print change" based upon the standard locative singular declension for the word: "abhiyoktṛ".
+status = DONE
+** pc: 3601<pc>0181-2<k1>aBiyoktf : tvayyutkfzwabale'Biyoktiri : tvayyutkfzwabale'Biyoktari
+------------------------------------------------------------------------
+
+* TODOx Case 878: 03/16/2025 dict=AP, L=3609, hw=abhirakta, user=srhodes
+old = sujātapakṣmāmābhiraktakaṇṭhīm
+new = sujātapakṣmāmabhiraktakaṇṭhīm
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 879: 03/16/2025 dict=AP, L=3611, hw=abhiram, user=srhodes
+old = ddaṣṭirihābhiramate
+new = dṛṣṭirihābhiramate
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 880: 03/16/2025 dict=AP, L=3615, hw=abhirāma, user=srhodes
+old = dattaddaṣṭiḥ
+new = dattadṛṣṭiḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 881: 03/16/2025 dict=AP, L=3618, hw=abhirādh, user=srhodes
+old = niragamadabhirāddhumāddatānāṃ
+new = niragamadabhirāddhumādṛtānāṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 882: 03/16/2025 dict=AP, L=3627, hw=abhirūpa, user=srhodes
+old = saddaśāya
+new = sadṛśāya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 883: 03/16/2025 dict=AP, L=3642, hw=abhilāvaḥ, user=srhodes
+old = cāruvikamāḥ
+new = cāruvikramāḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 884: 03/16/2025 dict=AP, L=3644, hw=abhilī, user=srhodes
+old = koḍamabhyalīyata
+new = kroḍamabhyalīyata
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 885: 03/16/2025 dict=AP, L=3649, hw=abhivad, user=srhodes
+old = kiyamāṇaṃ
+new = kriyamāṇaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 886: 03/16/2025 dict=AP, L=3651, hw=abhivādaḥ, user=srhodes
+old = pratyuttthāna
+new = pratyutthāna
+comment = Typo – Please note that this is "print change". This correction is "authorized" by every dictionary, including APTE! (look up the word).
+status = DONE
+** pc: 3651<pc>0183-2<k1>aBivAdaH : pratyuttTAna : pratyutTAna
+------------------------------------------------------------------------
+
+* TODOx Case 888: 03/16/2025 dict=AP, L=3657, hw=abhivandanam, user=srhodes
+old = an humble
+new = a humble
+comment = Typo – Please note that this is a "print change" accoring to the standard usage, which is with the letter "a" , NOT "an" , before the letter "h". Therefore, "a humble obeisance". In fact, this could be made as a Global Search/Replace Function using the target: "an h" ——becomes—— "a h". Thereby, eliminting every such incorrect occurrence of this sort; Remember that Global Corrections to the Master File reduce our future workload.
+status = DONE  # "an humble" changed (only 1 of these in AP.
+Jim: Global "an h" gets many false positives, e.g. "an honest" !
+------------------------------------------------------------------------
+
+* TODOx Case 890: 03/17/2025 dict=AP, L=3669, hw=abhivinīta, user=srhodes
+old = abhibhinītam
+new = abhivinītam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 891: 03/17/2025 dict=AP, L=3672, hw=abhivīkṣ, user=srhodes
+old = bhubi
+new = bhuvi
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 892: 03/17/2025 dict=AP, L=3675, hw=abhivṛt, user=srhodes
+old = kuddhastatsainyaṃ
+new = kruddhastatsainyaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 893: 03/17/2025 dict=AP, L=3675, hw=abhivṛt, user=srhodes
+old = madhukaro' bhivartate
+new = madhukaro'bhivartate
+comment = Typo – Please note that a "space" has been removed from the continuous and unbroken citation.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 894: 03/17/2025 dict=AP, L=3675, hw=abhivṛt, user=srhodes
+old = dīrghāraṇyāni dākṣiṇāṃ diśamabhivartante
+new = dīrghāraṇyāni dakṣiṇāṃ diśamabhivartante
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 895: 03/17/2025 dict=AP, L=3675, hw=abhivṛt, user=srhodes
+old = dīrghāraṇyāni dākṣiṇāṃ diśamabhivartante
+new = dīrghāraṇyāni dakṣiṇāṃ diśamabhivartante
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 897: 03/17/2025 dict=AP, L=3681, hw=abhivṛṣ, user=srhodes
+old = prastraveṇābhivarṣantī
+new = prasraveṇābhivarṣantī
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 898: 03/17/2025 dict=AP, L=3698, hw=abhivyāhṛta, user=srhodes
+old = -tama
+new = -tam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 904: 03/18/2025 dict=AP, L=3711, hw=abhiśap, user=srhodes
+old = baruṇetyabhiśāpya
+new = varuṇetyabhiśāpya
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 905: 03/18/2025 dict=AP, L=3715, hw=abhiśas, user=srhodes
+old = (= abhiśas q. v.)
+new = ???
+comment = Question – What is the point of declaring: "= abhiśas" ; is this just a needless statement of identity? Please comment, either Dr. Dhaval or Andhrabharati.
+status = DONE  Jim: From AP90, = aBiSaMs (slp1 translit.)
+** pc: 3715<pc>0185-2<k1>aBiSas : = aBiSas : = aBiSaMs
+------------------------------------------------------------------------
+
+* TODOx Case 906: 03/18/2025 dict=AP, L=3738, hw=abhiṣaṅgaḥ, user=srhodes
+old = manuṣyāṇāmīddaśād
+new = manuṣyāṇāmīdṛśād
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 908: 03/18/2025 dict=AP, L=3750, hw=abhiṣu, user=srhodes
+old = bijñāyā'bhisoṣyantaṃ
+new = vijñāyā'bhisoṣyantaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 909: 03/18/2025 dict=AP, L=3751, hw=abhiṣavaḥ, user=srhodes
+old = cakuste
+new = cakruste
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 910: 03/18/2025 dict=AP, L=3751, hw=abhiṣavaḥ, user=srhodes
+old = rāmābhiṣavasaṃyuktāścakureva
+new = rāmābhiṣavasaṃyuktāścakrureva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 913: 03/19/2025 dict=AP, L=3793, hw=abhisaṃdhānam, user=srhodes
+old = deliberate declaration promise
+new = deliberate declaration, promise
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 915: 03/19/2025 dict=AP, L=3764, hw=abhiṣṭuta, user=srhodes
+old = tattuṣṭapā
+new = tattuṣṭyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 916: 03/19/2025 dict=AP, L=3771, hw=abhisaṃrambhaḥ, user=srhodes
+old = kodho'bhisaṃrambho
+new = krodho'bhisaṃrambho
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 917: 03/19/2025 dict=AP, L=3790, hw=abhisaṃdhā, user=srhodes
+old = paramakuddho
+new = paramakruddho
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 918: 03/19/2025 dict=AP, L=3790, hw=abhisaṃdhā, user=srhodes
+old = hanumānaṅgadaṃ
+new = hanūmānaṅgadaṃ
+comment = Typo – Please note that this correction follows the printed text.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 923: 03/20/2025 dict=AP, L=3818, hw=abhisaraṇam, user=srhodes
+old = tvadābhisaraṇarabhasena valantī patati padāni kiyanti
+new = tvadabhisaraṇarabhasena valantī patati padāni kriyanti
+comment = Typo – Please note that two corrections have been made here.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 924: 03/20/2025 dict=AP, L=3837, hw=abhihan, user=srhodes
+old = loṣṭairabhidhnanto
+new = loṣṭairabhighnanto
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 925: 03/20/2025 dict=AP, L=3837, hw=abhihan, user=srhodes
+old = sahasaivā bhyahanyanta
+new = sahasaivābhyahanyanta
+comment = Typo – Please note that there is no "blank space" here. The Sandhi is Seemless, Perfect and Unbroken.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 926: 03/20/2025 dict=AP, L=3837, hw=abhihan, user=srhodes
+old = sahasaivā bhyahanyanta
+new = sahasaivābhyahanyanta
+comment = Typo – Please note that there is no "blank space" here. The Sandhi is Seamless, Perfect and Unbroken.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 927: 03/20/2025 dict=AP, L=3837, hw=abhighātaḥ, user=srhodes
+old = nabato
+new = navato
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 928: 03/20/2025 dict=AP, L=3864, hw=abhīka, user=srhodes
+old = kūre
+new = krūre
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 934: 03/21/2025 dict=AP, L=3872, hw=abhīpsita, user=srhodes
+old = abhīpsitārthasiddhaparthaṃ
+new = abhīpsitārthasiddhyarthaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 935: 03/21/2025 dict=AP, L=3872, hw=abhīpsita, user=srhodes
+old = abhīpsitārthasiddhaparthaṃ
+new = abhīpsitārthasiddhyarthaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 936: 03/21/2025 dict=AP, L=3872, hw=abhīpsita, user=srhodes
+old = abhīpsitārthasiddhaparthaṃ
+new = abhīpsitārthasiddhyarthaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 937: 03/21/2025 dict=AP, L=3872, hw=abhīpsita, user=srhodes
+old = abhīpsitārthasiddhaparthaṃ
+new = abhīpsitārthasiddhyarthaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 938: 03/21/2025 dict=AP, L=3872, hw=abhīpsita, user=srhodes
+old = abhīpsitārthasiddhaparthaṃ
+new = abhīpsitārthasiddhyarthaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 942: 03/21/2025 dict=AP, L=3912, hw=abhedya, user=srhodes
+old = abhaudika
+new = abhaidika
+comment = Typo – Please note that this correction is proven by derivation from "abheda". Also, you may consider adding this word: "abhaidika", as a "searchable" Headword in the Hierarchy List Display.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 943: 03/21/2025 dict=AP, L=3918, hw=abhojya, user=srhodes
+old = kamaśaḥ
+new = kramaśaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 944: 03/21/2025 dict=AP, L=3918, hw=abhojya, user=srhodes
+old = kamaśaḥ
+new = kramaśaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 945: 03/21/2025 dict=AP, L=3928, hw=abhyadhika, user=srhodes
+old = bīraśca
+new = vīraśca
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 948: 03/22/2025 dict=AP, L=3926, hw=abhyañjanam, user=srhodes
+old = oil unguent
+new = oil, unguent
+comment = Typo – Please note that this is a "print change". The comma is generally used to separate a listing of definitions.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 949: 03/22/2025 dict=AP, L=3926, hw=abhyañjanam, user=srhodes
+old = oil unguent
+new = oil, unguent
+comment = Typo – Please note that this is a "print change". The comma is generally used to separate a listing of definitions.
+status = DONE
+** pc: 3926<pc>0192-2<k1>aByaYjanam : oil unguent : oil, unguent
+------------------------------------------------------------------------
+
+* TODOx dup Case 950: 03/22/2025 dict=AP, L=3926, hw=abhyañjanam, user=srhodes
+old = oil unguent
+new = oil, unguent
+comment = Typo – Please note that this is a "print change". The comma is generally used to separate a listing of definitions.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 951: 03/22/2025 dict=AP, L=3926, hw=abhyañjanam, user=srhodes
+old = oil unguent
+new = oil, unguent
+comment = Typo – Please note that this is a "print change". The comma is generally used to separate a listing of definitions.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 952: 03/22/2025 dict=AP, L=3926, hw=abhyañjanam, user=srhodes
+old = oil unguent
+new = oil, unguent
+comment = Typo – Please note that this is a "print change". The comma is generally used to separate a listing of definitions.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 953: 03/22/2025 dict=AP, L=3932, hw=abhyanujhāta, user=srhodes
+old = abhyanujhāta
+new = abhyanujñāta
+comment = Typo – Please note that this is a Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 954: 03/22/2025 dict=AP, L=3934, hw=abhyantara, user=srhodes
+old = -kralā
+new = -kalā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 955: 03/22/2025 dict=AP, L=3936, hw=abhyantarīkṛ, user=srhodes
+old = prāgalbhyādvaktumichanti
+new = prāgalbhyādvaktumicchanti
+comment = Typo – Please note that this is a "print change" to give the more common form of the word: "icchanti" rather than form printed here: "ichanti".
+status = DONE
+** pc: 3936<pc>0193-1<k1>aByantarIkf : prAgalByAdvaktumiCanti : prAgalByAdvaktumicCanti
+------------------------------------------------------------------------
+
+* TODOx Case 956: 03/22/2025 dict=AP, L=3951, hw=abhyarthanīya, user=srhodes
+old = or or desired
+new = or desired
+comment = Typo – Please note that this is a "print change".
+status = DONE
+** pc: 3951<pc>0193-2<k1>aByarTanIya : or or desired : or desired
+------------------------------------------------------------------------
+
+* TODOx dup Case 957: 03/22/2025 dict=AP, L=3951, hw=abhyarthanīya, user=srhodes
+old = or or desired
+new = or desired
+comment = Typo – Print Change Correction.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 958: 03/22/2025 dict=AP, L=3951, hw=abhyarthanīya, user=srhodes
+old = or or desired
+new = or desired
+comment = Typo – Print Change Correction.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 959: 03/22/2025 dict=AP, L=3951, hw=abhyarthanīya, user=srhodes
+old = or or desired
+new = or desired
+comment = Typo – Print Change Correction.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 960: 03/22/2025 dict=AP, L=3958, hw=abhyarhaṇīya, user=srhodes
+old = kiyate
+new = kriyate
+status = DONE  global change made at case 683
+------------------------------------------------------------------------
+
+* TODOx Case 961: 03/22/2025 dict=AP, L=3966, hw=abhyavaman, user=srhodes
+old = bahatyagniryastāmabhyavamanyate
+new = vahatyagniryastāmabhyavamanyate
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 973: 03/23/2025 dict=AP, L=3970, hw=abhyavahṛ, user=srhodes
+old = saṃpannamannamasmānabhyabahārayitum
+new = saṃpannamannamasmānabhyavahārayitum
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 974: 03/23/2025 dict=AP, L=3984, hw=abhyāsaḥ, user=srhodes
+old = abirataśramābhyāsāt
+new = avirataśramābhyāsāt
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 975: 03/23/2025 dict=AP, L=3984, hw=abhyāsaḥ, user=srhodes
+old = bairāgyeṇa
+new = vairāgyeṇa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 976: 03/23/2025 dict=AP, L=3996, hw=abhyākāśa, user=srhodes
+old = nirābaraṇa
+new = nirāvaraṇa
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 977: 03/23/2025 dict=AP, L=3996, hw=abhyākāśa, user=srhodes
+old = abhyākāśa
+new = abhyākāśam
+comment = Typo – Please note that this is a Headword Typo. The indeclinable form is clearly given as: "abhyākāśaṃ", in the citation here: "ahaḥsu satataṃ tiṣṭhedabhyākāśaṃ niśāṃ svapan".
+status = DONE
+** pc: 3996<pc>0195-1<k1>aByAkASa : aByAkASa : aByAkASam : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 978: 03/23/2025 dict=AP, L=4001, hw=abhyāgata, user=srhodes
+old = sarbatrābhyāgato
+new = sarvatrābhyāgato
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 979: 03/23/2025 dict=AP, L=4001, hw=abhyāgata, user=srhodes
+old = °kiyayā
+new = °kriyayā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 980: 03/23/2025 dict=AP, L=4002, hw=abhyāgamaḥ, user=srhodes
+old = basantamāsa°
+new = vasantamāsa°
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 982: 03/23/2025 dict=AP, L=4019, hw=abhyāhita, user=srhodes
+old = biniścaranti
+new = viniścaranti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 989: 03/24/2025 dict=AP, L=4059, hw=abhyudi, user=srhodes
+old = jībitārthī
+new = jīvitārthī
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 992: 03/25/2025 dict=AP, L=4075, hw=abhyupagamaḥ, user=srhodes
+old = kiyābhyupagamāttvetaddbījārthaṃyatpradīyate
+new = kriyābhyupagamāttvetaddbījārthaṃyatpradīyate
+status = DONE Jim also 'taddbīj' -> 'tadbīj
+------------------------------------------------------------------------
+
+* TODOx dup Case 993: 03/25/2025 dict=AP, L=4075, hw=abhyupagamaḥ, user=srhodes
+old = kiyābhyupagamāttvetaddbījārthaṃyatpradīyate
+new = kriyābhyupagamāttvetaddbījārthaṃyatpradīyate
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 994: 03/25/2025 dict=AP, L=4079, hw=abhyupapanna, user=srhodes
+old = abhyupapannabatsalaḥ
+new = abhyupapannavatsalaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 995: 03/25/2025 dict=AP, L=4087, hw=abhyupetya, user=srhodes
+old = aggreed
+new = agreed
+comment = Typo – Please note that this is a "print change".
+status = DONE
+** pc: 4087<pc>0198-1<k1>aByupetya : aggreed : agreed
+------------------------------------------------------------------------
+
+* TODOx Case 996: 03/25/2025 dict=AP, L=4096, hw=abhram, user=srhodes
+old = barṣāsu
+new = varṣāsu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 997: 03/25/2025 dict=AP, L=4096, hw=abhram, user=srhodes
+old = banaspatīntsacatāṃ
+new = vanaspatīntsacatāṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1003: 03/26/2025 dict=AP, L=4112, hw=abhva, user=srhodes
+old = abhba
+new = abhva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1004: 03/26/2025 dict=AP, L=4118, hw=amatiḥ, user=srhodes
+old = -amatīvat
+new = -amatīvan
+comment = Typo – Please note that this is a "print change" based upon MW dictionary, as well as the form cited here by APTE: "stotāmatīvā" which is the nominative singular form of the prātipadika: "amatīvan". If the prātipadika was indeed "amatīvat", then of course the nominative singular should be "amatīvān", but this form is not given in RV.
+status = DONE
+** pc: 4118<pc>0199-2<k1>amatiH : -amatIvat : -amatIvan
+------------------------------------------------------------------------
+
+* TODOx Case 1011: 03/27/2025 dict=AP, L=4144, hw=amara, user=srhodes
+old = sabhyagvartamāno
+new = samyagvartamāno
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1013: 03/27/2025 dict=AP, L=4144, hw=amara, user=srhodes
+old = -īśavaraḥ
+new = -īśvaraḥ
+status = DONE  
+------------------------------------------------------------------------
+
+* TODOx Case 1014: 03/27/2025 dict=AP, L=4144, hw=amara, user=srhodes
+old = -ratnama
+new = -ratnam
+comment = Typo – Please note the neuter gender indicated by ending in the letter: "m".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1022: 03/28/2025 dict=AP, L=4155, hw=amarṣa, user=srhodes
+old = bhavatastātapratāpotkarṣeṃ'pyamarṣaḥ
+new = bhavatastātapratāpotkarṣe'pyamarṣaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1024: 03/28/2025 dict=AP, L=4167, hw=amāṃsa, user=srhodes
+old = flesb
+new = flesh
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1025: 03/28/2025 dict=AP, L=4186, hw=amāvasuḥ, user=srhodes
+old = descendent
+new = descendant
+comment = Typo – Please consider the expression being used: "a descendent of Purūravas". Here the word: "descendent" is employed as a NOUN (object/thing). However, the word: "descendent" is strictly an Adjective. The Noun Form must be spelled: "descendant". Therefore, please consider making this correction.
+status = DONE global change - 6 instances  (AP shows descendant 96 times)
+------------------------------------------------------------------------
+
+* TODOx Case 1026: 03/28/2025 dict=AP, L=4189, hw=amita, user=srhodes
+old = -katu
+new = -kratu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1027: 03/28/2025 dict=AP, L=4189, hw=amita, user=srhodes
+old = -vikamaḥ
+new = -vikramaḥ
+status = DONE  Jim There are 5 other 'vikamaH' -- Should these be changed?
+------------------------------------------------------------------------
+
+* TODOx Case 1028: 03/28/2025 dict=AP, L=4189, hw=amita, user=srhodes
+old = anantavīryāmitavikamastvam
+new = anantavīryāmitavikramastvam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1030: 03/29/2025 dict=AP, L=4205, hw=amīvā, user=srhodes
+old = kuddhāḥ
+new = kruddhāḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1031: 03/29/2025 dict=AP, L=4205, hw=amīvā, user=srhodes
+old = kuddhāḥ
+new = kruddhāḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1032: 03/29/2025 dict=AP, L=4212, hw=amutra, user=srhodes
+old = yāvajjībaṃ
+new = yāvajjīvaṃ
+status = DONE Jim: 29 matches for "jIba" -- which should be "jIva" ?
+------------------------------------------------------------------------
+
+* TODOx Case 1033: 03/29/2025 dict=AP, L=4219, hw=amūdṛś, user=srhodes
+old = anyāddaśa
+new = anyādṛśa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1034: 03/29/2025 dict=AP, L=4221, hw=amūrta, user=srhodes
+old = buddhayādayo'pi
+new = buddhyādayo'pi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1046: 03/30/2025 dict=AP, L=4229, hw=amṛta, user=srhodes
+old = -apighānam
+new = -apidhānam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1047: 03/30/2025 dict=AP, L=4229, hw=amṛta, user=srhodes
+old = śvaṇomi
+new = śṛṇomi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1050: 03/30/2025 dict=AP, L=4229, hw=amṛta, user=srhodes
+old = -bhāvanam
+new = -bhavanam
+status = DONE  Jim: previously changed. See Case 0 above
+------------------------------------------------------------------------
+
+* TODOx Case 1052: 03/31/2025 dict=AP, L=4236, hw=amṛtyu, user=srhodes
+old = ṛtavo' mṛtyava
+new = ṛtavo'mṛtyava
+comment = Typo – Please note that the "blank space" has been removed.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1053: 03/31/2025 dict=AP, L=4239, hw=amṛṣodyama, user=srhodes
+old = amṛṣodyama
+new = amṛṣodyam
+comment = Typo – Please note that this is a Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1054: 03/31/2025 dict=AP, L=4243, hw=amedhya, user=srhodes
+old = ddaṣṭvā
+new = dṛṣṭvā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1058: 03/31/2025 dict=AP, L=4252, hw=amogha, user=srhodes
+old = neverfailing
+new = never-failing
+comment = Typo – Please note that the word "neverfailing" MUST be hyphenated.
+status = DONE Jim Previously changed
+------------------------------------------------------------------------
+
+* TODOx Case 1065: 04/01/2025 dict=AP, L=4155, hw=amarṣa, user=srhodes
+old = maunavākpāruṣyādikāraṇabhūtaścittavṛttiviśeṣo'marṣaḥ
+new = maunavākpāruṣyādikāraṇībhūtaścittavṛttiviśeṣo’marṣaḥ
+status = DONE  Jim: the 'ū' in old differs from the 'ū' in new -- check by editor
+------------------------------------------------------------------------
+
+* TODOx Case 1072: 04/01/2025 dict=AP, L=4265, hw=ambaṣṭhaḥ, user=srhodes
+old = cukikā
+new = cukrikā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1073: 04/01/2025 dict=AP, L=4268, hw=ambā, user=srhodes
+old = Śikhaḍin
+new = Śikhaṇḍin
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+** pc: 4268<pc>0207-1<k1>ambA : Śikhaḍin : Śikhaṇḍin
+------------------------------------------------------------------------
+
+* TODOx Case 1074: 04/01/2025 dict=AP, L=4271, hw=ambālikā, user=srhodes
+old = Vichitravīrya
+new = Vicitravīrya
+comment = Typo – Please note that this corrections must be made TWICE in the window display. Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = DONE  Jim Global change, 9 instances
+** pc: 4271<pc>0207-1<k1>ambAlikA : Vichitravīrya : Vicitravīrya : 8 others also changed
+------------------------------------------------------------------------
+
+* TODOx Case 1075: 04/01/2025 dict=AP, L=4273, hw=ambikā, user=srhodes
+old = Vichitravīrya
+new = Vicitravīrya
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = DONE  see Case 1074
+------------------------------------------------------------------------
+
+* TODOx Case 1076: 04/01/2025 dict=AP, L=4273, hw=ambikā, user=srhodes
+old = ghṛtarāṣṭra
+new = dhṛtarāṣṭra
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1083: 04/02/2025 dict=AP, L=4275, hw=ambu, user=srhodes
+old = -kiyā
+new = -kriyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1084: 04/02/2025 dict=AP, L=4275, hw=ambu, user=srhodes
+old = cakamardaka
+new = cakramardaka
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1098: 04/03/2025 dict=AP, L=4282, hw=ambhas, user=srhodes
+old = Mystical name of the letter b.
+new = Mystical name of the letter v.
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1099: 04/03/2025 dict=AP, L=4282, hw=ambhas, user=srhodes
+old = tuṣṭhi
+new = tuṣṭi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1100: 04/03/2025 dict=AP, L=4282, hw=ambhas, user=srhodes
+old = louts
+new = lotus
+comment = Typo – Please note that this is a "print change".
+status = DONE
+** pc: 4282<pc>0208-1<k1>amBas : louts : lotus
+------------------------------------------------------------------------
+
+* TODOx Case 1101: 04/03/2025 dict=AP, L=4288, hw=amrātaḥ, user=srhodes
+old = species or
+new = species of
+comment = Typo – Please note that this is a suggested "print change", based upon what seems to make more sense.
+status = DONE
+** pc: 4288<pc>0208-2<k1>amrAtaH : species or : species of :
+------------------------------------------------------------------------
+
+* TODOx Case 1102: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = (°vetas).
+new = (°vetasa).
+comment = Typo – Please note that this is a suggested "print change", based upon the fact that no Sanskrit Word is found ending in the form: "vetas". Also, further on there is listed the following: "-bhedanaḥ = °vetasa", which seems to confirm the correction being suggested here.
+status = DONE Jim: 
+** pc: 4289<pc>0208-2<k1>amla : (°vetas) : (°vetasa)
+------------------------------------------------------------------------
+
+* TODOx Case 1103: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = -adhyūṣitam
+new = -adhyuṣitam
+comment = Typo – Please note that this is a suggested "print change", following MW dictionary as well as the fact that no Sanskrit Word is found ending in the form: "adhyūṣitam or ūṣitam".
+status = DONE
+** pc: 4289<pc>0208-2<k1>amla : aDyUzitam : aDyuzitam
+------------------------------------------------------------------------
+
+* TODOx Case 1104: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = -cukikā
+new = -cukrikā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1106: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = abhlavetasamityetadamlapañcaphalaṃ
+new = amlavetasamityetadamlapañcaphalaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1107: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = (cukam)
+new = (cukram)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1108: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = , cukikā,
+new = , cukrikā,
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1110: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = , cukam)
+new = , cukram)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1111: 04/03/2025 dict=AP, L=4293, hw=amvlaḥ, user=srhodes
+old = amvlaḥ
+new = amlaḥ
+comment = Typo – Please note that this is a Headword Typo, requiring Three Corrections in the Window Display.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1116: 04/04/2025 dict=AP, L=4299, hw=ayana, user=srhodes
+old = the are
+new = the arc
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1117: 04/04/2025 dict=AP, L=4299, hw=ayana, user=srhodes
+old = -saṃkamaḥ, -saṃkāntiḥ
+new = -saṃkramaḥ, -saṃkrāntiḥ
+comment = Typo – Please note that TWO corrections have been made here.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1118: 04/04/2025 dict=AP, L=4313, hw=ayathā, user=srhodes
+old = -thama Ved.
+new = -tham Ved.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1119: 04/04/2025 dict=AP, L=4323, hw=ayas, user=srhodes
+old = ayaḥkaṇapacakāśmabhuśuṇḍayudyatabāhavaḥ
+new = ayaḥkaṇapacakrāśmabhuśuṇḍayudyatabāhavaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1120: 04/04/2025 dict=AP, L=4323, hw=ayas, user=srhodes
+old = śambhoryatadhvamākaṣṭumayaskāntena
+new = śambhoryatadhvamākraṣṭumayaskāntena
+status = DONE 
+------------------------------------------------------------------------
+
+* TODOx Case 1121: 04/04/2025 dict=AP, L=4323, hw=ayas, user=srhodes
+old = parasmāttadayaskānta
+new = parasmāttadayaskrānta
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1123: 04/04/2025 dict=AP, L=4323, hw=ayas, user=srhodes
+old = hiraṇyacakānayodaṃṣṭrān
+new = hiraṇyacakrānayodaṃṣṭrān
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1125: 04/04/2025 dict=AP, L=4323, hw=ayas, user=srhodes
+old = śatadhnīmatha
+new = śataghnīmatha
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1130: 04/05/2025 dict=AP, L=4331, hw=ayāta, user=srhodes
+old = daddaśe
+new = dadṛśe
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1131: 04/05/2025 dict=AP, L=4331, hw=ayāta, user=srhodes
+old = Yājn~avalkya
+new = Yājñavalkya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1133: 04/05/2025 dict=AP, L=4339, hw=ayānvita, user=srhodes
+old = Śaṅkarāchārya
+new = Śaṅkarācārya
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ś', 'ṅ' and 'ā') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = DONE Previously changed
+------------------------------------------------------------------------
+
+* TODOx Case 1134: 04/05/2025 dict=AP, L=4344, hw=ayāsya, user=srhodes
+old = āṅgiraso'ṅgānā m̐hi
+new = āṅgiraso'ṅgānām̐ hi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1136: 04/05/2025 dict=AP, L=4346, hw=ayi, user=srhodes
+old = prythee
+new = prithee
+comment = Typo – Please note that this is a suggested "print change" based upon the fact that "prythee" is considered an Archaic spelling (i.e. outdated). Dictionary definitions should be made current to the modern day.
+status = DONE
+** pc: 4346<pc>0211-2<k1>ayi : prythee : prithee :  prythee archaic
+------------------------------------------------------------------------
+
+* TODOx Case 1137: 04/05/2025 dict=AP, L=4346, hw=ayi, user=srhodes
+old = tanvāṅgi
+new = tanvaṅgi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1138: 04/05/2025 dict=AP, L=4352, hw=ayugma, user=srhodes
+old = daddaśuḥ
+new = dadṛśuḥ
+comment = Please consider this Global Correction across all dictionaries: " daddaś" ——becomes—— " dadṛś"; The initial "space" in the "{search/replace} Function" that has been suggested here will prevent ativyāpti. The form " daddaś" can only be " dadṛś". This will save us all from the tedious task of correcting such rampant errors. I am certain that Andhrabharati will appreciate my comment and suggestion.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1139: 04/05/2025 dict=AP, L=4354, hw=ayuj, user=srhodes
+old = baburayukchadagucchasugandhayaḥ
+new = vavurayukchadagucchasugandhayaḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1140: 04/05/2025 dict=AP, L=4357, hw=ayuddha, user=srhodes
+old = tighting
+new = fighting
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1141: 04/05/2025 dict=AP, L=4357, hw=ayuddha, user=srhodes
+old = -ddhama
+new = -ddham
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1149: 04/06/2025 dict=AP, L=4628, hw=ambā, user=srhodes
+old = Vichitravīrya
+new = Vicitravīrya
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1156: 04/06/2025 dict=AP, L=4365, hw=ayogavaḥ, user=srhodes
+old = Sūdra
+new = Śūdra
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+** pc: 4365<pc>0213-1<k1>ayogavaH : Sūdra : Śūdra : And 13 others
+------------------------------------------------------------------------
+
+* TODOx Case 1157: 04/06/2025 dict=AP, L=4370, hw=ayodhya, user=srhodes
+old = -ghyā
+new = -dhyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1158: 04/06/2025 dict=AP, L=4376, hw=ara, user=srhodes
+old = javāccakavalayam
+new = javāccakravalayam
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1159: 04/06/2025 dict=AP, L=4376, hw=ara, user=srhodes
+old = cakabhrāntirarāntareṣu
+new = cakrabhrāntirarāntareṣu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1160: 04/06/2025 dict=AP, L=4386, hw=araṇiḥ, user=srhodes
+old = nirararṇi
+new = niraraṇi
+comment = Typo – please note that this is a possible "print change" since the example cited above is supposedly representing the feminine word "araṇi".
+status = DONE Jim:  cf AV. 1,18,2: https://sanskrit-lexicon.github.io/avlinks/avhymns/av01.018.html#av01.018.02
+** pc: 4386<pc>0213-2<k1>araRiH : nirararRi : niraraRi : cf AV. 1,18,2
+------------------------------------------------------------------------
+
+* TODOx Case 1161: 04/06/2025 dict=AP, L=4386, hw=araṇiḥ, user=srhodes
+old = Ghṛtāchī
+new = Ghṛtācī
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṛ', 'ā' and 'ī') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. The very important point here is that the letter: "ch" is misleading, because the correct letter is: "c". Also, Apte Himself lists the word in his own dictionary as: "Ghṛtācī".
+status = DONE
+** pc: 4386<pc>0213-2<k1>araRiH : Ghṛtāchī : Ghṛtācī : and 2 other instances
+------------------------------------------------------------------------
+
+* TODOx Case 1167: 04/07/2025 dict=AP, L=4388, hw=araṇyam, user=srhodes
+old = °vījam
+new = °bījam
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1168: 04/07/2025 dict=AP, L=4388, hw=araṇyam, user=srhodes
+old = °kārpāsi
+new = °kārpāsī
+comment = Typo – Please note that this is a "print change", based upon all authorities.
+status = DONE
+** pc: 4388<pc>0214-1<k1>araRyam : °kArpAsi : °kArpAsI
+------------------------------------------------------------------------
+
+* TODOx Case 1171: 04/07/2025 dict=AP, L=4388, hw=araṇyam, user=srhodes
+old = tāvadīddaśamapi
+new = tāvadīdṛśamapi
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1182: 04/09/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = -vastūkaḥ
+new = -vāsuka
+comment = Typo - This is a possible "print change", or perhaps one is a variation of the other. I hope that Andhrabharati will comment. Also, please consider the alphabetical order of compounds listed here which favors this correction. 
+status = DONE cf. WIL, also  "-vāsukam" since n.
+** pc: 4289<pc>0208-2<k1>amla : vastūkaḥ : -vāsukam : cf. WIL
+------------------------------------------------------------------------
+
+* TODOx dup Case 1183: 04/09/2025 dict=AP, L=४४, hw=amla, user=srhodes
+old = -vastūkaḥ
+new = -vāsuka
+comment = Typo - This is a possible "print change", or perhaps one is a variation of the other. I hope that Andhrabharati will comment. Also, please consider the alphabetical order of compounds listed here which favors this correction. 
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1184: 04/09/2025 dict=AP, L=4406, hw=aram, user=srhodes
+old = puru bāraṃ purutmanā
+new = puru vāraṃ puru tmanā
+comment = Typo – Please note that two corrections have been made here.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1187: 04/09/2025 dict=AP, L=4406, hw=aram, user=srhodes
+old = puru bāraṃ purutmanā
+new = puru vāraṃ puru tmanā
+comment = Typo – Please note that two corrections have been made here.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1188: 04/09/2025 dict=AP, L=4421, hw=ararindam, user=srhodes
+old = adhārayat ararindāni sukatuḥ
+new = adhārayad ararindāni sukratuḥ
+comment = Typo – Please note that two corrections have been made here. The first correction is according to a basic Sandhi rule.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1189: 04/09/2025 dict=AP, L=4433, hw=arahāyate, user=srhodes
+old = Den. A.
+new = Den. Ā.
+comment = Typo – Please note that I prefer accuracy to "laziness". Sanskrit is extremely accurate as a language. Why "dilute" the purity? Therefore, please consider this to be a Global Correction across all dictionaries in regard to every single abbreviation of "ātmanepada" or "ātmanepadin". I would like to meet someone who disagrees.
+status = DONE previously changed
+------------------------------------------------------------------------
+
+* TODOx dup Case 1190: 04/09/2025 dict=AP, L=4433, hw=arahāyate, user=srhodes
+old = Den. A.
+new = Den. Ā.
+comment = Typo – Please note that I prefer accuracy to "laziness". Sanskrit is extremely accurate as a language. Why "dilute" the purity? Therefore, please consider this to be a Global Correction across all dictionaries in regard to every single abbreviation of "ātmanepada" or "ātmanepadin". I would like to meet someone who disagrees.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1192: 04/10/2025 dict=AP, L=4440, hw=arātiḥ, user=srhodes
+old = malignity personified; evil spirit
+new = malignity personified: evil spirit
+comment = Typo – The printed text likely shows a "colon" punctuation symbol, such that the "evil spirit ..." portion of the definition is an "elaboration" of the preceding portion: "malignity personified".
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1193: 04/10/2025 dict=AP, L=4452, hw=ari, user=srhodes
+old = kodhastathā
+new = krodhastathā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1202: 04/11/2025 dict=AP, L=4465, hw=ariṣṭa, user=srhodes
+old = jvaledagniḥsurakṣitaḥ
+new = jvaledagniḥ surakṣitaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1203: 04/11/2025 dict=AP, L=4465, hw=ariṣṭa, user=srhodes
+old = takāṅkayoḥ
+new = takrāṅkayoḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1204: 04/11/2025 dict=AP, L=4465, hw=ariṣṭa, user=srhodes
+old = -gṛhama
+new = -gṛham
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1208: 04/11/2025 dict=AP, L=4465, hw=ariṣṭa, user=srhodes
+old = killer or Ariṣṭa
+new = killer of Ariṣṭa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1209: 04/11/2025 dict=AP, L=4475, hw=aruj, user=srhodes
+old = Not fostering (as a boil)
+new = Not festering (as a boil)
+comment = Typo – Please note that this is a possible "print change". The reasoning is as follows: "fostering is typically of something regarded as good". "festering is typically of a wound, sore, boil etc.".
+status = DONE  This is a print error in AP -- AP90 (print) has 'festering'!
+** pc: 4475<pc>0218-1<k1>aruj : Not fostering : Not festering
+------------------------------------------------------------------------
+
+* TODOx Case 1210: 04/11/2025 dict=AP, L=4478, hw=aruṇa, user=srhodes
+old = (-ṇā, -ṇi f.)
+new = (-ṇā, -ṇī f.)
+comment = Typo – Please note that this is a possible "print change". Generally the feminine forms will either end in the long vowel: "ā"  OR  "ī" ;  then ending cited here with a short vowel: "i" ,  seems to be unusual.  Does Andhrabharati have anything to say?
+status = DONE  AP90 shows ṇī
+** pc: 4478<pc>0218-1<k1>aruRa : -RA, -Ri : -RA, -RI
+------------------------------------------------------------------------
+
+* TODOx Case 1211: 04/11/2025 dict=AP, L=4478, hw=aruṇa, user=srhodes
+old = -yuja
+new = -yuj
+comment = Typo – Please note that MW dictionary confirms this correction.
+status = DONE  AP90 has yuj
+** pc: 4478<pc>0218-1<k1>aruRa : -yuja : -yuj : cf. ap90
+------------------------------------------------------------------------
+
+* TODOx Case 1221: 04/12/2025 dict=AP, L=4485, hw=arundhatī, user=srhodes
+old = Sitā
+new = Sītā
+comment = Typo – My view is simple: "Language consists of Form and Meaning". Therefore, the Form should be spelled correctly!
+status = DONE
+** pc: 4485<pc>0218-2<k1>arunDatI : Sitā : Sītā : cf. ap90
+------------------------------------------------------------------------
+
+* TODOx Case 1223: 04/12/2025 dict=AP, L=4494, hw=arūkṣita, user=srhodes
+old = ddaśa
+new = dṛśa
+comment = Typo – You may consider to make this to Global Correction using the target search: " ddaśa "  ——becomes—–  " dṛśa " • the initial and following space surrounding the target search " ddaśa " is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddaśa " in every single occurrence can only be this: " dṛśa " – There is no other possible correct combination of these letters.
+status = DONE in ap.txt, currently 24 matches for "ddaSa".  Which are wrong?
+  This is the only " ddaSa "
+------------------------------------------------------------------------
+
+* TODOx Case 1224: 04/12/2025 dict=AP, L=4500, hw=are, user=srhodes
+old = prati kṛtaḥ
+new = prati kutaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1225: 04/12/2025 dict=AP, L=4515, hw=ark, user=srhodes
+old = akaṃyati
+new = arkayati
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1227: 04/12/2025 dict=AP, L=4516, hw=arka, user=srhodes
+old = hemanibaddhacakam
+new = hemanibaddhacakram
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1228: 04/12/2025 dict=AP, L=4516, hw=arka, user=srhodes
+old = hemanibaddhacakam
+new = hemanibaddhacakram
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1229: 04/12/2025 dict=AP, L=13205, hw=kroḍaḥ, user=srhodes
+old = post script
+new = postscript
+comment = Typo – Please note that this is a suggested Global Print Change across all dictionaries. This term is generally written as a SINGLE word.
+status = DONE only 1 : ap90 has postscript
+** pc: 13205<pc>0618-1<k1>kroqaH: post script : postscript : cf. ap90
+------------------------------------------------------------------------
+
+* TODOx Case 1236: 04/13/2025 dict=AP, L=4516, hw=arka, user=srhodes
+old = -puṣṣottaram
+new = -puṣpottaram
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1246: 04/14/2025 dict=AP, L=4526, hw=arghaḥ, user=srhodes
+old = -balāvalam
+new = -balābalam
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1247: 04/14/2025 dict=AP, L=4528, hw=arghya, user=srhodes
+old = pūjābidhiḥ
+new = pūjāvidhiḥ
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1248: 04/14/2025 dict=AP, L=4528, hw=arghya, user=srhodes
+old = puṣpairardhyaṃ
+new = puṣpairarghyaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1249: 04/14/2025 dict=AP, L=4528, hw=arghya, user=srhodes
+old = puṣpairardhyaṃ
+new = puṣpairarghyaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1250: 04/14/2025 dict=AP, L=4528, hw=arghya, user=srhodes
+old = arghyaṃmasmai
+new = arghyamasmai
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1251: 04/14/2025 dict=AP, L=4528, hw=arghya, user=srhodes
+old = ardhyaṃmarghyamiti
+new = arghyaṃmarghyamiti
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1257: 04/15/2025 dict=AP, L=4548, hw=arjaka, user=srhodes
+old = arj-evul
+new = arj-ṇvul
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1258: 04/15/2025 dict=AP, L=4551, hw=arjuna, user=srhodes
+old = punarboyantu
+new = punarvoyantu
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1259: 04/15/2025 dict=AP, L=4551, hw=arjuna, user=srhodes
+old = N. of Uṣhā
+new = N. of Uṣā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1260: 04/15/2025 dict=AP, L=4551, hw=arjuna, user=srhodes
+old = -abhrama
+new = -abhram
+comment = Typo – Please note that this correction follows MW dictionary. As Andhrabharati has noted: "Scott likes to compare dictionaries". This is a very good example of the "Fruit" of my comparison.
+status = DONE  Jim: Don't forget PW (and PWG), used by MW!
+** pc: 4551<pc>0222-1<k1>arjuna : -aBrama : -aBram
+------------------------------------------------------------------------
+
+* TODOx Case 1261: 04/15/2025 dict=AP, L=4551, hw=arjuna, user=srhodes
+old = kiyantābhū
+new = kriyantābhū
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1263: 04/15/2025 dict=AP, L=4551, hw=arjuna, user=srhodes
+old = Kriṣṇa
+new = Kṛṣṇa
+status = DONE Jim: Global change -- 8 instances
+** pc: 4551<pc>0222-1<k1>arjuna : Kriṣṇa : Kṛṣṇa : and 7 other instances
+------------------------------------------------------------------------
+
+* TODOx dup Case 1264: 04/15/2025 dict=AP, L=4551, hw=arjuna, user=srhodes
+old = Kriṣṇa
+new = Kṛṣṇa
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1285: 04/16/2025 dict=AP, L=4555, hw=arṇava, user=srhodes
+old = ivārṇavāmbhbubhiḥ
+new = ivārṇavāmbubhiḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1286: 04/16/2025 dict=AP, L=4563, hw=arth, user=srhodes
+old = tamābhikamya
+new = tamābhikramya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1287: 04/16/2025 dict=AP, L=4563, hw=arth, user=srhodes
+old = prahastamarthayāṃcake
+new = prahastamarthayāṃcakre
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1288: 04/16/2025 dict=AP, L=4563, hw=arth, user=srhodes
+old = prahastamarthayāṃcake
+new = prahastamarthayāṃcakre
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1289: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = °baśāt
+new = °vaśāt
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1290: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = (ghenum)
+new = (dhenum)
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1291: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = kiyārthaḥ
+new = kriyārthaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1292: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = vyaṅgaya
+new = vyaṅgya
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1293: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = vāgarthāviba
+new = vāgarthāviva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx dup Case 1294: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = vāgarthāviba
+new = vāgarthāviva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1295: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = mokṣaḥ with artha
+new = mokṣaḥ; with artha
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1296: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = arthānarthābubhau
+new = arthānarthāvubhau
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1297: 04/16/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = ke'rthastiraścāṃ
+new = ko'rthastiraścāṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1305: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = -alaṃkaraḥ
+new = -alaṃkāraḥ
+comment = Typo – Please note that this is a "print change", proven in the following way: Here Apte prints: "(opp. śabdālaṃkāra)", and in referring to the word "śabdālaṃkāra", Apte prints: "(opp. arthālaṃkāra)". Therefore the printing Here is incorrect. MW dictionary also confirms this correction.
+status = DONE
+** pc: 4564<pc>0223-2<k1>arTaH : -alaMkaraH : -alaMkAraH
+------------------------------------------------------------------------
+
+* TODOx Case 1306: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = ddaṣṭārthāpatti
+new = dṛṣṭārthāpatti
+comment = Typo – You may consider to make this a Global Correction using the target search: " ddaṣṭ"  ——becomes—–  " dṛṣṭ" • the initial space surrounding the target search " ddaṣṭ" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddaṣṭ" in every single occurrence can only be this: " dṛṣṭ" – There is no other possible correct combination of these letters.
+status = DONE
+ Jim: global change 29 matches for " ddazw" changed to " dfzw"  (slp1)
+ 2nd global change: 13 matches for "#ddazw" => "#dfzw"
+ Still 19 matches for "ddaz" Probably all should be changed -- any false positives?
+------------------------------------------------------------------------
+
+* TODOx Case 1307: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = some ddaṣṭa artha
+new = some dṛṣṭa artha
+comment = Typo – You may consider to make this a Global Correction using the target search: " ddaṣṭ"  ——becomes—–  " dṛṣṭ" • the initial space surrounding the target search " ddaṣṭ" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddaṣṭ" in every single occurrence can only be this: " dṛṣṭ" – There is no other possible correct combination of these letters.
+status = DONE
+see cse 1306
+------------------------------------------------------------------------
+
+* TODOx Case 1308: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = -kṛta
+new = -kṛt
+comment = Typo – Please note that this is a possible "print change" following MW dictionary. Also, consider that "-kṛta" is more likely in reference to something "made for a purpose"; where as "-kṛt" is more likely in reference to "causing profit" etc.
+status = DONE
+** pc: 4564<pc>0223-2<k1>arTaH : -kfta : -kfta : -kft
+------------------------------------------------------------------------
+
+* TODOx Case 1309: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = -kārṣyam
+new = -kārśyam
+comment = Typo – Please note that this is a "Print Change". I do not accept "variations" that simply degrade the Purity of Sanskrit. The word here is: "kārśyam", derived from the root √kṛś. Here, we are not deriving from the root √kṛṣ. Please keep this in mind.
+status = DONE  previously changed 
+------------------------------------------------------------------------
+
+* TODOx Case 1310: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = nirbandhasaṃjātaruṣārthakārṣyamacintayitvā
+new = nirbandhasaṃjātaruṣārthakārśyamacintayitvā
+comment = Typo – Please note that this is a "Print Change". I do not accept "variations" that simply degrade the Purity of Sanskrit. The word here is: "kārśyam", derived from the root √kṛś. Here, we are not deriving from the root √kṛṣ. Please keep this in mind.
+status = DONE
+** pc: 4564<pc>0223-2<k1>arTaH : ruzArTakArzyam : ruzArTakArSyam
+------------------------------------------------------------------------
+
+* TODOx Case 1311: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = -kamaḥ
+new = -kramaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1312: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = -kiyā
+new = -kriyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1313: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = arthakiyā
+new = arthakriyā
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1314: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = hiṃsrārthadhnī
+new = hiṃsrārthaghnī
+status = DONE  
+Jim: also vanDyArTaDnyapriyaMvadA -> vanDyArTaGnyapriyaMvadA
+------------------------------------------------------------------------
+
+* TODOx Case 1315: 04/17/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = -jha
+new = -jña
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1323: 04/18/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = kodhasyaiva
+new = krodhasyaiva
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1324: 04/18/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = a a king
+new = a king
+status = DONE
+** pc: 4564<pc>0223-2<k1>arTaH : a a king : a king
+------------------------------------------------------------------------
+
+* TODOx Case 1325: 04/18/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = siddhapati
+new = siddhyati
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1327: 04/18/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = -baśaḥ
+new = -vaśaḥ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1328: 04/18/2025 dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = also °vaikalpyam
+new = also °vaikalyam
+comment = Typo – Please note that this is a confirmed "Print Change". I have checked several reliable sources to verify this correction. MW dictionary agrees.
+status = DONE  
+** pc: 4564<pc>0223-2<k1>arTaH : also °vEkalpyam : also °vEkalyam
+------------------------------------------------------------------------
+
+* TODOx Case 1330: 04/18/2025 dict=AP, L=4567, hw=arthavat, user=srhodes
+old = tenārthabām̐llobhaparāṅmukhena
+new = tenārthavām̐llobhaparāṅmukhena
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1331: 04/18/2025 dict=AP, L=4567, hw=arthavat, user=srhodes
+old = viṇmūtrotsargaśuddhaparthaṃ
+new = viṇmūtrotsargaśuddhyarthaṃ
+status = DONE
+------------------------------------------------------------------------
+
+* TODOx Case 1332: 04/18/2025 dict=AP, L=4567, hw=arthavat, user=srhodes
+old = (-vān) Aman.
+new = (-vān) A man.
+status = DONE
+------------------------------------------------------------------------
+

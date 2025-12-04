@@ -1,0 +1,19 @@
+2025-12-04
+csl-corrections/batch_20250418/dictionaries/ap
+
+3 TODOh  Possible missing headwords in compounds
+
+* TODOh Case 154: 01/27/2025 dict=AP, L=2279, hw=anūyāja, user=srhodes
+old = Headword Missing
+new = You may choose to add the Headword: "anūrādha", which is referenced here, to the Hierarchy List as a searchable Headword.
+comment = Headword Missing
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOh Case 156: 01/27/2025 dict=AP, L=2293, hw=anṛṇatā, user=srhodes
+old = Headword Missing
+new = You may choose to add the Headword: "ānṛṇyam", which is referenced here, to the Hierarchy List as a searchable Headword. In MW dictionary, this would be considered as a "group", with both words listed together (one after the other) in the Hierarchy List Display.
+comment = Headword Missing
+status = PENDING
+------------------------------------------------------------------------
+

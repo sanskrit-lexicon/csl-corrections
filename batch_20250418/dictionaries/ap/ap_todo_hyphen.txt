@@ -1,0 +1,376 @@
+2025-12-04
+csl-corrections/batch_20250418/dictionaries/ap
+
+53 TODO- suggested changes in English word hyphenation.
+  
+* TODO- Case 138: 01/27/2025 dict=AP, L=2241, hw=anusainyam, user=srhodes
+old = rear-guard
+new = rearguard
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 150: 01/27/2025 dict=AP, L=2263, hw=anūkaḥ, user=srhodes
+old = back-bone
+new = backbone
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 181: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 183: 01/29/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = death-bed
+new = deathbed
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 248: 01/31/2025 dict=AP, L=2328, hw=anta, user=srhodes
+old = frontier-guard
+new = frontier guard
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 271: 02/01/2025 dict=AP, L=2338, hw=antarīyam, user=srhodes
+old = under garment
+new = undergarment
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 275: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = mid-air
+new = midair
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 276: 02/01/2025 dict=AP, L=2342, hw=antarā, user=srhodes
+old = mean time
+new = meantime
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 282: 02/01/2025 dict=AP, L=2344, hw=antarālam, user=srhodes
+old = half way
+new = halfway
+comment = Typo – This is likely a print change. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 330: 02/05/2025 dict=AP, L=2396, hw=annam, user=srhodes
+old = meal-time
+new = mealtime
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 334: 02/05/2025 dict=AP, L=2396, hw=annam, user=srhodes
+old = new-born
+new = newborn
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 352: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = step-mother
+new = stepmother
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 358: 02/07/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = absent-minded
+new = absentminded
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 385: 02/09/2025 dict=AP, L=2445, hw=anvaṣṭamadiśam, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Please note that I like to bring the "spelling" up to the current standard.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 409: 02/12/2025 dict=AP, L=2511, hw=apakāraka, user=srhodes
+old = evil-doer
+new = evildoer
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Please note that I like to bring the "spelling" up to the current standard.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 443: 02/15/2025 dict=AP, L=2616, hw=apadārthaḥ, user=srhodes
+old = non-entity
+new = nonentity
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 444: 02/15/2025 dict=AP, L=2617, hw=apadiś, user=srhodes
+old = head-ache
+new = headache
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 455: 02/16/2025 dict=AP, L=2678, hw=apamārgaḥ, user=srhodes
+old = by-path, side-way
+new = bypath, sideway
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 471: 02/19/2025 dict=AP, L=2758, hw=aparyuṣita, user=srhodes
+old = over-night
+new = overnight
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 530: 02/23/2025 dict=AP, L=2947, hw=apārtha, user=srhodes
+old = law-suit
+new = lawsuit
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Please note that it is important to bring the "spelling" up to the current standard as we are maintaining a dictionary for the present and all future generations. Also, please bear in mind that the word "suit" refers to "a set of outer clothes". Therefore hyphenating the word "law-suit", bears no relation to the actual meaning!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 542: 02/24/2025 dict=AP, L=2972, hw=apikakṣaḥ, user=srhodes
+old- = arm-pit
+new = armpit
+comment = Typo – This correction needs to be made TWICE here (both singular and plural). Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Please note that it is important to bring the "spelling" up to the current standard as we are maintaining a dictionary for the present and all future generations.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 543: 02/24/2025 dict=AP, L=2972, hw=apikakṣaḥ, user=srhodes
+old = shoulder-blades
+new = shoulder blades
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 594: 02/27/2025 dict=AP, L=3051, hw=apodaka, user=srhodes
+old = water-tight
+new = watertight
+comment = Typo – Please note that the general usage is without the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 595: 02/27/2025 dict=AP, L=3052, hw=apodikā, user=srhodes
+old = pot-herb
+new = potherb
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally not used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 600: 02/27/2025 dict=AP, L=3023, hw=apūraṇī, user=srhodes
+old = silk cotton tree
+new = silk-cotton tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 609: 02/28/2025 dict=AP, L=3023, hw=apūraṇī, user=srhodes
+old = silk cotton tree
+new = silk-cotton tree
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 616: 03/01/2025 dict=AP, L=3117, hw=apratipattiḥ, user=srhodes
+old = Non-performance, non-acceptance
+new = Nonperformance, nonacceptance
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 617: 03/01/2025 dict=AP, L=3124, hw=apratimānuṣa, user=srhodes
+old = Extra-ordinary
+new = Extraordinary
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 618: 03/01/2025 dict=AP, L=35947, hw=sphūrtimat, user=srhodes
+old = Tender-hearted
+new = Tenderhearted
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 637: 03/03/2025 dict=AP, L=14719, hw=caraṇaḥ, user=srhodes
+old = foot-rest
+new = footrest
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language. Also, please note that the Headword is NOT written as "caraṇa-upadhāna", which simply proves my point.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 659: 03/03/2025 dict=AP, L=3193, hw=aprastāvika, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. There is no need to Honor Apte for an error in spelling.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 660: 03/03/2025 dict=AP, L=3194, hw=aprastuta, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. There is no need to Honor Apte for an error in spelling.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 670: 03/04/2025 dict=AP, L=3198, hw=aprākaraṇika, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. There is no need to Honor Apte for an error in spelling.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 691: 03/05/2025 dict=AP, L=4883, hw=avaghūrṇaḥ, user=srhodes
+old = whirl-pool
+new = whirlpool
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 710: 03/06/2025 dict=AP, L=3260, hw=abjā, user=srhodes
+old = pearl-oyster
+new = pearl oyster
+comment = Typo – Please note that the general usage is without the hyphen. It is important to consider that the "oyster" itself is not "made of pearl", rather the oyster may produce pearls.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 713: 03/06/2025 dict=AP, L=3269, hw=abdhiḥ, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 714: 03/06/2025 dict=AP, L=3269, hw=abdhiḥ, user=srhodes
+old = pearl-oyster
+new = pearl oyster
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Also consider that the "oyster" is not "made of pearl", rather it may produce pearls.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 775: 03/09/2025 dict=AP, L=3349, hw=abhigarjanam, user=srhodes
+old = up-roar
+new = uproar
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Please note that it is important to bring the "spelling" up to the current standard as we are maintaining a dictionary for the present and all future generations.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 791: 03/10/2025 dict=AP, L=3385, hw=abhijan, user=srhodes
+old = birth-right
+new = birthright
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 792: 03/10/2025 dict=AP, L=3387, hw=abhijanaḥ, user=srhodes
+old = Fore-fathers
+new = Forefathers
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 793: 03/10/2025 dict=AP, L=3387, hw=abhijanaḥ, user=srhodes
+old = Fore-fathers
+new = Forefathers
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 794: 03/10/2025 dict=AP, L=3387, hw=abhijanaḥ, user=srhodes
+old = Fore-fathers
+new = Forefathers
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 987: 03/24/2025 dict=AP, L=4053, hw=abhyutthānam, user=srhodes
+old = Sun-rise
+new = Sunrise
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 990: 03/24/2025 dict=AP, L=4060, hw=abhyudaya, user=srhodes
+old = child-birth
+new = childbirth
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1002: 03/26/2025 dict=AP, L=4103, hw=abhriya, user=srhodes
+old = thunder-clouds
+new = thunderclouds
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Please keep the following advice in mind: "If something is not needed, then it should not be used." Why wastefully employ a "hyphen", when in fact it is not needed?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1010: 03/27/2025 dict=AP, L=4144, hw=amara, user=srhodes
+old = Quick-silver
+new = Quicksilver
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Please keep the following advice in mind: "If something is not needed, then it should not be used." Why wastefully employ a "hyphen", when in fact it is not needed (and misleading)? Also, please note that "quicksilver" means "the liquid metal mercury." There is no "silver" in the actual object denoted. How quick is silver? Please remove the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1105: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = lime-tree
+new = lime tree
+comment = Typo – Please note that the general usage is without the hyphen. A type of tree is generally NOT hyphenated. For example, previously APTE has listed here in the window display: "the citron tree". Why not "citron-tree"? Thus, my point is clear. Consistency wins the day! If there is one problem with any language (including Sanskrit) it is this: Too much variation (that simply is not needed). I have come to clear things up.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1109: 04/03/2025 dict=AP, L=4289, hw=amla, user=srhodes
+old = pot-herb
+new = potherb
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1122: 04/04/2025 dict=AP, L=4323, hw=ayas, user=srhodes
+old = load-stone
+new = loadstone
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1124: 04/04/2025 dict=AP, L=4323, hw=ayas, user=srhodes
+old = canon-ball
+new = cannonball
+comment = Typo – Please note that this is a suggested "print change" in favor of the English standard.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1132: 04/05/2025 dict=AP, L=4337, hw=ayānayam, user=srhodes
+old = chess-board
+new = chessboard
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Please keep the following advice in mind: "If something is not needed, then it should not be used." Why wastefully employ a "hyphen", when in fact it is not needed? If there is one problem with any language (including Sanskrit) it is this: Too much variation (that simply is not needed). I have come to clear things up.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1194: 04/10/2025 dict=AP, L=4458, hw=aritra, user=srhodes
+old = oardeep
+new = oar-deep
+comment = Typo – Please note that this is a suggested "print change". Please note that MW dictionary agrees with this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1226: 04/12/2025 dict=AP, L=4516, hw=arka, user=srhodes
+old = sun-stone (sūryakānta)
+new = sunstone (sūryakānta)
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. There is no need to Honor Apte for an error in spelling. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language. Also, please note that the included word: "sūryakānta" is NOT written as "sūrya-kānta", this proves the point.
+status = PENDING
+------------------------------------------------------------------------
+

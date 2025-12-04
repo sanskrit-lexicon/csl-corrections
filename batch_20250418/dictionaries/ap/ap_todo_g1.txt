@@ -1,0 +1,35 @@
+2025-12-04
+csl-corrections/batch_20250418/dictionaries/ap
+3 TODOg1 suggest change in display of verbs. relates to
+  markup in ap.txt like '€1P.'
+
+1642 matches for "€[0-9]+P\."
+ 16 matches for "[^0-9€][0-9]+P\."
+
+Notes on further changes, where frequent typos in Sanskrit text
+1. "dda" -> "df"  Example Case 178.
+2. "cakam" -> "cakram"  Case 180 
+  'kV' -> krV'  kiya -> kriya  etcs.
+  
+----------------------
+* TODOg1 Case 137: 01/27/2025 dict=AP, L=2236, hw=anusṛp, user=srhodes
+old = 1P.
+new = 1 P.
+comment = Typo – Please note the printed text contains a "blank space" between here.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg1 Case 146: 01/27/2025 dict=AP, L=2257, hw=anuhuṅkṛ, user=srhodes
+old = 8U.
+new = 8 U.
+comment = Typo – Please note that the printed page shows a "blank space" between the number "8" and the letter "U".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg1 Case 148: 01/27/2025 dict=AP, L=2259, hw=anuhṛ, user=srhodes
+old =  1P.
+new =  1 P.
+comment = Typo – Please note that the printed page shows a "blank space" between the number "1" and the letter "P". I understand that you may choose not to make such corrections because they may number in the hundreds. But I do have a Global Solution, if you choose to implement: Make the following target correction for every possible case: (root classes 1 through 10) and (conjugational voice terminations such as: P. Ā. U.). Such a Global "Search" and "Replace" would be thus conducted as follows: " 1P." » " 1 P." ; " 2P." » " 2 P." etc.; " 1Ā." » " 1 Ā." ; " 2Ā." » " 2 Ā." etc.; " 1U." » " 1 U." ; " 2U." » " 2 U." etc.;
+status = PENDING
+------------------------------------------------------------------------
+

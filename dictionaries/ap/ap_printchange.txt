@@ -292,5 +292,70 @@ Ref: https://github.com/sanskrit-lexicon/ap90/issues/issue26 readme_althw_2.txt
 L code : Headword : Old  : New : Comment
 608  : atiGa : Worth : Wrath : 
 368  : acitvas : acitvas : acikitvas : headword change
+-----------------------------------------------------------------
+12-04-2025
+Source: Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+L code : Headword : Old  : New : Comment
+4229 : amfta : -Bavanam ... built by Amṛtaprabha : -Bavanam ... built by Amṛtaprabhā : https://github.com/sanskrit-lexicon/csl-corrections/issues/92#issuecomment-2806734706
+2298 : aneka :  Agitated. perplexed :  Agitated, perplexed
+2328 : anta : chāṇḍāla : cāṇḍāla : also changed 6 more
+2332 : ante : in statu pupilavi : in statu pupillari
+2334 : antar : guqavalayaH : gudavalayaH : 
+2334 : antar : -vigAhaH, -hanam : -vigAhaH, -vigAhanam
+2334 : antar : (also written antaHsTa)  :  :  phrase removed 
+2334 : antar : Rigveda : Ṛgveda : 5 other also changed
+2344 : antarAlam : the midle; or middst; : the middle; or midst;
+2374 : antya : Mlechcha : Mleccha
+2381 : andikA : cf. -antikA : cf. antikA :
+2416 : anyAdfkz : anyAdfkz : anyAdfkza : headword change
+2568 : apacitiH : Marīchi : Marīci : also 5 others changed
+2700 : aparatiH : = aparati : = uparati
+2710 : aparADaH : Śaṅkarāchārya : Śaṅkarācārya : 12 others also changed
+2714 : aparArkaH : yAjYavakyasmfti : yAjYavalkyasmfti
+2908 : apAka : Immaturity not being ripe : Immaturity, not being ripe
+3030 : apUrvin : varuRaH : taruRaH
+3048 : apehi : °karA : °kawA  : cf. pwg
+3228 : apsas : Rv. 1. 124. 6. : Rv. 1. 124. 7.
+3242 : abala : {%a.%} woman : a woman  : {%a.%} means 'a.' in italic type
+3308 : aBi : siYc to sprinkle on : sic to sprinkle on
+3344 : aBigamaH : Approahing : Approaching
+3404 : aBijYAnam : -SAkuntalam : -Sakuntalam
+3440 : aBihita : vāchyārtha : vācyārtha 
+6780 : Atman : dUrAlaBAH : durAlaBAH
+3542 : aBiBavaH : sUryakAntAstadanyatejoBiBavAdvamanti : sUryakAntAstadanyatejo'BiBavAdvamanti  : add ' (avagraha)
+3601 : aBiyoktf : tvayyutkfzwabale'Biyoktiri : tvayyutkfzwabale'Biyoktari
+3651 : aBivAdaH : pratyuttTAna : pratyutTAna
+3715 : aBiSas : = aBiSas : = aBiSaMs
+3926 : aByaYjanam : oil unguent : oil, unguent
+3936 : aByantarIkf : prAgalByAdvaktumiCanti : prAgalByAdvaktumicCanti
+3951 : aByarTanIya : or or desired : or desired
+3996 : aByAkASa : aByAkASa : aByAkASam : headword change
+4087 : aByupetya : aggreed : agreed
+4118 : amatiH : -amatIvat : -amatIvan
+4268 : ambA : Śikhaḍin : Śikhaṇḍin
+4271 : ambAlikA : Vichitravīrya : Vicitravīrya : 8 others also changed
+4282 : amBas : louts : lotus
+4288 : amrAtaH : species or : species of :
+4289 : amla : (°vetas) : (°vetasa)
+4289 : amla : aDyUzitam : aDyuzitam
+4346 : ayi : prythee : prithee :  prythee archaic
+4365 : ayogavaH : Sūdra : Śūdra : And 13 others
+4386 : araRiH : nirararRi : niraraRi : cf AV. 1,18,2
+4386 : araRiH : Ghṛtāchī : Ghṛtācī : and 2 other instances
+4388 : araRyam : °kArpAsi : °kArpAsI
+4289 : amla : vastūkaḥ : -vāsukam : cf. WIL
+4475 : aruj : Not fostering : Not festering
+4478 : aruRa : -RA, -Ri : -RA, -RI
+4478 : aruRa : -yuja : -yuj : cf. ap90
+4485 : arunDatI : Sitā : Sītā : cf. ap90
+13205 : kroqaH: post script : postscript : cf. ap90
+4551 : arjuna : -aBrama : -aBram
+4551 : arjuna : Kriṣṇa : Kṛṣṇa : and 7 other instances
+4564 : arTaH : -alaMkaraH : -alaMkAraH
+4564 : arTaH : -kfta : -kfta : -kft
+4564 : arTaH : ruzArTakArzyam : ruzArTakArSyam
+4564 : arTaH : a a king : a king
+4564 : arTaH : also °vEkalpyam : also °vEkalyam
 -----------------------------------------------------------------------
 

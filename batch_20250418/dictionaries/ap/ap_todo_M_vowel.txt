@@ -1,0 +1,32 @@
+2025-12-04
+csl-corrections/batch_20250418/dictionaries/ap
+
+3 TODOm  Global change in Sanskrit text with anusvara before vowel
+
+Suggest change 'M V' -> 'm V'  (V a vowel)
+  176 matches in 175 lines for "{#[^#]+M [aAiIuUfFeEoO]"
+  189 matches for "{#[^#]+m [aAiIuUfFeEoO]"
+  Should this global change be made ?
+
+
+* TODOm Case 133: 01/27/2025 dict=AP, L=2227, hw=anusṛ, user=srhodes
+old = diśaṃ anusarestiryagāyāmaśobhī 
+new = diśam anusarestiryagāyāmaśobhī 
+comment = Typo – Please note that the anusvāra must be changed to the nasal letter "m", because a vowel follows, thus: "diśam anusarestiryagāyāmaśobhī".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOm Case 227: 01/30/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = antaraṅgabhāvaṃ antaḥkaraṇaṃ
+new = antaraṅgabhāvam antaḥkaraṇaṃ
+comment = Typo – Please note that this is a "print change", as the anusvāra can never precede a following vowel.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOm Case 256: 01/31/2025 dict=AP, L=2335, hw=antara, user=srhodes
+old = antaraṃ antaram
+new = antaram antaram
+comment = Typo – Please note that this is a necessary "print change", because the anusvāra cannot precede a following vowel.
+status = PENDING
+------------------------------------------------------------------------
+
