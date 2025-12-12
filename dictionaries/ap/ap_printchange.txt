@@ -357,5 +357,92 @@ L code : Headword : Old  : New : Comment
 4564 : arTaH : ruzArTakArzyam : ruzArTakArSyam
 4564 : arTaH : a a king : a king
 4564 : arTaH : also °vEkalpyam : also °vEkalyam
+-----------------------------------------------------------------
+12-11-2025
+Source: Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102
+L code : Headword : Old  : New : Comment
+4582<pc>0228-1<k1>arDa : apart, partly : a part, partly
+4594<pc>0230-1<k1>arbudaH : Cordis myxa : Cordia myxa
+4620<pc>0231-1<k1>arSas : SuraRa : SUraRa
+4637<pc>0232-1<k1>alakaH : Bergera Kaenigii : Bergera Koenigii
+4662<pc>0233-2<k1>alam : -DUma a. : -DUma m.
+4692<pc>0235-1<k1>alAbumaya : bottle : bottle-gourd
+4639<pc>0232-2<k1>alaktaH : red lac, juice : red lac juice
+4938<pc>0243-2<k1>avawIwa : puruzopyavawIwaH : puruzo'pyavawIwaH
+4997<pc>0246-1<k1>avadAnam : see avadAna : see avadAha
+5047<pc>0248-1<k1>avanata :  with stooping; limbs; :  with stooping limbs;
+5551<pc>0266-2<k1>avinaSvara : Destructible : Indestructible
+5580<pc>0267-2<k1>aviyukta : absent : not absent
+5721<pc>0272-1<k1>avyaya : Brahmā : Brahma
+5637<pc>0269-1<k1>avisargin : -RI : -gI : cf. ap90, pwg
+5776<pc>0274-1<k1>aSakya : inpracticable : impracticable
+5782<pc>0274-2<k1>aSabda : Slender, abuse : Slander, abuse
+5818<pc>0275-2<k1>aSIrzaka : aSiram : aSiras
+5831<pc>0276-1<k1>aSeva : Giving pleasure : Not giving pleasure
+5850<pc>0277-1<k1>aSman : pannA : pAnnA
+5896<pc>0280-2<k1>aSvatTaH : Faicus Benjamina : Ficus Benjamina
+5909<pc>0281-2<k1>aSvinI : the from of a mare : the form of a mare
+5923<pc>0282-1<k1>azwan : a class of three : a class of eight
+5952<pc>0286-2<k1>astamike : astamike : astamIke 
+6153<pc>0294-2<k1>asutfp : asutfp : asutfpa : headword change
+6155<pc>0294-2<k1>asupta : °dfSa : °dfS
+6157<pc>0295-1<k1>asura : -rakzas : -rakzasa
+6196<pc>0296-2<k1>asOmya : °kfta : °kft :
+6198<pc>0296-2<k1>askanna : Not split : Not spilt
+5889<pc>0278-2<k1>aSlona : aSlona : aSloRa
+5923<pc>0282-1<k1>azwan : -asriya : -asri
+6254<pc>0298-2<k1>asmAka :  Ved. for asmAka :  Ved. for AsmAka
+6265<pc>0299-1<k1>asraH : -jita : -jit
+6265<pc>0299-1<k1>asraH : -jita = aSrajit :  -jit = astrajit
+6272<pc>0299-1<k1>asvaka : -asvakIya, -asvika : -asvakIya
+6300<pc>0300-2<k1>aham : -kft : -kfta
+6345<pc>0304-2<k1> : ApaYjara : ApiYjara
+6319<pc>0302-2<k1>ahIna : witness unfit : witness not unfit
+6373<pc>0305-1<k1>AkANkza : significancy : significance
+6382<pc>0305-2<k1>AkASaH : -garBI : -garBa
+6454<pc>0310-1<k1>AkzapAwikaH : arrange : arranger
+6512<pc>0313-1<k1>AgamaH : -nirakzepa : -nirapekza
+6396<pc>0307-1<k1>AkURita : Contracted, a little : Contracted a little
+6626<pc>0318-1<k1>Acitika : tryAcitaka : tryAcitika
+6712<pc>0321-1<k1>AQakaH : 64 Prasthas : 4 Prasthas
+6780<pc>0323-2<k1>Atman : -SAktiH : -SaktiH
+6810<pc>0327-1<k1>Adatta : -lakzmI : -lakzmi
+6821<pc>0327-2<k1>Adi : °antarvartin : °antaravartin
+6829<pc>0328-2<k1>Aditya : -patryaH : -patraH
+6853<pc>0330-1<k1>AdarSaH : (-lam) : :  remove n. gender
+6945<pc>0334-1<k1>Anandamaya : -yA : -yI
+7402<pc>0351-1<k1>AraH : -AvaliH : -AvalI
+7710<pc>0363-1<k1>AvirBU : kaTamAvirBazyati : kaTamAvirBazyati
+7718<pc>0363-2<k1>Avizya : Avizya : Avizwya : headword change
+7849<pc>0369-2<k1>ASrukarRa : ASrukarRa : ASrutkarRa : headword change
+7995<pc>0375-2<k1>Asyuta : Asyuta : AsyUta : headword change
+32960<pc>1594-2<k1>saMsftiH : Bhāg. 11. 26. 32. : Bhāg. 11. 25. 32. 
+8008<pc>0376-1<k1>Aha : 3rd. pers. sing. Pres. : 3rd. pers. sing. Perf.
+8051<pc>0378-2<k1>AhlAdaH : sAlhAdaM : sAhlAdaM
+8087<pc>0379-a2<k1>ikzuH : pumpion gourd, Cucurbita Pepo : pumpkin gourd, Cucurbita Pepo
+8164<pc>0383-2<k1>indakA : indakA : invakA :
+8171<pc>0383-2<k1>induH : -SaParin : -SaParI
+8282<pc>0391-2<k1>izwakA : P. VI. 3. 35. : P. VI. 3. 65.
+8353<pc>0394-1<k1>IzaH : cf. iz : cf. izaH
+8399<pc>0397-1<k1>ucca : -gira : -gir
+8404<pc>0397-2<k1>uccEH : uScErGozAByeti : uccErGozAByeti
+8526<pc>0401-2<k1>uquH : °paM The constellation : °parkzam The constellation
+8541<pc>0402-1<k1>uRqerakaH : roll-loaf : roll, loaf
+8138<pc>0382-2<k1>itkawaH : ({#ikqI#}) : (<ns>{#ikqI#}</ns>) : a Marathi word in the regional dialect
+8677<pc>0407-2<k1>uttara : last section of book : last section of a book
+8897<pc>0419-2<k1>udan : P. VI. 3. 28. : P. VI. 3. 58.
+8897<pc>0419-2<k1>udan : -vAvaDaH : -vIvaDaH
+9167<pc>0432-1<k1>udyAmata : udyAmata : udyamita : headword change
+8733<pc>0411-2<k1>utpacita : utpacita : utpAcita : headword change
+8803<pc>0414-2<k1>utPulliNga : utPulliNga : utPuliNga : headword change
+8821<pc>0415-2<k1>utsavaH : Kondividu : Koṇḍavīḍu
+8864<pc>0417-2<k1>utsrotas : abasrotas : arvAksrotas
+8925<pc>0421-1<k1>udavasya : {%a.%} : {%ind.%}
+9285<pc>0436-1<k1>unnAhaH : Excess, abund : Excess, abundance
+19011<pc>0915-1<k1>nirRayam : nirRayam : nirRayanam
+7793<pc>0366-1<k1>ASArikaH : ASArikaH : ASarIkaH : headword change
+9516<pc>0445-2<k1>upajaras : upajaras : upajarasam : headword change
+9514<pc>0445-2<k1>upajApaH : treason instigating to rebellion : treason, instigating to rebellion
+9610<pc>0449-2<k1>upaDAtuH : rAtiSca : rItiSca
 -----------------------------------------------------------------------
-

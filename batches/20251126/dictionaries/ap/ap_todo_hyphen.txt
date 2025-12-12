@@ -1,0 +1,855 @@
+ap_todo_hyphen.txt for 20251126 batch
+ap_todo_hyphen.txt
+123 cases from ap_correctionform.txt (lines start with '* TODO-')
+  These proposed changes have not been done as of now.
+
+
+* TODO- Case 11: 04/19/2025 dict=AP, L=4582, hw=ardha, user=srhodes
+old = demi-god
+new = demigod
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. There is no need to Honor Apte for an error in spelling. If you choose not to make this correction, please remember this: Sanskrit prides itself on saving even a "mātra"; and I say, "even a hyphen" that is not needed in the English language. Also, please note that this compound will not be used in Sanskrit in a hyphenated form such as "ardha-devaḥ", which simply proves my point. If all compounds were hyphenated in Sanskrit, then we would all be suffering from headaches.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 24: 04/20/2025 dict=AP, L=4582, hw=ardha, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 33: 04/20/2025 dict=AP, L=4582, hw=ardha, user=srhodes
+old = half-moonshaped
+new = half-moon-shaped
+comment = Typo – Please note that this correction follows MW dictionary, and seems to be the more correct form.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 42: 04/21/2025 dict=AP, L=4582, hw=ardha, user=srhodes
+old = half way
+new = halfway
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 45: 04/21/2025 dict=AP, L=4582, hw=ardha, user=srhodes
+old = mid-day
+new = midday
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 57: 04/23/2025 dict=AP, L=4606, hw=aryaman, user=srhodes
+old = bosom-friend, play-fellow
+new = bosom friend, playfellow
+comment = Typo – Please note that these two corrections appear to be the current standard.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 58: 04/23/2025 dict=AP, L=4608, hw=aryamyaḥ, user=srhodes
+old = bosom-friend
+new = bosom friend
+comment = Typo – Please note that this correction appears to be the current standard.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 62: 04/23/2025 dict=AP, L=4620, hw=arśas, user=srhodes
+old = butter-milk
+new = buttermilk
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 118: 04/27/2025 dict=AP, L=4742, hw=alpa, user=srhodes
+old = shortlived
+new = short-lived
+comment = Typo – Please note that the general usage is with a hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 146: 04/29/2025 dict=AP, L=4785, hw=avakartanam, user=srhodes
+old = Battle field
+new = Battlefield
+comment = Typo – Please note that generally this is written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 157: 04/30/2025 dict=AP, L=4810, hw=avakriyā, user=srhodes
+old = non-performance
+new = nonperformance
+comment = Typo – Please note that the "hyphen" is generally not used, according to the current standard. And, even if some consider it optional, why waste the space, when Sanskrit prides itself on brevity.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 178: 05/02/2025 dict=AP, L=4883, hw=avaghūrṇaḥ, user=srhodes
+old = whirl-pool
+new = whirlpool
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 244: 05/08/2025 dict=AP, L=5057, hw=avanāṭa, user=srhodes
+old = flat nosed
+new = flat-nosed
+comment = Typo – Please note that this correction follows Apte's own usage in other definitions such as "avaṭīṭa". In both Sanskrit and English, we must be consitent!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 345: 05/22/2025 dict=AP, L=4462, hw=ariṣam, user=srhodes
+old = down-pour
+new = downpour
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 346: 05/22/2025 dict=AP, L=4096, hw=abhram, user=srhodes
+old = down-pour
+new = downpour
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 347: 05/22/2025 dict=AP, L=5585, hw=avirala, user=srhodes
+old = down-pour
+new = downpour
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 424: 05/30/2025 dict=AP, L=5890, hw=aśvaḥ, user=srhodes
+old = horse-back
+new = horseback
+comment = Typo – Please note that the "hyphen" is NOT needed here. Please consider this as a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 439: 06/01/2025 dict=AP, L=5890, hw=aśvaḥ, user=srhodes
+old = text-book
+new = textbook
+comment = Typo – Please note that this is better written as a single word, without e "hyphen".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 463: 06/03/2025 dict=AP, L=5923, hw=aṣṭan, user=srhodes
+old = eight-fold
+new = eightfold
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- dup Case 464: 06/03/2025 dict=AP, L=5923, hw=aṣṭan, user=srhodes
+old = eight-fold
+new = eightfold
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- dup Case 465: 06/03/2025 dict=AP, L=5923, hw=aṣṭan, user=srhodes
+old = eight-fold
+new = eightfold
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 706: 06/28/2025 dict=AP, L=6454, hw=ākṣapāṭikaḥ, user=srhodes
+old = law suits
+new = lawsuits
+comment = Typo – Please note that this is better written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 808: 07/05/2025 dict=AP, L=6625, hw=ācita, user=srhodes
+old = cart-load
+new = cartload
+comment = Typo – Please note that this word may be better written without the "hyphen", and therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 817: 07/05/2025 dict=AP, L=6639, hw=ācchurita, user=srhodes
+old = horse-laugh
+new = horselaugh
+comment = Typo – Please note that this word is better written without the "hyphen", and therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 818: 07/05/2025 dict=AP, L=6640, hw=ācchuritakam, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Please note that this word is better written without the "hyphen", and therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 819: 07/05/2025 dict=AP, L=6640, hw=ācchuritakam, user=srhodes
+old = horse-laugh
+new = horselaugh
+comment = Typo – Please note that this word is better written without the "hyphen", and therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 820: 07/05/2025 dict=AP, L=6640, hw=ācchuritakam, user=srhodes
+old = horse-laugh
+new = horselaugh
+comment = Typo – Please note that this word is better written without the "hyphen", and therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 824: 07/06/2025 dict=AP, L=6654, hw=ājānaḥ, user=srhodes
+old = Birth-place
+new = Birthplace
+comment = Typo – Please note that this word is better written without the "hyphen", and therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 826: 07/06/2025 dict=AP, L=6662, hw=ājiḥ, user=srhodes
+old = race-course
+new = racecourse
+comment = Typo – Please note that this word is better written without the "hyphen", and therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 832: 07/06/2025 dict=AP, L=6668, hw=ājiri, user=srhodes
+old = court-yard
+new = courtyard
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 833: 07/06/2025 dict=AP, L=6669, hw=ājireya, user=srhodes
+old = court-yard
+new = courtyard
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 857: 07/08/2025 dict=AP, L=6730, hw=ātañcanam, user=srhodes
+old = butter-milk
+new = buttermilk
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 859: 07/08/2025 dict=AP, L=6732, hw=ātata, user=srhodes
+old = bow-string
+new = bowstring
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 863: 07/08/2025 dict=AP, L=6740, hw=ātapa, user=srhodes
+old = sun-stroke
+new = sunstroke
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well. By way of example, a similar case is the word: "heatstroke". No Hyphen!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 871: 07/09/2025 dict=AP, L=6757, hw=ātiśayika, user=srhodes
+old = Super-abundant
+new = Superabundant
+comment = Typo – In the "Spirit of Sanskrit", which prides itself on "conciseness", we should eliminate any "hyphen" that is not needed in the English language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 873: 07/09/2025 dict=AP, L=6768, hw=ātura, user=srhodes
+old = over-anxious
+new = overanxious
+comment = In the "Spirit of Sanskrit", which prides itself on "conciseness", we should eliminate any "hyphen" that is not needed in the English language. Therefore, please consider this to be a "Global Correction".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 874: 07/09/2025 dict=AP, L=1776, hw=anutka, user=srhodes
+old = over-anxious
+new = overanxious
+comment = In the "Spirit of Sanskrit", which prides itself on "conciseness", we should eliminate any "hyphen" that is not needed in the English language. Therefore, please consider this to be a "Global Correction".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 877: 07/09/2025 dict=AP, L=6774, hw=ātarpaṇam, user=srhodes
+old = White-washing
+new = Whitewashing
+comment = In the "Spirit of Sanskrit", which prides itself on "conciseness", we should eliminate any "hyphen" that is not needed in the English language. Therefore, please consider this to be a "Global Correction".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 882: 07/10/2025 dict=AP, L=6780, hw=ātman, user=srhodes
+old = self dependence
+new = self-dependence
+comment = Typo – Please note that this definition is better written with a "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 963: 07/17/2025 dict=AP, L=6917, hw=ādhmānam, user=srhodes
+old = blow-pipe
+new = blowpipe
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 965: 07/17/2025 dict=AP, L=6930, hw=ādhvanika, user=srhodes
+old = way-faring
+new = wayfaring
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 967: 07/18/2025 dict=AP, L=6934, hw=ānakaḥ, user=srhodes
+old = kettle-drum
+new = kettledrum
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 991: 07/20/2025 dict=AP, L=7030, hw=āntarikṣa, user=srhodes
+old = Rain-water
+new = Rainwater
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1086: 07/31/2025 dict=AP, L=7402, hw=āraḥ, user=srhodes
+old = arrow-head
+new = arrowhead
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1138: 08/03/2025 dict=AP, L=7481, hw=āropaḥ, user=srhodes
+old = Super-imposition
+new = Superimposition
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1140: 08/03/2025 dict=AP, L=7488, hw=ārohaṇam, user=srhodes
+old = stair-case
+new = staircase
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1141: 08/03/2025 dict=AP, L=7488, hw=ārohaṇam, user=srhodes
+old = stair-case
+new = staircase
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1157: 08/05/2025 dict=AP, L=7538, hw=ārya, user=srhodes
+old = eight-fold
+new = eightfold
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1164: 08/07/2025 dict=AP, L=7583, hw=ālātam, user=srhodes
+old = fire-brand
+new = firebrand
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1175: 08/07/2025 dict=AP, L=7598, hw=āliṅgin, user=srhodes
+old = barley-corn
+new = barleycorn
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1230: 08/10/2025 dict=AP, L=7688, hw=āvigna, user=srhodes
+old = fruit-tree
+new = fruit tree
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1245: 08/11/2025 dict=AP, L=7707, hw=āveśanam, user=srhodes
+old = work-shop
+new = workshop
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1263: 08/12/2025 dict=AP, L=7742, hw=āvartaḥ, user=srhodes
+old = eye-brows
+new = eyebrows
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well. The target search should be made in the singular which will cover both singular and plural cases: "eye-brow" ——— becomes ——— "eyebrow".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1265: 08/12/2025 dict=AP, L=7744, hw=āvartana, user=srhodes
+old = Mid-day
+new = Midday
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1346: 08/20/2025 dict=AP, L=7880, hw=āṣṭrī, user=srhodes
+old = fire-place
+new = fireplace
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1361: 08/22/2025 dict=AP, L=7903, hw=āsanna, user=srhodes
+old = body-guard
+new = bodyguard
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1362: 08/22/2025 dict=AP, L=7911, hw=āsandaḥ, user=srhodes
+old = arm-chair
+new = armchair
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1366: 08/22/2025 dict=AP, L=32577, hw=śruta, user=srhodes
+old = Wellknown
+new = Well-known
+comment = Typo – Please note that this definition is better written with a "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1382: 08/26/2025 dict=AP, L=7967, hw=āsthānam, user=srhodes
+old = assembly-room
+new = assembly room
+comment = Typo – Please note that this meaning is better written as TWO Words, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1428: 08/29/2025 dict=AP, L=8018, hw=āghātaḥ, user=srhodes
+old = slaughter-house
+new = slaughterhouse
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1429: 08/29/2025 dict=AP, L=8019, hw=āghātanam, user=srhodes
+old = slaughter-house
+new = slaughterhouse
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1433: 08/29/2025 dict=AP, L=8061, hw=āhavaḥ, user=srhodes
+old = Battle-field
+new = Battlefield
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1435: 08/29/2025 dict=AP, L=8036, hw=āhukaḥ, user=srhodes
+old = grand-father
+new = grandfather
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1436: 08/29/2025 dict=AP, L=28115, hw=lepaḥ, user=srhodes
+old = grand-father
+new = grandfather
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1437: 08/29/2025 dict=AP, L=16848, hw=tri, user=srhodes
+old = grand-father
+new = grandfather
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1438: 08/29/2025 dict=AP, L=394, hw=aja, user=srhodes
+old = grand-father
+new = grandfather
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1459: 08/31/2025 dict=AP, L=8061, hw=āhavaḥ, user=srhodes
+old = Battle-field
+new = Battlefield
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1462: 09/01/2025 dict=AP, L=8087, hw=ikṣuḥ, user=srhodes
+old = Sugar-cane
+new = Sugarcane
+comment = Typo – Please note that this word is better written without the "hyphen" ; HOWEVER, there is the option of either: "sugar cane" (two words)  OR  "sugarcane" (one word). In such cases, I prefer ONE WORD whenever possible – and this is in the spirit of Sanskrit itself which is supremely concise in words. Therefore this may be considered as a Global correction as well, according to your preference.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1463: 09/01/2025 dict=AP, L=8087, hw=ikṣuḥ, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = Typo – Please note that this word is better written without the "hyphen" ; HOWEVER, there is the option of either: "sugar cane" (two words)  OR  "sugarcane" (one word). In such cases, I prefer ONE WORD whenever possible – and this is in the spirit of Sanskrit itself which is supremely concise in words. Therefore this may be considered as a Global correction as well, according to your preference.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1464: 09/01/2025 dict=AP, L=8087, hw=ikṣuḥ, user=srhodes
+old = sugar-mill
+new = sugar mill
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1480: 09/03/2025 dict=AP, L=8125, hw=itara, user=srhodes
+old = inter-connection
+new = interconnection
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1534: 09/06/2025 dict=AP, L=8176, hw=indra, user=srhodes
+old = rain-water
+new = rainwater
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1569: 09/09/2025 dict=AP, L=17542, hw=devya, user=srhodes
+old = god-head
+new = godhead
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1573: 09/09/2025 dict=AP, L=17542, hw=devya, user=srhodes
+old = god-head
+new = godhead
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1612: 09/14/2025 dict=AP, L=8241, hw=iva, user=srhodes
+old = what-like
+new = what like
+comment = Typo – Please note that this word is better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1613: 09/14/2025 dict=AP, L=8241, hw=iva, user=srhodes
+old = what-like
+new = what like
+comment = Typo – Please note that this word is better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1614: 09/14/2025 dict=AP, L=8241, hw=iva, user=srhodes
+old = what-like
+new = what like
+comment = Typo – Please note that this word is better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1622: 09/16/2025 dict=AP, L=8268, hw=iṣikā, user=srhodes
+old = eye-ball
+new = eyeball
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1624: 09/16/2025 dict=AP, L=8270, hw=iṣustrikāṇḍā, user=srhodes
+old = three-fold
+new = threefold
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. You may also consider making this Global Correction for all similar cases: "twofold, fourfold, fivefold etc." !
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1651: 09/20/2025 dict=AP, L=8328, hw=īrma, user=srhodes
+old = fore-quarter
+new = forequarter
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1696: 09/26/2025 dict=AP, L=8402, hw=uccakaiḥ, user=srhodes
+old = pre-eminently
+new = preeminently
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1735: 10/01/2025 dict=AP, L=8522, hw=uñchanam, user=srhodes
+old = market-places
+new = marketplaces
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. The correction should target the SINGULAR form which will automatically correct the plural: "market-place" —becomes— "marketplace".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1781: 10/03/2025 dict=AP, L=8591, hw=utkūla, user=srhodes
+old = up-hill
+new = uphill
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1782: 10/03/2025 dict=AP, L=8591, hw=utkūla, user=srhodes
+old = up-hill
+new = uphill
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1783: 10/03/2025 dict=AP, L=8591, hw=utkūla, user=srhodes
+old = up-hill
+new = uphill
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1800: 10/04/2025 dict=AP, L=8633, hw=utkleśaḥ, user=srhodes
+old = sea-sickness
+new = seasickness
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1811: 10/06/2025 dict=AP, L=8662, hw=uttānita, user=srhodes
+old = up-lifted
+new = uplifted
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1830: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = north-eastward
+new = northeastward
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1831: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = north-eastern
+new = northeastern
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1832: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1833: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1834: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1835: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1836: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = cover lid
+new = coverlid
+comment = Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1839: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = law-suit
+new = lawsuit
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1840: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = law-suit
+new = lawsuit
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1845: 10/08/2025 dict=AP, L=8677, hw=uttara, user=srhodes
+old = jaw-bone
+new = jawbone
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1854: 10/10/2025 dict=AP, L=8724, hw=utthāna, user=srhodes
+old = court-yard
+new = courtyard
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1855: 10/11/2025 dict=AP, L=8731, hw=utpakṣman, user=srhodes
+old = up-turned
+new = upturned
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1869: 10/12/2025 dict=AP, L=8756, hw=utpāda, user=srhodes
+old = up-lifted
+new = uplifted
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1893: 10/14/2025 dict=AP, L=8810, hw=utsaṅgin, user=srhodes
+old = eye-lids
+new = eyelids
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. The correction should target the SINGULAR form which will automatically correct the plural: "eye-lid" —becomes— "eyelid".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1926: 10/16/2025 dict=AP, L=8844, hw=utsārakaḥ, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1936: 10/17/2025 dict=AP, L=8855, hw=utsarpaḥ, user=srhodes
+old = Sun-rise
+new = Sunrise
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1958: 10/20/2025 dict=AP, L=8897, hw=udan, user=srhodes
+old = thunder shower; water-spout.
+new = thundershower; waterspout.
+comment = Typo – Please note that these two corrections are better written as single words, without "hyphen" and without "a space".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1964: 10/21/2025 dict=AP, L=8911, hw=udaram, user=srhodes
+old = tape-worm
+new = tapeworm
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1965: 10/21/2025 dict=AP, L=8911, hw=udaram, user=srhodes
+old = belly-band
+new = bellyband
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1982: 10/22/2025 dict=AP, L=8953, hw=udāsthita, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1996: 10/23/2025 dict=AP, L=8966, hw=uditvara, user=srhodes
+old = extra-ordinary
+new = extraordinary
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk: Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2030: 10/26/2025 dict=AP, L=9029, hw=udghāṭana, user=srhodes
+old = water-wheel
+new = waterwheel
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2084: 10/31/2025 dict=AP, L=9148, hw=udbhava, user=srhodes
+old = birth-place
+new = birthplace
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2209: 11/11/2025 dict=AP, L=9397, hw=upakurvāṇa, user=srhodes
+old = house-holder
+new = householder
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2211: 11/11/2025 dict=AP, L=9392, hw=upakāraḥ, user=srhodes
+old = gate-ways
+new = gateways
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2219: 11/12/2025 dict=AP, L=9418, hw=upakrīḍā, user=srhodes
+old = play-ground
+new = playground
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2242: 11/15/2025 dict=AP, L=9477, hw=upacakṣus, user=srhodes
+old = eye-glass
+new = eyeglass
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2247: 11/16/2025 dict=AP, L=9483, hw=upacāraḥ, user=srhodes
+old = love-affairs
+new = love affairs
+comment = Typo – Please note that this word is better written as TWO words, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees! The correction should target the SINGULAR form which will automatically correct the plural: "love-affair" —becomes— "love affair".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2284: 11/20/2025 dict=AP, L=9543, hw=upataptṛ, user=srhodes
+old = extra-ordinary
+new = extraordinary
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2286: 11/20/2025 dict=AP, L=9555, hw=upatyakā, user=srhodes
+old = low land
+new = lowland
+comment = Typo – Please note that these two words are better written as a single word. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2288: 11/20/2025 dict=AP, L=9557, hw=upadaṃśaḥ, user=srhodes
+old = horse-radish
+new = horseradish
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2314: 11/22/2025 dict=AP, L=9597, hw=upadvāram, user=srhodes
+old = side-door
+new = side door
+comment = Typo – Please note that this word is better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2318: 11/22/2025 dict=AP, L=9599, hw=upadharmaḥ, user=srhodes
+old = by-law
+new = bylaw
+comment = Typo – Please note that this word is better written as one word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2330: 11/23/2025 dict=AP, L=9625, hw=upanakham, user=srhodes
+old = finger-nails
+new = fingernails
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees! The correction should target the SINGULAR form which will automatically correct the plural: "finger-nail" —becomes— "fingernail".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2354: 11/26/2025 dict=AP, L=9685, hw=upanyāsaḥ, user=srhodes
+old = juxta-position
+new = juxtaposition
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+

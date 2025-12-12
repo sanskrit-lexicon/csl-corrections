@@ -1,0 +1,42 @@
+ap_global_san.txt
+
+systematic changes to spelling in Sanskrit text in Apte(57) (ap.txt)
+The spellings are in 'slp1', which conforms to the cdsl kosha convention.
+
+In ap.txt,  Sanskrit text is within markup {#...#} and in slp1 transliteration
+
+This contains many suggestions, derived from Scott's corrections,
+of global changes within Sanskrit text.
+
+The objective is to make these changes globally,
+  but to avoid 'False positives'.
+
+
+"Bab" ->  "Bav"
+"barD" -> "varD" 
+"bart" -> "vart"
+"Bub" -> "Buv" 
+" sba" -> " sva" 
+"#sba" -> "#sva"   sva at start of a Sanskrit-text segment
+" sarb" -> " sarv"  
+"#sarb" -> "#sarv"  
+"eba " -> "eva " 
+"eba#" -> "eva#"  
+"dEba" -> "dEva" 
+" bE " -> " vE "  
+"Db" -> "Dv"  
+"pUrba" -> "pUrva" 
+"bidyA" -> "vidyA"  
+"Sib" -> "Siv"  
+"zb" -> "zv"  
+"iba " -> "iva "  
+"iba#" -> "iva#"   iba at end of a Sanskrit-text segment
+"jb" -> "jv" 
+" biS" -> " viS"
+
+
+"kiyA" -> "kriyA"
+"koD" -> "kroD"
+"liqg" -> "liNg"
+"qmu" -> "Nmu"
+"dda" -> "df"

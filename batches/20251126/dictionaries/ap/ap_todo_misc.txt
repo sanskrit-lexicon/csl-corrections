@@ -1,0 +1,98 @@
+ap_todo_misc.txt
+12 cases from ap_correctionform.txt (lines start with '* TODO ')
+  These proposed changes have not been done as of now.
+
+
+* TODO Case 35: 04/20/2025 dict=AP, L=4582, hw=ardha, user=srhodes
+old = -candrākṛti
+new = -candrākṛta
+comment = Typo – I hope that Andhrabharati will clarify the spelling of this Headword. Apte Dictionary gives: "ardhacandrākṛti" ; while MW gives "ardhacandrākṛta". The question for Andhrabharati is this: "Are both forms correct?" OR is one of the two forms incorrect?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 532: 06/12/2025 dict=AP, L=6153, hw=asutṛp, user=srhodes
+old = asutṛp
+new = asutṛpa
+comment = Typo – ALSO, Please note that this "print change" is indicated by the masculine form given here as "-paḥ", ending in the vowel "a" !
+status = PENDING see 531
+------------------------------------------------------------------------
+
+* TODO Case 575: 06/17/2025 dict=AP, L=6265, hw=asraḥ, user=srhodes
+old = -jita
+new = -jit
+comment = Typo – The correct word appears to be "astrajit" as listed elsewhere by Apte himself. However here we should probably at least consider the above correction as a "print change" which is approved by SKD.
+status = PENDING
+** pc: 6265<pc>0299-1<k1>asraH : -jita : -jit
+------------------------------------------------------------------------
+
+* TODO Case 581: 06/17/2025 dict=AP, L=6272, hw=asvaka, user=srhodes
+old = -Comp. LB -ga a. Ved. not going LB Page0299-2 LB to one's home, homeless; abāstumenamasvagamaprajasaṃ karoti  Av. 12. 5. 45.  °tā Ved. homelessness; asvagatā parihrutā  Av. 12. 5. 40  LB -jātiḥ a. of a different caste or kind; sbā caiva kuryātsarbeṣāṃ nākhajātiḥ kathaṃcana  Ms. 9. 86.
+new = Please note that all three compounds quoted above (with their respective definitions and citations) should be relocated and placed under the Headword "asva [ID=6271]", and all these compounds marked as a "print change" in regards to the placement correction.
+comment = Compound Placement Error
+status = PENDING  Jim: quite complicated. Should be reconsidered sometime
+------------------------------------------------------------------------
+
+* TODO Case 594: 06/19/2025 dict=AP, L=6298, hw=ahan, user=srhodes
+old = ahaḥ, ham or to ahna
+new = ahaḥ, aham or to ahna
+comment = Typo – Please note that this is a suggested "print change".
+status = PENDING  Jim: example compounds needed before deciding
+------------------------------------------------------------------------
+
+* TODO Case 1103: 08/01/2025 dict=AP, L=7438, hw=ārātīya, user=srhodes
+old = P. IV. 2. 104
+new = P. IV. 2. 114
+comment = Typo – Please note that this is a "print change".
+status = PENDING Jim:  Andhrabharati please check. PWG has 104
+
+------------------------------------------------------------------------
+
+* TODO Case 1556: 09/08/2025 dict=AP, L=8176, hw=Indra, user=srhodes
+old = 2 Indra's weapon
+new = 2 Indra's banner
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1568: 09/08/2025 dict=AP, L=8176, hw=Indra, user=srhodes
+old = -cchadaḥ A necklace of pearls having 1008 strings.
+new = DELETE
+comment = Typo – Please note this appears to be an erroneous listing, as the spelling "indracchada" is very likely incorrect.
+status = PENDING Jim: mw indracCanda = "necklace consisting of 1008 strings"
+ ref: https://sanskrit-lexicon-scans.github.io/brihatsam/app1/?81,31
+   Jim agree "erroneous listing" should be dropped or else add {sic}.
+   Let Andhrabharati examine.
+------------------------------------------------------------------------
+
+* TODO Case 1738: 10/01/2025 dict=AP, L=8525, hw=uṭh, user=srhodes
+old = oṭhīt, uṭhitum
+new = auṭhīt, oṭhitum
+comment = Typo – Please note that there are TWO suggested "print changes" based upon what appears to be correct.
+status = PENDING  Jim "appears to be correct" insufficient reason for change
+------------------------------------------------------------------------
+
+* TODO Case 1770: 10/02/2025 dict=AP, L=8138, hw=itkaṭaḥ, user=srhodes
+old = See Below
+new = Andhrabharati has confirmed that the spelling: "ikḍī" is not a Sanskrit word, but rather a Marathi word in the regional dialect. His suggestion is to mark all such non-Skt. words separately as a simple means to address the issue. Perhaps Jim Funderburk would like to set the standard for addressing this issue of "marking non-Sanskrit words" for the sake of clarity.
+comment = See Above
+status = DONE
+Jim: cdsl markup '<ns>' (not-sanskrit) is used in a somewhat similar way in mw.
+   In this case, <ns>{#ikqI#}</ns> The tag has no effect on display.
+   I've made this change, but am leaving in this group so others may notice.
+** pc: 8138<pc>0382-2<k1>itkawaH : ({#ikqI#}) : (<ns>{#ikqI#}</ns>) : a Marathi word in the regional dialect
+------------------------------------------------------------------------
+
+* TODO dup Case 1771: 10/02/2025 dict=AP, L=8138, hw=itkaṭaḥ, user=srhodes
+old = See Below
+new = Andhrabharati has confirmed that the spelling: "ikḍī" is not a Sanskrit word, but rather a Marathi word in the regional dialect. His suggestion is to mark all such non-Skt. words separately as a simple means to address the issue. Perhaps Jim Funderburk would like to set the standard for addressing this issue of "marking non-Sanskrit words" for the sake of clarity.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 1773: 10/02/2025 dict=AP, L=8542, hw=uṇḍrapuṣpam, user=srhodes
+old = uṇḍrapuṣpam
+new = oḍrapuṣpam
+comment = Typo – Please note that Andhrabharati has confirmed this "print change". Also, please note that the correct spelling "oḍrapuṣpam" has already been printed by APTE under the Headword "oḍraḥ [ID=10855]"; therefore this independent listing with incorrect spelling: "uṇḍrapuṣpam [ID=8542]", could simply be DELETED; and the related definition given here: "The shoe-flower, Hibiscus Rosa Sinensis (Mar. jāsvaṃdī)" could be integrated into the correct listing under the Headword "oḍraḥ [ID=10855]" as the compound: "-puṣpam"
+status = PENDING  Jim: too complicated for me at the moment.
+------------------------------------------------------------------------
+
