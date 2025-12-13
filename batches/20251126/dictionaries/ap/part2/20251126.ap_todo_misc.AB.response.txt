@@ -1,0 +1,172 @@
+20251126.ap_todo_misc.AB.response.txt
+Andhrabharati responses to
+  ap_todo_misc.txt
+  12 cases from ap_correctionform.txt (lines start with '* TODO ')
+
+Note: Jim review, changes per AB EXCEPT:
+ case 532:  Jim agrees with Scott (asutṛp, asutṛpa)
+ case 1773: Insufficient reason to delete uṇḍrapuṣpam
+
+Scott might review further Case 1738 (oṭhīt, uṭhitum)
+
+* TODOx MW Case 35: 04/20/2025 dict=AP, L=4582, hw=ardha, user=srhodes
+old = -candrākṛti
+new = -candrākṛta
+comment = Typo – I hope that Andhrabharati will clarify the spelling of this Headword. Apte Dictionary gives: "ardhacandrākṛti" ; while MW gives "ardhacandrākṛta". The question for Andhrabharati is this: "Are both forms correct?" OR is one of the two forms incorrect?
+status = PENDING
+
+** AB comment:
+I go for "-ākṛti" as the suffix that means 'form', which is synonymous with "-ākāra"; "-ākṛta" does not give such a meaning! (So MW needs correction in this case.)
+** Jim. per AB: 1) no change to ap, print change to mw.
+------------------------------------------------------------------------
+
+* TODOx Case 531: (see case 532)  06/12/2025 dict=AP, L=6153, hw=asutṛp, user=srhodes
+old = asutṛp
+new = asutṛpa
+comment = Typo – Please note that this "print change" is indicated by the previous listing of the compound "asutṛp" under the Headword "asu [ID=6145]". Therefore, this second independently listed Headword must be different (in spelling) than the previously listed compound.
+status =   
+** pc: 6153<pc>0294-2<k1>asutfp : asutfp : asutfpa : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 532: 06/12/2025 dict=AP, L=6153, hw=asutṛp, user=srhodes
+old = asutṛp
+new = asutṛpa
+comment = Typo – ALSO, Please note that this "print change" is indicated by the masculine form given here as "-paḥ", ending in the vowel "a" !
+status = PENDING 
+
+** AB comment:
+I feel no correction is required in this entry! (it contains both the adj. asutṛp & the masc. asutṛpaḥ together); Jim may revert the correction done at Case 531.
+** Jim: Going with Scott here. No change. retaining 6153 as asutfpa.
+   acc. to pw and mw, asutfp and asutfpa both exist
+new status = DONE NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case 575: 06/17/2025 dict=AP, L=6265, hw=asraḥ, user=srhodes
+old = -jita
+new = -jit
+comment = Typo – The correct word appears to be "astrajit" as listed elsewhere by Apte himself. However here we should probably at least consider the above correction as a "print change" which is approved by SKD.
+status = DONE
+** pc: 6265<pc>0299-1<k1>asraH : -jita : -jit
+
+** AB comment:
+AP90 has the word correctly as "-jit"; the ending halant got missed in AP57. [And "asrajit" is just a v.l. form of "astrajit".]
+** Jim:  nothing to do here, "-jit" already changed
+------------------------------------------------------------------------
+
+* TODOx Case 581: 06/17/2025 dict=AP, L=6272, hw=asvaka, user=srhodes
+old = -Comp. LB -ga a. Ved. not going LB Page0299-2 LB to one's home, homeless; abāstumenamasvagamaprajasaṃ karoti  Av. 12. 5. 45.  °tā Ved. homelessness; asvagatā parihrutā  Av. 12. 5. 40  LB -jātiḥ a. of a different caste or kind; sbā caiva kuryātsarbeṣāṃ nākhajātiḥ kathaṃcana  Ms. 9. 86.
+new = Please note that all three compounds quoted above (with their respective definitions and citations) should be relocated and placed under the Headword "asva [ID=6271]", and all these compounds marked as a "print change" in regards to the placement correction.
+comment = Compound Placement Error
+status = DONE Jim: quite complicated. Should be reconsidered sometime
+
+** AB comment:
+Nothing complicated here! I appreciate Scott's keen eye in identifying such errors as this!
+The citations under these Comp(ound)-words ["-ga": "avāstum enam asvagam aprajasaṃ"; "°tā": "asvagatā parihrutā"; "-jātiḥ": "svā caiva kuryātsarveṣāṃ nāsvajātiḥ"] clearly show that these Comp. words should come under "asva & not under "asvaka". [I am surprised that Scott did not mention the typo errors in these citations (in the CDSL text)!!]
+** Jim: moved the compounds, constructed print change. per AB/Scott
+------------------------------------------------------------------------
+
+* TODOx Case 594: 06/19/2025 dict=AP, L=6298, hw=ahan, user=srhodes
+old = ahaḥ, ham or to ahna
+new = ahaḥ, aham or to ahna
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE  Jim: example compounds needed before deciding
+
+** AB comment:
+I would suggest just to add a hyphen before "ham" as in AP90 (ahaḥ, -haṃ or to ahna); we may note here that AP57 has differed with AP90 in having 'ṃ' properly replaced with the vargānta letters (in this case, 'ṃ' with 'm').
+** Jim pc: 6298 : ahan : ahaH, ham or to ahna : ahaH, -haM or to ahna
+------------------------------------------------------------------------
+
+* TODOx Case 1103: 08/01/2025 dict=AP, L=7438, hw=ārātīya, user=srhodes
+old = P. IV. 2. 104
+new = P. IV. 2. 114
+comment = Typo – Please note that this is a "print change".
+status = DONE Jim:  Andhrabharati please check. PWG has 104
+
+** AB comment:
+आरातीयः is at P. IV. 2. 104 (in सिद्धान्तकौमुदी) & at 114 (in काशिका); but see what 114 additionally contains (in S.C. Vasu's english translation based on काशिका)--
+“This rule being a subsequent one, debars the following preceding rules, in case of conflict of rules (१.४.२):
+--१. The rule relating to Indeclinables (१०४), २. The rule relating to words ending in तीर and रूप्य (१०६), ३. The rule relating to Villages of North-folk (१०९), ४. The rule relating to penultimate क (११०). 
+Thus इह-इहत्य; but आरात्-आरातीयः करवतीर-कारवतीरम्; but वायसतीर-वायसतीरीयः चणाररूप्य-चाणाररूप्यम्; but माणिरूप्य-माणिरूप्यकः ४.२.२१ शिवपुर-शैवपुरम्; but वाडवकर्ष-वाडवकर्षीय; निलीनक-नैलीनकः; but औलूक-औलूकीयः ॥”
+
+As such, I suggest either to (a) (simply) change IV.2.104 as IV.2.114 or (b) append "Vārtt. 9" to IV.2.104 (as in the PWG)
+(Scott, I wonder how you arrived at this correction!!)
+** Jim: P. IV. 2. 114  (print change)
+------------------------------------------------------------------------
+
+* TODOx Case 1556: 09/08/2025 dict=AP, L=8176, hw=Indra, user=srhodes
+old = 2 Indra's weapon
+new = 2 Indra's banner
+comment = Typo – Please note that this is a suggested "print change", pending approval by Andhrabharati.
+status = DONE
+
+** AB comment:
+Yes; we have to correct this, as it is Indradhvaja (and not Indra's weapon) that is being referred to, in the citation here "विस्रस्ताकल्पकेशस्रगिन्द्रध्वज इवापतत्". 
+However, the Indradhvaja is not Indra's flag (banner) "par se"; but is a flagstaff (column) erected on a festive day, which is described in some famous commentaries (like Bhāvārthadīpikā of Śrīdharasvāmī & Bhāgavatacandracandrikā of Vīrarāghavācārya); Śrīdharasvāmi's commentary is given (in English) at https://vedabase.io/en/library/sb/10/44/22-23/
+** Jim pc: 
+------------------------------------------------------------------------
+
+* TODOx Case 1568: 09/08/2025 dict=AP, L=8176, hw=Indra, user=srhodes
+old = -cchadaḥ A necklace of pearls having 1008 strings.
+new = DELETE
+comment = Typo – Please note this appears to be an erroneous listing, as the spelling "indracchada" is very likely incorrect.
+status = PENDING Jim: mw indracCanda = "necklace consisting of 1008 strings"
+ ref: https://sanskrit-lexicon-scans.github.io/brihatsam/app1/?81,31
+   Jim agree "erroneous listing" should be dropped or else add {sic}.
+   Let Andhrabharati examine.
+
+** AB comment:
+While "indracchandas" is well-known in Sanskrit (and appears in various lexicons, incl. in the AP57 under discussion!), "indracchadas" also exists but only in Jaina Sanskrit (similar to Buddhist Hybrid Sanskrit) works.
+So no need to drop the entry, but we should appreciate the AP57 editors in catching this term.
+Jim: no change
+------------------------------------------------------------------------
+
+* TODOx Case 1738: 10/01/2025 dict=AP, L=8525, hw=uṭh, user=srhodes
+old = oṭhīt, uṭhitum
+new = auṭhīt, oṭhitum
+comment = Typo – Please note that there are TWO suggested "print changes" based upon what appears to be correct.
+status = PENDING  Jim "appears to be correct" insufficient reason for change
+
+** AB comment:
+I agree with Jim here.
+** Jim: NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case 1770: 10/02/2025 dict=AP, L=8138, hw=itkaṭaḥ, user=srhodes
+old = See Below
+new = Andhrabharati has confirmed that the spelling: "ikḍī" is not a Sanskrit word, but rather a Marathi word in the regional dialect. His suggestion is to mark all such non-Skt. words separately as a simple means to address the issue. Perhaps Jim Funderburk would like to set the standard for addressing this issue of "marking non-Sanskrit words" for the sake of clarity.
+comment = See Above
+status = DONE
+Jim: cdsl markup '<ns>' (not-sanskrit) is used in a somewhat similar way in mw.
+   In this case, <ns>{#ikqI#}</ns> The tag has no effect on display.
+   I've made this change, but am leaving in this group so others may notice.
+** pc: 8138<pc>0382-2<k1>itkawaH : ({#ikqI#}) : (<ns>{#ikqI#}</ns>) : a Marathi word in the regional dialect
+
+** AB comment:
+Nothing pending to do; the case has been resolved by Jim already.
+** Jim: Should have been in the 'done' group!
+------------------------------------------------------------------------
+
+* TODOx dup Case 1771: 10/02/2025 dict=AP, L=8138, hw=itkaṭaḥ, user=srhodes
+old = See Below
+new = Andhrabharati has confirmed that the spelling: "ikḍī" is not a Sanskrit word, but rather a Marathi word in the regional dialect. His suggestion is to mark all such non-Skt. words separately as a simple means to address the issue. Perhaps Jim Funderburk would like to set the standard for addressing this issue of "marking non-Sanskrit words" for the sake of clarity.
+comment = See Above
+status = PENDING
+
+** AB comment:
+Nothing pending to do; the case has been resolved by Jim already (at Case 1770 above).
+------------------------------------------------------------------------
+
+* TODOx Case 1773: 10/02/2025 dict=AP, L=8542, hw=uṇḍrapuṣpam, user=srhodes
+old = uṇḍrapuṣpam
+new = oḍrapuṣpam
+comment = Typo – Please note that Andhrabharati has confirmed this "print change". Also, please note that the correct spelling "oḍrapuṣpam" has already been printed by APTE under the Headword "oḍraḥ [ID=10855]"; therefore this independent listing with incorrect spelling: "uṇḍrapuṣpam [ID=8542]", could simply be DELETED; and the related definition given here: "The shoe-flower, Hibiscus Rosa Sinensis (Mar. jāsvaṃdī)" could be integrated into the correct listing under the Headword "oḍraḥ [ID=10855]" as the compound: "-puṣpam"
+status = PENDING  Jim: too complicated for me at the moment.
+
+** AB comment:
+I am not aware if "oḍrapuṣpam" has a v.l. form of "uṇḍrapuṣpam". We may simply delete the "oḍrapuṣpam" singularly occurring in AP57.
+No need to merge its body portion with "oḍrapuṣpam" as Scott suggested.
+** Jim : NO CHANGE. No good reason to delete uṇḍrapuṣpam
+  "delete the "oḍrapuṣpam" I think AB meant "uṇḍrapuṣpam"
+  
+------------------------------------------------------------------------
+

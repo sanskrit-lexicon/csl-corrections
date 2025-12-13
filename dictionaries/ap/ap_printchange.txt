@@ -385,7 +385,7 @@ L code : Headword : Old  : New : Comment
 5909<pc>0281-2<k1>aSvinI : the from of a mare : the form of a mare
 5923<pc>0282-1<k1>azwan : a class of three : a class of eight
 5952<pc>0286-2<k1>astamike : astamike : astamIke 
-6153<pc>0294-2<k1>asutfp : asutfp : asutfpa : headword change
+6153<pc>0294-2<k1>asutfp : asutfp : asutfpa : headword change 
 6155<pc>0294-2<k1>asupta : °dfSa : °dfS
 6157<pc>0295-1<k1>asura : -rakzas : -rakzasa
 6196<pc>0296-2<k1>asOmya : °kfta : °kft :
@@ -445,4 +445,14 @@ L code : Headword : Old  : New : Comment
 9516<pc>0445-2<k1>upajaras : upajaras : upajarasam : headword change
 9514<pc>0445-2<k1>upajApaH : treason instigating to rebellion : treason, instigating to rebellion
 9610<pc>0449-2<k1>upaDAtuH : rAtiSca : rItiSca
+-----------------------------------------------------------------
+12-12-2025
+Source: Scott Rhodes, user @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102#issuecomment-3647228881
+L code : Headword : Old  : New : Comment
+6271 : asva AND 6272 : asvaka.  The compounds (-ga and jAti) are
+   moved from askaka to asva
+7438 : ArAtIya : P. IV. 2. 104 : P. IV. 2. 114
+6298 : ahan : ahaH, ham or to ahna : ahaH, -haM or to ahna
+8176 : indraH : Indra's weapon ... Bhāg. 10. 44. 22. : Indra's banner ... Bhāg. 10. 44. 22. : 
 -----------------------------------------------------------------------
