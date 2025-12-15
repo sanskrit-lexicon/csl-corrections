@@ -1,0 +1,190 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of April 18, 2025
+
+This file contains the cases classified as
+ english word spelling changes, most of which involve removing a hyphen.
+ These cases not changed, but may be changed in the future.
+ 
+
+* TODO- Case 34: 01/18/2025 dict=LRV, L=1349, hw=anuttara, user=srhodes
+old = law-suit
+new = lawsuit
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 77: 01/22/2025 dict=LRV, L=1431, hw=anubodha, user=srhodes
+old = after-thought
+new = afterthought
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 99: 01/24/2025 dict=LRV, L=1477, hw=anurodha, user=srhodes
+old = Obliging-nees
+new = Obligingness
+comment = Typo – There are two corrections here: 1) spelling; 2) please note that the "hyphen" does not appear to be generally used in this case.
+status = PENDING Jim: Changed to ness; no change in '-'
+------------------------------------------------------------------------
+
+* TODO- Case 161: 01/28/2025 dict=LRV, L=1564, hw=anusainya, user=srhodes
+old = Rear-guard
+new = Rearguard
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 167: 01/28/2025 dict=LRV, L=1599, hw=anṛta, user=srhodes
+old = False-hood
+new = Falsehood
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Also, please make this correction without being  "case-sensitive".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 246: 01/31/2025 dict=LRV, L=1653, hw=antapāla, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 260: 02/01/2025 dict=LRV, L=1707, hw=antarmṛta, user=srhodes
+old = still-born
+new = stillborn
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 289: 02/02/2025 dict=LRV, L=1748, hw=antarā, user=srhodes
+old = mean time
+new = meantime
+comment = Typo – It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 368: 02/08/2025 dict=LRV, L=1827, hw=annakāla, user=srhodes
+old = meal-time
+new = mealtime
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 374: 02/08/2025 dict=LRV, L=1850, hw=anyodarya, user=srhodes
+old = step-mother
+new = stepmother
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 522: 02/23/2025 dict=LRV, L=2222, hw=apahnuti, user=srhodes
+old = super-imposed
+new = superimposed
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 597: 02/27/2025 dict=LRV, L=2282, hw=apitṛka, user=srhodes
+old = father-less
+new = fatherless
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. 
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 697: 03/05/2025 dict=LRV, L=2377.1, hw=aprākaraṇikī, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 724: 03/07/2025 dict=LRV, L=2433, hw=abjā, user=srhodes
+old = pearl-oyster
+new = pearl oyster
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Also consider that the "oyster" is not "made of pearl", rather it may produce pearls.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 728: 03/07/2025 dict=LRV, L=2447, hw=abdhimaṇḍūkī, user=srhodes
+old = pearl-oyster
+new = pearl oyster
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Also consider that the "oyster" is not "made of pearl", rather it may produce pearls.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 765: 03/09/2025 dict=LRV, L=2462, hw=abhayaḍiṃḍima, user=srhodes
+old = re-assurance
+new = reassurance
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 827: 03/13/2025 dict=LRV, L=2569, hw=abhipradakṣiṇam, user=srhodes
+old = right-wards
+new = rightwards
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Also, as a point of interest, "-wards" is a grammatical suffix in the English language. The suffix, "-wards" is meant to be FULLY attached at the end of the word. This means that the "hyphen" vanishes and one single word remains.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 929: 03/21/2025 dict=LRV, L=2699, hw=abhisphurita, user=srhodes
+old = full blown
+new = full-blown
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 966: 03/23/2025 dict=LRV, L=2744, hw=abhyaṃjana, user=srhodes
+old = eye-lashes
+new = eyelashes
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 967: 03/23/2025 dict=LRV, L=2745, hw=abhyadhika, user=srhodes
+old = Pre-eminent
+new = Preeminent
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1039: 03/30/2025 dict=LRV, L=2875, hw=amara, user=srhodes
+old = quick-silver
+new = quicksilver
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Please keep the following advice in mind: "If something is not needed, then it should not be used." Why wastefully employ a "hyphen", when in fact it is not needed? Also, please note that "quicksilver" means "the liquid metal mercury." There is no "silver" in the actual object denoted. How quick is silver? Please remove the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1078: 04/01/2025 dict=LRV, L=2933, hw=amānuṣa, user=srhodes
+old = Super-natural
+new = Supernatural
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Also, please note that the Second Definition given here: "superhuman" is NOT hyphenated. Please explain (or just make the correction).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1092: 04/03/2025 dict=LRV, L=2972, hw=amūrti, user=srhodes
+old = Shapeless-ness
+new = Shapelessness
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1095: 04/03/2025 dict=LRV, L=2975, hw=amūlya, user=srhodes
+old = price-less
+new = priceless
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1096: 04/03/2025 dict=LRV, L=2979, hw=amṛta, user=srhodes
+old = quick-silver
+new = quicksilver
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1179: 04/08/2025 dict=LRV, L=3098, hw=amla, user=srhodes
+old = Butter-milk
+new = Buttermilk
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+

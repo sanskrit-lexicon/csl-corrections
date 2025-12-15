@@ -1,0 +1,1922 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of April 18, 2025
+278 correction records, with 278 PENDING
+
+Notes:
+0. Many global changes. See readme_lrv_global.txt
+
+1. Case 165. In iast transliteration of a proper name, capitalize first letter. 
+ This is not possible with current cdsl markup
+2. <pc> element needs revision thoughout to indicate
+   page and column.  Current system (p-X) what is X. often NOT a column number
+3. homonym markup
+old = Headword Listed Twice  (83)
+  These are homonyms. The lrv pattern appears to be
+  '{%(I)'  {%(II)' etc.
+  '{%(I)'  3753 instances.  
+ Solution ? <h>
+
+=================================
+* TODOx Case 1: 01/15/2025 dict=LRV, L=1227, hw=animiṣācārya, user=srhodes
+old = Bṛihaspati
+new = Bṛhaspati
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction across all dictionaries: "ṛi" ——becomes—— "ṛ"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 2: 01/15/2025 dict=LRV, L=1228, hw=animiṣācārya, user=srhodes
+old = Vishṇu-kshetra
+new = Viṣṇu-kṣetra
+comment = Typo – Please consider this to be a Global Correction across all dictionaries, of course for the individual words: "viṣṇu" and "kṣetra". Also, if you would like to "get radical" you could make this target correction across all dictionaries: "shṇ" ——becomes—— "ṣṇ"  AND   "ksh" ——becomes—— "kṣ"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 3: 01/15/2025 dict=LRV, L=1228, hw=animiṣakṣetra, user=srhodes
+old = Vishṇu-kshetra
+new = Viṣṇu-kṣetra
+comment = Typo – Please consider this to be a Global Correction across all dictionaries, of course for the individual words: "viṣṇu" and "kṣetra". Also, if you would like to "get radical" you could make this target correction across all dictionaries: "shṇ" ——becomes—— "ṣṇ"  AND   "ksh" ——becomes—— "kṣ"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 4: 01/15/2025 dict=LRV, L=1239, hw=aniruddha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy.
+comment = Headword Listed Twice
+status = NO CHANGE 
+------------------------------------------------------------------------
+
+* TODOx Case 5: 01/15/2025 dict=LRV, L=1244.1, hw=anirvacanītā, user=srhodes
+old = anirvacanītā
+new = anirvacanīyā
+comment = Typo – Headword Typo
+status = PENDING Jim:  anirvacanīyatā
+------------------------------------------------------------------------
+
+* TODOHOM Case 6: 01/15/2025 dict=LRV, L=1244, hw=anirvacanīya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 7: 01/15/2025 dict=LRV, L=1257, hw=aniṣṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+* TODOHOM Case 18: 01/16/2025 dict=LRV, L=1270, hw=anīśa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 19: 01/16/2025 dict=LRV, L=1271, hw=anīśa, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction across all dictionaries: "shṇ" ——becomes—— "ṣṇ". THAT would clean things up faster than a sneeze!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 20: 01/16/2025 dict=LRV, L=1272, hw=anīśvara, user=srhodes
+old = 4. atheistical
+new = 3. atheistical
+comment = Typo – Please note that this is a "print change". The printed page "skips" number 3 definition; Therefore, number 4 becomes number 3 by the rule of ordinal numbering.
+status = PENDING
+** pc: 01272<pc>021-21<k1>anISvara : 4. atheistical. : 3. atheistical.
+------------------------------------------------------------------------
+
+* TODOx Case 21: 01/16/2025 dict=LRV, L=1276, hw=anu, user=srhodes
+old = surā  S.K.
+new = surāḥ  S.K.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 22: 01/16/2025 dict=LRV, L=1285, hw=anukarṣaṇa, user=srhodes
+old = anukarṣaṇa m.
+new = anukarṣaṇa n.
+comment = Typo – Please note that this is a possible "print change", based upon the fact that both MW and SHABDA dictionaries declare, "neuter gender" (with no masculine indication). Also, both APTE and SHABDA list definitions of "karṣaṇa" in the neuter gender (but not specifically masculine).
+status = PENDING
+** pc: 01285<pc>022-06<k1>anukarzaRa : {%m.%} : {%n.%} : gender change
+------------------------------------------------------------------------
+
+* TODOx Case 23: 01/16/2025 dict=LRV, L=1287, hw=anukāmīna, user=srhodes
+old = lists
+new = likes
+comment = Typo – Please note that this is a possible "print change", based current usage. The verb used here: "list", is an archaic usage in the intended meaning, (e.g. Let them think what they list); "like" is better according to contemporary usage.
+status = PENDING
+** pc: 01287<pc>022-08<k1>anukAmIna : as he lists : as he likes
+------------------------------------------------------------------------
+
+* TODOHOM Case 24: 01/16/2025 dict=LRV, L=1294, hw=anukūla, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 31: 01/18/2025 dict=LRV, L=1315.1, hw=anuguṇā, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. The is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 32: 01/18/2025 dict=LRV, L=1336, hw=anujīvin, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. The is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 33: 01/18/2025 dict=LRV, L=1334, hw=anujāta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. The is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 34: 01/18/2025 dict=LRV, L=1349, hw=anuttara, user=srhodes
+old = law-suit
+new = lawsuit
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 35: 01/18/2025 dict=LRV, L=1348, hw=anuttara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. The is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 36: 01/18/2025 dict=LRV, L=1351, hw=anuttarā, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. The is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 37: 01/18/2025 dict=LRV, L=1317, hw=anuguṇā, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 52: 01/19/2025 dict=LRV, L=1356, hw=anudātta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 53: 01/19/2025 dict=LRV, L=1365, hw=anudruta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 54: 01/19/2025 dict=LRV, L=1390, hw=anupanyāsa, user=srhodes
+old = determination doubt
+new = determination, doubt
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 77: 01/22/2025 dict=LRV, L=1431, hw=anubodha, user=srhodes
+old = after-thought
+new = afterthought
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 78: 01/22/2025 dict=LRV, L=1433, hw=anubhava, user=srhodes
+old = śabdaḥ
+new = śābda
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 86: 01/23/2025 dict=LRV, L=1451, hw=anumiti, user=srhodes
+old = premisses
+new = premises
+comment = Typo – I believe that this is a spelling error.
+status = PENDING
+** pc: 01451<pc>025-14<k1>anumiti : premisses : premises
+------------------------------------------------------------------------
+
+* TODOHOM Case 87: 01/23/2025 dict=LRV, L=1459, hw=anuyāyin, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 99: 01/24/2025 dict=LRV, L=1477, hw=anurodha, user=srhodes
+old = Obliging-nees
+new = Obligingness
+comment = Typo – There are two corrections here: 1) spelling; 2) please note that the "hyphen" does not appear to be generally used in this case.
+status = PENDING Jim: Changed to ness; no change in '-'
+------------------------------------------------------------------------
+
+* TODOx Case 100: 01/24/2025 dict=LRV, L=1482, hw=anulepana, user=srhodes
+old = tha
+new = the
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 101: 01/24/2025 dict=LRV, L=1508, hw=anuvṛtti, user=srhodes
+old = e.g. varṇānāmanuvṛttiranuprāsaḥ ‘anuvṛtti is a repetition of letters.’
+new = e.g. varṇānāmanuvṛttiranuprāsaḥ ‘anuprāsa is a repetition of letters.’
+comment = Typo – Please note that I have altered the translation according to what makes better sense. The printed text shows only: "अ०", therefore the "correct" word remains to be filled in. It appears that this example is defining the word "anuprāsa", by using the example of the word "anuvṛtti" with the meaning of "repetition."
+status = PENDING
+** pc: 01508<pc>026-20<k1>anuvftti : {#a०#} is a repetition : {#anuprAsa#} is a repetition
+------------------------------------------------------------------------
+
+* TODOx Case 102: 01/24/2025 dict=LRV, L=1511, hw=anuveśa, user=srhodes
+old = m.n.
+new = m.
+comment = Typo – Please note that this is a possible "print change." The neuter gender most likely applies only to the following related word "anuveśana". Both Apte and MW seem to agree.
+status = PENDING
+** pc: 01511<pc>026-23<k1>anuveSa : {%m.n.%} : {%m.%}  : gender change
+------------------------------------------------------------------------
+
+* TODOx Case 124: 01/26/2025 dict=LRV, L=1527, hw=anuśāsin, user=srhodes
+old = chastier
+new = chastiser
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 125: 01/26/2025 dict=LRV, L=1527, hw=anuśāsin, user=srhodes
+old = chastier
+new = chastiser
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 126: 01/26/2025 dict=LRV, L=1546, hw=anuṣṇagu, user=srhodes
+old = m. with the moon.
+new = m. the moon.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 159: 01/28/2025 dict=LRV, L=1556, hw=anusavanam, user=srhodes
+old = anusavanam n.
+new = anusavanam ind.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 160: 01/28/2025 dict=LRV, L=1558, hw=anusāyam, user=srhodes
+old = anusāyam m.
+new = anusāyam ind.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 161: 01/28/2025 dict=LRV, L=1564, hw=anusainya, user=srhodes
+old = Rear-guard
+new = Rearguard
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 162: 01/28/2025 dict=LRV, L=1576, hw=anūcāna, user=srhodes
+old = Vedāngas
+new = Vedāṅgas
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. The target for "search and replace" should be: "Vedānga" ——becomes—— "Vedāṇga", because this will also correct the plural form.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 164: 01/28/2025 dict=LRV, L=1584, hw=anūpa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary. Also, please note: Apte, MW and Shabda do NOT list this Headword twice, therefore Vaidya must comply with the majority rule.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 165: 01/28/2025 dict=LRV, L=1591, hw=anūrusārathi, user=srhodes
+old = anūru
+new = Anūru
+comment = Typo – Please note that this word is marked in devanāgarī script. Here the word has been transliterated and it represents a proper name. Generally, proper names are capitalized in the English language, and this is a Sanskrit-English dictionary. Also, please take note that the word "Aruṇa", previously mentioned has been capitalized on the printed page in support of my reasoning.
+status = NO CHANGE. cdsl does not do this.
+------------------------------------------------------------------------
+
+* TODOx Case 166: 01/28/2025 dict=LRV, L=1594, hw=anṛca, user=srhodes
+old = Ṛigveda
+new = Ṛgveda
+comment = Also, if you would like to "get radical" you could make this target correction across all dictionaries: "Ṛi" ——becomes—— "Ṛ"  AND "ṛi" ——becomes—— "ṛ". This will also correct the current citation without any risk of ativyāpti.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 167: 01/28/2025 dict=LRV, L=1599, hw=anṛta, user=srhodes
+old = False-hood
+new = Falsehood
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Also, please make this correction without being  "case-sensitive".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 168: 01/28/2025 dict=LRV, L=1598, hw=anṛta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary. Also, please note: Apte, MW and Shabda do NOT list this Headword twice, therefore Vaidya must comply with the majority rule.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 240: 01/31/2025 dict=LRV, L=1615, hw=anekaja, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary. Also, please note: Apte, MW and Shabda do NOT list this Headword twice, therefore Vaidya must comply with the majority rule.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 242: 01/31/2025 dict=LRV, L=1643, hw=anta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary. Also, please note: Apte, MW and Shabda do NOT list this Headword twice, therefore Vaidya must comply with the majority rule.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 243: 01/31/2025 dict=LRV, L=1643, hw=anta, user=srhodes
+old = Sanskṛit
+new = Sanskrit
+comment = Typo – Please note that this correction follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 244: 01/31/2025 dict=LRV, L=1647, hw=antāvaśāyin, user=srhodes
+old = chaṇḍāla
+new = caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 245: 01/31/2025 dict=LRV, L=1647.1, hw=antāvaśāyin, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary. Also, please note: Apte, MW and Shabda do NOT list this Headword twice, therefore Vaidya must comply with the majority rule.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 246: 01/31/2025 dict=LRV, L=1653, hw=antapāla, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 249: 01/31/2025 dict=LRV, L=1657, hw=antavāsin, user=srhodes
+old = chaṇḍāla
+new = caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 250: 01/31/2025 dict=LRV, L=1660, hw=antasatkriyā, user=srhodes
+old = ???
+new = f.
+comment = Typo – Please note that there is NO question of gender here. The uttarapada is "kriyā", which itself makes clear the feminine gender.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 251: 01/31/2025 dict=LRV, L=1664, hw=antar, user=srhodes
+old = interrior
+new = interior
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx START Case 259: 02/01/2025 dict=LRV, L=1679, hw=antargata, user=srhodes
+old = slipt
+new = slipped
+comment = Typo – Please note that this is a suggested "print change", based upon the following information: "The meaning of SLIPT is archaic past tense of slip". In other words, the current usage is the now the form: "slipped". English dictionaries should reflect modern day standards and usage.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 260: 02/01/2025 dict=LRV, L=1707, hw=antarmṛta, user=srhodes
+old = still-born
+new = stillborn
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 265: 02/01/2025 dict=LRV, L=1717, hw=antarvedī, user=srhodes
+old = Gangā
+new = Gaṅgā
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 266: 02/01/2025 dict=LRV, L=1719, hw=antarveśmika, user=srhodes
+old = UPDATE PAGE LINK [Printed book page 029-03]
+new = Printed book page 030-01] • https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=lrv&page=030
+comment = UPDATE PAGE LINK [Printed book page 029-03]
+status = PENDING : Jim. Last word on pg 29 is -pAtin
+  first on page 30 is -pura, change pc to 30-01 -pura .. -SilA
+  change 029-03 to 030-02  for -saMjYa .. -hfdaya
+------------------------------------------------------------------------
+
+* TODOx Case 267: 02/01/2025 dict=LRV, L=1694, hw=antaḥpura, user=srhodes
+old = UPDATE PAGE LINK [Printed book page 029-03]
+new = Printed book page 030-01] • https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=lrv&page=030 LB PLEASE NOTE FROM HERE FOLLOWING, ALL THE WORDS NEED TO HAVE THIS LINK UPDATED, UNTIL YOU FIND THE PAGE LINK TO BE CORRECT.
+comment = UPDATE PAGE LINK [Printed book page 029-03]
+status = PENDING Jim see Case 266
+------------------------------------------------------------------------
+
+* TODOx Case 268: 02/01/2025 dict=LRV, L=1720, hw=antaḥśarīra, user=srhodes
+old = UPDATE PAGE LINK [Printed book page 029-03]
+new = Printed book page 030-01] • https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=lrv&page=030 LB PLEASE NOTE FROM HERE FOLLOWING, ALL THE WORDS NEED TO HAVE THIS LINK UPDATED, UNTIL YOU FIND THE PAGE LINK TO BE CORRECT.
+comment = UPDATE PAGE LINK [Printed book page 029-03]
+status = PENDING see case 266
+------------------------------------------------------------------------
+
+* TODOx Case 285: 02/02/2025 dict=LRV, L=1736, hw=antara, user=srhodes
+old = rājāṇtaraṃ
+new = rājāṃtaraṃ
+status = NO CHANGE - see case 287
+------------------------------------------------------------------------
+
+* TODOx Case 286: 02/02/2025 dict=LRV, L=1736, hw=antara, user=srhodes
+old = rājāṇtaraṃ
+new = rājāṃtaraṃ
+comment = Typo – Please note that this could also be written as "rājāntaraṃ", which is my preference.
+status = PENDING Jim Changed to rājāntaraṃ
+------------------------------------------------------------------------
+
+* TODOx Case 287: 02/02/2025 dict=LRV, L=1736, hw=antara, user=srhodes
+old = excellenee
+new = excellence
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 288: 02/02/2025 dict=LRV, L=1735, hw=antara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. This is purely a worthless redundancy in the online dictionary.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 289: 02/02/2025 dict=LRV, L=1748, hw=antarā, user=srhodes
+old = mean time
+new = meantime
+comment = Typo – It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 291: 02/03/2025 dict=LRV, L=1759, hw=antarīya, user=srhodes
+old = under-garment
+new = undergarment
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING  Jim global (5) for consistency with 
+                  two 'undergarment' already present
+------------------------------------------------------------------------
+
+* TODOHOM Case 292: 02/03/2025 dict=LRV, L=1767, hw=antika, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 293: 02/03/2025 dict=LRV, L=1778, hw=antevāsin, user=srhodes
+old = chaṇḍāla
+new = caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Also, this may be considered as a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 294: 02/03/2025 dict=LRV, L=1779, hw=antya, user=srhodes
+old = Headword Listed Twice
+new = caṇḍālaPlease DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 320: 02/05/2025 dict=LRV, L=1787, hw=antyaja, user=srhodes
+old = chaṇḍāla
+new = caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 321: 02/05/2025 dict=LRV, L=1787.1, hw=antyajanman, user=srhodes
+old = chaṇḍāla
+new = caṇḍāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 325: 02/05/2025 dict=LRV, L=1812, hw=andhaka, user=srhodes
+old = Rākshasa
+new = Rākṣasa
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 326: 02/05/2025 dict=LRV, L=1811, hw=andhaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 327: 02/05/2025 dict=LRV, L=1821, hw=andhrajātīya, user=srhodes
+old = FONT CHANGE NEEDED: "Bold Italic Font"
+new = the word: "andhra" in Bold Italics
+comment = Please note that this word is written in Devanāgarī script on the printed page. However, since the word has been transliterated, I believe that the word should appear in bold italics.
+status = NO CHANGE Jim:  In LRV, Bold-Devanagari seems reserved for 
+         headwords (and sub-headwords), which this ("the {#anDra#} tribe") is not
+
+------------------------------------------------------------------------
+
+* TODOHOM Case 367: 02/08/2025 dict=LRV, L=1823, hw=anna, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 368: 02/08/2025 dict=LRV, L=1827, hw=annakāla, user=srhodes
+old = meal-time
+new = mealtime
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 369: 02/08/2025 dict=LRV, L=1829, hw=annakoṣṭaka, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. Also, you may consider the following Global Correction across all dictionaries: "shṇ" ——becomes—— "ṣṇ" ;  This is how I work: when I solve a problem once, I solve it for every case once and for all.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 370: 02/08/2025 dict=LRV, L=1829, hw=annakoṣṭaka, user=srhodes
+old = annakoṣṭaka
+new = annakoṣṭhaka
+comment = Typo – Please consider this correction to be a "print change". This correction is verified by APTE, MW and Shabda Dictionaries; as well as the fact that the uttarapada itself must be spelled as "koṣṭhaka" according to all reliable sources.
+status = PENDING
+** pc: 01829<pc>032-14<k1>annakozwaka : annakozwaka : annakozWaka : headword change
+------------------------------------------------------------------------
+
+* TODOx dup Case 371: 02/08/2025 dict=LRV, L=1829, hw=annakoṣṭaka, user=srhodes
+old = annakoṣṭaka
+new = annakoṣṭhaka
+comment = Typo – Please consider this correction to be a "print change". This correction is verified by APTE, MW and Shabda Dictionaries; as well as the fact that the uttarapada itself must be spelled as "koṣṭhaka" according to all reliable sources.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 372: 02/08/2025 dict=LRV, L=1844, hw=annavyavahāra, user=srhodes
+old = vit.
+new = viz.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 373: 02/08/2025 dict=LRV, L=1847, hw=anya, user=srhodes
+old = mṛdantaiva sā
+new = mṛdanyaiva sā
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 374: 02/08/2025 dict=LRV, L=1850, hw=anyodarya, user=srhodes
+old = step-mother
+new = stepmother
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 375: 02/08/2025 dict=LRV, L=1854, hw=anyacitta, user=srhodes
+old = whoso mind is fixed on some one
+new = whose mind is fixed on someone
+comment = Typo – Please note TWO corrections. The second correction is suggested because the reference: "some one" is generally written as a single word: "someone". Also, please note that the word "something" is also used here, and it is written as a single word.
+status = PENDING  Jim: Global "some one" -> "someone" (6)
+------------------------------------------------------------------------
+
+* TODOx Case 376: 02/08/2025 dict=LRV, L=1859.1, hw=anyadaivatya, user=srhodes
+old = anyadaivatya
+new = anyadevatya?
+comment = Please note that MW dictionary spells this word as "anyadevatya". I hope that Dr. Dhaval or Andhrabharati can confirm which spelling is correct; or if both spellings are authorized by the learned.
+status = NO CHANGE  Jim: PD also has anyadaivatya with same gloss.
+------------------------------------------------------------------------
+
+* TODOx Case 380: 02/08/2025 dict=LRV, L=1893, hw=anyāya, user=srhodes
+old = anyāya ind.
+new = anyāya m.
+comment = Typo – Please note that this is a suggested "print change", based upon the fact that five Authorative sources give this word in the masculine gender (and not as indeclinable): APTE, MW, Shabda, Śabdakalpadruma and Vācaspatyam
+status = PENDING
+** pc: 01893<pc>033-10<k1>anyAya : {%ind.%} : {%m.%} : gender change
+------------------------------------------------------------------------
+
+* TODOx Case 388: 02/10/2025 dict=LRV, L=1916, hw=anvaya, user=srhodes
+old = retinue, attendance
+new = retinue, attendants
+comment = Typo – Please note that this is a suggested "print change", following APTE dictionary. When two definition are given together, they must share a similar sense. In this case, "retinue, attendants" is a more logical listing. Also, it is worth noting that the pronunciation of both words is identical: "attendance" and "attendants". This may be involved in the misinterpretation of spelling.
+status = PENDING
+** pc: 01916<pc>034-05<k1>anvaya : retinue, attendance : retinue, attendants
+------------------------------------------------------------------------
+
+* TODOx Case 395: 02/10/2025 dict=LRV, L=1934, hw=anvāje, user=srhodes
+old = anvāje kṛtya
+new = anvājekṛtya
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 396: 02/10/2025 dict=LRV, L=1939, hw=anvādheya, user=srhodes
+old = bhartṛkulātstryā
+new = bhartṛkulātstriyā
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 407: 02/12/2025 dict=LRV, L=1951, hw=anvṛcam, user=srhodes
+old = Ṛigveda
+new = Ṛgveda
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 408: 02/12/2025 dict=LRV, L=1953, hw=anvīkṣā, user=srhodes
+old = anvīkṣaṇā
+new = anvīkṣaṇa
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 458: 02/17/2025 dict=LRV, L=1996, hw=aparūpa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 462: 02/18/2025 dict=LRV, L=2014, hw=apakarṣa, user=srhodes
+old = Mīmānsa
+new = Mīmānsā
+status = PENDING  global 31
+------------------------------------------------------------------------
+
+* TODOx Case 464: 02/18/2025 dict=LRV, L=2037, hw=apakṣepaṇa, user=srhodes
+old = Vaiśeshika
+new = Vaiśeṣika
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 469: 02/19/2025 dict=LRV, L=2051, hw=apacchāya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 472: 02/20/2025 dict=LRV, L=2095, hw=apanutti, user=srhodes
+old = Removing, taking, away
+new = Removing, taking away
+comment = Typo – Please note that this is a "print change". The "comma" is incorrect as the intended sense is the expression: "taking away". Also, this correction is confirmed on the authority of Apte, MW and Shabda.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 473: 02/20/2025 dict=LRV, L=2103, hw=apabhraṃśa, user=srhodes
+old = Sanskṛit grammar or its sense not a Sanskṛitic one); 3. the name of the lowest class of Prākṛit dialects (in belles-lettres), any language other than Sanskṛit
+new = Sanskrit grammar or its sense not a Sanskritic one); 3. the name of the lowest class of Prākṛt dialects (in belles-lettres), any language other than Sanskrit
+comment = Typo – Please note FOUR corrections here. Only one would be a "print change". In regard to the word printed as: "Prakrit", it is currently spelled as "Prākṛit" online. I am suggesting the final correction to be made as: "Prākṛt".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 474: 02/20/2025 dict=LRV, L=2109, hw=apara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. In the Case of MW dictionary the word is in fact printed TWICE with two separate etymologies. Here, no such distinction has been separately printed. Everything is just "lumped together" under one single Headword: "apara".
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 485: 02/21/2025 dict=LRV, L=2146, hw=aparājita, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 486: 02/21/2025 dict=LRV, L=2151, hw=aparigraha, user=srhodes
+old = Headword Listed Twice
+new =  LB Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 487: 02/21/2025 dict=LRV, L=2162, hw=aparokṣa, user=srhodes
+old = thfr
+new = the
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 515: 02/23/2025 dict=LRV, L=2182, hw=apavārita, user=srhodes
+old = Secrct
+new = Secret
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 516: 02/23/2025 dict=LRV, L=2189, hw=apaviddha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 517: 02/23/2025 dict=LRV, L=2195, hw=apaśoka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 518: 02/23/2025 dict=LRV, L=2202, hw=apasada, user=srhodes
+old = Kshatriya
+new = Kṣatriya
+comment = Typo – Please note that this suggestion is based upon the preceding and following transliterated forms. Generally, in Sanskrit, a group is treated in a similar manner. Here, the word "Kshatriya" stands out, without the proper transliteration which actually has been used in the surrounding words.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 519: 02/23/2025 dict=LRV, L=2206, hw=apasarpa, user=srhodes
+old = sarpādhirājoribhujo'pasarpaṃ
+new = sarpādhirājorubhujo’pasarpaṃ
+status = PENDING  
+------------------------------------------------------------------------
+
+* TODOx dup Case 520: 02/23/2025 dict=LRV, L=2206, hw=apasarpa, user=srhodes
+old = sarpādhirājoribhujo'pasarpaṃ
+new = sarpādhirājorubhujo’pasarpaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 521: 02/23/2025 dict=LRV, L=2206, hw=apasarpa, user=srhodes
+old = sarpādhirājoribhujo'pasarpaṃ
+new = sarpādhirājorubhujo’pasarpaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 522: 02/23/2025 dict=LRV, L=2222, hw=apahnuti, user=srhodes
+old = super-imposed
+new = superimposed
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 560: 02/26/2025 dict=LRV, L=2227, hw=apākṛti, user=srhodes
+old = apākṛtīstatastatastyā  Kir. i.27.
+new = apākṛtīstatastatastyā viniyantumakṣamā  Kir. i.27.
+comment = Typo – Please note that the printed page contains the longer quotation as corrected above.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 561: 02/26/2025 dict=LRV, L=2228, hw=apākṣa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it should appear only once in the Hierarchy Alphabetical Display List. The multiple definitions are clearly stated, and the important difference in the feminine form is clearly included in the Hiearchy List Display.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 562: 02/26/2025 dict=LRV, L=2245, hw=apādāna, user=srhodes
+old = Sanskṛit
+new = Sanskrit
+comment = Typo – Please note that this correction follows the printed page. This may be a good Global Correction to make for the LRV dictionary – thus saving us both time of having to correct this again and again.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 563: 02/26/2025 dict=LRV, L=2250, hw=apām, user=srhodes
+old = apām ————————- gen.
+new = apām  gen.
+comment = Typo – Please note that this correction follows the printed page.
+status = PENDING 
+         
+------------------------------------------------------------------------
+
+* TODOx Case 564: 02/26/2025 dict=LRV, L=2254, hw=apāṃnidhi, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. This correction could be made Globally to the master file which then would save much time in terms of not having to make this correction again and again.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 579: 02/27/2025 dict=LRV, L=2261, hw=apāra, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 580: 02/27/2025 dict=LRV, L=2266, hw=apārtha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 581: 02/27/2025 dict=LRV, L=2268, hw=apārthaka, user=srhodes
+old = (f. kā)
+new = (f. ikā)
+comment = Typo – Please note that this is a possible "print change", awaiting confirmation by Dr. Dhaval or Andhrabharati. If this change is approved, then the following Headword (spelling out this feminine form) will need to be corrected as well in the Hiearchy list.
+status = NO CHANGE.  Jim. pwg: f. apārthakā ; pw: apārthikā; apārthakā fehlerhaft)        gst: ikA, ben ikA.  
+------------------------------------------------------------------------
+
+* TODOHOM Case 582: 02/27/2025 dict=LRV, L=2274, hw=apāśraya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 583: 02/27/2025 dict=LRV, L=2279, hw=api, user=srhodes
+old = fiower-arrows
+new = flower-arrows
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 584: 02/27/2025 dict=LRV, L=2279, hw=api, user=srhodes
+old = api stuhyapi sedhāsmāṃstathyamuktaṃ
+new = api stuhyapi sedhāsmāṃstathyamuktaṃ narāśana
+comment = Typo – Please note that the final word has been omitted from the quotation. This correction includes the missing word: "narāśana"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 588: 02/27/2025 dict=LRV, L=2279, hw=api, user=srhodes
+old = kthamapi
+new = kathamapi
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 589: 02/27/2025 dict=LRV, L=2279, hw=api, user=srhodes
+old = [Printed book page 071-05] LB ava ind. (The initial a of this preposition is sometimes dropped, pūrvāparau toyanidhī vagāhya (for avagāhya)  K.S. i.1. Cf. api) As a prefix to verbal themes, it expresses- (1) disrespect, (e.g. avajñā); (2) support, resting, (e.g. avalamb); (3) purifying, (e.g. avadāta); (4) littleness, (e.g. avahan); (5) diffusion, (e.g. avakīrṇa); (6) determination, (e.g. avaso); (7) depression, bending, (e.g. avanam); (8) commanding, (e.g. avakḷp); (9) depreciation, (10) nourishing. LB As a preposition, it means ‘away,’ ‘off,’ ‘away from’ (with abl.). LB As the first member of an adjectival compound with a noun, it means ‘avakruṣṭa’ (called down to), e.g. avalokita. [ID=3670.1]
+new = DELETE ENTIRELY
+comment = Typo – Erroneous Entry in the Window Display. "ava" does NOT belong under the Headword "api".
+status = PENDING
+Jim:
+ <L>03670<pc>071-05<k1>ava<k2>ava   This is entry for ava. 
+ <L>02279<pc>041-16<k1>api<k2>api
+ <L>03670.1<pc>071-05<k1>api<k2>api   << delete these 3 lines
+ {{Lbody=03670}}
+ <LEND>
+
+ Delete entry L=0360.1:
+
+------------------------------------------------------------------------
+
+* TODO- Case 597: 02/27/2025 dict=LRV, L=2282, hw=apitṛka, user=srhodes
+old = father-less
+new = fatherless
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. 
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 604: 02/27/2025 dict=LRV, L=2303, hw=apūrva, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. Both MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 621: 03/01/2025 dict=LRV, L=2314, hw=apehi, user=srhodes
+old = ————————- 
+new = DELETE
+comment = Typo – Please consider this a Global Correction; simply search for: "————————-"  ,  and then REPLACE with "ZERO" (meaning nothing) = Deletion.
+status = PENDING Jim: in ap.txt , "{%-----------------%}" -> "" global 10
+------------------------------------------------------------------------
+
+* TODOx Case 622: 03/01/2025 dict=LRV, L=2315, hw=apehidvitīyā, user=srhodes
+old = (similarly we have apohipraghasā, apohivāṇijā, apohivighasā, apohisvāgatā &c.)
+new = (similarly we have apehipraghasā, apehivāṇijā, apehivighasā, apehisvāgatā &c.)
+comment = Typo – Please note that a correction like this is properly termed: "A Home Run".
+status = PENDING   Thank, Aaron Judge!
+------------------------------------------------------------------------
+
+* TODOx Case 623: 03/01/2025 dict=LRV, L=2321, hw=apauruṣeya, user=srhodes
+old = apauruśjeyapratiṣṭhaḥ
+new = apauruṣeyapratiṣṭhaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 624: 03/01/2025 dict=LRV, L=2322, hw=aptoryāma, user=srhodes
+old = Jyotishṭoma
+new = Jyotiṣṭoma
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṭ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 625: 03/01/2025 dict=LRV, L=2323, hw=apyaya, user=srhodes
+old = univesre
+new = universe
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 626: 03/01/2025 dict=LRV, L=2326, hw=aprakṛta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 627: 03/02/2025 dict=LRV, L=2348, hw=apratihata, user=srhodes
+old = imaffected
+new = unaffected
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 663: 03/04/2025 dict=LRV, L=2356, hw=apratyaya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 664: 03/04/2025 dict=LRV, L=2359, hw=apradhāna, user=srhodes
+old = subordinate, (op. to gauṇa)
+new = subordinate,
+comment = Nonsense Error! The word "gauṇa" means "subordinate". Please explain how we can have the following: "subordinate, (op. to gauṇa)". Where is the opposition? Would Andhrabharati like to speak?
+status = PENDING 
+  Jim: print change,  op. to agauṇa  (cf. pd)
+** pc: 02359<pc>043-30<k1>apraDAna : (op. to {#gORa#}) : (op. to {#agORa#})
+------------------------------------------------------------------------
+
+* TODOx Case 665: 03/04/2025 dict=LRV, L=2366, hw=apramāṇa, user=srhodes
+old = pramāṇābhāsa
+new = pramāṇābhāva
+comment = Typo – Please note that this is a "print change".
+status = PENDING
+** pc: 02366<pc>044-02<k1>apramARa : pramARABAsa : pramARABAva
+------------------------------------------------------------------------
+
+* TODOx Case 666: 03/04/2025 dict=LRV, L=2366, hw=apramāṇa, user=srhodes
+old = in junction
+new = injunction
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 667: 03/04/2025 dict=LRV, L=2366, hw=apramāṇa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 668: 03/04/2025 dict=LRV, L=2367, hw=aprameya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 669: 03/04/2025 dict=LRV, L=2372, hw=aprasaṃga, user=srhodes
+old = aprasaṃga
+new = aprasaṅga
+comment = Typo – Please consider this as a "print change."  The form "aprasaṃga" is misleading because it looks as if the derivation is from the root √gam. But in fact the derivation is from the root √sañj. Consider this: अ + प्र + सन्ज + घञ् । Monier Williams recognizes an Etymological distinction between the following words: "saṁga" (from √gam) and "saṅga" (from √sañj). Therefore, we need to be careful with "interchangeable" letters which sometimes obscure the finer details which are conveyed beautifully in the Sanskrit language.
+status = NO CHANGE : Jim: saNga occurs 2 times in lrv.txt (hw =avaDIraRA, AsaMga)
+    saMga occurs 198 times, including 37 prasaMga.  
+    Do we want to untangle ?
+------------------------------------------------------------------------
+
+* TODOx Case 693: 03/05/2025 dict=LRV, L=2373, hw=aprastāvika, user=srhodes
+old = aprastāvika
+new = aprāstāvika
+comment = Typo – Please note that the printed page reads: "(v.l. for अप्रा ०)".
+status = PENDING Jim: revert to print -- I'm not sure of how to interpret
+         old: {#aprastAvikI#} (v.l. for {#aprastAvika#})
+         new:  {#aprastAvikI#} (v.l. for {#aprA०#})
+------------------------------------------------------------------------
+
+* TODOx dup Case 694: 03/05/2025 dict=LRV, L=2373, hw=aprastāvika, user=srhodes
+old = (v.l. for aprastāvika)
+new = (v.l. for aprāstāvika)
+comment = Typo – UPADATED:  Please note that the printed page reads: "(v.l. for अप्रा ०)".
+status = PENDING  Jim: See Case 693
+------------------------------------------------------------------------
+
+* TODOx dup Case 695: 03/05/2025 dict=LRV, L=2373.1, hw=aprastāvikī, user=srhodes
+old = (v.l. for aprastāvika)
+new = (v.l. for aprāstāvikī)
+comment = Typo – UPADATED:  Please note that the printed page reads: "(v.l. for अप्रा ०)". Since the Headword "aprastāvikī" is most likely cited here, in regard to the variation: "अप्रा ०" , we must supply the feminine form as being the Headword cited here: Thus, "(v.l. for aprāstāvikī)".
+status = PENDING Jim: See case 693
+------------------------------------------------------------------------
+
+* TODOx Case 696: 03/05/2025 dict=LRV, L=2377, hw=aprākaraṇika, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING Jim: "subject matter" 5, "subject-matter" 4
+         "subject-matter" -> "subject matter" for consistency
+------------------------------------------------------------------------
+
+* TODO- Case 697: 03/05/2025 dict=LRV, L=2377.1, hw=aprākaraṇikī, user=srhodes
+old = subject-matter
+new = subject matter
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 698: 03/05/2025 dict=LRV, L=2390, hw=apriyaṃvada, user=srhodes
+old = speakig
+new = speaking
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 699: 03/05/2025 dict=LRV, L=2395, hw=apsaras, user=srhodes
+old = some times
+new = sometimes
+comment = Typo – Please note that this usage is generally written as a single word. Perhaps this could be considered as a Global Correction.
+status = PENDING Jim "sometimes" 99, "some times" 1. Make the change for consistency
+------------------------------------------------------------------------
+
+* TODOHOM Case 717: 03/07/2025 dict=LRV, L=2401, hw=aphena, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 718: 03/07/2025 dict=LRV, L=2403, hw=abaddha, user=srhodes
+old = Rayamukuta
+new = Rāyamukuṭa
+comment = Typo – I believe that this is a better spelling of his name.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 719: 03/07/2025 dict=LRV, L=2407, hw=abala, user=srhodes
+old = weekness
+new = weakness
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 720: 03/07/2025 dict=LRV, L=2407, hw=abala, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 721: 03/07/2025 dict=LRV, L=2409, hw=abalā, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 722: 03/07/2025 dict=LRV, L=2410, hw=abādha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 723: 03/07/2025 dict=LRV, L=2420, hw=abodha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 724: 03/07/2025 dict=LRV, L=2433, hw=abjā, user=srhodes
+old = pearl-oyster
+new = pearl oyster
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Also consider that the "oyster" is not "made of pearl", rather it may produce pearls.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 725: 03/07/2025 dict=LRV, L=2439, hw=abdhi, user=srhodes
+old = abdhirlaghira eva vānabhaṭaiḥ
+new = abdhirlaghita eva vānarabhaṭaiḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 726: 03/07/2025 dict=LRV, L=2442, hw=abdhijā, user=srhodes
+old = Lakshmī
+new = Lakṣmī
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 727: 03/07/2025 dict=LRV, L=2444, hw=abdhinagarī, user=srhodes
+old = Kṛishṇa
+new = Kṛṣṇa
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. ‘ṇ’) and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 728: 03/07/2025 dict=LRV, L=2447, hw=abdhimaṇḍūkī, user=srhodes
+old = pearl-oyster
+new = pearl oyster
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally used in this case. Also consider that the "oyster" is not "made of pearl", rather it may produce pearls.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 729: 03/07/2025 dict=LRV, L=2448, hw=abdhiśayana, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. It must be one modality or the other (whichever you choose), no compromise. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 761: 03/09/2025 dict=LRV, L=2452, hw=abrahmaṇya, user=srhodes
+old = abrahmaṇyamanutkāntajīvo
+new = abrahmaṇyamanutkrāntajīvo
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 762: 03/09/2025 dict=LRV, L=2452, hw=abrahmaṇya, user=srhodes
+old = Headword Listed Twice
+new =  LB Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 763: 03/09/2025 dict=LRV, L=2457, hw=abhadra, user=srhodes
+old = Headword Listed Twice
+new =  LB Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 764: 03/09/2025 dict=LRV, L=2459, hw=abhaya, user=srhodes
+old = Headword Listed Twice
+new =  LB Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 765: 03/09/2025 dict=LRV, L=2462, hw=abhayaḍiṃḍima, user=srhodes
+old = re-assurance
+new = reassurance
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 766: 03/09/2025 dict=LRV, L=2474, hw=abhi, user=srhodes
+old = harimabhiḥ
+new = harimabhi
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 768: 03/09/2025 dict=LRV, L=2477, hw=abhikāma, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 797: 03/10/2025 dict=LRV, L=2507, hw=abhijana, user=srhodes
+old = śīlaṁ śailataṭātpatatvabhijanaḥ
+new = śīlaṁ śailataṭātpatatvabhijanaḥ saṃdahyatāṁ vahninā
+comment = Typo – Please note that the remaining portion of the citation is missing, though present upon the printed page. Thus, this correction has been made.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 798: 03/10/2025 dict=LRV, L=2507, hw=abhijana, user=srhodes
+old = mithilābhijanāḥ
+new = mithilābhijanā
+comment = Typo – Please note that this correction follows the printed text, and of course Sandhi allows dropping of the final visarga.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 799: 03/11/2025 dict=LRV, L=2509, hw=abhijāti, user=srhodes
+old = brith
+new = birth
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 800: 03/11/2025 dict=LRV, L=2512, hw=abhijit, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 801: 03/11/2025 dict=LRV, L=2517, hw=abhitas, user=srhodes
+old = vānarasy
+new = vānarasya
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 802: 03/11/2025 dict=LRV, L=2517, hw=abhitas, user=srhodes
+old = gacchabhitaḥ
+new = gacchābhitaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 824: 03/12/2025 dict=LRV, L=2539, hw=abhinamra, user=srhodes
+old = ratanābhirāmastabakābhinamrām
+new = stanābhirāmastabakābhinamrām
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 825: 03/12/2025 dict=LRV, L=2548, hw=abhiniviṣṭa, user=srhodes
+old = nindākṣepāpamānāderamarṣo'bhiniviṣṭitā
+new = nindākṣepāpamānāderamarṣo'bhiniviṣṭatā
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 826: 03/12/2025 dict=LRV, L=2555, hw=abhinīta, user=srhodes
+old = vākyāmityuvāca
+new = vākyamityuvāca
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 827: 03/13/2025 dict=LRV, L=2569, hw=abhipradakṣiṇam, user=srhodes
+old = right-wards
+new = rightwards
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Also, as a point of interest, "-wards" is a grammatical suffix in the English language. The suffix, "-wards" is meant to be FULLY attached at the end of the word. This means that the "hyphen" vanishes and one single word remains.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 828: 03/13/2025 dict=LRV, L=2573, hw=abhipreta, user=srhodes
+old = desired agreeable
+new = desired, agreeable
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 829: 03/13/2025 dict=LRV, L=2573, hw=abhipreta, user=srhodes
+old = desired agreeable
+new = desired, agreeable
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 830: 03/13/2025 dict=LRV, L=2573, hw=abhipreta, user=srhodes
+old = desired agreeable
+new = desired, agreeable
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 831: 03/13/2025 dict=LRV, L=2573, hw=abhipreta, user=srhodes
+old = desired agreeable
+new = desired, agreeable
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 832: 03/13/2025 dict=LRV, L=2577, hw=abhibhava, user=srhodes
+old = sūryakāntastadanyatejobhibhavādvamanti
+new = sūryakāntastadanyatejo'bhibhavādvamanti
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 833: 03/13/2025 dict=LRV, L=2585, hw=abhimata, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 834: 03/13/2025 dict=LRV, L=2591, hw=abhimarśa, user=srhodes
+old = tvatkalatrābhimarrśī
+new = tvatkalatrābhimarśī
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 860: 03/15/2025 dict=LRV, L=2594, hw=abhimāna, user=srhodes
+old = yaśāśricīṣataḥ
+new = yaśaścicīṣataḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 861: 03/15/2025 dict=LRV, L=2608, hw=abhiyukta, user=srhodes
+old = kuryādapahnavas
+new = kuryādapahnavam
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 862: 03/15/2025 dict=LRV, L=2616, hw=abhiruci, user=srhodes
+old = bhaikṣai
+new = bhaikṣe
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 863: 03/15/2025 dict=LRV, L=2619, hw=abhirūpa, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 864: 03/15/2025 dict=LRV, L=2619, hw=abhirūpa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 865: 03/15/2025 dict=LRV, L=2627, hw=abhilāṣuka, user=srhodes
+old = jayamatrabhavānnyūnamarātiṣvābhilāṣukaḥ
+new = jayamatrabhavānnūnamarātiṣvabhilāṣukaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 866: 03/15/2025 dict=LRV, L=2633, hw=abhivarṣaṇa, user=srhodes
+old = upoir
+new = upon
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 900: 03/18/2025 dict=LRV, L=2653, hw=abhiśāpa, user=srhodes
+old = abhiśāpa f.
+new = abhiśāpa m.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 901: 03/18/2025 dict=LRV, L=2653, hw=abhiśāpa, user=srhodes
+old = abhiśāpa f.
+new = abhiśāpa m.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 902: 03/18/2025 dict=LRV, L=2653, hw=abhiśāpa, user=srhodes
+old = abhiśāpa f.
+new = abhiśāpa m.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 903: 03/18/2025 dict=LRV, L=2653, hw=abhiśāpa, user=srhodes
+old = abhiśāpa f.
+new = abhiśāpa m.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 912: 03/19/2025 dict=LRV, L=2670, hw=abhiṣeṇay, user=srhodes
+old = abhiṣeṇay
+new = abhiṣeṇaya
+comment = Typo – Please note that this may be a "print change", depending on how you judge the printed text. MW lists this denominative as: "abhiṣeṇaya", Apte as "abhiṣeṇayati", but no dictionary gives: "abhiṣeṇay"; Thus the correction here.
+status = NO CHANGE Jim: differences among koshas for spelling of denominatives
+         Example: mw aNkAya; pw, pwg aNkAy
+------------------------------------------------------------------------
+
+* TODOx Case 914: 03/19/2025 dict=LRV, L=2687, hw=abhisaraṇa, user=srhodes
+old = svadabhisaraṇarabhasena
+new = tvadabhisaraṇarabhasena
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 929: 03/21/2025 dict=LRV, L=2699, hw=abhisphurita, user=srhodes
+old = full blown
+new = full-blown
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 930: 03/21/2025 dict=LRV, L=2716, hw=abhīpsita, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 931: 03/21/2025 dict=LRV, L=2723, hw=abhīṣṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 932: 03/21/2025 dict=LRV, L=2725, hw=abhīṣṭā, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 933: 03/21/2025 dict=LRV, L=2728, hw=abhū, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 939: 03/21/2025 dict=LRV, L=2724, hw=abhīṣṭa, user=srhodes
+old = ghaṭāmeha
+new = ghaṭāmahe
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 965: 03/23/2025 dict=LRV, L=2741, hw=abhyagra, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 966: 03/23/2025 dict=LRV, L=2744, hw=abhyaṃjana, user=srhodes
+old = eye-lashes
+new = eyelashes
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 967: 03/23/2025 dict=LRV, L=2745, hw=abhyadhika, user=srhodes
+old = Pre-eminent
+new = Preeminent
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 968: 03/23/2025 dict=LRV, L=2748, hw=abhyantara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 969: 03/23/2025 dict=LRV, L=2748, hw=abhyantara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 970: 03/23/2025 dict=LRV, L=2758, hw=abhyarṇa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 971: 03/23/2025 dict=LRV, L=2763, hw=abhyarhita, user=srhodes
+old = tulyarūppā
+new = tulyarūpā
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 972: 03/23/2025 dict=LRV, L=2778, hw=abhyāgata, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 991: 03/25/2025 dict=LRV, L=2792, hw=abhyāśa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1006: 03/27/2025 dict=LRV, L=2846, hw=ama, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1007: 03/27/2025 dict=LRV, L=2848, hw=amaṃgala, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1008: 03/27/2025 dict=LRV, L=2852, hw=amaṇḍa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1009: 03/27/2025 dict=LRV, L=2856, hw=amati, user=srhodes
+old = aṃtyaitāni
+new = amatyaitāni
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1038: 03/30/2025 dict=LRV, L=2871, hw=amanda, user=srhodes
+old = much great
+new = much, great
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1039: 03/30/2025 dict=LRV, L=2875, hw=amara, user=srhodes
+old = quick-silver
+new = quicksilver
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Please keep the following advice in mind: "If something is not needed, then it should not be used." Why wastefully employ a "hyphen", when in fact it is not needed? Also, please note that "quicksilver" means "the liquid metal mercury." There is no "silver" in the actual object denoted. How quick is silver? Please remove the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1040: 03/30/2025 dict=LRV, L=2875, hw=amara, user=srhodes
+old = whoso
+new = whose
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1041: 03/30/2025 dict=LRV, L=2874, hw=amara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1042: 03/30/2025 dict=LRV, L=2879, hw=amarācārya, user=srhodes
+old = Bṛihaspati
+new = Bṛhaspati
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1043: 03/30/2025 dict=LRV, L=2882, hw=amarejya, user=srhodes
+old = Bṛihaspati
+new = Bṛhaspati
+comment = Typo – Please note that this could be considered as a Global correction. In fact make the target search/replace as: "ṛi" ——becomes———"ṛ" ; That cleans things up nicely!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1059: 04/01/2025 dict=LRV, L=2900, hw=amartya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1060: 04/01/2025 dict=LRV, L=2906, hw=amarṣa, user=srhodes
+old = vyabhicārabhāva
+new = vyabhicāribhāva
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1061: 04/01/2025 dict=LRV, L=2906, hw=amarṣa, user=srhodes
+old = parakṛtāvajñādi nānāparādhajanyo maunavākpāruṣyādi kāraṇībhūtaścittavṛttiviśeṣo'marṣaḥ
+new = parakṛtāvajñādinānāparādhajanyo maunavākpāruṣyādikāraṇībhūtaścittavṛttiviśeṣo’marṣaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 1062: 04/01/2025 dict=LRV, L=2906, hw=amarṣa, user=srhodes
+old = parakṛtāvajñādi nānāparādhajanyo maunavākpāruṣyādi kāraṇībhūtaścittavṛttiviśeṣo'marṣaḥ
+new = parakṛtāvajñādinānāparādhajanyo maunavākpāruṣyādikāraṇībhūtaścittavṛttiviśeṣo’marṣaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 1063: 04/01/2025 dict=LRV, L=2906, hw=amarṣa, user=srhodes
+old = parakṛtāvajñādi nānāparādhajanyo maunavākpāruṣyādi kāraṇībhūtaścittavṛttiviśeṣo'marṣaḥ
+new = parakṛtāvajñādinānāparādhajanyo maunavākpāruṣyādikāraṇībhūtaścittavṛttiviśeṣo’marṣaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 1064: 04/01/2025 dict=LRV, L=2906, hw=amarṣa, user=srhodes
+old = parakṛtāvajñādi nānāparādhajanyo maunavākpāruṣyādi kāraṇībhūtaścittavṛttiviśeṣo'marṣaḥ
+new = parakṛtāvajñādinānāparādhajanyo maunavākpāruṣyādikāraṇībhūtaścittavṛttiviśeṣo’marṣaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1066: 04/01/2025 dict=LRV, L=2909, hw=amarṣaṇa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1067: 04/01/2025 dict=LRV, L=2913, hw=amala, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1068: 04/01/2025 dict=LRV, L=2915, hw=amalapatattrin, user=srhodes
+old = amala-patattrin
+new = amala-patatrin
+comment = Typo – Please note that this is a Headword typo and thus requires TWO corrections: 1) in the window display AND 2) in the Hiearchy List Itself. Also, this correction follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1069: 04/01/2025 dict=LRV, L=2917, hw=amalā, user=srhodes
+old = Lakshmī
+new = Lakṣmī
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1077: 04/01/2025 dict=LRV, L=2929, hw=amātra, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1078: 04/01/2025 dict=LRV, L=2933, hw=amānuṣa, user=srhodes
+old = Super-natural
+new = Supernatural
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Also, please note that the Second Definition given here: "superhuman" is NOT hyphenated. Please explain (or just make the correction).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1079: 04/01/2025 dict=LRV, L=2936, hw=amāya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1080: 04/01/2025 dict=LRV, L=2954, hw=amīva, user=srhodes
+old = diestress
+new = distress
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1081: 04/01/2025 dict=LRV, L=2956, hw=amukta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1087: 04/03/2025 dict=LRV, L=2963, hw=amuṣya, user=srhodes
+old = ————————-
+new = 
+comment = Typo – please note the Complete Deletion of: "————————-".  This could be a Global Search/Replace Correction, to take care of this once and for all.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1088: 04/03/2025 dict=LRV, L=2968, hw=amūdṛśa, user=srhodes
+old = amūdṛs
+new = amūdṛś
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1089: 04/03/2025 dict=LRV, L=2968.1, hw=amūdṛkṣa, user=srhodes
+old = amūdṛs
+new = amūdṛś
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1090: 04/03/2025 dict=LRV, L=2968.2, hw=amūdṛśī, user=srhodes
+old = amūdṛs
+new = amūdṛś
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1091: 04/03/2025 dict=LRV, L=2969, hw=amūrta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1092: 04/03/2025 dict=LRV, L=2972, hw=amūrti, user=srhodes
+old = Shapeless-ness
+new = Shapelessness
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1093: 04/03/2025 dict=LRV, L=2973, hw=amūrti, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1094: 04/03/2025 dict=LRV, L=2974, hw=amūla, user=srhodes
+old = Sānkhyas
+new = Sāṅkhyas
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'n') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "n" is misleading, because the correct letter is: "ṅ".
+status = PENDING gkibak
+------------------------------------------------------------------------
+
+* TODO- Case 1095: 04/03/2025 dict=LRV, L=2975, hw=amūlya, user=srhodes
+old = price-less
+new = priceless
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1096: 04/03/2025 dict=LRV, L=2979, hw=amṛta, user=srhodes
+old = quick-silver
+new = quicksilver
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1097: 04/03/2025 dict=LRV, L=2977, hw=amṛta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1127: 04/05/2025 dict=LRV, L=2987.1, hw=amṛtadyuti, user=srhodes
+old = [Printed book page 057-27
+new = [Printed book page 058 
+comment = Printed Book Page Error – The page number as well as the clickable link need to be corrected for most of the "amṛta" compounds; of course, so that the correct scanned page will be viewed.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1128: 04/05/2025 dict=LRV, L=2999, hw=amṛteśaya, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1129: 04/05/2025 dict=LRV, L=3008, hw=amedhya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1143: 04/06/2025 dict=LRV, L=3014, hw=ameyātman, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1144: 04/06/2025 dict=LRV, L=3016, hw=amogha, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṇ') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1145: 04/06/2025 dict=LRV, L=3015, hw=amogha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1146: 04/06/2025 dict=LRV, L=3029, hw=ambariṣa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1147: 04/06/2025 dict=LRV, L=3029.1, hw=ambarīṣa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1148: 04/06/2025 dict=LRV, L=3033, hw=ambaṣṭhā, user=srhodes
+old = Ambashṭhā caste (in this sense also ambaṣṭhī)
+new = Ambaṣṭha caste (in this sense also ambaṣṭhī)
+comment = Typo – Please note that two corrections have been made here: "ṣ" for "sh" and the short vowel "a" rather than the long vowel "ā". The caste is named with a short vowel and this follows the printed text. Also, please note the word "ambaṣṭhī" that is included above. It is not written as: "ambashṭhī", and this supports the correction of "sh" to become "ṣ"; which as you know is common correction that is suggested.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1150: 04/06/2025 dict=LRV, L=3036, hw=ambālikā, user=srhodes
+old = Vichitravīrya
+new = Vicitravīrya
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1151: 04/06/2025 dict=LRV, L=3037, hw=ambikā, user=srhodes
+old = Vichitravīrya
+new = Vicitravīrya
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1152: 04/06/2025 dict=LRV, L=3039, hw=ambikeya, user=srhodes
+old = Dhṛitarāshṭra
+new = Dhṛtarāṣṭra
+comment = Typo – Please consider this to be a Global Correction so that we do not have to repeat this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1153: 04/06/2025 dict=LRV, L=3048, hw=ambuja, user=srhodes
+old = [Printed book page 058
+new = [Printed book page 059
+comment = Typo – Please note that many of the "ambu" compounds are printed on page 59; therefore the link should be corrected and linked to the correct page.
+status = PENDING Jim: Changed for compounds of ambu
+------------------------------------------------------------------------
+
+* TODOx Case 1154: 04/06/2025 dict=LRV, L=3050, hw=ambuja, user=srhodes
+old = camphire
+new = camphor
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1155: 04/06/2025 dict=LRV, L=3051, hw=ambujāsanā, user=srhodes
+old = Lakshmī
+new = Lakṣmī
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ī') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1176: 04/08/2025 dict=LRV, L=3078, hw=ambūkṛta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1177: 04/08/2025 dict=LRV, L=3080, hw=ambh, user=srhodes
+old = 1A 
+new = 1Ā
+comment = Typo – Please note that this is a suggested "print change". I prefer accuracy, rather than approximation.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1178: 04/08/2025 dict=LRV, L=3096, hw=amla, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1179: 04/08/2025 dict=LRV, L=3098, hw=amla, user=srhodes
+old = Butter-milk
+new = Buttermilk
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1191: 04/10/2025 dict=LRV, L=3142, hw=ayas, user=srhodes
+old = abhitaptamayopi
+new = abhitaptamayo'pi
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1232: 04/13/2025 dict=LRV, L=3156, hw=ayaḥśaṃku, user=srhodes
+old = jareline
+new = javelin
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1233: 04/13/2025 dict=LRV, L=3159, hw=ayācita, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1239: 04/13/2025 dict=LRV, L=3188, hw=ayuta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1254: 04/15/2025 dict=LRV, L=3227, hw=araṇyarudita, user=srhodes
+old = Vidūshaka
+new = Vidūṣaka
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1255: 04/15/2025 dict=LRV, L=3231, hw=araṇyevilapita, user=srhodes
+old = araṇyevilapita
+new = araṇyavilapita
+comment = Typo – Please note that this is a Headword Typo, and therefore it requires three corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1256: 04/15/2025 dict=LRV, L=3235, hw=arata, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1265: 04/15/2025 dict=LRV, L=3251, hw=aravindanābha, user=srhodes
+old = Vishṇu
+new = Viṣṇu
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. Also, you may consider the following Global Correction across all dictionaries: "shṇ" ——becomes—— "ṣṇ" ;  This is how I work: when I solve a problem once, I solve it for every case, once and for all.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1266: 04/15/2025 dict=LRV, L=3263, hw=arāla, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1299: 04/17/2025 dict=LRV, L=3290, hw=aruṇa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1300: 04/17/2025 dict=LRV, L=3308, hw=arundhatī, user=srhodes
+old = Vasishṭha
+new = Vasiṣṭha
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. Also, you may consider the following Global Correction across all dictionaries: "shṭ" ——becomes—— "ṣṭ" ;  This is how I work: when I solve a problem once, I solve it once and for all.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1301: 04/17/2025 dict=LRV, L=3309, hw=arundhatījāni, user=srhodes
+old = Vasishṭha
+new = Vasiṣṭha
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. Also, you may consider the following Global Correction across all dictionaries: "shṭ" ——becomes—— "ṣṭ" ;  This is how I work: when I solve a problem once, I solve it once and for all.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1302: 04/17/2025 dict=LRV, L=3309.1, hw=arundhatīnātha, user=srhodes
+old = Vasishṭha
+new = Vasiṣṭha
+comment = Typo – Please note that we cannot have "partial" proper transliteration and "partial" secular phoneticism occurring in a single word. It must be one or the other, no compromise. Please consider this to be a Global correction across all dictionaries. Also, you may consider the following Global Correction across all dictionaries: "shṭ" ——becomes—— "ṣṭ" ;  This is how I work: when I solve a problem once, I solve it once and for all.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHOM Case 1303: 04/17/2025 dict=LRV, L=3314, hw=arūpa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 1304: 04/17/2025 dict=LRV, L=3331, hw=arkanayana, user=srhodes
+old = Śanaiśchara
+new = Śanaiścara
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ś') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,22 @@
+This file documents changes made to the digitization of LRV in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-15-2025
+
+-----------------------------------------------------------------------
+12-20-2025
+Source: Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+L code : Headword : Old  : New : Comment
+01272 : anISvara : 4. atheistical. : 3. atheistical.
+01285 : anukarzaRa : {%m.%} : {%n.%} : gender change
+01287 : anukAmIna : as he lists : as he likes
+01451 : anumiti : premisses : premises
+01508 : anuvftti : {#a०#} is a repetition : {#anuprAsa#} is a repetition
+01511 : anuveSa : {%m.n.%} : {%m.%}  : gender change
+01829 : annakozwaka : annakozwaka : annakozWaka : headword change
+01893 : anyAya : {%ind.%} : {%m.%} : gender change
+01916 : anvaya : retinue, attendance : retinue, attendants
+02359 : apraDAna : (op. to {#gORa#}) : (op. to {#agORa#})
+02366 : apramARa : pramARABAsa : pramARABAva
+-----------------------------------------------------------------------
