@@ -69,6 +69,10 @@ old = oṭhīt, uṭhitum
 new = auṭhīt, oṭhitum
 comment = Typo – Please note that there are TWO suggested "print changes" based upon what appears to be correct.
 status = PENDING  Jim "appears to be correct" insufficient reason for change
+Jim: Note of 12-17-2025.  This print change made, based on Scott's
+explanation at
+  https://github.com/sanskrit-lexicon/csl-corrections/issues/102#issuecomment-3648839246
+** pc: 8525 : uW : oWIt, uWitum : OWIt, oWitum
 ------------------------------------------------------------------------
 
 * TODO Case 1770: 10/02/2025 dict=AP, L=8138, hw=itkaṭaḥ, user=srhodes
