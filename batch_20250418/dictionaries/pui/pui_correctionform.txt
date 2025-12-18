@@ -6,6 +6,33 @@ Case 1142: 04/05/2025 dict=PUI, L=8053, hw=purīṣi, user=srhodes
 old = purīṣi
 new = purīṣī
 comment = Typo – Please note that this is a Headword Typo. The Learned do not spell this word with a short vowel.
-status = PENDING
+status = DONE
+pc: 8053 : purIzi : purIzi : purIzI : headword change
+
+The cdsl entry
+old:
+<L>8053<pc>2-351<k1>purIzi<k2>purIzi
+{%Purīṣi%}¦ — produced by Brahmā.
+<div n="P"/>Bhā. III. 12. 40.
+<LEND>
+
+new:
+<L>8053<pc>2-351<k1>purIzI<k2>purIzI
+{%Purīṣī%}¦ — produced by Brahmā.
+<div n="P"/>Bhā. III. 12. 40.
+<LEND>
+
+
+Bhā. == Bhāgavata
+   https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/puipref/puipref35.html
+ 
+In pwg, hw purIza
+2) f. ई Bez. einer best. religiösen Feier: पुरीष्यग्निष्टुतौ Bhāg. P. 3,12,40. = पुरीषीचयन
+ "f. ई" supports Scott's print change
+
+https://sanskrit-lexicon-scans.github.io/bhagp_bur/app1/?3,12,40
+
+The link-target includes this word at verse 40
+   पुरीष्यग्निष्टुतवथ      
 ------------------------------------------------------------------------
 
