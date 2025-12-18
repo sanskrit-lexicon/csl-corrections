@@ -628,7 +628,13 @@ L code : Headword : Old  : New : Comment
 Source: @funderburkjim
 Ref: https://github.com/sanskrit-lexicon/ap90/issues/issue26 readme_althw_2fix.txt
 L code : Headword : Old  : New : Comment
-----------------------------------------------------------------------
 10094 : kaRAwInaH : kaRAwArakaH : kaRAwIrakaH : 
 15164 : datta : dataka : dattaka : 
+----------------------------------------------------------------------
+08-26-2024
+Source: @aumsanskrit
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101  ap90
+L code : Headword : Old  : New : Comment
+1604 : anutta : Not set : Not sent :
+1807 : anumitiH : parAmarSajanyaM : liNgaparAmarSajanyaM
 ----------------------------------------------------------------------

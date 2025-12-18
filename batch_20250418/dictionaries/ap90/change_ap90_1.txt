@@ -1,0 +1,600 @@
+; <L>271<pc>0018-a<k1>aMgaM<k2>aMgaM
+3778 old capital of Magadha and to the north-east
+;
+3778 new capital of Magadha and to the northeast
+;---------------------------------------------------
+; <L>434<pc>0027-a<k1>aMjanAvatI<k2>aMjanAvatI
+5730 old elephant of the north-east quarter. {@--2@}
+;
+5730 new elephant of the northeast quarter. {@--2@}
+;---------------------------------------------------
+; <L>918<pc>0044-c<k1>aDas<k2>aDas, aDaH
+10033 old {#°aMSukaM#} an under-garment; or ({%b%})
+;
+10033 new {#°aMSukaM#} an undergarment; or ({%b%})
+;---------------------------------------------------
+; <L>1475<pc>0066-a<k1>anIkaH<k2>anIkaH --kaM
+14967 old elephantdriver, or its trainer. {4} a war-drum
+;
+14967 new elephant-driver, or its trainer. {4} a war-drum
+;---------------------------------------------------
+; <L>1479<pc>0066-b<k1>anIca<k2>anIca
+14996 old or vile persons. ({%--<ab>m.</ab>%}) a faithful
+;
+14996 new or vile persons. {%--(<ab>m.</ab>)%} a faithful
+;---------------------------------------------------
+; <L>1534<pc>0068-b<k1>anukzattf<k2>anukzattf
+15496 old of a door-keeper or charioteer.
+;
+15496 new of a doorkeeper or charioteer.
+;---------------------------------------------------
+; <L>1570<pc>0069-c<k1>anucarciH<k2>anucarciH
+15804 old {#anucarciH#}¦ {%<ab>f.</ab>%} <ab>Ved.</ab> Repeating(in
+;
+15804 new {#anucarciH#}¦ {%<ab>f.</ab>%} <ab>Ved.</ab> Repeating (in
+;---------------------------------------------------
+; <L>1574<pc>0069-c<k1>anucCAdaH<k2>anucCAdaH
+15828 old under-garment which is allowed to
+;
+15828 new undergarment which is allowed to
+;---------------------------------------------------
+; <L>1596<pc>0070-c<k1>anutarzaRaM<k2>anutarzaRaM
+16003 old {#anutarzaRaM#}¦ = {#anutarza#} {3} and {4}
+;
+16003 new {#anutarzaRaM#}¦ = {#anutarza#} 3 and 4
+;---------------------------------------------------
+; <L>1597<pc>0070-c<k1>anutila<k2>anutila
+16006 old {#anutila#}¦ {%<ab>a.</ab>%} Following {#tila#}(as a
+;
+16006 new {#anutila#}¦ {%<ab>a.</ab>%} Following {#tila#} (as a
+;---------------------------------------------------
+; <L>1603<pc>0070-c<k1>anutka<k2>anutka
+16032 old {#anutka#}¦ {%<ab>a.</ab>%} Not over-anxious, not
+;
+16032 new {#anutka#}¦ {%<ab>a.</ab>%} Not overanxious, not
+;---------------------------------------------------
+; <L>1604<pc>0070-c<k1>anutta<k2>anutta
+16039 old {#tuByamidadrivo'nuttaM#} <ls>Rv. 1. 80. 7.</ls> {@--2@} Not set
+;
+16039 new {#tuByamidadrivo'nuttaM#} <ls>Rv. 1. 80. 7.</ls> {@--2@} Not sent, driven forth or urged ({#aprerita#});
+;---------------------------------------------------
+; <L>1604<pc>0070-c<k1>anutta<k2>anutta
+16040 old driven forth or urged ({#aprerita#});
+;
+16040 new 
+;---------------------------------------------------
+; <L>1615<pc>0071-a<k1>anutsekaH<k2>anutsekaH
+16127 old modesty; {#°kaH KaluvikramAlaMkAraH#} <ls>V. 1</ls>;
+;
+16127 new modesty; {#°kaH Kalu vikramAlaMkAraH#} <ls>V. 1</ls>;
+;---------------------------------------------------
+; <L>1623<pc>0071-b<k1>anudAtta<k2>anudAtta
+16166 old {#anudAtta#}¦ {%<ab>a.</ab>%} Grave(accent); not
+;
+16166 new {#anudAtta#}¦ {%<ab>a.</ab>%} Grave (accent); not
+;---------------------------------------------------
+; <L>1667<pc>0072-c<k1>anunAyika<k2>anunAyika
+16507 old nurse, maid-servant &c.; {#saKI pravrajitA#}
+;
+16507 new nurse, maidservant &c.; {#saKI pravrajitA#}
+;---------------------------------------------------
+; <L>1695<pc>0073-b<k1>anupama<k2>anupama
+16721 old the south-west (mate of {#kumuda#}).
+;
+16721 new the southwest (mate of {#kumuda#}).
+;---------------------------------------------------
+; <L>1711<pc>0074-a<k1>anupaskAra<k2>anupaskAra
+16818 old {#anupaskAra#}¦ {%<ab>a.</ab>%} Not elliptical ( <lbinfo n="aDyAhA#radozarahita"/>
+;
+16818 new {#anupaskAra#}¦ {%<ab>a.</ab>%} Not elliptical <lbinfo n="aDyAhA#radozarahita"/>
+;---------------------------------------------------
+; <L>1711<pc>0074-a<k1>anupaskAra<k2>anupaskAra
+16819 old {#aDyAhAradozarahita#}) <ls>Ki. 11. 38.</ls>
+;
+16819 new ({#aDyAhAradozarahita#}) <ls>Ki. 11. 38.</ls>
+;---------------------------------------------------
+; <L>1721<pc>0074-a<k1>anupAnIya<k2>anupAnIya
+16874 old afterdrink, what is fit to be drunk after.
+;
+16874 new after-drink, what is fit to be drunk after.
+;---------------------------------------------------
+; <L>1769<pc>0076-a<k1>anuboDaH<k2>anuboDaH
+17305 old {#anuboDaH#}¦ {@1@} An after-thought, <lbinfo n="re+collection"/>
+;
+17305 new {#anuboDaH#}¦ {@1@} An afterthought, <lbinfo n="re+collection"/>
+;---------------------------------------------------
+; <L>1769<pc>0076-a<k1>anuboDaH<k2>anuboDaH
+17306 old recollection. {@--2@} Reviving the scent-of
+;
+17306 new recollection. {@--2@} Reviving the scent of
+;---------------------------------------------------
+; <L>1802<pc>0077-b<k1>anumA<k2>anumA
+17608 old reconcile, equal. {%--<ab>Caus.</ab>%} {#--(mApayati)#}
+;
+17608 new reconcile, equal. {%--<ab>Caus.</ab>%} ({#-mApayati#})
+;---------------------------------------------------
+; <L>1807<pc>0077-c<k1>anumitiH<k2>anumitiH
+17658 old by means of {#anumAna; parAmarSajanyaM#} <lbinfo n="jYAnama#numitiH"/>
+;
+17658 new by means of {#anumAna#}; {#liNgaparAmarSajanyaM#} <lbinfo n="jYAnama#numitiH"/>
+;---------------------------------------------------
+; <L>1853<pc>0079-a<k1>anuruD<k2>anuruD
+18024 old <ls>U. 3. 26</ls>; {#aBinavasevakajane'pi#} <lbinfo n="evamarunuDya#te"/>
+;
+18024 new <ls>U. 3. 26</ls>; {#aBinavasevakajane'pi#} <lbinfo n="evamanuruDya#te"/>
+;---------------------------------------------------
+; <L>1853<pc>0079-a<k1>anuruD<k2>anuruD
+18025 old {#evamarunuDyate#} <ls>K. 207</ls> please by carefully <lbinfo n="attend+ing"/>
+;
+18025 new {#evamanuruDyate#} <ls>K. 207</ls> please by carefully <lbinfo n="attend+ing"/>
+;---------------------------------------------------
+; <L>1863<pc>0079-c<k1>anulepaH<k2>anulepaH --lepanaM
+18136 old {#anulepaH --lepanaM#}¦ {@1@} Unction, anoint
+;
+18136 new {#anulepaH --lepanaM#}¦ {@1@} Unction,
+;---------------------------------------------------
+; <L>1863<pc>0079-c<k1>anulepaH<k2>anulepaH --lepanaM
+18137 old ing, smearing. {@--2@} Ointment, unguent
+;
+18137 new anointing, smearing. {@--2@} Ointment, unguent
+;---------------------------------------------------
+; <L>1866<pc>0079-c<k1>anuloma<k2>anuloma
+18173 old having fortune favourable. {#--arTa#} {%<ab>a.</ab>%}
+;
+18173 new having fortune, favourable. {#--arTa#} {%<ab>a.</ab>%}
+;---------------------------------------------------
+; <L>1881<pc>0080-b<k1>anUcAna<k2>anUcAna
+18297 old wellversed in the Vedas with their
+;
+18297 new well-versed in the Vedas with their
+;---------------------------------------------------
+; <L>1909<pc>0081-a<k1>anuviSvaH<k2>anuviSvaH
+18520 old in the north-east.
+;
+18520 new in the northeast.
+;---------------------------------------------------
+; <L>1935<pc>0082-b<k1>anuSaraH<k2>anuSaraH
+18792 old of evil-spirit, Rākṣasa.
+;
+18792 new of evil spirit, Rākṣasa.
+;---------------------------------------------------
+; <L>1956<pc>0083-a<k1>anuzaMj<k2>anuzaMj
+18989 old cling to, follow closely. {%--<ab>pass.</ab>%} ( <lbinfo n="--za#jyate"/>
+;
+18989 new cling to, follow closely. {%--<ab>pass.</ab>%} <lbinfo n="--za#jyate"/>
+;---------------------------------------------------
+; <L>1956<pc>0083-a<k1>anuzaMj<k2>anuzaMj
+18990 old {#--zajyate#}) {@1@} To stick, cling, adhere to,
+;
+18990 new ({#-zajyate#}) {@1@} To stick, cling, adhere to,
+;---------------------------------------------------
+; <L>1958<pc>0083-b<k1>anuzakta<k2>anuzakta
+19013 old everarising. {@--2@} Clinging or adhering to <lbinfo n="(ac+tively"/>
+;
+19013 new ever-arising. {@--2@} Clinging or adhering to <lbinfo n="(ac+tively"/>
+;---------------------------------------------------
+; <L>1964<pc>0083-c<k1>anuzwutiH<k2>anuzwutiH
+19077 old {#anuzwutiH#}¦ {%<ab>f.</ab>%} Praise(in due order.)
+;
+19077 new {#anuzwutiH#}¦ {%<ab>f.</ab>%} Praise (in due order.)
+;---------------------------------------------------
+; <L>1977<pc>0084-a<k1>anuzRa<k2>anuzRa
+19214 old ({#--go#} ray) having cold rays, the
+;
+19214 new ({#-go#} ray) having cold rays, the
+;---------------------------------------------------
+; <L>2093<pc>0087-c<k1>aMta<k2>aMta
+20213 old {#tvadIyenAMtapAlenAvaskaMdya gfhItaH#} {%<ab>ibid.</ab>%} {2} a door-keeper
+;
+20213 new {#tvadIyenAMtapAlenAvaskaMdya gfhItaH#} {%<ab>ibid.</ab>%} {2} a doorkeeper
+;---------------------------------------------------
+; <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20677 old {#--vAsas#} {%<ab>n.</ab>%} an under-garment <ls>Ks. 4. 52.</ls> {#--vA#}
+;
+20677 new {#--vAsas#} {%<ab>n.</ab>%} an undergarment <ls>Ks. 4. 52.</ls> {#--vA#}
+;---------------------------------------------------
+; <L>2430<pc>0108-b<k1>apara<k2>apara
+24561 old {#--dakziRaM#} {%<ab>ind.</ab>%} in the south-west <lbinfo n="(belong+ing"/>
+;
+24561 new {#--dakziRaM#} {%<ab>ind.</ab>%} in the southwest <lbinfo n="(belong+ing"/>
+;---------------------------------------------------
+; <L>2444<pc>0109-c<k1>aparAjita<k2>aparAjita
+24674 old north-east direction, so called because
+;
+24674 new northeast direction, so called because
+;---------------------------------------------------
+; <L>2444<pc>0109-c<k1>aparAjita<k2>aparAjita
+24697 old {@--4@} The north-east quarter; see under
+;
+24697 new {@--4@} The northeast quarter; see under
+;---------------------------------------------------
+; <L>4591<pc>0182-b<k1>avaDU<k2>avaDU
+42152 old {#avaDUtaduhitfprArTanasya#} <ls>Dk. 13.</ls> {%--<ab>Caus.</ab>%} {#--(DUnayati)#}
+;
+42152 new {#avaDUtaduhitfprArTanasya#} <ls>Dk. 13.</ls> {%--<ab>Caus.</ab>%} ({#-DUnayati#})
+;---------------------------------------------------
+; <L>5535<pc>0213-b<k1>asiknI<k2>asiknI
+49480 old maid-servant of the harem. {@--2@} Night (<ls>Nir.</ls>).
+;
+49480 new maidservant of the harem. {@--2@} Night (<ls>Nir.</ls>).
+;---------------------------------------------------
+; <L>5634<pc>0216-b<k1>asmAka<k2>asmAka
+50242 old {#asmAka#}¦ {%<ab>a.</ab>%} <ab>Ved.</ab> for {#AsmAka#}(our,
+;
+50242 new {#asmAka#}¦ {%<ab>a.</ab>%} <ab>Ved.</ab> for {#AsmAka#} (our,
+;---------------------------------------------------
+; <L>5860<pc>0226-a<k1>Agam<k2>Agam
+52399 old {%--<ab>Caus.</ab>%} {#--(gamayati)#} {@1@} To cause to
+;
+52399 new {%--<ab>Caus.</ab>%} ({#-gamayati#}) {@1@} To cause to
+;---------------------------------------------------
+; <L>6103<pc>0233-b<k1>Atura<k2>Atura
+54218 old Eager, over-anxious; <ls>M. 2.</ls> {@--5@} Weak,
+;
+54218 new Eager, overanxious; <ls>M. 2.</ls> {@--5@} Weak,
+;---------------------------------------------------
+; <L>6446<pc>0245-c<k1>ApyE<k2>ApyE
+57135 old enlarge. {%--<ab>Caus.</ab>%} {#--(pyAyayati)#} {@1@} To
+;
+57135 new enlarge. {%--<ab>Caus.</ab>%} ({#-pyAyayati#}) {@1@} To
+;---------------------------------------------------
+; <L>6692<pc>0253-a<k1>ArawwaH<k2>ArawwaH
+58935 old north-east of Panjab, famous for
+;
+58935 new northeast of Panjab, famous for
+;---------------------------------------------------
+; <L>7338<pc>0276-a<k1>itihAsaH<k2>itihAsaH
+64250 old {#itihAsaH#}¦ [<ab>fr.</ab> {#iti-ha-Asa#}(3rd. <ab>pers.</ab>
+;
+64250 new {#itihAsaH#}¦ [<ab>fr.</ab> {#iti-ha-Asa#} (3rd. <ab>pers.</ab>
+;---------------------------------------------------
+; <L>7525<pc>0283-c<k1>ISa<k2>ISa
+66027 old north-east quarter). {#--SA#} {@1@} <lbinfo n="Su+premacy"/>
+;
+66027 new northeast quarter). {#--SA#} {@1@} <lbinfo n="Su+premacy"/>
+;---------------------------------------------------
+; <L>7525<pc>0283-c<k1>ISa<k2>ISa
+66031 old {@--Comp.@} {#--koRaH#} the north-east
+;
+66031 new {@--Comp.@} {#--koRaH#} the northeast
+;---------------------------------------------------
+; <L>7828<pc>0293-c<k1>uttara<k2>uttara
+68545 old north-eastward (with <ab>gen.</ab>). {#--puruzaH#}
+;
+68545 new northeastward (with <ab>gen.</ab>). {#--puruzaH#}
+;---------------------------------------------------
+; <L>7828<pc>0293-c<k1>uttara<k2>uttara
+68547 old northeastern. {#--(rvA)#} the north-east.
+;
+68547 new northeastern. {#--(rvA)#} the northeast.
+;---------------------------------------------------
+; <L>7975<pc>0299-c<k1>utsArakaH<k2>utsArakaH
+69733 old porter, door-keeper.
+;
+69733 new porter, doorkeeper.
+;---------------------------------------------------
+; <L>8066<pc>0303-c<k1>udAsTita<k2>udAsTita
+70607 old door-keeper. {@--3@} A spy, an emissary.
+;
+70607 new doorkeeper. {@--3@} A spy, an emissary.
+;---------------------------------------------------
+; <L>8375<pc>0314-a<k1>unmatta<k2>unmatta
+72991 old Possessed by a ghost or an evil-spirit;  <lbinfo n="ls:Y.+ 2. 32"/>
+;
+72991 new Possessed by a ghost or an evil spirit;  <lbinfo n="ls:Y.+ 2. 32"/>
+;---------------------------------------------------
+; <L>8606<pc>0321-c<k1>upadarSaka<k2>upadarSaka
+74822 old A door-keeper. {@--3@} A witness.
+;
+74822 new A doorkeeper. {@--3@} A witness.
+;---------------------------------------------------
+; <L>8939<pc>0332-a<k1>upasaMvyAnaM<k2>upasaMvyAnaM
+77248 old {#upasaMvyAnaM#}¦ An under-garment;
+;
+77248 new {#upasaMvyAnaM#}¦ An undergarment;
+;---------------------------------------------------
+; <L>9681<pc>0359-c<k1>ESAna<k2>ESAna
+83481 old to Śiva. {#--nI#} {@1@} The north-eastern
+;
+83481 new to Śiva. {#--nI#} {@1@} The northeastern
+;---------------------------------------------------
+; <L>9947<pc>0366-b<k1>kakzaH<k2>kakzaH
+85219 old garden. {3} a door-keeper. {4} a poet.
+;
+85219 new garden. {3} a doorkeeper. {4} a poet.
+;---------------------------------------------------
+; <L>11055<pc>0408-a<k1>kuwwihArikA<k2>kuwwihArikA
+94978 old {#kuwwihArikA#}¦ A maid-servant,
+;
+94978 new {#kuwwihArikA#}¦ A maidservant,
+;---------------------------------------------------
+; <L>11731<pc>0431-c<k1>krIqakaH<k2>krIqakaH
+100690 old door-keeper.
+;
+100690 new doorkeeper.
+;---------------------------------------------------
+; <L>12384<pc>0454-c<k1>garvAwaH<k2>garvAwaH
+106163 old {#garvAwaH#}¦ A watch-man, door-keeper.
+;
+106163 new {#garvAwaH#}¦ A watch-man, doorkeeper.
+;---------------------------------------------------
+; <L>14550<pc>0534-b<k1>tAMqavaH<k2>tAMqavaH --vaM
+124356 old the door-keeper of Śiva. {#--priyaH#} <ab>N.</ab>
+;
+124356 new the doorkeeper of Śiva. {#--priyaH#} <ab>N.</ab>
+;---------------------------------------------------
+; <L>15136<pc>0554-a<k1>dakziRa<k2>dakziRa
+129092 old south-western. {#--aBimusva#} {%<ab>a.</ab>%} facing
+;
+129092 new southwestern. {#--aBimusva#} {%<ab>a.</ab>%} facing
+;---------------------------------------------------
+; <L>15136<pc>0554-a<k1>dakziRa<k2>dakziRa
+129110 old {%<ab>ind.</ab>%} to the south-west. {#--paScima#} {%<ab>a.</ab>%}
+;
+129110 new {%<ab>ind.</ab>%} to the southwest. {#--paScima#} {%<ab>a.</ab>%}
+;---------------------------------------------------
+; <L>15136<pc>0554-a<k1>dakziRa<k2>dakziRa
+129111 old south-western. {#--(mA)#} the <lbinfo n="south+west"/>
+;
+129111 new southwestern. {#--(mA)#} the <lbinfo n="south+west"/>
+;---------------------------------------------------
+; <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+129341 old {#--pAMSulaH#} a porter, door-keeper.  <lbinfo n="--pA#RiH"/>
+;
+129341 new {#--pAMSulaH#} a porter, doorkeeper.  <lbinfo n="--pA#RiH"/>
+;---------------------------------------------------
+; <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+129351 old magistrate. {2} a door-keeper, porter.
+;
+129351 new magistrate. {2} a doorkeeper, porter.
+;---------------------------------------------------
+; <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+129375 old {%--<ab>m.</ab>%}). {#--vAsikaH#} a door-keeper, warder.
+;
+129375 new {%--<ab>m.</ab>%}). {#--vAsikaH#} a doorkeeper, warder.
+;---------------------------------------------------
+; <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+129376 old {#--vAsin#} {%<ab>m.</ab>%} {1} a door-keeper. {2} a
+;
+129376 new {#--vAsin#} {%<ab>m.</ab>%} {1} a doorkeeper. {2} a
+;---------------------------------------------------
+; <L>15150<pc>0554-c<k1>daMqaH<k2>daMqaH --qaM
+129389 old {#--hastaH#} {1} a door-keeper, warder,
+;
+129389 new {#--hastaH#} {1} a doorkeeper, warder,
+;---------------------------------------------------
+; <L>15161<pc>0556-a<k1>daMqin<k2>daMqin
+129455 old {@--2@} A door-keeper, porter. {@--3@} An
+;
+129455 new {@--2@} A doorkeeper, porter. {@--3@} An
+;---------------------------------------------------
+; <L>15244<pc>0559-a<k1>darvawaH<k2>darvawaH
+130166 old police-officer. {@--2@} A door-keeper.
+;
+130166 new police-officer. {@--2@} A doorkeeper.
+;---------------------------------------------------
+; <L>15598<pc>0576-c<k1>darSaka<k2>darSaka
+134071 old exhibits. {@--2@} A door-keeper, warder.
+;
+134071 new exhibits. {@--2@} A doorkeeper, warder.
+;---------------------------------------------------
+; <L>15602<pc>0577-a<k1>darSayitf<k2>darSayitf
+134131 old guiding. {%--<ab>m.</ab>%} {@1@} A warder, door-keeper.
+;
+134131 new guiding. {%--<ab>m.</ab>%} {@1@} A warder, doorkeeper.
+;---------------------------------------------------
+; <L>15626<pc>0578-a<k1>deva<k2>deva
+134524 old door-keeper of Indra. {#--nAgarI#} <ab>N.</ab> of
+;
+134524 new doorkeeper of Indra. {#--nAgarI#} <ab>N.</ab> of
+;---------------------------------------------------
+; <L>15713<pc>0582-c<k1>dOHsADikaH<k2>dOHsADikaH
+135397 old {#dOHsADikaH#}¦ {@1@} A door-keeper,
+;
+135397 new {#dOHsADikaH#}¦ {@1@} A doorkeeper,
+;---------------------------------------------------
+; <L>15738<pc>0583-a<k1>dOvArikaH<k2>dOvArikaH
+135508 old door-keeper, warder; <ls>R. 6. 59.</ls>
+;
+135508 new doorkeeper, warder; <ls>R. 6. 59.</ls>
+;---------------------------------------------------
+; <L>15864<pc>0587-a<k1>dvAr<k2>dvAr
+136514 old {#dvAsTitaH#}) a door-keeper, porter.
+;
+136514 new {#dvAsTitaH#}) a doorkeeper, porter.
+;---------------------------------------------------
+; <L>15865<pc>0587-b<k1>dvAraM<k2>dvAraM
+136527 old a porter, door-keeper. {#--kaMwakaH#} the
+;
+136527 new a porter, doorkeeper. {#--kaMwakaH#} the
+;---------------------------------------------------
+; <L>15865<pc>0587-b<k1>dvAraM<k2>dvAraM
+136532 old {#--darSin#} {%<ab>m.</ab>%} a door-keeper. {#--dAruH#}
+;
+136532 new {#--darSin#} {%<ab>m.</ab>%} a doorkeeper. {#--dAruH#}
+;---------------------------------------------------
+; <L>15865<pc>0587-b<k1>dvAraM<k2>dvAraM
+136541 old door-keeper.
+;
+136541 new doorkeeper.
+;---------------------------------------------------
+; <L>16329<pc>0607-b<k1>naMdin<k2>naMdin
+141032 old {@--3@} <ab>N.</ab> of the door-keeper of Śiva,
+;
+141032 new {@--3@} <ab>N.</ab> of the doorkeeper of Śiva,
+;---------------------------------------------------
+; <L>17165<pc>0639-c<k1>nizaRRa<k2>nizaRRa
+148441 old afflicted, down cast; <ab>cf.</ab> {#vizaRRa#}.
+;
+148441 new afflicted, downcast; <ab>cf.</ab> {#vizaRRa#}.
+;---------------------------------------------------
+; <L>17173<pc>0639-c<k1>nizaDa<k2>nizaDa
+148475 old {#nizaDa#}¦ {%<ab>a.</ab>%} Hard, solid. {#--DAH#}({%<ab>m.</ab>%} <ab>pl.</ab>)
+;
+148475 new {#nizaDa#}¦ {%<ab>a.</ab>%} Hard, solid. {#--DAH#} ({%<ab>m.</ab>%} <ab>pl.</ab>)
+;---------------------------------------------------
+; <L>17427<pc>0649-b<k1>nErftaH<k2>nErftaH
+150755 old regent of the south-western <lbinfo n="direc+tion"/>
+;
+150755 new regent of the southwestern <lbinfo n="direc+tion"/>
+;---------------------------------------------------
+; <L>17428<pc>0649-c<k1>nErftI<k2>nErftI
+150761 old {@--2@} The south-western direction.
+;
+150761 new {@--2@} The southwestern direction.
+;---------------------------------------------------
+; <L>18043<pc>0676-a<k1>pariDAnaM<k2>pari(rI)DAnaM
+156622 old especially an under-garment, clothes
+;
+156622 new especially an undergarment, clothes
+;---------------------------------------------------
+; <L>18044<pc>0676-a<k1>pariDAnIyaM<k2>pariDAnIyaM
+156632 old {#pariDAnIyaM#}¦ An under-garment. {#--yA#}
+;
+156632 new {#pariDAnIyaM#}¦ An undergarment. {#--yA#}
+;---------------------------------------------------
+; <L>19256<pc>0716-b<k1>pUrva<k2>pUrva
+166415 old north-eastern. {#--(rA)#} the <lbinfo n="north+east"/>
+;
+166415 new northeastern. {#--(rA)#} the <lbinfo n="north+east"/>
+;---------------------------------------------------
+; <L>20118<pc>0743-b<k1>pratihAraH<k2>prati(tI)hAraH
+172895 old {#--rakzI#} a female door-keeper; <ls>R. 6. 20.</ls>
+;
+172895 new {#--rakzI#} a female doorkeeper; <ls>R. 6. 20.</ls>
+;---------------------------------------------------
+; <L>20154<pc>0744-b<k1>pratIhArI<k2>pratIhArI
+173138 old {#pratIhArI#}¦ {@1@} A female door-keeper.
+;
+173138 new {#pratIhArI#}¦ {@1@} A female doorkeeper.
+;---------------------------------------------------
+; <L>20154<pc>0744-b<k1>pratIhArI<k2>pratIhArI
+173139 old {@--2@} A door-keeper in general.
+;
+173139 new {@--2@} A doorkeeper in general.
+;---------------------------------------------------
+; <L>20176<pc>0745-a<k1>pratyaMc<k2>pratyaMc, pratyac
+173319 old the south-west. {#--dfS#} {%<ab>f.</ab>%} ({#pratyagdfS#})
+;
+173319 new the southwest. {#--dfS#} {%<ab>f.</ab>%} ({#pratyagdfS#})
+;---------------------------------------------------
+; <L>21068<pc>0770-b<k1>prAc<k2>prAc, prAMc
+179664 old north-east. {#--karman#} ({#prAkkarman#}) {%<ab>n.</ab>%} {1}
+;
+179664 new northeast. {#--karman#} ({#prAkkarman#}) {%<ab>n.</ab>%} {1}
+;---------------------------------------------------
+; <L>21947<pc>0807-c<k1>BawwinI<k2>BawwinI
+188012 old by maid-servants in addressing a
+;
+188012 new by maidservants in addressing a
+;---------------------------------------------------
+; <L>22231<pc>0819-c<k1>Bujizya<k2>Bujizya
+190757 old {@1@} A hand maid, maid-servant, <lbinfo n="fe+male"/>
+;
+190757 new {@1@} A hand maid, maidservant, <lbinfo n="fe+male"/>
+;---------------------------------------------------
+; <L>22865<pc>0850-b<k1>mahA<k2>mahA
+197922 old {#--pratIhAraH#} a chief door-keeper.  <lbinfo n="--prapaM#caH"/>
+;
+197922 new {#--pratIhAraH#} a chief doorkeeper.  <lbinfo n="--prapaM#caH"/>
+;---------------------------------------------------
+; <L>23075<pc>0863-a<k1>mAlaH<k2>mAlaH
+200147 old west or south-west of Bengal. {@--2@}
+;
+200147 new west or southwest of Bengal. {@--2@}
+;---------------------------------------------------
+; <L>25042<pc>0945-a<k1>vara<k2>vara
+218555 old {1} a door-keeper. {2} a lover, <lbinfo n="para+mour"/>
+;
+218555 new {1} a doorkeeper. {2} a lover, <lbinfo n="para+mour"/>
+;---------------------------------------------------
+; <L>25134<pc>0949-a<k1>vartarUkaH<k2>vartarUkaH
+219353 old nest. {@--4@} A door-keeper. {@--5@} <ab>N.</ab> of a
+;
+219353 new nest. {@--4@} A doorkeeper. {@--5@} <ab>N.</ab> of a
+;---------------------------------------------------
+; <L>25478<pc>0961-b<k1>vArI<k2>vArI
+222312 old {#vArI#}¦ See {#vAri#}({%<ab>f.</ab>%}).
+;
+222312 new {#vArI#}¦ See {#vAri#} ({%<ab>f.</ab>%}).
+;---------------------------------------------------
+; <L>26930<pc>1010-a<k1>vetAlaH<k2>vetAlaH
+233889 old {@--2@} A door-keeper.
+;
+233889 new {@--2@} A doorkeeper.
+;---------------------------------------------------
+; <L>26932<pc>1010-a<k1>vetraH<k2>vetraH
+233902 old {#--DaraH, --DArakaH#} {1} a door-keeper. {2}
+;
+233902 new {#--DaraH, --DArakaH#} {1} a doorkeeper. {2}
+;---------------------------------------------------
+; <L>26934<pc>1010-a<k1>vetravatI<k2>vetravatI
+233911 old {#vetravatI#}¦ {@1@} A female door-keeper.
+;
+233911 new {#vetravatI#}¦ {@1@} A female doorkeeper.
+;---------------------------------------------------
+; <L>26935<pc>1010-a<k1>vetrin<k2>vetrin
+233915 old {#vetrin#}¦ {%<ab>m.</ab>%} {@1@} A door-keeper, warder.
+;
+233915 new {#vetrin#}¦ {%<ab>m.</ab>%} {@1@} A doorkeeper, warder.
+;---------------------------------------------------
+; <L>28006<pc>1047-a<k1>SiSuH<k2>SiSuH
+242614 old <ab>n.</ab> the north-east quarter. {#--vAhakaH#},
+;
+242614 new <ab>n.</ab> the northeast quarter. {#--vAhakaH#},
+;---------------------------------------------------
+; <L>29720<pc>1104-c<k1>saMbADanaM<k2>saMbADanaM
+256100 old of a stake. {@--6@} A door-keeper ({%<ab>m.</ab>%} ?).
+;
+256100 new of a stake. {@--6@} A doorkeeper ({%<ab>m.</ab>%} ?).
+;---------------------------------------------------
+; <L>30353<pc>1126-a<k1>su<k2>su
+261556 old elephant of the north-east quarter.
+;
+261556 new elephant of the northeast quarter.
+;---------------------------------------------------
+; <L>30570<pc>1138-c<k1>sEraMDrI<k2>sEraMDrI, sEriMDrI
+263816 old {#sEraMDrI, sEriMDrI#}¦ {@1@} A maid-servant or
+;
+263816 new {#sEraMDrI, sEriMDrI#}¦ {@1@} A maidservant or
+;---------------------------------------------------
+; <L>31236<pc>1164-b<k1>haMjA<k2>haMjA, haMje
+269646 old attendant or maid-servant; {#haMje#} <lbinfo n="kaM#caRamAle"/>
+;
+269646 new attendant or maidservant; {#haMje#} <lbinfo n="kaM#caRamAle"/>
+;---------------------------------------------------
+; <L>31345<pc>1169-a<k1>hastinapuraM<k2>hastina(nA)puraM
+270725 old situated some fifty miles north-east
+;
+270725 new situated some fifty miles northeast
+;---------------------------------------------------
+; <L>32113<pc>1193-b<k1>kuMtala<k2>kuMtala
+273252 old represents the south-western portion of Hyderabad.
+;
+273252 new represents the southwestern portion of Hyderabad.
+;---------------------------------------------------
+; <L>32133<pc>1194-b<k1>draviqa<k2>draviqa
+273407 old miles south-west of Madras.
+;
+273407 new miles southwest of Madras.
+;---------------------------------------------------
+; <L>32142<pc>1195-a<k1>pAMqya<k2>pAMqya
+273474 old and lying to the south-west of Choladeśa. The
+;
+273474 new and lying to the southwest of Choladeśa. The
+;---------------------------------------------------
+; <L>32144<pc>1195-a<k1>pAriyAtra<k2>pAriyAtra
+273496 old north-east.
+;
+273496 new northeast.
+;---------------------------------------------------
+; <L>32162<pc>1196-a<k1>videha<k2>videha
+273621 old {#videha#}¦ <ab>N.</ab> of a country lying to the north-east of <lbinfo n="Maga+dha"/>
+;
+273621 new {#videha#}¦ <ab>N.</ab> of a country lying to the northeast of <lbinfo n="Maga+dha"/>
+;---------------------------------------------------
+; <L>32174<pc>1196-b<k1>hastinApura<k2>hastinApura
+273701 old north-east of the modern Delhi on the banks of
+;
+273701 new northeast of the modern Delhi on the banks of
+;---------------------------------------------------
