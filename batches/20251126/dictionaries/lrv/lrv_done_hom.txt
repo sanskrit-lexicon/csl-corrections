@@ -1,0 +1,274 @@
+
+Sanskrit Lexicon Correction Form History for LRV
+As of November 26, 2025
+
+This file contains 38 cases Scott labeled as "old = Headword Listed Twice".
+THESE have been 'DONE' by the marking of homonyms in lrv displays,
+see https://github.com/sanskrit-lexicon/csl-corrections/issues/101#issuecomment-3663144276
+
+* TODOHOM Case 1: 04/19/2025 dict=LRV, L=3363, hw=arjuna, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 56: 04/23/2025 dict=LRV, L=3441, hw=arthya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 83: 04/25/2025 dict=LRV, L=3443, hw=ard, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 86: 04/25/2025 dict=LRV, L=3448, hw=ardha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 128: 04/28/2025 dict=LRV, L=3508, hw=arbhaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 129: 04/28/2025 dict=LRV, L=3510, hw=arya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 151: 04/30/2025 dict=LRV, L=3531, hw=arha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 152: 04/30/2025 dict=LRV, L=3537, hw=arhanta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 153: 04/30/2025 dict=LRV, L=3555, hw=alakṣaṇa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 168: 05/01/2025 dict=LRV, L=3583, hw=alaṃpaṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 181: 05/02/2025 dict=LRV, L=3615, hw=alīka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 182: 05/02/2025 dict=LRV, L=3620, hw=alepaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 183: 05/02/2025 dict=LRV, L=3622, hw=3622, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 184: 05/02/2025 dict=LRV, L=3622, hw=aloka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 198: 05/04/2025 dict=LRV, L=3671, hw=avakaṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 199: 05/04/2025 dict=LRV, L=3680, hw=avakṛṣṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 208: 05/04/2025 dict=LRV, L=3703, hw=avagīta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 209: 05/04/2025 dict=LRV, L=3703, hw=avagīta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 210: 05/04/2025 dict=LRV, L=3703, hw=avagīta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 211: 05/04/2025 dict=LRV, L=3721, hw=avacana, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 225: 05/07/2025 dict=LRV, L=3732, hw=avacchurita, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. APTE seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 226: 05/07/2025 dict=LRV, L=3735, hw=avacchedaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 227: 05/07/2025 dict=LRV, L=3735, hw=avacchedaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 228: 05/07/2025 dict=LRV, L=3735, hw=avacchedaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 237: 05/08/2025 dict=LRV, L=3766, hw=avadāta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 238: 05/08/2025 dict=LRV, L=3773, hw=avadya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 239: 05/08/2025 dict=LRV, L=3781, hw=avadhūta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 240: 05/08/2025 dict=LRV, L=3781, hw=avadhūta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 242: 05/08/2025 dict=LRV, L=3788, hw=avanaddha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 266: 05/11/2025 dict=LRV, L=3835, hw=avayavin, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 267: 05/11/2025 dict=LRV, L=3837, hw=avara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 362: 05/25/2025 dict=LRV, L=4018, hw=aviśeṣa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 363: 05/25/2025 dict=LRV, L=4033, hw=avedya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 364: 05/25/2025 dict=LRV, L=4035, hw=avela, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 365: 05/25/2025 dict=LRV, L=4041, hw=avyakta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 395: 05/28/2025 dict=LRV, L=4058, hw=avyatha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 396: 05/28/2025 dict=LRV, L=4076, hw=avyākṛta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+
+* TODOHOM Case 397: 05/28/2025 dict=LRV, L=4084, hw=avyutpanna, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = DONE
+------------------------------------------------------------------------
+

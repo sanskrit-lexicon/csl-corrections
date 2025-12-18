@@ -1,0 +1,196 @@
+
+Sanskrit Lexicon Correction Form History for LRV
+As of November 26, 2025
+
+This file contains 27 cases classified as
+ english word spelling changes, most of which involve removing a hyphen.
+ These cases not changed, but may be changed in the future.
+ 
+* TODO- Case 88: 04/25/2025 dict=LRV, L=3472, hw=ardhadivasa, user=srhodes
+old = mid-day
+new = midday
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 122: 04/28/2025 dict=LRV, L=3474, hw=ardhaniśā, user=srhodes
+old = mid-night
+new = midnight
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 123: 04/28/2025 dict=LRV, L=3477, hw=ardhapatha, user=srhodes
+old = half way
+new = halfway
+comment = Typo – Please note that generally this meaning is written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 124: 04/28/2025 dict=LRV, L=3478, hw=ardhapathe, user=srhodes
+old = mid-way
+new = midway
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 125: 04/28/2025 dict=LRV, L=3482, hw=ardhabhāskara, user=srhodes
+old = mid-day
+new = midday
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 126: 04/28/2025 dict=LRV, L=3486, hw=ardhamārge, user=srhodes
+old = mid-way
+new = midway
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 127: 04/28/2025 dict=LRV, L=3491, hw=ardharātra, user=srhodes
+old = mid-night
+new = midnight
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 186: 05/02/2025 dict=LRV, L=3642, hw=alpadṛṣṭi, user=srhodes
+old = narrow- minded
+new = narrow-minded
+comment = Typo – Please note that a "space" has been removed.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 611: 06/21/2025 dict=LRV, L=4438, hw=asitanayanā, user=srhodes
+old = blackeyed
+new = black-eyed
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1272: 08/13/2025 dict=LRV, L=5345, hw=ārā, user=srhodes
+old = shoe-maker
+new = shoemaker
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1312: 08/18/2025 dict=LRV, L=5429, hw=ālambana, user=srhodes
+old = fire-brand
+new = firebrand
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1313: 08/18/2025 dict=LRV, L=5429, hw=ālāta, user=srhodes
+old = fire-brand
+new = firebrand
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1314: 08/18/2025 dict=LRV, L=5429, hw=ālāta, user=srhodes
+old = fire-brand
+new = firebrand
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1359: 08/22/2025 dict=LRV, L=5502, hw=āveśana, user=srhodes
+old = work-shop
+new = workshop
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1390: 08/27/2025 dict=LRV, L=5577, hw=āśvattha, user=srhodes
+old = fig-tree
+new = fig tree
+comment = Typo – Please note that this is better written as TWO words without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- dup Case 1391: 08/27/2025 dict=LRV, L=5576, hw=āśvattha, user=srhodes
+old = fig-tree
+new = fig tree
+comment = Typo – Please note that this is better written as TWO words without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1392: 08/27/2025 dict=LRV, L=5580, hw=āśvayujī, user=srhodes
+old = full-moon
+new = full moon
+comment = Typo – Please note that this is better written as TWO words without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1442: 08/31/2025 dict=LRV, L=5635, hw=āsthāna, user=srhodes
+old = recreation-ground
+new = recreation ground
+comment = Typo – Please note that this definition is better written without the "hyphen" as TWO words ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1443: 08/31/2025 dict=LRV, L=5636, hw=āsthānagṛha, user=srhodes
+old = assembly-room
+new = assembly room
+comment = Typo – Please note that this definition is better written without the "hyphen" as TWO words ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1444: 08/31/2025 dict=LRV, L=5636.1, hw=āsthānaniketana, user=srhodes
+old = assembly-room
+new = assembly room
+comment = Typo – Please note that this definition is better written without the "hyphen" as TWO words ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1593: 09/12/2025 dict=LRV, L=5789, hw=indukānta, user=srhodes
+old = moon-stone
+new = moonstone
+comment = Typo – Please note that this word is better written, as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1594: 09/12/2025 dict=LRV, L=5794, hw=indubhā, user=srhodes
+old = water-lily
+new = water lily
+comment = Typo – Please note that this word may be better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1708: 09/28/2025 dict=LRV, L=6007, hw=ucita, user=srhodes
+old = Praise-worthy
+new = Praiseworthy
+comment = Typo – Please note that the "hyphen" is only used due to a "line break" in the printed text. This is a single word to be written without the hyphen !
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1769: 10/02/2025 dict=LRV, L=6103, hw=utka, user=srhodes
+old = absent-minded
+new = absentminded
+comment = Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 1919: 10/16/2025 dict=LRV, L=6306, hw=utsava, user=srhodes
+old = merry-making
+new = merrymaking
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2248: 11/16/2025 dict=LRV, L=6668, hw=upakrīḍā, user=srhodes
+old = play-ground
+new = playground
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO- Case 2337: 11/24/2025 dict=LRV, L=6754, hw=upanaya, user=srhodes
+old = five-fold
+new = fivefold
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees! LB Also, please consider "Expanding" this Global Correction so as to correct all hyphened numbers from one to ten: thus onefold, twofold, threefold, fourfold etc. by Removing the Hyphen in each case Globally!
+status = PENDING
+------------------------------------------------------------------------
+

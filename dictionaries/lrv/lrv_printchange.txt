@@ -4,7 +4,7 @@ The reasons for these changes are various.
 This file was begun 12-15-2025
 
 -----------------------------------------------------------------------
-12-20-2025
+12-10-2025
 Source: Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
 L code : Headword : Old  : New : Comment
@@ -19,4 +19,19 @@ L code : Headword : Old  : New : Comment
 01916 : anvaya : retinue, attendance : retinue, attendants
 02359 : apraDAna : (op. to {#gORa#}) : (op. to {#agORa#})
 02366 : apramARa : pramARABAsa : pramARABAva
+-----------------------------------------------------------------------
+12-17-2025
+Source: Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102
+L code : Headword : Old  : New : Comment
+03832 : avayava : nigama : nigamana
+03904 : avasarga : as one lists : as one likes
+04023 : avizA : avizA : avizI : headword change
+04289 : azwApad : (I) m. : m.   : remove homonym
+04290 : azwApad : azwApad (II) m.n. : azwApada m.n. : headword change
+04331 : asat : tA : tI
+04846 : Aji : A fighting, match : A fighting match
+05360 : Aropa : sAropalakzaRA : sAropA lakzaRA 
+05926 : IdfktA : by quality or by quality : by quality or by quantity
+06461 : udgraMTa : factor : chapter
 -----------------------------------------------------------------------
