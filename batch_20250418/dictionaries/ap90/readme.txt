@@ -80,7 +80,7 @@ csl-corrections #pull
 ---------------
 # update displays for ap90
 cd csl-pywork/v02
-sh generate_dict.sh ap90  ../../AP90Scan/2022/
+sh generate_dict.sh ap90  ../../AP90Scan/2020/
 
 -----------------------------------------------------
 THE END
