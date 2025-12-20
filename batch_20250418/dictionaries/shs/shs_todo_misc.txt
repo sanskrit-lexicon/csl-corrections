@@ -1,0 +1,59 @@
+batch_20250418/dictionaries/shs/shs_todo_misc.txt 
+  8 cases not resolved
+
+* TODO Case 231: 01/31/2025 dict=SHS, L=1725, hw=ano, user=srhodes
+old = FONT CHANGE NEEDED: "Bold Italic Font"
+new = also no
+comment = Typo – Please note that this word is written in Devanāgarī script on the printed page. However, since the word has been transliterated, I believe that the word should appear in bold italics.
+status = PENDING  Jim: Alternate headword needed here.
+------------------------------------------------------------------------
+
+* TODO Case 399: 02/11/2025 dict=SHS, L=1947, hw=apaḥsānta, user=srhodes
+old = apaḥsānta
+new = apaḥsānta ?
+comment = Typo – Please note that I would greatly appreciate a little more information on this particular word, so as to confirm its accuracy and etymology. I am guessing that there is a relation either to the word : "ap"  OR  "apsā".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 577: 02/26/2025 dict=SHS, L=2209, hw=apāvṛta, user=srhodes
+old = 5. Driven away.
+new = Delete and Remove
+comment = Typo – I consider this definition to be erroneous and misleading. This definition should be properly applied to the word "apāvṛtta" which derives from a different root entirely. Would Andhrabharati like to speak?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 578: 02/26/2025 dict=SHS, L=2211, hw=apāvṛtta, user=srhodes
+old = 2. Uncovered.
+new = Delete and Remove
+comment = Typo – I consider this definition to be erroneous and misleading. This definition should be properly applied to the word "apāvṛta" which derives from a different root entirely. Would Andhrabharati like to speak?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 680: 03/05/2025 dict=SHS, L=2385, hw=apsaras, user=srhodes
+old = apsaras f. plur. always (-rāḥ)
+new = ???
+comment = Typo – Please clarify. The form indicated: "apsarāḥ" is what I consider to be the nominative singular case. However, here Shabda states: "apsaras f. plur. always (-rāḥ)". Does this mean that in fact "apsarāḥ" is an exception plural form? I hope that Dr. Dhaval or Andhrabharati will clarify this point.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 681: 03/05/2025 dict=SHS, L=2386, hw=apsarā, user=srhodes
+old = an Apsarā
+new = an Apsaras
+comment = Typo – I consider this correction to be important, because otherwise the word "apsarā" is being defined by itself: "an Apsarā". This must be considered as a fault in logic. The definition must not solely contain the word being defined! Therefore, "an Apsaras" is a better definition. What does Andhrabharati have to say?
+status = PENDING
+------------------------------------------------------------------------
+
+* TODO Case 747: 03/08/2025 dict=SHS, L=2443, hw=abrahyaṇya, user=srhodes
+old = Sacred, not to be killed, (in theatrical language.)
+new = ???
+comment = Typo – Please keep in mind that this Headword has just been corrected to: "abrahmaṇya". But now we need to look at the definition given by Shabda. I hope that Dr. Dhaval or Andhrabharati can offer some explanation to this definition which is VERY different from what Apte and MW have to say.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOz Case 1164: 04/07/2025 dict=SHS, L=2952, hw=ambālikā, user=srhodes
+old = PāNDU
+new = Pāṇḍu
+comment = Typo - Something should be corrected here. You may decide as you like.
+status = PENDING
+------------------------------------------------------------------------
+

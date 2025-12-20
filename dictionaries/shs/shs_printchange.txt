@@ -1028,3 +1028,28 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/92
 code : Headword : Old  : New : Comment
 10456 : kila : Ealsehood : Falsehood :
 1439 : anukampya : expeditions : expeditious :
+
+-----------------------------------------------------------------------
+12-20-2025
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101
+code : Headword : Old  : New : Comment
+1579 : anamati : anamati : anumati : headword change
+1645 : anuviDAyin : complaint : compliant
+1662 : anuSucikA : enjoyed : enjoined
+1807 : antya : See sustA : See musta
+1863 : annabrahma : annabrahma : annabrahman : headword change
+1901 : anyaSAKa : apostable : apostate
+1929 : anvahas : anvahas : anvaham : headword change
+2090 : aparivfta : Uninclosed : Unenclosed
+24525 : pAraRa : pa to satisfy : pF to satisfy
+2419 : abjayoni : A name of BRAHMA : A name of BRAHMAN (m.)
+771 : aviromaSa : aviromaSa : atiromaSa : headword change
+2489 : amiGAta : amiGAta : aBiGAta : headword change
+2597 : aBilAva : Repeating : Reaping
+2796 : atipUrvva : atipUrvva : amatipUrvva
+2983 : ambuvAcI : Ashārha : Aṣāḍha
+3143 : arara : arara : arare : headword change
+42412 : sapatra : sapatra : sapatna : headword change
+17564 : tIrTakara : synonimes : synonyms
+-----------------------------------------------------------------------
