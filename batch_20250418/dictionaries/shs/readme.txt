@@ -95,14 +95,22 @@ cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250418/dictionaries/shs
 ------------------------
 
 # csl-pywork
-  TODO
+cd /c/xampp/htdocs/cologne/csl-pywork
+git pull
+git add .
+git commit -m "Scott backlog of 20250418, shs
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101"
+
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250418/dictionaries/shs
+
   
 ---------------------------------------------------
 # sync to Cologne, pull changed repos, redo display
 ---------------
 csl-orig #pull
 csl-corrections #pull
-
+csl-pywork # pull
 ---------------
 # update displays for shs
 cd csl-pywork/v02
