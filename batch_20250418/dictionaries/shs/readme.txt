@@ -114,7 +114,7 @@ csl-pywork # pull
 ---------------
 # update displays for shs
 cd csl-pywork/v02
-sh generate_dict.sh shs  ../../SHSScan/2022/
+sh generate_dict.sh shs  ../../SHSScan/2020/
 
 -----------------------------------------------------
 THE END
