@@ -1,0 +1,30 @@
+batches/20251126/dictionaries/shs/shs_todo_misc.txt
+[
+3 cases not done
+
+
+* TODO Case 758: 06/30/2025 dict=SHS, L=4897, hw=ahuta, user=srhodes
+old = See below
+new = in the meaning given as: "2. Uncalled, unsummoned.", I believe that the spelling should be: "ahūta"
+comment = See above
+status = PENDING 
+  Jim: don't want to attempt this rewriting of SHS (or of YAT, WIL)
+  MW72 ahUta "The form a-huta with the
+            sense ‘uncalled,’ given by Wilson, is very questionable."
+------------------------------------------------------------------------
+
+* TODO Case 1233: 08/10/2025 dict=SHS, L=5601, hw=āmarṣaṇa, user=srhodes
+old = See Below
+new = Please note that the suggestion here is a bit radical. An additional Headword should be added: "āmarśana" , and the definitions: "1. Rubbing, wiping", will be removed  from the Headword "āmarṣaṇa", and placed under this new Headword "āmarśana" , which incidentally will follow the Headword "āmarśa [ID=5599 ]". This is confirmed by the dhātupāṭha parts "mṛṣa titikṣāyām" and "mṛśa āmarśane" as indicated by Andhrabharati.
+comment = See Above
+status = PENDING
+  Jim: don't want to attempt this rewriting of SHS (or of YAT, WIL)
+------------------------------------------------------------------------
+
+* TODO dup Case 1234: 08/10/2025 dict=SHS, L=5601, hw=āmarṣaṇa, user=srhodes
+old = See Below
+new = Please note that the suggestion here is a bit radical. An additional Headword should be added: "āmarśana" , and the definitions: "1. Rubbing, wiping", will be removed  from the Headword "āmarṣaṇa", and placed under this new Headword "āmarśana" , which incidentally will follow the Headword "āmarśa [ID=5599 ]". This is confirmed by the dhātupāṭha parts "mṛṣa titikṣāyām" and "mṛśa āmarśane" as indicated by Andhrabharati.
+comment = See Above
+status = PENDING see Case 1233
+------------------------------------------------------------------------
+

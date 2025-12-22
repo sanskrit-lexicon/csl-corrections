@@ -1,0 +1,1534 @@
+batches/20251126/dictionaries/shs/shs_done.txt 
+
+see readme_shs_global.txt for global changes
+'Jim' comments by Jim (15)
+220 cases.
+214 status = DONE
+  6 status = NO CHANGE
+
+"Jim" for comments by Jim
+"** pc:"  44 print changes
+
+* Case 21: 04/20/2025 dict=SHS, L=3251, hw=arkāhna, user=srhodes
+old = synonimes
+new = synonyms
+comment = Typo – Please consider this to be a Global correction across all dictionaries.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 22: 04/20/2025 dict=SHS, L=3259, hw=arghabalābala, user=srhodes
+old = proper. price
+new = proper price
+status = DONE
+------------------------------------------------------------------------
+
+* Case 39: 04/21/2025 dict=SHS, L=3278, hw=arjuna, user=srhodes
+old = USHĀ
+new = UṢĀ
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 40: 04/21/2025 dict=SHS, L=3286, hw=arṇavaja, user=srhodes
+old = Cuttle fish
+new = Cuttlefish
+comment = Typo – This term is generally written as a SINGLE word. Please note that this is a suggested Global Print Change across all dictionaries.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 41: 04/21/2025 dict=SHS, L=3299, hw=artha, user=srhodes
+old = well being
+new = well-being
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 100: 04/25/2025 dict=SHS, L=3325, hw=arthavaikalpa, user=srhodes
+old = vaikalpa
+new = vaikalya
+comment = Typo – Please note that this is a "print change".
+status = DONE
+** pc: 3325<pc>058-a<k1>arTavEkalpa : arTavEkalya : arTavEkalya : headword change
+------------------------------------------------------------------------
+
+* Case 101: 04/25/2025 dict=SHS, L=3325, hw=arthavaikalpa, user=srhodes
+old = arthavaikalpa
+new = arthavaikalya
+comment = Typo – Please note that this is a "print change" and Headword Typo, and therefore it requires three corrections in the Window Display.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 103: 04/26/2025 dict=SHS, L=3362, hw=arddhacandra, user=srhodes
+old = finger nail
+new = fingernail
+comment = Typo – Better written as a single word.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 104: 04/26/2025 dict=SHS, L=3366, hw=arddhajāhnavī, user=srhodes
+old = Kāveri
+new = Kāverī
+status = DONE
+------------------------------------------------------------------------
+
+* Case 105: 04/26/2025 dict=SHS, L=3371, hw=arddhapaṇa, user=srhodes
+old = Half a Pana. LB E. arddha, and paṇa a measure of four Kākinis
+new = Half a Paṇa. LB E. arddha, and paṇa a measure of four Kākinīs
+status = DONE
+------------------------------------------------------------------------
+
+* Case 107: 04/27/2025 dict=SHS, L=3391, hw=arddhāśin, user=srhodes
+old = arddhāśin
+new = arddhāṃśin
+comment = Typo – Please note that this is a Headword Typo confirmed by the citation: "E. arddhāṃśa and ini aff." Therefore it requires three corrections in the Window Display.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 108: 04/27/2025 dict=SHS, L=3392, hw=arddhāṃṅga, user=srhodes
+old = arddhāṃṅga
+new = arddhāṅga
+comment = Typo – Please note that this is a Headword Typo confirmed by the citation: "E. arddha, and aṅga the body." Therefore it requires three corrections in the Window Display.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 109: 04/27/2025 dict=SHS, L=3399, hw=arddhendu, user=srhodes
+old = finger nail
+new = fingernail
+comment = Typo – Please note that this is generally written as a single word, and may be considered a Global Correction across all dictionaries.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 110: 04/27/2025 dict=SHS, L=3417, hw=aryya, user=srhodes
+old = Vaisya
+new = Vaiśya
+status = DONE
+------------------------------------------------------------------------
+
+* Case 111: 04/27/2025 dict=SHS, L=3420, hw=aryyāṇī, user=srhodes
+old = Vaisya
+new = Vaiśya
+status = DONE
+------------------------------------------------------------------------
+
+* Case 135: 04/29/2025 dict=SHS, L=3446, hw=arhya, user=srhodes
+old = Vererable
+new = Venerable
+status = DONE
+------------------------------------------------------------------------
+
+* Case 160: 05/01/2025 dict=SHS, L=3461, hw=alakṣita, user=srhodes
+old = unseem
+new = unseen
+status = DONE
+------------------------------------------------------------------------
+
+* Case 161: 05/01/2025 dict=SHS, L=3469, hw=alaghūman, user=srhodes
+old = alaghūman
+new = alaghūṣman
+comment = Typo – Please note that this is a Headword Typo.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 162: 05/01/2025 dict=SHS, L=3471, hw=alaṅkariṣṇu, user=srhodes
+old = Fond or ornament
+new = Fond of ornament
+status = DONE
+------------------------------------------------------------------------
+
+* Case 169: 05/02/2025 dict=SHS, L=3504, hw=alāta, user=srhodes
+old = fire brand, weather burning or extinguished
+new = firebrand, whether burning or extinguished
+comment = Typo – Please note two corrections here: 1) "firebrand" = 1 word ; and 2) We are not speaking of weather (rain and clouds).
+status = DONE
+** pc: 3504<pc>061-a<k1>alAta : fire brand, weather burning : firebrand, whether burning
+------------------------------------------------------------------------
+
+* Case 188: 05/03/2025 dict=SHS, L=3551, hw=alpa, user=srhodes
+old = Inferior. low
+new = Inferior, low
+status = DONE
+------------------------------------------------------------------------
+
+* Case 189: 05/03/2025 dict=SHS, L=3576, hw=alpavidya, user=srhodes
+old = Ill taught
+new = Ill-taught
+comment = Typo – Please note that this is a suggested "print change", based upon Apte and standard usage.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 217: 05/06/2025 dict=SHS, L=3638, hw=avagāda, user=srhodes
+old = bason
+new = basin
+comment = Typo – I believe that this is a better spelling.
+status = DONE Jim: merriam-webster  bason is variant spelling of basin
+------------------------------------------------------------------------
+
+* Case 223: 05/06/2025 dict=SHS, L=3675, hw=avacchurita, user=srhodes
+old = horse laugh
+new = hoarse laugh  OR  horselaugh
+comment = Typo – Please note that this may be written one of two ways as suggested above, but we are NOT speaking about "laughing horses" !
+status = DONE  Jim : horselaugh (mw "horse-laugh", apte "horselaugh"
+  
+------------------------------------------------------------------------
+
+* Case 224: 05/06/2025 dict=SHS, L=3676, hw=avacchuritaka, user=srhodes
+old = horse laugh
+new = hoarse laugh  OR  horselaugh
+comment = Typo – Please note that this may be written one of two ways as suggested above, but we are NOT speaking about "laughing horses" !
+status = DONE  horselaugh
+------------------------------------------------------------------------
+
+* Case 250: 05/08/2025 dict=SHS, L=3721, hw=avadraṅka, user=srhodes
+old = avadraṅka
+new = avadraṅga
+comment = Typo – Please note that this may be a "print change", following MW and Apte.
+status = DONE
+** pc: 3721<pc>064-b<k1>avadraNka : avadraNka : avadraNga : headword change
+------------------------------------------------------------------------
+
+* Case 256: 05/10/2025 dict=SHS, L=3764, hw=avantisoma, user=srhodes
+old = ricewater
+new = rice-water
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* Case 257: 05/10/2025 dict=SHS, L=3812, hw=avaravrata, user=srhodes
+old = sum
+new = sun
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* Case 272: 05/12/2025 dict=SHS, L=3818, hw=avaruddha, user=srhodes
+old = Secluded, as in a harm
+new = Secluded, as in a harem
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* Case 273: 05/12/2025 dict=SHS, L=3821, hw=avarodhaka, user=srhodes
+old = haram
+new = harem
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* Case 274: 05/12/2025 dict=SHS, L=3827, hw=avaropita, user=srhodes
+old = Deprived of curtailed
+new = Deprived of, curtailed
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* Case 275: 05/12/2025 dict=SHS, L=3837, hw=avalambana, user=srhodes
+old = lavi
+new = labi
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* Case 288: 05/14/2025 dict=SHS, L=3859, hw=avaśakthikā, user=srhodes
+old = kness
+new = knees
+comment = Typo 
+status = DONE
+------------------------------------------------------------------------
+
+* Case 321: 05/19/2025 dict=SHS, L=3932, hw=avākapuṣpī, user=srhodes
+old = avākapuṣpī
+new = avākpuṣpī
+comment = Typo – Please note that this is a Headword typo, established on the strength of MW dictionary and other authorities.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 322: 05/19/2025 dict=SHS, L=3942, hw=avācyadeśa, user=srhodes
+old = {?n?}ot
+new = not
+status = DONE
+------------------------------------------------------------------------
+
+* Case 340: 05/22/2025 dict=SHS, L=3994, hw=avigra, user=srhodes
+old = avigra
+new = avigna
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 349: 05/23/2025 dict=SHS, L=4028, hw=avina, user=srhodes
+old = cacrifice
+new = sacrifice
+status = DONE
+------------------------------------------------------------------------
+
+* Case 350: 05/23/2025 dict=SHS, L=4029, hw=avinaya, user=srhodes
+old = behavede
+new = behaved
+status = DONE
+------------------------------------------------------------------------
+
+* Case 381: 05/26/2025 dict=SHS, L=4090, hw=aviśuddha, user=srhodes
+old = Definitions Error
+new = Please note that all the definitions listed here should be "negated". Please read the following explanation by the Great Andhrabharati:  LB 
+ We know that the prefix 'vi' has two meanings.. 
+  intense (viśeṣa) and opposite (vyatireka). LB 
+ While Wilson (WIL) has "properly" applied the 
+   ’vi’ as indicating 'viśeṣa' in 'viśuddha' (= vi_śuddha), 
+ he made a mistake in taking it 
+   to indicate 'vyatireka' in 'aviśuddha' (= a_vi_śuddha) 
+ to arrive at the faulty meanings (with two negatives 'a' & 'vi' cancelling each other!). LB 
+ And this was blindly taken "as is" in YAT and SHS.
+comment = Definitions Error
+status = DONE
+** pc: 4090<pc>070-b<k1>aviSudDa : Pure, etc. : Not pure, etc
+old:
+{#aviSudDa#}¦ mfn. ({#-dDaH-dDA-dDaM#}) 1. Pure, clear, free from fault or defect. 2.
+Valid, perfect, unimpeached. E. {#a#} neg. {#viSudDa#} faulty.
+
+new:
+{#aviSudDa#}¦ mfn. ({#-dDaH-dDA-dDaM#}) 1. Not pure, clear, free from fault or defect. 2.
+Not valid, perfect, or unimpeached. E. {#a#} neg. {#viSudDa#} pure.
+
+------------------------------------------------------------------------
+
+* Case 387: 05/27/2025 dict=SHS, L=4134, hw=abda, user=srhodes
+old = abda
+new = avda
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 400: 05/29/2025 dict=SHS, L=4158, hw=avyalīka, user=srhodes
+old = vyalīka alse.
+new = vyalīka false.
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 401: 05/29/2025 dict=SHS, L=4158, hw=avyalīka, user=srhodes
+old = vyalīka alse.
+new = vyalīka false.
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 402: 05/29/2025 dict=SHS, L=4158, hw=avyalīka, user=srhodes
+old = vyalīka alse.
+new = vyalīka false.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 416: 05/30/2025 dict=SHS, L=4182, hw=avyāpitva, user=srhodes
+old = Specility
+new = Speciality
+status = DONE
+------------------------------------------------------------------------
+
+* Case 425: 05/31/2025 dict=SHS, L=4199, hw=aśaṅkita, user=srhodes
+old = Feerless
+new = Fearless
+status = DONE
+------------------------------------------------------------------------
+
+* Case 440: 06/01/2025 dict=SHS, L=40711, hw=śṛgāla, user=srhodes
+old = E. śṛj
+new = E. sṛj
+comment = Typo – Please note that this is a suggested "print change" on the strength of Shabda's own listing of the root √sṛj , while the citation here "√śṛj" is nowhere to be found!
+status = DONE
+** pc: 40711<pc>727-b<k1>SfgAla : E. {#Sfj#} : E. {#sfj#}
+------------------------------------------------------------------------
+
+* Case 444: 06/01/2025 dict=SHS, L=4223, hw=aśigha, user=srhodes
+old = aśigha
+new = aśitra
+comment = Typo – Please note that this is a Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 467: 06/04/2025 dict=SHS, L=4289, hw=aśraddhadhāna, user=srhodes
+old = śraddhadhāna believing.
+new = śraddadhāna believing.
+status = DONE see next
+------------------------------------------------------------------------
+
+* Case 468: 06/04/2025 dict=SHS, L=4289, hw=aśraddhadhāna, user=srhodes
+old = aśraddhadhāna
+new = aśraddadhāna
+comment = Typo – Please note that this is a Headword Typo!
+status = DONE
+** pc: 4289<pc>073-b<k1>aSradDaDAna : aSradDaDAna : aSraddaDAna : headword change
+------------------------------------------------------------------------
+
+* Case 478: 06/05/2025 dict=SHS, L=4312, hw=aśleṣābhava, user=srhodes
+old = VISHNŪ
+new = VISHNU  OR  VIṢṆU
+comment = Typo – Please note that I prefer the second correction above. Please make this a "Global Correction", so as to save us both time!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 479: 06/05/2025 dict=SHS, L=4314, hw=aśva, user=srhodes
+old = du. (-śvī)
+new = du. (-śvau)
+status = DONE
+------------------------------------------------------------------------
+
+* Case 480: 06/05/2025 dict=SHS, L=4324, hw=aśvagrīva, user=srhodes
+old = Hayagriva
+new = Hayagrīva
+status = DONE
+------------------------------------------------------------------------
+
+* Case 481: 06/05/2025 dict=SHS, L=4328, hw=aśvatara, user=srhodes
+old = quirister
+new = chorister
+status = DONE
+------------------------------------------------------------------------
+
+* Case 482: 06/05/2025 dict=SHS, L=4335, hw=aśvabāla, user=srhodes
+old = Horse. hair
+new = Horse-hair  OR  Horse hair
+status = DONE
+------------------------------------------------------------------------
+
+* Case 483: 06/06/2025 dict=SHS, L=4343, hw=aśvamedhika, user=srhodes
+old = calld
+new = called
+status = DONE
+------------------------------------------------------------------------
+
+* Case 484: 06/06/2025 dict=SHS, L=4353, hw=aśvavāraṇa, user=srhodes
+old = skreen
+new = screen
+status = DONE
+------------------------------------------------------------------------
+
+* Case 485: 06/06/2025 dict=SHS, L=4358, hw=aśvaśṛgālikā, user=srhodes
+old = jackall
+new = jackal
+status = DONE
+------------------------------------------------------------------------
+
+* Case 486: 06/06/2025 dict=SHS, L=4370, hw=aśvaroha, user=srhodes
+old = aśvaroha
+new = aśvāroha
+comment = Typo – Please note that this is a Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 496: 06/07/2025 dict=SHS, L=4380, hw=aśvīna, user=srhodes
+old = Distant a day's journey for a horse
+new = Distant, a day's journey for a horse
+status = DONE
+------------------------------------------------------------------------
+
+* Case 497: 06/07/2025 dict=SHS, L=4387, hw=aṣṭaka, user=srhodes
+old = PĀMINI'S
+new = PĀṆINI'S
+status = DONE
+------------------------------------------------------------------------
+
+* Case 498: 06/07/2025 dict=SHS, L=4387, hw=aṣṭaka, user=srhodes
+old = PĀNINI'S
+new = PĀṆINI'S
+status = DONE
+------------------------------------------------------------------------
+
+* Case 499: 06/07/2025 dict=SHS, L=4394, hw=aṣṭaguṇa, user=srhodes
+old = Eight fold
+new = Eightfold
+status = DONE
+------------------------------------------------------------------------
+
+* Case 500: 06/07/2025 dict=SHS, L=4397, hw=aṣṭadhā, user=srhodes
+old = Eight fold
+new = Eightfold
+status = DONE
+------------------------------------------------------------------------
+
+* Case 501: 06/07/2025 dict=SHS, L=4405, hw=aṣṭamāna, user=srhodes
+old = Kurava
+new = Kuḍava
+status = DONE
+------------------------------------------------------------------------
+
+* Case 512: 06/09/2025 dict=SHS, L=4415, hw=aṣṭāṅga, user=srhodes
+old = the kness
+new = the knees
+status = DONE
+------------------------------------------------------------------------
+
+* Case 513: 06/09/2025 dict=SHS, L=4433, hw=asaṃlagra, user=srhodes
+old = asaṃlagra
+new = asaṃlagna
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 526: 06/12/2025 dict=SHS, L=4453, hw=asakhin, user=srhodes
+old = asakhin
+new = asakhi
+comment = Typo – This appears to be a Headword Typo, unless Andhrabharati can verify this spelling ending in the letter "n".
+status = DONE
+** pc: 4453<pc>076-b<k1>asaKin : asaKin : asaKi : headword change
+------------------------------------------------------------------------
+
+* Case 527: 06/12/2025 dict=SHS, L=4453, hw=asakhin, user=srhodes
+old = a neg. sakhin a friend.
+new = a neg. sakhi a friend.
+status = DONE  Jim: " m (-KA)" ??
+------------------------------------------------------------------------
+
+* Case 553: 06/14/2025 dict=SHS, L=4457, hw=asaṅkamuka, user=srhodes
+old = asaṅkamuka
+new = asaṅkasuka
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 554: 06/14/2025 dict=SHS, L=4471, hw=asajña, user=srhodes
+old = asajña
+new = asaṃjña
+comment = Typo – this is a Headword Typo, pending confirmation by Andhrabharati. Also, correct the following: "E. a neg. sajñā" to read: "E. a neg. saṃjñā".`
+status = DONE
+** pc: 4471<pc>077-a<k1>asajYa : asajYa : asaMjYa : headword change
+------------------------------------------------------------------------
+
+* Case 560: 06/15/2025 dict=SHS, L=4489, hw=asadrācāra, user=srhodes
+old = asadrācāra
+new = asadācāra
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 4489<pc>077-a<k1>asadrAcAra : asadrAcAra : asadAcAra : headword change
+------------------------------------------------------------------------
+
+* Case 561: 06/15/2025 dict=SHS, L=4763, hw=asthisaṃhāra, user=srhodes
+old = astiśuṇḍī
+new = hastiśuṇḍī
+status = DONE
+** pc: 4763<pc>081-b<k1>asTisaMhAra : astiSuRqI : hastiSuRqI
+------------------------------------------------------------------------
+
+* Case 565: 06/15/2025 dict=SHS, L=32711, hw=yu, user=srhodes
+old = 2nd cl. (yoti)
+new = 2nd cl. (yauti)
+status = DONE
+------------------------------------------------------------------------
+
+* Case 572: 06/17/2025 dict=SHS, L=4523, hw=asamarya, user=srhodes
+old = asamarya
+new = asamartha
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 592: 06/19/2025 dict=SHS, L=4589, hw=asāra, user=srhodes
+old = Vein
+new = Vain
+status = DONE
+------------------------------------------------------------------------
+
+* Case 605: 06/20/2025 dict=SHS, L=4630, hw=asukhin, user=srhodes
+old = afficted
+new = afflicted
+status = DONE
+------------------------------------------------------------------------
+
+* Case 649: 06/23/2025 dict=SHS, L=4666, hw=asṛgdhārā, user=srhodes
+old = asṛgdhārā
+new = asṛgdharā
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 650: 06/23/2025 dict=SHS, L=4682, hw=asvanna, user=srhodes
+old = asvanna
+new = askanna
+comment = Typo – Headword Typo!
+status = DONE
+
+------------------------------------------------------------------------
+
+* Case 652: 06/24/2025 dict=SHS, L=4713, hw=astrakaṇṭaka, user=srhodes
+old = a thron, a thron-like
+new = a thorn, a thorn-like
+status = DONE
+------------------------------------------------------------------------
+
+* Case 679: 06/26/2025 dict=SHS, L=4784, hw=asphuṭa, user=srhodes
+old = Indistinot
+new = Indistinct
+status = DONE
+------------------------------------------------------------------------
+
+* Case 680: 06/26/2025 dict=SHS, L=4798, hw=asvaccha, user=srhodes
+old = Opake
+new = Opaque
+status = DONE
+------------------------------------------------------------------------
+
+* Case 731: 06/29/2025 dict=SHS, L=4809, hw=asvasthya, user=srhodes
+old = asvasthya
+new = asvastha
+status = DONE
+** pc: 4809<pc>082-a<k1>asvasTya : asvasTya : asvasTa : headword change
+------------------------------------------------------------------------
+
+* Case 743: 06/30/2025 dict=SHS, L=4839, hw=ahaṅkāravat, user=srhodes
+old = Pround
+new = Proud
+status = DONE
+------------------------------------------------------------------------
+
+* Case 744: 06/30/2025 dict=SHS, L=4851, hw=aharaha, user=srhodes
+old = aharaha
+new = aharahar  OR  aharahas  OR  aharahaḥ
+comment = Typo – Please note that this is a Headword "print change".
+status = DONE
+** pc: 4851<pc>082-b<k1>aharaha : aharaha : aharahar : headword change
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+* Case 745: 06/30/2025 dict=SHS, L=4851, hw=aharaha, user=srhodes
+old = E. aham repeated.
+new = E. ahas repeated.
+status = DONE Jim: E. ahan (since ahan 'day' in shs, but not 'ahas'
+** pc: 4851<pc>082-b<k1>aharaha : aham : ahan
+------------------------------------------------------------------------
+
+* Case 757: 06/30/2025 dict=SHS, L=4891, hw=ajibhuj, user=srhodes
+old = ajibhuj
+new = ahibhuj
+status = DONE
+------------------------------------------------------------------------
+
+* Case 781: 07/02/2025 dict=SHS, L=4909, hw=ahnīka, user=srhodes
+old = ahnīka
+new = ahrīka
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 782: 07/02/2025 dict=SHS, L=4931, hw=ākalpa, user=srhodes
+old = Encreasing
+new = Increasing
+status = DONE
+------------------------------------------------------------------------
+
+* Case 797: 07/04/2025 dict=SHS, L=4943, hw=ākāra, user=srhodes
+old = sing
+new = sign
+status = DONE
+------------------------------------------------------------------------
+
+* Case 798: 07/04/2025 dict=SHS, L=4954, hw=ākāśajananin, user=srhodes
+old = loop-hole
+new = loophole
+comment = Typo – Please note that this word may be better written without the "hyphen".
+status = DONE
+------------------------------------------------------------------------
+
+* Case 799: 07/04/2025 dict=SHS, L=4955, hw=akāśadīpa, user=srhodes
+old = lanthorn
+new = lantern
+status = DONE
+------------------------------------------------------------------------
+
+* Case 800: 07/04/2025 dict=SHS, L=4962, hw=ākāśavartmav, user=srhodes
+old = ākāśavartmav
+new = ākāśavartman
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 822: 07/06/2025 dict=SHS, L=4993, hw=ākramala, user=srhodes
+old = ākramala
+new = ākramaṇa
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 837: 07/07/2025 dict=SHS, L=5005, hw=akrośanīya, user=srhodes
+old = akrośanīya
+new = ākrośanīya
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 838: 07/07/2025 dict=SHS, L=5020, hw=ākṣaitrajña, user=srhodes
+old = ākṣaitrajña
+new = ākṣaitrajñya
+comment = Typo – Headword Typo! Please note that this correction is confirmed by ALL authorities; also note the affix cited here: "ṣyañ".
+status = DONE
+** pc: 5020<pc>086-a<k1>AkzEtrajYa : AkzEtrajYa : AkzEtrajYya : headword change
+------------------------------------------------------------------------
+
+* Case 839: 07/07/2025 dict=SHS, L=5023, hw=ākṣoda, user=srhodes
+old = ākṣoda
+new = ārkṣoda
+comment = Typo – Headword Typo! Please note that this correction is confirmed by ALL authorities.
+status = DONE
+** pc: 5023<pc>086-a<k1>Akzoda : Akzoda : Arkzoda : headword change
+------------------------------------------------------------------------
+
+* Case 864: 07/09/2025 dict=SHS, L=5036, hw=ākhughāta, user=srhodes
+old = Sudra or man of low caste and profession, lit. a ratcatcher
+new = Śūdra or man of low caste and profession, lit. a rat catcher
+status = DONE
+------------------------------------------------------------------------
+
+* Case 865: 07/09/2025 dict=SHS, L=5057, hw=āgantu, user=srhodes
+old = new comer
+new = newcomer
+comment = Typo – Please note that this definition is better written as a single word (without space), and therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 866: 07/09/2025 dict=SHS, L=5058, hw=āgantuka, user=srhodes
+  old = new comer
+new = newcomer
+comment = Typo – Please note that this definition is better written as a single word (without space), and therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 897: 07/11/2025 dict=SHS, L=5078, hw=āgrīdhra, user=srhodes
+old = āgrīdhra
+new = āgnīdhra
+comment = Typo – Headword Typo
+status = DONE
+------------------------------------------------------------------------
+
+* Case 898: 07/11/2025 dict=SHS, L=5079, hw=āgneya, user=srhodes
+old = mane
+new = name
+comment = Typo – Please note that this is a possible "print change", pending approval by others.
+status = DONE
+** pc: 5079<pc>087-a<k1>Agneya : A mane of the saint AGASTI: A name of the saint AGASTI
+
+------------------------------------------------------------------------
+
+* Case 925: 07/13/2025 dict=SHS, L=5107, hw=āṅgirasa, user=srhodes
+old = VRIHAPATI
+new = VRIHASPATI
+comment = Typo – Correct as you like.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 927: 07/14/2025 dict=SHS, L=5127, hw=ācārahīna, user=srhodes
+old = authorised
+new = unauthorised
+comment = Typo – Please note that this is a suggested "print change", based upon the sense and meaning being conveyed.
+status = DONE
+** pc: 5127<pc>087-b<k1>AcArahIna : authorised : unauthorised
+------------------------------------------------------------------------
+
+* Case 957: 07/16/2025 dict=SHS, L=31573, hw=mukta, user=srhodes
+old = corporal
+new = corporeal
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 958: 07/16/2025 dict=SHS, L=31573, hw=mukta, user=srhodes
+old = corporal
+new = corporeal
+status = DONE
+------------------------------------------------------------------------
+
+* Case 966: 07/18/2025 dict=SHS, L=5190, hw=āṭarūpa, user=srhodes
+old = āṭarūpa
+new = āṭarūṣa
+comment = Typo – Headword Typo
+status = DONE
+------------------------------------------------------------------------
+
+* Case 973: 07/19/2025 dict=SHS, L=5199, hw=āḍaka, user=srhodes
+old = āḍaka
+new = āḍhaka
+comment = Typo – Headword Typo
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1005: 07/22/2025 dict=SHS, L=5267, hw=ātmabhū, user=srhodes
+old = BMAHMA
+new = BRAHMĀ
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1006: 07/22/2025 dict=SHS, L=5271, hw=ātmambhari, user=srhodes
+old = Relfish
+new = Selfish
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1007: 07/22/2025 dict=SHS, L=5278, hw=ātmavaśa, user=srhodes
+old = controul
+new = control
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1008: 07/22/2025 dict=SHS, L=5284, hw=atmaśakti, user=srhodes
+old = atmaśakti
+new = ātmaśakti
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1029: 07/26/2025 dict=SHS, L=5339, hw=āditsitā, user=srhodes
+old = āditsitā
+new = āditsā
+comment = Typo – This is a possible "print change".
+status = DONE
+** pc: 5339<pc>091-a<k1>AditsitA : AditsitA : AditsA : headword change
+------------------------------------------------------------------------
+
+* Case 1038: 07/27/2025 dict=SHS, L=5374, hw=ādhāra, user=srhodes
+old = ablative
+new = locative
+comment = Typo – This is a possible "print change".
+status = DONE
+** pc: 5374<pc>091-b<k1>ADAra : sense of the ablative : sense of the locative
+------------------------------------------------------------------------
+
+* Case 1045: 07/28/2025 dict=SHS, L=45962, hw=smiṭ, user=srhodes
+old = smaṭayati
+new = smeṭayati
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1065: 07/29/2025 dict=SHS, L=5395, hw=ādhūnika, user=srhodes
+old = ādhūnika
+new = ādhunika
+comment = Typo – Please note that this is a suggested Headword "print change".
+status = DONE
+** pc: 5395<pc>092-a<k1>ADUnika : ADUnika : ADunika : headword change
+------------------------------------------------------------------------
+
+* Case 1066: 07/30/2025 dict=SHS, L=5404, hw=ādhyātmika, user=srhodes
+old = holly
+new = holy
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1067: 07/30/2025 dict=SHS, L=5408, hw=ādhyaryyava, user=srhodes
+old = ādhyaryyava
+new = ādhvaryyava
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1068: 07/30/2025 dict=SHS, L=5408, hw=ādhyaryyava, user=srhodes
+old = adhvayyu
+new = adhvaryyu
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1089: 07/31/2025 dict=SHS, L=5428, hw=ānandamayakoṣa, user=srhodes
+old = cansal
+new = causal
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1090: 07/31/2025 dict=SHS, L=5450, hw=ānupadika, user=srhodes
+old = Following pursuing
+new = Following, pursuing
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1091: 07/31/2025 dict=SHS, L=5461, hw=ānṛśaṃsya, user=srhodes
+old = Cruelty
+new = Absence of cruelty
+comment = Typo – Please note that this is a suggested "print change", pending approval from others.
+status = NO CHANGE : Jim: WIL (and SHS) give 2 derivations, second being cruelty
+------------------------------------------------------------------------
+
+* dup Case 1092: 07/31/2025 dict=SHS, L=5461, hw=ānṛśaṃsya, user=srhodes
+old = Cruelty
+new = Absence of cruelty
+comment = Typo – Please note that this is a suggested "print change", pending approval from others.
+status = NO CHANGE  See case 1091
+------------------------------------------------------------------------
+
+* dup Case 1093: 07/31/2025 dict=SHS, L=5461, hw=ānṛśaṃsya, user=srhodes
+old = Cruelty
+new = Absence of cruelty
+comment = Typo – Please note that this is a suggested "print change", pending approval from others.
+status = NO CHANGE see cse 1091
+------------------------------------------------------------------------
+
+* Case 1106: 08/01/2025 dict=SHS, L=5480, hw=āndhra, user=srhodes
+old = Telengana
+new = Telangana
+comment = Typo – Please note that this appears to be the current English spelling (at least in the USA).
+status = NO CHANGE Jim: AP Telangana, MW72 Telingana. 
+------------------------------------------------------------------------
+
+* Case 1107: 08/01/2025 dict=SHS, L=5507, hw=āpava, user=srhodes
+old = VASSISHTHA
+new = VASISHTA
+comment = Typo – Please correct as you like. Another possibility would be "Vasiṣṭha".
+status = DONE Jim: Using VASIṢṬHA
+------------------------------------------------------------------------
+
+* Case 1108: 08/02/2025 dict=SHS, L=5520, hw=āpīḍita, user=srhodes
+old = 4. Hut.
+new = 4. Hurt.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1109: 08/02/2025 dict=SHS, L=5546, hw=āplavavratin, user=srhodes
+old = bratin
+new = vratin
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1110: 08/02/2025 dict=SHS, L=5553, hw=āpvan, user=srhodes
+old = āpvan
+new = āpvā
+comment = Typo – Please note that this is a suggested "print change", and the gender should be changed to feminine. I believe that this has been confirmed by the authority of Andhrabharati.
+status = NO CHANGE Jim: mw72 shows Apvan, A (e.g. nom. = ApvA)
+  AP: Apvan m.   AP "ApvA" = the neck
+------------------------------------------------------------------------
+
+* Case 1150: 08/03/2025 dict=SHS, L=5413, hw=ānakya, user=srhodes
+old = kāṇḍilya
+new = kauṇḍilya
+comment = Typo – Please note that this is a "print change" that has been confirmed by Andhrabharati.
+status = DONE  Jim: Use "kauṇḍinya"
+    PW: kauṇḍila und kauṇḍilya fehlerhaft für kauṇḍinya. 
+      Which I think means kauṇḍinya is the 'right' spelling.
+    Also "kauṇḍinya" and "kauṇḍilya" are not headwords in SHS, 
+     but kauṇḍinya is in SHS.
+------------------------------------------------------------------------
+
+* Case 1176: 08/08/2025 dict=SHS, L=5615, hw=āmiṣa, user=srhodes
+old = Coverting
+new = Coveting
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1177: 08/08/2025 dict=SHS, L=5624, hw=āmūsta, user=srhodes
+old = āmūsta
+new = āmūla
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 5624<pc>096-a<k1>AmUsta : AmUsta : AmUla
+------------------------------------------------------------------------
+
+* Case 1178: 08/08/2025 dict=SHS, L=5631, hw=āmāṣin, user=srhodes
+old = āmāṣin
+new = āmoṣin
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 1179: 08/08/2025 dict=SHS, L=5631, hw=āmāṣin, user=srhodes
+old = āmāṣin
+new = āmoṣin
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1207: 08/10/2025 dict=SHS, L=5644, hw=āmla, user=srhodes
+old = Lourness
+new = Sourness
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1208: 08/10/2025 dict=SHS, L=5668, hw=āyasa, user=srhodes
+old = breast-plate
+new = breastplate
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1255: 08/12/2025 dict=SHS, L=5704, hw=ārakṣaka, user=srhodes
+old = patrole
+new = patrol
+comment = Typo – This may be a better spelling.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1256: 08/12/2025 dict=SHS, L=5716, hw=ārandha, user=srhodes
+old = ārandha
+new = ārambha
+comment = Typo – This may be a "print change", pending approval by someone.
+status =  DONE see case 1257
+------------------------------------------------------------------------
+
+* Case 1257: 08/12/2025 dict=SHS, L=5716, hw=ārandha, user=srhodes
+old = ārandha
+new = ārabdha
+comment = Typo – Updated Correction!
+status = DONE
+** pc: 5716<pc>097-b<k1>AranDa : AranDa : ArabDa : headword change
+------------------------------------------------------------------------
+
+* Case 1277: 08/14/2025 dict=SHS, L=5742, hw=āravata, user=srhodes
+old = āravata
+new = āraveta
+comment = Typo – Headword Typo
+status = DONE Jim: ārevata
+         āraveta not found in any cdsl dictionary;
+         ārevata  = āragvadha ~ Cassia fistula
+** pc: 5742<pc>098-a<k1>Aravata : Aravata : Arevata : headword change
+------------------------------------------------------------------------
+
+* Case 1287: 08/15/2025 dict=SHS, L=5767, hw=ārttijya, user=srhodes
+old = ārttijya
+new = ārttvijya  OR  ārtvijya
+comment = Typo – Please note that this is a Headword Typo and suggested "print change", pending approval by others.
+status = DONE
+** pc: 5767<pc>098-b<k1>Arttijya : Arttijya : Arttvijya : headword change
+------------------------------------------------------------------------
+
+* Case 1288: 08/15/2025 dict=SHS, L=5773, hw=ārdratā, user=srhodes
+old = Ereshness
+new = Freshness
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 1289: 08/15/2025 dict=SHS, L=5773, hw=ārdratā, user=srhodes
+old = Ereshness
+new = Freshness
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 1290: 08/15/2025 dict=SHS, L=5773, hw=ārdratā, user=srhodes
+old = Ereshness
+new = Freshness
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1291: 08/15/2025 dict=SHS, L=5778, hw=ārddhadrauṇīka, user=srhodes
+old = ārddhadrauṇīka
+new = ārddhadrauṇika
+comment = Typo – Please note that this is a Headword Typo and suggested "print change".
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1339: 08/20/2025 dict=SHS, L=5869, hw=ānarttanamaṇi, user=srhodes
+old = ānarttanamaṇi
+new = āvarttanamaṇi
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 1340: 08/20/2025 dict=SHS, L=5869, hw=ānarttanamaṇi, user=srhodes
+old = ānarttanamaṇi
+new = āvarttanamaṇi
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1341: 08/20/2025 dict=SHS, L=5882, hw=āvasita, user=srhodes
+old = full grown
+new = full-grown
+comment = Typo – Please note that this wording is better written with a "hyphen" ; therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+*  Case 1349: 08/20/2025 dict=SHS, L=6027, hw=āsa, user=srhodes
+old = āsa
+new = ās
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1350: 08/21/2025 dict=SHS, L=5893, hw=āvāyya, user=srhodes
+old = āvāyya
+new = āvārya
+comment = Typo – Headword Typo and "Print Change", pending approval by Andhrabharati.
+status = DONE
+** pc: 5893<pc>100-b<k1>AvAyya : AvAyya : AvArya : headword change
+------------------------------------------------------------------------
+
+* Case 1351: 08/21/2025 dict=SHS, L=5904, hw=āvidha, user=srhodes
+old = gimblet
+new = gimlet
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1367: 08/23/2025 dict=SHS, L=5929, hw=āveśika, user=srhodes
+old = visiter
+new = visitor
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1371: 08/24/2025 dict=SHS, L=5946, hw=āśayāśa, user=srhodes
+old = āśrayāsa
+new = āśrayāśa
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+** pc: 5946<pc>101-b<k1>ASayASa : see {#ASrayAsa#} : see {#ASrayASa#}
+------------------------------------------------------------------------
+
+* Case 1372: 08/24/2025 dict=SHS, L=5970, hw=āśu, user=srhodes
+old = first
+new = fast
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+** pc: 5970<pc>102-a<k1>ASu : first : fast
+------------------------------------------------------------------------
+
+* Case 1373: 08/24/2025 dict=SHS, L=24874, hw=pitṛloka, user=srhodes
+old = I huva
+new = Bhuva
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1379: 08/26/2025 dict=SHS, L=5980, hw=āścotana, user=srhodes
+old = eye-lids
+new = eyelids
+comment = Typo – Please note that this word is better written without the "hyphen" ; therefore this may be considered as a Global correction as well, but in this case the correction should be made for the singular form – which of course would cover the plural form as well. In other words the Global correction is: "eye-lid" —— becomes —— "eyelid".
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1380: 08/26/2025 dict=SHS, L=5994, hw=āśrayāśa, user=srhodes
+old = āśrayabhaj
+new = āśrayabhuj
+comment = Typo – Please note that this is a suggested "print change", pending approval.
+status = DONE
+** pc: 5994<pc>102-b<k1>ASrayASa : ASrayaBaj : ASrayaBuj
+------------------------------------------------------------------------
+
+* Case 1402: 08/27/2025 dict=SHS, L=46036, hw=snavaṇa, user=srhodes
+old = snavaṇa
+new = sravaṇa
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1412: 08/28/2025 dict=SHS, L=6016, hw=āśvika, user=srhodes
+old = Equestrain
+new = Equestrian
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 1425: 08/29/2025 dict=SHS, L=6027, hw=āsa, user=srhodes
+old = āsa
+new = ās
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1461: 09/01/2025 dict=SHS, L=6086, hw=āspadana, user=srhodes
+old = āspadana
+new = āspandana
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 6086<pc>104-b<k1>Aspadana : Aspadana : Aspandana : headword change
+------------------------------------------------------------------------
+
+* Case 1467: 09/02/2025 dict=SHS, L=6103, hw=āsrava, user=srhodes
+old = dis charge
+new = discharge
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1471: 09/02/2025 dict=SHS, L=31372, hw=mārtya, user=srhodes
+old = Morality
+new = Mortality
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1479: 09/03/2025 dict=SHS, L=6161, hw=i, user=srhodes
+old = go near so
+new = go near to
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1571: 09/09/2025 dict=SHS, L=6202, hw=icchaka, user=srhodes
+old = sun sought
+new = sum sought
+comment = Typo – Print Change
+status = DONE
+** pc: 6202<pc>106-b<k1>icCaka : sun sought : sum sought
+------------------------------------------------------------------------
+
+* Case 1572: 09/09/2025 dict=SHS, L=6217, hw=iṭvara, user=srhodes
+old = iṭvara
+new = iṭcara
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1592: 09/11/2025 dict=SHS, L=6255, hw=idāvatmara, user=srhodes
+old = idāvatmara
+new = idāvatsara
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1601: 09/12/2025 dict=SHS, L=6258, hw=idhmapravañcana, user=srhodes
+old = idhmaprav  añcana
+new = idhmaprav raścana
+comment = Typo – Headword Typo! Andhrabharati has confirmed thus: "As the word idhmapravraścana occurs at the commentary on Pāṇini (3,3,117), there cannot be a second thought!"
+status = DONE Jim: SHS copied WIL, YAT corrected WIL!
+** pc: 6258<pc>107-b<k1>iDmapravaYcana : iDmapravaYcana : iDmapravraScana : headword change
+------------------------------------------------------------------------
+
+* Case 1605: 09/12/2025 dict=SHS, L=6273, hw=indukānta, user=srhodes
+old = moon-stone
+new = moonstone
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1606: 09/12/2025 dict=SHS, L=6288, hw=indra, user=srhodes
+old = phaṇiñjhaka
+new = phaṇijjhaka
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1607: 09/12/2025 dict=SHS, L=6289, hw=indraka, user=srhodes
+old = assembly-room
+new = assembly room
+comment = Typo – Please note that this word is better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1608: 09/13/2025 dict=SHS, L=6315, hw=indralaptaka, user=srhodes
+old = indralaptaka
+new = indraluptaka
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1609: 09/14/2025 dict=SHS, L=6323, hw=indraśakti, user=srhodes
+old = INDRANI
+new = INDRĀṆĪ
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1615: 09/15/2025 dict=SHS, L=6368, hw=iyat, user=srhodes
+old = thus
+new = this
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1617: 09/15/2025 dict=SHS, L=6356, hw=ibha, user=srhodes
+old = r. 10th cl. (i) ibhi (imbhayate) To collect or accumulate.
+new = DELETE
+comment = Typo – Please note that this entry has been confirmed as erroneous by Andhrabharati. Therefore it could be deleted or at least "revised" in such a way as to indicate this as erroneous.
+status = DONE  Jim: added "{sic}"
+------------------------------------------------------------------------
+
+* Case 1653: 09/20/2025 dict=SHS, L=6438, hw=ihāmūtra, user=srhodes
+old = amūtra
+new = amutra
+status = DONE
+** pc: 6438<pc>110-b<k1>ihAmUtra : {#amUtra#} there : {#amutra#} there
+------------------------------------------------------------------------
+
+* dup Case 1654: 09/20/2025 dict=SHS, L=6438, hw=ihāmūtra, user=srhodes
+old = ihāmūtra
+new = ihāmutra
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1655: 09/20/2025 dict=SHS, L=6442, hw=īkṣa, user=srhodes
+old = took for
+new = look for
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1656: 09/20/2025 dict=SHS, L=6444, hw=īkṣaṇikā, user=srhodes
+old = fortune-teller
+new = fortune teller
+comment = Typo – Please note that this word is better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1657: 09/20/2025 dict=SHS, L=6450, hw=īḍaṇa, user=srhodes
+old = īḍaṇa
+new = īḍana
+status = DONE
+** pc: 6450<pc>110-b<k1>IqaRa : IqaRa : Iqana : headword change
+------------------------------------------------------------------------
+
+* Case 1658: 09/20/2025 dict=SHS, L=6457, hw=īti, user=srhodes
+old = draught
+new = drought
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1677: 09/22/2025 dict=SHS, L=6479, hw=īrṣyamāna, user=srhodes
+old = īrṣyamāna
+new = īrṣyamāṇa
+status = DONE Jim: cf mw
+** pc: 6479<pc>111-a<k1>IrzyamAna : IrzyamAna : IrzyamARa : headword change
+------------------------------------------------------------------------
+
+* Case 1678: 09/22/2025 dict=SHS, L=6494, hw=īśvara, user=srhodes
+old = Raktis
+new = Śaktis
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 1679: 09/22/2025 dict=SHS, L=6494, hw=īśvara, user=srhodes
+old = Raktis
+new = Śaktis
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+------------------------------------------------------------------------
+
+* dup Case 1680: 09/22/2025 dict=SHS, L=6494, hw=īśvara, user=srhodes
+old = Raktis
+new = Śaktis
+comment = Typo – Please note that this is a suggested "print change".
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1690: 09/24/2025 dict=SHS, L=6526, hw=īhātas, user=srhodes
+old = by energetically, or with labour 
+new = energetically, by or with labour 
+comment = Typo – Please note that this is a suggested "print change", based upon sensible understanding.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1717: 09/29/2025 dict=SHS, L=6603, hw=acciṅgaṭa, user=srhodes
+old = acciṅgaṭa
+new = ucciṅgaṭa
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1731: 09/30/2025 dict=SHS, L=6606, hw=uccaisvara, user=srhodes
+old = uccaisvara
+new = uccaiḥsvara
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1732: 09/30/2025 dict=SHS, L=6623, hw=ucchinna, user=srhodes
+old = cut off or cut
+new = cut off or out
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1745: 10/01/2025 dict=SHS, L=6640, hw=ucchrāyin, user=srhodes
+old = High raised
+new = High, raised
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1746: 10/01/2025 dict=SHS, L=6664, hw=uñjha, user=srhodes
+old = uñjha
+new = ujjha
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 6663<pc>114-a<k1>uYJa : uYJa : ujJa : headword change
+** pc: 6664<pc>114-a<k1>uYJa : uYJa : ujJa : headword change
+------------------------------------------------------------------------
+
+* Case 1747: 10/01/2025 dict=SHS, L=6665, hw=uñjhita, user=srhodes
+old = uñjhita
+new = ujjhita
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 6665<pc>114-b<k1>uYJita : uYJita : ujJita : headword change
+------------------------------------------------------------------------
+
+* Case 1748: 10/01/2025 dict=SHS, L=6666, hw=uñjhitṛ, user=srhodes
+old = uñjhitṛ
+new = ujjhitṛ
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 6666<pc>114-b<k1>uYJitf : uYJitf : ujJitf : headword change
+------------------------------------------------------------------------
+
+* Case 1788: 10/03/2025 dict=SHS, L=6685, hw=ut, user=srhodes
+old = See Below
+new = DELETE the entire listing of the word "udaka [ID=6936.01]", which erroneously appears in the Window Display of the Headword "ut [ID=6685]".
+comment = See Above
+status = DONE Jim:  6936.01 : {{Lbody=6939}} -> {{Lbody=6936}} 
+   Alternate headword ud
+------------------------------------------------------------------------
+
+* Case 1805: 10/05/2025 dict=SHS, L=6711, hw=utkañcitā, user=srhodes
+old = utkañcitā
+new = utkuñcitā
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 6711<pc>115-a<k1>utkaYcitA : utkaYcitA : utkuYcitA : headword change
+------------------------------------------------------------------------
+
+* Case 1806: 10/05/2025 dict=SHS, L=6726, hw=utkocaka, user=srhodes
+old = bride
+new = bribe
+comment = Typo – Please note that this correction must be made TWICE in the window display.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1807: 10/05/2025 dict=SHS, L=6732, hw=utkrāmat, user=srhodes
+old = Coing
+new = Going
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1850: 10/09/2025 dict=SHS, L=6747, hw=uttama, user=srhodes
+old = Menu
+new = Manu
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1862: 10/11/2025 dict=SHS, L=6813, hw=uttaredyus, user=srhodes
+old = a day following to-morrow
+new = a day following, to-morrow
+comment = Typo – Please note that both Merriam-Webster and I prefer the word to be written as: "tomorrow", but I will leave that up to you.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1867: 10/12/2025 dict=SHS, L=6827, hw=uttīras, user=srhodes
+old = uttīras
+new = uttīram
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1868: 10/12/2025 dict=SHS, L=6842, hw=utthāna, user=srhodes
+old = court yard
+new = courtyard
+comment = Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1904: 10/15/2025 dict=SHS, L=6899, hw=utphulla, user=srhodes
+old = encreased
+new = increased
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1906: 10/15/2025 dict=SHS, L=6916, hw=utsāraka, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 1956: 10/20/2025 dict=SHS, L=6936.01, hw=udaka, user=srhodes
+old = DUPLICATE LISTING
+new = DELETE DUPLICATE LISTING
+comment = DUPLICATE LISTING
+status = DONE Jim: handled by Case 1788 (ut,ud) above
+------------------------------------------------------------------------
+
+* Case 2010: 10/24/2025 dict=SHS, L=6983, hw=udanthama, user=srhodes
+old = udanthama
+new = udamantha
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 6983<pc>120-a<k1>udanTama : udanTama : udamanTa : headword change
+------------------------------------------------------------------------
+
+* Case 2098: 11/01/2025 dict=SHS, L=7092, hw=uddāma, user=srhodes
+old = selfwilled
+new = self-willed
+comment = Typo – Better with the hyphen. Also, consider as a Global Correction.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2111: 11/02/2025 dict=SHS, L=7083, hw=udja, user=srhodes
+old = udja
+new = ubja
+comment = Typo – Please note that this is a Headword Typo and "print change", confirmed by Andhrabharati. Also, the finite verbal form printed here: "(ujjati) " should be corrected to read: "(ubjati)".
+status = NO CHANGE  SHS has both 
+     1  "udja" L=7083 r. 6th cl. ({#ujjati#}) To be straight: see {#ujja#}.
+     2  "ubja" L=7664 {#ubja#}¦ r. 6th cl. ({#ubjati#}) To be straight ...
+         this root is also written {#ujja#} and {#udja#}.
+------------------------------------------------------------------------
+
+* Case 2112: 11/02/2025 dict=SHS, L=7084, hw=udjha, user=srhodes
+old = See uñjha
+new = See ujjha
+comment = Typo – Please note that this  a "print change". 
+status = DONE
+** pc: 7084<pc>121-b<k1>udJa : See {#uYJa#} : See {#ujJa#}
+------------------------------------------------------------------------
+
+* Case 2113: 11/02/2025 dict=SHS, L=6663, hw=uñjha, user=srhodes
+old = uñjha
+new = ujjha
+comment = Typo – Please note that this is a Headword Typo and "print change".
+status = DONE
+** pc: 6663<pc>114-a<k1>uYJa : uYJa : ujJa : headword change
+------------------------------------------------------------------------
+
+*  dup Case 2114: 11/02/2025 dict=SHS, L=6664, hw=uñjha, user=srhodes
+old = uñjha
+new = ujjha
+comment = Typo – Please note that this is a Headword Typo and "print change".
+status = DONE  See case 2113
+------------------------------------------------------------------------
+
+* Case 2116: 11/02/2025 dict=SHS, L=7063, hw=udgīti, user=srhodes
+old = 14 feet
+new = 18 feet
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = DONE cf mw, pwg
+** pc: 7063<pc>121-b<k1>udgIti : 14 feet : 18 feet 
+------------------------------------------------------------------------
+
+* Case 2145: 11/04/2025 dict=SHS, L=6839, hw=uttyāga, user=srhodes
+old = Succession
+new = Secession
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2161: 11/05/2025 dict=SHS, L=7140, hw=udabodha, user=srhodes
+old = udabodha
+new = udbodha
+comment = Typo – Headword Typo!
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2172: 11/06/2025 dict=SHS, L=23527, hw=parijñāta, user=srhodes
+old = parijñāta
+new = parijñātṛ
+comment = Typo – Headword Typo!
+status = DONE
+** pc: 23527<pc>426-b<k1>parijYAta : parijYAta : parijYAtf : headword change
+------------------------------------------------------------------------
+
+* Case 2195: 11/08/2025 dict=SHS, L=7162, hw=udyata, user=srhodes
+old = labour ing
+new = labouring
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2197: 11/09/2025 dict=SHS, L=7174, hw=udratha, user=srhodes
+old = cook
+new = cock
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2198: 11/09/2025 dict=SHS, L=7183, hw=udvarttana, user=srhodes
+old = Bubbing
+new = Rubbing
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2199: 11/09/2025 dict=SHS, L=7183, hw=udvarttana, user=srhodes
+old = Lenguents
+new = Unguents
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2237: 11/14/2025 dict=SHS, L=7270, hw=upa, user=srhodes
+old = to advice
+new = to advise
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2296: 11/21/2025 dict=SHS, L=7362, hw=upadevatā, user=srhodes
+old = Gandharba
+new = Gandharva
+status = DONE
+------------------------------------------------------------------------
+
+* Case 2335: 11/24/2025 dict=SHS, L=7387, hw=upanaya, user=srhodes
+old = twentyfour
+new = twenty-four
+status = DONE
+------------------------------------------------------------------------
+
