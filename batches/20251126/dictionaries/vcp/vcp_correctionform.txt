@@ -1,11 +1,12 @@
 Sanskrit Lexicon Correction Form History for VCP
 As of November 26, 2025
 1 correction records, with 1 PENDING
+This is now changed (12-21-2025 Jim)
 
 Case 1338: 08/19/2025 dict=VCP, L=7804, hw=āśrāva, user=srhodes
 old = aṅgīkāraṇe
 new = aṅgīkaraṇe
 comment = Typo – Please note that this Print Change has been confirmed by Andhrabharati.
-status = PENDING
+status = DONE
 ------------------------------------------------------------------------
 
