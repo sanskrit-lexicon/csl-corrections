@@ -2130,4 +2130,24 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102#issuecomment
 L code : Headword : Old  : New : Comment
 16159 : arDacandrAkAra : arDacandrAkfta : arDacandrAkfti
 16159.1 : arDacandrAkfta : arDacandrAkfta : arDacandrAkfti : headword change
+-----------------------------------------------------------------
+12-25-2025
+Source: Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/103
+L code : Headword : Old  : New : Comment
+5174.11  : anaBihitavAcya : --- : <lex>mfn.</lex> : all genders
+4412.1   : aDiveSma : ... : <lex>ind.</lex> : ind. added
+3810     : adButarasa : ... : <lex>m.</lex> : add gender
+3801.1   : adButakfzRarAja : ... : <lex>m.</lex> : add gender
+182179.1 : lAjAhuti : burnt-oblation : burnt oblation
+141820.1 : Palapravftti : id. : acting with an object in view
+547      : akzatA : Kaṅkaḍaśṛṅgī : Kām̐kaḍāśṛṅgī : cf SKD akzatA
+62110    : KyA : impf. aKyat, aKyata : aor. aKyat, aKyata
+115415   : padAji : pada + Aji : pad + Aji 
+2473     : aRqasU : f. : mfn. :
+101159   : DAv : -aBimuKam : aBimuKam
+5781     : anityadatrima : anityadatrima : anityadattrima : headword change
+5779     : anityadatta : a-nitya—datrima : a-nitya—dattrima 
+201614   : viz : aor. aviṣat, avikṣat : aor. avikṣat, avikṣata
+5763     : anicCA : wish or design : wish or desire
 -----------------------------------------------------------------------
