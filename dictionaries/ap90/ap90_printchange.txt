@@ -638,3 +638,16 @@ L code : Headword : Old  : New : Comment
 1604 : anutta : Not set : Not sent :
 1807 : anumitiH : parAmarSajanyaM : liNgaparAmarSajanyaM
 ----------------------------------------------------------------------
+12-25-2025
+Source: @aumsanskrit
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104  ap90
+L code : Headword : Old  : New : Comment
+5765 : AkUtiH : °para : °pra
+4    : aMSaH : --avatAraH, --taraRaM : --avatAraH, --avataraRaM
+144  : akzita : {#--Uti-vasu#} ({#tA°#}) : {#--Uti, --(tA)vasu#} 
+821  : adaDryaMc : adaDryaMc : adadryaMc : headword change
+821  : adaDryaMc : aDryAgamaH : adryAgamaH
+853  : adUzita : unspotted : unspoiled
+1158 : anati : anatipraSna : anatipraSnya
+1169 : ananuBAvuka : ananuBAvuka : ananuBAvaka : headword change
+----------------------------------------------------------------------
