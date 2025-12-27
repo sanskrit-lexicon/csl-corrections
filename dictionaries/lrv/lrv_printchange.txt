@@ -35,3 +35,14 @@ L code : Headword : Old  : New : Comment
 05926 : IdfktA : by quality or by quality : by quality or by quantity
 06461 : udgraMTa : factor : chapter
 -----------------------------------------------------------------------
+12-26-2025
+Source: Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104
+L code : Headword : Old  : New : Comment
+00492 : ajaBa : ajaBa : ajamBa
+00567 : awwahAsa : awwahAsa : awwAwwahAsa : headword change
+00752 : atyaha : atyaha : atyahna : headword change
+00827 : adyadina : adyAdinamAraBya : adyadinamAraBya
+00827.1 : adyadivasa : adyAdinamAraBya : adyadinamAraBya
+00909 : aDyAtma : aDyAtma : aDyAtmam : headword change
+-----------------------------------------------------------------------
