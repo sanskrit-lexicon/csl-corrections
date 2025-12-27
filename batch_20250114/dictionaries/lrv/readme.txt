@@ -90,7 +90,7 @@ csl-corrections #pull
 ---------------
 # update displays for lrv
 cd csl-pywork/v02
-sh generate_dict.sh lrv  ../../LRVScan/2020/
+sh generate_dict.sh lrv  ../../LRVScan/2022/
 
 -----------------------------------------------------
 THE END
