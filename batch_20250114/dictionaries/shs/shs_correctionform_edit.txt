@@ -1,0 +1,1468 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of January 14, 2025
+211 correction records, with 211 PENDING
+(+ 64 123 3 1 20) = 211
+ 64 TODOg global changes done
+123 TODOx done
+ 20 TODOy previously done
+  3 TODOHW Missing Headword  Not done -- Adding new headwords should be done
+      systematically.
+  1 TODOQ Question from Scott to Andhrabharati
+----------------------------------------------------------------
+* TODOg Case 1: 10/12/2024 dict=SHS, L=7019, hw=udāna, user=srhodes
+old = eye-lash
+new = eyelash
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 4: 10/25/2024 dict=SHS, L=13901, hw=gai, user=srhodes
+old = chaunt
+new = chant 
+comment = Typo – Please note that this is a suggested "print change". I just did a Google Search and the verdict is as follows: "Obsolete spelling of chant." If you agree to make this change, then let's make it Global!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 5: 10/25/2024 dict=SHS, L=7060, hw=udgāthā, user=srhodes
+old = Arya measure, the same as the Giti
+new = Āryā measure, the same as the Gīti
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 6: 10/26/2024 dict=SHS, L=2402, hw=abala, user=srhodes
+old = See baruṇa
+new = See varuṇa
+comment = Typo – Please note that this correction can be verified by looking up the corrected reference in Shabda Dictionary itself.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 7: 10/27/2024 dict=SHS, L=38876, hw=vyavasāyātmika, user=srhodes
+old = vyavasāyātmika
+new = vyavasāyātmaka
+comment = Typo – I believe that this is a "print change". Please have Jim and Andhrabharati confirm this correction. The confusion occurs because the feminine form is "vyavasāyātmikā", however the actual prātipadikam form is "vyavasāyātmaka". Also notice the Etymology listed here: E. vyavasāya, ātman self, kan added. When the affix "kan" is added, the vowel "i" only comes in the feminine gender. Both APTE and MW dictionary list ""vyavasāyātmaka". Also, of course there is the word "ātmaka", and the correct feminine form will be "ātmikā"; but there is no such word as "ātmika".
+status = PENDING
+** pc: 38876<pc>696-a<k1>vyavasAyAtmika : vyavasAyAtmika : vyavasAyAtmaka : headword change
+------------------------------------------------------------------------
+
+* TODOy Case 9: 11/02/2024 dict=SHS, L=10456, hw=kila, user=srhodes
+old = Ealsehood
+new = Falsehood
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 10: 11/02/2024 dict=SHS, L=1439, hw=anukampya, user=srhodes
+old = expeditions
+new = expeditious
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 313: 11/24/2024 dict=SHS, L=3, hw=aṛṇin, user=srhodes
+old = also aṛṇin
+new = also arṇin
+comment = Typo – Please note that I am making a guess at the correction. However, some correction is required because the Headword itself is "aṛṇin", therefore the statement: "also aṛṇin" is logically not possible!
+status = PENDING  cf wil, lrv, etc.
+** pc: 3<pc>001-a<k1>afRin : also afRin : also anfRin
+------------------------------------------------------------------------
+
+* TODOx Case 329: 11/26/2024 dict=SHS, L=67, hw=akalmaṣa, user=srhodes
+old = Faultless. sinless
+new = Faultless, sinless
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 330: 11/26/2024 dict=SHS, L=52, hw=akampita, user=srhodes
+old = Tirthankara
+new = Tīrthaṅkara
+comment = Typo – May as well make this a Global Correction (in case there are any other escapees).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 334: 11/28/2024 dict=SHS, L=12123, hw=klāntamanas, user=srhodes
+old = Low spirited
+new = Low-spirited
+comment = Typo – Please note that this is a suggested "print change" which also agrees with MW and APTE.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 335: 11/28/2024 dict=SHS, L=121, hw=akliṣṭa, user=srhodes
+old = Unwearied indefatigable
+new = Unwearied, indefatigable
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHW Case 336: 11/28/2024 dict=SHS, L=115, hw=akriya, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword "akriyā" which has been cited here.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOHW Case 337: 11/28/2024 dict=SHS, L=116, hw=akriyatva, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword "akriyatā" which has been cited here.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 338: 11/28/2024 dict=SHS, L=125, hw=akṣa, user=srhodes
+old = GADURA
+new = Garuḍa
+status = PENDING  GARUḌA
+------------------------------------------------------------------------
+
+* TODOg Case 339: 11/28/2024 dict=SHS, L=125, hw=akṣa, user=srhodes
+old = Rudraksha
+new = Rudrākṣa
+comment = Typo – Please note that this could be considered a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 340: 11/28/2024 dict=SHS, L=125, hw=akṣa, user=srhodes
+old = Indraksha
+new = Indrākṣa
+comment = Typo – Please note that this could be considered a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 341: 11/28/2024 dict=SHS, L=125, hw=akṣa, user=srhodes
+old = Karsha
+new = Karṣa
+comment = Typo – Please note that this could be considered a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 342: 11/28/2024 dict=SHS, L=125, hw=akṣa, user=srhodes
+old = mashas
+new = māṣas
+comment = Typo – Please note that this could be considered a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 347: 11/29/2024 dict=SHS, L=140, hw=akṣapāṭaka, user=srhodes
+old = law suit
+new = lawsuit
+comment = Typo – Please note that we are not talking about clothing!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy dup Case 348: 11/29/2024 dict=SHS, L=140, hw=akṣapāṭaka, user=srhodes
+old = law suit
+new = lawsuit
+comment = Typo – This could also be safely considered as a Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 354: 11/29/2024 dict=SHS, L=147, hw=akṣamālā, user=srhodes
+old = ARUNDHATI
+new = ARUNDHATĪ
+comment = Typo – This could also be safely considered as a Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 355: 11/29/2024 dict=SHS, L=147, hw=akṣamālā, user=srhodes
+old = VASISHṬHA
+new = VASIṢṬHA
+comment = Typo – This could also be safely considered as a Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 369: 11/30/2024 dict=SHS, L=169, hw=akṣāgra, user=srhodes
+old = fore-part
+new = forepart
+comment = Typo – Please note that the "hyphen" is not required and probably a bit dated. I suggest a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 370: 11/30/2024 dict=SHS, L=170, hw=akṣāgrakīlaka, user=srhodes
+old = linch-pin
+new = linchpin
+comment = Typo – Please note that the "hyphen" is not required and probably a bit dated. I suggest a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 371: 11/30/2024 dict=SHS, L=175, hw=akṣikūṭaka, user=srhodes
+old = eye-ball
+new = eyeball
+comment = Typo – Please note that the "hyphen" is not required and probably a bit dated. I suggest a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 372: 11/30/2024 dict=SHS, L=179, hw=akṣipakṣman, user=srhodes
+old = eye-lash
+new = eyelash
+comment = Typo – Please note that the "hyphen" is not required and probably a bit dated. I suggest a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 373: 11/30/2024 dict=SHS, L=179, hw=akṣipakṣman, user=srhodes
+old = eye-lash
+new = eyelash
+comment = Typo – Please note that the "hyphen" is not required and probably a bit dated. I suggest a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 374: 11/30/2024 dict=SHS, L=183, hw=akṣivikūśita, user=srhodes
+old = eye-lid
+new = eyelid
+comment = Typo – Please note that the "hyphen" is not required and probably a bit dated. I suggest a Global correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 377: 12/01/2024 dict=SHS, L=197, hw=akhaṇḍana, user=srhodes
+old = refuta. tion
+new = refutation
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 382: 12/01/2024 dict=SHS, L=207, hw=aga, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Of course there is the sense here of 1. aga and 2. aga, HOWEVER, they are NOT marked as such and a SINGLE search of the Headword "aga" is sufficient to BRING both definitions into view. Therefore a redundant listing in the hierarchy is simply REDUNDANT; is that a tautology? and should I offer an apology?
+comment = Headword Listed Twice
+status = NO CHANGE  Jim: In WIL (and hence YAT, SHS) most verbs are 
+         cited with anubandhas. It might be useful to remove these anubandhas
+         in the meta-line only.
+------------------------------------------------------------------------
+
+* TODOx Case 392: 12/02/2024 dict=SHS, L=238, hw=aguruśiṃśapā, user=srhodes
+old = sisu
+new = śiśu
+status = NO CHANGE - this is a 'scientific name', IAST diacritics not appropriate
+------------------------------------------------------------------------
+
+* TODOx Case 393: 12/02/2024 dict=SHS, L=244, hw=agrāyī, user=srhodes
+old = agrāyī
+new = agnāyī
+comment = Typo – Please note that this is a Headword Typo and therefore it is worth 1008 points! Who is going to look up a word that does not exist? Only Aumsanskrit!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 394: 12/02/2024 dict=SHS, L=259, hw=agnija, user=srhodes
+old = Digesstive
+new = Digestive
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 395: 12/02/2024 dict=SHS, L=246, hw=agnika, user=srhodes
+old = lady-bird
+new = ladybird OR ladybug
+comment = Typo – Please note that in my own dictionary I have chosen to use the word "ladybug". In any case, I suggest removing the "hyphen". Please note that we are absolutely NOT talking about a "bird", so why offer the confusion? The first definition states: "An insect of a scarlet color", (not a bird). I consider Sanskrit to be VERY exacting, so why introduce "confusion" in the English translation? May I say, "धिक् शब्दसागरे!"
+status = PENDING  Jim use "ladybird", accepted by Merriam-Webster 
+------------------------------------------------------------------------
+
+* TODOg Case 396: 12/03/2024 dict=SHS, L=264, hw=agnitretā, user=srhodes
+old = Garhapatya or domestic, Ahavaniya or consecrated, and Dakshina
+new = Gārhapatya or domestic, Āhavanīya or consecrated, and Dakṣiṇa
+comment = Typo – Please consider this as a Global Correction across all dictionaries for the three corrected words listed above.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 398: 12/03/2024 dict=SHS, L=267, hw=agnidagdha, user=srhodes
+old = Pitri
+new = Pitṛ
+comment = Typo – Please consider this as a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 400: 12/03/2024 dict=SHS, L=305, hw=agniṣvātta, user=srhodes
+old = MARĪCHI
+new = MARĪCI
+comment = Typo – Please consider this as a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 401: 12/03/2024 dict=SHS, L=305, hw=agniṣvātta, user=srhodes
+old = names
+new = Manes
+comment = Typo – Please note that this is a possible "print change"; cf. Apte and MW.
+status = PENDING cf wil
+** pc: 305<pc>006-b<k1>agnizvAtta : Demigods or names : Demigods or Manes
+------------------------------------------------------------------------
+
+* TODOx Case 402: 12/03/2024 dict=SHS, L=314, hw=agrīdhra, user=srhodes
+old = agrīdhra
+new = agnīdhra
+comment = Typo – Please note that this is a Headword Typo – Super Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 403: 12/03/2024 dict=SHS, L=317, hw=agnyastra, user=srhodes
+old = Fire-arms
+new = Firearms
+comment = Typo – Please consider this as a Global Correction across all dictionaries. Of course, I understand that the hyphen is simply "parsing" the two words: "agni" and "astra", but the TRUTH is that the final word itself is NOT hyphenated in English. And honestly even a neophyte's brain should be able to "parse" the sense of this compound. Do as you like, but I take the fact of the English Translation to require Proper Use of the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 404: 12/03/2024 dict=SHS, L=317, hw=agnyastra, user=srhodes
+old = See Below
+new = Just to make the point clear, by way of comparison, APTE gives, "fire-missile". Now the word "fire-missile" is obviously NOT an English word. Therefore, I completely agree with the use of the Hyphen. But when the Hyphen is NOT needed, I elide it by LOPA ELISION! (and then it is there if you need it to be).
+comment = See Above
+status = PENDING  no change suggested. This is comment re Case 403
+------------------------------------------------------------------------
+
+* TODOg Case 411: 12/04/2024 dict=SHS, L=44805, hw=sūcana, user=srhodes
+old = shewing
+new = showing
+status = PENDING  shewing British spelling of showing
+------------------------------------------------------------------------
+
+* TODOg Case 413: 12/05/2024 dict=SHS, L=329, hw=agrajaṅghā, user=srhodes
+old = fore part
+new = forepart
+comment = Typo – Please note that this is a suggested "print change" and could be considered as a Global Correction across all dictionaries with the following coding: " fore part " — becomes — " forepart " (the space in front and following will prevent ativyāpti in the search and replace function).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 417: 12/05/2024 dict=SHS, L=342, hw=agrabhūmi, user=srhodes
+old = mf.
+new = m.f.
+comment = Typo – Please note that this is a suggested "print change". This is the format that I use in my own dictionary. Of course, whatever "format" is chosen should be singular and without variation. So if it so happens that sometimes it is "mf." and sometimes it is "m.f.", then I consider this an error in nomenclature. Please consider this as a Global Correction across all dictionaries in order to establish a clear standard. "m" is an abbeviation and should have a "period" following. "f" is an abbreviation and should have a "period" following. "mf" is not a proper abbreviation, and therefore it should be corrected as stated here.
+status = NO CHANGE  'mf.' is the standard used by SHS.
+------------------------------------------------------------------------
+
+* TODOx Case 418: 12/05/2024 dict=SHS, L=347, hw=agrasura, user=srhodes
+old = agrasura
+new = agrasara
+comment = Typo – Headword Typo • Kaching! • Also, please note that this typo is interesting because I have decided to incorporate it into my own Sanskrit Dictionary as follows: "(agrasura) m. the first god or deity." If someone says that such a word does not exist – I reply, "Oh have you read the two million Sanskrit Manuscripts that pre-date the printing press?" (in support of your negation).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 419: 12/05/2024 dict=SHS, L=348, hw=agraha, user=srhodes
+old = loger
+new = longer
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 424: 12/06/2024 dict=SHS, L=380, hw=aghos, user=srhodes
+old = final sa
+new = final s
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 425: 12/07/2024 dict=SHS, L=402, hw=aṅkuśī, user=srhodes
+old =  te 
+new =  to 
+comment = Typo – Please note that this should be considered as a Global Correction. If you make the correction target: " te " —becomes— : " to " ,  then this will avoid ativyāpti by isolating the two letters from being any portion of a word; hence the requirement of the single space pūrvottara (preceding and following). Kaching!
+status = PENDING  Jim:  ' te ' could be ' be ' also;
+   e.g., there was typo at L=26338, praReya
+------------------------------------------------------------------------
+
+* TODOx Case 426: 12/07/2024 dict=SHS, L=415, hw=aṅgaja, user=srhodes
+old = Love. desire
+new = Love, desire
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 427: 12/07/2024 dict=SHS, L=416, hw=aṅgaṇa, user=srhodes
+old = court. or yard
+new = court or yard
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 428: 12/07/2024 dict=SHS, L=417, hw=aṅgati, user=srhodes
+old = BRAHMA
+new = BRAHMĀ
+comment = Typo – Please note that this correction follows both APTE and MW. Also, please bear in mind that the neuter word "Brahman" does not really have other "names" in the sense given here. The Supreme Absolute Brahman is the last word (of itself).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 429: 12/07/2024 dict=SHS, L=419, hw=aṅgana, user=srhodes
+old = court or, yard
+new = court or yard
+comment = Typo – Please note that the "comma" is not needed. The word "or" is serving THAT purpose. No need for "Double Duty".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 430: 12/07/2024 dict=SHS, L=419, hw=aṅgana, user=srhodes
+old = court or, yard
+new = court or yard
+comment = Typo – Please note that the "comma" is not needed. The word "or" is serving THAT purpose. No need for "Double Duty".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 433: 12/07/2024 dict=SHS, L=424, hw=aṅgapāli, user=srhodes
+old = Embracing. an embrace
+new = Embracing, an embrace
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 434: 12/07/2024 dict=SHS, L=428, hw=aṅgarakṣiṇī, user=srhodes
+old = Armour. coat
+new = Armour, coat
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 435: 12/07/2024 dict=SHS, L=430, hw=aṅgarāj, user=srhodes
+old = (-rāṭa)
+new = (-rāṭ)
+comment = Typo – Please note that this is the nominative from which does not end in a vowel.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 436: 12/07/2024 dict=SHS, L=29627, hw=bhūtātman, user=srhodes
+old = bhūtra
+new = bhūta
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 437: 12/07/2024 dict=SHS, L=431, hw=aṅgaruha, user=srhodes
+old = wool. fleece
+new = wool, fleece
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 440: 12/07/2024 dict=SHS, L=438, hw=aṅgasaṃskāra, user=srhodes
+old = per fuming
+new = perfuming
+comment = Typo - 30 points! (space is costly)
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 441: 12/07/2024 dict=SHS, L=439, hw=aṅgasaṃhati, user=srhodes
+old = strength, or
+new = strength or
+comment = Typo – Please note that the "comma" is not needed. The word "or" is serving THAT purpose. No need for "Double Duty".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 442: 12/07/2024 dict=SHS, L=440, hw=aṅgasaṅga, user=srhodes
+old = contract
+new = contact
+comment = Typo – Please note that this corrections is a "print change". Also, it is an expensive contract! 440 points! • Also please note the ID number for tuning your instrument: A = 440
+status = PENDING
+** pc: 440<pc>009-a<k1>aNgasaNga : union or contract : union or contact
+------------------------------------------------------------------------
+
+* TODOx Case 443: 12/07/2024 dict=SHS, L=444, hw=aṅgāṅgi, user=srhodes
+old = co-operation
+new = cooperation
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx xxxCase 448: 12/08/2024 dict=SHS, L=419, hw=aṅgana, user=srhodes
+old = E. abhi
+new = E. agi
+comment = Typo – Please note that this is the root √aṅg, writtet as "agi".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 450: 12/08/2024 dict=SHS, L=455, hw=aṅgāravallarī, user=srhodes
+old = Karanja
+new = Karañja
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, please consider that the Sanskrit Language requires the two letters: "nj"  to be  "ñj".  Therefore you might consider making these two letters a Global correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 451: 12/08/2024 dict=SHS, L=aṅgārita, hw=aṅgārita, user=srhodes
+old = Kinsuka.
+new = Kiṃśuka,
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 453: 12/08/2024 dict=SHS, L=461, hw=aṅgārita, user=srhodes
+old = Kinsuka.
+new = Kiṃśuka,
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 454: 12/08/2024 dict=SHS, L=463, hw=aṅgin, user=srhodes
+old = Corporal. bodily
+new = Corporal, bodily
+comment = Typo – ten points!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 455: 12/08/2024 dict=SHS, L=464, hw=aṅgiras, user=srhodes
+old = VRIHASPATI, and for daughters Sinivali, Kuhū Rāka
+new = VṚHASPATI, and for daughters Sinīvālī, Kuhū, Rākā
+comment = Typo – Please consider a global correction to each of the three corrected words above. Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 456: 12/08/2024 dict=SHS, L=464, hw=aṅgiras, user=srhodes
+old = VRIHASPATI, and for daughters Sinivali, Kuhū Rāka
+new = VṚHASPATI, and for daughters Sinīvālī, Kuhū, Rākā
+comment = Typo – Please consider a global correction to each of the three corrected words above. Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 457: 12/08/2024 dict=SHS, L=464, hw=aṅgiras, user=srhodes
+old = VRIHASPATI, and for daughters Sinivali, Kuhū Rāka
+new = VṚHASPATI, and for daughters Sinīvālī, Kuhū, Rākā
+comment = Typo – Please consider a global correction to each of the three corrected words above. Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 458: 12/08/2024 dict=SHS, L=464, hw=aṅgiras, user=srhodes
+old = VRIHASPATI, and for daughters Sinivali, Kuhū Rāka
+new = VṚHASPATI, and for daughters Sinīvālī, Kuhū, Rākā
+comment = Typo – Please consider a global correction to each of the three corrected words above. Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 459: 12/08/2024 dict=SHS, L=464, hw=aṅgiras, user=srhodes
+old = VRIHASPATI, and for daughters Sinivali, Kuhū Rāka
+new = VṚHASPATI, and for daughters Sinīvālī, Kuhū, Rākā
+comment = Typo – Please consider a global correction to each of the three corrected words above. Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 460: 12/08/2024 dict=SHS, L=464, hw=aṅgiras, user=srhodes
+old = VRIHASPATI, and for daughters Sinivali, Kuhū Rāka
+new = VṚHASPATI, and for daughters Sinīvālī, Kuhū, Rākā
+comment = Typo – Please consider a global correction to each of the three corrected words above. Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg dup Case 461: 12/08/2024 dict=SHS, L=464, hw=aṅgiras, user=srhodes
+old = VRIHASPATI, and for daughters Sinivali, Kuhū Rāka
+new = VṚHASPATI, and for daughters Sinīvālī, Kuhū, Rākā
+comment = Typo – Please consider a global correction to each of the three corrected words above. Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 462: 12/08/2024 dict=SHS, L=467, hw=aṅgīkṛta, user=srhodes
+old = Agreed. promised
+new = Agreed, promised
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 477: 12/09/2024 dict=SHS, L=489, hw=aṅghri, user=srhodes
+old = Unadi
+new = Uṇādi
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 478: 12/09/2024 dict=SHS, L=489, hw=aṅghri, user=srhodes
+old = See aṃṅghi.
+new = See aṅghi.
+comment = Typo – This combination is likely to be an impossibility in the Sanskrit Language: "ṃṅ", therefore I submit this correction.
+status = PENDING Jim:  acc. to WIL,  "aMhri"
+------------------------------------------------------------------------
+
+* TODOx dup Case 479: 12/09/2024 dict=SHS, L=489, hw=aṅghri, user=srhodes
+old = See aṃṅghi.
+new = See aṅghi.
+comment = Typo – This combination is likely to be an impossibility in the Sanskrit Language: "ṃṅ", therefore I submit this correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 490: 12/10/2024 dict=SHS, L=520, hw=acyutavāsa, user=srhodes
+old = bāsa abode
+new = vāsa abode
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 493: 12/10/2024 dict=SHS, L=521, hw=acyutāgraja, user=srhodes
+old = KRISHṆA, as VISHṆU
+new = KṚṢṆA, as VIṢṆU
+comment = Typo – Please consider this to be a Global Correction across all dictionaries; and of course the two target corrections cited above should be Globally taken care of one at a time. It is hard to believe that we are STILL making such corrections after two thousand corrections to MW dictionary! That is why Global Corrections across all dictionaries is an efficient approach, and "efficient" is my middle name (so to speak).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 497: 12/11/2024 dict=SHS, L=526, hw=aja, user=srhodes
+old = Sakti
+new = Śakti
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. I understand this could be a difficult Global correction, but here is the solution: make it "Case Sensitive" and that should prevent ativyāpti in the case of the correct word "sakti" which very likely will not be capitalized.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 499: 12/11/2024 dict=SHS, L=538, hw=ajaṭā, user=srhodes
+old = añjhaḍā and añjhaṭā
+new = ajjhaḍā and ajjhaṭā
+comment = Typo – Please note that this correction seems to agree with MW and Apte.
+status = PENDING Jim: mw, ap "ajaḍā and ajjhaṭā"
+** pc: 538<pc>010-b<k1>ajawA : aYJaqA and aYjJawA : ajaqA and ajJawA
+------------------------------------------------------------------------
+
+* TODOx Case 500: 12/11/2024 dict=SHS, L=541, hw=ajanani, user=srhodes
+old = aka- raṇi 
+new = akaraṇi 
+comment = Typo – Please note that this reference is correctly parsed as "a-karaṇi", therefore a correction must be made.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 506: 12/11/2024 dict=SHS, L=545, hw=ajapa, user=srhodes
+old = Agoatherd
+new = A goatherd
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 507: 12/11/2024 dict=SHS, L=545, hw=ajapa, user=srhodes
+old = SIVA and SAKTI
+new = ŚIVA and ŚAKTI
+comment = Typo – Typo – Please consider this to be a Global Correction across all dictionaries; and of course the two target corrections cited above should be Globally taken care of one at a time; Also, please note that both corrections should be treated as case sensitive to avoid ativyāpti (as the target words to be corrected to exist but not as PROPER NAMES). Also, for other dictionaries the case sensitive forms to be corrected should be "Siva"  and  "Sakti". SHABDA always lists names  fully capitalized (which I do not appreciate).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 508: 12/11/2024 dict=SHS, L=546, hw=ajamīḍha, user=srhodes
+old = VISHNU
+new = VIṢṆU
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, for other dictionaries the case sensitive form to be corrected should be "Vishnu". SHABDA always lists names fully capitalized (which I do not appreciate).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 509: 12/11/2024 dict=SHS, L=546, hw=ajamīḍha, user=srhodes
+old = YUDHISHṬHIRA
+new = YUDHIṢṬHIRA
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, for other dictionaries the case sensitive form to be corrected should be "Yudhishṭhira". SHABDA always lists names fully capitalized (which I do not appreciate). Also, if you would like to "get radical" you could make this target correction: "shṭ"  ——becomes—— "ṣṭ"  ,  across ALL dictionaries, and to take care of SHABDA's penchant, also with the target "SHṬ"  ——BECOMES—— "ṢṬ" • KACHING! You may do the same for the two letters "SHṆ"  ——BECOMES—— "ṢṆ"  (for Shabda) and "shṇ"  ——BECOMES—— "ṣṇ" for ALL dictionaries including Shabda (for the instances of lower case).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 530: 12/13/2024 dict=SHS, L=37256, hw=virajā, user=srhodes
+old = kavitthānī
+new = kapitthānī
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 534: 12/14/2024 dict=SHS, L=578, hw=ajīgartta, user=srhodes
+old = Sunasephas
+new = Śunaḥśepa
+comment = Typo – Please note that the spelling should be with diacritic markings. There may be other variant spellings, but this correction is at least a suggestion in the right direction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 538: 12/15/2024 dict=SHS, L=594, hw=ajñānina, user=srhodes
+old = ajñānina
+new = ajñānin
+comment = Typo – This is a wonderful Headword Typo proven by the very fact of the nominative forms given: mfn. (-nī-ninī-ni)
+status = PENDING
+** pc: 594<pc>011-b<k1>ajYAnina : ajYAnina : ajYAnin : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 539: 12/15/2024 dict=SHS, L=599, hw=añcita, user=srhodes
+old = Go ne
+new = Gone
+comment = Typo – Please note that the "space" is now gone!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 540: 12/15/2024 dict=SHS, L=600, hw=añcitabhrū, user=srhodes
+old = eye-brows
+new = eyebrows
+comment = Typo –  Please note that this is a suggested Global "print change" across all dictionaries; however the target correction should be aimed at the singular form which will automatically correct the plural: "eye-brow" —— becomes —— "eyebrow". I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 541: 12/15/2024 dict=SHS, L=602, hw=añjana, user=srhodes
+old = eye-lashes
+new = eyelashes
+comment = Typo –  Please note that this is a suggested Global "print change" across all dictionaries; however the target correction should be aimed at the singular form which will automatically correct the plural: "eye-lash" —— becomes —— "eyelash". I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 542: 12/15/2024 dict=SHS, L=602, hw=añjana, user=srhodes
+old = lamp black
+new = lampblack
+comment = Typo –  Please note that this is a suggested Global "print change" across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 549: 12/15/2024 dict=SHS, L=619, hw=aṭa, user=srhodes
+old = Roaming. wandering
+new = Roaming, wandering
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 550: 12/15/2024 dict=SHS, L=12231, hw=kṣapāṭa, user=srhodes
+old = Rakshasa
+new = Rākṣasa
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction: "ksh" ——becomes—— "kṣ", as this is required by Sanskrit Sandhi.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 561: 12/15/2024 dict=SHS, L=618, hw=aṭa, user=srhodes
+old = Headword Listed Twice
+new = Rākṣasa Please DELETE one of the two redundant listings of this Headword in the Hierarchy. Or, if you prefer distinguish the two listings as "1" and "2" etc. But Double Listing Headwords without any distinction is one of the features of a low-grade dictionary (note the proper use of the hyphen which happens of be so wrongoy overused in these Sanskrit Dictionaries).
+comment = Headword Listed Twice
+status = NO CHANGE:  1 is root, 1 is noun
+------------------------------------------------------------------------
+
+* TODOx dup Case 562: 12/15/2024 dict=SHS, L=618, hw=aṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE one of the two redundant listings of this Headword in the Hierarchy. Or, if you prefer distinguish the two listings as "1" and "2" etc. But Double Listing Headwords without any distinction is one of the features of a low-grade dictionary (note the proper use of the hyphen which happens of be so wrongoy overused in these Sanskrit Dictionaries).
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 563: 12/16/2024 dict=SHS, L=625, hw=aṭavika, user=srhodes
+old = wood-man
+new = woodman
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, in regard to this correction, please ask yourself, "are we talking about a man made of wood?"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 564: 12/16/2024 dict=SHS, L=633, hw=aṭṭahāsa, user=srhodes
+old = horse-laugh
+new = horselaugh
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, in regard to this correction, please ask yourself, "Do horses laugh?"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 565: 12/16/2024 dict=SHS, L=639, hw=aṭṭālikākāra, user=srhodes
+old = Sudra
+new = Śūdra
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. In order to limit the correction to a single word, use the target " Sudra " —— BECOMES —— " Śūdra "  (with a space before and after).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 573: 12/16/2024 dict=SHS, L=649, hw=aṇīyas, user=srhodes
+old = superlative aff.
+new = comparative aff.
+comment = Typo – Please note that this is a suggested "print change", because actually the word "aṇiṣṭha" is the correct superlative form. The word "aṇīyas" is strictly speaking "comparative", and I am strict!
+status = PENDING cf. Pune Dictionary
+** pc: 649<pc>012-b<k1>aRIyas : superlative aff. : comparative aff.
+------------------------------------------------------------------------
+
+* TODOx Case 574: 12/16/2024 dict=SHS, L=655, hw=aṇureṇujāla, user=srhodes
+old = moats
+new = motes
+comment = Typo – Please note that this is a suggested "print change", because frankly we are not talking about: "a deep, wide ditch surrounding a castle".
+status = PENDING
+** pc: 655<pc>013-a<k1>aRureRujAla : moats : motes
+------------------------------------------------------------------------
+
+* TODOx Case 576: 12/17/2024 dict=SHS, L=660, hw=aṇḍakoṭarapuṣpā, user=srhodes
+old = aṇḍakoṭarapuṣpā
+new = aṇḍakoṭarapuṣpī
+comment = Typo – Please note that both MW and APTE spell this word as "aṇḍakoṭarapuṣpī". I hope that Andhrabharati will clarify the correct spelling (perhaps both?). Also, I do not find this word referenced here as: "See ajantrī." Please elucidate.
+status = PENDING  Jim: also "ajantrī" -> "ajāntrī"
+** pc: 660<pc>013-a<k1>aRqakowarapuzpA : aRqakowarapuzpA : aRqakowarapuzpI : headword change
+** pc: 660<pc>013-a<k1>aRqakowarapuzpA : ajantrI : ajAntrI
+------------------------------------------------------------------------
+
+* TODOx dup Case 577: 12/17/2024 dict=SHS, L=660, hw=aṇḍakoṭarapuṣpā, user=srhodes
+old = aṇḍakoṭarapuṣpā
+new = aṇḍakoṭarapuṣpī
+comment = Typo – Please note that both MW and APTE spell this word as "aṇḍakoṭarapuṣpī". I hope that Andhrabharati will clarify the correct spelling (perhaps both?). Also, I do not find this word referenced here as: "See ajantrī." Please elucidate.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 578: 12/17/2024 dict=SHS, L=660, hw=aṇḍakoṭarapuṣpā, user=srhodes
+old = ajantrī
+new = ajāntrī
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 585: 12/17/2024 dict=SHS, L=677, hw=atapta, user=srhodes
+old = Cool not heated
+new = Cool, not heated
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 586: 12/17/2024 dict=SHS, L=675, hw=atandrita, user=srhodes
+old = energetical
+new = energetic
+comment = Typo – This is a suggested "print change". Please bear this in mind: "the meaning of energetical is energetic." So why not just keep it simple and concise? My dictionary uses the word "energetic". In the Spirit of Sanskrit, "less is more" and "more is prolix'. (I am on a prolix hunt).
+status = NO CHANGE : energetical known by Merriam-Webster
+------------------------------------------------------------------------
+
+* TODOx Case 587: 12/17/2024 dict=SHS, L=679, hw=atarkita, user=srhodes
+old = Unconsiderd
+new = Unconsidered
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 588: 12/17/2024 dict=SHS, L=687, hw=atasa, user=srhodes
+old = Sanā
+new = Śaṇa
+comment = Typo – Please note that this is a "Print Change".
+status = PENDING
+** pc: 687<pc>013-a<k1>atasa : Sanā : Śaṇa
+------------------------------------------------------------------------
+
+* TODOx Case 590: 12/18/2024 dict=SHS, L=689, hw=atikatha, user=srhodes
+old = cast
+new = caste
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 591: 12/18/2024 dict=SHS, L=693, hw=atikṛti, user=srhodes
+old = twentyfive
+new = twenty-five
+comment = Typo – Please note that this is a suggested correction across all dictionaries. I always insert a hyphen that is required by the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 593: 12/18/2024 dict=SHS, L=698, hw=atikraśa, user=srhodes
+old = Thin emaciated
+new = Thin, emaciated
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 599: 12/18/2024 dict=SHS, L=707, hw=atiguhā, user=srhodes
+old = pṛṣṇiparṇī
+new = pṛśniparṇī
+comment = Typo – Please note that this correction has been established on two accounts: 1) MW declares it to be so; 2) Shabda also declares it to be so (go ahead and look up the word). Kaching!
+status = NO CHANGE  Jim: MW has pṛṣṇiparṇī - look it up!
+------------------------------------------------------------------------
+
+* TODOx Case 604: 12/18/2024 dict=SHS, L=716, hw=atiḍīna, user=srhodes
+old = lofty. or
+new = lofty or
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 615: 12/19/2024 dict=SHS, L=720, hw=atithi, user=srhodes
+old = the son of KUSĀ. and grandson of RĀMĀ.
+new = the son of KUŚA and grandson of RĀMA.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 616: 12/19/2024 dict=SHS, L=720, hw=atithi, user=srhodes
+old = the son of KUSĀ. and grandson of RĀMĀ.
+new = the son of KUŚA and grandson of RĀMA.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 618: 12/19/2024 dict=SHS, L=732, hw=atiduṣkara, user=srhodes
+old = Very arduous. very difficult.
+new = Very arduous, very difficult.
+comment = Typo – Please note that the punctuation cannot be a "period" for two reasons: 1) There is no proper sentence;  2) The second word "very" is not capitalized.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 646: 12/20/2024 dict=SHS, L=751, hw=atibhūmi, user=srhodes
+old = Impropor
+new = Improper
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 647: 12/20/2024 dict=SHS, L=759, hw=atimita, user=srhodes
+old = Over measured
+new = Over-measured
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = NO CHANGE: Jim: No support from Merriam-Webster
+------------------------------------------------------------------------
+
+* TODOx Case 648: 12/20/2024 dict=SHS, L=787, hw=atiśakkaro, user=srhodes
+old = atiśakkaro
+new = atiśakkarī
+comment = Typo – This correction can be verified as follows: 1) APTE says, "śakkarī - N. of a metre"; 2)  MW says, "śakkarī - a form of metre."; 3) Also, please note the following statement from MW: "śakvarī f. pl. (wrongly written śakkarī or śarkarī)  N. of partic. verses or hymns ...".
+status = PENDING
+** pc: 787<pc>015-a<k1>atiSakkaro : atiSakkaro : atiSakkarI : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 653: 12/21/2024 dict=SHS, L=803, hw=atisāntapana, user=srhodes
+old = curds milk,  and ghee, each two days in succession. LB E. ati, and śāntapana penance
+new = curds, milk, and ghee, each two days in succession. LB E. ati, and sāntapana penance
+comment = Typo – Please note that this "print change" can be verified by looking up the word "sāntapana" itself which lists a similar penance with a comma inserted as follows: "milk, curds".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 654: 12/21/2024 dict=SHS, L=810, hw=atihāsa, user=srhodes
+old = horse-laugh
+new = horselaugh
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards. Also, in regard to this correction, please ask yourself, "Do horses laugh?"
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 670: 12/22/2024 dict=SHS, L=843, hw=atyantābhāva, user=srhodes
+old = non-existence
+new = nonexistence
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 678: 12/22/2024 dict=SHS, L=818, hw=atīvra, user=srhodes
+old = dull insipid
+new = dull, insipid
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 679: 12/22/2024 dict=SHS, L=822, hw=atula, user=srhodes
+old = Unequalled,
+new = Unequalled;
+status = NO CHANGE Jim: print uses comma;  why change to semicolong?
+------------------------------------------------------------------------
+
+* TODOx Case 680: 12/22/2024 dict=SHS, L=824, hw=atulya, user=srhodes
+old = Unequalled. unparalleled
+new = Unequalled, unparalleled
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 681: 12/22/2024 dict=SHS, L=825, hw=atuhinarasmi, user=srhodes
+old = atuhinadhābha
+new = atuhinadhāman
+status = PENDING
+** pc: 825<pc>015-b<k1>atuhinarasmi : atuhinaDABa : atuhinaDAman
+------------------------------------------------------------------------
+
+* TODOx Case 682: 12/22/2024 dict=SHS, L=825, hw=atuhinarasmi, user=srhodes
+old = atuhinarasmi
+new = atuhinaraśmi
+comment = Typo – Headword Typo – Kaching!
+status = PENDING
+** pc: 825<pc>015-b<k1>atuhinarasmi : atuhinarasmi : atuhinaraSmi
+------------------------------------------------------------------------
+
+* TODOx Case 683: 12/22/2024 dict=SHS, L=835, hw=attṛ, user=srhodes
+old = -ttvī
+new = -ttrī
+status = PENDING
+** pc: 835<pc>015-b<k1>attf : -ttvI : -ttrI
+------------------------------------------------------------------------
+
+* TODOg Case 685: 12/22/2024 dict=SHS, L=843, hw=atyantābhāva, user=srhodes
+old = non-existence
+new = nonexistence
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 686: 12/22/2024 dict=SHS, L=845, hw=atyantīna, user=srhodes
+old = quickly. or actively
+new = quickly or actively
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 690: 12/23/2024 dict=SHS, L=875, hw=atrinetraja, user=srhodes
+old = See atriṭṭhagja
+new = See atridṛgja
+comment = Typo – Please note that this is a VERY serious "print change". I am confident of this correction based upon easy confusion of the letters "ṭṭha"  for  "dṛ"  in the case of bad printing.  Do I hear a Super Kaching?
+status = PENDING
+** pc: 875<pc>016-b<k1>atrinetraja : atriwWagja : atridfgja
+------------------------------------------------------------------------
+
+* TODOx Case 695: 12/24/2024 dict=SHS, L=883, hw=athakim, user=srhodes
+old = howelse
+new = how else
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 696: 12/24/2024 dict=SHS, L=888, hw=atho, user=srhodes
+old = ind,
+new = ind.
+comment = Typo – Please note the "Luck Number ID".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 697: 12/24/2024 dict=SHS, L=889, hw=ada, user=srhodes
+old = yasa
+new = ghas • (  or technically the root घसॢ  )
+comment = Typo – Please note this correction is largely due to the Great Textbook of Sanskrit, "SiddhāntaKaumudī". Andhrabharati apparently does not think highly of this Great textbook, and I understand from his reproachful comment that He Himself has NOT gone through the entire text of "SiddhāntaKaumudī". The reason people do not appreciate the SiddhāntaKaumudī is because, frankly it is a difficult text, but I rank it at the top!
+status = PENDING  Jim:  WIL has 'ghasa' - Apparently SHS erred in copying WIL.
+** pc: 889<pc>016-b<k1>ada : yasa : Gasa
+------------------------------------------------------------------------
+
+* TODOx Case 707: 12/25/2024 dict=SHS, L=898, hw=adanīya, user=srhodes
+old = eaten.
+new = eaten,  OR  eaten;
+comment = Typo – I prefer one of the above suggestions.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 708: 12/25/2024 dict=SHS, L=905, hw=adasa, user=srhodes
+old = adasa
+new = adas
+status = PENDING
+** pc: 905<pc>017-a<k1>adasa : adasa : adas : headword change
+------------------------------------------------------------------------
+
+* TODOg Case 709: 12/25/2024 dict=SHS, L=912, hw=aditi, user=srhodes
+old = DAKSHA, wife of KASYAPA
+new = DAKṢA, wife of KAŚYAPA
+comment = Typo – Please consider this to be a Global Correction across all dictionaries for each word individually (and of course not always in full capital letters).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 711: 12/25/2024 dict=SHS, L=916, hw=adṛś, user=srhodes
+old = m.
+new = mfn.
+comment = Typo – Please note that the definition "blind" is applicable to all genders as a modifier to the noun. I consider this to be a grammatical "adjective", but previously, Jim has commented that there are no adjectives in Sanskrit, which I find to be a strange statement.
+status = PENDING
+** pc: 916<pc>017-a<k1>adfS : m. : mfn.  : all genders
+------------------------------------------------------------------------
+
+* TODOx Case 712: 12/25/2024 dict=SHS, L=918, hw=adṛṣṭa, user=srhodes
+old = unfelt.
+new = unfelt,
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 730: 12/26/2024 dict=SHS, L=932, hw=adya, user=srhodes
+old = To-day
+new = Today
+comment = Typo – Please note that today this word is written as "today". Therefore, please consider this to be a Global Correction across all dictionaries, so that we may keep up to date with the Current Standard of the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 732: 12/26/2024 dict=SHS, L=934, hw=adyatanabhūta, user=srhodes
+old = to-day
+new = today
+comment = Typo – Please note that today this word is written as "today". Therefore, please consider this to be a Global Correction across all dictionaries, so that we may keep up to date with the Current Standard of the English Language.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 733: 12/26/2024 dict=SHS, L=944, hw=adripati, user=srhodes
+old = Himalaya
+new = Himālaya
+comment = Typo – Please note that this is a suggested Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 749: 12/28/2024 dict=SHS, L=949, hw=adriśṛṅga, user=srhodes
+old = m. (-ṅgaḥ)
+new = n. (-ṅgam)
+comment = Typo – Please note that this is a possible "print change": 1) APTE gives neuter gender; 2) MW gives neuter gender; 3) the final member of the compound: "śṛṅga" is neuter; 4) a Bahuvrīhi analysis of this compound seems unlikely; 5) Therefore, I conclude that, "the horn of a mountain" MUST be neuter gender in the compound: "adriśṛṅga"
+status = PENDING
+** pc: 949<pc>017-b<k1>adriSfNga : m. ({#-NgaH#}) : n. ({#-Ngam#}) : gender
+------------------------------------------------------------------------
+
+* TODOy Case 750: 12/28/2024 dict=SHS, L=951, hw=adrīśa, user=srhodes
+old = SIVA
+new = ŚIVA
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. But of course this will need to apply also to the form: "Siva"  ——becomes——  "Śiva".  Additionally, "Shiva"  ——becomes——  "Śiva" (as a bonus Global correction).
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 751: 12/28/2024 dict=SHS, L=951, hw=adrīśa, user=srhodes
+old = HIMĀLAYĀ
+new = HIMĀLAYA
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 759: 12/29/2024 dict=SHS, L=987, hw=adharmma, user=srhodes
+old = Sruti and Smriti
+new = Śruti and Smṛti
+comment = Typo – Please consider this to be a Global Correction across all dictionaries for each single word of the two words corrected above.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 760: 12/29/2024 dict=SHS, L=994, hw=adhaścaura, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 768: 12/29/2024 dict=SHS, L=43407, hw=sasana, user=srhodes
+old = sam to sleep
+new = sas to sleep
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 774: 12/30/2024 dict=SHS, L=1007, hw=adhikaraṇa, user=srhodes
+old = Mimansa
+new = Mīmāṃsā
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 775: 12/30/2024 dict=SHS, L=1010, hw=adhikarmmaka, user=srhodes
+old = adhikarmmaka
+new = adhikarmmika
+comment = Typo – Please note that this SHABDA itself proves this correction by the statement: "and ik aff."
+status = PENDING
+** pc: 1010<pc>018-b<k1>aDikarmmaka : aDikarmmaka : aDikarmmika : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 776: 12/30/2024 dict=SHS, L=1010, hw=adhikarmmaka, user=srhodes
+old = and ik aff.
+new = and ika aff.
+comment = Typo – Please note that this is a likely correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 777: 12/30/2024 dict=SHS, L=1012, hw=adhikāra, user=srhodes
+old = 3. Rule, government. 4. Right, title.
+new = 3. Rule, government. LB 4. Right, title.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 778: 12/30/2024 dict=SHS, L=1018, hw=adhikramaṇa, user=srhodes
+old = over-running
+new = overrunning
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 780: 12/30/2024 dict=SHS, L=43912, hw=sāsrā, user=srhodes
+old = dew-lap
+new = dewlap
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 781: 12/30/2024 dict=SHS, L=43912, hw=sāsrā, user=srhodes
+old = sāsrā
+new = sāsnā
+comment = Typo – Please note that this correction is confirmed by SHABDA itself according to the statement: "na Unādi aff". Also, please note that this Headword correction is confirmed by All Sanskrit Authorities. Kaching!
+status = PENDING
+** pc: 43912<pc>785-a<k1>sAsrA : sAsrA : sAsnA
+------------------------------------------------------------------------
+
+* TODOx Case 784: 12/31/2024 dict=SHS, L=1023, hw=adhigama, user=srhodes
+old = attaining acquiring
+new = attaining, acquiring
+comment = Typo – Also, please note that the definitions listed here are to be carried to the following Headword "adhigamana". It may be helpful to make this clear as the following Headword "adhigamana" does NOT itself show a definition in its Window Display. So the "grouping" of these two Headwords (of identical definition) should be more clearly revealed here. Of course, this is obvious on the "Printed Page", but here, online it is a bit obscured.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 789: 01/01/2025 dict=SHS, L=26129, hw=prakṣepa, user=srhodes
+old = casting projecting
+new = casting, projecting
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 790: 01/01/2025 dict=SHS, L=26129, hw=prakṣepa, user=srhodes
+old = 2. Throwing into or upon. 3. Anything
+new = 2. Throwing into or upon. LB 3. Anything
+comment = Line Break Needed • Please note that the number "3" is a listing of another numbered definition and needs to be placed on a new line in the window display.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 793: 01/01/2025 dict=SHS, L=1063, hw=adhiśrayaṇī, user=srhodes
+old = fire-place
+new = fireplace
+comment = Typo – Please note that this is a suggested Global "print change" across all dictionaries. I eliminate any hyphen that is not needed in the English Language according to current standards.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx dup Case 794: 01/01/2025 dict=SHS, L=1023, hw=adhigama, user=srhodes
+old = attaining acquiring
+new = attaining, acquiring
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 795: 01/01/2025 dict=SHS, L=1041, hw=adhimātra, user=srhodes
+old = for the Hindu triad om
+new = for the Hindu triad aum
+comment = Typo – Please note that I have made this "print change" in my own dictionary based upon the statement made here: "for the Hindu triad" ; triad is three and the "three" refers to the three letters which obviously are "a", "u" and "m". So why not just spell it out and make it clear. This I have done, now it is your choice.
+status = NO CHANGE 
+------------------------------------------------------------------------
+
+* TODOy Case 796: 01/01/2025 dict=SHS, L=1054, hw=adhivāsa, user=srhodes
+old = 5. A neighbour. 6. Neighbourhood.
+new = 5. A neighbour. LB 6. Neighbourhood.
+comment = Line Break Needed – Please note that the number "6" is a listing of another numbered definition and needs to be placed on a new line in the window display.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 797: 01/01/2025 dict=SHS, L=1066, hw=adhiṣṭhātṛ, user=srhodes
+old = directing. fixing
+new = directing, fixing
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 798: 01/01/2025 dict=SHS, L=1067, hw=adhiṣṭhita, user=srhodes
+old = 2. Supervised, overlooked. 3. Guarded, surrounded.
+new = 2. Supervised, overlooked. LB 3. Guarded, surrounded.
+comment = Line Break Needed – Please note that the number "3" is a listing of another numbered definition and needs to be placed on a new line in the window display.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 799: 01/01/2025 dict=SHS, L=1067, hw=adhiṣṭhita, user=srhodes
+old = overlooked
+new = overseen
+comment = Typo – Please note that this is a radical "print change". I get "radical" whenever it is needed! According to the current standard, "overlooked" means "failed to notice", however that is NOT the meaning intended here! So why maintain an archaic usage which will only serve to mislead the aspiring Sanskrit student? Therefore, I have substituted the CORRECT meaning according to what is intended. Now you may choose.
+status = PENDING  Jim: in Webster 1828 "overlook", sense 5 is "to oversee" !
+  but in Current Webster, this sense is absent.
+** pc: 1067<pc>019-b<k1>aDizWita : overlooked : overseen
+------------------------------------------------------------------------
+
+* TODOx Case 817: 01/02/2025 dict=SHS, L=1086, hw=adhṛṣya, user=srhodes
+old =  a neg. and dhṛṣa
+new =  a neg. and dhṛṣya
+comment = Typo – Please note that this is a suggested "print change" based upon the true parsing of the Headword: "a-dhṛṣya" (MW parses in this manner).
+status = NO CHANGE Jim: "{#Dfza#} to be proud" a root
+------------------------------------------------------------------------
+
+* TODOx Case 818: 01/02/2025 dict=SHS, L=1090, hw=adhaḥkṣaja, user=srhodes
+old = adhaḥkṣaja
+new = adhokṣaja
+comment = Typo – über-Kaching!
+status = PENDING
+** pc: 1090<pc>020-a<k1>aDaHkzaja : aDaHkzaja : aDokzaja : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 824: 01/03/2025 dict=SHS, L=1116, hw=adhyagri, user=srhodes
+old = adhyagri
+new = adhyagni
+comment = Typo – über-Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 825: 01/03/2025 dict=SHS, L=1117, hw=adhyaṇḍā, user=srhodes
+old = Gowach
+new = Cowach
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 826: 01/03/2025 dict=SHS, L=1117, hw=adhyaṇḍā, user=srhodes
+old = Gowach
+new = Cowach  OR  Cowage
+comment = Typo – "Cowage" may be the more current spelling in English.
+status = PENDING Jim: Current may be "Cowhage" 
+  changing to "Cowach" per print
+
+------------------------------------------------------------------------
+
+* TODOHW Case 827: 01/03/2025 dict=SHS, L=1117, hw=adhyaṇḍā, user=srhodes
+old = Missing Headword
+new = Please note that the following Headword has been omitted:  “adhyaya" ; AND its definition has been erroneously placed here: " adhyaya LB m. (-yaḥ) A lecture, a chapter or section. LB E. adhi before ik to go, ghaṅ aff."  Please ADD the missing Headword “adhyaya" along with its definition; and DELETE its erroneous placement here.   über-über-über-Kaching!
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 828: 01/03/2025 dict=SHS, L=1119, hw=adhyavasāya, user=srhodes
+old = and aba
+new = and ava
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 829: 01/03/2025 dict=SHS, L=1135, hw=adhyāropana, user=srhodes
+old = adhyāropana
+new = adhyāropaṇa
+comment = Typo – über-Kaching!
+status = PENDING
+** pc: 1135<pc>020-b<k1>aDyAropana : aDyAropana : aDyAropaRa : headword change
+------------------------------------------------------------------------
+
+* TODOy Case 830: 01/03/2025 dict=SHS, L=1148, hw=adhyūḍha, user=srhodes
+old = SIVA
+new = ŚIVA
+comment = Typo – Please consider this to be a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 837: 01/03/2025 dict=SHS, L=1164, hw=adhvāntaśātrava, user=srhodes
+old = See patrīrṇa.
+new = ???
+comment = Typo – Please clarify the above reference which is nowhere to be found.
+status = PENDING  Jim: patrorṇa (cf. WIL)
+------------------------------------------------------------------------
+
+* TODOx Case 899: 01/06/2025 dict=SHS, L=3551, hw=alpa, user=srhodes
+old = Inferior. low
+new = Inferior, low
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 900: 01/06/2025 dict=SHS, L=1175, hw=anaṅga, user=srhodes
+old = SIVA, for having distributed his devotions, and rendered him enamoured of PĀRVĀTI
+new = ŚIVA, for having distributed his devotions, and rendered him enamoured of PĀRVATĪ
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 901: 01/06/2025 dict=SHS, L=1177, hw=anaṅgāsuhṛd, user=srhodes
+old = SIVA
+new = ŚIVA
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 902: 01/06/2025 dict=SHS, L=1180, hw=agaḍuha, user=srhodes
+old = agaḍuha
+new = anaḍuh
+comment = Typo – Please note that this is a Super-Kaching "print change". APTE and MW confirm this correction; and of course SHABDA itself states here: "E. anas a cart".
+status = PENDING
+** pc: 1180<pc>021-b<k1>agaquha : agaquha : anaquh : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 903: 01/07/2025 dict=SHS, L=1201, hw=ananta, user=srhodes
+old = 1. A name of VISHNŪ or KRISHNĀ. LB 2. BALADEVA, the brother of KRISHNĀ. LB 3. The chief of the NĀGAS or serpent race, that inhabit the infernal regions: the couch and constant attendant of VISHNU. LB 4. The king of serpents, confounded with VĀSUKI. See vāmuki. LB 5. The fourteenth of the Jaina Tirthakāras or defied Saints: also called anantajit. LB f. (-ntā) LB 1. A name of PĀRVATĪ, the wife of SIVĀ.
+new = 1. A name of VIṢṆU or KṚṢṆA. LB 2. BALADEVA, the brother of KṚṢṆA. LB 3. The chief of the NĀGAS or serpent race, that inhabit the infernal regions: the couch and constant attendant of VIṢṆU. LB 4. The king of serpents, confounded with VĀSUKI. See vāsuki. LB 5. The fourteenth of the Jaina Tirthakāras or defied Saints: also called anantajit. LB f. (-ntā) LB 1. A name of PĀRVATĪ, the wife of ŚIVA.
+comment = Typo – Many corrections here.
+status = PENDING  Jim: also "Tirthakāras" -> "Tīrthakaras", 
+         "defied" -> "deified"
+------------------------------------------------------------------------
+
+* TODOy Case 904: 01/07/2025 dict=SHS, L=1209, hw=anantaraja, user=srhodes
+old = Kshetriya
+new = Kṣatriya
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. Also, if you would like to "get radical" you could make this target correction across all dictionaries: "Ksh" ——becomes—— "Kṣ" AND "ksh" ——becomes—— "kṣ" These "radical" corrections should be made particularly to the Purāṇa Index. My God, that would clean things up faster than a sneeze!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 905: 01/07/2025 dict=SHS, L=1209, hw=anantaraja, user=srhodes
+old = Vaisya
+new = Vaiśya
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 906: 01/07/2025 dict=SHS, L=1213, hw=anantavijaya, user=srhodes
+old = YUDHISHTHĪRA
+new = YUDHIṢṬHIRA
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 907: 01/07/2025 dict=SHS, L=1214, hw=anantavīryya, user=srhodes
+old = Tirthakara
+new = Tīrthakara
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOy Case 908: 01/07/2025 dict=SHS, L=1215, hw=anantavrata, user=srhodes
+old = VISHNŪ
+new = VIṢṆU
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 909: 01/07/2025 dict=SHS, L=1216, hw=anantaśīrṣā, user=srhodes
+old = VASUKI
+new = VĀSUKI
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 910: 01/07/2025 dict=SHS, L=1232, hw=anapakarmma, user=srhodes
+old = anapakarmma
+new = anapakarmman
+comment = Typo – Please note that this is a suggested "print change". The Headword listed MUST be the "prātipadika" form. Headwords should NEVER be listed according to their nominative declension. Confer with MW: "anapakarman".
+status = PENDING  Jim: also cf. apakarmman (n.)
+** pc: 1232<pc>022-b<k1>anapakarmma : anapakarmma : anapakarmman : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 911: 01/07/2025 dict=SHS, L=1232, hw=anapakarmma, user=srhodes
+old = apakarmma; also anapākarmma
+new = apakarmman; also anapākarmman
+comment = Typo – Please note that this is a suggested "print change" so as to list  the "prātipadika" form. Headwords should NEVER be listed according to their nominative declension. Confer with APTE: "apakarman" AND MW: "anapākarman".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 913: 01/07/2025 dict=SHS, L=1254, hw=agama, user=srhodes
+old = agama
+new = anama
+comment = Typo – Please note that this is a VERY serious "print change". You may check both APTE and MW: "anama" to confirm this correction. über-Kaching! LB ALSO, please DELETE the entire listing of "agama [ID=216]" from the Window Dispaly which now correctly references ONLY the Headword "anama". über-Kaching!
+status = PENDING
+** pc: 1254<pc>023-a<k1>agama : agama : anama : headword change
+** pc: 1254<pc>023-a<k1>agama : gama who salutes : nama who salutes
+------------------------------------------------------------------------
+
+* TODOx Case 914: 01/07/2025 dict=SHS, L=1254, hw=agama, user=srhodes
+old = E. a neg. and gama who salutes.
+new = E. a neg. and nama who salutes.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 942: 01/10/2025 dict=SHS, L=1268, hw=anali, user=srhodes
+old = agastidu
+new = agastidru
+status = PENDING
+** pc: 1268<pc>023-a<k1>anali : agastidu : agastidru
+------------------------------------------------------------------------
+
+* TODOx Case 943: 01/10/2025 dict=SHS, L=1274, hw=anavara, user=srhodes
+old = Equal of superior
+new = Equal or superior
+comment = Typo – Please note that this is a suggested "print change" based upon the sense: "not inferior" ; if something is "not inferior", then it is either "equal" or "superior", but "equal of superior" is a rather strange wording.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 944: 01/10/2025 dict=SHS, L=1278, hw=anavasara, user=srhodes
+old = 1. Want of leisure or oppor- LB Page023-b+ 60 LB tunity.
+new = 1. Want of leisure or opportunity.
+comment = Typo – Please note that I disagree with including "page break information" in the middle of the online definition. This is completely distracting and worthless. Please delete "Page023-b+ 60" and all such cases Globally across all dictionaries. Remember, ONLINE has NO page break. And the Headword itself MUST be found by the discerning eye on the scanned page without any further guidance. The same "discerning eye" will naturally see the "page break".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 945: 01/10/2025 dict=SHS, L=1288, hw=anasūya, user=srhodes
+old = wife or
+new = wife of
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOg Case 951: 01/11/2025 dict=SHS, L=1305, hw=anācāra, user=srhodes
+old = ill behaved
+new = ill-behaved
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING.  Copilot agrees, Merriam-webster silent
+------------------------------------------------------------------------
+
+* TODOg Case 963: 01/12/2025 dict=SHS, L=39377, hw=śatapatra, user=srhodes
+old = wood-pecker
+new = woodpecker
+comment = Typo – Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 964: 01/12/2025 dict=SHS, L=1306, hw=anācārin, user=srhodes
+old = indecent
+new = indecent.
+comment = Typo – Please note that generally there is a "period" at the conclusion of definitions, prior to the etymological abbreviation, "E." 
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 965: 01/12/2025 dict=SHS, L=1308, hw=anātapa, user=srhodes
+old = Shade. shadow.
+new = Shade, shadow.
+comment = Typo – Please note that generally there is a "comma" separating common definitions.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 966: 01/12/2025 dict=SHS, L=1316, hw=anādīnava, user=srhodes
+old = faultless,
+new = faultless.
+comment = Typo – Please note that generally there is a "period" at the conclusion of the definitions, prior to the etymological letter, "E.".
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 968: 01/12/2025 dict=SHS, L=1328, hw=anāyattavṛttitā, user=srhodes
+old = self subsistence
+new = self-subsistence
+comment = Typo – Please note that generally it is proper to "hyphenate" this term. Please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 969: 01/12/2025 dict=SHS, L=1345, hw=anāvṛta, user=srhodes
+old = uninclosed
+new = unenclosed
+comment = Typo – Please note that this correction is a "print change". Spelling errors such as this are evidence in support of an original phonetic recitation of this dictionary whereby the scribe was not versed in the accurate spelling of English words.
+status = PENDING
+** pc: 1345<pc>024-b<k1>anAvfta : uninclosed : unenclosed
+------------------------------------------------------------------------
+
+* TODOx Case 993: 01/14/2025 dict=SHS, L=1352, hw=anāsādita, user=srhodes
+old = nonexsitent
+new = nonexistent
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 994: 01/14/2025 dict=SHS, L=1356, hw=anāhāra, user=srhodes
+old = nonseizure
+new = non-seizure
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOQ Case 995: 01/14/2025 dict=SHS, L=1361, hw=anigīrṇa, user=srhodes
+old = See Below
+new = The definition given here is very unusual compared with APTE and MW. Please comment...; Also, "E. a neg. nigīrṇa uttered."?!? LB What does Andhrabharati or Jim have to say about this?
+comment = See Above
+status = NO CHANGE 
+
+------------------------------------------------------------------------
+
+* TODOg Case 997: 01/14/2025 dict=SHS, L=1378, hw=animiṣācāryya, user=srhodes
+old = VRIHASPATI
+new = VṚHASPATI
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 998: 01/14/2025 dict=SHS, L=1367, hw=aniyakriyā, user=srhodes
+old = aniyakriyā
+new = anityakriyā
+comment = Typo – Headword Typo and über-Kaching!
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOx Case 999: 01/14/2025 dict=SHS, L=1375, hw=anibaddha, user=srhodes
+old = Unasked
+new = Unattached
+comment = Typo – Please note that this is a= possible "print change". My opinion is that this dictionary must have been recited and a scribe with bad hearing wrote down the definitions accordingly. Otherwise, where do we get the definition, "unasked"? Jim or Andhrabharati, Please comment.
+status = PENDING 
+** pc: 1375<pc>025-a<k1>anibadDa : Unasked : Unattached
+------------------------------------------------------------------------
+
+* TODOy Case 1000: 01/14/2025 dict=SHS, L=1383, hw=aniruddha, user=srhodes
+old = USHĀ
+new = UṢĀ
+status = PENDING
+------------------------------------------------------------------------
+

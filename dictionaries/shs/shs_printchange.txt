@@ -1102,3 +1102,40 @@ code : Headword : Old  : New : Comment
 7063 : udgIti : 14 feet : 18 feet 
 23527 : parijYAta : parijYAta : parijYAtf : headword change
 -----------------------------------------------------------------------
+12-27-2025
+Scott Rhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104
+code : Headword : Old  : New : Comment
+8876 : vyavasAyAtmika : vyavasAyAtmika : vyavasAyAtmaka : headword change
+3 : afRin : also afRin : also anfRin
+305 : agnizvAtta : Demigods or names : Demigods or Manes
+440 : aNgasaNga : union or contract : union or contact
+538 : ajawA : aYJaqA and aYjJawA : ajaqA and ajJawA
+594 : ajYAnina : ajYAnina : ajYAnin : headword change
+649 : aRIyas : superlative aff. : comparative aff.
+655 : aRureRujAla : moats : motes
+660 : aRqakowarapuzpA : aRqakowarapuzpA : aRqakowarapuzpI : headword change
+660 : aRqakowarapuzpA : ajantrI : ajAntrI
+687 : atasa : Sanā : Śaṇa
+787 : atiSakkaro : atiSakkaro : atiSakkarI : headword change
+825 : atuhinarasmi : atuhinaDABa : atuhinaDAman
+825 : atuhinarasmi : atuhinarasmi : atuhinaraSmi
+835 : attf : -ttvI : -ttrI
+875 : atrinetraja : atriwWagja : atridfgja
+889 : ada : yasa : Gasa
+905 : adasa : adasa : adas : headword change
+916 : adfS : m. : mfn.  : all genders
+949 : adriSfNga : m. ({#-NgaH#}) : n. ({#-Ngam#}) : gender
+1010 : aDikarmmaka : aDikarmmaka : aDikarmmika : headword change
+43912 : sAsrA : sAsrA : sAsnA
+1067 : aDizWita : overlooked : overseen
+1090 : aDaHkzaja : aDaHkzaja : aDokzaja : headword change
+1135 : aDyAropana : aDyAropana : aDyAropaRa : headword change
+1180 : agaquha : agaquha : anaquh : headword change
+1232 : anapakarmma : anapakarmma : anapakarmman : headword change
+1254 : agama : agama : anama : headword change
+1254 : agama : gama who salutes : nama who salutes
+1268 : anali : agastidu : agastidru
+1345 : anAvfta : uninclosed : unenclosed
+1375 : anibadDa : Unasked : Unattached
+-----------------------------------------------------------------------
