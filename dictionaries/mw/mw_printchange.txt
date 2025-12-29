@@ -2137,13 +2137,13 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/103
 L code : Headword : Old  : New : Comment
 5174.11  : anaBihitavAcya : --- : <lex>mfn.</lex> : all genders
 4412.1   : aDiveSma : ... : <lex>ind.</lex> : ind. added
-3810     : adButarasa : ... : <lex>m.</lex> : add gender
-3801.1   : adButakfzRarAja : ... : <lex>m.</lex> : add gender
+3809.1   : adButaraNga : ... : <lex>m.</lex> : add gender  (NOTE: Next section changed to <lex>n.</lex>
+3801.1   : adButakfzRarAja : ... : <lex>m.</lex> : add gender  
 182179.1 : lAjAhuti : burnt-oblation : burnt oblation
 141820.1 : Palapravftti : id. : acting with an object in view
 547      : akzatA : Kaṅkaḍaśṛṅgī : Kām̐kaḍāśṛṅgī : cf SKD akzatA
 62110    : KyA : impf. aKyat, aKyata : aor. aKyat, aKyata
-115415   : padAji : pada + Aji : pad + Aji 
+115415   : padAji : pada + Aji : pad + Aji : NOTE corrected back in 12-29-2025 below
 2473     : aRqasU : f. : mfn. :
 101159   : DAv : -aBimuKam : aBimuKam
 5781     : anityadatrima : anityadatrima : anityadattrima : headword change
@@ -2151,3 +2151,14 @@ L code : Headword : Old  : New : Comment
 201614   : viz : aor. aviṣat, avikṣat : aor. avikṣat, avikṣata
 5763     : anicCA : wish or design : wish or desire
 -----------------------------------------------------------------------
+12-29-2025
+Source: @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104
+  (mw/part2) 02_mw_printchange.AB.txt
+L code : Headword : Old  : New : Comment
+3809.1 : adButaraNga : <lex>m.</lex> : <lex>n.</lex>  : revision of above
+149489 : BAnuprabanDa : <lex>m.</lex> : <lex>n.</lex>
+248008 : suBagAnanda : <lex>m.</lex> : <lex>n.</lex>
+262131 : hAsyArRava : <lex>m.</lex> : <lex>n.</lex>
+115415 : padAji : pad + Aji : pada + Aji : Reverted see above
+-----------------------------------------------------------------

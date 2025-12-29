@@ -1,0 +1,30 @@
+  2 TODOE  Emergency
+======================
+
+* DONE TODOE Case 12: 11/03/2024 dict=MW, L=5874.1, hw=anirdaya, user=srhodes
+old = Emergency
+new = Please note that the “Emergency” pertains to the very next word listed in the Supplemental Section: “anirdāhuka, mfn. not burning or scorching, MaitrS.” Please note that this Headword “anirdāhuka” is MISSING FROM MW DICTIONARY ONLINE!!! (Super-Duper-kaching!) • Jackpot! • 100,000 points •
+comment = Emergency
+status = DONE
+
+AB comment:
+It does not appear with "simple" input, in the "Simple" search, but appears with "slp1" input.
+Jim to find the reason and resolve the point.
+Jim comment:
+my solution: see https://github.com/sanskrit-lexicon/csl-apidev/issues/41
+
+------------------------------------------------------------------------
+
+* TODOE Case 280: 11/19/2024 dict=MW, L=156526, hw=madhyamapadalopa, user=srhodes
+old = sākapriya
+new = śāka-priya
+comment = Typo & EMERGENCY • The Typo is corrected above • The Emergency is: "This is NOT a Revision!"; This definition is Strictly from the Main Entry and there is No Mention of this in the annexure! Please REMOVE the "circle-R" Revision Symbol from the Hierarchy List (and no revision in the window display) • (Super-kaching!)
+status = NO CHANGE
+
+AB comment:
+The revision mentioned in Annexure is for "number -> member".
+In the "sāka-priya-pārthiva" (as in p. 782) the hyphen at the line ending is required to be retained, which clearly indicates the "madhyama-pada" (middle-word)!
+
+Jim comment:  As I understand it, no change is required here acc. to AB.
+------------------------------------------------------------------------
+

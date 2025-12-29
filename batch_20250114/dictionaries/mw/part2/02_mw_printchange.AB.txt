@@ -1,0 +1,94 @@
+** DONE pc: 4412.1<pc>1310,3<k1>aDiveSma : ... : <lex>ind.</lex> : ind. added
+
+AB comment:
+I had this entry moved to L-4417.1 in my version, in the order of Annexure entries
+Jim comment: 
+ 1. renumber  <L>4417.1<pc>1310,3<k1>aDivyatikrama to 4417.2
+ 2. move pc: 4412.1<pc>1310,3<k1>aDiveSma to 4417.1
+------------------------------------------------------------------------
+** DONE pc: 3810<pc>19,1<k1>adButarasa : ... : <lex>m.</lex> : add gender
+
+AB comment:
+Scott was talking about L-3809.1 (not 3810!) in his post (Case 68)!
+L-3809.1 should be marked as n. and not as m.
+We can see MW listing 8 other such (prahasana) titles as n. 
+  while only 3 others were tagged as m. 
+(I would suggest changing these 3 also to n.)
+Jim comment: 
+1a 'pc: 3810<pc>19,1<k1>adButarasa' is a typo made by Jim.  
+   The addition of 'm.' was made to 3809.1 (per ../change_m1_1.txt)
+1b. csl-corrections/dictionaries/mw/mw_printchange.txt corrected
+   old: 3810     : adButarasa : ... : <lex>m.</lex> : add gender
+   new: 3809.1   : adButaraNga : ... : <lex>m.</lex> : add gender
+1c. revise mw.txt 3809.1<pc>1310,1<k1>adButaraNga to <lex>n.</lex>
+1d. add new printchange
+
+2. <s1>Prahasana</s1>  finds 6 matches.
+   - <L>3809.1<pc>1310,1<k1>adButaraNga   <lex>n.</lex
+   - <L>242013<pc>1203,3<k1>sAndrakutUhala  <lex>n.</lex>
+   - <L>149489<pc>751,1<k1>BAnuprabanDa   <lex>m.</lex> to change to n.  pc
+   - <L>248008<pc>1229,3<k1>suBagAnanda  <lex>m.</lex> to change to n.
+   - <L>262131<pc>1294,3<k1>hAsyArRava  <lex>m.</lex> to change to n.
+   - <L>179223<pc>886,3<k1>rUpaka   not a work
+
+This accounts for AB's comment "3 others were tagged as m."
+Per AB comment "(I would suggest changing these 3 also to n.)"
+Change those 3 in mw.txt, and 
+   - <L>149489<pc>751,1<k1>BAnuprabanDa   <lex>m.</lex> to change to n.  pc
+   - <L>248008<pc>1229,3<k1>suBagAnanda  <lex>m.</lex> to change to n.   pc
+   - <L>262131<pc>1294,3<k1>hAsyArRava  <lex>m.</lex> to change to n.    pc
+ Note: I have found 5 prahasana's (including adButaraNga)
+      "We can see MW listing 8 other such (prahasana) titles as n. "
+      Jim finds 7 others by search 'prahasana<k2>'
+<L>101779.1<pc>1329,2<k1>DUrtaprahasana  n.
+<L>164364.3<pc>817,1<k1>miTyAcAraprahasana n.
+<L>165427<pc>822,1<k1>muRqitaprahasana n.
+<L>172598<pc>857,3<k1>yogAnandaprahasana n.
+<L>181208<pc>895,3<k1>lawakamelanaprahasana n.
+<L>181536<pc>897,2<k1>lambodaraprahasana n.
+<L>205399.20<pc>1014,1<k1>veNkaweSaprahasana n.
+ ------------------------------------------------------------------------
+** DONE (no change) pc: 182179.1<pc>1332,1<k1>lAjAhuti : burnt-oblation : burnt oblation
+
+AB comment:
+We can see burnt-offering (7), burnt-offerings (3) and burnt-oblation (1) elsewhere in MW with a hyphen.
+Of course there are cases without a hyphen as well-- burnt offering (10), burnt oblations (1) and burnt sacrifice (1).
+I had opted to retain all these unchanged in my version (sticking to my point not to "normalise" this inconsistency)!
+Jim comment: NO CHANGE
+------------------------------------------------------------------------
+** DONE pc: 547<pc>3,2<k1>akzatA : Kaṅkaḍaśṛṅgī : Kām̐kaḍāśṛṅgī : cf SKD akzatA
+
+AB comment:
+This corrected word should be tagged as <ns> technically , as it is a Bengali word (see 'iti BAzA' in SKD)!
+Jim comment: changed:
+ old: ¦ <ab>N.</ab> of a plant, <s1>Karkaṭaśṛṅgī</s1> or <s1>Kām̐kaḍāśṛṅgī</s1>
+ new: ¦ <ab>N.</ab> of a plant, <s1>Karkaṭaśṛṅgī</s1> or <ns>Kām̐kaḍāśṛṅgī</ns>
+  
+------------------------------------------------------------------------
+** DONE pc: 115415<pc>584,1<k1>padAji : pada + Aji : pad + Aji 
+
+AB comment:
+Scott's reference work (SK.) clearly says "एषुत्तरपदेषु पादस्य पद इत्यदन्त आदेशः स्यात् ।" under the rule 6.3.52! (Note the wording "adanta" [ending in 'a'] here.)
+The  काशिका  commentary says "पादस्य पद इत्ययमादेशो भवति आजि आति ग उपहत इत्येतेषूत्तरपदेषु।", giving the examples  pada+ Aji, pada+Ati, pada+ga & pada+upahata resulting into padAji, padAti, padaga & padopahati.
+With "pad" as pūrvapada , these would result as padAji, padAti, padga & padupahati. Note that while "padga" has a variant form "padaga", the last one is definitely a "wrong result" (non-existent word) with "pad" as the pūrvapada! 
+
+BTW, PWG unambiguously mentions padāji as "(2. pad oder pada + āji gehend von aj)"
+Jim comment: Reverted to 'pada + Aji'
+------------------------------------------------------------------------
+** DONE NO CHANGE pc: 101159<pc>516,1<k1>DAv : -aBimuKam : aBimuKam
+
+AB comment:
+Here is the answer to Scott's question in his post-- "I am uncertain as to why the "hyphen" would be necessary. Is some sort of compound being suggested?"
+The pwk has "°abhimukham", citing the Chrestomathy (153,4) having "kurvāṇastad+abhimukhaṃ"; MW has just changed ° to a hyphen here.
+As it is not a compound (but a Sandhi) here, no hyphen is required. [Recall my earlier mentioning that MW does a blind copy without applying the brain at times!]
+Jim comment: 
+  NO CHANGE 
+------------------------------------------------------------------------
+** DONE NO CHANGE pc: 5781<pc>29,2<k1>anityadatrima : anityadatrima : anityadattrima : headword change
+
+AB comment:
+Though I have no regret changing this, just like to point that the PWG has only datrima and the pwk lists both datrima & dattrima (as variants).
+Jim comment: Note that https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/sample/dalglob1.php
+ gives same list for either spelling.
+NO CHANGE
+------------------------------------------------------------------------
