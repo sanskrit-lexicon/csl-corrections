@@ -2161,4 +2161,12 @@ L code : Headword : Old  : New : Comment
 248008 : suBagAnanda : <lex>m.</lex> : <lex>n.</lex>
 262131 : hAsyArRava : <lex>m.</lex> : <lex>n.</lex>
 115415 : padAji : pad + Aji : pada + Aji : Reverted see above
+-----------------------------------------------------------------------
+12-31-2025
+Source: @Andhrabharati, @aumsanskrit
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104
+  (mw/part4) 
+L code : Headword : Old  : New : Comment
+154 : akanizWa : <lex>m. <ab>pl.</ab></lex> : <lex>mfn.</lex>  
+155 : akanizWa : : <lex>m. <ab>pl.</ab></lex>  : add gender
 -----------------------------------------------------------------

@@ -1,0 +1,189 @@
+TODORS Revision Symbol Missing
+TODORSy previously solved
+TODORSx solved here
+=================================
+
+* TODORSx Case 20: 11/03/2024 dict=MW, L=5460, hw=anāgāmin, user=srhodes
+old = Revision Symbol Missing
+new = Please add the "circle-R" Revision Symbol to the right side of this word in the Hierarchy List Display. Also, I am wondering how this instance "escaped" from Jim's automated correction to this issue? If you can enlighten me, then for you it is a (kaching!)
+comment = Revision Symbol Missing
+status = PENDING
+
+**AB comment:
+Jim had earlier worked out to "resolve" some of such cases. I had replied to his post mentioning about other cases there itself.
+Jim to look again for the short-comings in his "algorithm"!
+**Jim comment:
+ metalines for anAgAmin
+<L>5458<pc>27,3<k1>anAgAmin<k2>an-AgAmin<e>2
+<L>5459<pc>27,3<k1>anAgAmin<k2>an-AgAmin<e>2A
+<L>5460<pc>27,3<k1>anAgAmin<k2>an-AgAmin<e>2B <info n="rev" pc="1311,2"/>
+
+simple-search list  no circle-R
+solution: add <listinfo n="rev"/> to first one L=5458
+Now circle-R shows in simple-search list. Done
+------------------------------------------------------------------------
+
+* TODORSy Case 22: 11/03/2024 dict=MW, L=5370.2, hw=anavṛtta, user=srhodes
+old = Revision NOT Supplement
+new = Please DELETE this Headword: "anavṛtta [ID=5370.2 sup]". It is merely a REVISION Instruction that has already been carried out as per the instructiong: " (p. 28, col. 3), read an-āvṛtta." Now, two things remain to be done: 1) Mark the Headword "anāvṛtta [ID=5664]" as a REVISION with the "circle-R" symbol; 2) Give Scott a round of applause.
+comment = Revision NOT Supplement
+status = PENDING
+
+**AB comment:
+This revision is applied to L-5664; however the tag <info n="rev"/> is missing there & this "sup" entry remained in the CDSL text.
+And, I recall handful of such cases that I had corrected in my version, changing the "sup" cases to "rev" cases and vice-versa!
+My version contains it thus (L-5664)--
+(0028,3)	⓶❁<s2>án-āvṛtta</s2>,	 🠚✦ 〔mfn.〕	 🠚⧫¦ not turned about or round;⫽rev(1311,2);
+[It shows the way I had changed the notations and formatting at my end, containing all the necessary info together.]
+
+** Jim comment:
+ metalines for anAvftta
+<L>5664<pc>28,3<k1>anAvftta<k2>a/n-Avftta<e>2  <info n="rev" pc="1311,2"/>
+<L>5665<pc>28,3<k1>anAvftta<k2>a/n-Avftta<e>2A <info n="rev" pc="1311,2"/>
+<L>5666<pc>28,3<k1>anAvftta<k2>a/n-Avftta<e>2A
+
+simple display shows circle-R
+CONCLUDE: NO CHANGE
+------------------------------------------------------------------------
+
+* TODORSy Case 24: 11/03/2024 dict=MW, L=5238.1, hw=anarman, user=srhodes
+old = Supplement or Revision?
+new = Please RECONSIDER: The Main Entry reads: "anarman mfn. = an-arvan, q.v., AV. vii, 7, 1." THEN IN THE SUPPLEMENT (OR REVISION), we read: "w.r. for an-arvan, AV. vii, 7, 1." Please NOTICE that the SOURCE cited as well as the DEFINITION given in both cases are IDENTICAL, with one IMPORTANT difference: In the main entry we read: "= an-arvan" and in the Revision(?) we read: "w.r. for an-arvan". It appears that the SECOND statement OVERRULES (or revises) the FIRST statement. The contest is: 1) "="  VERSUS  2) "w.r.". (kaching!)
+comment = Supplement or Revision?
+status = PENDING
+
+**AB comment:
+This is what my version contains--
+(0026,2): अनर्मन्	⓵❁<s1>anarmán</s1>,	 🠚✦ 〔mfn.〕	 🠚⧫¦ ⁅w. r.⁆ for ✾<si>an-arván</si>, <ls>AV. vii, 7, 1</ls>.⫽rev(1311,1);
+[It shows the way I had changed the notations and formatting at my end, containing all the necessary info together.]
+And, this is one of the cases that I had just mentioned above (Case 22).
+
+**Jim comment.  
+There are two consecutive entries under anarman
+<L>5238<pc>26,2<k1>anarman<k2>anarma/n<e>1  <info n="rev" pc="1311,1"/>
+<L>5238.2<pc>1311,1<k1>anarman<k2>a-narman<e>1  <info n="sup"/>
+
+simple-search display shows anarman twice:
+anarman R 
+anarman S
+
+CONCLUDE: NO further CHANGE
+------------------------------------------------------------------------
+
+* TODORSx Case 31: 11/04/2024 dict=MW, L=4997.1, hw=anantara, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. ALSO, please relocate the position of this (masculine gender) Supplemental Definition within the Display Window so as to follow the Main Entry Definition given for the Masculine Gender: "m. a neighbouring rival, a rival neighbour [ID=4993]". (kaching!)
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**AB comment:
+I had properly placed this at L-4993.1 (sans any text preceding the broken-bar) in my version & Jim may do the needful at the CDSL end.
+(1311,1)	 ⋯⋯⋯⋯⋯⋯⋯⋯	 ⇨✦	 ⇨⧫¦ the next (younger) brother after (⁅abl.⁆), <ls>MBh.</ls>;⫽add(1311,1);
+[It shows the way I had changed the notations and formatting at my end, containing all the necessary info together.]
+
+**Jim comment: 'anantara' has 11 consecutive entries, first L=4986, last = 4995.
+L 4993.1  has <info n="sup"/>
+ [All <e>1, <e>1A, or <e>1B  -  4993.1 is 1B]
+simple-search list panel: NO CIRCLE-S !
+Try:  add <listinfo n="sup"/> to L=4986
+Now simple-search list panel has CIRCLE-S Hurray!
+------------------------------------------------------------------------
+
+* TODORSy Case 57: 11/05/2024 dict=MW, L=4251, hw=adhiji, user=srhodes
+old = Supplement NOT Revision!
+new = This is a Supplemental Offering:  "(Prec. 1. pl. -jīyāsma), to overcome, Bhaṭṭ." (kaching!)
+comment = Supplement NOT Revision!
+status = PENDING
+
+**AB comment:
+This is one of the cases that I had mentioned above (Case 22).
+This is what my version contains (L-4251)--
+(1310,2)	⋯⋯⋯⋯⋯⋯⋯⋯	 🠚✦ (⁅Prec.⁆ <per>1.</per> ⁅pl.⁆ <si>-jīyāsma</si>),	 🠚⧫¦ to overcome, <ls>Bhaṭṭ.</ls>⫽add(1310,2);
+[It shows the way I had changed the notations and formatting at my end, containing all the necessary info together.]
+** Jim comment:  NO CHANGE - aDiji shows circle-s
+------------------------------------------------------------------------
+
+* TODORSx Case 59: 11/05/2024 dict=MW, L=4020, hw=adharmāstikāya, user=srhodes
+old = Supplement NOT Revision!
+new = Supplement! (kaching!)
+comment = Supplement NOT Revision!
+status = PENDING
+
+**AB comment:
+This is an insertion into the text at same meaning sense & not an additional meaning; as such this is to be treated as a "rev" [insert/ delete/ modify], the "sup" tag having been allotted to additional entry words or additional meaning senses
+Nothing to be done here.
+**Jim comment:
+ <L>4020<pc>20,1<k1>aDarmAstikAya<k2>aDarmAstikAya<e>3 <info n="sup"/>
+ change to <info n="rev"/> based on AB comment
+simple-search now shows circle-R
+------------------------------------------------------------------------
+
+* TODORSy Case 89: 11/07/2024 dict=MW, L=2154.1, hw=ajira, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that we have caught another escapee (from Jim's automated correction).
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**AB comment:
+See my comment at Case 20 (at the top).
+**Jim comment:
+Here are the metalines of entries under 'ajira':
+<L>2149<pc>10,2<k1>ajira<k2>ajira/<e>1
+<L>2149.1<pc>10,2<k1>ajiram<k2>ajira/m<e>1C
+<L>2150<pc>10,2<k1>ajira<k2>ajira/<e>1B
+<L>2151<pc>10,2<k1>ajirA<k2>ajirA<e>1B
+<L>2152<pc>10,2<k1>ajira<k2>ajira<e>1B
+<L>2153<pc>10,2<k1>ajira<k2>ajira<e>1B
+<L>2154<pc>10,2<k1>ajira<k2>ajira<e>1B
+<L>2154.1<pc>1309,3<k1>ajira<k2>ajira<e>1B <info n="sup"/>
+
+Simple display shows CIRCLE-S for the last one (2154.1)
+CONCLUDE: NO FURTHER CHANGE (previously solved)
+------------------------------------------------------------------------
+
+* TODORSx Case 151: 11/10/2024 dict=MW, L=718.2, hw=akṣobha, user=srhodes
+old = Revision Symbol Missing
+new = Please add the "circle-R" Revision Symbol to the right side of this word in the Hierarchy List Display. We have caught another escapee (from Jim's automated correction).
+comment = Revision Symbol Missing
+status = PENDING
+
+**AB comment:
+See my comment at Case 20 (at the top).
+** Jim comment:
+current entries under akzoBa: 3 consecutive entries
+<L>718<pc>4,1<k1>akzoBa<k2>a-kzoBa<e>1
+<L>718.1<pc>4,1<k1>akzoBa<k2>a-kzoBa<e>1B
+<L>718.2<pc>4,1<k1>akzoBa<k2>a-kzoBa<e>1B <info n="rev" pc="1308,3"/>
+  
+Simple Display:  NO CIRCLE-R
+Solution: Add <listinfo n="rev"/> to L=718
+ simple-display now shows circle-R
+------------------------------------------------------------------------
+
+* TODORSx Case 181: 11/12/2024 dict=MW, L=52, hw=aṃśu, user=srhodes
+old = Revision Symbol Missing
+new = Please add the "circle-R" Revision Symbol to the right side of this word in the Hierarchy List Display. We have caught another escapee (from Jim's automated correction). (kaching!)
+comment = Revision Symbol Missing
+status = PENDING
+
+**AB comment:
+See my comment at Case 20 (at the top).
+**Jim comment:
+Metalines for 10 entries under aMSu:
+<L>47<pc>1,1<k1>aMSu<k2>aMSu/<e>1
+<L>48<pc>1,1<k1>aMSu<k2>aMSu/<e>1A
+<L>49<pc>1,1<k1>aMSu<k2>aMSu/<e>1A
+<L>50<pc>1,2<k1>aMSu<k2>aMSu/<e>1A
+<L>51<pc>1,2<k1>aMSu<k2>aMSu/<e>1A
+<L>52<pc>1,2<k1>aMSu<k2>aMSu/<e>1A  <info n="rev" pc="1308,1"/>
+<L>53<pc>1,2<k1>aMSu<k2>aMSu/<e>1A
+<L>54<pc>1,2<k1>aMSu<k2>aMSu/<e>1A
+<L>55<pc>1,2<k1>aMSu<k2>aMSu/<e>1A
+<L>56<pc>1,2<k1>aMSu<k2>aMSu/<e>1A
+
+simple-search list panel: no circle-R
+
+SOLUTION: add <listinfo n="rev"/> to the first one (L=47)
+Now simple-search list panel shows circle-R
+------------------------------------------------------------------------
+

@@ -1,0 +1,143 @@
+08_L_out_of_order.AB.txt
+ This list of ordering errors from Andhrabharati 
+ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104#issuecomment-3698874011
+ 
+Jim's solutions follow
+
+
+* Subcase 1 1715.52 is followed by 1715.1
+old:
+<L>1715<pc>8,2<k1>aNguli<k2>aNguli<e>2  no change
+
+<L>1715.52<pc>1309,2<k1>aNgulija<k2>aNguli—ja<e>3
+<s>aNguli—ja</s> ¦ <lex>m.</lex> a finger-nail, <ls>Gal.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+<L>1715.1<pc>8,2<k1>aNgulI<k2>aNgulI<e>2
+{{Lbody=1715}}
+<LEND>
+
+<L>1716<pc>8,2<k1>aNgulitoraRa<k2>aNguli—toraRa<e>3  no change
+
+new: move aNgulija to before  aNgulitoraRa, and renumber aNgulija to 1715.2
+
+<L>1715.1<pc>8,2<k1>aNgulI<k2>aNgulI<e>2
+{{Lbody=1715}}
+<LEND>
+
+-- move aNgulija to af
+<L>1715.2<pc>1309,2<k1>aNgulija<k2>aNguli—ja<e>3
+<s>aNguli—ja</s> ¦ <lex>m.</lex> a finger-nail, <ls>Gal.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+
+* Subcase 2 4744 is followed by 4734.1
+old:
+<L>4743<pc>24,1<k1>aDvagAmin<k2>aDva—gAmin<e>3
+<s>aDva—gAmin</s> ¦ <lex>mfn.</lex> wayfaring.<info lex="m:f:n"/>
+<LEND>
+
+<L>4744<pc>24,1<k1>aDvajA<k2>aDva—jA<e>3
+<s>aDva—jA</s> ¦ <lex>f.</lex> the plant <ns>Svarṇulī</ns>.<info lex="f"/>
+<LEND>
+
+<L>4734.1<pc>1310,3<k1>aDvadarSin<k2>aDva—darSin<e>3
+<s>aDva—darSin</s> ¦ <lex>m.</lex> ‘way-indicator’, a leader, guide, <ls>Daś.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+<L>4745<pc>24,1<k1>aDvapati<k2>aDva—pati<e>3
+
+new:  typo : 4734.1 -> 4744.1
+
+* Subcase 3 16886.2 is followed by 16885
+old:
+<L>16884.1<pc>1316,3<k1>alpavat<k2>alpa—vat<e>3
+<s>alpa—vat</s> or <s>alpa—vitta-vat</s>, ¦ <lex>mfn.</lex> possessing little, poor, <ls>Hcat.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>16886.2<pc>1316,3<k1>alpavittavat<k2>alpa—vitta-vat<e>3  << typo in L
+{{Lbody=16884.1}}
+<LEND>
+
+new: 16886.2 -> 16884.1
+<L>16884.2<pc>1316,3<k1>alpavittavat<k2>alpa—vitta-vat<e>3 
+
+* Subcase 4 39165.2 is followed by 38166
+old:
+<L>38165.1<pc>1322,3<k1>UrDvajAnu<k2>UrDva—jAnu<e>3
+<s>UrDva—jAnu</s> or <s>UrDva—jYu</s>, ¦ <lex>mfn.</lex> long-shanked, <ls>L.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>39165.2<pc>1322,3<k1>UrDvajYu<k2>UrDva—jYu<e>3   L-typo
+{{Lbody=38165.1}}
+<LEND>
+
+new: <L>38165.2<pc>1322,3<k1>UrDvajYu<k2>UrDva—jYu<e>3
+
+* Subcase 5 39386.1 is followed by 39286.1
+old:
+<L>39386<pc>228,2<k1>ekapati<k2>eka—pati<e>3   context
+
+<L>39386.1<pc>1323,1<k1>ekapati<k2>eka—pati<e>3B
+<s>eka—pati</s>¦ <lex>f.</lex> having only one husband, <ls>HPariś.</ls><info n="sup"/><info lex="f"/>
+<LEND>
+
+<L>39286.1<pc>1323,1<k1>ekapatitva<k2>eka—pati—tva<e>4   Typo in L
+<s>eka—pati—tva</s> ¦ (<lex>n.</lex>)<info n="sup"/><info lex="n"/>
+<LEND>
+
+<L>39387<pc>228,2<k1>ekapatika<k2>eka—patika<e>3 context
+
+new:  39286.1 -> 39386.2
+<L>39386.2<pc>1323,1<k1>ekapatitva<k2>eka—pati—tva<e>4 
+
+* Subcase 6 979511 is followed by 97951.1
+old:
+<L>97950<pc>502,2<k1>drumm<k2>drumm<e>1  context
+<L>979511<pc>502,2<k1>druh<k2>druh<h>1<e>1  typo in L
+<L>97951.1<pc>502,2<k1>druh<k2>druh<e>1E  context
+
+new:  979511 -> 97951
+<L>97951<pc>502,2<k1>druh<k2>druh<h>1<e>1  typo in L
+
+* Subcase 7 98636.2 is followed by 98631
+old:
+<L>98627<pc>505,3<k1>dvirada<k2>dvi—rada<e>3
+<L>98628<pc>505,3<k1>dvirada<k2>dvi—rada<e>3B
+<L>98629<pc>505,3<k1>dviradapati<k2>dvi—rada—pati<e>4
+
+<L>98630<pc>505,3<k1>dviradakarAgra<k2>dvi—rada—karAgra<e>4
+
+<L>98636.1<pc>1329,1<k1>dviradagAmin<k2>dvi—rada-gAmin<e>3  sup   error in L & e
+
+<L>98636.2<pc>1329,1<k1>dviradamaya<k2>dvi—rada-maya<e>3  error in L & e
+
+<L>98631<pc>505,3<k1>dviradarata<k2>dvi—rada—rata<e>4
+
+new:
+<L>98630.1<pc>1329,1<k1>dviradagAmin<k2>dvi—rada-gAmin<e>4  
+
+<L>98630.2<pc>1329,1<k1>dviradamaya<k2>dvi—rada-maya<e>4
+
+* Subcase 8 257061.3 is followed by 257061.11
+old:
+<L>257061<pc>1271,2<k1>sma<k2>sma<e>1
+<L>257061.1<pc>1271,2<k1>smA<k2>smA<e>1  {{Lbody=257061}}
+<L>257061.2<pc>1271,2<k1>zma<k2>zma<e>1  {{Lbody=257061}}
+<L>257061.3<pc>1271,2<k1>zmA<k2>zmA<e>1  {{Lbody=257061}}
+<L>257061.11<pc>178,1<k1>smottara<k2>smottara<e>3   << L error;  also
+   <info phwparent="31144,uttara"/>   
+<L>257062<pc>1271,2<k1>smat<k2>sma/t<e>1
+
+
+<L>31144<pc>178,1<k1>uttara<k2>u/ttara<e>2A
+¦ followed by (<ab>e.g.</ab> <s>smo<srs/>ttara</s> <lex type="phw">mfn.</lex> followed by ‘<s>sma</s>’, <ls>Pāṇ. iii, 3, 176</ls>)<info lex="inh"/>
+<LEND>
+
+new:  257061.11 -> 257061.4
+ <L>257061.4<pc>178,1<k1>smottara<k2>smottara<e>3
+
+In 31144, append <info phwchild="257061.4"/>
+=====================================================
+
+<info phwparent="L,k1"/>
+<info phwchild="L"/>
+
+There are a handful wrongly coded. These are also corrected.

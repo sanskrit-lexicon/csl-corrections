@@ -1,0 +1,149 @@
+TODOQ  A question from Scott
+TODOQy no change at this time
+TODOQx some change at this time
+ several  "**Jim comment" 
+=============================
+
+* TODOQy Case 43: 11/04/2024 dict=MW, L=4615.1, hw=adhyavasāya, user=srhodes
+old = See Below
+new = I mention this as a point of interest: 
+ for my own purposes I have split the word "adhyavasāya" into 
+ "adhyavasāya 1"  and  "adhyavasāya 2". 
+ In fact, "adhyavasāya 2" is correctly the absolute (indeclinable)
+    meaning "having decided" (among other things). 
+ Now, even more interesting is this: 
+ Does this Supplemental Definition IN FACT belong to the
+  absolute (indeclinable) form that I have just mentioned? I say, "Yes". 
+ There is no gender given and the definition matches to the accepted format 
+ for the absolute form: "clinging to (earthly things), Divyāv. [ID=4615.1 sup]". 
+ Also I derive this absolute form from the double prefixed root 
+ "adhi-ava-√so" which in fact has "grapple with" as one of the possible 
+ definitions. 
+ "grappling with" and "clinging to" are close enough to link all this together 
+ as belonging to the absolute (indeclinable) form as I am suggesting. 
+ Shall I start my own "MW Dictionary Sanskrit Daily" 
+ column in the Cologne University Newspaper?
+comment = See Above
+status = PENDING Jim:  I like Scott's idea regarding having a place
+  for discussions about interesting points of Sanskrit Dictionaries.
+
+**AB comment:
+Nothing to do here.
+------------------------------------------------------------------------
+
+* TODOQx Case 139: 11/10/2024 dict=MW, L=988.2, hw=agnipānīya, user=srhodes
+old = See Below
+new = Here is a question:  What should should be understood here by the use of the word: "Hāla"?
+comment = See Above
+status = PENDING
+
+**AB comment:
+"Hāla" is the way his work Gāhāsattasaī (Gāthāsaptaśatī), a compilation of 700 Prākṛit verses is referred to. And the Sch. is referring to the commentary on it (in Sanskrit) by Bhuvanapāla.
+
+A side-note to Jim:
+This indicates some missing <ls> tags in the CDSL text. I have places where this is tagged.
+Probably another round of relooking at the whole of MW text may be needed to identify such missings.
+Are you game?
+
+**Jim comment
+1. "<s1>Hāla</s1>"  ->  "<ls>Hāla</ls>
+2. in csl-pywork repo, add line to tooltip.txt
+   94.01	Hāla	 Gāthāsaptaśatī [Cologne Addition]	Title
+3. I like the idea of reviewing MW for missing ls tags 
+   The tooltip.txt file for MW are 8 items with '?' and 268
+   '[Cologne Addition]' items that should be reviewed.
+   HOWEVER, I do not commit to doing this. As you know,
+   I intend to greatly diminish my contribution to the cdsl project.
+   You have many good ideas for improvments to the cdsl project.
+   You might try to itemize these for working with Dhaval.
+------------------------------------------------------------------------
+
+* TODOQy Case 309: 11/22/2024 dict=MW, L=30689, hw=utá, user=srhodes
+old = utinam! 
+new = ?
+comment = Typo – Please note that I am uncertain as to what this means: "utinam! " ; Please comment?
+status = PENDING
+
+**AB comment:
+Scott seems to be looking at every word keenly!
+Be noted that 'utinam' is a german word, which MW has wrongly carried into his dictionary in addition to its meaning ("would that") [लिङ् (Potential)] from the PWG which has "am Anf. des Satzes mit folg. potent. <i>ach wenn doch, utinam (?)</i>: <s>utādhīyīta</s> P. 3,3,152, Sch." under the "uta" entry.
+------------------------------------------------------------------------
+
+* TODOQy Case 311: 11/23/2024 dict=MW, L=11985, hw=abhibhūtyojas, user=srhodes
+old = See Below
+new = Regarding the following: "abhibhūty-ójas (6) mfn."; Please inform me as to what this means: "(6)" ?
+comment = See Above
+status = PENDING
+
+**AB comment:
+Glad that someone else has noted this, apart from me!
+There are 91 places  where such marking  (number in parenthesis is seen in the whole MW text, involving the numbers 2 to 7) after the HW (all except at one place).
+I had marked them as cases (vibhakti), indicates the Tatpuruṣa compunds of that particular case.
+The counts are as below--
+<cse>2</cse> : 6, <cse>3</cse> : 27, <cse>4</cse> : 39, <cse>5</cse> : 11, <cse>6</cse> : 7 & <cse>7</cse> : 2
+[I did a full exercise those days (about 5 years ago) to "mark" every number in some appropriate way in my version of MW text.]
+
+**Jim comment:  looks straightforward
+  to add markup (and displays could add a tooltip). "cse" is a new tag
+  which can be added to one.dtd
+  This would be a good one to start your collaboration with Dhaval
+
+------------------------------------------------------------------------
+
+* TODOQx Case 322: 11/25/2024 dict=MW, L=155, hw=akaniṣṭha, user=srhodes
+old = See below
+new = I have two question regarding the second definition: "a class of Buddhist deities."
+ LB 1) is this meant to be in the "plural number"?
+ LB 2) is the first definition meant to be a translation of the name of this particular class of Buddhist deities? So that the FULL sense to be understood is:  "a class of Buddhist deities of whom none is the youngest"?
+comment = See above
+status = PENDING
+
+**AB comment:
+A1. The definition ("deities") itself indicates plurality; so why this question?
+A2. The first meaning (from Ṛgveda) & second meaning (from Burnoufʼs Introduction to the history of Indian Buddhism) are not related in any manner.
+
+BTW, MW has erred in marking the lexical category for these two! The 1st one should be adj. (mfn.) and the 2nd one m. pl.
+[Refer to the parent PWG for this; and the pwk has marked the first meaning also as adj. pl., wherein pl. is to be deleted. Jim to do the needful pl.]
+
+**Jim comment  two print changes
+** pc: 154 : akanizWa : <lex>m. <ab>pl.</ab></lex> : <lex>mfn.</lex>  
+** pc: 155 : akanizWa : : <lex>m. <ab>pl.</ab></lex>  : add gender
+------------------------------------------------------------------------
+
+* TODOQy Case 857: 01/04/2025 dict=MW, L=45487, hw=karmaṇi, user=srhodes
+old = See Below
+new = Please Clarify – Is this Headword actually different and unrelated by derivation to the Locative Singular form of the word "karman"? OR is this a "locative" usage, giving it this contextual meaning?
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+* TODOQx Case 948: 01/10/2025 dict=MW, L=5383, hw=anaśnantsāṅgamana, user=srhodes
+old = án-aśnan-t-sāṅgamaná 
+new = ?
+comment = Typo – I am wondering about the correct final form of this Headword. It obviously contains the word "aśnat" with the nominative form being "aśnan", but in this compound should it be written as: "anaśnatsāṅgamana) ?  What is the purpose of the parsing: "n-t-s" ? Does this mean that the letter "n" becomes "t" due to internal sandhi within the compound? Please confirm or explain accordingly.
+status = PENDING
+
+**AB comment:
+I would suggest to add another hyphen before this 'n' at n-t-s, as it indicates the addl. 'n' in Vedic Sanskrit (such as in vant ->vat & mant ->mat etc.) which got discarded in later Sanskrit. [There were quite a few discussions about this point by the 19th century Indologists.]
+The word is anaśnant-sāṅgamana = anaśna(n)t-sāṅgamana = anaśnat-sāṅgamana, thus listed as a comp. word under "anaśnat"! Goldstücker gives the etymology of this word in 1856. The PWG had this inside the body matter (under "anaśnat"), which got elevated to a HW level in GST, MW & PD.
+
+Jim comment:
+Adjust k2 field of metaline:
+old:
+<L>5383<pc>27,2<k1>anaSnantsANgamana<k2>a/n-aSnan-t-sANgamana/<e>3
+
+new:
+<L>5383<pc>27,2<k1>anaSnantsANgamana<k2>a/n-aSna-n-t-sANgamana/<e>3
+
+------------------------------------------------------------------------
+
+* TODOQy Case 949: 01/10/2025 dict=MW, L=95720, hw=devadāsī, user=srhodes
+old = Nāch-girl
+new = ?
+comment = Typo – Please explain the term: "Nāch-girl"; specifically what does "Nāch" mean? 
+status = PENDING
+
+**AB comment:
+'Nāch' is a Hindi word, meaning "dance"; and 'Nāch-girl' means "dancing-girl". It is duly tagged as a <ns> (non-Sanskrit) term.
+------------------------------------------------------------------------
+

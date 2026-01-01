@@ -1,0 +1,153 @@
+TODOMHW Missing Headword
+TODOMHWy no change at this time
+TODOMHWx some change at this time
+==============================
+
+* TODOMHWy Case 58: 11/05/2024 dict=MW, L=4112.1, hw=adhastānnābhi, user=srhodes
+old = Missing Headword
+new = You might consider adding the following Headword from the Supplemental Section: "adhastān (in comp. for adhastāt)". Of course it is placed just prior to "adhastānnābhi", and probably with a single indentation to match the Headword "adhastāt".
+comment = Missing Headword
+status = PENDING
+
+**AB comment:
+I have this and few more such entries from the Annexure, as Comp. group Header in my version--
+	<L>4113.05<pc>1310,2<k1>adhastān<k2>adhastān<e>2
+	<s>adhastān</s> ¦ (in <ab>comp.</ab> for <s>°stāt</s>);
+	<LEND><info n="sup"/>
+**Jim comment:
+The suppl. entry is an advice to reader regarding placement
+of  the suppl. compounds aDastAnnABi, aDastAnnirbADam.
+aDastAt and its two compounds on page 20,2 are
+  <L>4111<pc>20,2<k1>aDastAt<k2>aDa/stAt<e>2
+  <L>4112<pc>20,2<k1>aDastAddiS<k2>aDastAd-diS<e>3
+  <L>4113<pc>20,2<k1>aDastAllakzman<k2>aDa/stAl-lakzman<e>3
+
+CDSL has placed the two 'n' compounds from supplement 
+  in alphabetically proper place
+  <L>4112.1<pc>1310,2<k1>aDastAnnABi<k2>aDastAn—nABi<e>3
+  <L>4112.2<pc>1310,2<k1>aDastAnnirbADam<k2>aDastAn—nirbADam<e>3
+In all the compounds, the final 't' of aDastAt is changed
+  by sandhi according to the para-pada.
+Thus the suppl. entry 'aDastAn' has served its purpose
+and is not needed as a separate entry.
+Conclude: NO CHANGE
+------------------------------------------------------------------------
+
+* TODOMHWy Case 120: 11/10/2024 dict=MW, L=1137.1, hw=agnihotra, user=srhodes
+old = Missing Headword
+new = I am suggesting to add the Headword "agnihotrī" to the Hierarchy list. Also, please note these considerations: 
+  1) Two Supplemental Compounds follow the Headword "agnihotra"; 
+  2) therefore perhaps the Headword "agnihotrī" should follow these two compounds:
+     "agnihotraprāyaṇa and agnihotravelā" since the pūrvapada of these two compounds
+     is "agnihotra" itself; 
+  3) So after these two compounds, there will come the Headword "agnihotrī"; 
+  4) and then the compound "agnihotrīvatsa" will naturally follow its correct "pūrvapada" namely "agnihotrī".
+comment = Missing Headword
+status = PENDING
+
+**AB comment:
+The entry "agnihotrī" is very much present in the Hierarchy list at present. This is the feminine form of the HW 1. agnihotra  (masc.).
+The comp. words formed from the HW are always listed after all the lexical family words (m.. f. n. mfn. ind. and adv.) as a NORM in the MW dictionary. 
+As such, no such shifting of "agnihotrī" is needed. 
+Even otherwise, the said Annexure comp. entries duly belong to 2. agnihotra 
+that follows agnihotrī (which is under 1. agnihotra).
+
+**Jim comment.  Nice explanation from AB. NO CHANGE
+------------------------------------------------------------------------
+
+* TODOMHWy Case 176: 11/12/2024 dict=MW, L=284, hw=akutas, user=srhodes
+old = Missing Headword
+new = Please note that the annexure gives the word: "akutaś (in comp. for a-kutas)". I know that this is extremely minor, but you may choose to add to the Hiearchy List between the Headword "akutas" and the following compounds.
+comment = Missing Headword
+status = PENDING
+
+**AB comment:
+I have this and few more such entries from the Annexure, as Comp. group Header in my version--
+	<L>284.05<pc>1308,1<k1>akutaś<k2>a-kutaś<e>2
+	<s>a-kutaś</s> ¦ (in <ab>comp.</ab> for <s>a-kutas</s>).
+	<LEND>
+**Jim comment:  NO CHANGE.  My argument is analogous to that of 
+  Case 58 above.
+------------------------------------------------------------------------
+
+* TODOMHWy Casey 179: 11/12/2024 dict=MW, L=124, hw=aṃhomuc, user=srhodes
+old = Missing Headword
+new = Please add the Headword "aṃho (in comp. for aṃhas)". This follows the annexure printed text, and it is a nice touch prior to the following compounds.
+comment = Missing Headword
+status = PENDING
+
+**AB comment:
+I have this and few more such entries from the Annexure, as Comp. group Header in my version--
+	<L>123.1<pc>1308,1<k1>aṃho<k2>aṃho<e>2
+	<s>aṃho</s> ¦ (in <ab>comp.</ab> for <s>aṃhas</s>).
+	<LEND>
+**Jim comment: NO CHANGE. Reasoning as in Case 58 above
+------------------------------------------------------------------------
+
+* TODOMHWx Case 264: 11/18/2024 dict=MW, L=166661, hw=mṛtasaṃjīvana, user=srhodes
+old = Missing Headword
+new = Please note that the following Headword from the annexure has been omitted from the Main Entry:  "mrtasaṃjīvaka, mfn. reviving the dead, BhP." Please See column 3 of the following page: https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1331
+ LB ——Scott finds small needle in large haystack (kaching!)
+comment = Missing Headword
+status = PENDING
+
+**AB comment:
+I have this in my version as under--
+	<L>166660.1<pc>1331,3<k1>mṛtasaṃjīvaka<k2>mṛta—saṃjīvaka<e>3
+	<s>mṛta—saṃjīvaka</s> ¦ <lex>mfn.</lex> reviving the dead, <ls>BhP.</ls>
+	<LEND><info n="sup"/><info lex="m:f:n"/>
+**Jim comment. Agree  Have added CDSL form of AB's entry:
+<L>166660.1<pc>1331,3<k1>mftasaMjIvaka<k2>mfta—saMjIvaka<e>3
+<s>mfta—saMjIvaka</s> ¦ <lex>mfn.</lex> reviving the dead, <ls>BhP.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOMHWx Case 300: 11/22/2024 dict=MW, L=264421, hw=heṣa, user=srhodes
+old = Missing Headword
+new = I am suggesting to ADD the Headword "heṣakratu" as suggested here. The citation: "RV. iii, 26, 5." uses this very word and therefore it should be added to MW online (rather than lay buried under its pūrvapada). As I sidenote, in my own dictionary, I have split the Headword "heṣa" AND "heṣakratu", into a "1" and "2", and listing each case under each respective root "√heṣ 1 and 2" with the appropriate definitions offered and also hinted by APTE.
+comment = Missing Headword
+status = PENDING
+
+**AB comment:
+The "heṣá-kratu" is a parenthetical word, and Jim had made about 2300 such words as separate entries (but skipped a lot many).
+I have removed all such as entry words, for my logic of handling them is different.
+Even Jim also expressed a view recently, that he had erred in listing them separately with a tag "info phwparent"!!
+
+**Jim comment
+ As an experiment, add this entry using {{LBody=NNN}} 
+ Place immediately after the 'parent' heza
+ heza is H2, set hezakratu as H3 (since heza is pUrvapada)
+<L>264421.1<pc>1305,2<k1>hezakratu<k2>heza-kratu<e>3
+{{Lbody=264421}}
+<LEND>
+
+The Lbody tag directs the xml 'body' of 264421.1 to
+ be a copy the xml 'body'  of 264421. 
+
+The parenthetical headwords could be changed to use Lbody
+Example:
+old:
+--- the parent record points to child
+<L>823<pc>4,3<k1>agasti<k2>aga/sti<e>1A
+¦ <bot>Agasti Grandiflora</bot>, <ls>Suśr.</ls> [also <s>-dru</s> <lex type="phw">f.</lex>, <ls>L.</ls>]<info phwchild="825.1"/><info lex="inh"/>
+<LEND
+
+--- the child record points to parent
+--- contains a fragment of the parent :  this is often tricky.
+<L>825.1<pc>4,3<k1>agastidru<k2>aga/sti—dru<e>3
+<s>aga/sti—dru</s> ¦ <lex>f.</lex>, <ls>L.</ls><info phwparent="823,agasti"/><info lex="f"/>
+<LEND>
+====================
+new: parent removes pointer to child
+<L>823<pc>4,3<k1>agasti<k2>aga/sti<e>1A
+¦ <bot>Agasti Grandiflora</bot>, <ls>Suśr.</ls> [also <s>-dru</s> <lex type="phw">f.</lex>, <ls>L.</ls>]<info lex="inh"/>
+<LEND
+
+--- the child refers to parent, removes <info phwparent="823,agasti"/>
+<L>825.1<pc>4,3<k1>agastidru<k2>aga/sti—dru<e>3
+{{Lbody=823}}
+<LEND>
+
+------------------------------------------------------------------------
+

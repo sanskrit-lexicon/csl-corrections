@@ -1,0 +1,110 @@
+TODOI  Indentation
+TODOIy NO CHANGE here
+TODOIx solved here by some change
+====================
+
+* TODOIy Case 27: 11/04/2024 dict=MW, L=5164.4, hw=anabhiśastī, user=srhodes
+old = Indentation Error
+new = Since the Headword "anabhiśasti [ID=5164.1]" is NOT indented in the Hierarchy List, I am confident in saying, "No indentation here."
+comment = Indentation Error
+status = PENDING
+
+**AB comment:
+I do not see any indentation error in the present display. Has this been corrected by Jim sometime after Nov. 2024?
+
+**Jim comment.  Both anaBiSastI and anaBiSasti show no indentation.
+ Can't find the problem.
+
+  so it is possible a previous version of mw.txt had H2 (or H3 or H4).
+  I searched for '5164' in all the mw_correction.txt files
+  of recent batches, but only this 20250114 group was found.
+  
+  Let Scott re-examine the current display
+  and report if there is still some indentation error.
+  
+------------------------------------------------------------------------
+
+* TODOIy dup Case 28: 11/04/2024 dict=MW, L=5164.4, hw=anabhiśastī, user=srhodes
+old = Indentation Error
+new = Since the Headword "anabhiśasti [ID=5164.1]" is NOT indented in the Hierarchy List, I am confident in saying, "No indentation here."
+comment = Indentation Error
+status = PENDING
+
+**AB comment:
+I do not see any indentation error in the present display. Has this been corrected by Jim sometime after Nov. 2024?
+------------------------------------------------------------------------
+
+* TODOIy Case 87: 11/07/2024 dict=MW, L=2445.1, hw=aṇikāṣam, user=srhodes
+old = Indentation Error
+new = A good confirmation of this correction to remove the Indentation in the Hierarchy List is found in the Superior Referenced word "anikāṣam ind. [ID=5751.1 sup]" which itself is NOT indented.
+comment = Indentation Error
+status = PENDING
+
+**AB comment:
+I do not see any indentation error in the present display. Has this been corrected by Jim sometime after Nov. 2024?
+**Jim comment:  both aṇikāṣam and anikāṣam show no indentation.
+  No problem found
+------------------------------------------------------------------------
+
+* TODOIy Case 109: 11/09/2024 dict=MW, L=1381.1, hw=aghaṭitaghaṭita, user=srhodes
+old = Indentation Needed?
+new = This Supplemental Word may deserve to be indented as it bears Etymological relation to the preceding Headword in the Main Entry: "aghaṭamāna [ID=1381]".
+comment = Indentation Needed?
+status = PENDING
+
+**AB comment:
+The two entries stand at the same level; as such, no indentation is needed for the said entry.
+------------------------------------------------------------------------
+
+* TODOIy Case 137: 11/10/2024 dict=MW, L=1136.1, hw=agnihotṛbrāhmaṇa, user=srhodes
+old = Indentation Adjustment
+new = Please note that this Supplemental Compound: "agnihotṛbrāhmaṇa" in inserted in the Main Entry following "agnihotṛ" which is its proper "pūrvapada". Therefore, some indentation adjustment may be required.
+comment = Indentation Adjustment
+status = PENDING
+
+**AB comment:
+I do not see any indentation error in the present display. Has this been corrected by Jim sometime after Nov. 2024?
+Jim comment: In current simple-search display, agnihotf is H3, and indented '..'
+agnihotfbrAhmaRa is H4, and indented '...'
+ The indentation is proper
+------------------------------------------------------------------------
+
+* TODOIx Case 259: 11/17/2024 dict=MW, L=175364.1, hw=ravijaputradina, user=srhodes
+old = Indentation Error
+new = Since this word is a further compound of the Headword "ravija", the Supplemental Headweird "ravijaputradina" requires THREE indentations; and the above typo is just for a laugh!
+comment = Indentation Error
+status = PENDING
+
+**AB comment:
+I have this as a H4 entry in my version.
+**Jim comment 
+<L>175362<pc>869,1<k1>ravija<k2>ravi—ja<e>3
+<L>175364.1<pc>1331,3<k1>ravijaputradina<k2>ravi—ja-putra-dina<e>3  
+ change to <e>4 for 175364.1
+
+
+------------------------------------------------------------------------
+
+* TODOIx Case 260: 11/17/2024 dict=MW, L=174209.1, hw=raṇaṃgaha, user=srhodes
+old = Indentation Consideration
+new = I am wondering if the Supplemental Headword "raṇaṃgaha m. [ID=174209.1 sup]" should be INDENTED after one of the two following Main Entry Headwords: "raṇa m. [ID=174198]"  OR  "raṇa m. [ID=174209]".
+comment = Indentation Consideration
+status = PENDING
+
+**AB comment:
+I have this placed at L-174090.1 in my version after raṇa-g(*); this is in line with the order in the main text "raṇa-ṃ-jaya" (L-174093) after the "raṇa-j(*)" entries.
+However, it appears that the entry is a print error for "raṇaṃgaha", which finds its place in the cited work Sukhāvatīvyūha, as a Pali word eqvt. to the Skt. word "raṇaṃjaya"!
+
+**Jim comment
+old:
+<L>174209.1<pc>1331,3<k1>raRaMgaha<k2>raRaM-gaha<e>1
+<s>raRaM-gaha</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Tathāgata</s1>, <ls>Sukh. i.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+new: (moved)
+<L>174090.1<pc>1331,3<k1>raRaMgaha<k2>raRaM-gaha<e>3   << note L per AB, and <e>3
+<s>raRaM-gaha</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Tathāgata</s1>, <ls>Sukh. i.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+------------------------------------------------------------------------
+

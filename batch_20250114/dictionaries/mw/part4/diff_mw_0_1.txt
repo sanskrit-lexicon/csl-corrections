@@ -1,0 +1,126 @@
+170c170
+< <s>aMSu/</s> ¦ <lex>m.</lex> a filament (especially of the <s1>Soma</s1> plant)<info lex="m"/>
+---
+> <s>aMSu/</s> ¦ <lex>m.</lex> a filament (especially of the <s1>Soma</s1> plant)<info lex="m"/><listinfo n="rev"/>
+526c526
+< <s>a/-kanizWa</s> ¦ <lex>m. <ab>pl.</ab></lex> of whom none is the youngest (<ab>i.e.</ab> younger than the others), <ls>RV.</ls><info lex="m"/>
+---
+> <s>a/-kanizWa</s> ¦ <lex>mfn.</lex> of whom none is the youngest (<ab>i.e.</ab> younger than the others), <ls>RV.</ls><info lex="m:f:n"/>
+528,529c528,529
+< <L>155<pc>1,3<k1>akanizWa<k2>a/-kanizWa<e>1A
+< ¦ a class of <ns>Buddhist</ns> deities.<info lex="inh"/>
+---
+> <L>155<pc>1,3<k1>akanizWa<k2>a/-kanizWa<e>1B
+> ¦ <lex>m. <ab>pl.</ab></lex> a class of <ns>Buddhist</ns> deities.<info lex="m"/>
+2563c2563
+< <s>a-kzoBa</s> ¦ <lex>mfn.</lex> unagitated, unmoved <info lex="m:f:n"/>
+---
+> <s>a-kzoBa</s> ¦ <lex>mfn.</lex> unagitated, unmoved <info lex="m:f:n"/><listinfo n="rev"/>
+3600c3600
+< <s>agni—pAnIya</s> ¦ <lex>n.</lex> the observance of throwing one's self first into water and then into fire, <s1>Hāla</s1>, <ab>Sch.</ab><info n="sup"/><info lex="n"/>
+---
+> <s>agni—pAnIya</s> ¦ <lex>n.</lex> the observance of throwing one's self first into water and then into fire, <ls>Hāla</ls>, <ab>Sch.</ab><info n="sup"/><info lex="n"/>
+6214,6216d6213
+< <L>1715.52<pc>1309,2<k1>aNgulija<k2>aNguli—ja<e>3
+< <s>aNguli—ja</s> ¦ <lex>m.</lex> a finger-nail, <ls>Gal.</ls><info n="sup"/><info lex="m"/>
+< <LEND>
+6219a6217,6219
+> <L>1715.2<pc>1309,2<k1>aNgulija<k2>aNguli—ja<e>3
+> <s>aNguli—ja</s> ¦ <lex>m.</lex> a finger-nail, <ls>Gal.</ls><info n="sup"/><info lex="m"/>
+> <LEND>
+14386c14386
+< <s>aDarmA<srs/>stikAya</s> ¦ <lex>m.</lex> the category (<s>astikAya</s>) of <s>aDarma</s>, (one of the five categories of the <s1>Jaina</s1>s ontology); (<ab>accord.</ab> to some <s1>Jaina</s1> authorities, ‘the category which is the determinant cause of rest’)<info n="sup"/><info lex="m"/>
+---
+> <s>aDarmA<srs/>stikAya</s> ¦ <lex>m.</lex> the category (<s>astikAya</s>) of <s>aDarma</s>, (one of the five categories of the <s1>Jaina</s1>s ontology); (<ab>accord.</ab> to some <s1>Jaina</s1> authorities, ‘the category which is the determinant cause of rest’)<info n="rev"/><info lex="m"/>
+17145c17145
+< <L>4734.1<pc>1310,3<k1>aDvadarSin<k2>aDva—darSin<e>3
+---
+> <L>4744.1<pc>1310,3<k1>aDvadarSin<k2>aDva—darSin<e>3
+18066c18066
+< <s>an-antara/</s> ¦ <lex>mf(<s>A</s>)n.</lex> having no interior<info lex="m:f#A:n"/>
+---
+> <s>an-antara/</s> ¦ <lex>mf(<s>A</s>)n.</lex> having no interior<info lex="m:f#A:n"/><listinfo n="sup"/>
+19740c19740
+< <s>an-AgAmin</s> ¦ <lex>mfn.</lex> not coming, not arriving<info lex="m:f:n"/>
+---
+> <s>an-AgAmin</s> ¦ <lex>mfn.</lex> not coming, not arriving<info lex="m:f:n"/><listinfo n="rev"/>
+31016c31016
+< <s>annA<srs/>di/-tamA</s> ¦ ‘eating the most’, <ab>N.</ab> of the fore-finger, <ls>ŚBr.</ls><info phwparent="8550"/>
+---
+> <s>annA<srs/>di/-tamA</s> ¦ ‘eating the most’, <ab>N.</ab> of the fore-finger, <ls>ŚBr.</ls><info phwparent="8550,annAda"/>
+59250c59250
+< <s>arhaRIya</s> ¦ <lex>mfn.</lex> worthy to be honoured (<ab>superl.</ab> <s>-tama</s>), <ls>MBh.</ls><info n="sup"/><info lex="m:f:n"/><info phwchild="16491.12,arhaRIyatama"/>
+---
+> <s>arhaRIya</s> ¦ <lex>mfn.</lex> worthy to be honoured (<ab>superl.</ab> <s>-tama</s>), <ls>MBh.</ls><info n="sup"/><info lex="m:f:n"/><info phwchild="16491.12"/>
+60643c60643
+< <L>16886.2<pc>1316,3<k1>alpavittavat<k2>alpa—vitta-vat<e>3
+---
+> <L>16884.2<pc>1316,3<k1>alpavittavat<k2>alpa—vitta-vat<e>3
+68561c68561
+< <s>a-vfzaRa</s> ¦ <lex>mfn.</lex> having no testicles (<s>°RI-kfta</s>, <pb n="1317,3"/><lex>mfn.</lex> ‘castrated’), <ls>R.</ls><info n="sup"/><info lex="m:f:n"/><info phwchild="19167.3,avfzaRIkfta"/>
+---
+> <s>a-vfzaRa</s> ¦ <lex>mfn.</lex> having no testicles (<s>°RI-kfta</s>, <pb n="1317,3"/><lex>mfn.</lex> ‘castrated’), <ls>R.</ls><info n="sup"/><info lex="m:f:n"/><info phwchild="19167.3"/>
+74954c74954
+< <s>asita—gati</s> ¦ <lex>m.</lex> ‘having a black course’, fire (<s>-dyuti</s>, ‘shining like fire’), <ls>Bcar. v, 79</ls><info n="sup"/><info lex="m"/><info phwchild="20982.2,asitagatidyuti"/>
+---
+> <s>asita—gati</s> ¦ <lex>m.</lex> ‘having a black course’, fire (<s>-dyuti</s>, ‘shining like fire’), <ls>Bcar. v, 79</ls><info n="sup"/><info lex="m"/><info phwchild="20982.2"/>
+74957c74957
+< <s>asita—gati—dyuti</s> ¦ <lex>m.</lex> ‘having a black course’, fire (<s>-dyuti</s>, ‘shining like fire’), <ls>Bcar. v, 79</ls><info n="sup"/><info lex="m"/><info phwchild="20982.1,asitagati"/>
+---
+> <s>asita—gati—dyuti</s> ¦ <lex>m.</lex> ‘having a black course’, fire (<s>-dyuti</s>, ‘shining like fire’), <ls>Bcar. v, 79</ls><info n="sup"/><info lex="m"/><info phwparent="20982.1,asitagati"/>
+110059c110059
+< ¦ followed by (<ab>e.g.</ab> <s>smo<srs/>ttara</s> <lex type="phw">mfn.</lex> followed by ‘<s>sma</s>’, <ls>Pāṇ. iii, 3, 176</ls>)<info lex="inh"/>
+---
+> ¦ followed by (<ab>e.g.</ab> <s>smo<srs/>ttara</s> <lex type="phw">mfn.</lex> followed by ‘<s>sma</s>’, <ls>Pāṇ. iii, 3, 176</ls>)<info lex="inh"/><info phwchild="257061.4"/>
+133994c133994
+< <L>39165.2<pc>1322,3<k1>UrDvajYu<k2>UrDva—jYu<e>3
+---
+> <L>38165.2<pc>1322,3<k1>UrDvajYu<k2>UrDva—jYu<e>3
+138022c138022
+< <L>39286.1<pc>1323,1<k1>ekapatitva<k2>eka—pati—tva<e>4
+---
+> <L>39386.2<pc>1323,1<k1>ekapatitva<k2>eka—pati—tva<e>4
+328423c328423
+< <L>979511<pc>502,2<k1>druh<k2>druh<h>1<e>1
+---
+> <L>97951<pc>502,2<k1>druh<k2>druh<h>1<e>1
+330887c330887
+< <L>98636.1<pc>1329,1<k1>dviradagAmin<k2>dvi—rada-gAmin<e>3
+---
+> <L>98630.1<pc>1329,1<k1>dviradagAmin<k2>dvi—rada-gAmin<e>4
+330890c330890
+< <L>98636.2<pc>1329,1<k1>dviradamaya<k2>dvi—rada-maya<e>3
+---
+> <L>98630.2<pc>1329,1<k1>dviradamaya<k2>dvi—rada-maya<e>4
+359044c359044
+< <s>nir—Barita</s> ¦ full of, abounding in <ls>Kathās.</ls>; <ls>Pur.</ls> &c. (also <s>°rita</s> with <ab>instr.</ab> <ls>Cat.</ls>)<info lex="inh"/><info phwparent="107115"/>
+---
+> <s>nir—Barita</s> ¦ full of, abounding in <ls>Kathās.</ls>; <ls>Pur.</ls> &c. (also <s>°rita</s> with <ab>instr.</ab> <ls>Cat.</ls>)<info lex="inh"/><info phwparent="107115,nirBara"/>
+466308c466308
+< <s>prA—leya</s> ¦ <lex>n.</lex> (?) hail, snow, frost, dew, <ls>Megh.</ls>; <ls>Var.</ls>; <ls>Rājat.</ls> &c. (also as <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to resemble hail &c., <ls>Dhūrtas.</ls>)<info lex="n"/><info phwparent="138936.1"/>
+---
+> <s>prA—leya</s> ¦ <lex>n.</lex> (?) hail, snow, frost, dew, <ls>Megh.</ls>; <ls>Var.</ls>; <ls>Rājat.</ls> &c. (also as <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to resemble hail &c., <ls>Dhūrtas.</ls>)<info lex="n"/><info phwchild="138936.1"/>
+556756a556757,556759
+> <L>166660.1<pc>1331,3<k1>mftasaMjIvaka<k2>mfta—saMjIvaka<e>3
+> <s>mfta—saMjIvaka</s> ¦ <lex>mfn.</lex> reviving the dead, <ls>BhP.</ls><info n="sup"/><info lex="m:f:n"/>
+> <LEND>
+581308,581310d581310
+< <L>174090.1<pc>1331,3<k1>raRaMgaha<k2>raRaM-gaha<e>3
+< <s>raRaM-gaha</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Tathāgata</s1>, <ls>Sukh. i.</ls><info n="sup"/><info lex="m"/>
+< <LEND>
+581671,581673d581670
+< <L>174209.1<pc>1331,3<k1>raRaMgaha<k2>raRaM-gaha<e>1
+< <s>raRaM-gaha</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Tathāgata</s1>, <ls>Sukh. i.</ls><info n="sup"/><info lex="m"/>
+< <LEND>
+585376c585373
+< <L>175364.1<pc>1331,3<k1>ravijaputradina<k2>ravi—ja-putra-dina<e>3
+---
+> <L>175364.1<pc>1331,3<k1>ravijaputradina<k2>ravi—ja-putra-dina<e>4
+851874c851871
+< <L>257061.11<pc>178,1<k1>smottara<k2>smottara<e>3
+---
+> <L>257061.4<pc>178,1<k1>smottara<k2>smottara<e>3
+875747a875745,875747
+> <LEND>
+> <L>264421.1<pc>1305,2<k1>hezakratu<k2>heza-kratu<e>3
+> {{Lbody=264421}}
