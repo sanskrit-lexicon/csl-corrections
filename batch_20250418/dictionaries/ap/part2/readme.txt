@@ -27,7 +27,7 @@ cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250418/dictionaries/ap/part2
 
 ----------------------
 python diff_to_changes_dict.py temp_ap_0.txt temp_ap_1.txt change_ap_1.txt
-22 changes written to change_ap_1.txt
+21 changes written to change_ap_1.txt
 ----------------------
 
 # extract the print changes
