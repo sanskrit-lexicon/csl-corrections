@@ -95,7 +95,7 @@ batch 201
 6254 : ADya : ADya : ADyE : Cf. DyE in AP90
 6461 : Aprapadani : Aprapadani : AprapadIna
 6540 : ABraka : ABraka : ABrika
-batch 202
+
 6679 : Ayuzmata : Ayuzmata : Ayuzmat : lost virama
 7427 : ilIvizaH : ilIvizaH : ilIbiSaH : Wrong spelling of a name of a demon from RV.
 7428 : ilIzaH : ilIzaH : ilISaH : sergeA thought it should be left unchanged
@@ -650,4 +650,9 @@ L code : Headword : Old  : New : Comment
 853  : adUzita : unspotted : unspoiled
 1158 : anati : anatipraSna : anatipraSnya
 1169 : ananuBAvuka : ananuBAvuka : ananuBAvaka : headword change
+----------------------------------------------------------------------
+01-02-2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2801
+L code : Headword : Old  : New : Comment
+2631 : apAka : °cakzus : °cakzas
 ----------------------------------------------------------------------

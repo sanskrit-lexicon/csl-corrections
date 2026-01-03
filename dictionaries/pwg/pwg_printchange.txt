@@ -774,3 +774,8 @@ code : Headword : Old  : New : Comment
 ; pc: 10437 : izwi : (ŚAT. BR.)12,8,2,11. : (ŚAT. BR.)12,8,2,21. : p
 ; pc: 10437 : izwi : (ŚAT. BR.)11,1,5,11. 7,2,2.10. 4,3,5.20. : (ŚAT. BR.)11,1,5,11. 2,6,7. 4,3,5. 20. : p
 -----------------------------------------------------------------------
+01-02-2026Github users @Andhrabharati, @funderburkjim
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2800
+code : Headword : Old  : New : Comment
+4042 : apAkacakzas : ṚV. 8,64,7 : ṚV. 8,75,7
+-----------------------------------------------------------------------
