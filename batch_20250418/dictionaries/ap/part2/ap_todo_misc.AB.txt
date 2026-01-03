@@ -1,0 +1,473 @@
+2025-12-04
+csl-corrections/batch_20250418/dictionaries/ap
+
+28 cases - miscellaneous suggested changes.
+   Many request input from Dhaval and Andhrabharati
+   There may be some overlap with other 'todo' subgroups!
+TODOx some change by Jim
+TODOy no change by Jim
+
+* TODOx Case 149: 01/27/2025 dict=AP, L=2260, hw=anuharaṇam, user=srhodes
+old = anuharaṇam, LB -hāraḥ
+new = anuharaṇam, -hāraḥ
+comment = Typo – Please note that the printed page does NOT break the line when listing these two words. Also, if you choose, you may add the second word referenced: "anuhāraḥ" as a Searchable Headword in the Hierarchy list display.
+status = PENDING
+
+**AB comment:
+There are a lot more such places (over a few thousands!) that are to be grouped together as HWs.
+My current revision has properly brought all these thus, in front of the 'broken-bar'!
+
+Note.
+There are more such line-breaks introduced by Jim (that defy proper "flow" of thought/understanding) in the CDSL text, which I did not correct at the moment (thus keeping the no. of lines in tact, for Jim to correlate).
+However, I would like to properly parse the whole data in the next phase, by assuming a "free-hand" (in my style)!
+
+**Jim comment
+old: 
+{#anuharaRam#},¦
+.{@{#-hAraH#}@} Imitation, resemblance, similarity.
+
+new:
+{#anuharaRam#}, {@{#-hAraH#}@} ¦ Imitation, resemblance, similarity.
+BLANK LINE
+
+
+------------------------------------------------------------------------
+
+* TODOx Case 187: 01/29/2025 dict=AP, L=2331, hw=antavat, user=srhodes
+old = 2 The god of the space or atmosphere
+new = 2 m. The god of the space or atmosphere
+comment = Typo – Please note that this is a "print change" as we are marking this definition in the Masculine gender. This correction is proven on two accounts: 1) This definition is a substantive and not a qualifying term; 2) the citation itself which exemplifies the usage is declined in the Nominative Masculine gender: "antavān".
+status = PENDING
+
+**AB comment:
+We can get to the proper meaning by tracing the citation (MBh. 3.197.5) (from शिबिचरितम्, at MBh. 3. 197 ch. of Bombay ed.)
+[The Crit. ed. of MBh. (BORI) has this episode at the appendix-I, 21.70 (p.1072).]
+
+    atha purohito rājānamabravīt prāṇarakṣārthaṃ śyenādbhīto bhavantaṃ prāṇārthī prapadyate. ||4||
+    vasu dadātu antavān pārthivo'sya niṣkṛtiṃ kuryāt ghoraṃ kapotasya nipātamāhuḥ ||5||
+[Nīlakaṇṭha (in his Bhāvārthadīpikā commentary) explains thus-- “घोरं निन्दितमनिष्टसूचकमित्यर्थः । मृत्युदूतत्वात् कपोतस्य । अन्तवान् दिगन्तानामीश्वरः ॥”
+
+The Engl. translation (by M.N. Dutt) goes thus--
+    4. Thereupon the priest thus spoke to the king, “Afraid of the hawk, this pigeon has come to you for his life with the intention of saving it.
+    5. The learned men have said that the fall of pigeon on oneʼs lap forebodes a great danger. The king who understands men should save himself by giving away wealth.”
+
+While Apte gave the meaning "The god of the space or atmosphere" (considering ईश्वर as a noun), the PD has given the meaning as "possessed of the end (of directions or quarters)" (considering ईश्वर as an adj.).
+I would like to take the meaning as "the god Yama [Death], the Dikpāla of South" (which has been indicated by Nīlakaṇṭha.)
+[M.N. Dutt also meant the same.]
+
+Long story short, yes, we should consider this meaning to be denoting the masculine gender.
+
+**Jim comment  Maintaining the current AP markup style: {%m.%}
+old:
+.²2 The god of the space or atmosphere ({#digantAnAmISvaraH#}); {#vasu#}
+new:
+.²2 {%m.%} The god of the space or atmosphere ({#digantAnAmISvaraH#}); {#vasu#}
+
+**pc: <L>2331<pc>0118-2<k1>antavat : 2 The god : 2 {%m.%} The god
+
+------------------------------------------------------------------------
+
+* TODOx Case 252: 01/31/2025 dict=AP, L=2334, hw=antar, user=srhodes
+old = full of strong inside
+new = full of strength inside
+comment = Typo – Please note that this is a suggested "print change", based upon what sounds like better English.
+status = PENDING
+
+**AB comment: 
+It should rather be corrected as in AP90--
+    "full of strong inside -> full or strong inside"
+The citation from Daśakumāracaritam ("˚sārāṇi indhanāni" Dk. 132) is for this meaning!
+[If interested, one can have a look at this work alongwith the commentary.]
+
+**Jim comment (antar-sAra) under antar; other koshas: antaHsAra
+**pc: 2334<pc>0118-2<k1>antar : full of strong inside : full or strong inside : [-sAra]
+------------------------------------------------------------------------
+
+* TODOx Case 302: 02/03/2025 dict=AP, L=2374, hw=antya, user=srhodes
+old = (1000,000,000,000,000.)
+new = (1000,000,000,000.)
+comment = Typo – Please note that this is a suggested "print change." In mathematics, one billion = 1,000,000,000 ; Therefore, 1000 billions = 1,000,000,000,000 ; The number printed here is actually "1000 trillions" which of course is incorrect. Unless "billions" is supposed to be "trillions"? Please confirm.
+status = PENDING
+
+**AB comment:
+This is a clear case of changing the (Old) "British" English to (Modern) "American" English that Scott is proposing and Jim is undertaking many-a-times!
+In olden times, the British meant "billion" as 'million millions' at least until the world war II; thereafter they too slowly switched to 'thousand millions' (when the American influence started over-riding other British terms)!
+However, we need to keep in mind that all the dictionaries we are dealing with now were "composed & published" in Old British style!
+
+Finally, here is the proper understanding of the word--
+The Līlāvatī defines "antya"as "sahasralakṣakoṭi" = 1000 (sahasra) × 100000 (lakṣa) × 10000000 (koṭi) = 1000,000,000,000,000.
+
+**Jim comment:
+**pc: <L>2374<pc>0126-2<k1>antya : 1000 billions (1000,000,000,000,000.) : 1000 trillions (1000,000,000,000,000.)
+------------------------------------------------------------------------
+
+* TODOy Case 331: 02/05/2025 dict=AP, L=2396, hw=annam, user=srhodes
+old = See Below
+new = Attention Dr. Dhaval and Andhrabharati • Here is an example of why l like to go through Sanskrit Dictionaries. Please note the following word referenced here: "bahiḥsrotas": LB -gatiḥ f. the passage of food, gullet (cf. bahiḥsrotas). LB ——NOW, this word: "bahiḥsrotas" is not found anywhere else. Please confirm that this word exists and that the definition is: "the gullet, oesophagus." Thank you.
+comment = See Above
+status = PENDING
+
+**AB comment:
+Here it appears to refer to "annavāhisrotas", which is a neuter word (used in Medicinal works) having the meaning ‘गलनाडी’, i.e. gullet.
+This word was first mentioned in WIL. [Scott would definitely be happy to find it in his favorite work SHS!]
+However it is strange that Apte didnʼt "list" it inside his dictionary!
+Do we change this as "-bahiḥsrotas -> -vāhisrotas"?
+
+**Jim comment  NO CHANGE -- not clear how to correct this error in AP
+  
+------------------------------------------------------------------------
+
+* TODOy Case 353: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = -daivatya
+new = -daivata
+comment = Typo – Please note that this is a possible "print change". MW gives this word as: "anyadaivata"; APTE gives "anyadaivatya". LB The question is: Are both forms correct? Or is MW right and APTE wrong? I checked another source and found only confirmation for the form: "anyadaivata". I hope that Dr. Dhaval or Andhrabharati will give a clear answer.
+status = PENDING
+
+**AB comment:
+The pwk gives "anyadevata", "°devatya" and "°daivata".
+The PD has both "anyadevatya" and "anyadaivatya", with supporting citations!
+So, both Apte and MW are correct.
+**Jim comment NO CHANGE
+------------------------------------------------------------------------
+
+* TODOy Case 354: 02/06/2025 dict=AP, L=2401, hw=anya, user=srhodes
+old = -dharman
+new = -dharma
+comment = Typo – Please note that this is a possible "print change". MW gives this word as: "anyadharma"; APTE gives "anyadharman". LB The question is: Are both forms correct? Or is MW right and APTE wrong? I hope that Dr. Dhaval or Andhrabharati will give a clear answer. I like to know the correct prātipadika for the purpose of declension.
+status = PENDING
+
+**AB comment:
+"-dharman" can denote a substantive (either masculine or neuter), and even an adjective many-a-times.
+MW also had many adj. words terminated in "-dharman" (though not this particular one)!
+[For a change, I thought I should better be 'not clear' (i.e. inconclusive) here.]
+
+**Jim comment:  NO CHANGE  
+BEN : "in the later language hardly ever used
+except as a substitute for dharma, when
+latter part of a comp. adj., e. g. vidita-, adj. Knowing one's duty"
+MW72 has similar comment
+------------------------------------------------------------------------
+
+* TODOy Case 363: 02/07/2025 dict=AP, L=2410, hw=anyatra, user=srhodes
+old = (anyatra = anye).
+new = (anyatra = anyasmin).
+comment = Typo – WITH UPDATED HEADWORD AND ID:  Please note that this is a suggested "print change." The equality stated here appears to be referring to the Locative form of "anya", which is NOT "anye", but rather "anyasmin". Also this appears to be applicable to the following "Number (4)" definitions listed as: "Otherwise, in another way, in the other case, in the other sense"; and therefore, perhaps this correction should also be moved accordingly so as not to appear with the "Number (3)" definitions: "Except, without, other than"; but rather at the Head of the "Number (4)" definitions.
+status = PENDING
+
+**AB comment:
+This is defined as "<ab>oft.</ab> with the force of the <ab>nom.</ab> case", just before the citation [copied form the PWG "as is"].
+As such, the "(<ab>oft.</ab> = {#anyasmin#} with a <ab>subst.</ab> or <ab>adj.</ab> force)" [at the top] is not being referred here. 
+So, no change required in my opinion.
+
+**Jim comment NO CHANGE  
+------------------------------------------------------------------------
+
+* TODOx Case 460: 02/17/2025 dict=AP, L=2694, hw=aparavat, user=srhodes
+old = aparavat a. Like what follows.
+new = aparavat ind. Like what follows.
+comment = Typo – please note that this is a suggested "print change". The affix 'vat' here is being used as APTE himself defines:  "-ind. An affix added to nouns or adjectives to denote 'likeness' or 'resemblance' and may be translated by 'like', 'as'." LB This instance of the word  "aparavat"  does not carry the sense of:  " An affix added to nouns to show 'possession'; धनवत् possessed of wealth; रूपवत् beautiful; so भगवत्, भास्वत् &c.; (the words so formed being adjectives)."
+status = PENDING
+
+**AB comment:
+Scottʼs keen eye is appreciated again!
+Goldstücker alone mentions it as ind. giving a proper explanation; while MW & Apte have just followed Böhtlingk (PWG).
+It is not out-of-place to mention here that Goldstücker had spoken much against Böhtlingkʼs understanding of Pāṇini [in his work (Pāṇini: His Place in Sankrit Literature)]! (Is Scott having any interest going through that?)
+
+**Jim comment  print change
+**pc: 2694<pc>0144-2<k1>aparavat : a. : ind.
+------------------------------------------------------------------------
+
+* TODOx Case 470: 02/19/2025 dict=AP, L=2734, hw=apariṣkara, user=srhodes
+old = apariṣkara
+new = apariṣkāra
+comment = Typo – Please note that this might be a "print change".  ALL of the following Four Dictionaries: MW, Shabda, Vācaspatyam and Kalpadruma – GIVE ONLY the spelling as "apariṣkāra". Only APTE gives the short vowel spelling. APTE STANDS ALONE and AGAINST four GREAT authorities. Does Andhrabharati have anything to say?
+status = PENDING Jim: no change.  Many sources for 'pariṣkara'
+
+**AB comment:
+While the word "pariṣkara" does exist as noted by Jim, the meaning given by Apte (for "apariṣkāra") does not come under it; as such it should only be "apariṣkāra", as Scott mentioned.
+**Jim comment  print change
+**pc: 2734<pc>0146-1<k1>aparizkaraH : aparizkaraH : aparizkAraH : headword change
+------------------------------------------------------------------------
+
+* TODOy Case 493: 02/21/2025 dict=AP, L=2872, hw=apasparśa, user=srhodes
+old = Correct (see below)
+new = Please confirm that this spelling has been marked as a "print change".
+comment = Correct (see above)
+status = PENDING  Jim:  What is this case about?
+
+**AB comment:
+Letʼs see if Scott could recall what he intended to say here!
+------------------------------------------------------------------------
+
+* TODOx ALSO PWG, AP90 Case 508: 02/22/2025 dict=AP, L=2908, hw=apāka, user=srhodes
+old = °cakṣus of unequalled brightness
+new = °cakṣas of unequalled brightness
+comment = Typo – Please note that this may be a "print change". MW dictionary gives the word "apākacakṣas" which is verified in the Ṛgveda (viii , 75 , 7). We need Andhrabharati to authorize the word given here as: "apākacakṣus". Or is APTE in error?
+status = PENDING
+
+**AB comment:
+While "cakṣus" can have a meaning 'Lustre, splendour' (as Apte mentions), the ṚV. 8.75.7 does vouch for "apākacakṣas" (meaning 'of unequalled brightness').
+It is definitely a print error in both AP90 & AP57, that needs to be corrected.
+BTW, the PWG has a print error for this hymn number at L-4042 (8,64,7 to be corrected as 8,75,7).
+
+**Jim comment
+**pc: 2908<pc>0152-2<k1>apAka : °cakzus : °cakzas
+------------------------------------------------------------------------
+
+* TODOx Case 535: 02/24/2025 dict=AP, L=2893, hw=apahā, user=srhodes
+old = apahā 2P.
+new = apahā 3P.
+comment = Typo – Please note that this may be a "print change", pending confirmation by Dr. Dhaval and Andhrabharati. The reasoning is as follows: 1) The root √hā is listed as a "class 3" root by both Apte and MW.  2) MW lists the prefixed root "apahā" as class 3.  3) In the three citations here, provided by Apte, each "example" of the usage of "apahā" is given in the absolute (indeclinable) form: "apahāya", which does not in itself establish the root class.
+status = PENDING
+
+**AB comment:
+The root √hā occurs in class 3, with two different meanings (and listed in the Dhatupāṭha separately).
+It is obviously a print error in AP57, that needs to be corrected.
+
+**Jim comment
+**pc: 2893<pc>0151-2<k1>apahA : €2P. : €3P.  : class of root
+------------------------------------------------------------------------
+
+* TODOx Case 555: 02/25/2025 dict=AP, L=2993, hw=apiśalāḥ, user=srhodes
+old = apiśalāḥ (pl. of āpiśali) descendants or pupils of āpiśali
+new = ???
+comment = Typo – I hope that Andhrabharati may clarify this: I am uncertain why there the Headword contains an initial short vowel "a", and in the definition the reference with an initial long vowel "ā". Should not the Headword also have an initial long vowel "ā"? Why has the initial vowel been shortened?
+status = PENDING
+
+**AB comment:
+Note to Jim: (in slp1)
+	{#apiSalAH#}¦ (<ab>pl.</ab> of {#ApiSali#}) descendants or pupils of {#ApiSali#}.
+	is to be changed as 
+	{#apiSalAH#}¦ (<ab>pl.</ab> of {#apiSala#}) descendants or pupils of {#apiSali#}.
+
+Note to Scott: (in IAST)
+	"apiśali" & "āpiśali" are the variant forms, as indicated by Goldstücker (citing from Viśvakośa). 
+
+**Jim comment
+**pc: 2993<pc>0156-2<k1>apiSalAH : (pl. of {#ApiSali#}) descendants or pupils of {#ApiSali#} : (<ab>pl.</ab> of {#ApiSala#}) descendants or pupils of {#apiSali#}
+
+
+------------------------------------------------------------------------
+
+* TODOx Case 571: 02/26/2025 dict=AP, L=3041, hw=apeta, user=srhodes
+old = arthādanapetaṃ arthyam  P. IV. 4. 92   Sk.
+new = arthādanapetamarthyam  "Śabdānuśāsana" by Hemacandra, (Bṛhadvṛtti, Part 3)
+comment = Typo – Please note that you likely will not make this "print change". I simply give the exact quotation to make the following point: The anusvāra is not used when followed by a vowel (at least in classical Sanskrit). I am no expert in Vedic Sanskrit. The rule quoted by Apte is simply in reference to the "ablative case" being used in this particular construction. But the actual quotation is from Hemacandra, and I have corrected it above according to the Authority of Hemacandra himself. Would Andhrabharati like to say anything?
+status = PENDING
+
+**AB comment:
+What is it that Scott wishes AB to say something about?
+
+**Jim comment.  Make change in this one case. 
+   180 {#[^#]*M [aAiIuUfReEoO]    M->m for all of these?  Any
+      exception for 'etymological text' in AP in square brackets?
+**pc: 3041<pc>0158-1<k1>apeta : arTAdanapetaM arTyam : arTAdanapetamarTyam
+------------------------------------------------------------------------
+
+* TODOx Case 592: 02/27/2025 dict=AP, L=3048, hw=apehi, user=srhodes
+old = °prakasā
+new = °praghasā
+comment = Typo – Please note that this is a possible "print change" based upon my current dictionary of Sanskrit words. For the word given here as "apehiprakasā", I have the word  "apehipraghasā". Perhaps both words exist. We need Dr. Dhaval or Andhrabharati to confirm this.
+status = PENDING  Jim thinks no change : GST also has apehiprakasA. Also mw72
+  mentions apehi-prakasA under apehi
+
+**AB comment:
+This word (apehipraghasā) is from Gaṇapāṭha of Pāṇini; "°praghasāḥ" (voracious people) appears more appropriate here.
+GST might have looked at a faulty edition (or manuscript) of the cited works, for mentioning "°prakasā" in his dictionary.
+
+
+**Jim comment - 
+**pc: 3048<pc>0159-1<k1>apehi : °prakasA : °praGasA
+------------------------------------------------------------------------
+
+* TODOx Case 596: 02/27/2025 dict=AP, L=3052, hw=apodikā, user=srhodes
+old = see upodakī
+new = see upodakā OR upodikā OR upodīkā
+comment = Typo – Please note that this is a possible "print change". I do not find the word: "upodakī", however APTE himself lists the above three feminine forms in relation to this reference under the Headword "upodaka". Does Andhrabharati have anything to say?
+status = PENDING
+  Jim thinks NO CHANGE
+
+**AB comment:
+Scott has approached me directly about the "upodaka" entry on 16th Dec. (two weeks ago) and I had replied him (on 19th) at https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3675313000; and he had submitted a correction thereafter (which is at 10240 in the 'cfr' file).
+Jim may do the needful accordingly.
+
+**Jim comment
+Note the comment link from Andhrabharati:
+"upodakā does not appear anywhere else, other than in Apte; 
+ we can safely consider that it is a print error (-kā for -kī) 
+ in AP90 and thus in AP57."
+
+Jim interprets AB to 
+The AP print is:  see upodakI
+The current ap.txt:  see {#upodakI#}
+Jim Concludes:  
+1. NO CHANGE for L=3052.
+2. However, print change to upodaka entry L=10240 (-kA -> -kI)
+**pc: 10240<pc>0475-1<k1>upodaka : -kA, -dikA, -dIkA The plant Basella Rubra : -kI, -dikA, -dIkA The plant Basella Rubra
+
+
+Thus, 
+ under upodaka at cdsl:
+  md: ī, f. a plant.
+  ap: -का, -दिका, -दीका The plant Basella Rubra
+  mw: f(ई, इका)n. Basella Cordifolia,
+  mw72: akī or ikā), f. the plant Basella Cordifolia.
+  pw: उपोदिका f., उपोदकी f. und उपोदक n. Basella cordifolia Lam.
+
+Jim conclusions:
+1. L=3052, apodikA"
+**pc: 3052<pc>0159-1<k1>apodikA : 
+------------------------------------------------------------------------
+
+* TODOy Case 629: 03/02/2025 dict=AP, L=3137, hw=apratisaṃkhya, user=srhodes
+old = °ākhya (khyā)-nirodhaḥ
+new = ???
+comment = Typo – Please note that the actual compound being referenced here is: "apratisaṃkhyānirodha". I am uncertain what the portion listed above: "°ākhya" is supposed to mean? Somehow (as if by magic) this notation: "°ākhya (khyā)-nirodhaḥ" = "apratisaṃkhyānirodha". Please explain the preceding equation with by focusing on the initial term: °ākhya ???
+status = PENDING
+
+**AB comment:
+Quite simple: the "ā" at the beginning of °ākhya is to be deleted, resulting into "apratisaṃ°khya(khyā)nirodhaḥ" as in AP90 [dual forms: apratisaṃkhyanirodhaḥ & apratisaṃkhyānirodhaḥ].
+
+**Jim comment : nothing to do here
+------------------------------------------------------------------------
+
+* TODOx Case 655: 03/03/2025 dict=AP, L=3171, hw=aprayuccat, user=srhodes
+old = aprayuccat
+new = aprayucchat
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. MW seems to agree.
+status = PENDING
+
+**AB comment:
+Yes, it should be corrected as "aprayucchat".
+
+**Jim comment:
+**pc: 3171<pc>0163-1<k1>aprayuccat : aprayuccat : aprayucCat : headword change
+------------------------------------------------------------------------
+
+* TODOy dup Case 656: 03/03/2025 dict=AP, L=3171, hw=aprayuccat, user=srhodes
+old = aprayuccat
+new = aprayucchat
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. MW seems to agree.
+status = PENDING see case 655
+
+**AB comment:
+This is a duplicate (repeat) post.
+------------------------------------------------------------------------
+
+* TODOx Case 715: 03/06/2025 dict=AP, L=2960, hw=apāśrita, user=srhodes
+old = Restored to
+new = Resorted to
+comment = Typo – Please note that this is possible "print change" pending confirmation by Dr. Dhaval and Andhrabharati. MW dictionary seems to agree; as well as the definition of the related root: √apāśri, "To resort to  [ID=2958]". Also, notice the 2nd definition given here as: "2 (Actively used) ... resorting to ...". Therefore (Passively used) should be: "Resorted to".
+status = PENDING
+
+**AB comment:
+The suggested correction is straight-forward, that needs to be done.
+
+**Jim comment:
+**pc: 2960<pc>0154-2<k1>apASrita :  Restored to : Resorted to : 
+------------------------------------------------------------------------
+
+* TODOy Case 790: 03/10/2025 dict=AP, L=3383, hw=abhicāraka, user=srhodes
+old = °rikī
+new = °rikā
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. "-ikā" appears to be the standard feminine ending for the affix "ṇvul" which most likely is used in the formation of this word.
+status = PENDING
+
+**AB comment:
+Though Pāṇiniʼs rules result in "abhicārikā", the word "abhicārikī" also does occur in literature. [Ref. https://www.wisdomlib.org/definition/abhicariki]
+It is for such cases that different schools of Skt. grammar arose, most of which treat the "apāṇinīya" words.
+The grammars are there to explain & ratify the words occurring in the words literature. There could be many words that do not got noticed by the grammarians;  Scott has mentioned in one of his posts that Skt. literature is a "super ocean" [both in width (subjects) and depth (numbers)], that cannot be wholly fathomed by any person (or to that matter, by any number of persons)!
+
+**Jim comment: NO CHANGE
+  I find such discussions interesting
+------------------------------------------------------------------------
+
+* TODOx Case 896: 03/17/2025 dict=AP, L=3675, hw=abhivṛt, user=srhodes
+old = saragvāścottare
+new = sarayvāścottare
+status = PENDING  Jim: don't understand 'sarayv...'
+
+**AB comment:
+This is just a typo error correction to be done in the CDSL text.
+[sarayvāścottare = sarayvāś + ca + uttare; 'sarayvāś' is the abl. form of sarayū (the river).]
+
+**Jim comment: I find  सरय्वाः as abl. form of sarayU,  changed to 'sarayvāś' before
+  च
+typo correction: saragvAScottare -> sarayvAScottare
+------------------------------------------------------------------------
+
+* TODOx Case 941: 03/21/2025 dict=AP, L=3896, hw=abhīṣāh, user=srhodes
+old = abhīṣāh
+new = abhīṣah
+comment = Typo – Please note that we need Andhrabharati to confirm the correct prātipadika form. Apte gives the form as: "abhīṣāh" • MW gives: "abhīṣah". Are both forms correct? Or is one of the forms in error?
+status = PENDING
+
+**AB comment:
+The PWG mentions "abhīṣāh", which came into MW72 and Apte and few others.
+The pwk mentions "abhīṣah" (in Vol. 1) that got copied by MW; however MW has (conveniently) skipped what the pwk did in Vol. 5 as amendment (i.e. adding abhīṣāh) ["abhīṣah , füge (stark °ṣāh) hinzu"].
+It is yet another slippage by MW (we can keep on counting such cases, which I would estimate as going to few thousands)!
+BTW, the citation given by MW for "abhīṣah" is the same as in PWG (RV. vii, 4, 8), that has "abhīṣāh" only!
+
+**Jim comment 
+"abhīṣah , füge (stark °ṣāh) hinzu"
+"abhīṣah , add (strong °ṣāh)"  (Google translate)
+
+My understanding of the AB comment is that this is a print change
+**pc: 3896<pc>0191-2<k1>aBIzAh<k2>aBIzAh : aBIzAh : aBIzaH : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 1057: 03/31/2025 dict=AP, L=4252, hw=amogha, user=srhodes
+old = Chālukya
+new = Cālukya
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c". Also, it is worthy noting that MW dictionary translates this particular definition as: "N. of a Caulukya prince." Does Andhrabharati consider this definition to be better one way or the other: "Caulukya prince" VERSUS "Cālukya prince"? Perhaps both ways are admissible as "Caulukya" is the Name of a king; and "Cālukya" is the Name of a dynasty. Therefore, the "Prince" may be referred to either way?
+status = PENDING
+
+**AB comment:
+1. It is a daunting task to normalise the Skt. transliteration in many Indian works (of lore), as there is no easy means to do so.
+2. As far as the point of Cālukya & Caulukya is concerned, they are not same.
+(a) Cālukya dynasty was ruling at Southern & Central parts of India between 6th and 12th centuries. (b) Caulukya dynasty was ruling Western parts of India between 10th to 12th century.
+3. Finally coming to Amoghavarṣa, there were three of them-- (a) Amoghavarsha I (c. 800–878); (b) Amoghavarsha II (r. 929–930) & (c) Amoghavarsha III (reigned 936–939 CE), all belonging to Rāṣṭrakūta dynasty.
+Amoghavarṣa  I was referred to in the PWG [Ref. H.H. Wilson, Select works, Vol.1 279. 332] & Amoghavarṣa III was referred to in the pwk [Ref. Bombay Asiatic Journal, 1.217].
+
+On the whole, both Apte and MW were wrong here; but Apte could be considered closer to the fact, having mentioned "Cālukya" that is linkable with "Rāṣṭrakūta" dynasty!
+
+**Jim comment. 
+**pc: 4252<pc>0206-1<k1>amoGa : Chālukya : Cālukya : [-varzaH]
+------------------------------------------------------------------------
+
+* TODOy Case 1135: 04/05/2025 dict=AP, L=4344, hw=ayāsya, user=srhodes
+old = N. of Aṅgirasa
+new = N. of Aṅgiras
+comment = Typo – Please note that this is a suggested "print change" based upon the individual being denoted: "this sage appears to be mentioned in two passages of the Ṛgveda, and the Anukramanī ascribes to him several hymns of the Ṛgveda"
+status = PENDING : 
+
+**AB comment:
+Both "N. of Aṅgiras" &  "N. of Aṅgirasa" are used to describe a person and are accepted forms.
+
+**Jim comment: NO CHANGE
+------------------------------------------------------------------------
+
+* TODOx Case 1238: 04/13/2025 dict=AP, L=4518, hw=arkin, user=srhodes
+old = bṛhadindramarkobhirarkiṇaḥ
+new = bṛhadindramarkebhirarkiṇaḥ   Jim: is it "arkibhir" ?
+status = PENDING
+
+**AB comment:
+It is "arkebhir" only, as Scott mentioned.
+
+** Jim comment typo corrected
+------------------------------------------------------------------------
+
+* TODOy Case 1252: 04/14/2025 dict=AP, L=4531, hw=arca, user=srhodes
+old = arca
+new = arc
+comment = Typo – Please note that this is a Headword Typo and possible "print change", based upon the MW dictionary analysis of the ṚgVeda verse 6.34.4. – Here the form used is in the instrumental case: "arcā". This requires the prātipadika to be "arc", as corrected here. Apte also, confirms the exact same citation.
+status = PENDING Jim thinks no change.  PWG has under arca 
+  https://sanskrit-lexicon.github.io/rvlinks/rvhymns/rv06.034.html#rv06.034.04
+  
+**AB comment:
+Without going into details, isnʼt it simple to consider both the forms as acceptable?
+
+**Jim comment : NO CHANGE
+------------------------------------------------------------------------
+

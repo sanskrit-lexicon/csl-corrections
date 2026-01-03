@@ -461,4 +461,25 @@ Source: Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102#issuecomment-3648839246
 L code : Headword : Old  : New : Comment
 8525 : uW : oWIt, uWitum : OWIt, oWitum
+-----------------------------------------------------------------
+01-02-2026
+Source: users @aumsanskrit, @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101#issuecomment-37002842552
+L code : Headword : Old  : New : Comment
+2331 : antavat : 2 The god : 2 {%m.%} The god
+2334 : antar : full of strong inside : full or strong inside : [-sAra]
+2374 : antya : 1000 billions (1000,000,000,000,000.) : 1000 trillions (1000,000,000,000,000.)
+2694 : aparavat : a. : ind.
+2734 : aparizkaraH : aparizkaraH : aparizkAraH : headword change
+2908 : apAka : °cakzus : °cakzas
+2893 : apahA : €2P. : €3P.  : class of root
+2993 : apiSalAH : (pl. of {#ApiSali#}) descendants or pupils of {#ApiSali#} : (<ab>pl.</ab> of {#ApiSala#}) descendants or pupils of {#apiSali#}
+3041 : apeta : arTAdanapetaM arTyam : arTAdanapetamarTyam
+3048 : apehi : °prakasA : °praGasA
+10240 : upodaka : -kA, -dikA, -dIkA The plant Basella Rubra : -kI, -dikA, -dIkA The plant Basella Rubra : kA -> -kI
+3052 : apodikA : 
+3171 : aprayuccat : aprayuccat : aprayucCat : headword change
+2960 : apASrita :  Restored to : Resorted to : 
+3896 : aBIzAh<k2>aBIzAh : aBIzAh : aBIzaH : headword change
+4252 : amoGa : Chālukya : Cālukya : [-varzaH]
 -----------------------------------------------------------------------
