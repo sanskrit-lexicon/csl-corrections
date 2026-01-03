@@ -2169,4 +2169,14 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104
 L code : Headword : Old  : New : Comment
 154 : akanizWa : <lex>m. <ab>pl.</ab></lex> : <lex>mfn.</lex>  
 155 : akanizWa : : <lex>m. <ab>pl.</ab></lex>  : add gender
+-----------------------------------------------------------------------
+01-03-2026
+Source: @Andhrabharati, @aumsanskrit, @drdhaval2785
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101 mw/part3
+  (mw/part3) 
+L code : Headword : Old  : New : Comment
+177153 : rAD : Desid. -rirAtsati or -ritsati : Desid. rirAtsati or -ritsati
+262717 : hi : Desid. of Caus.jihApayizati : Desid. of Caus. jiGAyayizati
+164084 : mi : Intens. memIyate, <s>memayIte : Intens. memIyate, memayIti
+96951  : do : aor. adAsIt and adAt : aor. adAt : adAsIt not possible
 -----------------------------------------------------------------

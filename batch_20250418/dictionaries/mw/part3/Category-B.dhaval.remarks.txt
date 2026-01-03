@@ -1,0 +1,66 @@
+Category-B: Dhātu related (9  cases)
+================
+
+* TODO Case 1201: 04/11/2025 dict=MW, L=153489, hw=bhrajj, user=srhodes
+old = bābharṣṭi
+new = ?
+comment = Typo – Please note that the form "bābharṣṭi" is questionable due complete lack of confirmation from any other source. I hope that Andhrabharati will be able to confirm this questionable form, as being either erroneous or authorized.
+status = PENDING
+Dhaval = This does not seem authorised. Checked Dhaturatnakara.
+------------------------------------------------------------------------
+* TODO Case 1112: 04/04/2025 dict=MW, L=89565, hw=dagh, user=srhodes
+old = Prec. 3. sg. °ghyās;
+new = Prec. 2. sg. °ghyās;
+comment = Typo – Please note that this is a possible "print change", based upon what is usually expected. Perhaps, this is an exceptional case? Therefore, we need clarification from Dr. Dhaval or Andhrabharati
+status = PENDING
+Dhaval = I agree with the suggested print change. 
+------------------------------------------------------------------------
+TODO Case 1036: 03/29/2025 dict=MW, L=177153, hw=rādh, user=srhodes
+old = Desid. rirātsati
+new = Desid. -rirātsati
+comment = Typo – Please note that this correction follows the printed text. However, I do not understand why the "hyphen" is used here. Certainly this form and the following form: "ritsati", are both available for use without a prefix. If the "hyphen" is dropped in both cases, then a "print change" will be required.
+status = PENDING
+Dhaval = Hyphen be dropped and it be marked as "print change"
+------------------------------------------------------------------------
+* TODO Case 1017: 03/27/2025 dict=MW, L=262717, hw=hi, user=srhodes
+old = jihāpayiṣati
+new = jighāyayiṣati
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. The form given as: "jihāpayiṣati" seems strange.
+status = PENDING
+Dhaval = not sure
+------------------------------------------------------------------------
+* TODO Case 911: 03/18/2025 dict=MW, L=164084, hw=mi, user=srhodes
+old = memayīte
+new = memayīti
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING
+Dhaval = memayīti is the correct form. Print Change. See https://www.sanskritworld.in/sanskrittool/SanskritVerb/panini.php?first=mIY&upasarga=&lakAra=law&sanAdi=yaNluk&tran=SLP1&vAcya=kartR&frontend=1&jsonmode=0&cond11=2&number=09.0004&removed_sutras=&step=11&type=tiGanta
+------------------------------------------------------------------------
+* TODO Case 856: 03/14/2025 dict=MW, L=103699, hw=nabh, user=srhodes
+old = Caus. nabhayati
+new = Caus. nābhayati
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval and Andhrabharati. I understand that sometimes the causative may be formed either way. However, in this case, I find greater usage of the form "nābhayati", which MW dictionary does not acknowledge. Andhrabharati, please advise us with your wise counsel.
+status = PENDING
+Dhaval = As the example is from Aitareya Brāhmaṇa, which is a vedic text, I think we should not make any change unless Andhrabharati can locate the reference verse and decide the reading.
+------------------------------------------------------------------------
+* TODO Case 548: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °noti, Dhātup.
+new = °ṇoti, Dhātup.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval or Andhrabharati. All of the class 5 forms seem to have the letter "ṇ" which seems to be correct. But here, the form is given as: "tṛpnoti", with the dental nasal letter: "n".
+status = PENDING  Jim: no change - cf  PWG "tṛpṇoti ved., tṛpnoti Dhātup. 27,24. "
+Dhaval = kṣubhnādi is a specific gaṇa (set) which prevents conversion from 'n' to 'ṇ'. This verb is specifically enlisted. Therefore, as with kṣubhnāti not being converted to kṣubhṇāti, this verb form tṛpnoti does not get converted to tṛpṇoti. No change required.
+------------------------------------------------------------------------
+* TODO Case 546: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °trapti
+new = ???
+comment = Typo – I am wondering if Andhrabharati can confirm the authority of this Intensive form: "tarītrapti". I have found only one other listing for this form, and therefore I am doubtful as to the accuracy.
+status = PENDING
+Dhaval = not sure. 
+------------------------------------------------------------------------
+* TODO Case 290: 02/03/2025 dict=MW, L=96951, hw=do, user=srhodes
+old = aor. adāsīt and adāt, Pāṇ. ii, 4, 78;
+new = aor. adāt
+comment = Typo – Please note that this is a VERY important "print change." If you check the rule cited above: "Pāṇ. ii, 4, 78", you will see that the root √do is NOT mentioned. Therefore the elision of sic is NOT optional. Therefore, the form given above: "adāsīt" is incorrect.
+status = PENDING AB/DP to check
+Dhaval = I think that Scott's observation is correct that "adāsīt" is incorrect. But the logic to arrive at the observation is wrong. 'do' is a member of the set 'ghu'. Therefore, गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु is applicable to verb 'do'. But the rule says that the elision of 'sic' is mandatory. Therefore, adāt is the only valid form. adāsīt is not possible.
+------------------------------------------------------------------------

@@ -1,0 +1,176 @@
+Category-B: Dhātu related (9  cases). MW dictionary
+
+This file contains comments from four sources in order:
+1. "comment = " ...   from @aumsanskrit
+2. "Dhaval = "  ...   from @drdhaval2785
+3. "**AB comment:"    from @Andhrabharati
+4. "**Jim comment:"   from @funderburkjim, who tried to synthesize
+   the comments and decide what changes if any
+
+The cases are classified by Jim as
+"TODOx"  some change made
+"TODOy"  no change made
+
+Print changes (to mw.txt) are marked as '**pc: " ...
+
+------------------------------------------------
+
+================
+
+* TODOy Case 1201: 04/11/2025 dict=MW, L=153489, hw=bhrajj, user=srhodes
+old = bābharṣṭi
+new = ?
+comment = Typo – Please note that the form "bābharṣṭi" is questionable due complete lack of confirmation from any other source. I hope that Andhrabharati will be able to confirm this questionable form, as being either erroneous or authorized.
+status = PENDING
+Dhaval = This does not seem authorised. Checked Dhaturatnakara.
+
+**AB comment:
+Both "bharṣṭ" & "bhraṣṭ" occur as varaints(!) in many conjugational forms; as such this "bābharṣṭi" can be retained alongwith "bābhraṣṭi".
+
+**Jim comment : NO CHANGE
+------------------------------------------------------------------------
+* TODOy Case 1112: 04/04/2025 dict=MW, L=89565, hw=dagh, user=srhodes
+old = Prec. 3. sg. °ghyās;
+new = Prec. 2. sg. °ghyās;
+comment = Typo – Please note that this is a possible "print change", based upon what is usually expected. Perhaps, this is an exceptional case? Therefore, we need clarification from Dr. Dhaval or Andhrabharati
+status = PENDING
+Dhaval = I agree with the suggested print change. 
+
+**AB comment:
+As we are noting many-a-times in these queries, this is a Vedic form (that Scott admits to be not much aware of)!
+See "daghyās" being mentioned to be at ṚV. 1.123.5 (as given by Grassmann [https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=GRA&page=0573]) and mentioned in Whitney §838 (https://archive.org/details/sanskritgrammari00whituoft/page/276/mode/1up).
+Whitney categorically mentions that these occur in "limited use".
+Hence, no change is warranted here.
+
+**Jim comment:  Dhaval and AB disagree here.
+  The Whitney reference explicitly mentions 3. sg. daghyās
+Conclude: NO CHANGE
+------------------------------------------------------------------------
+* TODOx Case 1036: 03/29/2025 dict=MW, L=177153, hw=rādh, user=srhodes
+old = Desid. rirātsati
+new = Desid. -rirātsati
+comment = Typo – Please note that this correction follows the printed text. However, I do not understand why the "hyphen" is used here. Certainly this form and the following form: "ritsati", are both available for use without a prefix. If the "hyphen" is dropped in both cases, then a "print change" will be required.
+status = PENDING
+Dhaval = Hyphen be dropped and it be marked as "print change"
+
+**AB comment:
+Scottʼs Grammar-Bible (S.K.) on P. 7.4.54 mentions आरिरात्सति; and the convention in MW is that the prefix (pratyaya) is mostly not shown (but indicated by a hyphen at the starting) in the verbal forms.
+So I would suggest to add hyphen to "rirātsati" also alongwith "ritsati", as Scott is suggesting.
+And this would be a print change, anyways!
+
+**Jim comment:
+ mw.txt currently: Desid. rirAtsati or -ritsati
+ mw scan : Desid. -rirAtsati or -ritsati
+   So mw.txt has at some point in time removed the '-' from rirAtsati
+ However,  corrections/dictionaries/mw_printchange.txt does not currently mention this.
+ 
+ I agree that the - should be dropped here as rirAtsati is a full form; 
+ I understand the '-' in -ritsati to be an abbreviation for riritsati
+
+Actions taken:  
+1. in mw.txt, NO CHANGE  (see mw.txt currently above)
+2. add print change (posthumously!)
+**pc: 177153<pc>876,2<k1>rAD : Desid. -rirAtsati or -ritsati : Desid. rirAtsati or -ritsati
+                
+
+------------------------------------------------------------------------
+* TODOx Case 1017: 03/27/2025 dict=MW, L=262717, hw=hi, user=srhodes
+old = jihāpayiṣati
+new = jighāyayiṣati
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. The form given as: "jihāpayiṣati" seems strange.
+status = PENDING
+Dhaval = not sure
+
+**AB comment:
+"-jighāyayiṣati" is mentioned by MW himself under "prahi". And this may be put under "hi" as well, as Scott suggested.
+[This is a secondary level word that is normally not given in many books!]
+
+**Jim comment
+  The 'Desid. of Caus.' form pra-jighāyayiṣati is given explicitly under pra-hi, as AB noted.
+  But under 'hi' no initial '-' is needed.  
+Action taken: Go with Scott's initial suggestion, and note as print change
+
+**pc: 262717<pc>1297,2<k1>hi : Desid. of Caus.jihApayizati : Desid. of Caus. jiGAyayizati
+
+------------------------------------------------------------------------
+* TODOx Case 911: 03/18/2025 dict=MW, L=164084, hw=mi, user=srhodes
+old = memayīte
+new = memayīti
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING
+Dhaval = memayīti is the correct form. Print Change. See https://www.sanskritworld.in/sanskrittool/SanskritVerb/panini.php?first=mIY&upasarga=&lakAra=law&sanAdi=yaNluk&tran=SLP1&vAcya=kartR&frontend=1&jsonmode=0&cond11=2&number=09.0004&removed_sutras=&step=11&type=tiGanta
+
+**AB comment:  [AB made no comment here]
+
+**Jim comment: 
+**pc: 164084<pc>815,3<k1>mi : Intens. memIyate, <s>memayIte : Intens. memIyate, memayIti
+
+------------------------------------------------------------------------
+* TODOy Case 856: 03/14/2025 dict=MW, L=103699, hw=nabh, user=srhodes
+old = Caus. nabhayati
+new = Caus. nābhayati
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval and Andhrabharati. I understand that sometimes the causative may be formed either way. However, in this case, I find greater usage of the form "nābhayati", which MW dictionary does not acknowledge. Andhrabharati, please advise us with your wise counsel.
+status = PENDING
+Dhaval = As the example is from Aitareya Brāhmaṇa, which is a vedic text, I think we should not make any change unless Andhrabharati can locate the reference verse and decide the reading.
+
+**AB comment:
+Both "nabhaya(n)ti" & "nabhaya(n)tī" occur at Ait. Br. 6.24 (https://sanskrit-lexicon-scans.github.io/aitbr/app1/?6,24); and we need to keep in mind that 'n' appears additionally in Vedic texts (in contrast with Classical text) in many words!
+Hence, no change is warranted here.
+
+**Jim comment: NO CHANGE
+------------------------------------------------------------------------
+* TODOy Case 548: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °noti, Dhātup.
+new = °ṇoti, Dhātup.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval or Andhrabharati. All of the class 5 forms seem to have the letter "ṇ" which seems to be correct. But here, the form is given as: "tṛpnoti", with the dental nasal letter: "n".
+status = PENDING  Jim: no change - cf  PWG "tṛpṇoti ved., tṛpnoti Dhātup. 27,24. "
+Dhaval = kṣubhnādi is a specific gaṇa (set) which prevents conversion from 'n' to 'ṇ'. This verb is specifically enlisted. Therefore, as with kṣubhnāti not being converted to kṣubhṇāti, this verb form tṛpnoti does not get converted to tṛpṇoti. No change required.
+
+**AB comment:
+This is also a debate across differences in Vedic & Classic Sanskrit !
+Grassmann gives quite a few places where "tṛpṇ°" can be seen.
+As rightly mentioned by Jim, the PWG has given both the forms & MW has copied just a part of it (thus creating this confusion)!
+I second Jim, that no change is warranted here. [If at all we want to be more specific, we could add in toto what the PWG mentions.]
+
+**Jim comment:  NO CHANGE
+------------------------------------------------------------------------
+* TODOy Case 546: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °trapti
+new = ???
+comment = Typo – I am wondering if Andhrabharati can confirm the authority of this Intensive form: "tarītrapti". I have found only one other listing for this form, and therefore I am doubtful as to the accuracy.
+status = PENDING
+Dhaval = not sure. 
+
+**AB comment:
+The PWG mentions that "tarpati" as having a variant form "tṛpti"; and Whitney gives the Intens. form "tarītṛp°" (https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-whitroot/disp/index.php?page=65) and gives two places for "°tṛpti" (with accent change) in V.B. and R.V. 
+Where else did Scott see this? [It might give further 'leads' to discuss this point.]
+As such, let this be pending for now.
+
+**Jim comment: NO CHANGE
+------------------------------------------------------------------------
+* TODOx Case 290: 02/03/2025 dict=MW, L=96951, hw=do, user=srhodes
+old = aor. adāsīt and adāt, Pāṇ. ii, 4, 78;
+new = aor. adāt
+comment = Typo – Please note that this is a VERY important "print change." If you check the rule cited above: "Pāṇ. ii, 4, 78", you will see that the root √do is NOT mentioned. Therefore the elision of sic is NOT optional. Therefore, the form given above: "adāsīt" is incorrect.
+status = PENDING AB/DP to check
+Dhaval = I think that Scott's observation is correct that "adāsīt" is incorrect. 
+But the logic to arrive at the observation is wrong. 
+  'do' is a member of the set 'ghu'. 
+  Therefore, गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु is applicable to verb 'do'. 
+  But the rule says that the elision of 'sic' is mandatory. 
+  Therefore, adāt is the only valid form. adāsīt is not possible.
+
+**AB comment:
+I would suggest this to be "open" for some more time.
+Meanwhile, suggest Scott (& Dhaval) studying what makes "dhe" to have  "aor. -adhāt, AV. x, 4, 26; adhāsīt or adadhat, Pāṇ. ii, 4, 78; iii, 1, 49" and why the same principle(s) won't get applied to "do" to have "aor. adāsīt and adāt, Pāṇ. ii, 4, 78".
+
+**Jim comment
+1. Make  print change per Scott/Dhaval. 
+**pc: 96951<pc>498,1<k1>do : aor. adAsIt and adAt : aor. adAt : adAsIt not possible
+2.  Open new issue for further consideration as AB request.
+
+Actual markup change -- as experiment (this markup used often in GRA
+old: <ab>aor.</ab> <s>adAsIt</s> and <s>adAt</s>
+new: <ab>aor.</ab> <chg type="del" n="1" src="cdsl"><old><s>adAsIt</s> and </old></chg><s>adAt</s>
+
+------------------------------------------------------------------------

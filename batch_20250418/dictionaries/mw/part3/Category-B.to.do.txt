@@ -1,0 +1,88 @@
+Category-B: Dhātu related (9  cases)
+Jim Adds comments from Dhaval, presented in issue comments starting at
+
+https://github.com/sanskrit-lexicon/csl-corrections/issues/101#issuecomment-3704313629
+
+================
+
+* TODO Case 1201: 04/11/2025 dict=MW, L=153489, hw=bhrajj, user=srhodes
+old = bābharṣṭi
+new = ?
+comment = Typo – Please note that the form "bābharṣṭi" is questionable due complete lack of confirmation from any other source. I hope that Andhrabharati will be able to confirm this questionable form, as being either erroneous or authorized.
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+
+------------------------------------------------------------------------
+* TODO Case 1112: 04/04/2025 dict=MW, L=89565, hw=dagh, user=srhodes
+old = Prec. 3. sg. °ghyās;
+new = Prec. 2. sg. °ghyās;
+comment = Typo – Please note that this is a possible "print change", based upon what is usually expected. Perhaps, this is an exceptional case? Therefore, we need clarification from Dr. Dhaval or Andhrabharati
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+
+------------------------------------------------------------------------
+TODO Case 1036: 03/29/2025 dict=MW, L=177153, hw=rādh, user=srhodes
+old = Desid. rirātsati
+new = Desid. -rirātsati
+comment = Typo – Please note that this correction follows the printed text. However, I do not understand why the "hyphen" is used here. Certainly this form and the following form: "ritsati", are both available for use without a prefix. If the "hyphen" is dropped in both cases, then a "print change" will be required.
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+
+------------------------------------------------------------------------
+* TODO Case 1017: 03/27/2025 dict=MW, L=262717, hw=hi, user=srhodes
+old = jihāpayiṣati
+new = jighāyayiṣati
+comment = Typo – Please note that this is a possible "print change" pending confirmation by Dr. Dhaval or Andhrabharati. The form given as: "jihāpayiṣati" seems strange.
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+
+------------------------------------------------------------------------
+* TODO Case 911: 03/18/2025 dict=MW, L=164084, hw=mi, user=srhodes
+old = memayīte
+new = memayīti
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+
+------------------------------------------------------------------------
+* TODO Case 856: 03/14/2025 dict=MW, L=103699, hw=nabh, user=srhodes
+old = Caus. nabhayati
+new = Caus. nābhayati
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval and Andhrabharati. I understand that sometimes the causative may be formed either way. However, in this case, I find greater usage of the form "nābhayati", which MW dictionary does not acknowledge. Andhrabharati, please advise us with your wise counsel.
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+
+------------------------------------------------------------------------
+* TODO Case 548: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °noti, Dhātup.
+new = °ṇoti, Dhātup.
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Dr. Dhaval or Andhrabharati. All of the class 5 forms seem to have the letter "ṇ" which seems to be correct. But here, the form is given as: "tṛpnoti", with the dental nasal letter: "n".
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+  Jim: no change - cf  PWG "tṛpṇoti ved., tṛpnoti Dhātup. 27,24. "
+------------------------------------------------------------------------
+* TODO Case 546: 02/24/2025 dict=MW, L=86723, hw=tṛp, user=srhodes
+old = °trapti
+new = ???
+comment = Typo – I am wondering if Andhrabharati can confirm the authority of this Intensive form: "tarītrapti". I have found only one other listing for this form, and therefore I am doubtful as to the accuracy.
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+
+------------------------------------------------------------------------
+* TODO Case 290: 02/03/2025 dict=MW, L=96951, hw=do, user=srhodes
+old = aor. adāsīt and adāt, Pāṇ. ii, 4, 78;
+new = aor. adāt
+comment = Typo – Please note that this is a VERY important "print change." If you check the rule cited above: "Pāṇ. ii, 4, 78", you will see that the root √do is NOT mentioned. Therefore the elision of sic is NOT optional. Therefore, the form given above: "adāsīt" is incorrect.
+status = PENDING
+**Dhaval comment:
+**Jim comment:
+ AB/DP to check
+------------------------------------------------------------------------
