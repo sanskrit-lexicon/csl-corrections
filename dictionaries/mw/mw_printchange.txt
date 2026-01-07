@@ -2179,4 +2179,14 @@ L code : Headword : Old  : New : Comment
 262717 : hi : Desid. of Caus.jihApayizati : Desid. of Caus. jiGAyayizati
 164084 : mi : Intens. memIyate, <s>memayIte : Intens. memIyate, memayIti
 96951  : do : aor. adAsIt and adAt : aor. adAt : adAsIt not possible
+-----------------------------------------------------------------------
+01-07-2026
+Source: @aumsanskrit
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104  (mw/part5) 
+L code : Headword : Old  : New : Comment
+1730 : aNgulisaMdaMSa : aNgulisaMdaMSa : aNgulisaMdeSa : revert headword spelling to agree with print on page 8
+<L>669 : akzanvat : akzanvat : akzaRvat : headword change
+<L>670 : akzanvat : akzanvat : akzaRvat : headword change
+<L>193155 : viDarma : 1. :  :  Remove homonym 1
+3878 : adridugDa : not pressed out : pressed out
 -----------------------------------------------------------------

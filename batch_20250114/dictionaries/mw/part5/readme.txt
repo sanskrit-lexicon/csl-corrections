@@ -1,0 +1,91 @@
+
+2026-01-04
+readme.txt for csl-corrections/batch_20250114/dictionaries/mw/part5
+
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250114/dictionaries/mw/part5
+
+
+cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw_0.txt
+cp temp_mw_0.txt temp_mw_1.txt
+
+Make changes in temp_mw_1.txt
+simultaneously edit :
+
+Jim's task is to implement the changes posted by Andhrabharati.
+
+
+# remake xml from temp_mw_1.txt and check
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250114/dictionaries/mw/part5
+cp temp_mw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok, as expected
+# return here
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250114/dictionaries/mw/part5
+
+-------------------------
+diff temp_mw_0.txt temp_mw_1.txt > diff_mw_0_1.txt
+ (338 lines)
+ 
+grep 'pc:' mw_part5_todo.txt > mw_printchange.txt
+ 5 cases  (+ 1 doc)
+ 
+================================================
+INSTALLATION
+sync to github:
+
+------------------
+# csl-orig
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250114/dictionaries/mw/part5
+diff temp_mw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt | wc -l
+#0  as expected
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .
+git commit -m "Scott backlog of 20250114, mw/part5 
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104"
+
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250114/dictionaries/mw/part5
+
+----------------------
+# csl-apidev 
+cd /c/xampp/htdocs/cologne/csl-apidev
+git pull
+git add .
+git commit -m "Scott backlog of 20250114, mw/part5 
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104"
+
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250114/dictionaries/mw/part5
+
+------------------------
+
+# csl-corrections
+# update csl-corrections/dictionaries/mw/mw_printchange.txt
+cd /c/xampp/htdocs/cologne/csl-corrections
+git pull
+git add .
+git commit -m "Scott backlog of 20250114, mw/part5 
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104"
+
+git push
+cd /c/xampp/htdocs/cologne/csl-corrections/batch_20250114/dictionaries/mw/part5
+
+---------------------------------------------------
+# sync to Cologne, pull changed repos, redo display
+---------------
+csl-orig #pull
+csl-corrections #pull
+csl-apidev #pull
+
+---------------
+# update displays for mw
+cd csl-pywork/v02
+sh generate_dict.sh mw  ../../MWScan/2020/
+
+-----------------------------------------------------
+THE END
+-----------------------------------------------------
+

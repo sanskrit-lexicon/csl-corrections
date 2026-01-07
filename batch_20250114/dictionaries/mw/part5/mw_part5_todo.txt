@@ -1,0 +1,1749 @@
+The remaining 102 cases from batch_20250114/mw/
+Jim's handling of cases, note this markup
+ TODOx 52 some change to mw.txt was made
+ TODOY 46 NO CHANGE reasons vary
+ "TODO " 4  Need attention from Andhrabharati or Dhaval
+
+**pc: print change for mw
+
+
+Note 1:
+Some of the corrections (for revisions) use the 'chg' markup of cdsl:
+<chg type="chg" n="1" src="mw"><old></old><new></new></chg>
+or
+<chg type="chg" n="1" src="cdsl"><old></old><new>< c/new></chg> 
+<chg type="del" n="1" src="cdsl"><old></old></chg>
+
+
+The simple-display has a limitation:  If two entries for a headword
+  are far apart, only the first (based on L-number) appears in the 
+  list (hierarchy) pane; UI provides no way to recenter the hierarchy for the second one.
+  By contrast, this hierarchy-recentering feature is present in the list display.
+    The list display does not show 'a','b' pseudo-homonyms in hierarchy pane.
+  Example: in MW, headword Seza (slp1).
+
+* TODOy Case 25: 11/03/2024 dict=MW, L=5238.2, hw=anarman, user=srhodes
+old = Two Headwords (looking alike)
+new = I am uncertain whether the two Headwords "anarman" should be further distinguished in the Hierarchy List. The Eytmology (parsing) of course is different, and I see that the "accent" as well is different. However, the appearance in the Hierarchy list remains identical. Should the letter "a" and the letter "b" be added for distinguishing a difference between the two?
+comment = Two Headwords (looking alike)
+status = PENDING
+
+**Jim comment: NO CHANGE
+ Hierarchy list shows circle-R and circle-S. No need for 'a', 'b'
+
+------------------------------------------------------------------------
+
+* TODOx Case 34: 11/04/2024 dict=MW, L=4711.1, hw=adhyeya, user=srhodes
+old = Number 2 Missing in Hierarchy List
+new = Please note that this Headword is specifically "a-dhyeya 2", and obviously parsed beginning with the negative particle "a"; it is also obviously to be distinguished from "adhyeya 1" which derives from "adhi-√i". Therefore, I recommend that the number "2" be displayed in the Hierarchy List.
+comment = Number 2 Missing in Hierarchy List  
+status = PENDING
+
+**Jim comment:   
+ Jim Also see next case
+     <L>4509<pc>22,3<k1>aDyetavya<k2>aDy-etavya<e>2 for context
+  <L>4510<pc>1310,3<k1>aDyeya<k2>aDyeya<h>1<e>2   hierarchy 1-S
+  <L>4510.01<pc>22,3<k1>aDyeya<k2>aDy-eya<h>1<e>2
+
+     <L>4711<pc>23,3<k1>aDyeD<k2>aDy-eD<e>1   for context
+  <L>4711.1<pc>1310,3<k1>aDyeya<k2>a-Dyeya<h>2<e>1  Hierarchy 2-S
+hierarchy shows 
+   
+
+changes:  Hierarchy is ok. 
+   In 4510.01  remove "<h>1"  (<h>1 is in 4510)
+   
+   In simple search, '2' is not visible or accessible, 
+   since 4711.1 is in a different location.
+   In the Advanced search (http://localhost/cologne/mw/web/webtc1/index.php)
+     We can navigate to the 4711.1 
+  
+------------------------------------------------------------------------
+
+* TODOy Case 35: 11/04/2024 dict=MW, L=4511.1, hw=adhyeya, user=srhodes
+old = Number 1 Missing in Hierarchy List
+new = Please note that this Headword is specifically "adhyeya 1" deriving from "adhi-√i", and it is obviously to be distinguished from "adhyeya 2" which is parsed beginning with the negative particle "a". Therefore, I recommend that the number "1" be displayed in the Hierarchy List. ALSO, Please note that this Headword "adhyeya 1" belongs to the existing Main Entry "adhy-eya, mfn. to be read. [ID=4510]", and therefore the Supplemental Addition "adhyeya 1" should NOT be separated from the primary Main Entry in the Hierarchy List. As you will see, currently, the Headword "adhyetṛ  [ID=4511]" COMES BETWEEN the Doubly Listed Headword "adhyeya". So, I am recommending three things to be done: 1) Be sure that the two Headwords "adhyeya" (listed twice) follow each other without interruption by the Headword "adhyetṛ";  2) You may even consider to eliminate the Double Listing of the Headword "adhyeya" since it is actually one and the SAME word deriving from "adhi-√i", simply with the addition of a Supplemental Definition;  3) I also suggest specifically marking this now singular occurence of "adhyeya" as "adhyeya 1" (with the number 1 in the Hierarchy Display) so as to distinguish it from the Homonym "adhyeya 2" which is parsed beginning with the negative particle "a". The fact is this: BOTH the Main Entry as well as the Supplement specifically refer to "adhyeya 1" as distinguished from "adhyeya 2" which is parsed beginning with the negative particle "a".
+comment = Number 1 Missing in Hierarchy List
+status = PENDING
+
+**Jim comment: hierarchy shows the 1
+------------------------------------------------------------------------
+
+* TODOx Case 36: 11/04/2024 dict=MW, L=4509, hw=adhyetavya, user=srhodes
+old = Letter "a" Missing in Hierarchy List
+new = I am proposing to add the letter "a" to this primary listing of the Headword "adhyetavya".
+comment = Letter "a" Missing in Hierarchy List
+status = PENDING
+
+**Jim comment: 
+  Add <info hui="a"/>
+  A change to simple display so it shows "a"
+------------------------------------------------------------------------
+
+* TODOx Case 37: 11/04/2024 dict=MW, L=4710, hw=adhyetavya, user=srhodes
+old = Letter "b" Missing in Hierarchy List
+new = I am proposing to add the letter "b" to this secondary listing of the Headword "adhyetavya" which is merely a "pointer" to the Main Entry definition which is properly placed according to its Etymological derivation.
+comment = Letter "b" Missing in Hierarchy List
+status = PENDING
+
+**Jim comment: added <info hui="b"/>
+   But in simple-display search for aDyetavya,  this is inaccessible.
+------------------------------------------------------------------------
+
+* TODOy Case 72: 11/06/2024 dict=MW, L=3543.3, hw=atharī, user=srhodes
+old = Headword Listed Twice
+new = DELETE the second indented listing of this Headword, and simply mark the FIRST occurrence (which is identical in all respects) with the "circle-S" symbol.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: NO CHANGE.  
+------------------------------------------------------------------------
+
+* TODOy dup Case 73: 11/06/2024 dict=MW, L=3543.3, hw=atharī, user=srhodes
+old = Headword Listed Twice
+new = DELETE the second indented listing of this Headword, and simply mark the FIRST occurrence (which is identical in all respects) with the "circle-S" symbol.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOy Case 74: 11/06/2024 dict=MW, L=3527, hw=atrasnu, user=srhodes
+old = Headword Missing!
+new = Please note this GROUPING: a-trasnu [ŚBr.; Ragh. xiv, 47 ] or a-trāsa mfn. fearless. [ID=3527]. The Headword "atrāsa" must be listed in the Hierarchy List! (kaching!)
+comment = Headword Missing!
+status = PENDING
+
+**Jim comment: atrāsa is in the H-L
+------------------------------------------------------------------------
+
+* TODOx Case 77: 11/06/2024 dict=MW, L=2860, hw=atihasita, user=srhodes
+old = Headword Double Listing
+new = Please DELETE the second occurrence of the Headword “atihasita” which follows the Headword “atihāsa”. Then modify the supplemental definition under the First Headword “atihasita” to read as follows: “atihasita, n. (in rhet.) excessive or foolish laughter, Sāh. [ID=2860 sup]”. Finally, include the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. (kaching!)
+comment = Headword Double Listing
+status = PENDING
+
+**Jim comment:  I changed to get the two atihasita next to each other.
+  The further re-writing not done
+old:
+<L>2859<pc>13,1<k1>atihasita<k2>ati—hasita<e>3
+<s>ati—hasita</s>, <lex>n.</lex> or <s>ati—hAsa</s>, <lex>m.</lex> ¦ excessive laughter.
+<LEND>
+<L>2859.1<pc>13,1<k1>atihAsa<k2>ati—hAsa<e>3
+{{Lbody=2859}}
+<LEND>
+<L>2860<pc>1310,1<k1>atihasita<k2>ati-hasita<e>3
+¦ (in <ab>rhet.</ab>) excessive or foolish laughter, <ls>Sāh.</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>2859<pc>13,1<k1>atihasita<k2>ati—hasita<e>3
+<s>ati—hasita</s>, <lex>n.</lex> or <s>ati—hAsa</s>, <lex>m.</lex> ¦ excessive laughter.
+<LEND>
+<L>2859.1<pc>1310,1<k1>atihasita<k2>ati-hasita<e>3
+¦ (in <ab>rhet.</ab>) excessive or foolish laughter, <ls>Sāh.</ls><info n="sup"/>
+<LEND>
+<L>2860<pc>13,1<k1>atihAsa<k2>ati—hAsa<e>3
+{{Lbody=2859}}
+<LEND>
+
+
+------------------------------------------------------------------------
+
+* TODOy Case 80: 11/06/2024 dict=MW, L=3140.1, hw=atimukti, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that we have caught another escapee (from Jim's automated correction).
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**Jim comment: NO CHANGE - the supplement is in the 'b' variant, but this
+   is not visible in simple-search hierarchy (3140 too far from 2738 (the
+   first atimukti) to show in the hierarchy list.  
+   In the list display,  both are accessible via the 'arrow' 
+   But the 'a' and 'b' do not show in list display -- this was a choice
+   made in 2024.
+   
+------------------------------------------------------------------------
+
+* TODOy dup Case 81: 11/06/2024 dict=MW, L=3140.1, hw=atimukti, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that we have caught another escapee (from Jim's automated correction).
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOy Case 83: 11/07/2024 dict=MW, L=2693, hw=atiprasaṅga, user=srhodes
+old = Headword Listed Twice
+new = 1) Eliminate One of the Repeated Headwords ; 2) Retain the "circle-S" symbol ; 3) Correct the Supplemental Definition to read: "ati-pra-saṅga, m. (also) too much diffuseness, Veṇīs.; Rājat."
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: cdsl can't do this, since 2690.1 is an alternate headword.
+ 
+------------------------------------------------------------------------
+
+* TODOx Case 84: 11/07/2024 dict=MW, L=2915.1, hw=atikṛti, user=srhodes
+old = Headword Listed Twice
+new = 1) Eliminate One of the Repeated Headwords ; 2) Retain the "circle-S" symbol and Definitions. I checked both the Main Entry and the Supplement, and I did not find any difference of a printed accent.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: 
+1. Remove <info hui="a"/> from 2916.1
+2. The removal, etc. can't be done since 2916 is part of an
+    alternate headword with aBikfti
+------------------------------------------------------------------------
+
+* TODOy Case 92: 11/08/2024 dict=MW, L=1994, hw=ajaloman, user=srhodes
+old = Headword Listed Twice
+new = I recommend eliminating the second instance of the word "ajaloman". There is no need to repeat this Headword Twice. Also, please include the "circle-S" Symbol to the right side of the FIRST instance of this Headword in the Hierarchy List Display.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: NO CHANGE
+  This is similar to previous - what to call it?
+  Alternate-headwords + sup
+------------------------------------------------------------------------
+
+* TODOy dup Case 93: 11/08/2024 dict=MW, L=1994, hw=ajaloman, user=srhodes
+old = Headword Listed Twice
+new = I recommend eliminating the second instance of the word "ajaloman". There is no need to repeat this Headword Twice. Also, please include the "circle-S" Symbol to the right side of the FIRST instance of this Headword in the Hierarchy List Display.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOy Case 95: 11/08/2024 dict=MW, L=72374.1, hw=acaramavayas, user=srhodes
+old = Supplement or Revision?
+new = It is probably OK, but since we are being thorough, it is worth a quick second look. It appears that in the annexure, "detail" has simply been added to the definition along with a possible "broadening" of the source reference beyond the scope of a "limited" section.
+comment = Supplement or Revision?
+status = PENDING
+
+**Jim comment: NO CHANGE  Let each user decide.
+------------------------------------------------------------------------
+
+* TODOy Case 96: 11/08/2024 dict=MW, L=1771.1, hw=acakravarta, user=srhodes
+old = see cakra-vṛtta
+new = (for acakravṛtta) mfn. not turned on a potter's wheel, ĀpŚr. vi, 3, 7
+comment = Typo – Please note that this is a suggested "print change" according to how I do things. I know that we have addressed this before, but I have forgotten how you will resolve this. Probably you leave things as they are, but for good measure this is my position: The supplemental definition given is simply a direction pointing within the Main Entry itself! Why bother with such circuitousness?! As you know, "I prefer sākṣāt !".
+status = PENDING
+
+**Jim comment: NO CHANGE.  at this time, cdsl is not trying to rewrite MW. 
+------------------------------------------------------------------------
+
+* TODOy Case 98: 11/08/2024 dict=MW, L=1754, hw=aṅghāri, user=srhodes
+old = Revision Recheck
+new = This revision appears to add nothing new, but then I noticed that there may be a modification in the accent! However, I do not see any accent shown in MW online, even when I select 'Show Accents'.
+comment = Revision Recheck
+status = PENDING
+
+**Jim comment: NO CHANGE.  The accent is there in the revision.
+   To see it, you need to have IAST or SLP1 output - accents are
+   not shown in MW Devanagari (a cdsl choice made a couple of years ago)
+------------------------------------------------------------------------
+
+* TODOx Case 101: 11/08/2024 dict=MW, L=1730, hw=aṅgulisaṃdaṃśa, user=srhodes
+old = Revision Update
+new = Please note that the original definition MUST be 'crossed out', YET displayed in MW Dictionary online. 
+I consider this Revision to be 'dangerous' and actually an error! 
+As Andhrabharati has noted, "Scott likes to check other dictionaries: Apte, Shabda etc." I check other dictionaries because for my own dictionary I am integrating all information from all reliable sources.
+ The word "aṅgulisaṃdeśa" which has been revised by Monier-Williams is spelled by Apte and Shabda as "aṅgulisandeśa". If we look up the word "saṃdeśa or sandeśa" and then "integrate" the meaning of the compound "aṅgulisaṃdeśa", we will find that this is a LEGITIMATE word in the Sanskrit Language and should NOT be cancelled! 
+In fact I am shocked at the audacity of Monier-Williams! I have heard it said that in the Sanskrit Language there exist Two Million manuscripts that predate the printing press, whereas in the Greek Language the number is a mere twenty thousand. I would like to meet someone who has read all two million manuscripts! Therefore, speaking metaphorically, I take the entire Sanskrit Language as "ākṛtigaṇa" and I do not "close the door" on any possible (and legitimate) word. In fact the masters of language are allowed to 'coin' words (even at times in violation of the rules of grammar). All this being said, for my own dictionary I include both words "aṅgulisaṃdaṃśa" AND "aṅgulisandeśa or aṅgulisaṁdeśa" with a slight variation in meaning according to the "uttarapada" (in each case).
+comment = Revision Update
+status = PENDING
+
+**Jim comment: 
+  the revision on 1309,2
+  <s>-saMdeSa</s> (read <s>-saMdaMsa</s>)
+  NOTE:  a print error: saMdaMsa  should be saMdaMSa  (cf pd, pw)
+1730 old:
+<L>1730<pc>8,2<k1>aNgulisaMdaMSa<k2>aNguli—saMdaMSa<e>3
+<s>aNguli—saMdaMSa</s> ¦ <lex>m.</lex> snapping or cracking the fingers as a sign. <info n="rev" pc="1309,2"/><info lex="m"/>
+<LEND>
+
+new:  Since more dictionaries have aNgulisaMdeSa, 
+  and since MW print has saMdeSa,  let that be the headword.
+  include (read <s>-saMdaMsa</s>) marked as a chg.
+<L>1730<pc>8,2<k1>aNgulisaMdeSa<k2>aNguli—saMdeSa<e>3
+<s>aNguli—saMdeSa</s> ¦ <chg type="chg" n="1" src="mw"><old></old><new>(read <s>-saMdaMSa</s>)</new></chg> <lex>m.</lex> snapping or cracking the fingers as a sign. <info n="rev" pc="1309,2"/><info lex="m"/>
+<LEND>
+
+Note: In display we see in red: [Correction: ... ]
+    Maybe it should be [Revision: ... ] ?
+**pc: 1730<pc>8,2<k1>aNgulisaMdaMSa : aNgulisaMdaMSa : aNgulisaMdeSa : revert headword spelling to agree with print on page 8
+------------------------------------------------------------------------
+
+* TODOy Case 102: 11/09/2024 dict=MW, L=216845, hw=śiñj, user=srhodes
+old = [Cf. collateral √siñj.]
+new = I do not find the root "√siñj" to be anywhere other than here, in this singular citation. I am uncertain if this is a problem? Please comment.
+comment = Typo or Intentional?
+status = PENDING
+
+**Jim comment: NO CHANGE pw, sch, cae have siYj as variant spelling
+------------------------------------------------------------------------
+
+* TODOx Case 106: 11/09/2024 dict=MW, L=1523.1, hw=aṅgakriyā, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that we have caught another escapee (from Jim's automated correction).
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**Jim comment:  With following change, we get 
+  2 aNgakriyA records in hierarch, the second one with circle-s.
+  Lbody-sup conflict prevents only one entry not possible
+old: <L>1523.1<pc>1309,2<k1>aNgakriyA<k2>aNga—kriyA<e>3A
+new: <L>1523.1<pc>1309,2<k1>aNgakriyA<k2>aNga—kriyA<e>3
+------------------------------------------------------------------------
+
+* TODOy Case 107: 11/09/2024 dict=MW, L=1469, hw=aṅkura, user=srhodes
+old = No Revision!
+new = Please note that technically  speaking this is NOT a revision. Also, as you can see in the Display Window there is no Revision being indicated. What we find in the Annexure is the following Supplementary Additions: “1. Aṅkura (in comp.)”; then of course the proper following compounds; “2. Aṅkura” which itself has been correctly added to the Main Entry. What is to be done here?
+ LB —I propose that "1. Aṅkura" be marked as a "print change" and left exactly as it is, of course with the deletion of the "circle-R" Symbol.
+ LB ——This also touches on another point raised recently by Andhrabharati regarding “compound” headings in the annexure. This is my view on the matter:  In cases like "aṅkura", since the Headword already exists in the Main Entry, there is no need to add the additional “aṅkura” from the annexure that precedes the Supplemental compounds, because this will be obious from the proper placement after the existing Headword “Aṅkura” in the Main Entry. In such cases, the “Aṅkura’” heading in the annexure is ONLY serving the purpose of indicating the “pūrvapada” for the following supplementary compounds, but this is already obvious in the Main Entry by the very fact of the Existing Headword “Aṅkura”. I suggest that we ONLY add the “pūvapada” Compound Headword from the annexure into the Main Entry in cases where it simply does not already exist, which of course is less common, but then such a Supplementary Insertion into the Main Entry will be required to make clear the “pūrvapada” Compound Headword and following compounds which will all be inserted from the annexure into the Main Entry and marked accordingly.
+comment = No Revision!
+status = PENDING
+
+**Jim comment: NO CHANGE 
+currently 
+1469 (hom 1) m. a sprout,..., a tumour 
+1470 a hair
+1471 blood
+1472 water
+1473 (hom 2) Nom. P. °rati, to shoot, sprout, bud  SUP
+The hierarch looks right. 
+
+------------------------------------------------------------------------
+
+* TODOy Case 108: 11/09/2024 dict=MW, L=1427.05, hw=aṅka, user=srhodes
+old = Supplement Window Display Adjustment
+new = I consider this to be a SINGLE supplement which should NOT be split into two parts. The "opening statement" is: "a kind of regnal year (used in Orissa and usually spoken of as Onko year"; Then the explanation follows (without any break in the annexure): "
+ LB the peculiarity of it is etc." [ID=1427.1 sup]. I would treat this as a SINGLE Supplementary entry; However, if you prefer to split this into two parts, perhaps an adjustment could be made in the Window Display so that the two parts appear more cohesive (to match the annexure itself).
+comment = Supplement Window Display Adjustment
+status = PENDING
+
+**Jim comment: NO CHANGE.  
+  I don't see the problem. I see only 1 entry that looks like
+  the annexure.
+
+------------------------------------------------------------------------
+
+* TODOx Case 118: 11/09/2024 dict=MW, L=1212.1, hw=agra, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that we have caught another escapee (from Jim's automated correction).
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**Jim comment: 
+added '<listinfo n="sup"/>' to the first agra (L=1192)
+------------------------------------------------------------------------
+
+* TODOy Case 119: 11/09/2024 dict=MW, L=1212.1, hw=agra, user=srhodes
+old = Supplemental Definition Placement
+new = You may choose to relocate this Supplemental definition within the Window Display. As Andhrabharati has indicated: "It is the general practice to put the 〔m.〕 entries first, then 〔f.〕 entries and thereafter the 〔n.〕 entries within the "stem-group" blocks as siblings (of course, this stem-group would also contain 〔mfn.〕 entries mostly at the beginning and the 〔ind.〕 entries mostly at the ending of the group), irrespective (!) of their alphabetical ordering".
+comment = Supplemental Definition Placement
+status = PENDING
+
+**Jim comment: NO CHANGE. The 'sup' record is now at 1207.1,
+  after all the 'n.' forms
+------------------------------------------------------------------------
+
+* TODOx Case 143: 11/10/2024 dict=MW, L=851, hw=agótā, user=srhodes
+old = (a gó)
+new = (a-gó-)
+status = PENDING
+
+**Jim comment: The '-' are present, maybe from prior change.
+ removed '<listinfo n="sup"/>' (agotA not from supplement)
+------------------------------------------------------------------------
+
+* TODOx Case 147: 11/10/2024 dict=MW, L=876, hw=agocara, user=srhodes
+old = Revision Recheck
+new = Please note that the revision states: “insert m. after ‘Brahma’. Now, the question is: "what is meant and intended here?" The specification "m." can mean two things: 1) it can signify the masuline gender, which in this case is impossible because the "Brahma" being referenced is either "Brahma neuter" OR "Brahman neuter", but definitely NOT "Brahma or Brahman" masculine. The fact is that "the {Supreme/impersonal} Spirit" is being intended here and that is ALWAYS in the neuter gender; Also, the neuter gender should carry through to the end of the definition: there should be no change to "masculine". 2) So does MW desire to change "Brahma" to read "Brahmam" in order to make explicit the neuter Gender Definition?
+comment = Revision Recheck
+status = PENDING
+
+**Jim comment: 
+Annexure text page 1309,1:  
+ "insert m. after 'Brahma;' 
+In text page 5,1  There is only one instance of 'Brahma':
+  "(am), n. anthing that is beyond the cognizance of the senses;
+   Brahma; the not being seen, absence;"  
+So the revision must mean that the new text should insert "m."
+   "Brahma; m. the not being seen, absence;"
+
+Now, to change cdsl coding:
+
+old:
+<L>876<pc>5,1<k1>agocara<k2>a-gocara<e>1B
+¦ <chg type="chg" n="1" src="mw"><old><s1>Brahma</s1></old><new><s1>Brahma</s1> <lex type="nhw">m.</lex></new></chg><info lex="inh"/><info n="rev" pc="1309,1"/>
+<LEND>
+<L>877<pc>5,1<k1>agocara<k2>a-gocara<e>1B
+¦ the not being seen, absence<info lex="inh"/>
+<LEND>
+
+new:
+<L>876<pc>5,1<k1>agocara<k2>a-gocara<e>1B
+¦ <s1>Brahma</s1> 
+<LEND>
+<L>877<pc>5,1<k1>agocara<k2>a-gocara<e>1B
+¦ <lex>m.</lex> the not being seen, absence<info lex="m"/><info n="rev" pc="1309,1"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 156: 11/11/2024 dict=MW, L=592.2, hw=akṣara, user=srhodes
+old = Revision NOT Supplement
+new = Please Carry Out the Command:  "(erase ‘Achyranthes Aspera’) [ID=592.2 sup]". Also, change "sup" to "rev" and ADD the "circle-R" Symbol in the Hiearchy List, but remember there is also a Supplementary addition here, so this Headword will have BOTH "S" and "R". Also, please consider:  It is interesting to note that APTE retains the definition: "N. of a plant, Achyranthes Aspera. (अपामार्ग Mar. अघाडा.)". I am wondering if Andhrabharati has anything to say in this regard?
+comment = Revision NOT Supplement
+status = PENDING
+
+**Jim comment:   
+Handled the erasure, and marked the rev.
+BUT don't know how to get the circle-R
+
+old:
+<L>592<pc>3,3<k1>akzara<k2>a-kza/ra<e>1B
+¦ <bot>Achyranthes Aspera</bot>.<info lex="inh"/>
+<LEND>
+<L>592.1<pc>1308,2<k1>akzara<k2>a-kzara<e>1B
+<s>a-kzara</s> ¦ (also) <lex>m.</lex> <ab>N.</ab> of a <s1>Sāman</s1>, <ls>ĀrṣBr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+<L>592.2<pc>1308,2<k1>akzara<k2>a-kzara<e>1B
+<s>a-kzara</s> ¦ (erase ‘Achyranthes Aspera’)<info n="sup"/>
+<LEND>
+
+new: 
+<L>592<pc>3,3<k1>akzara<k2>a-kza/ra<e>1B
+¦ <chg type="del" n="1" src="mw"><old><bot>Achyranthes Aspera</bot></old></chg><info n="rev" pc="1308,2"/>
+<LEND>
+<L>592.1<pc>1308,2<k1>akzara<k2>a-kzara<e>1B
+<s>a-kzara</s> ¦ (also) <lex>m.</lex> <ab>N.</ab> of a <s1>Sāman</s1>, <ls>ĀrṣBr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+BLANK LINE
+BLANK LINE
+BLANK LINE
+
+------------------------------------------------------------------------
+
+* TODOy Case 157: 11/11/2024 dict=MW, L=572, hw=akṣayiṇī, user=srhodes
+old = Ammend Revision (with Cross Out)
+new = It is interesting to note that APTE retains the original MW definition by stating: "[akṣayiṇī], Pārvatī". In this regard, I suggest that MW online retains the original definition with the "cross-out line", so that readers can "see the whole picture" and make an informed decision. I am wondering if Andhrabharati has anything to say in regard to APTE's definition: "[akṣayiṇī], Pārvatī".
+comment = Ammend Revision (with Cross Out)
+status = PENDING
+
+**Jim comment: NO CHANGE.  cross out Previously done
+------------------------------------------------------------------------
+
+* TODOy dup Case 158: 11/11/2024 dict=MW, L=572, hw=akṣayiṇī, user=srhodes
+old = Amend Revision (with Cross Out)
+new = It is interesting to note that APTE retains the original MW definition by stating: "[akṣayiṇī], Pārvatī". In this regard, I suggest that MW online retains the original definition with the "cross-out line", so that readers can "see the whole picture" and make an informed decision. I am wondering if Andhrabharati has anything to say in regard to APTE's definition: "[akṣayiṇī], Pārvatī".
+comment = Amend Revision (with Cross Out)
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOy dup Case 159: 11/11/2024 dict=MW, L=572, hw=akṣayin, user=srhodes
+old = Amend Revision (with Cross Out)
+new = It is interesting to note that APTE retains the original MW definition by stating: "[akṣayiṇī], Pārvatī". In this regard, I suggest that MW online retains the original definition with the "cross-out line", so that readers can "see the whole picture" and make an informed decision. I am wondering if Andhrabharati has anything to say in regard to APTE's definition: "[akṣayiṇī], Pārvatī".
+comment = Amend Revision (with Cross Out)
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOx Case 163: 11/11/2024 dict=MW, L=669, hw=akṣanvat, user=srhodes
+old = Homonym Reconsideration  (see case 162 above)
+new = I see the following on the printed page: 
+ LB 1. a-kṣaṇvat mfn. (√kṣan), not injuring, ĀśvGṛ. [ID=541]
+ LB 2. akṣan—vat mfn. having eyes, RV. [ID=669]
+ LB (for 1. See col. 2.) [ID=670]
+ LB ←  (H3) [Printed book page 1308,2]
+ LB akṣan-vat see akṣaṇ-vat. [ID=670.1 sup]
+ LB HOWEVER, this all seems a bit questionable. The "supposed" Homonyms have DIFFERENT spellings! Therefore, I do not consider them to be TRUE Homonyms. In my opinion, I would DELETE the Supplement: "akṣan-vat see akṣaṇ-vat. [ID=670.1 sup]" which simply exacerbates the issue. Then I would remove the number "1" and "2" from "1. akṣaṇvat [ID=541] AND 2. akṣan—vat [ID=669]" AND mark this as a "print change". Here is an analogy in the English Language: the word "rite" AND "right" are obviously NOT Homonyms. Same in Sanskrit! In fact The Sanskrit Language prides itself on detail, and therefore I am simply appalled at the MW analysis here.
+comment = Homonym Reconsideration
+status = PENDING
+
+**Jim comment: It's simpler than that: 
+  The 2nd homonym akṣan—vat is a print error and should be akṣaṇ—vat
+  pd has both these senses.  Most koshas show 'having eyes' under
+  akzaRvat
+
+old:
+<L>541<pc>3,2<k1>akzaRvat<k2>a-kzaRvat<e>1
+<s>a-kzaRvat</s> ¦ <lex>mfn.</lex> (√ <s>kzan</s>), not injuring, <ls>ĀśvGṛ.</ls><info lex="m:f:n"/>
+<LEND>
+
+<L>669<pc>3,3<k1>akzanvat<k2>akzan—va/t<h>2<e>3
+<hom>2.</hom> <s>akzan—va/t</s> ¦ <lex>mfn.</lex> having eyes, <ls>RV.</ls><info lex="m:f:n"/>
+<LEND>
+<L>670<pc>3,3<k1>akzanvat<k2>akzan—va/t<e>3A
+¦ (for <hom>1.</hom> See <ab>col.</ab> 2.)<info lex="inh"/>
+<LEND>
+<L>670.1<pc>1308,2<k1>akzanvat<k2>akzan-vat<e>3
+<s>akzan-vat</s> ¦ see <s>akzaR-vat</s>.<info n="sup"/><info hui="b"/>
+<LEND>
+
+new:
+L=541 is hom=1; L=669 is hom=2; L=670 headword print change
+L=670.1  a pointer from akzanvat to akzaRvat; remove <info hui="b"/> 
+
+
+<L>541<pc>3,2<k1>akzaRvat<k2>a-kzaRvat<h>1<e>1
+<hom>1.</hom> <s>a-kzaRvat</s> ¦ <lex>mfn.</lex> (√ <s>kzan</s>), not injuring, <ls>ĀśvGṛ.</ls><info lex="m:f:n"/>
+<LEND>
+
+<L>669<pc>3,3<k1>akzaRvat<k2>akzaR—va/t<h>2<e>3
+<hom>2.</hom> <s>akzaR—va/t</s> ¦ <lex>mfn.</lex> having eyes, <ls>RV.</ls><info lex="m:f:n"/>
+<LEND>
+<L>670<pc>3,3<k1>akzaRvat<k2>akzaR—va/t<e>3A
+¦ (for <hom>1.</hom> See <ab>col.</ab> 2.)<info lex="inh"/>
+<LEND>
+<L>670.1<pc>1308,2<k1>akzanvat<k2>akzan-vat<e>3
+<s>akzan-vat</s> ¦ see <s>akzaR-vat</s>.<info n="sup"/>
+<LEND>
+
+**pc: <L>669<pc>3,3<k1>akzanvat : akzanvat : akzaRvat : headword change
+**pc: <L>670<pc>3,3<k1>akzanvat : akzanvat : akzaRvat : headword change
+------------------------------------------------------------------------
+
+* TODOx Case 164: 11/11/2024 dict=MW, L=669, hw=akṣanvat, user=srhodes
+old = PROBLEM SOLVED
+new = APTE has solved the mystery. This Headword in MW Dictionary is Spelled Incorrectly! I have checked the actual ṚgVeda Citation! Please enjoy the following: "Having eyes; akṣaṇvaṃtaḥ karṇavaṃtaḥ Rv. 10. 71. 7." This is direct from the Veda, and I do not recommend changing the spelling as MW Dictionary has done. Therefore, this word is correctly a Homonym, but it must be spelled as "akṣaṇvat" which is DIRECT from the Ṛgveda, and which MW dictionary is itself referencing. Therefore this spelling error MUST be corrected and marked as a "print change". I am taking a break! (Super-Duper-kaching!)
+comment = PROBLEM SOLVED
+status = PENDING
+
+**Jim comment: See my comment under 163
+------------------------------------------------------------------------
+
+* TODOx Case 165: 11/11/2024 dict=MW, L=669, hw=akṣanvat, user=srhodes
+old = ONE FINAL NOTE
+new = I see that on the printed page this Headword is listed as "akṣan—vat". The important point to note is the following: the pūrvapada "akṣan" correctly ends in a dental letter "n", however due to Sandhi rules, when the affix "vat" is added the dental letter "n" MUST be changed to the cerebral letter "ṇ" giving the word "akṣaṇvat". But in fact the word was not printed "in full" on the printed page. So the "error" has officially occurred only in MW online where headwords are spelled out in full, and this of course requires proper Sandhi rule application. I still consider this Supplement from the annexure: "akṣan-vat see akṣaṇ-vat. [ID=670.1 sup]" TO BE Confusing, misleading and not helpful; therefore I would simply ommitt it from MW online and mark as a "print change"; THAT reminds of role call, where the (mūḍha) teacher says, "Please raise your hand if your are not present!" (LOL)
+ LB How do you mark a "print change" when it has been removed all together?
+comment = ONE FINAL NOTE
+status = PENDING
+
+**Jim comment: See my comment case 163
+------------------------------------------------------------------------
+
+* TODOx Case 166: 11/11/2024 dict=MW, L=405, hw=akrūra, user=srhodes
+old = Headword Listed Twice
+new = Please note that the Headword "akrūra [ID=405]" has been listed TWICE. I think that once is enough. 
+The annexure reads: "á-krūra (ŚBr.) [ID=408.1 sup]". 
+So the accent appears to be different here, but it should be able to be included with the first instance of "akrūra [ID=405]" and marked with the "circle-S" symbol. 
+The second listing of "akrūra [ID=405]" which follows after the first listing of the Headword  "akrodha [ID=407]" should be deleted. 
+Also, please note that the Window Display listing of "ákrūra (ŚBr.) [ID=408.2 sup]" should be DELETED altogether and Please note that IT OCCURS TWICE under both listings of the Doubly Listed Headword "akrodha [ID=407]".  I do see that there may be some sort of a group here as the annexure reads: "A-krūra, A-krodha (ŚBr.)" (with appropriate accent), however these Supplemental Additions can each be added to their existing Headword which follow each other in the Main Entry, anyway. But they do not need to be added each to the other. LASTLY AND VERY IMPORTANT: The Supplemental Addition of "ákrūra" has been listed FOUR times: 
+ LB 1-2) TWICE AS: "á-krūra (ŚBr.) [ID=408.1 sup]" (appearing in BOTH Window Displays of the DOUBLE listing of the Headword "akrūra [ID=405]").
+ LB 3-4) TWICE AS: "á-krūra (ŚBr.) [ID=408.2 sup]" (appearing in BOTH Window Displays of the DOUBLE listing of the Headword "akrodha [ID=407]"). 
+ LB *****(Super-Duper-kaching!)
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: Changed as follows, handles both akrUra and akroDa
+
+old:
+<L>405<pc>3,1<k1>akrUra<k2>a-krUra<e>1
+<s>a-krUra</s> ¦ <lex>mfn.</lex> not cruel, gentle<info lex="m:f:n"/>
+<LEND>
+<L>406<pc>3,1<k1>akrUra<k2>a-krUra<e>1B
+<s>a-krUra</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Kṛṣṇa</s1>'s paternal uncle, <ls>MBh.</ls><info lex="m"/>
+<LEND>
+<L>407<pc>3,1<k1>akroDa<k2>a-kroDa<e>1
+<s>a-kroDa</s> ¦ <lex>m.</lex> suppression of anger<info lex="m"/>
+<LEND>
+<L>408<pc>3,1<k1>akroDa<k2>a-kroDa<e>1B
+<s>a-kroDa</s> ¦ <lex>mfn.</lex> free from anger.<info lex="m:f:n"/>
+<LEND>
+<L>408.1<pc>1308,2<k1>akrUra<k2>a/-krUra<e>1
+<s>a/-krUra</s> ¦ (<ls>ŚBr.</ls>) <info n="sup"/>
+<LEND>
+<L>408.2<pc>1308,2<k1>akroDa<k2>a/-kroDa<e>1
+{{Lbody=408.1}}
+<LEND>
+
+new:
+<L>405<pc>3,1<k1>akrUra<k2>a-krUra<e>1
+<s>a-krUra</s> ¦ <lex>mfn.</lex> not cruel, gentle<info lex="m:f:n"/><listinfo n="sup"/>
+<LEND>
+<L>406<pc>3,1<k1>akrUra<k2>a-krUra<e>1B
+<s>a-krUra</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Kṛṣṇa</s1>'s paternal uncle, <ls>MBh.</ls><info lex="m"/>
+<LEND>
+<L>406.1<pc>1308,2<k1>akrUra<k2>a/-krUra<e>1B
+<s>a/-krUra</s> ¦ (<ls>ŚBr.</ls>) <info n="sup"/>
+<LEND>
+<L>407<pc>3,1<k1>akroDa<k2>a-kroDa<e>1
+<s>a-kroDa</s> ¦ <lex>m.</lex> suppression of anger<info lex="m"/><listinfo n="sup"/>
+<LEND>
+<L>408<pc>3,1<k1>akroDa<k2>a-kroDa<e>1B
+<s>a-kroDa</s> ¦ <lex>mfn.</lex> free from anger.<info lex="m:f:n"/>
+<LEND>
+<L>408.1<pc>1308,2<k1>akroDa<k2>a/-kroDa<e>1B
+<s>a/-kroDa</s> ¦ (<ls>ŚBr.</ls>) <info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 167: 11/11/2024 dict=MW, L=407, hw=akrodha, user=srhodes
+old = Headword Listed Twice
+new = Please note that the Headword "akrodha [ID=407]" has been listed TWICE. I think that once is enough. The annexure reads: "á-krodha (ŚBr.)". So the accent appears to be different here, but it should be able to be included with the first instance of "akrodha [ID=407]" and marked with the "circle-S" symbol. The second listing of "akrodha [ID=407]" which follows after the first listing of the Headword  "akrūra [ID=405]" should be deleted. Also, please note that the Window Display listing of the Supplemental Addition from the annexure: "ákrodha (ŚBr.)" is ENTIRELY MISSING from MW Online. In place of its absence we find the following Supplemental Addition TWICE: "ákrūra (ŚBr.) [ID=408.1 sup]" AND ALSO the following Supplemental Addition TWICE: "ákrūra (ŚBr.) [ID=408.2 sup]". Please notice the identity between the two DOUBLE LISTINGS with a simple decimal point change in the ID number: "408.1" and "408.2" . So there are FOUR LISTINGS FOR the Supplemental Addition: "ákrūra (ŚBr.)" AND ZERO LISTINGS FOR the Supplemental Addition: "ákrodha (ŚBr.)".
+ LB *****(Super-Duper-kaching!)
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment:  see Case 166
+------------------------------------------------------------------------
+
+* TODOx Case 168: 11/11/2024 dict=MW, L=379.1, hw=akti, user=srhodes
+old = Perhaps a single Indentation?
+new = Also, Perhaps a Placement CORRECTION: Place the Headword "akti" AFTER the Headword ""aktā́ [ID=380]", according to Alphabetical Order.
+comment = Perhaps a single Indentation?
+status = PENDING
+
+**Jim comment:  indentation made, also move akti after aktA
+old:
+<L>379.1<pc>1308,2<k1>akti<k2>akti<e>1C
+<s>akti</s> ¦ <lex>f.</lex> ointment, <ls>L.</ls><info n="sup"/><info lex="f"/>
+<LEND>
+<L>380<pc>2,3<k1>aktA<k2>aktA/<e>2
+<s>aktA/</s> ¦ <lex>f.</lex> night, <ls>RV. i, 62, 8.</ls><info lex="f"/>
+<LEND>
+
+new:
+<L>380<pc>2,3<k1>aktA<k2>aktA/<e>2
+<s>aktA/</s> ¦ <lex>f.</lex> night, <ls>RV. i, 62, 8.</ls><info lex="f"/>
+<LEND>
+<L>380.1<pc>1308,2<k1>akti<k2>akti<e>2
+<s>akti</s> ¦ <lex>f.</lex> ointment, <ls>L.</ls><info n="sup"/><info lex="f"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 169: 11/11/2024 dict=MW, L=379.1, hw=akti, user=srhodes
+old = Window Display Triple Listing!
+new = Please note that the word: "akti f. ointment, L. [ID=379.1 sup]" has been TRIPLY LISTED in the Window Display under the following three Headwords: "1. akta [ID=377]" AND "2. aktá [ID=378]" AND "akti [ID=379.1 sup]". It only needs to be listed ONE TIME under its own Headword.
+comment = Window Display Triple Listing!
+status = PENDING
+
+**Jim comment: Case 168 solves this
+------------------------------------------------------------------------
+
+* TODOx Case 170: 11/11/2024 dict=MW, L=379.1, hw=akti, user=srhodes
+old = 2. aktá mfn. (√añj), smeared over, diffused, bedaubed, tinged, characterized. Often ifc. (cf. raktākta) [ID=378]
+ LB aktá n. oil, ointment. [ID=379]
+new = ENTIRELY DELETE ALL OF THE ABOVE, which has been erroneously placed under the Headword "akti"
+status = PENDING
+
+**Jim comment: Case 168 solves this
+------------------------------------------------------------------------
+
+* TODOy Case 171: 11/11/2024 dict=MW, L=358.1, hw=akṛṣṭa, user=srhodes
+old = Window Display Placement
+new = Please relocate the Supplemental Definition to AFTER the Main Entry Definition: "not drawn [ID=359]".
+comment = Window Display Placement
+status = PENDING
+
+**Jim comment: NO CHANGE -- this was done previously
+------------------------------------------------------------------------
+
+* TODOy Case 174: 11/12/2024 dict=MW, L=205886, hw=vedānta, user=srhodes
+old = See Below
+new = Since the Headword "vedānta" appears Twice in the Hierarchy List: 1) first as a pointer and 2) the official location; I am wondering if the letter "a" and "b" should be used to "mark" the two Headwords such as: "a. vedānta [ID=205886] and  b. vedānta [ID=205943]"
+comment = See Above
+status = PENDING
+
+**Jim comment: NO CHANGE This has been done.  To see the 'b' in simple-search,
+   search for vedAntakataka
+------------------------------------------------------------------------
+
+* TODOy dup Case 175: 11/12/2024 dict=MW, L=205886, hw=vedānta, user=srhodes
+old = See Below
+new = Since the Headword "vedānta" appears Twice in the Hierarchy List: 1) first as a pointer and 2) the official location; I am wondering if the letter "a" and "b" should be used to "mark" the two Headwords such as: "a. vedānta [ID=205886] and  b. vedānta [ID=205943]"
+comment = See Above
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOx Case 180: 11/12/2024 dict=MW, L=97, hw=aṃsadhrī, user=srhodes
+old = Revision (but also retain Main Entry?)
+new = You may choose to retain the Main Entry definition with the "cross-out line". Unless it is absolutely incorrect.
+comment = Revision (but also retain Main Entry?)
+status = PENDING
+
+**Jim comment: NO CHANGE.  
+  text in page 1,2:  f. a cooking vessel, AV
+  annexure:  (read, 'applied to the Vedi'), AV. xi,i,23
+   The revised text
+   f. a cooking vessel, applied to the Vedi, AV. xi,i,23
+old:
+<s>aMsa—DrI/</s> ¦ <lex>f.</lex> ‘applied to the Vedi’, <ls>AV. xi, 1, 23</ls> <info n="rev" pc="1308,1"/><info lex="f"/>
+
+new:
+<s>aMsa—DrI/</s> ¦ <lex>f.</lex> a cooking vessel <chg type="chg" n="1" src="mw"><old><ls>AV.</ls></old><new>applied to the Vedi, <ls>AV. xi, 1, 23</ls> </new></chg> <info n="rev" pc="1308,1"/><info lex="f"/>
+
+
+------------------------------------------------------------------------
+
+* TODOy Case 182: 11/12/2024 dict=MW, L=261992.1, hw=havyā, user=srhodes
+old = 1. havya n. (for 2. See col. 2) anything to be offered as an oblation, sacrificial gift or food (in later language often opp., to kaivya, q.v.), RV.; &c. [ID=261992]
+new = DELETE
+comment = Typo – It does not seem correct to include the definition for the Headword "1. havya" in the Window Display, when in fact the Headword selected for viewing is simply "havyā f.".
+status = PENDING
+
+**Jim comment: NO CHANGE.  
+ display for 'havyA' is now at 262048.3 'f. N. of a cow' -- 
+------------------------------------------------------------------------
+
+* TODOy Case 186: 11/12/2024 dict=MW, L=255804, hw=sthiraśaṅkukarṇa, user=srhodes
+old = Revision Reconsideration
+new = Please note that the Main Entry Definition Reads: "sthira—śaṅku-karṇa mfn. having upright ears like spikes, ib."
+ LB —NOW consider the following equation: "ib." = "short for ibid." = "in the same source (used to save space in textual references to a quoted work which has been mentioned in a previous reference)"
+ LB ——NOW consider the previous word listed in the Main Entry: "sthira—vikrama mfn. taking firm strides, Bcar. [ID=255803]". Please note the source cited: "Bcar.".
+ LB ———THEREFORE, one wonders why bother with this revision which simply changes the abbreviation: "ib." which SERVES THE PURPOSE PERFECTLY, and instead print the REDUNDANT NAMING of the exact same source previously cited: "Bcar.". 
+ LB ————REMEMEBER, Sanskrit Prides Itself on BREVITY, this Revision is a WORDY CONCOCTION that is completely IRRELEVANT when all the facts are examined by one with clear vision.
+comment = Revision Reconsideration
+status = PENDING
+
+**Jim comment: NO CHANGE Agree that 'Bcar.' change is redundant;
+  however  it is good to get rid of one 'ib.'
+sTiravikrama text 
+ p. 1265,1: (main)
+  mfn. having upright ears like spikes, ib.
+ p. 1333,3: (annexure)
+  mfn. having upright ears like spikes, Bcar.
+
+old:
+<L>255804<pc>1265,1<k1>sTiraSaNkukarRa<k2>sTira—SaNku-karRa<e>3
+<s>sTira—SaNku-karRa</s> ¦ <lex>mfn.</lex> having upright ears like spikes, <ls>Bcar.</ls> <info n="rev" pc="1333,3"/><info lex="m:f:n"/>
+<LEND>
+
+
+------------------------------------------------------------------------
+
+* TODOx Case 187: 11/12/2024 dict=MW, L=250674.1, hw=suhemanta, user=srhodes
+old = Headword Listed Twice
+new = I recommend eliminating the second instance of the word "suhemanta". There is no need to repeat this Headword Twice. Also, please include the "circle-S" Symbol to the right side of the FIRST instance of this Headword in the Hierarchy List Display. (kaching!)
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: changed
+old:
+<L>250674<pc>1239,2<k1>suhemanta<k2>su—hemanta<e>3
+<s>su—hemanta</s> ¦ <lex>m.</lex> a good winter, <ls>GṛS.</ls><info lex="m"/><info hui="a"/>
+<LEND>
+<L>250674.1<pc>1333,2<k1>suhemanta<k2>su-hemanta<e>3
+<s>su-hemanta</s> ¦ <lex>mfn.</lex> having a good winter, <ls>MānGṛ.</ls> <info n="sup"/><info lex="m:f:n"/><info hui="b"/>
+<LEND>
+
+new:
+<L>250674<pc>1239,2<k1>suhemanta<k2>su—hemanta<e>3
+<s>su—hemanta</s> ¦ <lex>m.</lex> a good winter, <ls>GṛS.</ls><info lex="m"/><listinfo n="sup"/>
+<LEND>
+<L>250674.1<pc>1333,2<k1>suhemanta<k2>su-hemanta<e>3B
+<s>su-hemanta</s> ¦ <lex>mfn.</lex> having a good winter, <ls>MānGṛ.</ls> <info n="sup"/><info lex="m:f:n"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 191: 11/12/2024 dict=MW, L=238463.1, hw=sarvapūruṣa, user=srhodes
+old = (a house) containing all men, Hir.
+new = -pūruṣa, mfn. (a house) containing all men, Hir.
+comment = Please note that this correction follows the printed text which does specifically mentions this definition used with the long vowel "ū" as "sarvapūruṣa" and NOT "sarvapuruṣa".
+status = PENDING
+
+**Jim comment: 
+
+old:
+<L>238463.1<pc>1333,1<k1>sarvapUruza<k2>sa/rva—pUruza<e>3A
+¦ (a house) containing all men, <ls>Hir.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+
+new:
+<L>238463.1<pc>1333,1<k1>sarvapUruza<k2>sa/rva—pUruza<e>3A
+¦ <s>-pUruza</s>, <lex>mfn.</lex> (a house) containing all men, <ls>Hir.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 192: 11/12/2024 dict=MW, L=238462, hw=sarvapuruṣa, user=srhodes
+old = NO SUPPLEMENT
+new = Please REMOVE the "circle-S" Supplement Symbol for this Headword. The Supplement ONLY applies to the long vowel version: "sarvapūruṣa". This is an interesting case where a "grouping" actually has a subtle nuance that differentiates between the two words. This subtle nuance MUST find scope and not be "blurred" by ativyāpti.
+comment = NO SUPPLEMENT
+status = PENDING
+
+**Jim comment: changed per Scott
+
+old:
+<L>238462<pc>1186,2<k1>sarvapuruza<k2>sa/rva—puruza<e>3
+<s>sa/rva—puruza</s> or <s>sa/rva—pUr°uza</s> ¦ (<s>sa/rva-</s>), <lex>mfn.</lex> having all men &c., <ls>AV.</ls>; <ls>ĀśvŚr.</ls>; <ls>Kauś.</ls><info lex="m:f:n"/><listinfo n="sup"/>
+<LEND>
+<L>238463<pc>1186,2<k1>sarvapUruza<k2>sa/rva—pUruza<e>3
+{{Lbody=238462}}
+<LEND>
+<L>238463.1<pc>1333,1<k1>sarvapUruza<k2>sa/rva—pUruza<e>3A
+¦ <s>-pUruza</s>, <lex>mfn.</lex> (a house) containing all men, <ls>Hir.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+
+new:
+1.238462 remove <listinfo n="sup"/>
+2. interchange 238463 and 238463.1
+<L>238462<pc>1186,2<k1>sarvapuruza<k2>sa/rva—puruza<e>3
+<s>sa/rva—puruza</s> or <s>sa/rva—pUr°uza</s> ¦ (<s>sa/rva-</s>), <lex>mfn.</lex> having all men &c., <ls>AV.</ls>; <ls>ĀśvŚr.</ls>; <ls>Kauś.</ls><info lex="m:f:n"/>
+<LEND>
+<L>238463<pc>1333,1<k1>sarvapUruza<k2>sa/rva—pUruza<e>3
+<s>sa/rva-pUruza</s> ¦ <lex>mfn.</lex> (a house) containing all men, <ls>Hir.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>238463.1<pc>1186,2<k1>sarvapUruza<k2>sa/rva—pUruza<e>3A
+{{Lbody=238462}}
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 194: 11/12/2024 dict=MW, L=235217, hw=samud, user=srhodes
+old = (H2) [Printed book page 1332,3]
+ LB accord. to some = ‘conversation’, AV. viii, 1, 15. [ID=235217.1 sup]
+ LB ←  (H1) [Printed book page 1167,2]
+ LB sa-mud mfn. joyful, glad, Śiś. [ID=235354]
+new = DELETE ALL OF THE ABOVE
+comment = TYPO – Please note that the Headword "samud" NEEDS some attention: 
+1) the ID number being referenced here [ID=235217] REFERS ONLY to the verb "sam-√ud". The placement is correct, but the OTHER definitions relate to an ENTIRELY different Headword "sa-mud". Please notice the difference between the UPASARGA "sam" used in the verb "sam-ud" AND the prefix "sa" used with the non-verb "sa-mud". VERY DIFFERENT WORDS! They Should NOT be "tied together" in the SAME Window Display! 
+status = PENDING
+
+**Jim comment: slight change to  235217.1 "conversation". 
+  the print (p. 1332,3) shows "sam-ud"
+   (with the '-' at a linebreak).  Also there is accent (sam-u/d)
+ Based on "sam-ud", the position of 235217.1
+is proper. (analogous to the verb dfS and the noun dfS)
+  I'll add "sam-ud" to this, for emphasis.
+  Note: if "conversation" were for "sa-mud", then we would move 235217.1 to after 235354
+  
+old:
+<L>235217.1<pc>1332,3<k1>samud<k2>samu/d<e>2
+¦ <ab>accord.</ab> to some = ‘conversation’, <ls>AV. viii, 1, 15.</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>235217.1<pc>1332,3<k1>samud<k2>sam-u/d<e>2
+<s>sam-u/d</s>¦ <ab>accord.</ab> to some = ‘conversation’, <ls>AV. viii, 1, 15.</ls><info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx dup Case 195: 11/12/2024 dict=MW, L=235217.1, hw=samud, user=srhodes
+old = DELETE THIS HEADWORD ENTIRELY
+new = TYPO – Please note that there are ONLY two Headwords named: "samud": 
+ LB 1)  the verb "sam-√ud. [ID=235217]"
+ LB 2) "sa-mud mfn. joyful, glad, Śiś. [ID=235354]"
+ LB This second "samud mfn. [ID=235354]" is ALREADY properly located here: BETWEEN the Headword "samunna [ID=235353]" AND the Headword "sam-ud-√añc [ID=235355]".
+ LB 3) Therefore this THIRD listing of the Headword "samud [ID=235217.1 sup]" is ERRONEOUS. Of course the Supplemental Addition does exist, BUT it should be included with the existing Headword "sa-mud [ID=235354]"
+ LB 4) Now, I admit that I may be WRONG in some part of what has been stated here. The Supplemental Headword "samud [ID=235217.1 sup]" may have a differentiating accent that requires a THIRD listing of the Headword "samud", but then you can see this all begins to get confusing. So I leave up to Jim and Andhrabharati as to what needs to be done here.
+ LB 5) BUT CERTAINLY this Supplemental Headword "accord. to some = ‘conversation’, AV. viii, 1, 15. [ID=235217.1 sup]" SHOULD NOT BE LUMPED TOGETHER with the verb form "sam-√ud. [ID=235217]" NOR SHOULD IT BE LOCATED (and indented) in the Hierarchy after the verb: "samund [ID=235217.05]".
+comment = DELETE THIS HEADWORD ENTIRELY
+status = PENDING
+
+**Jim comment: see Case 194
+------------------------------------------------------------------------
+
+* TODOx Case 196: 11/12/2024 dict=MW, L=233137.1, hw=samambhūmi, user=srhodes
+old = Headword Listed Twice
+new = Perhaps this is due to a difference in accent? Otherwise DELETE one of the two Duplicates and included both definitions together under a single Headword: ""samambhūmí [ID=233137] and [ID=233137.1]". One more point on accents: Please note that the Hierarchy List itself does NOT display accents. So if a Headword is Double Listed because of a difference in accent, the difference in appearance does NOT show itself in the Hierarchy List – so then why bother double Listing a Headword, when the Window Display will clearly show the difference in accents if there are indeed two Headwords being differentiated.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: changed so now hierarchy shows 1 entry
+
+old:
+<L>233137<pc>1152,3<k1>samamBUmi<k2>sama—m-BUmi/<e>3
+<s>sama—m-BUmi/</s> ¦ <lex>ind.</lex> even with the ground, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Kauś.</ls><info lex="ind"/><info hui="a"/>
+<LEND>
+<L>233137.1<pc>1332,3<k1>samamBUmi<k2>sama—m-BUmi<e>3
+<s>sama—m-BUmi</s> ¦ <lex>mfn.</lex> being on a level with the ground, <ls>BaudhP.</ls><info n="sup"/><info lex="m:f:n"/><info hui="b"/>
+<LEND>
+
+new:
+<L>233137<pc>1152,3<k1>samamBUmi<k2>sama—m-BUmi/<e>3
+<s>sama—m-BUmi/</s> ¦ <lex>ind.</lex> even with the ground, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Kauś.</ls><info lex="ind"/><listinfo n="sup"/>
+<LEND>
+<L>233137.1<pc>1332,3<k1>samamBUmi<k2>sama—m-BUmi<e>3B
+<s>sama—m-BUmi</s> ¦ <lex>mfn.</lex> being on a level with the ground, <ls>BaudhP.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx dup Case 197: 11/12/2024 dict=MW, L=233137.1, hw=samambhūmi, user=srhodes
+old = Headword Listed Twice
+new = Perhaps this is due to a difference in accent? Otherwise DELETE one of the two Duplicates and included both definitions together under a single Headword: ""samambhūmí [ID=233137] and [ID=233137.1]". One more point on accents: Please note that the Hierarchy List itself does NOT display accents. So if a Headword is Double Listed because of a difference in accent, the difference in appearance does NOT show itself in the Hierarchy List – so then why bother double Listing a Headword, when the Window Display will clearly show the difference in accents if there are indeed two Headwords being differentiated.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOx Case 202: 11/13/2024 dict=MW, L=227499, hw=saṃhotra, user=srhodes
+old = Amend Revision (with Cross Out Line)
+new = I suggest that MW online retains the original definition with the "cross out line", so that readers can "see the whole picture" and make an informed decision.
+comment = Amend Revision (with Cross Out Line)
+status = PENDING
+
+**Jim comment: 
+old:
+<L>227499<pc>1123,1<k1>saMhotra<k2>saM-hotra/<e>2
+<s>saM-hotra/</s> ¦ <lex>n.</lex> concourse of priests for disputations &c., <ls>RV.</ls> <info n="rev" pc="1332,3"/><info lex="n"/><info hui="a"/>
+<LEND>
+
+new:
+<L>227499<pc>1123,1<k1>saMhotra<k2>saM-hotra/<e>2
+<s>saM-hotra/</s> ¦ <lex>n.</lex> <chg type="chg" n="1" src="mw"><old>community of sacrifice,</old><new>concourse of priests for disputations &c.</new></chg>, <ls>RV.</ls> <info n="rev" pc="1332,3"/><info lex="n"/><info hui="a"/>
+<LEND>
+
+
+------------------------------------------------------------------------
+
+* TODOy Case 203: 11/13/2024 dict=MW, L=222076.1, hw=śyāmajayanta, user=srhodes
+old = śyāma-jayanta and
+new = śyāmajayanta and -sujayanta, m. N. of teachers, JaimUp.
+comment = Typo – Please note that this is actually a Group Splitting Error! The two Headwords: "śyāmajayanta and śyāmasujayanta" are given together as a group in the annexure. This grouping must be maintained when brought into the Main Entry Hierarchy. The Placement of the first Headword: "śyāmajayanta [ID=222076.1 sup]" is Correct. The Placement of the second Headword: "śyāmasujayanta [ID=222096.1 sup]" is incorrect due to "Group Splitting".
+status = PENDING
+
+**Jim comment: NO CHANGE - previously changed so the two are consecutive
+<L>222076.1<pc>1332,3<k1>SyAmajayanta<k2>SyAma-jayanta<e>3
+<L>222076.2<pc>1332,3<k1>SyAmasujayanta<k2>SyAma-sujayanta<e>3
+
+------------------------------------------------------------------------
+
+* TODOy Case 204: 11/13/2024 dict=MW, L=222096.1, hw=śyāmasujayanta, user=srhodes
+old = śyāma-sujayanta m. N. of teachers, JaimUp.
+new = śyāmajayanta and -sujayanta, m. N. of teachers, JaimUp.
+comment = Typo – Please note that this is actually a Group Splitting Error! The two Headwords: "śyāmajayanta and śyāmasujayanta" are given together as a group in the annexure. This grouping must be maintained when brought into the Main Entry Hierarchy. The Placement of the first Headword: "śyāmajayanta [ID=222076.1 sup]" is Correct. The Placement of the second Headword: "śyāmasujayanta [ID=222096.1 sup]" is incorrect due to "Group Splitting". Therefore, please RELOCATE the Headword: "śyāmasujayanta" to immediately follow the correctly placed Headword: "śyāmajayanta [ID=222076.1 sup]". And I believe that you like to maintain the identical definition for both Headwords according to the Grouping Protocol.
+status = PENDING
+
+**Jim comment: NO CHANGE See case 203
+------------------------------------------------------------------------
+
+* TODO Case 205: 11/13/2024 dict=MW, L=171694, hw=yu, user=srhodes
+old = ayaviṣṭa Gr.;
+new = ayāviṣṭa Gr.;
+comment = Typo – Based upon multiple sources, I believe that this is a "print change" to the aorist, 2nd Person plural form. Since it appears that MW is citing this form according to "Grammar", it is strange that I do not find confirmation anywhere. I would greatly appreciate if Andhrabharati will have a look into this.
+status = PENDING
+
+**Jim comment: 
+
+------------------------------------------------------------------------
+
+* TODOy Case 208: 11/14/2024 dict=MW, L=193159, hw=vidharmastha, user=srhodes
+old = 1. vi—dharma—stha
+new = vi—dharma—stha
+comment = Typo – Please DELETE the number "1" from both the Window Display and the Hierarchy List.
+status = PENDING
+
+**Jim comment: NO CHANGE. previously done
+------------------------------------------------------------------------
+
+* TODOx Case 209: 11/14/2024 dict=MW, L=193155, hw=vidharma, user=srhodes
+old = 1. vi—dharma mfn. (for 2. See vi-√dhṛ) wrong, unjust, unlawful (also °maka)
+new = vi—dharma mfn. wrong, unjust, unlawful (also °maka)
+
+comment = Typo – Please DELETE the number "1" from both the Window Display and the Hierarchy List. I am certain that "2. vidharma" DOES NOT EXIST. I have checked the under the direction specified: "(for 2. See vi-√dhṛ)" AND I find no listing for "2. vidharma". Therefore this is a SERIOUS "print change". ALSO, you may choose to add the word "vidharmaka" (mentioned here) as a searchable Headword with the appropriate definition being: "vi-dharmaka mfn. wrong, unjust, unlawful". ALSO, for my own dictionary, I have placed the word "vidharmaka" AFTER the proper compound "vidharmastha". However, you may consider this to be a "group" (vidharma and vidharmaka) and place accordingly. I consider most "bahiraṅga groups" (metaphorically speaking) to be HAPPENSTANCE (unless perhaps in related names of the same individual) and do not give them much attention in my own dictionary. I do however prioritize the "antaraṅga groups" which I consider to be an absolute grammatical fact of the Sanskrit language.
+status = PENDING
+
+**Jim comment: 
+**pc: <L>193155<pc>951,1<k1>viDarma : 1. :  :  Remove homonym 1
+
+
+------------------------------------------------------------------------
+
+* TODOy Case 210: 11/14/2024 dict=MW, L=220888.1, hw=śeṣa, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that we have caught another escapee (from Jim's automated correction). Namaste Jim, I hope that you are enjoying a very restful and rejuvenating break from all these seemingly endless corrections. As for Aumsanskrit, he doesn't take breaks!
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**Jim comment: NO CHANGE.  The first Seza is on p. 1076,3 which is a pointer to
+  2nd Seza on page 1088.  It is this second Seza that has the sup element.
+  In the simple display, a search for Seza centers the hierarchy list at the
+  first Seza;  thus it is not visible.  To see the 2nd Seza in the hierarchy,
+  search for SezakamalAkara.
+  In the Advanced Search display, the yellow/green arrows allow for 
+  centering the hierarch display.
+------------------------------------------------------------------------
+
+* TODOx Case 211: 11/14/2024 dict=MW, L=218991, hw=śukravāsara, user=srhodes
+old = Headword Listed Twice
+new = Delete the first listing of this Headword and Retain the second listing along with the Supplementary definition and symbol.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: The following changes do the desired:
+old:
+<L>218991<pc>1080,2<k1>SukravAsara<k2>Sukra—vAsara<e>3
+<s>Sukra—vAsara</s> ¦ <lex>m.</lex> <ab>id.</ab>, <ls>A.</ls><info lex="m"/><info hui="a"/>
+<LEND>
+<L>218991.1<pc>1332,3<k1>SukravAsara<k2>Sukra—vAsara<e>3
+<s>Sukra—vAsara</s> ¦ <lex>m.</lex> Friday, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+new:
+<L>218991<pc>1080,2<k1>SukravAsara<k2>Sukra—vAsara<e>3
+<s>Sukra—vAsara</s> ¦ <lex>m.</lex> <ab>id.</ab>, <ls>A.</ls><info lex="m"/><listinfo n="sup"/>
+<LEND>
+<L>218991.1<pc>1332,3<k1>SukravAsara<k2>Sukra—vAsara<e>3A
+<s>Sukra—vAsara</s> ¦ <lex>m.</lex> Friday, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 213: 11/14/2024 dict=MW, L=214311, hw=śaśadhara, user=srhodes
+old = Headword Listed Twice
+new = DELETE the second duplicate listing of this Headword in the Hierarchy List where the "circle-S" Supplemental Insertion Symbol is currently visible. Then, simply include the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display in its now First and Singular occurrence. You may even choose to ADD the searchable Headword "śaśadharavāra m. Monday, Inscr." which seems to be the indication here along with its own "circle-S" Supplemental Symbol to the right side of this NEW Headword in the Hierarchy List Display.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: done. compare old/new.
+
+old:
+<L>214311<pc>1060,1<k1>SaSaDara<k2>SaSa—Dara<e>3
+<s>SaSa—Dara</s> ¦ <lex>m.</lex> ‘bearer of hare-marks’, the moon, <ls>Kāv.</ls><info lex="m"/><info hui="a"/>
+<LEND>
+<L>214312<pc>1060,1<k1>SaSaDara<k2>SaSa—Dara<e>3A
+¦ camphor, <ls>MW.</ls><info lex="inh"/>
+<LEND>
+<L>214313<pc>1060,1<k1>SaSaDara<k2>SaSa—Dara<e>3A
+¦ <ab>N.</ab> of various authors, <ls>Cat.</ls><info lex="inh"/>
+<LEND>
+<L>214313.1<pc>1332,2<k1>SaSaDara<k2>SaSa—Dara<e>3
+<s>SaSa—Dara</s> ¦ <lex>m.</lex> (with <s>vAra</s>) Monday, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info hui="b"/>
+<LEND>
+
+new:
+<L>214311<pc>1060,1<k1>SaSaDara<k2>SaSa—Dara<e>3
+<s>SaSa—Dara</s> ¦ <lex>m.</lex> ‘bearer of hare-marks’, the moon, <ls>Kāv.</ls><info lex="m"/><listinfo n="sup"/>
+<LEND>
+<L>214312<pc>1060,1<k1>SaSaDara<k2>SaSa—Dara<e>3A
+¦ camphor, <ls>MW.</ls><info lex="inh"/>
+<LEND>
+<L>214313<pc>1060,1<k1>SaSaDara<k2>SaSa—Dara<e>3A
+¦ <ab>N.</ab> of various authors, <ls>Cat.</ls><info lex="inh"/>
+<LEND>
+<L>214313.1<pc>1332,2<k1>SaSaDara<k2>SaSa—Dara<e>3A
+<s>SaSa—Dara</s> ¦ <lex>m.</lex> (with <s>vAra</s>) Monday, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 225: 11/15/2024 dict=MW, L=205838, hw=vedasaṃnyāsin, user=srhodes
+old = Headword Listed Twice
+new = DELETE the intial listing and retain the second listing along with the "circle-S" Supplement symbol. I see that this Headword is part of a "group", however the Supplemental addition does not require the repetition of this Headword.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: done by change below.
+
+old:
+<L>205838<pc>1016,2<k1>vedasaMnyAsin<k2>veda—saMnyAsin<e>3
+{{Lbody=205837}}
+<LEND>
+<L>205838.1<pc>1332,2<k1>vedasaMnyAsin<k2>veda—saMnyAsin<e>3
+<s>veda—saMnyAsin</s> ¦ <lex>mfn.</lex> abandoning the <s1>Veda</s1>, <ab>ib.</ab><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+
+new: reverse the order. Also, resolve ib.
+<L>205837.1<pc>1332,2<k1>vedasaMnyAsin<k2>veda—saMnyAsin<e>3
+<s>veda—saMnyAsin</s> ¦ <lex>mfn.</lex> abandoning the <s1>Veda</s1>, <ab>ib.</ab> [<ls>Baudh.</ls>]<info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>205838<pc>1016,2<k1>vedasaMnyAsin<k2>veda—saMnyAsin<e>3A
+{{Lbody=205837}}
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 226: 11/15/2024 dict=MW, L=204858, hw=vṛṣ, user=srhodes
+old = Review Supplement
+new = It appears that the word "add" may mean simply to add the following: "[cf. Gaëlic pas, a shower]". As far as the definition: "to rain", well that is already a basic definition of this verb (so nothing new). Please review the following from the printed text: "to rain, add, [cf. Gaëlic pas, a shower]."
+comment = Review Supplement
+status = PENDING
+
+**Jim comment:  cdsl has put "[cf. Gaëlic pas, a shower]" after "to rain"
+The only error  This seems to be a 'revision' 
+ cdsl currently has both 'sup' and 'rev'. so I've removed the 'sup'
+------------------------------------------------------------------------
+
+* TODOx Case 235: 11/15/2024 dict=MW, L=197367, hw=vindhyavāsin, user=srhodes
+old = Headword Listed Twice
+new = I recommend to DELETE the second occurrence of this Headword and retain the first instance along with the "circle-S" Supplement Symbol. I see that this Supplement is part of a "group" with the Headword "vindhyavāsaka", however this does not require that the Headword "vindhyavāsin" should be Doube Listed to "accomodate" the group. Please consider this, you cannot have the NAME "vindhyavāsin" without it bearing direct relation to the EXISTING Headword of that same title. For example, if someone has the name "Idiot", it will be very difficult to convince other people that he is not an Idiot (having such a name). ALSO, I would recommend relocating the Supplementary definition in the Window Display of the Headword "vindhyavāsin" to BELOW the Main Entry Definition. In my view, a Supplementary "Group" should not take precedence over the Main Entry Definition itself. As I have mentioned before, a "group" such as this is simply Happenstance. The fact of "vindhyavāsin" being the N. of a Sāṃkhya teacher is not "antaraṅga" (metaphorically speaking) to the Sanskrit Language itself. Therefore the Main Entry Definition which derives "antaraṅga" from the Sanskrit Language itself deserves precedence to this "Happenstance" grouping from the annexure.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: following changes solve the double-hierarchy issue,
+  and otherwise look right to me.
+
+old:
+<L>197366.1<pc>1332,2<k1>vinDyavAsaka<k2>vinDya-vAsaka<e>3
+<s>vinDya-vAsaka</s> or <s>vinDya-vAsin</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Sāṃkhya</s1> teacher.<info n="sup"/><info lex="m"/>
+<LEND>
+<L>197366.2<pc>1332,2<k1>vinDyavAsin<k2>vinDya-vAsin<e>3
+{{Lbody=197366.1}}
+<LEND>
+<L>197367<pc>972,2<k1>vinDyavAsin<k2>vinDya—vAsin<e>3
+<s>vinDya—vAsin</s> ¦ <lex>mfn.</lex> dwelling in the <s1 n="Vindhya">V°</s1>, <ls>L.</ls><info lex="m:f:n"/>
+<LEND>
+<L>197368<pc>972,2<k1>vinDyavAsin<k2>vinDya—vAsin<e>3B
+<s>vinDya—vAsin</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Vyāḍi</s1>, <ls>Cat.</ls>; <ls>Vās., <ab>Introd.</ab></ls><info lex="m"/>
+<LEND>
+<L>197369<pc>972,3<k1>vinDyavAsin<k2>vinDya—vAsin<e>3B
+¦ of a medical writer, <ls>Cat.</ls><info lex="inh"/>
+<LEND>
+<L>197370<pc>972,3<k1>vinDyavAsinI<k2>vinDya—vAsinI<e>3B
+<s>vinDya—vAsinI</s> ¦ (<s>inI</s>), <lex>f.</lex> (with or without <s>devI</s>) a form of <s1>Durgā</s1>, <ls>Kathās.</ls>; <ls>Daś.</ls><info lex="f"/>
+<LEND>
+<L>197371<pc>972,3<k1>vinDyavAsinI<k2>vinDya—vAsinI<e>3B
+¦ <ab>N.</ab> of a place, <ls>VP.</ls><info lex="inh"/>
+<LEND>
+==========================================
+new:
+1. Move 197366.2 to 197369.1, and change to 3B
+2. Add <listinfo n="sup"/> to 197367
+<L>197366.1<pc>1332,2<k1>vinDyavAsaka<k2>vinDya-vAsaka<e>3
+<s>vinDya-vAsaka</s> or <s>vinDya-vAsin</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Sāṃkhya</s1> teacher.<info n="sup"/><info lex="m"/>
+<LEND>
+<L>197367<pc>972,2<k1>vinDyavAsin<k2>vinDya—vAsin<e>3
+<s>vinDya—vAsin</s> ¦ <lex>mfn.</lex> dwelling in the <s1 n="Vindhya">V°</s1>, <ls>L.</ls><info lex="m:f:n"/><listinfo n="sup"/>
+<LEND>
+<L>197368<pc>972,2<k1>vinDyavAsin<k2>vinDya—vAsin<e>3B
+<s>vinDya—vAsin</s> ¦ <lex>m.</lex> <ab>N.</ab> of <s1>Vyāḍi</s1>, <ls>Cat.</ls>; <ls>Vās., <ab>Introd.</ab></ls><info lex="m"/>
+<LEND>
+<L>197369<pc>972,3<k1>vinDyavAsin<k2>vinDya—vAsin<e>3B
+¦ of a medical writer, <ls>Cat.</ls><info lex="inh"/>
+<LEND>
+<L>197369.1<pc>1332,2<k1>vinDyavAsin<k2>vinDya-vAsin<e>3B
+{{Lbody=197366.1}}
+<LEND>
+<L>197370<pc>972,3<k1>vinDyavAsinI<k2>vinDya—vAsinI<e>3B
+<s>vinDya—vAsinI</s> ¦ (<s>inI</s>), <lex>f.</lex> (with or without <s>devI</s>) a form of <s1>Durgā</s1>, <ls>Kathās.</ls>; <ls>Daś.</ls><info lex="f"/>
+<LEND>
+<L>197371<pc>972,3<k1>vinDyavAsinI<k2>vinDya—vAsinI<e>3B
+¦ <ab>N.</ab> of a place, <ls>VP.</ls><info lex="inh"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 236: 11/15/2024 dict=MW, L=197137, hw=vinivṛtti, user=srhodes
+old = Headword Listed Twice
+new = I recommend to DELETE the first occurrence of this Headword and retain the second instance along with the "circle-S" Supplement Symbol.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: 
+
+old: 
+<L>197137<pc>971,2<k1>vinivftti<k2>vi-nivftti<e>3
+<s>vi-°nivftti</s> ¦ <lex>f.</lex> cessation, coming to an end, <ls>Mn.</ls>; <ls>Hariv.</ls> &c.<info lex="f"/><info hui="a"/>
+<LEND>
+<L>197138<pc>971,2<k1>vinivftti<k2>vi-nivftti<e>3A
+¦ omission, discontinuance, <ls>PārGṛ.</ls>; <ls>Car.</ls><info lex="inh"/>
+<LEND>
+<L>197138.1<pc>1332,2<k1>vinivftti<k2>vi-nivftti<e>3
+<s>vi-nivftti</s> ¦ cessation of work, inactivity, <ls>Bcar.</ls><info n="sup"/><info hui="b"/>
+<LEND>
+
+new:  
+1. remove the hui
+2. change the sup entry to "<e>3A"
+3. add <listinfo n="sup"/> to the first one, 197137
+<L>197137<pc>971,2<k1>vinivftti<k2>vi-nivftti<e>3
+<s>vi-°nivftti</s> ¦ <lex>f.</lex> cessation, coming to an end, <ls>Mn.</ls>; <ls>Hariv.</ls> &c.<info lex="f"/><listinfo n="sup"/>
+<LEND>
+<L>197138<pc>971,2<k1>vinivftti<k2>vi-nivftti<e>3A
+¦ omission, discontinuance, <ls>PārGṛ.</ls>; <ls>Car.</ls><info lex="inh"/>
+<LEND>
+<L>197138.1<pc>1332,2<k1>vinivftti<k2>vi-nivftti<e>3A
+<s>vi-nivftti</s> ¦ cessation of work, inactivity, <ls>Bcar.</ls><info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODO Case 239: 11/16/2024 dict=MW, L=256456, hw=snu, user=srhodes
+old = siṣṇavīti
+new = soṣṇavīti
+comment = Typo – Please note that this correction is a "print change".  Hopefully Andhrabharati will confirm this Intensive form of √snu.
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOx Case 240: 11/16/2024 dict=MW, L=193039.1, hw=vijāman, user=srhodes
+old = EMERGENCY
+new = There are TWO Headwords: 
+1) the first is correctly placed as “vi—jāman mfn. related, corresponding. [ID=193039]”; 
+2) the second is MISSING! This Missing Headword is different by accent and placement: “vijā́man”; this Headword is located on the printed page of the Main Entry immediately following the Headword: "vijāta mfn. [ID=194974]”. This MISSING Headword: “vijā́man” has its own placement separate and distinct from "vijāman mfn. [ID=193039]”. So Perhaps there needs to be some numbering as “1” and “2” added to these two words which differ by accent and placement.
+ LB ———NOW, another point of consideration regards the REVISION which applies only to the Missing Headword “vijā́man” which is located on the printed page of the Main Entry immediately following the Headword: "vijāta mfn. [ID=194974]”.
+ LB ———SO FIRST: This Missing Headword “vijā́man” needs to be ADDED to the Hierarchy List in MW online after the Headword: "vijāta mfn. [ID=194974]”. 
+ LB ———The original Main Entry for the Headword "vijā́man” prints: "vi-jā́man mfn. related i.e. corresponding to each other, symmetrical, RV.; AV.; ŚBr."
+ LB ———THEN, the Revision itself needs to be reconsidered as the annexure prints as follows: 
+  "vi-jā́man (read, ‘corresponding to each other,’ i.e. ‘being in pairs,’ ‘symmetrical’)." 
+
+NOW COMPARE THAT with the currently existing Revision ONLINE (which remember has been 'pinned' to the wrong headword at the wrong location, because the correct Headword is absent from the Hierarchy List as explained above).
+ vi-°jā́man (read ‘corresponding to each other’, i.e. ‘being in pairs’, ‘symmetrical’) [ID=193039.1 rev (1332,2)]
+
+ LB ———As you can see, the above quoted Revision has NOT been properly implemented.
+ LB ———The FINAL CORRECT REVISION SHOULD READ: 
+
+"vi-jā́man mfn. corresponding to each other, i.e. being in pairs, symmetrical, RV.; AV.; ŚBr."
+
+ LB ———Also, Please note that the added quotation marks, such as seen here: ‘corresponding to each other’ ARE NOT NEEDED in the actual implementation of the Revision. They simply serve the purpose of INDICATING the content of the Revision to be implemented.
+comment = EMERGENCY
+status = PENDING
+=====================================================
+**Jim comment: Yep. that vijAman on p. 959,9 is missing.  
+Put it after <L>194977<pc>959,3<k1>vijAtA
+   Interestingly next entry in 194979, there is no 194978!  Probably there used to be
+Step 1:
+<L>194978<pc>959,3<k1>vijAman<k2>vi-jA/man<e>3
+<s>vi-°jA/man</s> ¦ <lex>mfn.</lex> related <ab>i.e.</ab> corresponding to each other, symmetrical, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>.<info lex="m:f:n"/><info hui="b"/>
+<LEND>
+
+Step 2:  move 193039.1 (the rev entry) to 194978.1 (after the now not missing item of o. 959,3
+
+old: 
+<L>194978.1<pc>959,3<k1>vijAman<k2>vi-jA/man<e>3A
+<s>vi-jA/man</s> ¦ read corresponding to each other, <ab>i.e.</ab> being in pairs, symmetrical<info n="rev" pc="1332,2"/>
+<LEND>
+
+"vi-jā́man mfn. corresponding to each other, i.e. being in pairs, symmetrical, RV.; AV.; ŚBr."
+
+------------------------------------------------------------------------
+
+* TODOx Case 241: 11/16/2024 dict=MW, L=191775.1, hw=vārī, user=srhodes
+old = Unrecognized Homonym Issue AND Placement Error
+new = Please note that the Headword "2. vāri f. [ID=191673]” INCLUDES three of its definitions as being approved for the following form “vārī f.”
+ LB ——– So now we have an unrecognized Homonym ISSUE! Since this arises with the Headword "2. vāri f. [ID=191673]”, I am NAMING the approved cited variation as “2. vārī” in my own dictionary, and placing it there with "2. vāri f. [ID=191673]”
+ LB ———NOW the Supplemental Headword (which is now a Homonym): "vārī f. water, Kāṭh. [ID=191775.1 sup]", I am NAMING as "1. vārī f." and placing it conveniently with the Headword "1. vāri n. = vār, water, rain, fluid, fluidity [ID=191433]."
+ LB ———This is resolution exemplifies the advantage of shaving with "Occam's razor" – everything becomes simple, straightforward and clear – problem solved!
+comment = Unrecognized Homonym Issue AND Placement Error
+status = PENDING
+
+**Jim comment: MW does not mention that vAri, vArI are related; this is suspected with vAri#1 and vArI
+  AP does so mention.
+  It would be more useful to have vArI appear just after vAri#1
+  Action: move 191775.1 to 191435.1  (after last vAri#1 entry, before first vAri#1 compound
+------------------------------------------------------------------------
+
+* TODOx Case 244: 11/16/2024 dict=MW, L=189406.1, hw=vahniṣtambha, user=srhodes
+old = vahni—ṣtambha
+new = vahni—ṣṭambha
+comment = Typo – Please note that the printed text reads: "vahni—stambha". However, due to TOTAL Sandhi Rule application, BOTH the letters "s" AND "t" MUST be changed to cerebral letters: "ṣ" and "ṭ".
+status = PENDING
+
+**Jim comment: Done. Typo
+------------------------------------------------------------------------
+
+* TODOy Case 251: 11/17/2024 dict=MW, L=185715.1, hw=vati, user=srhodes
+old = Supplemental Insertion – Missing Symbol
+new = Please add the "circle-S" Supplemental Insertion Symbol to the right side of this word in the Hierarchy List Display. Please note that we have caught another escapee (from Jim's automated correction). He was hiding in a Haystack!
+comment = Supplemental Insertion – Missing Symbol
+status = PENDING
+
+**Jim comment: NO CHANGE.  Accessible only in list-display, not accessible in simple-search
+------------------------------------------------------------------------
+
+* TODOx Case 254: 11/17/2024 dict=MW, L=180503, hw=lakṣmaṇasena, user=srhodes
+old = Amend Revision (with Cross Out Line)
+new = I suggest that MW online retains the original definition with the "cross out line". This is likely a Revision since the definition in the annexure "overlaps" with the Main Entry, thus implying a rewrite. However, the cross out line through the Main Entry Definition may be a good idea here.
+comment = Amend Revision (with Cross Out Line)
+status = PENDING
+
+**Jim comment: 
+
+old:
+<L>180503<pc>892,2<k1>lakzmaRasena<k2>lakzmaRa—sena<e>3
+<s>lakzmaRa—sena</s> ¦ <lex>m.</lex> a king of the <s1>Sena</s1> dynasty of Eastern India (founder of an era, beginning on October 7, <ab>A.D.</ab> 1119) <info n="rev" pc="1332,1"/><info lex="m"/>
+
+p. 892,2 text 
+ "N. of various men (esp. of a son of Ballāla-sena, who gave his name to an Era which commenced in 1119-20)
+p. 1332,1  as shown in 180503 now
+
+new:
+<s>lakzmaRa—sena</s> ¦ <lex>m.</lex> <chg type="chg" n="1" src="mw"><old>N. of various men (esp. of a son of Ballāla-sena, who gave his name to an Era which commenced in 1119-20)</old> <new>a king of the <s1>Sena</s1> dynasty of Eastern India (founder of an era, beginning on October 7, <ab>A.D.</ab> 1119)</new></chg> <info n="rev" pc="1332,1"/><info lex="m"/>
+------------------------------------------------------------------------
+
+* TODOx Case 255: 11/17/2024 dict=MW, L=180503, hw=lakṣmaṇasena, user=srhodes
+old = UPDATED • Partial Revision Alert!
+new = Actually this initial portion of the Main Entry should be retained as authentic, because out of the names of billions of people the odds (i.e. chances or likelihood) are in favor of the following initial Main entry Definition: "m. N. of various men". The remaining portion has likely been rewritten by the annexure, but perhaps should be included and crossed out (just in case there is any truth in this portion: "son of Ballālasena".
+comment = UPDATED • Partial Revision Alert!
+status = PENDING
+
+**Jim comment: I left the crossed out as in case 254 above
+------------------------------------------------------------------------
+
+* TODO Case 262: 11/17/2024 dict=MW, L=125640, hw=putrīya, user=srhodes
+old = puputitrīyiyi ṣiṣati
+new = puputitrīyiyi ṣati
+comment = Typo – Please note that this is very likely a "print change" confirmed by various sources. I mean really? JUST LOOK AT THAT WORD! talk about reduplicating everything! Honestly, it is a bit much! I hope that Andhrabharati will confirm this correction. If so then, Scott has found a long needle in a HUGE haystack.
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOy Case 263: 11/18/2024 dict=MW, L=171877.01, hw=yugamātradarśin, user=srhodes
+old = See Below
+new = This is a strange listing in the annexure: "(= -m°-dṛś), Bcar.". It is strange because the definition given here as "=yugamātradṛś , mfn. looking as far as a y° or towards the ground" IS EXACTLY THE SAME AS THE MAIN ENTRY DEFINITION: "yugamātradarśin mfn. looking as far as a y° or towards the ground. (Lalit.)". The only DIFFERENCE is in the source citation: "Bcar." Therefore this source: "Bcar." could simply be added as a Revisionary Addition to the existing source citation: "(Lalit.)". But it seems a bit "prolix" the way things currently stand.
+comment = See Above
+status = PENDING
+
+**Jim comment: NO CHANGE.  We can only speculate
+------------------------------------------------------------------------
+
+* TODOx Case 265: 11/18/2024 dict=MW, L=166616, hw=mṛta, user=srhodes
+old = Revision Missed!
+new = Please note that the annexure reads: “Mṛta, ‘begging for food’ (for L. read Mn. iv, 5).” Please See column 3 of the following page: https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1331
+comment = Revision Missed!
+status = PENDING
+
+**Jim comment: 
+old:
+<L>166616<pc>827,2<k1>mfta<k2>mfta/<e>2B
+¦ begging, food or alms obtained by begging, <ls>L.</ls> <info lex="inh"/>
+<LEND>
+
+text from p. 1331,3 at mfta added as new text 
+
+new:
+<L>166616<pc>827,2<k1>mfta<k2>mfta/<e>2B
+¦ begging, food or alms obtained by begging, <ls>L.</ls> <chg type="chg" n="1" src="mw"><old> </old><new>; ‘begging for food’ (for L. read <ls>Mn. iv, 5</ls>)</new></chg><info lex="inh"/><info n="rev" pc="1331,3"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 267: 11/19/2024 dict=MW, L=164348.1, hw=mithūkṛt, user=srhodes
+old = Headword Listed Twice
+new = I recommend to DELETE the second occurrence of this Headword and retain the first instance along with the "circle-S" Supplement Symbol. I see that the Supplement has a difference in accent, however since the Hierarchy List does NOT display accents, the double listing seems redundant; and of course the accent is clearly marked in the Window Display. Certainly Andhrabharati will be happy to know that I enjoying the accidents.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: 
+
+old:
+<L>164348<pc>817,1<k1>miTUkft<k2>miTU—kft<e>3
+<s>miTU—kft</s> ¦ <lex>mfn.</lex> fallen into trouble or danger, <ls n="RV.">x, 102, 1</ls>.<info lex="m:f:n"/><info hui="a"/>
+<LEND>
+<L>164348.1<pc>1331,2<k1>miTUkft<k2>miTU-kf/t<e>3
+<s>miTU-kf/t</s> ¦ (<ab>accord.</ab> to others, <pb n="1331,3"/> ‘imitated, feigned, sham’).<info n="sup"/><info hui="b"/>
+<LEND>
+
+new:
+<L>164348<pc>817,1<k1>miTUkft<k2>miTU—kft<e>3
+<s>miTU—kft</s> ¦ <lex>mfn.</lex> fallen into trouble or danger, <ls n="RV.">x, 102, 1</ls>.<info lex="m:f:n"/><listinfo n="sup"/>
+<LEND>
+<L>164348.1<pc>1331,2<k1>miTUkft<k2>miTU-kf/t<e>3A
+<s>miTU-kf/t</s> ¦ (<ab>accord.</ab> to others, <pb n="1331,3"/> ‘imitated, feigned, sham’).<info n="sup"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 268: 11/19/2024 dict=MW, L=163675, hw=mālāmaya, user=srhodes
+old = EMERGENCY
+new = HEADWORD MISSING FROM MW ONLINE! Please note that the annexure prints the Headword "mālāyamaka" as follows: 
+ "mālā-yamaka, n. a Yamaka in which the whole stanza consists of one consonant combined with all vowels, Bhar." 
+Therefore, we should locate this Headword: "mālāyamaka" just after the Headword "mālāmaya" which I chose simply as a point of reference. (Super-Duper-kaching!) along with a Roaring Applause from the Sanskrit Github Club!
+comment = EMERGENCY
+status = PENDING
+
+**Jim comment: new entry constructed and added after mAlAmaya
+For reference
+<L>163675<pc>813,3<k1>mAlAmaya<k2>mAlA—maya<e>3
+<s>mAlA—maya</s> ¦ <lex>mf(<s>I</s>)n.</lex> made or consisting of garlands, forming a line or series of (<ab>comp.</ab>), <ls>Rājat.</ls><info lex="m:f#I:n"/>
+<LEND>
+
+new entry:
+<L>163675.1<pc>1331,2<k1>mAlAyamaka<k2>mAlA—yamaka<e>3
+<s>mAlA—yamaka</s> ¦ <lex>n.</lex> a <s1>Yamaka</s1> in which the whole stanza consists of one consonant combined with all vowels, <ls>Bhar.</ls><info lex="n"/><info n="sup"/>
+<LEND>
+------------------------------------------------------------------------
+
+* TODOy Case 271: 11/19/2024 dict=MW, L=158192, hw=marīci, user=srhodes
+old = Interesting Consideration
+new = Should the following definition: "(also °cī; f. with somasya = moonlight, Hariv.)" ALSO be included with the OFFICIAL listing of the Supplemental Headword: "marīcī f. a ray, JaimUp. [ID=158225.1 sup]". I see that there may be a difference in accent, but thought I should still raise the question.
+comment = Interesting Consideration
+status = PENDING
+
+**Jim comment: NO CHANGE.  This should be considered for the 2050 edition of MW!
+------------------------------------------------------------------------
+
+* TODOy dup Case 272: 11/19/2024 dict=MW, L=158192, hw=marīci, user=srhodes
+old = Interesting Consideration
+new = Should the following definition: "(also °cī; f. with somasya = moonlight, Hariv.)" ALSO be included with the OFFICIAL listing of the Supplemental Headword: "marīcī f. a ray, JaimUp. [ID=158225.1 sup]". I see that there may be a difference in accent, but thought I should still raise the question.
+comment = Interesting Consideration
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOy dup Case 273: 11/19/2024 dict=MW, L=158192, hw=marīci, user=srhodes
+old = Interesting Consideration
+new = Should the following definition: "(also °cī; f. with somasya = moonlight, Hariv.)" ALSO be included with the OFFICIAL listing of the Supplemental Headword: "marīcī f. a ray, JaimUp. [ID=158225.1 sup]". I see that there may be a difference in accent, but thought I should still raise the question.
+comment = Interesting Consideration
+status = PENDING
+
+**Jim comment: 
+------------------------------------------------------------------------
+
+* TODOx Case 281: 11/19/2024 dict=MW, L=156525, hw=madhyamapada, user=srhodes
+old = [ID=156525 rev (1331,2)]
+new = [ID=156525 ]
+comment = Typo & EMERGENCY • The Typo is corrected above • The Emergency is: "This is NOT a Revision!"; This definition is Strictly from the Main Entry and there is No Mention of this in the annexure! Please REMOVE the "circle-R" Revision Symbol from the Hierarchy List (and no revision in the window display) • (Super-kaching!)
+status = PENDING
+
+**Jim comment: done. remove the <info n="rev"../>
+old:
+<L>156525<pc>782,2<k1>maDyamapada<k2>maDyama—pada<e>3
+<s>maDyama—pada</s> ¦ <lex>n.</lex> the middle member (which is sometimes omitted and requires to be supplied in a compound consisting of two words)<info n="rev" pc="1331,2"/><info lex="n"/>
+<LEND>
+
+new:
+<L>156525<pc>782,2<k1>maDyamapada<k2>maDyama—pada<e>3
+<s>maDyama—pada</s> ¦ <lex>n.</lex> the middle member (which is sometimes omitted and requires to be supplied in a compound consisting of two words)<info lex="n"/>
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx  Case 284: 11/20/2024 dict=MW, L=152120.1, hw=bhūmi, user=srhodes
+old = (also) = bhū (above)
+new = f. (also) a partic. land-measure, Inscr.
+comment = Typo – Please note that this is a suggested "print change". The correction given here is the direct statement of the Supplemental Definition being referenced by the statement: "(also) = bhū (above)". Otherwise, it is a "bit of work" to find this definition which I have added directly to my own dictionary.
+status = PENDING
+
+**Jim comment: 
+old:
+<L>152120.1<pc>1331,2<k1>BUmi<k2>BU/mi<e>2A
+¦ (also) = <s>BU</s> (above) <info n="sup"/><info lex="inh"/>
+<LEND>
+
+new:
+<L>152120.1<pc>1331,2<k1>BUmi<k2>BU/mi<e>2A
+¦ (also) = <s>BU</s> (above) <chg type="chg" n="1" src="cdsl"><old></old><new>[ = a partic. land-measure, <ls>Inscr.</ls>]</new></chg> <info n="sup"/><info lex="inh"/>
+<LEND>
+
+
+
+------------------------------------------------------------------------
+
+* TODOx Case 287: 11/20/2024 dict=MW, L=148565.1, hw=bhandra, user=srhodes
+old = Non-Indentation Error
+new = Make a single indentation of the Supplemental word "bhandra" in the Hierarchy List. The reason for this is as follows: Every Single Great Authority places the word "bhadra" under the root √bhand (or bhadi if you prefer). Therefore, as I shave with Occam's razor, I see the clear etymology of placement by treating the word "bhandra" in the same manner as the word "bhadra": Both derive from the same root and Both receive equal treatment in their status of Single Indentation.
+comment = Typo – Headword Typo (kaching!)
+status = PENDING
+
+**Jim comment: done
+------------------------------------------------------------------------
+
+* TODOx dup Case 288: 11/20/2024 dict=MW, L=148565.1, hw=bhandra, user=srhodes
+old = Non-Indentation Error
+new = Make a single indentation of the Supplemental word "bhandra" in the Hierarchy List. The reason for this is as follows: Every Single Great Authority places the word "bhadra" under the root √bhand (or bhadi if you prefer). Therefore, as I shave with Occam's razor, I see the clear etymology of placement by treating the word "bhandra" in the same manner as the word "bhadra": Both derive from the same root and Both receive equal treatment in their status of Single Indentation.
+comment = Non-Indentation Error (kaching!)
+status = PENDING
+
+**Jim comment: done. chg '<e>1' to '<e>2' in metaline in mw.txt
+------------------------------------------------------------------------
+
+* TODOx Case 289: 11/20/2024 dict=MW, L=148247.1, hw=bhatila, user=srhodes
+old = bhatila
+new = bhaṭila  Jim: typo changed.  Position in hierarchy not yet done
+comment = Typo – Headword Typo (kaching!) • Now there is an additional consideration: Where to place the newly corrected Headword? 
+ LB ——For my own purpose, as I trace the Etymology (while enjoying a good shave with Occam's razor), I choose placement under the root √bhaṭ "to nourish, foster, maintain; to hire; to receive wages." Thus: "bhaṭila m. a servant; a dog." (Super-kaching!)
+ LB ——It is a nice clear and simple "fit", regardless of opposition by other long-winded Grammarians.
+ LB ——Therefore, I find the proper placement within MW dictionary to be just before the Headword "bhaṭīya [ID=148103]"; and also with a single indentation as the finishing touch. (Super-Duper-kaching!)
+status = PENDING
+
+**Jim comment:  place at 148102.1 (after cpds of Bawa and before BawIya
+
+------------------------------------------------------------------------
+
+* TODOy Case 295: 11/20/2024 dict=MW, L=91322, hw=dānu, user=srhodes
+old = See Below
+new = I find it curious that the two similar definitions: "courageous" and "valiant" are SPLIT between the two different Headwords "1. dānu" and "2. dā́nu". Do Jim or Andhrabharati have anything to say? The point of my question is that it seems like the two definitions: "courageous" and "valiant" should follow under the same headword (one or the other) due to virtual identity in meaning.
+comment = See above
+status = PENDING
+
+**Jim comment: no answer to question. NO CHANGE
+------------------------------------------------------------------------
+
+* TODOy Case 307: 11/22/2024 dict=MW, L=142892, hw=bambaviśvavayas, user=srhodes
+old = Revision Reconsideration
+new = Please note that the word given in the annexure is "bamba-viśvayas (MaitrS.)". It seems that this may be an incorrect spelling? If so, then perhaps marking as "print change". Also the citation: "(MaitrS.)" already exists in the Main Entry, so the entire Revision (with wrong spelling) seems odd. UNLESS the spelling in the annexure is CORRECT, and therefore it becomes a Supplemental Addition?
+comment = Revision Reconsideration
+status = PENDING
+
+**Jim comment: NO CHANGE  Difference in accent for the MaitrS. word
+ 721,3 print has bamba-viSvava/yas
+1331,1 print has bamba-viSvavaya/s   << L=142892 has this accent
+------------------------------------------------------------------------
+
+* TODOy dup Case 350: 11/29/2024 dict=MW, L=547, hw=akṣata, user=srhodes
+old = Karkaṭaśriṅgī or Kaṅkaḍaśriṅgī
+new = Karkaṭaśṛṅgī or ????
+comment = Typo – I hope that Andhrabharati can give the correct spelling of the 2nd plant name.
+status = PENDING
+
+**Jim comment: NO CHANGE. Note the headword for 547 is f. akṣatā
+Current cdsl shows
+  <s1>Karkaṭaśṛṅgī</s1> or <ns>Kām̐kaḍāśṛṅgī</ns>
+  The second word in L=546 was changed to Kām̐kaḍāśṛṅgī  on 12-25-2025 with note "cf. SKD akzatA"
+------------------------------------------------------------------------
+
+* TODOy Case 365: 11/29/2024 dict=MW, L=592.2, hw=akṣara, user=srhodes
+old = Revision NOT Supplement
+new = Please Carry out the Revision command. However, please note that APTE retains this definition; therefore, I suggest the "cross out line" for this revision.
+comment = Revision NOT Supplement
+status = PENDING
+
+**Jim comment: NO CHANGE.  I think Scott's comment now refers to L=592, 
+   "Achyranthes Aspera" has the "cross out line". 
+------------------------------------------------------------------------
+
+* TODOy Case 514: 12/11/2024 dict=MW, L=2100, hw=ajahalliṅga, user=srhodes
+old = Attention Jim
+new = In response to one of my submissions several months ago, you made the following comment: (I am paraphrasing) - "there are no adjectives in Sanskrit". Then please explain the definition given here: "(in Gr.) a noun which does not drop its original gender, when used as an adjective."
+ LB Please address, in particular, the last five words of the previous sentence in relation to your previous comment cited above.
+comment = Attention Jim
+status = PENDING
+
+**Jim comment: I'm not a grammarian, so take my comments with a grain of salt.
+      Consider Kaga, which can be declined in all 3 genders. 
+      This word can be used like an adjective "moving in air" So we could say "KagA mAlA" (odd image!)
+      But we could also use it like a noun "one who moves in the air", "KagaH patati" The bird is flying.
+      The one word "Kaga" can be used as a noun or as an adjective, according to expressive need.
+      But Kaga is itself neither a noun or an adjective.  
+      Thus melteth away another grain of salt.
+------------------------------------------------------------------------
+
+* TODOy Case 526: 12/13/2024 dict=MW, L=2070, hw=ajanta, user=srhodes
+old = Letter "b" missing?
+new = I am wondering if the TWO "ajanta" Headwords should be distinguished with the letters "a" and "b" in the Hierarchy Display?
+ LB NAMELY "a" = 1) the proper compound listing [ID=1769] under the Headword "ac";
+ LB AND
+ LB NAMELY "b" = 2) the "pointer" Headword simple placed alphabetically [ID=2070]
+comment = Letter "b" missing?
+status = PENDING
+
+**Jim comment: NO CHANGE.  THe 'b' is there ! Look up (in simple-search) 'ajanya' 
+  and you'll see the 'b'.
+  Ref my comment "simple-display has a limitation" at top of this file.
+------------------------------------------------------------------------
+
+* TODO Case 533: 12/13/2024 dict=MW, L=2190, hw=ajur, user=srhodes
+old = ajur
+new = ajura
+comment = Typo – Please note that this is a possible Headword Typo and Print Change. Here is the reasoning: 1) Both APTE and the Great Vācaspatyam derive this word as "ajura" with the affix KuraC (where K and C are elided). Please consult the Pāṇini rule 3.2.162. Similarly derived words are: vidura, bhidura, chidura. Note that all end in the vowel "a", which of course is part of the KuraC affix. I hope that Andhrabharati will comment.
+status = PENDING
+
+**Jim comment: NO CHANGE.  Some dictionaries have ajur, some have ajura  
+------------------------------------------------------------------------
+
+* TODOy Case 570: 12/16/2024 dict=MW, L=2396, hw=aṇi, user=srhodes
+old = Double Listed Headword
+new = Please include this Supplemental Definition along with the Main Entry listing of this Headword and delete this Redundant listing of the Headword as there is no difference in accent indicated. And of course, include the "circle-S" symbol with the now Singular Headword Listing in the Hierarchy.
+comment = Double Listed Headword
+status = PENDING
+
+**Jim comment: NO CHANGE.  I couldn't get this effect
+The 'old' list pane shows:
+.aṇi
+.aṇī
+.aṇi  Ⓢ
+The new list pane shows:
+.aṇi  Ⓢ   This is good - Removes double hw, shows S
+.aṇī  Ⓢ   No justification for the 'S' here.
+
+Here's the old/new for the failed attempt
+old:
+<L>2395<pc>11,3<k1>aRi<k2>aRi<e>2
+<s>aRi</s>, <s>is</s>, <lex>m.</lex> or <s>aRI</s>, <lex>f.</lex> ¦ the point of a needle or of a sharp stake, <ls>L.</ls>
+<div n="P"/> linchpin, <ls>L.</ls>
+<div n="P"/> the pin or bolt at the end of the pole of a carriage, <ls>L.</ls>
+<div n="P"/> the corner or part of a house, <ls>L.</ls>
+<div n="P"/> a boundary, <ls>L.</ls>
+<LEND>
+<L>2395.1<pc>11,3<k1>aRI<k2>aRI<e>2
+{{Lbody=2395}}
+<LEND>
+<L>2396<pc>1309,3<k1>aRi<k2>aRi<e>2
+<s>aRi</s>, ¦ (also) half of a lunar month, <ls>L.</ls><info n="sup"/>
+<LEND>
+
+new:
+<L>2395<pc>11,3<k1>aRi<k2>aRi<e>2
+<s>aRi</s>, <s>is</s>, <lex>m.</lex> or <s>aRI</s>, <lex>f.</lex> ¦ the point of a needle or of a sharp stake, <ls>L.</ls>
+<div n="P"/> linchpin, <ls>L.</ls>
+<div n="P"/> the pin or bolt at the end of the pole of a carriage, <ls>L.</ls>
+<div n="P"/> the corner or part of a house, <ls>L.</ls>
+<div n="P"/> a boundary, <ls>L.</ls><listinfo n="sup"/>
+<LEND>
+<L>2396<pc>1309,3<k1>aRi<k2>aRi<e>2A
+<s>aRi</s>, ¦ (also) half of a lunar month, <ls>L.</ls><info n="sup"/>
+<LEND>
+<L>2397<pc>11,3<k1>aRI<k2>aRI<e>2
+{{Lbody=2395}}
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOy Case 595: 12/18/2024 dict=MW, L=61738, hw=khāṭā, user=srhodes
+old = Toggling Headwords in Hierarchy Display
+new = Please note that when I enter the Headword "khāṭā" in the search field, it of course appears in the Display window, but then the Headword "khāṭī" is missing from the Hiearchy Display – though it incorrectly appears in the Window Display of the Headword khāṭā.
+comment = Toggling Headwords in Hierarchy Display
+status = PENDING
+
+**Jim comment: NO CHANGE  I see no problem here, in simple-search 
+  Both KAwA and KAwI are gender-variants of KAwa.  [I'm using slp1 spelling, but IAST spelling also ok.
+  The HIB indicates this.
+  The displays for any of these three gives all three (with different shading), 
+  and also the list pane shows all three (with the two gender variants in parentheses).
+  
+------------------------------------------------------------------------
+
+* TODOy dup Case 596: 12/18/2024 dict=MW, L=61739, hw=khāṭī, user=srhodes
+old = Toggling Headwords in Hierarchy Display
+new = Please note that when I enter the Headword "khāṭī" in the search field, it of course appears in the Display window, but then the Headword "khāṭā" is missing from the Hierarchy Display – though it incorrectly appears in the Window Display of the Headword khāṭī.
+comment = Toggling Headwords in Hierarchy Display
+status = PENDING
+
+**Jim comment: see comment case 595
+------------------------------------------------------------------------
+
+* TODOy Case 603: 12/18/2024 dict=MW, L=2615, hw=atichattra, user=srhodes
+old = Missing Headword
+new = You may choose to add the Headword: "atichattrā" which is listed here in the window display.
+comment = Missing Headword
+status = PENDING
+
+**Jim comment: NO CHANGE. I don't see a missing headword,  aticchattrā is there
+------------------------------------------------------------------------
+
+* TODOx Case 651: 12/21/2024 dict=MW, L=3267, hw=atiṣṭhā, user=srhodes
+old = ati-ṣṭhā́ m. f. (ās) superior in standing, surpassing. 
+new = ???
+comment = Typo – Please check the printed page which in regard to the citation above appears a bit confusing to decipher.
+status = PENDING
+
+**Jim comment: Rewrite 
+
+old:
+<L>3266<pc>16,1<k1>atizWA<k2>ati-zWA/<h>2<e>2
+<hom>2.</hom> <s>ati-zWA/</s> ¦ <lex>f.</lex> precedence, superiority, <ls>ŚBr.</ls> &c.<info lex="f"/>
+<LEND>
+<L>3267<pc>16,1<k1>atizWA<k2>ati-zWA/<e>2B
+<s>ati-zWA/</s> ¦ <lex>m.</lex> <lex>f.</lex> (<s>As</s>) superior in standing, surpassing.<info lex="m:f"/>
+<LEND>
+<L>3267.1<pc>16,1<k1>atizWAvan<k2>ati-zWA/van<e>3
+<s>ati-zWA/van</s> ¦ <lex>m.</lex> superior in standing, surpassing.<info lex="m"/>
+<LEND>
+<L>3267.2<pc>16,1<k1>atizWAvat<k2>ati-zWA/—vat<h>2<e>3
+<hom>2.</hom> <s>ati-zWA/—vat</s> ¦ <lex>mfn.</lex> [<ls>AV.</ls>] superior in standing, surpassing.<info lex="m:f:n"/>
+<LEND>
+
+new:
+
+<L>3266<pc>16,1<k1>atizWA<k2>ati-zWA/<h>2<e>2
+<hom>2.</hom> <s>ati-zWA/</s> ¦ <lex>f.</lex> precedence, superiority, <ls>ŚBr.</ls> &c.<info lex="f"/>
+<LEND>
+<L>3267<pc>16,1<k1>atizWA<k2>ati-zWA/<e>2B
+<s>ati-zWA/</s> (<s>As</s>), <lex>m.</lex> <lex>f.</lex> or <s>ati-zWA/van</s>, <lex>m.</lex> or <s>ati-zWA/—vat</s> [<ls>AV.</ls>], <lex>mfn.</lex> ¦ superior in standing, surpassing.<info lex="m:f"/>
+<LEND>
+<L>3267.1<pc>16,1<k1>atizWAvan<k2>ati-zWA/van<e>3
+{{Lbody=3267}}
+<LEND>
+<L>3267.2<pc>16,1<k1>atizWAvat<k2>ati-zWA/—vat<e>3
+{{Lbody=3267}}
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOx Case 660: 12/21/2024 dict=MW, L=3280, hw=atisāra, user=srhodes
+old = Headword Listed Twice
+new = I recommend to DELETE the second occurrence of this Headword and retain the first instance along with the "circle-S" Supplement Symbol.
+comment = Headword Listed Twice
+status = PENDING
+
+**Jim comment: partial solution
+Cannot solve completely: interaction between sup and group
+hierarchy old:
+.atisāra
+.atīsāra
+.atisāra  Ⓢ
+hierarchy new:  
+.atisāra   We lost the S in display! No way to get it back currently. 
+.atīsāra       
+
+-----
+old:
+<L>3279<pc>16,1<k1>atisAra<k2>ati-sAra<e>2
+<s>ati-sAra</s> or <s>atI-sAra</s>, ¦ <s>as</s>, <lex>m.</lex> purging, dysentery.<info lex="m"/>
+<LEND>
+<L>3279.1<pc>16,1<k1>atIsAra<k2>atI-sAra<e>2
+{{Lbody=3279}}
+<LEND>
+<L>3280<pc>1309,3<k1>atisAra<k2>ati-sAra<e>2
+<s>ati-sAra</s>, ¦ (also) transgression (in <s>sA<srs/>ti-s°</s>), <ab>ib.</ab><info n="sup"/>
+<LEND>
+
+new:
+<L>3279<pc>16,1<k1>atisAra<k2>ati-sAra<e>2
+<s>ati-sAra</s> or <s>atI-sAra</s>, ¦ <s>as</s>, <lex>m.</lex> purging, dysentery.<info lex="m"/>
+<LEND>
+<L>3280<pc>1309,3<k1>atisAra<k2>ati-sAra<e>2A
+<s>ati-sAra</s>, ¦ (also) transgression (in <s>sA<srs/>ti-s°</s>), <ab>ib.</ab> [<ls>Divyāv.</ls>]<info n="sup"/>
+<LEND>
+<L>3280.1<pc>16,1<k1>atIsAra<k2>atI-sAra<e>2
+{{Lbody=3279}}
+<LEND>
+
+------------------------------------------------------------------------
+
+* TODOy Case 693: 12/23/2024 dict=MW, L=3516, hw=atrinetraprasūta, user=srhodes
+old = See Below
+new = It is curious that proper alphabetical order has NOT been observed in the listing of these words: where the words ending with "bhava" and "bhū" should precede the words ending with "sūta". Of course I have made this correction in my own dictionary.
+comment = See Above
+status = PENDING
+
+**Jim comment: NO CHANGE.  The order is per the print
+
+------------------------------------------------------------------------
+
+* TODOy Case 743: 12/27/2024 dict=MW, L=3799, hw=addhyālohakarṇa, user=srhodes
+old = addhyālohakarṇa
+new = addhālohakarṇa
+comment = Typo – Please note that this is likely to be a SERIOUS correction: 
+1) APTE clearly gives this word as "addhālohakarṇa".  
+2) If you examine the devanāgarī script of this Headword on the MW printed page, you will see that it matches perfectly with the devanāgarī script of the Headword "addhā" printed above. Also, if you make this correction, it may also require a "placement correction" as well, such as moving it prior to the headword "addhāti [ID=3798]".
+status = PENDING
+
+**Jim comment: NO CHANGE. pwg gives a link: I think the link supports addhyālohakarṇa
+
+  https://sanskrit-lexicon-scans.github.io/vajasasa/app1/?24,4
+pwg further says: addhyā scheint hier gleichbedeutend mit addhā zu sein. 
+  [addhyā seems to be synonymous with addhā here]
+However, it is odd that there is no 'adDya' in koshas
+------------------------------------------------------------------------
+
+* TODOx Case 748: 12/27/2024 dict=MW, L=3878, hw=adridugdha, user=srhodes
+old = not pressed out or extracted with stones
+new = pressed out or extracted with stones
+comment = Typo – Please note that this is likely to be a SERIOUS correction. 1) This correction follows APTE; 2) simply analyze the compound: "adri (stone)"—"dugdha (extracted)"; 3) Now ask yourself, "Where did the negative particle "not" arise from? Purely a mistake!
+status = PENDING
+
+**Jim comment: 
+**pc: 3878<pc>19,2<k1>adridugDa : not pressed out : pressed out
+------------------------------------------------------------------------
+
+* TODOx Case 923: 01/09/2025 dict=MW, L=37302.1, hw=urvyā, user=srhodes
+old = See Below
+new = Please note that this Headword is printed as: "1. urvyā́" ;  
+  therefore, you may decide to add the number "1" as a marking to the Headword in the Hierarchy Display, so as to distinguish from "2. urvyā́ f. [ID=37390]" ;  I like to SEE the numbers "1" and "2" in the Hierarchy Display so that I know the proper ordering and location of such "numbered" Headwords according to the printed text (and which often have different derivations).
+comment = See Above
+status = PENDING
+
+**Jim comment: added hom 1. Are there any other 'dangling homonyms' ?
+------------------------------------------------------------------------
+
