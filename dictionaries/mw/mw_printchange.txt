@@ -2189,4 +2189,13 @@ L code : Headword : Old  : New : Comment
 <L>670 : akzanvat : akzanvat : akzaRvat : headword change
 <L>193155 : viDarma : 1. :  :  Remove homonym 1
 3878 : adridugDa : not pressed out : pressed out
+-----------------------------------------------------------------------
+01-08-2026
+Source: @aumsanskrit / @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/111 
+L code : Headword : Old  : New : Comment
+29294<pc>167,3<k1>inv : impf. <s>Â°Enot : impf. <s>Enot
+244032<pc>1214,1<k1>sic : Desid. sizikzati or sisikzati : Desid. zizikzati or sisikzati
+77741<pc>414,2<k1>jarc : cl. 1. : cl. 1. 6. 
+
 -----------------------------------------------------------------

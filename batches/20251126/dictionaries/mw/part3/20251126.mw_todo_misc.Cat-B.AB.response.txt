@@ -1,0 +1,131 @@
+mw_todo_misc.txt for 20251126 batch
+Category-B: Dhātu related (7)
+
+Has AB comments
+01-07-2026 edited by @funderburkjim
+
+============================
+
+* TODOx Case 1590: 09/11/2025 dict=MW, L=29294, hw=inv, user=srhodes
+old = °ainot
+new = ainot
+comment = Typo – Please note that this is a suggested "print change", because what purpose can the symbol " ° " serve here?
+status = NOCHANGE  Jim: puzzling, but a better reason needed before change
+
+**AB comment:
+The PWG has it without the contraction mark, and Grassmann gives the ṚV citation thus (of course, it is mostly based on PWG)!
+
+**Jim comment.  MW72 shows 'ainot' (under 'in', another spelling of rood 'inv')
+   as does pwg mentioned by AB.
+  Thus, getting rid of °.
+  Perhaps the ° indicates "occuring with upasarga".
+**pc: 29294<pc>167,3<k1>inv : impf. <s>°Enot : impf. <s>Enot
+------------------------------------------------------------------------
+* TODOy Case 1271: 08/13/2025 dict=MW, L=62305, hw=gaj, user=srhodes
+old = gajayati
+new = gājayati
+comment = Typo – Please note that this is a "print change" as confirmed by Andhrabharati and other Great Authorities.
+status = PENDING Jim. cf. bur (gAjayAmi), mw72, skd (gAjayati), 
+         vcp, wil, mw (gajayati)
+         Who to believe
+
+**AB comment:
+Letʼs have a look at PWG also once!
+
+**Jim comment: NO CHANGE (gaj cl. 10)  
+   mw72 gAjayati;  
+   pwg gAjayati
+   bur gAjayAmi
+   skd gAjayati  (hw = 'gaja')
+
+   vcp gajayati
+   pw gajayati
+   wil gajayati
+
+So there is support for both forms.  
+------------------------------------------------------------------------
+* TODOy Case 651: 06/23/2025 dict=MW, L=66808, hw=gṝ, user=srhodes
+old = 1. sg. Ā. gṛṇīṣé
+new = 2. sg. Ā. gṛṇīṣé
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING  Jim: 
+ pwg (gar) has 'gṛṇāna; gṛṇīpe 1. sg. — med. öfters mit pass.'
+    Note typo in CDSL (gṛṇīpe -> gṛṇīṣe). 
+   This argues against the possible print change
+
+**AB comment:
+Jim has missed that PWG has "gṛṇé" as 3. sg. med. (which translates to 3. sg. Ā.) immediately after "gṛṇāna; gṛṇīṣé 1. sg." which he has referred above.
+And Grassmann also has it as 3. sg., suppoting with a citation from ṚV. [582,7, i.e. 7.66.7].
+
+**Jim comment: NO CHANGE
+ 1. I see '"gṛṇé" as 3. sg. med.' in pwg, but how is this relevant to '1. sg. med.' ?
+ 2. The RV reference 7,66,7 
+   "prati vāṃ sūra udite mitraṃ gṛṇīṣe varuṇam" 
+   "Soon as the Sun hath risen, to you, to Mitra-Varuna, I sing"
+so  gṛṇīṣe is 1 sg.
+ 
+------------------------------------------------------------------------
+* TODOx Case 352: 05/23/2025 dict=MW, L=244032, hw=sic, user=srhodes
+old = siṣikṣati
+new = Possibly Delete
+comment = Typo – Please note that the root is considered as: "√ṣic" ,  which means the Desid. form should only be: "sisikṣati". I find no indication of a variation of the root purely as: "√sic" , and I find no evidence of this form in usage: ""sisikṣati". I hope that Andhrabharati will look into the form: "siṣikṣati" , and either confirm or deny its correctness.
+status = PENDING.  Jim: BUR sisikṣāmi dés. de sic
+  PW: Desid. abhiṣiṣikṣati,  Desid. pariṣiṣikṣati.
+
+**AB comment:
+Letʼs take a third route--
+    change "siṣikṣati or sisikṣati" to "ṣiṣikṣati or sisikṣati"!
+
+**Jim comment.  print change per third route:
+**pc: 244032<pc>1214,1<k1>sic : Desid. sizikzati or sisikzati : Desid. zizikzati or sisikzati
+ 
+  BUR: sisikzAmi (under this headword) 'sisikṣāmi dés. de sic. '
+  MW : Desid. sisikṣati, -te    same for lrv,
+
+ AB pulls the "zizikzati" rabbit out of the PWG hat:
+  pwg  "desid. aBizizikzati Schol. zu P. 8,3,64. 112 und zu 8,3,64, Vārtt. 3. "
+   and "desid. parizizikzati P. 8,3,64, Schol."
+
+
+------------------------------------------------------------------------
+* TODOy Case 150: 04/30/2025 dict=MW, L=86816, hw=tṛh, user=srhodes
+old = cf. vi-;
+new = DELETE ?
+comment = Typo – Please note that I am unable to trace the reference made above: "cf. vi-". I hope that Andhrabharati will look into this. I find no such form as: "vitṛh" etc.
+status = PENDING
+  Jim: PWG:  dass.: vitṛṃhāṇāstiṣṭhanti Ts. 2,2,11,2. mitho vi tṛhyantāmarāpyaḥ Av. 1,28,4.
+
+AB comment:
+Isnʼt Jimʼs finding answering to Scottʼs point?
+
+**Jim comment: no change
+------------------------------------------------------------------------
+* TODOx Case 69: 04/23/2025 dict=MW, L=77741, hw=jarc, user=srhodes
+old = cl. 1.
+new = cl. 6.
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = PENDING
+ Jim: AP: jarc (-rch, -rj) 1, 6. P. 
+    mw72: jarc, cl. 1. 6. P. jarcati, 
+    Should the change be "cl. 1. 6." ?
+
+**AB comment:
+Mādhavīyavṛtti considered "jarc" as cl. 6 and "jarts" as cl. 1; and the same is occurring thus in Westergaard (as well as its Boehtlingk version).
+Kṣīrasvāmi and some other grammarians considered "jarts" = "jarc", while Mādhavīyavṛtti (and thus Westergaard & Boehtlingk) says "jarts" = "jarj".
+Hence the debate!
+Let Jim decide now.
+
+**Jim comment: going with 1. 6. 
+**pc: 77741<pc>414,2<k1>jarc : cl. 1. : cl. 1. 6. 
+------------------------------------------------------------------------
+* TODOx dup Case 67: 04/23/2025 dict=MW, L=77741, hw=jarc, user=srhodes
+old = cl. 1.
+new = cl. 6.
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = PENDING  Jim: refer Case 69
+
+**AB comment:
+See case 69 above.
+**Jim comment: ditto 
+------------------------------------------------------------------------
+
