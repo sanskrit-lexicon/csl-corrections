@@ -230,7 +230,7 @@ def adjust(filein,fileout):
   "GRA","MW","MW72","PUI","PW","PWG",
   "SCH","SHS","SKD","STC","VCP","VEI","WIL","GST","PD","MD",
                "MCI","YAT","MWE","INM","IEG","PE","ACC","BOP","KRM","LAN",
-               "LRV"]
+               "LRV","FRI"]
 
  npending = generate_output("ALL",fileout,recs)
  print(n,"lines read from",filein)
