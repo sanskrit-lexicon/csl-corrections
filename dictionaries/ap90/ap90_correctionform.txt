@@ -2,7 +2,7 @@ Sanskrit Lexicon Correction Form History for AP90
 As of February 03, 2026
 552 correction records, with 1 PENDING
 
-Case 26233: 12/11/2025 dict=AP90, L=22878 , hw=मही, user=chandrasekharanr
+Case 26209: 12/11/2025 dict=AP90, L=22878 , hw=मही, user=chandrasekharanr
 old = क्षितु
 new = क्षित्
 status = PENDING

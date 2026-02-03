@@ -2,19 +2,19 @@ Sanskrit Lexicon Correction Form History for MW
 As of February 03, 2026
 2249 correction records, with 12 PENDING
 
-Case 26314: 01/12/2026 dict=MW, L= , hw=saṃsāra, user=
+Case 26227: 01/12/2026 dict=MW, L= , hw=saṃsāra, user=
 old = 
 new = 
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 26312: 01/08/2026 dict=mw, L= , hw=pārijāta, user=
+Case 26225: 01/08/2026 dict=mw, L= , hw=pārijāta, user=
 old = 
 new = 
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 26308: 12/27/2025 dict=MW, L=81792 , hw=tatas, user=jim
+Case 26221: 12/27/2025 dict=MW, L=81792 , hw=tatas, user=jim
 old = त°तः  (similarly त°तस् )
 new = °तः   (at ids 81792 - 81797)
 comment = markup
