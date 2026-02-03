@@ -1,6 +1,101 @@
 Sanskrit Lexicon Correction Form History for STC
-As of October 09, 2024
-158 correction records, with 0 PENDING
+As of February 03, 2026
+173 correction records, with 8 PENDING
+
+Case 26309: 12/28/2025 dict=STC, L= 4224, hw=avāna , user=Caujolle
+old = non desséché, frais. humide. 
+new = non desséché, frais, humide. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26261: 12/13/2025 dict=STC, L= 9726, hw=jyotis, user=Caujolle
+old = jyotis- nt. clarté, lumière. lueur
+new = jyotis- nt. clarté, lumière, lueur
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26255: 12/12/2025 dict=STC, L= 9466, hw=jan, user=Caujolle
+old =  se produire), 
+new =  se produire, 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26211: 12/08/2025 dict=STC, L= 8866, hw=go, user=Caujolle
+old = nt. = gavyūti- (s. v.). 
+new = s. v. is not properly referenced; it is not the only case, also under the words: graha, tri (under °gaṇa-), dharaṇa, etc. I looked only to the first 50 words under the seach "s v"
+comment = reference
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26209: 12/08/2025 dict=STC, L= 21374, hw=saṃdhā , user=Caujolle
+old = concentrer son esprit. se concentrer ; but there is also  "s. v.",  which is not properly referenced (at, "°hita- s. v. ;")
+new = concentrer son esprit, se concentrer ; 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26208: 12/08/2025 dict=STC, L= 21464, hw=saṃnihita , user=Caujolle
+old = saṃ-nihita- a. v. v. s. -°DHĀ- 
+new = saṃ-nihita- a. v. v. s. °DHĀ- or better, "saṃ-nihita- a. v. v. s. saṃniDHĀ-"
+comment = not only a typo (the third hyphen is not supposed to be there),  it is presently unclear (it is suggested to look at saṃdhā instead of saṃnidhā ); I suppose that if the hyphen wasn't there I would have understood, but even, better would be to write saṃniDHĀ-  instead of °DHĀ- (this because the word is listed as saṃ-nihita, and not as saṃ-ni-hita
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26191: 11/13/2025 dict=STC, L= 20237, hw=śārīra, user=Caujolle
+old = provenant. du corps ;
+new = provenant du corps ;
+status = corrected 03 Feb 2026
+------------------------------------------------------------------------
+
+Case 26190: 11/11/2025 dict=STC, L= 16333, hw=bhoktṛ , user=Caujolle
+old = bhoktṛ- ag. (fut périphr.) qui jouit, 
+new = bhoktṛ- ag. (fut. périphr.) qui jouit, 
+comment = (fut périphr.) was non referenced because of the missing period (see the correction).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26185: 11/06/2025 dict=STC, L= 11299, hw=na, user=Caujolle
+old = avec opt. 
+new = avec opt. 
+comment = this abbreviation isn't referenced. "opt." stands for "optatif". It seems to be seven occurrences in the dictionary.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26184: 10/25/2025 dict=STC, L= 7866, hw=kāma , user=Caujolle
+old = cāra- ag. qui se ment librement, sans entraves ; 
+new = cāra- ag. qui se meut librement, sans entraves ; 
+status = corrected 03 Feb 2026
+------------------------------------------------------------------------
+
+Case 26179: 09/25/2025 dict=STC, L= 24065, hw=sthiti, user=Caujolle
+old =  cas. occurrence ;
+new =  cas, occurrence ;
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26160: 07/24/2025 dict=STC, L= 18484, hw=vijñā , user=Caujolle
+old = acquérir, des connaissances, 
+new = acquérir des connaissances, 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26135: 05/30/2025 dict=STC, L= 11271, hw=dhyā , user=Caujolle
+old = a. v. médité,
+new = here the "a. v." is not properly referenced (whereas in the following paragraph, where it also appears, it is (that is strange, isn't it?)) 
+comment = Reference
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26123: 05/04/2025 dict=STC, L= 1749, hw=anupāta, user=Caujolle
+old = fait d'aller après de suivre, 
+new = fait d'aller après, de suivre, 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26116: 04/26/2025 dict=STC, L= 19425, hw=vṛnda, user=Caujolle
+old = où eurent. lieu 
+new = où eurent lieu 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
 
 Case 26029: 10/06/2024 dict=STC, L= 15877, hw=balāka, user=Caujolle
 old = où les files de hérons passent. comme des sourires.

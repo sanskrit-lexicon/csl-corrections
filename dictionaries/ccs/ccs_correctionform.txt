@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of December 13, 2023
-2270 correction records, with 0 PENDING
+As of February 03, 2026
+2272 correction records, with 2 PENDING
+
+Case 26305: 12/20/2025 dict=CCS, L= 28617, hw= sthā, user=frank.ziesing
+old = Caus. utthāpayati außtehen
+new = Caus. utthāpayati aufstehen
+comment = Typo, same as before. should be "fs" instead of "ß"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26304: 12/20/2025 dict=CCS, L= 28617, hw=sthā, user=frank.ziesing
+old = ud außtehen
+new = ud aufstehen
+comment = Typo: correct: "fs" false: "ß"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 25618: 09/21/2023 dict=CCS, L= 82, hw=akṣa, user=frank.ziesing
 old = 2. akṣa m. Achese.

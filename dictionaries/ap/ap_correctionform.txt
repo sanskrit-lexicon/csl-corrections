@@ -1,189 +1,791 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 18, 2025
-561 correction records, with 28 PENDING
+As of February 03, 2026
+658 correction records, with 89 PENDING
+
+Case 26322: 01/31/2026 dict=ap, L=, hw=prayogaH, user=jim
+old = 1105-1]  प्रयोगः  1 Use, application, employment; as in शब्दप्रयोगः, अयं शब्दो <!!!>भ्रिप्रयोगः<!!!>  - अल्पप्रयोगः ‘this word is generally or rarely used’. 2 A usual form,
+new = भूरिप्रयोग
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26303: 12/18/2025 dict=AP, L=10301, hw=urūla, user=srhodes
+old = urūla
+new = urula
+comment = Typo – Headword Typo !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26302: 12/18/2025 dict=AP, L=10297, hw=uruñjirā, user=srhodes
+old = Nirukta.
+new = Make Font and Color Correction ?
+comment = Font and Color Correction possibly needed for this possible "Source" listing.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26300: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = -vikam
+new = -vikrama
+comment = Typo – UPDATED with TWO CORRECTIONS !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26299: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = -vikam
+new = -vikram
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26298: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = bāyabaraṇā
+new = vāyabaraṇā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26297: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = bahnerapāṃ dagdhuriborujanmā
+new = vahnerapāṃ dagdhurivorujanmā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26296: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = urucakiradbhutaḥ
+new =  LB urucakriradbhutaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26295: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = -caki
+new = -cakri
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26294: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = urukamasyākhilabandhamuktaye
+new = urukramasyākhilabandhamuktaye
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26293: 12/18/2025 dict=AP, L=10293, hw=uru, user=srhodes
+old = -kama a. Ved. 1 taking wide strides. śaṃ no viṣṇururukamaḥ
+new = -krama a. Ved. 1 taking wide strides. śaṃ no viṣṇururukramaḥ
+comment = Typo – Please note TWO corrections here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26291: 12/17/2025 dict=AP, L=10291, hw=urīkṛ, user=srhodes
+old = tbayā
+new = tvayā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26290: 12/17/2025 dict=AP, L=10288, hw=urā, user=srhodes
+old = katau
+new = kratau
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26289: 12/17/2025 dict=AP, L=10282, hw=uras, user=srhodes
+old = ruciraddaśāmurojakumbhau
+new = ruciradṛśāmurojakumbhau
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26288: 12/17/2025 dict=AP, L=10275, hw=urabhraḥ, user=srhodes
+old = betanadānena
+new = vetanadānena
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26287: 12/17/2025 dict=AP, L=10271, hw=uragaḥ, user=srhodes
+old = aḍgulīvoragakṣatā
+new = aṅgulīvoragakṣatā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26286: 12/17/2025 dict=AP, L=10274, hw=uraṇakaḥ, user=srhodes
+old = etāburaṇakau
+new = etāvuraṇakau
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26285: 12/17/2025 dict=AP, L=10273, hw=uraṇaḥ, user=srhodes
+old = vṛkīboraṇamāsādya
+new = vṛkīvoraṇamāsādya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26284: 12/16/2025 dict=AP, L=10274, hw=uragaḥ, user=srhodes
+old = aḍgulīvoragakṣatā
+new = aṅgulīvoragakṣatā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26283: 12/16/2025 dict=AP, L=10267, hw=umbī, user=srhodes
+old = vudhairumbīti
+new = budhairumbīti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26282: 12/16/2025 dict=AP, L=10264, hw=umā, user=srhodes
+old = tripuradāhamumāpatisebinaḥ
+new = tripuradāhamumāpatisevinaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26281: 12/16/2025 dict=AP, L=10258, hw=ubhayā, user=srhodes
+old = bṛhaspatirba
+new = bṛhaspatirva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26280: 12/16/2025 dict=AP, L=10255, hw=ubhayataḥ, user=srhodes
+old = -hnasva
+new = -hrasva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26279: 12/16/2025 dict=AP, L=10255, hw=ubhayataḥ, user=srhodes
+old = parasmaibhāṣā and Ātmanebhāṣā
+new = Parasmaibhāṣā and Ātmanebhāṣā
+comment = Typo – Please note that this is a suggested "print change", simply for the sake of consistency.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26278: 12/16/2025 dict=AP, L=10255, hw=ubhayataḥ, user=srhodes
+old = manuṣyāṃśra
+new = manuṣyāṃśca
+comment = Typo – You may consider to make this a Global Correction using the target search: "ṃśra"  ——becomes—–  "ṃśca". I am exceedingly pleased with this discovery. I just did a Global Test in my own dictionary, and I found no instance of ativyāpti !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26277: 12/16/2025 dict=AP, L=10254, hw=ubha, user=srhodes
+old = -vidya
+new = -vidha
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26276: 12/16/2025 dict=AP, L=10253, hw=ubha, user=srhodes
+old = sūryācandramasābubhau
+new = sūryācandramasāvubhau
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26275: 12/16/2025 dict=AP, L=10244, hw=upodbalaka, user=srhodes
+old = tasyaibopodbalakametat
+new = tasyaivopodbalakametat
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26274: 12/16/2025 dict=AP, L=10244, hw=upodbalaka, user=srhodes
+old = tasyaibopodbalakametat
+new = tasyaivopodbalakametat
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26273: 12/15/2025 dict=AP, L=10236, hw=upoḍha, user=srhodes
+old = upabah
+new = upavah
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26272: 12/15/2025 dict=AP, L=10235, hw=upendraḥ, user=srhodes
+old = saṃtanbate
+new = saṃtanvate
+comment = Typo – You may consider to make this a Global Correction using the target search: "tanb" ——becomes—–  "tanv".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26271: 12/15/2025 dict=AP, L=10235, hw=upendraḥ, user=srhodes
+old = yadupendrastbamatīndra
+new = yadupendrastvamatīndra
+comment = Typo – You may consider to make this a Global Correction using the target search: "stb  ——becomes—–  "stv".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26270: 12/15/2025 dict=AP, L=10233, hw=upeḍakīy, user=srhodes
+old = upeḍakīy
+new = upeḍakīya
+comment = Typo – Please note that this is a possible "print change", pending approval.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26269: 12/15/2025 dict=AP, L=10228, hw=upekṣ, user=srhodes
+old = hapupaikṣata
+new = hyupaikṣata
+comment = Typo – You may consider to make this a Global Correction using the target search: "  hapup"  ——becomes—–  "  hyup" • the initial space in the [{find/replace} function] will isolate the issue to prevent "ativyāpti".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26268: 12/14/2025 dict=AP, L=10226, hw=upeya, user=srhodes
+old = abaraḥ
+new = avaraḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26267: 12/14/2025 dict=AP, L=10218, hw=upāyaḥ, user=srhodes
+old = -cataṣṭayam
+new = -catuṣṭayam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26266: 12/14/2025 dict=AP, L=10209, hw=upāsaṅgaḥ, user=srhodes
+old = upāsaḍgānācaraddakṣiṇena
+new = upāsaṇgānācaraddakṣiṇena
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26265: 12/14/2025 dict=ap, L=, hw=prayogaH, user=jim
+old = 1105-1]  प्रयोगः  1 Use, application, employment; as in शब्दप्रयोगः, अयं शब्दो <!!!>भ्रिप्रयोगः<!!!>  - अल्पप्रयोगः ‘this word is generally or rarely used’. 2 A usual form,
+new = भूरिप्रयोग
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26264: 12/13/2025 dict=AP, L=10207, hw=upāstiḥ, user=srhodes
+old = sbargāpavargayormārgamāmanānti
+new = svargāpavargayormārgamāmanānti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26263: 12/13/2025 dict=AP, L=10201, hw=upās, user=srhodes
+old = upāsāñcakire
+new = upāsāñcakrire
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26260: 12/13/2025 dict=AP, L=10187, hw=upāvasu, user=srhodes
+old = iṣayannupābasuḥ
+new = iṣayannupāvasuḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26259: 12/13/2025 dict=AP, L=10184, hw=upālambhaḥ, user=srhodes
+old = cakurhi
+new = cakrurhi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26258: 12/13/2025 dict=AP, L=10184, hw=upālambhaḥ, user=srhodes
+old = tabopālambhe patitāsmi  M.  LB 1 laid myself open to your censure;
+new = tabopālambhe patitāsmi  M.1 laid myself open to your censure;
+comment = Arrangement Error – Please note the Source Citation appears to be "M.1" and the translation relates directly to THAT citation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26257: 12/13/2025 dict=AP, L=10184, hw=upālambhaḥ, user=srhodes
+old = tabopālambhe
+new = tavopālambhe
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26256: 12/13/2025 dict=AP, L=10172, hw=upāram, user=srhodes
+old = vātabarṣamupāratam
+new = vātavarṣamupāratam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26254: 12/12/2025 dict=AP, L=10218, hw=upāyaḥ, user=srhodes
+old = -cataṣṭayam
+new = -catuṣṭayam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26253: 12/12/2025 dict=AP, L=10218, hw=upāyaḥ, user=srhodes
+old = sāntvamapakiyā
+new = sāntvamapakriyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26252: 12/12/2025 dict=AP, L=10218, hw=upāyaḥ, user=srhodes
+old = parākamaiḥ
+new = parākramaiḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26251: 12/12/2025 dict=AP, L=10163, hw=upānta, user=srhodes
+old = upāntabānīragṛhāṇi
+new = upāntavānīragṛhāṇi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26250: 12/12/2025 dict=AP, L=10163, hw=upānta, user=srhodes
+old = upāntabānīragṛhāṇi
+new = upāntavānīragṛhāṇi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26249: 12/12/2025 dict=AP, L=10163, hw=upānta, user=srhodes
+old = upāntabānīragṛhāṇi
+new = upāntavānīragṛhāṇi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26248: 12/12/2025 dict=AP, L=10163, hw=upānta, user=srhodes
+old = bilocane
+new = vilocane
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26246: 12/11/2025 dict=AP, L=10158, hw=upādhyāyānī, user=srhodes
+old = mātulopādhyāyayorānugbā
+new = mātulopādhyāyayorānugvā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26245: 12/11/2025 dict=AP, L=10157, hw=upādhyāyaḥ, user=srhodes
+old = sarbasvam
+new = sarvasvam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26244: 12/11/2025 dict=AP, L=10157, hw=upādhyāyaḥ, user=srhodes
+old = sbayamebādhyāpikā tatra vā ḍīṣ
+new = svayamevādhyāpikā tatra vā ṅīṣ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26243: 12/11/2025 dict=AP, L=10157, hw=upādhyāyaḥ, user=srhodes
+old = bedasya bedāṅgānyapi
+new = vedasya vedāṅgānyapi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26242: 12/11/2025 dict=AP, L=10157, hw=upādhyāyaḥ, user=srhodes
+old = bedasya bedāṅgānyapi
+new = vedasya vedāṅgānyapi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26241: 12/11/2025 dict=AP, L=10154, hw=upādhiḥ, user=srhodes
+old = banavāse
+new = vanavāse
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26240: 12/11/2025 dict=AP, L=10154, hw=upādhiḥ, user=srhodes
+old = kiyata
+new = kriyata
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26239: 12/11/2025 dict=AP, L=18076, hw=dhūmavat, user=srhodes
+old = streaming
+new = steaming
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26238: 12/11/2025 dict=AP, L=10154, hw=upādhiḥ, user=srhodes
+old = parbato dhūmavān bahneḥ
+new = parvato dhūmavān vahneḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26237: 12/11/2025 dict=AP, L=10154, hw=upādhiḥ, user=srhodes
+old = vahnimattba
+new = vahnimattva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26236: 12/11/2025 dict=AP, L=10154, hw=upādhiḥ, user=srhodes
+old = biśeṣaṇasya
+new = viśeṣaṇasya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26235: 12/11/2025 dict=AP, L=10154, hw=upādhiḥ, user=srhodes
+old = kiyā
+new = kriyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26234: 12/11/2025 dict=AP, L=10154, hw=upādhiḥ, user=srhodes
+old = tadupādhābeva
+new = tadupādhāveva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26232: 12/10/2025 dict=AP, L=10150, hw=upādānam, user=srhodes
+old = causing bhaba
+new = causing bhava
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26231: 12/10/2025 dict=AP, L=10150, hw=upādānam, user=srhodes
+old = nimittameba
+new = nimittameva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26230: 12/10/2025 dict=AP, L=10150, hw=upādānam, user=srhodes
+old = pāṭabopādānaḥ
+new = pāṭavopādānaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26229: 12/10/2025 dict=AP, L=10149, hw=upātta, user=srhodes
+old = upāttabarṇe
+new = upāttavarṇe
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26228: 12/10/2025 dict=AP, L=10149, hw=upātta, user=srhodes
+old = maḍgalamityupāttam
+new = maṅgalamityupāttam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26227: 12/10/2025 dict=AP, L=10148, hw=upādā, user=srhodes
+old = bartate
+new = vartate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26226: 12/10/2025 dict=AP, L=10148, hw=upādā, user=srhodes
+old = nivandho dravyameba
+new = nibandho dravyameva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26225: 12/09/2025 dict=AP, L=10140, hw=upāṅgaḥ, user=srhodes
+old = sāḍgopāḍgairihoditāḥ
+new = sāṅgopāṅgairihoditāḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26224: 12/09/2025 dict=AP, L=10134, hw=upāgata, user=srhodes
+old = betsi
+new = vetsi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26223: 12/09/2025 dict=AP, L=10133, hw=upāgam, user=srhodes
+old = kodham
+new = krodham
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26221: 12/09/2025 dict=AP, L=10131, hw=upākhyā, user=srhodes
+old = nyayuḍkta
+new = nyayuṅkta
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26220: 12/09/2025 dict=AP, L=10128, hw=upākam, user=srhodes
+old = upākam
+new = upākram
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26219: 12/09/2025 dict=AP, L=10127, hw=upākṛta, user=srhodes
+old = debānāmapyetu
+new = devānāmapyetu
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26218: 12/09/2025 dict=AP, L=10122, hw=upāṃśu, user=srhodes
+old = -kīḍita
+new = -krīḍita
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26217: 12/09/2025 dict=AP, L=10122, hw=upāṃśu, user=srhodes
+old = prajāpatedharmaḥ
+new = prajāpaterdharmaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26216: 12/09/2025 dict=AP, L=10122, hw=upāṃśu, user=srhodes
+old = upāṃśbeba
+new = upāṃśveba
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26215: 12/09/2025 dict=AP, L=10117, hw=upahavaḥ, user=srhodes
+old = bīnāmupasaraṃ dṛṣṭvā te'nyonyopahabā
+new = vīnāmupasaraṃ dṛṣṭvā te'nyonyopahavā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26213: 12/08/2025 dict=AP, L=10112, hw=upahāryam, user=srhodes
+old = kṛtbopahāryāṇi
+new = kṛtvopahāryāṇi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26212: 12/08/2025 dict=AP, L=10112, hw=upahāryam, user=srhodes
+old = kṛtbopahāryāṇi
+new = kṛtvopahāryāṇi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26210: 12/08/2025 dict=AP, L=10111, hw=upahārin, user=srhodes
+old = paribhabopahāriṇaḥ
+new = paribhavopahāriṇaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26207: 12/08/2025 dict=AP, L=10100, hw=upahāsaḥ, user=srhodes
+old = laughing-stock
+new = laughingstock
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26206: 12/08/2025 dict=AP, L=10097, hw=upaghātakaḥ, user=srhodes
+old = laghu bāhavā
+new = laghubāhavā
+comment = Typo – This is a possible "print change" that needs confirmation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26205: 12/08/2025 dict=AP, L=9470, hw=upaghātakaḥ, user=srhodes
+old = laghubāhabā
+new = laghubāhavā
+comment = Typo – This is a possible correction that needs confirmation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26204: 12/08/2025 dict=AP, L=10092, hw=upahatnu, user=srhodes
+old = hiting
+new = hitting
+comment = Typo – Please note that this is a "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26181: 09/29/2025 dict=AP, L=27329, hw=rasaḥ, user=christian.ferstl
+old = nāṭhye
+new = nāṭye
+status = corrected. Date unknown. Corrected three other nAWy->nAwy cases on 03 Feb 2026
+------------------------------------------------------------------------
+
+Case 26178: 09/22/2025 dict=AP, L=697, hw=atimāna, user=christian.ferstl
+old = mānamatikāntaḥ
+new = mānamatikrāntaḥ
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26168: 08/07/2025 dict=AP, L=16416, hw=tāvat, user=christian.ferstl
+old = gaccha tāvata
+new = gaccha tāvat
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26166: 08/05/2025 dict=AP, L= 483, hw=अञ्जना , user=Shalu
+old = Kuṅjara 
+new = Kuñjara 
+comment = Print Error
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26155: 07/02/2025 dict=AP, L=30866, hw=veṣa, user=christian.ferstl
+old = beśa
+new = veśa
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26152: 06/24/2025 dict=AP, L=29285, hw=vikṣobhaḥ, user=christian.ferstl
+old = bīci°
+new = vīci°
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26146: 06/20/2025 dict=AP, L=9259, hw=udveṣṭanīya, user=christian.ferstl
+old = birahadivase yā śikhā dāma hitbā
+new = virahadivase yā śikhā dāma hitvā
+comment = misinterpretation of printed akṣaras
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26119: 04/30/2025 dict=AP, L=9178, hw=udyuj, user=christian.ferstl
+old = bhabantamabhiyoktumudyuḍkte
+new = bhavantamabhiyoktumudyuṅkte
+status = corrected. Date unknown
+------------------------------------------------------------------------
 
 Case 26111: 04/16/2025 dict=AP, L=10478, hw=ūrṇā, user=christian.ferstl
 old = māḍgalyorṇāvalayini
 new = māṅgalyorṇāvalayini
 comment = misinterpretation of an akṣara
-status = PENDING
+status = corrected. Date unknown.
 ------------------------------------------------------------------------
 
 Case 26096: 03/20/2025 dict=AP, L=19334, hw=niṣkrayaḥ, user=christian.ferstl
 old = pītenebātmaniṣkayam
 new = pītenevātmaniṣkrayam
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26095: 03/18/2025 dict=AP, L=23496, hw=praveṇiḥ, user=christian.ferstl
 old = hemabhāktimatīṃ
 new = hemabhaktimatīṃ
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26094: 03/18/2025 dict=AP, L=23496, hw=praveṇiḥ, user=christian.ferstl
 old = hemabhāktimatīṃ
 new = hemabhacktimatīṃ
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26093: 03/15/2025 dict=AP, L=8847, hw=utsargaḥ, user=christian.ferstl
 old = upavāda ibotsargaṃ vyābartayitumīśvaraḥ
 new = apavāda ivotsargaṃ vyāvartayitumīśvaraḥ
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26089: 03/04/2025 dict=AP, L=32667, hw=śvaśrūḥ, user=christian.ferstl
 old = śvaśrūjanānuṣṭitacāruveśām
 new = śvaśrūjanānuṣṭhitacāruveśām
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26088: 03/04/2025 dict=AP, L=30866, hw=veṣa, user=christian.ferstl
 old = See beśa
 new = See veśa
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26087: 03/03/2025 dict=AP, L=4197, hw=amithyā, user=christian.ferstl
 old = tāmūcetusta
 new = tāmūcatuste
 comment = misprint
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26086: 03/01/2025 dict=AP, L= 6851, hw=ādṛta, user=christian.ferstl
 old = nātyāddato'bhūt; ityāddatena; pṛcchatyanuvelamāddataḥ
 new = nātyādṛto'bhūt; ityādṛtena; pṛcchatyanuvelamādṛtaḥ
 comment = 3 times "da" instead of "dṛ"
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26085: 03/01/2025 dict=AP, L= 20125, hw=parigrahaḥ, user=christian.ferstl
 old = ardhyaparigrahānte
 new = arghyaparigrahānte
 comment = misinterpretation of an akṣara
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26084: 02/26/2025 dict=AP, L= 9093, hw=uddhā (II), user=christian.ferstl
 old = yato sjaḥ
 new = yato rajaḥ
 comment = misinterpretation of an akshara
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26079: 02/02/2025 dict=AP, L=2784, hw=apoḍha, user=christian.ferstl
 old = apa-bah
 new = apa-vah
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26078: 02/01/2025 dict=AP, L=32132, hw=śī, user=christian.ferstl
 old = śathyate
 new = śayyate
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26073: 01/19/2025 dict=AP, L=27395, hw=rājilaḥ, user=christian.ferstl
 old = mahoragavisarpiṃvikramo
 new = mahoragavisarpivikramo
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26072: 01/15/2025 dict=AP, L=19210, hw=nivṛ, user=christian.ferstl
 old = nivannuṃrvānarā'dhipam
 new = nivavrur vānarā'dhipam
 comment = poor scan/copy
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26071: 01/13/2025 dict=AP, L=9120, hw=uddhyaḥ, user=christian.ferstl
 old = ivoddhapabhidyayoḥ
 new = ivoddhyabhidyayoḥ
 comment = misinterpretation of low quality scan
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26070: 01/13/2025 dict=AP, L= 9120, hw=uddhyaḥ, user=christian.ferstl
 old = uddhapaḥ
 new = uddhyaḥ
 comment = misreading of low quality print or scan
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26065: 01/02/2025 dict=AP, L= 23449, hw=pravirala, user=christian.ferstl
 old = mugdhavadhūkathaḥ
 new = mugdhavadhūkathāḥ
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26064: 01/01/2025 dict=AP, L= 28545, hw=varūthin, user=christian.ferstl
 old = dhanurmṛtaḥ
 new = dhanurbhṛtaḥ
 comment = misread akṣara
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26063: 12/30/2024 dict=AP, L= 10035, hw=upasṛṣṭa, user=christian.ferstl
 old = rogopasṛṣṭatanurdurbasatiṃ
 new = rogopasṛṣṭatanudurvasatiṃ
 comment = misprint
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26059: 12/24/2024 dict=AP, L= 23608, hw=prasita, user=christian.ferstl
 old = siddhimubhābavāpatuḥ
 new = siddhimubhāvavāpatuḥ
 comment = misprint?
-status = PENDING
+status =  corrected 28 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26058: 12/23/2024 dict=AP, L= 19801, hw=paṇaḥ, user=christian.ferstl
 old = ṣaḍupāyuḍkta
 new = ṣaḍupāyuṅkta
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26057: 12/19/2024 dict=AP, L= 32406 , hw=śoṇa, user=Christian Ferstl
 old = bhāgīra thīṃ śoṇa ibottaraṅgaḥ
 new = bhāgīrathīṃ śoṇa ivottaraṅgaḥ
 comment = low quality scan
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26051: 12/02/2024 dict=AP, L= 22109, hw=pragalbha, -lmā, user=christian.ferstl
 old = -lmā
 new = -lbhā
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26050: 12/01/2024 dict=AP, L= 11099, hw=kakud, user=christian.ferstl
 old = ityāhitalakṣaṇo'bhūta
 new = ity āhitalakṣaṇo 'bhūt
 comment = misprint
-status = PENDING
+status =  corrected 12 Jan 2026
 ------------------------------------------------------------------------
 
 Case 26046: 11/26/2024 dict=AP, L= 30174, hw=vilaṅghita, user=christian.ferstl
 old = vilaṅghitāghoraṇatīvrayatnāḥ
 new = vilaṅghitādhoraṇatīvrayatnāḥ
 comment = misinterpretation of a hard to read akṣara
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26045: 11/24/2024 dict=AP, L= 35972, hw=smayaḥ, user=christian.ferstl
 old = smayābeśavivarjitāya
 new = smayāveśavivarjitāya
 comment = misprint
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26043: 11/23/2024 dict=AP, L= 9725, hw=upaplavaḥ, user=christian.ferstl
 old = vāgvādirupaplavo
 new = vāyvādirupaplavo
 comment = misinterpretation of a hard to read printed edition or scan
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 25959: 05/07/2024 dict=AP, L= 4564, hw=arthaḥ, user=

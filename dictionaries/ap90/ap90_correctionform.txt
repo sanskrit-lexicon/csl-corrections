@@ -1,17 +1,67 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of April 18, 2025
-544 correction records, with 2 PENDING
+As of February 03, 2026
+552 correction records, with 1 PENDING
+
+Case 26233: 12/11/2025 dict=AP90, L=22878 , hw=मही, user=chandrasekharanr
+old = क्षितु
+new = क्षित्
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26161: 07/25/2025 dict=AP90, L= , hw=dR^ish, user=
+old = 
+new = 
+status = insufficient information
+------------------------------------------------------------------------
+
+Case 26158: 07/06/2025 dict=ap90, L=, hw=Sru, user=jim
+old = To go, move; cf. शु.  II. 5 P. (शृणोति, शुश्राव,  अश्रौषीत्, श्रोष्यति, <!!!>श्रेतुं,<!!!> श्रुत) 1 To hear,  listen to, give ear to; शृणु मे सावशेषं वचः V. 2 ; रुतानि
+new = श्रोतुम् print change
+comment = 
+status = corrected 02 Feb 2026. Not a print change. Print is having enough space. It was a printing error.
+------------------------------------------------------------------------
+
+Case 26153: 06/24/2025 dict=AP90, L= Yuraj, hw=युवराज, user=
+old = 
+new = 
+status = insufficient information
+------------------------------------------------------------------------
+
+Case 26140: 06/08/2025 dict=AP90, L= 28782 , hw=saMhati, user=jim
+old = Unien is strength
+new = Union is strength
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26121: 05/02/2025 dict=AP90, L= 0290-b, hw=utkaMThate, user=giuliogey
+old = utkaṭhate ca yuṣmatsannikarṣasya
+new = utkaNThate ca yuṣmatsannikarṣasya
+comment = Typo utkaṭhate misses a N
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26120: 05/02/2025 dict=AP90, L= page 0403-a, hw=kim, user=giuliogey
+old =  api, cit, cana, cidapi or svit are often added to kiṃ to give it an indefinite sense; biveśa kaścijjaṭilastapovanaṃ Ku. 5. 30
+new = biveśa wrong for biveśav
+status = corrected 03 Feb 2026
+------------------------------------------------------------------------
+
+Case 26114: 04/24/2025 dict=AP90, L= 23546 , hw=modaka, user=ejf
+old = कः, क A sweetmeat
+new = कः, कं A sweetmeat  (missing anusvAra)
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
 
 Case 26105: 04/02/2025 dict=AP90, L=2607, hw=अपह, user=chandrasekharanr
 old = अप-हण्-ड
 new = अप-हन्-ड
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26074: 01/19/2025 dict=AP90, L= 22657 , hw=मंत्रः, user=jim funderburk
 old = Consuitation
 new = Consultation
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26016: 08/19/2024 dict=AP90, L= 22629, hw=man, user=joaocbgon

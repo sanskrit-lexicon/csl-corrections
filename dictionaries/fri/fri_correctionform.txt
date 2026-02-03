@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History for FRI
+As of February 03, 2026
+4 correction records, with 4 PENDING
+
+Case 26318: 01/13/2026 dict=fri, L=, hw=, user=
+old = 1  (czech) nesoucí těžké věci 2  (russian) несущий тяжелые вещи 3  (english) <!!!>bearer of what is heavy<!!!>  [ID=2141 ]         $(window).on("load",function() {   var correctionsUrl
+new = orphus test for webtc1 -- please ignore
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26317: 01/13/2026 dict=fri, L=, hw=, user=
+old = дорогой; m. знатное лицо, отец (родители), учитель, господин 3  (english) <!!!>heavy<!!!>, difficult, evil; extended, important, respectable, dear; m. any venerable
+new = orphus test  for webtc1 - please ignore
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26316: 01/13/2026 dict=fri, L=, hw=, user=
+old = дорогой; m. знатное лицо, отец (родители), учитель, господин 3  (english) <!!!>heavy<!!!>, difficult, evil; extended, important, respectable, dear; m. any venerable
+new = Test of orphus for webtc -- please ignore
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26315: 01/12/2026 dict=fri, L=, hw=, user=
+old = m. знатное лицо, отец (родители), учитель, господин 3  (english) heavy, <!!!>difficult<!!!>, evil; extended, important, respectable, dear; m. any venerable person, father
+new = orphus test -- please ignore
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+

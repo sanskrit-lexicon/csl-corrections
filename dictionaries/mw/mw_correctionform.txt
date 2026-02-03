@@ -1,132 +1,330 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 18, 2025
-2219 correction records, with 23 PENDING
+As of February 03, 2026
+2249 correction records, with 12 PENDING
+
+Case 26314: 01/12/2026 dict=MW, L= , hw=saṃsāra, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26312: 01/08/2026 dict=mw, L= , hw=pārijāta, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26308: 12/27/2025 dict=MW, L=81792 , hw=tatas, user=jim
+old = त°तः  (similarly त°तस् )
+new = °तः   (at ids 81792 - 81797)
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26203: 12/07/2025 dict=mw, L=, hw=praTamam, user=jim
+old = cases and their terminations.  [ID=134516 ]  (H1C)  [Printed book page 678,3]  <!!!>प्रथमम्   (अम्), ind.<!!!>  [ID=134516.1 ]      ▲ .प्रथिति  .प्रथिमन्  .प्रथिमिन्  .(प्रथिमिनी)
+new = definition missing
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26202: 12/07/2025 dict=mw, L=, hw=tad, user=gasyoun
+old = [ID=82046.40 ]      so also, equally, and AV. xi , xv   [ID=82046.45 ]    <!!!>tad   tad tad this and that, various, different<!!!> (e.g. taṃ taṃ deśaṃ jagāma, ‘he went to this and that place’; tāsu tāsu
+new = tad tad in printed book, instead of tad tad tad, other similar "doubling" cases in same article as well
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26198: 11/21/2025 dict=MW, L= 254272, hw=skhal, user=geymonat
+old = Caus. skhālayati (or skhālayati, Dhātup. xix, 59 ), to cause to falter, Kum. ;
+new = ... skhalayati (or skhālayati, ...
+comment = Typo (the first form is with a short a)
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26197: 11/21/2025 dict=MW, L= 17474, hw=avadhīr, user=renuvate
+old = ava-√dhīr (ind.p. : -dhīrya [Correction: ava-dhīraya]) 
+new = ava-√dhīr [Correction: ava-dhīraya] (ind.p. : -dhīrya) 
+comment = Wrong correction. page 1317.1 intended to correct the headword avadhīr>avadhīraya (and not the ind.p. avadhīrya, which is correct)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26196: 11/19/2025 dict=mw, L=, hw=krI, user=jim
+old = क्री1. क्री   cl. 9. P. Ā. क्रीणाति, क्रीणीते (fut. p. क्रेष्यत्, Lāṭy.; <!!!>ind.p. क्रीवा<!!!>, AV.; Mn.), to buy, purchase (with instr. of the price, and abl. or gen. of
+new = ind. p. क्रीत्वा
+comment = 
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26195: 11/17/2025 dict=MW, L= ID=119269 , hw=2. parī , user=erik.seldeslachts
+old = Pot. partyām
+new = Pot. partyām 
+comment = Pot. parī́yām 
+status = corrected 03 Feb 2026
+------------------------------------------------------------------------
+
+Case 26192: 11/16/2025 dict=MW, L= 139502 , hw=prāṇa, user=Caujolle
+old = a vital organ vital air
+new = a vital organ, vital air
+status = corrected 03 Feb 2026
+------------------------------------------------------------------------
+
+Case 26183: 10/14/2025 dict=MW, L=6825 / 6825.1, hw=anupraveśa /  anupraveśana, user=samm3
+old = entrance into LB imitation, L. 
+new = entrance into; LB imitation, L. 
+comment = Typo   LB - [cf. Apte Practical Sanskrit-English Dictionary, 1890]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26182: 10/04/2025 dict=mw, L= , hw=va sava , user=va sava
+old = 
+new = 
+comment = 
+status = insufficient information
+------------------------------------------------------------------------
+
+Case 26176: 08/31/2025 dict=MW, L= ID=215119, hw=śāṇa—pramaṇa, user=erik.seldeslachts
+old = śāṇa—pramaṇa
+new = śāṇa—pramāṇa
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26175: 08/24/2025 dict=mw, L=, hw=kOsalya, user=gasyoun
+old = f. ‘daughter of a prince of the Kosalas’, N. of the wife of Pūru and mother of <!!!>Janam-ejaya<!!!>, MBh. i, 3764  [ID=57553 ]      of the wife of Satvat, Hariv. 1999  [ID=57554
+new = Janam-ejaya is in print as well and not end of line, but what is - for?
+comment = 
+status = no change required
+------------------------------------------------------------------------
+
+Case 26170: 08/20/2025 dict=MW, L=28608, hw=[English-Sanskrit] substance , user=samm3
+old = [Monier-Williams English-Sanskrit Dictionary] LB  sarvvasvaṃ
+new = sarvasvaṃ
+status = no change required
+------------------------------------------------------------------------
+
+Case 26167: 08/07/2025 dict=MW, L= 141796 , hw=phala—pariṇāma, user=Caujolle
+old = phala—pariṇāma m. id., A.
+new = phala—pariṇāma m. id., A. [the ripeness of a fruit] or phala—pariṇāma m. id., A. [= phala—pariṇati] ro [see phala—pariṇati] [with phala—pariṇati as a link (in general, links are missing in the dictionary, even if this dict. is already great, Regards] 
+comment = that would be nice not to have to open the scan (which now are blurred), (my search was pariṇāma as suffix)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26164: 08/03/2025 dict=mw, L=, hw=vihAyas, user=gasyoun
+old = 953,2]  1. vi—hāyas   (vi-), mfn. (for 2., from which perhaps it is scarcely <!!!>separable See<!!!> vi-√hā) vigorous, active, mighty, RV.; AV.; TĀr. (accord. to Sch. = mahat,
+new = separable, see
+comment = 
+status = no change required
+------------------------------------------------------------------------
+
+Case 26163: 08/03/2025 dict=mw, L=, hw=kzuD, user=gasyoun
+old = 10, 6; vii, 4, 3, 1; Bhaṭṭ.  [ID=60072 ]  (H2)  [Printed book page 331,2]  2. <!!!>kṣudh   t, f. hunger<!!!>, RV.; AV. 
+new = kṣudh, t, f. hunger (comment before T was missing, is present in print)
+comment = 
+status = no change required
+------------------------------------------------------------------------
+
+Case 26162: 07/30/2025 dict=mw, L=, hw=samman, user=jim
+old = as (acc. or two acc.), ib. 
+new = to think highly, of esteem, 
+comment = 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26159: 07/18/2025 dict=MW, L= ID=235302 , hw=sam-udra—vahni, user=erik.seldeslachts
+old = m. submarine tire, L. 
+new = m. submarine fire, L. 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26156: 07/02/2025 dict=MW, L= 74803, hw=cUrNa, user=
+old =  powder flour, 
+new = powder, flour,
+comment = missing comma
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26154: 06/28/2025 dict=MW, L= 120756 , hw=paścimatāna , user=Caujolle
+old = I think this is a mistake, the word for that particular âsana is paścimottāna , a well know and famous posture
+new = to add "[paścimottāna]", a partic. manner of sitting [paścimottāna],
+comment = 
+status = no change required. It is taken from an attested source. See https://github.com/sanskrit-lexicon/csl-orig/issues/2815
+------------------------------------------------------------------------
+
+Case 26144: 06/19/2025 dict=MW, L= 58779 , hw=kṣaṇa—bhaṅga, user=samm3
+old = continual, decay of things
+new = continual decay of things
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26138: 06/06/2025 dict=MW, L=136675, hw=pravac, user=Viliam
+old = to tell of betray
+new = to tell of, betray
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26134: 05/29/2025 dict=MW, L= 71737 , hw=candra—bindu , user=Caujolle
+old = ‘moon-like spot’, the sign for the nasal o
+new = ‘moon-like spot’, the sign for the nasal   ঁ
+comment = ?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26131: 05/25/2025 dict=MW, L= चातु , hw=चातु , user=
+old = 
+new = 
+status = insufficient information
+------------------------------------------------------------------------
+
+Case 26129: 05/25/2025 dict=MW, L=58779 , hw= kṣaṇabhaṅga, user=samm3
+old = continual, decay of things
+new = continual decay of things
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26125: 05/12/2025 dict=MW, L=ID=17507 , hw=ava-dhāraṇa am , user=samm3
+old = ava-dhāraṇa am 
+new = ava-dhāraṇa 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26118: 04/28/2025 dict=MW, L= 122106 , hw=पादिन्, user=ejf
+old =  (see m)
+new = (see <lex>m.</lex>)
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26117: 04/27/2025 dict=MW, L=239781, hw=saśc, user=
+old = soścat
+new = soścat
+comment = Typo:insufficient infrormation
+status = PENDING
+------------------------------------------------------------------------
 
 Case 26110: 04/13/2025 dict=mw, L= 27167 , hw=AvI, user=ejf
 old = A/-vavIran (slp1)
 new = A/-vevIran
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26102: 04/01/2025 dict=MW, L= 44624, hw=karka, user=
 old = 
 new = 
-status = PENDING
+status = insufficient information
 ------------------------------------------------------------------------
 
 Case 26081: 02/09/2025 dict=MW, L=204340 , hw=vft, user=geymonat
 old = 
 new = 
 comment = Links to Whitney Roots and Westergaard Dhatupatha do not link anywhere 
-status = PENDING
+status = no change required. It links now. May have been corrected
 ------------------------------------------------------------------------
 
 Case 26080: 02/07/2025 dict=MW, L= 151191, hw=भीष्मसू, user=
 old = -जनर्नी
 new = -जननी
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26077: 01/29/2025 dict=MW, L= 225304 , hw=षष्टितम, user=ejf
 old = of zazwa
 new = <ab>cf.</ab> zazwa
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26076: 01/24/2025 dict=MW, L= 16938.1, hw=av, user=czhao
 old = (said of the gods) to be pleased with, like, accept favourably (as sacrifices, prayers or hymns), RV., (chiefly said of kings or princes)
 new = After "RV." it should by a semicolon instead of comma, so "(chiefly said of kings or princes)" should be placed with the next line "to guard, defend, ..."
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26069: 01/12/2025 dict=MW, L=5571, hw=anāman, user=
 old = ring-finger
 new = ring finger
 comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" does not appear to be generally in this case.
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 26062: 12/30/2024 dict=MW, L= 5638, hw=anAryatA, user=ejf
 old = vileness unworthiness
 new = vileness, unworthiness
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26061: 12/29/2024 dict=MW, L= 153716, hw=भ्रातृदत्त, user=jimfunderburk
 old = In list display of simple search, the first entry of Bratfdatta is भ्रतृत्व !
 new = The H3B for 53717 needs to be H3;  and also 153718 needs to be H3B.
 comment = markup
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26060: 12/27/2024 dict=MW, L= 233433 , hw=समधिकतररूप, user=ejf
 old = more beautiful thin
 new = more beautiful than
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26055: 12/15/2024 dict=MW, L=dashabala, hw=dashabala, user=
 old = 
 new = 
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 26052: 12/03/2024 dict=MW, L= , hw=mayi, user=karunamayidas
 old = mayi
 new = 
-status = PENDING
+status = insufficient information
 ------------------------------------------------------------------------
 
 Case 26049: 11/27/2024 dict=mw, L= 111386.1, hw=nIra, user=ejf
 old = L. गृह, L.
 new = = गृह, L.
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26048: 11/27/2024 dict=mw, L=, hw=nIra, user=jim
 old = MBh.; Kāv. 
 new = = गृह, L. 
 comment = 
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26047: 11/27/2024 dict=mw, L=, hw=agada, user=jim
 old = अगद  (H1)  [Printed book page 4,2]  अ-गद   mfn. <!!!>free from disease healthy<!!!>, RV. 
 new = free from disease, healthy [missing comma]
 comment = 
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26044: 11/24/2024 dict=MW, L=239501, hw=savatsa, user=Owen Flawers
 old = together with a calf having a calf
 new = together with a calf, having a calf
 comment = omitted comma
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26042: 11/17/2024 dict=MW, L= 20212 8, hw=vizARa, user=ejf
 old = which 1. may
 new = which <hom>1.</hom> may
 comment = markup
-status = PENDING
+status =  corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26041: 11/16/2024 dict=mw, L= , hw=pranu, user=
 old = pranu
 new = 
-status = PENDING
+status = insufficient information. Not corrected
 ------------------------------------------------------------------------
 
 Case 26039: 11/15/2024 dict=MW, L= 218590 , hw=शीर्ष , user=ejf
 old = with शिरस्: collateral 
 new = with शिरस्; collateral  (colon to semicolon
-status = PENDING
+status =  corrected 23 July 2025
 ------------------------------------------------------------------------
 
 Case 26035: 11/09/2024 dict=MW, L= , hw=Dwaram, user=
 old = dwara
 new = 
-status = PENDING
+status = insufficient information
 ------------------------------------------------------------------------
 
 Case 26034: 11/08/2024 dict=MW, L=1730, hw=aṅgulisaṃdaṃśa, user=
@@ -139,14 +337,14 @@ status = PENDING
 Case 26032: 10/30/2024 dict=MW, L= 17389, hw=अवदात, user=octaveboczkowski
 old = Pur.
 new = pure
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26030: 10/16/2024 dict=MW, L= 81566.1, hw=taṃs, user=john.clayton.v
 old = at-pinsan
 new = at-þinsan
 comment = OCR mistake of italic ⟨p⟩ instead of ⟨þ⟩
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26028: 10/01/2024 dict=MW, L= 10002.2, hw=apAtravarzin, user=ejf

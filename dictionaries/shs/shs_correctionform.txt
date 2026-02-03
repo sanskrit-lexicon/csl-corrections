@@ -1,26 +1,149 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of April 18, 2025
-199 correction records, with 14 PENDING
+As of February 03, 2026
+217 correction records, with 8 PENDING
+
+Case 26320: 01/22/2026 dict=SHS, L=23535 , hw=परि, user=snbt98
+old = परि(र)णाम
+new = परि(री)णाम
+comment = Possible error. I do not think there is a form as परणाम. I checked in MW as well.  
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26313: 01/09/2026 dict=SHS, L= 27972 , hw=प्रासाद्र, user=snbt98
+old = प्रासाद्र
+new = प्रासाद 
+comment = Typo or printing error in the original. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26307: 12/24/2025 dict=SHS, L= 28311 , hw=फल्ग, user=snbt98
+old = फल्ग
+new = फल्गु
+comment = Typo in the original print, I think.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26301: 12/18/2025 dict=SHS, L= 13513, hw=गिर, user=snbt98
+old = गिर
+new = गिरि
+comment = Typo in print. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26292: 12/17/2025 dict=SHS, L= 42412, hw=सपत्र, user=snbt98
+old = सपत्र
+new = सपत्न
+comment = Typo. The two words after this on the scanned page too have the same error. नुक् augment is clearly mentioned in the etymology.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26262: 12/13/2025 dict=SHS, L=23047 , hw=पत्री, user=snbt98
+old = पत्री
+new = पत्नी
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26222: 12/09/2025 dict=SHS, L=45991 , hw=स्मेरविष्किर, user=snbt98
+old = स्मर in the Etymology
+new = स्मेर
+comment = Typo in the original print.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26200: 11/26/2025 dict=SHS, L=21095 , hw=नमस्कत्वा, user=snbt98
+old = नमस्कत्वा
+new = नमस्कृत्वा
+status = corrected 02 Feb 2026. Duplicate
+------------------------------------------------------------------------
+
+Case 26151: 06/23/2025 dict=SHS, L=23591, hw=रपपिन्थिन्, user=snbt98
+old = रपपिन्थिन्
+new = परिपन्थिन्
+comment = Typo in the original scan. 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26150: 06/23/2025 dict=SHS, L=9894, hw=कान्तार, user=snbt98
+old = 1. A had ...
+new = 1. A bad ...
+comment = Typo. 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26149: 06/23/2025 dict=SHS, L=4962, hw=आकाशवर्त्मव्, user=snbt98
+old = आकाशवर्त्मव्
+new = आकाशवर्त्मन्
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26148: 06/23/2025 dict=SHS, L= 2002, hw=अपत्थपथ, user=snbt98
+old = अपत्थपथ
+new = अपत्यपथ
+comment = Typo. Can be verified from the prior and following entries
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26141: 06/09/2025 dict=SHS, L=771, hw=अविरोमश, user=snbt98
+old = अविरोमश
+new = अतिरोमश
+comment = It is a print error. Can be verified by (i) etymology; (ii) viewing previous and further entries 
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26137: 06/04/2025 dict=SHS, L= 33, hw=अंशुहस्त, user=snbt98
+old = हल
+new = हस्त
+comment = Typo in the Etymology
+status = corrected 02 Feb 2026. duplicate
+------------------------------------------------------------------------
+
+Case 26136: 06/02/2025 dict=SHS, L= 32430, hw=यतिमैथुन, user=snbt98
+old = सैथुन
+new = मैथुन
+comment = Typo in the Etymology
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26132: 05/26/2025 dict=SHS, L=10104, hw=कार्त्तिकेयपसू, user=snbt98
+old = कार्त्तिकेयपसू
+new = कार्त्तिकेयप्रसू
+comment = Typo. 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26128: 05/22/2025 dict=SHS, L=33, hw=अंशुहस्त, user=snbt98
+old = हल
+new = हस्त
+comment = Typo. In the etymology.
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26122: 05/03/2025 dict=SHS, L=31893, hw=मृगजलस्रान, user=snbt98
+old = मृगजलस्रान
+new = मृगजलस्ना
+comment = Typo.र् ---> न्
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
 
 Case 26112: 04/17/2025 dict=SHS, L=- , hw=-, user=iv271
 old = Wrong book attribution
 new = The source indexed here is attributed to BHAṬṬĀCĀRYA, J. V. here:  LB https://www.sanskrit-lexicon.uni-koeln.de/scans/SHSScan/2020/web/index.php LB But the book appears to be written by someone else: Vidyasagara, Pandit-Kulapati Jibananda LB https://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/shspref/shspref01.html  LB 
 comment = Incorrect bibliography entry for the source
-status = PENDING
+status = no change required. See discussion at https://github.com/sanskrit-lexicon/csl-orig/issues/2808.
 ------------------------------------------------------------------------
 
 Case 26108: 04/08/2025 dict=SHS, L=27873, hw=प्रादुर्भाव, user=snbt98
 old = पादुस् in the Etymology
 new = प्रादुस्
 comment = Typo. This an error present in print. I'm aware that the maintainers policy is to digitise the contents as it is, even if errors are found. So, just tagging this error, in case it may be useful in the future.
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26107: 04/07/2025 dict=SHS, L=1881, hw=अन्यजत्मन्, user=snbt98
 old = अन्यजत्मन्
 new = अन्यजन्मन्
 comment = Typo. In the etymology, जन्मन् has been entered correctly. However, for the headword, due to the print being slightly unclear, त् has been entered insted of न्.
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26104: 04/02/2025 dict=SHS, L=21091, hw=नमस्, user=snbt98
@@ -33,63 +156,63 @@ status = PENDING
 Case 26103: 04/02/2025 dict=SHS, L=21095, hw=नमस्कत्वा, user=snbt98
 old = नमस्कत्वा
 new = नमस्कृत्वा
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26101: 03/30/2025 dict=SHS, L=12622, hw=खङ्ग, user=snbt98
 old = खङ्ग
 new = खड्ग
 comment = Typo. Instead of the third letter of the third class, the fifth nasalised letter of the first class of vargeeya vyanjan has been written due to only slight difference in the glyphs representing them. This mistake is found repeated in the entries following it. It can be confirmed by viewing the scanned pages. 
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26100: 03/26/2025 dict=SHS, L=22278, hw=निष्कार्मा, user=snbt98
 old = निष्कार्मा
 new = निष्काम
 comment = Typo. There is some printing artefact after म in the scanned page. I do not think it represents र् and आ.
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26099: 03/26/2025 dict=SHS, L=3859, hw=अवशक्थिका, user=snbt98
 old = kness
 new = knees
-status = PENDING
+status = corrected. Date unknown
 ------------------------------------------------------------------------
 
 Case 26098: 03/21/2025 dict=SHS, L=25301, hw=पुरस्कत, user=snbt98
 old = पुरस्कत
 new = पुरस्कृत
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26097: 03/21/2025 dict=SHS, L=33410, hw=राजगामिन्, user=snbt98
 old = heris
 new = heirs
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26092: 03/15/2025 dict=SHS, L=32313, hw=म्लेच्छभोजन , user=snbt98
 old = in the Etymology LB म्नेच्छ
 new = म्लेच्छ
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26091: 03/15/2025 dict=SHS, L=5541, hw=आप्रपद, user=snbt98
 old = food
 new = foot
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26090: 03/13/2025 dict=SHS, L=11663 , hw=कैकेयो, user=snbt98
 old = कैकेयो
 new = कैकेयी
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26066: 01/07/2025 dict=SHS, L=10138, hw=कार्य्यवत्, user=sachinbhatia98
 old = वात् ; engagod
 new = वान् ; engaged
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 25900: 01/22/2024 dict=SHS, L= 39486, hw=śabdatanmātra, user=srhodes

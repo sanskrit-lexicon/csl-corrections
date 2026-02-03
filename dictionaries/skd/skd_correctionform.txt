@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of April 18, 2025
-357 correction records, with 1 PENDING
+As of February 03, 2026
+357 correction records, with 0 PENDING
 
 Case 26036: 11/10/2024 dict=SKD, L=2-763-b, hw=द्वन्द्वं, user=Deepro Chakraborty
 old = विना हेतुमपि द्बन्द्बमेतन्मूर्खस्य लक्षणम् ॥
 new = विना हेतुमपि द्वन्द्वमेतन्मूर्खस्य लक्षणम् ॥
-status = PENDING
+status =  corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 25802: 12/19/2023 dict=SKD, L=36711, hw=श्रोणिः, user=czhao

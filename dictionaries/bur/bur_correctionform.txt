@@ -1,6 +1,86 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of April 18, 2025
-790 correction records, with 3 PENDING
+As of February 03, 2026
+802 correction records, with 7 PENDING
+
+Case 26311: 01/08/2026 dict=BUR, L= 4203, hw=kalpa, user=Caujolle
+old = Au fig. forme idéale d'un objet, idée qu on s'on fait, propriété qu on lui attribue on qu'il possede;   LB l'nyctémère de Brahmā [il y en a de 3 grandeurs: le pepetit kalpa LB 
+new = Au fig. forme idéale d'un objet, idée qu'on s'en fait, propriété qu'on lui attribue ou qu'il possède;  [5 corrections] +  LB le nyctémère de Brahmā [il y en a de 3 grandeurs: le petit kalpa  [2 corrections]
+comment = Typos (the last is a typo in the book)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26310: 01/05/2026 dict=BUR, L= 17090, hw=śrava , user=Caujolle
+old = — N. service, demesticité. 
+new = — N. service, domesticité. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26306: 12/21/2025 dict=BUR, L= 4167, hw=kalā , user=Caujolle
+old = un doigt. c-à-d. — du diametre de la lune. 
+new = un doigt, c-à-d. 1/16 du diamètre de la lune. 
+comment = Typos (3, the comma, the number and the accent)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26189: 11/10/2025 dict=BUR, L= 597, hw=anukūla, user=Caujolle
+old =  qui suit la rive: conforme prospère, heureux, propice. 
+new =  qui suit la rive: conforme ; prospère, heureux, propice. 
+comment = this is clearly missing in the book, it doesn't make any sense like it is. And what i am suggesting does make sense and is in conformity with anukūlatā which follow .
+status = corrected. Date unknown
+------------------------------------------------------------------------
+
+Case 26188: 11/10/2025 dict=BUR, L= 16511, hw=śaṅkha, user=Caujolle
+old = — M. os temporal; Page633 NOT IN ORIGINAL NIL Page634 NOT IN ORIGINAL NIL Page635-1
+new = — M. os temporal; Page633 sautée, absente de l'original Page634 sautée, absente de l'original Page635-1
+comment = Would be nice to write this above in French rather that the "NOT IN ORIGINAL NIL" that we can't understand, so I had to go to the pages, and even there it took me some time to realize what the problem was. Regards
+status = corrected 03 Feb 2026
+------------------------------------------------------------------------
+
+Case 26187: 11/10/2025 dict=BUR, L= 7300, hw=jīva, user=Caujolle
+old = Animal; être vivant. en gén.
+new = Animal; être vivant, en gén.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26174: 08/23/2025 dict=BUR, L= 10471, hw=para, user=Caujolle
+old = "paramahaṃsa m. dévot qui s'applique à mêditer sur le principe suprême nommé haṃsa.  " but also "Ecume"
+new = méditer, not mêditer; and "Écume" 
+comment = Typo; accent missing
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26169: 08/07/2025 dict=BUR, L= 410, hw=adhika , user=Caujolle
+old = exces (two occurrences)
+new = excès
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26147: 06/21/2025 dict=BUR, L= 19328, hw=sam, user=Caujolle
+old = sma sma partic. explétive
+new = "partic." is in fact referring to "particule", not to "participe". There are 5 such occurrences in the dictionary.
+comment = reference
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26139: 06/07/2025 dict=BUR, L= 12786, hw=bhūta , user=Caujolle
+old = (ātman) l'âme des vivants, le principe élémentaire de la vie 
+new = (ātman) l'âme des vivants, le principe élémentaire de la vie.
+comment = Typo (the period is also missing on the paper).
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26130: 05/25/2025 dict=BUR, L= 597, hw=anukūla , user=Caujolle
+old = m à m. qui suit la rive: conforme prospère, 
+new = m à m. qui suit la rive: conforme ; prospère, 
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
+
+Case 26124: 05/04/2025 dict=BUR, L= 9246, hw=dhana, user=Caujolle
+old = biens,. richesses
+new = biens, richesses
+comment = Typo (it is just a spot on the paper, not a period)
+status = corrected 02 Feb 2026
+------------------------------------------------------------------------
 
 Case 26106: 04/04/2025 dict=BUR, L= 11194, hw=purA, user=Caujolle
 old = poëme
@@ -12,7 +92,7 @@ status = PENDING
 Case 26083: 02/14/2025 dict=BUR, L= 47, hw=akṣa , user=Caujolle
 old = par extchar;  
 new = par ext. char;   (N.B. "ext." is for "extension")
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26082: 02/14/2025 dict=BUR, L= 47, hw=akṣa , user=Caujolle

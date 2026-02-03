@@ -1,26 +1,26 @@
 Sanskrit Lexicon Correction Form History for PW
-As of April 18, 2025
-11907 correction records, with 3 PENDING
+As of February 03, 2026
+11907 correction records, with 0 PENDING
 
 Case 26075: 01/23/2025 dict=PW, L= 131427 , hw=sparśayajña, user=frank.ziesing
 old = sparśayajña m. ein in der blassen Berührung
 new = sparśayajña m. ein in der blossen Berührung
 comment = Typo "a" should be replaced by "o", "blossen" is correct
-status = PENDING
+status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26053: 12/12/2024 dict=PW, L=131416 , hw=sparśa, user=frank.ziesing
 old = — d〉 eine durch Berührung wahrgenommene Eigenschaft def Dinge, 
 new = — d〉 eine durch Berührung wahrgenommene Eigenschaft der Dinge, 
 comment = Typo: wrong: "def", correct: "der"
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 26031: 10/20/2024 dict=PW, L= 49147, hw=darśana , user=frank.ziesing
 old = darśanṃ dā sich sehen lassen, sich zeigen
 new = darśanaṃ dā sich sehen lassen, sich zeigen
 comment = Typo: "a" missing in darśan*a*ṃ 
-status = PENDING
+status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
 Case 25964: 05/15/2024 dict=PW, L= 10081, hw=alpaka, user=frank.ziesing
