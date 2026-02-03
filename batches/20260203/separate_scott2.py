@@ -37,7 +37,7 @@ def partiion_lines(dt,lines):
  lines2 = []
  lines3 = []
  lines4 = []
- pat2 = '\tsrhodes@snowcrest.net'
+ pat2 = '\tsrhodes@snow[c]*rest.net'
  scott_dicts = {}
  dtregex = r'^([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+):([0-9]+)$'
  for iline,line in enumerate(lines):
@@ -66,7 +66,7 @@ def partiion_lines(dt,lines):
   if dtline <= dt:
    # prev.tsv
    lines1.append(line)
-  elif (pat2 in line):
+  elif re.search(pat2, line):
    # unprocessed Scott-mw lines
    lines2.append(line)  # scott.tsv
    update_scott_dicts(scott_dicts,line)
