@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MWE
 As of February 03, 2026
-86 correction records, with 1 PENDING
+86 correction records, with 0 PENDING
 
 Case 26210: 12/12/2025 dict=MWE, L= 27229, hw=siva, user=vaibhav.niku
 old = नीलकण्टः, श्यामकण्टः, नीलग्रीवः, शितिकण्टः, कालकण्टः, श्रीकण्टः
 new = All of the 5 कण्ट should be कण्ठ. Thanks.
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26177: 09/19/2025 dict=MWE, L= NA, hw=kṣaṇa, user=ghbganesh

@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for MW
 As of February 03, 2026
-2249 correction records, with 12 PENDING
+2249 correction records, with 9 PENDING
 
 Case 26227: 01/12/2026 dict=MW, L= , hw=saṃsāra, user=
 old = 
 new = 
-status = PENDING
+status = insufficient information
 ------------------------------------------------------------------------
 
 Case 26225: 01/08/2026 dict=mw, L= , hw=pārijāta, user=
 old = 
 new = 
-status = PENDING
+status = insufficient information
 ------------------------------------------------------------------------
 
 Case 26221: 12/27/2025 dict=MW, L=81792 , hw=tatas, user=jim
@@ -32,7 +32,7 @@ Case 26202: 12/07/2025 dict=mw, L=, hw=tad, user=gasyoun
 old = [ID=82046.40 ]      so also, equally, and AV. xi , xv   [ID=82046.45 ]    <!!!>tad   tad tad this and that, various, different<!!!> (e.g. taṃ taṃ deśaṃ jagāma, ‘he went to this and that place’; tāsu tāsu
 new = tad tad in printed book, instead of tad tad tad, other similar "doubling" cases in same article as well
 comment = 
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 26198: 11/21/2025 dict=MW, L= 254272, hw=skhal, user=geymonat

@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for BUR
 As of February 03, 2026
-802 correction records, with 7 PENDING
+802 correction records, with 4 PENDING
 
 Case 26224: 01/08/2026 dict=BUR, L= 4203, hw=kalpa, user=Caujolle
 old = Au fig. forme idéale d'un objet, idée qu on s'on fait, propriété qu on lui attribue on qu'il possede;   LB l'nyctémère de Brahmā [il y en a de 3 grandeurs: le pepetit kalpa LB 
 new = Au fig. forme idéale d'un objet, idée qu'on s'en fait, propriété qu'on lui attribue ou qu'il possède;  [5 corrections] +  LB le nyctémère de Brahmā [il y en a de 3 grandeurs: le petit kalpa  [2 corrections]
 comment = Typos (the last is a typo in the book)
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26223: 01/05/2026 dict=BUR, L= 17090, hw=śrava , user=Caujolle
 old = — N. service, demesticité. 
 new = — N. service, domesticité. 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26219: 12/21/2025 dict=BUR, L= 4167, hw=kalā , user=Caujolle
 old = un doigt. c-à-d. — du diametre de la lune. 
 new = un doigt, c-à-d. 1/16 du diamètre de la lune. 
 comment = Typos (3, the comma, the number and the accent)
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26189: 11/10/2025 dict=BUR, L= 597, hw=anukūla, user=Caujolle

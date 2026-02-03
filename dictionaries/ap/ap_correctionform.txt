@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for AP
 As of February 03, 2026
-571 correction records, with 2 PENDING
+571 correction records, with 0 PENDING
 
 Case 26235: 01/31/2026 dict=ap, L=, hw=prayogaH, user=jim
 old = 1105-1]  प्रयोगः  1 Use, application, employment; as in शब्दप्रयोगः, अयं शब्दो <!!!>भ्रिप्रयोगः<!!!>  - अल्पप्रयोगः ‘this word is generally or rarely used’. 2 A usual form,
 new = भूरिप्रयोग
 comment = 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26214: 12/14/2025 dict=ap, L=, hw=prayogaH, user=jim
 old = 1105-1]  प्रयोगः  1 Use, application, employment; as in शब्दप्रयोगः, अयं शब्दो <!!!>भ्रिप्रयोगः<!!!>  - अल्पप्रयोगः ‘this word is generally or rarely used’. 2 A usual form,
 new = भूरिप्रयोग
 comment = 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26181: 09/29/2025 dict=AP, L=27329, hw=rasaḥ, user=christian.ferstl

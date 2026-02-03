@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for AE
 As of February 03, 2026
-103 correction records, with 1 PENDING
+103 correction records, with 0 PENDING
 
 Case 26234: 01/25/2026 dict=ae, L=, hw=, user=Serge A
 old = Help  dog  dog  [Printed book page 119]  Dog,  s. śvan m. <!!!>kukkaraḥ<!!!>, sārameyaḥ, śunakaḥ; kauleyakaḥ, bhaṣakaḥ, mṛgadaṃśakaḥ; ‘d. -cheap’
 new = kukkuraḥ
 comment = 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 25945: 04/14/2024 dict=AE, L=225, hw=ahead, user=snbt98

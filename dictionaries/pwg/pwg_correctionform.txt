@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for PWG
 As of February 03, 2026
-252 correction records, with 2 PENDING
+252 correction records, with 0 PENDING
 
 Case 26232: 01/13/2026 dict=pwg, L=, hw=, user=
 old = bhāṣā  bhāṣā  [Printed book page 5-0270]  bhāṣā  (von 1. bhāṣ) f.  1) Rede, <!!!>Sprache<!!!> Ak. 1,1,5,1. H. 241. Halāy. 1,8. satyā na bhāṣā bhavati yadyapi syātpratiṣṭhitā
 new = Test of orphus for webtc1 with pwg -- please ignore
 comment = 
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 26207: 12/08/2025 dict=PWG, L= 97104, hw=zakti, user=h.c.jahr
 old = Furst
 new = Fürst
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26199: 11/25/2025 dict=PWG, L= 39697, hw=निर्विण्ण, user=gshastov89

@@ -1,53 +1,53 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of February 03, 2026
-217 correction records, with 8 PENDING
+217 correction records, with 1 PENDING
 
 Case 26233: 01/22/2026 dict=SHS, L=23535 , hw=परि, user=snbt98
 old = परि(र)णाम
 new = परि(री)णाम
 comment = Possible error. I do not think there is a form as परणाम. I checked in MW as well.  
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26226: 01/09/2026 dict=SHS, L= 27972 , hw=प्रासाद्र, user=snbt98
 old = प्रासाद्र
 new = प्रासाद 
 comment = Typo or printing error in the original. 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26220: 12/24/2025 dict=SHS, L= 28311 , hw=फल्ग, user=snbt98
 old = फल्ग
 new = फल्गु
 comment = Typo in the original print, I think.
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26216: 12/18/2025 dict=SHS, L= 13513, hw=गिर, user=snbt98
 old = गिर
 new = गिरि
 comment = Typo in print. 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26215: 12/17/2025 dict=SHS, L= 42412, hw=सपत्र, user=snbt98
 old = सपत्र
 new = सपत्न
 comment = Typo. The two words after this on the scanned page too have the same error. नुक् augment is clearly mentioned in the etymology.
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26213: 12/13/2025 dict=SHS, L=23047 , hw=पत्री, user=snbt98
 old = पत्री
 new = पत्नी
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26208: 12/09/2025 dict=SHS, L=45991 , hw=स्मेरविष्किर, user=snbt98
 old = स्मर in the Etymology
 new = स्मेर
 comment = Typo in the original print.
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26200: 11/26/2025 dict=SHS, L=21095 , hw=नमस्कत्वा, user=snbt98

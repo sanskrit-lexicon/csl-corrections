@@ -1,23 +1,23 @@
 Sanskrit Lexicon Correction Form History for STC
 As of February 03, 2026
-173 correction records, with 8 PENDING
+173 correction records, with 3 PENDING
 
 Case 26222: 12/28/2025 dict=STC, L= 4224, hw=avāna , user=Caujolle
 old = non desséché, frais. humide. 
 new = non desséché, frais, humide. 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26212: 12/13/2025 dict=STC, L= 9726, hw=jyotis, user=Caujolle
 old = jyotis- nt. clarté, lumière. lueur
 new = jyotis- nt. clarté, lumière, lueur
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26211: 12/12/2025 dict=STC, L= 9466, hw=jan, user=Caujolle
 old =  se produire), 
 new =  se produire, 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26206: 12/08/2025 dict=STC, L= 8866, hw=go, user=Caujolle
@@ -30,14 +30,14 @@ status = PENDING
 Case 26205: 12/08/2025 dict=STC, L= 21374, hw=saṃdhā , user=Caujolle
 old = concentrer son esprit. se concentrer ; but there is also  "s. v.",  which is not properly referenced (at, "°hita- s. v. ;")
 new = concentrer son esprit, se concentrer ; 
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26204: 12/08/2025 dict=STC, L= 21464, hw=saṃnihita , user=Caujolle
 old = saṃ-nihita- a. v. v. s. -°DHĀ- 
 new = saṃ-nihita- a. v. v. s. °DHĀ- or better, "saṃ-nihita- a. v. v. s. saṃniDHĀ-"
 comment = not only a typo (the third hyphen is not supposed to be there),  it is presently unclear (it is suggested to look at saṃdhā instead of saṃnidhā ); I suppose that if the hyphen wasn't there I would have understood, but even, better would be to write saṃniDHĀ-  instead of °DHĀ- (this because the word is listed as saṃ-nihita, and not as saṃ-ni-hita
-status = PENDING
+status = no change required.
 ------------------------------------------------------------------------
 
 Case 26191: 11/13/2025 dict=STC, L= 20237, hw=śārīra, user=Caujolle

@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for VCP
 As of February 03, 2026
-422 correction records, with 1 PENDING
+422 correction records, with 0 PENDING
 
 Case 26201: 12/03/2025 dict=VCP, L= 41074, hw=वानप्रस्य, user=Shalu
 old = वानप्रस्य
 new = वानप्रस्थ
-status = PENDING
+status = corrected. 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26067: 01/08/2025 dict=VCP, L= 42644, hw=vyavasthā, user=madhavkiran.sodum
