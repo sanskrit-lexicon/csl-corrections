@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of February 03, 2026
-2249 correction records, with 9 PENDING
+As of February 04, 2026
+2249 correction records, with 7 PENDING
 
 Case 26227: 01/12/2026 dict=MW, L= , hw=saṃsāra, user=
 old = 
@@ -73,7 +73,7 @@ Case 26183: 10/14/2025 dict=MW, L=6825 / 6825.1, hw=anupraveśa /  anupraveśana
 old = entrance into LB imitation, L. 
 new = entrance into; LB imitation, L. 
 comment = Typo   LB - [cf. Apte Practical Sanskrit-English Dictionary, 1890]
-status = PENDING
+status = corrected 04 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26182: 10/04/2025 dict=mw, L= , hw=va sava , user=va sava
@@ -196,8 +196,7 @@ status = corrected 02 Feb 2026
 Case 26117: 04/27/2025 dict=MW, L=239781, hw=saśc, user=
 old = soścat
 new = soścat
-comment = Typo:insufficient infrormation
-status = PENDING
+status = insufficient infrormation
 ------------------------------------------------------------------------
 
 Case 26110: 04/13/2025 dict=mw, L= 27167 , hw=AvI, user=ejf

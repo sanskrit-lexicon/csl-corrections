@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of February 03, 2026
-802 correction records, with 4 PENDING
+As of February 04, 2026
+802 correction records, with 3 PENDING
 
 Case 26224: 01/08/2026 dict=BUR, L= 4203, hw=kalpa, user=Caujolle
 old = Au fig. forme idéale d'un objet, idée qu on s'on fait, propriété qu on lui attribue on qu'il possede;   LB l'nyctémère de Brahmā [il y en a de 3 grandeurs: le pepetit kalpa LB 
@@ -39,7 +39,7 @@ status = corrected 03 Feb 2026
 Case 26187: 11/10/2025 dict=BUR, L= 7300, hw=jīva, user=Caujolle
 old = Animal; être vivant. en gén.
 new = Animal; être vivant, en gén.
-status = PENDING
+status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 26174: 08/23/2025 dict=BUR, L= 10471, hw=para, user=Caujolle
