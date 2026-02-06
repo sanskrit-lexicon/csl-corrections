@@ -911,7 +911,6 @@ triangulaire <ab>(?)</ab>, <ab>Vd.</ab> || <ab>Ép.</ab> d'une portion du <s1 sl
 {#nEzaDa#}¦ {%naiṣadha%} <ab>a.</ab> du pays des <s1 slp1="nizaDa">Niṣadha</s1>s. || <ab>Ép.</ab> du roi
 conque, coquille, en <ab>gén.</ab> || <ab>Ép.</ab> du feu.
 <s1 slp1="rudra">Rudra</s1>, chef des <s1 slp1="marut">Marut</s1>s et époux de <s1 slp1="pfSni">Pṛśni</s1> {%(pṛśni)%}, <ab>Vd.</ab> || <ab>Ép.</ab>
-
 -----------------------------------------------------------------------
 01-30-2024
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1648
@@ -924,4 +923,10 @@ L code : Headword : Old  : New : Comment
 Source: Odile Caujolle
 L code : Headword : Old  : New : Comment
 12786  : BUta : de la vie : de la vie. : Added a period
+-----------------------------------------------------------------------
+02-04-2026
+Source: Odile Caujolle
+poëme to poème (13 occurrences)
+See https://github.com/sanskrit-lexicon/csl-orig/issues/2806
+Corrections in the following commit https://github.com/sanskrit-lexicon/csl-orig/commit/84bf87528150424720be8e1d37357bd2eb90d778
 -----------------------------------------------------------------------
