@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of February 15, 2026
-589 correction records, with 589 PENDING
+589 correction records, with 581 PENDING
 
 Case 589: 02/03/2026 dict=AP, L=10821, hw=aiśvaryam, user=srhodes
 old = Super-human
@@ -648,7 +648,7 @@ Case 493: 01/13/2026 dict=PW, L=21075, hw=ūrdhvakaṇṭha, user=srhodes
 old = * f. ā
 new = * f. ī 
 comment = Typo – Please note that this is a "Print Change", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3694873540 LB AND  LB https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3738689457
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 492: 01/13/2026 dict=MW, L=38125, hw=ūrdhvakaṇṭhakā, user=srhodes
@@ -804,7 +804,7 @@ Case 470: 01/11/2026 dict=PW, L=2069, hw=atiśaya, user=srhodes
 old = atiśayena und atiśaya°
 new = ???
 comment = Question — I had another thought that perhaps the form  " atiśaya° "  is indicating usage at the beginning of a compound ?  Please confirm if this is so ?
-status = PENDING
+status = Yes. No change required.
 ------------------------------------------------------------------------
 
 Case 469: 01/11/2026 dict=SHS, L=8051, hw=ṛṣi, user=srhodes
@@ -830,7 +830,7 @@ Case 466: 01/10/2026 dict=PW, L=2069, hw=atiśaya, user=srhodes
 old = atiśayena und atiśaya°
 new = atiśayena und atiśayam
 comment = Typo – Please note that this is a possible "Print Change", as I am unsure what else the contraction mark would mean here ?  
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 465: 01/10/2026 dict=AP, L=10620, hw=ṛṣṭiḥ, user=srhodes
@@ -999,13 +999,13 @@ Case 441: 01/06/2026 dict=PW, L=21479.1, hw=ṛtaṣap, user=srhodes
 old = ṛtaṣap
 new = ṛtasāp
 comment = Typo – Headword Typo !
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 440: 01/06/2026 dict=PW, L=21479, hw=ṛtasap, user=srhodes
 old = °ṣap
 new = °sāp
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 439: 01/06/2026 dict=AP, L=10568, hw=ṛta, user=srhodes
@@ -1274,7 +1274,7 @@ Case 400: 01/02/2026 dict=PW, L=21211, hw=ūrvaṣṭīva, user=srhodes
 old = ūrvaṣṭīva
 new = ūrvaṣṭhīva
 comment = Typo – Please note that this correction may be confirmed by looking at the Pāṇini rule 5.4.77. Also, at the top of the Window Display, this Headword appears to have an initial short vowel, which needs to be corrected to the Long Vowel.
-status = PENDING
+status = Corrected UrvazwIva to UrvazWIva on 15 Feb 2026. The top 'urv' one does not require change. It is an alternate reading of 'Urv' as mentioned in dictionary itself.
 ------------------------------------------------------------------------
 
 Case 399: 01/02/2026 dict=SHS, L=7931, hw=ūrmmi, user=srhodes
@@ -2749,14 +2749,14 @@ Case 168: 12/08/2025 dict=PW, L=549.1, hw=agnidagdha, user=srhodes
 old = agnidagdhá und agnidágdha
 new = agnidagdhá und agnídagdha
 comment = Typo – Please note that the "accent" in the second word appears to be at the end of the portion "agni".
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 167: 12/08/2025 dict=PW, L=549, hw=agnidagdha, user=srhodes
 old = agnidagdhá und agnidágdha
 new = agnidagdhá und agnídagdha
 comment = Typo – Please note that the "accent" in the second word appears to be at the end of the portion "agni".
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 166: 12/08/2025 dict=MW, L=35287, hw=upamantraṇa, user=srhodes
