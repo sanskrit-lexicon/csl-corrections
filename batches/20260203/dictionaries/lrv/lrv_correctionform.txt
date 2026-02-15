@@ -1,0 +1,242 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of February 15, 2026
+36 correction records, with 36 PENDING
+
+Case 588: 02/03/2026 dict=LRV, L=7444, hw=ekatas, user=srhodes
+old = on one side-one other
+new = on one side-on the other
+status = PENDING
+------------------------------------------------------------------------
+
+Case 578: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
+old = ekatarat
+new = ekataram
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 577: 02/01/2026 dict=LRV, L=7398.1, hw=ekatarā, user=srhodes
+old = n. rat) 
+new = n. ram) 
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 576: 02/01/2026 dict=LRV, L=7398, hw=ekatara, user=srhodes
+old = n. rat) 
+new = n. ram) 
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 575: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
+old = n. rat) 
+new = n. ram) 
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 573: 01/31/2026 dict=LRV, L=7508, hw=aikadyam, user=srhodes
+old = aikadyam
+new = DELETE ENTRY
+comment = Typo – The Deletion of this Headword has been possibly indicated here by AB: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3828612970
+status = PENDING
+------------------------------------------------------------------------
+
+Case 556: 01/30/2026 dict=LRV, L=7357, hw=ekāṃga, user=srhodes
+old = body-guard
+new = bodyguard
+comment = Typo – Better without the "Hyphen". This should be a Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 501: 01/15/2026 dict=LRV, L=7333.1, hw=ṛśyaketana, user=srhodes
+old = pradyuman
+new = pradyumna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 500: 01/15/2026 dict=LRV, L=7333, hw=ṛśyaketu, user=srhodes
+old = pradyuman
+new = pradyumna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 477: 01/12/2026 dict=LRV, L=7353, hw=eka, user=srhodes
+old = one of type or many,
+new = one of two or many,
+status = PENDING
+------------------------------------------------------------------------
+
+Case 463: 01/10/2026 dict=LRV, L=7316, hw=ṛtumukha, user=srhodes
+old = feason
+new = season
+status = PENDING
+------------------------------------------------------------------------
+
+Case 421: 01/04/2026 dict=LRV, L=7287.1, hw=ṛjvī, user=srhodes
+old = Double Listing – See [ID=7290]
+new = Double Listing Requires a Number "1" and Number "2" marking in the Window Display
+comment = Double Listing – See [ID=7290]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 420: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
+old = NONE
+new = See Below
+comment = I just realized that "vt. or vi",  probably means "verb transitive  or  verb intransitive".  Please confirm.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 419: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
+old = NONE
+new = See Below
+comment = I just realized that "vt. or vi",  probably means "verb transitive  or  verb intransitive".  Please confirm.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 418: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
+old = NONE
+new = See Below
+comment = I just realized that "vt. or vi",  probably means "verb transitive  or  verb intransitive".  Please confirm.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 417: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
+old = pp. arcita
+new = pp. ṛcita
+comment = Typo – Please note that this is a "print change" suggested for this class 6 root. You may consult the following webpage and look for the "क्त" participle: https://ashtadhyayi.com/dhatu/sk1302?tab=krut LB ALSO, as a side note, in the Window Display for this root, there appears the following abbreviation:  "vt. or vi."  Please, decode this for my understanding.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 416: 01/04/2026 dict=LRV, L=7259, hw=ṛ, user=srhodes
+old = aoquire
+new = acquire
+status = PENDING
+------------------------------------------------------------------------
+
+Case 412: 01/03/2026 dict=LRV, L=7254, hw=ūhāpoha, user=srhodes
+old = ūha-apoha ??? 
+new = ūha-apoha 
+comment = Typo – Delete the three "???". This Headword is clearly a "Print Change", and should simply be marked as such. No need for the question marks, the citation given settles the issue !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 411: 01/03/2026 dict=LRV, L=7254, hw=ūṣaka, user=srhodes
+old = ūha-apoha ??? 
+new = ūha-apoha 
+comment = Typo – Delete the three "???". This Headword is clearly a "Print Change", and should simply be marked as such. No need for the question marks, the citation given settles the issue !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 410: 01/03/2026 dict=LRV, L=7244, hw=ūṣaka, user=srhodes
+old = Day-break
+new = Daybreak
+comment = Typo – Better without the "Hyphen" !  Please Correct Globally !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 409: 01/03/2026 dict=LRV, L=7239, hw=urvāru, user=srhodes
+old = See Below
+new = Since this Headword has TWO listings with TWO separate ID numbers, the other one being "[ID=7089]" ,  YOU may choose to add the numbers "1"  and  "2"  in the Hierarchy List Column, as well as those Handy Arrows (like in MW dictionary) that appear in the Window Display to quickly Navigate to either of the TWO Headwords.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 355: 12/28/2025 dict=LRV, L=7157, hw=uṣṇīṣin, user=srhodes
+old = Wetting
+new = Wearing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 308: 12/22/2025 dict=LRV, L=7092, hw=urvīdhara, user=srhodes
+old = Śesha
+new = Śeṣa
+comment = Typo – Please note that this correction should be made Globally to avoid "Mixing various modes of Transliteration". AB has indicated that consistency should be maintained particularly within a single word!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 307: 12/22/2025 dict=LRV, L=7079, hw=uruvikrama, user=srhodes
+old = inight
+new = mighty
+status = PENDING
+------------------------------------------------------------------------
+
+Case 259: 12/18/2025 dict=LRV, L=7066.1, hw=urastrāṇa, user=srhodes
+old = breast-plate
+new = breastplate
+comment = Typo – This is better written as a single word without the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 258: 12/18/2025 dict=LRV, L=7066.1, hw=urastrāṇa, user=srhodes
+old = breast-plate
+new = breastplate
+comment = Typo – This is better written as a single word without the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 257: 12/18/2025 dict=LRV, L=7066, hw=urastra, user=srhodes
+old = breast-plate
+new = breastplate
+comment = Typo – This is better written as a single word without the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 256: 12/18/2025 dict=LRV, L=7050, hw=uragapratisara, user=srhodes
+old = wedding-ring
+new = wedding ring
+comment = Typo – This is better written as Two Words without the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 255: 12/18/2025 dict=LRV, L=7036, hw=ubhayavidyā, user=srhodes
+old = two fold
+new = twofold
+comment = Typo – This is better written as a single word. Please consider making this a Global Change covering all numbers from two to nine: threefold, fourfold, fivefold etc.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 219: 12/14/2025 dict=LRV, L=7015, hw=upeta, user=srhodes
+old = pp. of ha
+new = pp. of i
+status = PENDING
+------------------------------------------------------------------------
+
+Case 209: 12/12/2025 dict=LRV, L=7007.1, hw=upāsanā, user=srhodes
+old = adoption
+new = adoration
+status = PENDING
+------------------------------------------------------------------------
+
+Case 208: 12/12/2025 dict=LRV, L=7007, hw=upāsana, user=srhodes
+old = adoption
+new = adoration
+status = PENDING
+------------------------------------------------------------------------
+
+Case 151: 12/08/2025 dict=LRV, L=6947, hw=upahata, user=srhodes
+old = ritiated
+new = vitiated
+status = PENDING
+------------------------------------------------------------------------
+
+Case 115: 12/07/2025 dict=LRV, L=6909, hw=upasaṃnyāsa, user=srhodes
+old = Lying down
+new = Laying down
+status = PENDING
+------------------------------------------------------------------------
+
+Case 114: 12/07/2025 dict=LRV, L=6898, hw=upasaṃkhyāna, user=srhodes
+old = upasaṃkhyāna
+new = upasaṃvyāna
+comment = Typo – Please note that this is a Headword Typo! Of course, once the correction has been, the Window Display should not include: "upasaṃkhyāna [ID=6903]".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 65: 12/02/2025 dict=LRV, L=6871, hw=upavidyā, user=srhodes
+old = inferibr
+new = inferior
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,763 @@
+Sanskrit Lexicon Correction Form History for MW
+As of February 15, 2026
+109 correction records, with 109 PENDING
+
+Case 571: 01/30/2026 dict=MW, L=156977, hw=manuṣyasabhā, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 570: 01/30/2026 dict=MW, L=49626, hw=kālañjara, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 569: 01/30/2026 dict=MW, L=67687, hw=goṣṭha, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 568: 01/30/2026 dict=MW, L=228495, hw=saṃgatha, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 567: 01/30/2026 dict=MW, L=228495, hw=saṃgatha, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 566: 01/30/2026 dict=MW, L=96105, hw=devasabhā, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 565: 01/30/2026 dict=MW, L=39855, hw=ekāyana, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 564: 01/30/2026 dict=MW, L=39695, hw=ekasabha, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 563: 01/30/2026 dict=MW, L=39695, hw=ekasabha, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 562: 01/30/2026 dict=MW, L=39695, hw=ekasabha, user=srhodes
+old = meeting-place
+new = meeting place
+comment = Typo – Please note that this word is better written as TWO words   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 545: 01/27/2026 dict=MW, L=94688, hw=dustyajya, user=srhodes
+old = dustyajya
+new = dustyaja
+comment = Typo – Please note that this is a "print change" confirmed by AB here:https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3803708865
+status = PENDING
+------------------------------------------------------------------------
+
+Case 544: 01/27/2026 dict=MW, L=144864, hw=bāṣpaviklaba, user=srhodes
+old = bāṣpaviklaba
+new = bāṣpaviklava
+comment = Typo – Please note that this is a "print change" confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3803746750
+status = PENDING
+------------------------------------------------------------------------
+
+Case 541: 01/27/2026 dict=MW, L=39859, hw=ekāyanagata, user=srhodes
+old = foot-path
+new = footpath
+comment = Typo – Please note that this word is better written WITHOUT the "Hyphen".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 540: 01/27/2026 dict=MW, L=39857, hw=ekāyana, user=srhodes
+old = foot-path
+new = footpath
+comment = Typo – Please note that this word is better written WITHOUT the "Hyphen".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 539: 01/27/2026 dict=MW, L=39393.6, hw=ekapadī, user=srhodes
+old = foot-path
+new = footpath
+comment = Typo – Please note that this word is better written WITHOUT the "Hyphen".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 538: 01/27/2026 dict=MW, L=39393.6, hw=ekapad, user=srhodes
+old = foot-path
+new = footpath
+comment = Typo – Please note that this word is better written WITHOUT the "Hyphen".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 537: 01/26/2026 dict=MW, L=28803.42, hw=idamīya, user=srhodes
+old = Placement Error (the previous submission was a mistake)
+new = The supplemental insertion of this Headword should be placed just after the word "idammaya mf(ī)n. [ID=28819]" in the Hierarchical listing of words. Such a placement will have "idamīya" following after all of the proper compounds beginning with "idam-".
+comment = Placement Error (the previous submission was a mistake)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 536: 01/26/2026 dict=MW, L=28803.41, hw=idaṃśabda, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "idammaya mf(ī)n. [ID=28819]" in the Hierarchical listing of words. Such a placement will have "idamīya" following after all of the proper compounds beginning with "idam-".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 535: 01/26/2026 dict=MW, L=28803.41, hw=idaṃśabda, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "idaṃvid mfn. [ID=28807]" in the Hierarchical listing of words. This placement is follow the correct alphabetical order as used by MW dictionary. For example, "saṃśaṃs [ID=226526]" FOLLOWS AFTER "saṃ-√vlī [ID=226523]", which I hope proves my point.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 534: 01/26/2026 dict=MW, L=38504.1, hw=ṛtebhaṅga, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ṛte ind. [ID=38914]" in the Hierarchical listing of words. This placement is confirmed by the understanding the "Proper" sense of the compound being relocated.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 533: 01/26/2026 dict=MW, L=38504.2, hw=ṛtesphya, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ṛte ind. [ID=38914]" in the Hierarchical listing of words. This placement is confirmed by the understanding the "Proper" sense of the compound being relocated.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 532: 01/26/2026 dict=MW, L=115019.1, hw=pati, user=srhodes
+old = pati f. = gati, going, motion.
+new = 2. Pati, f. = gati, going, motion.
+comment = Typo – Please note that this correction matches the printed page. This supplementary entry appears to be numbered "2", by MW dictionary. Perhaps you would like "Separate" this Supplemental Entry from the Main Entry "1. pati [ID=115014 ]", so that the "2. Pati" will appear in the Hierarchy list display with the number "2" (and of course according to its proper placement within the Hierarchy).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 524: 01/21/2026 dict=MW, L=39265, hw=ekajyā, user=srhodes
+old = cord
+new = chord
+comment = Typo – Please note that "chord" appears to be the better spelling, for the sense given.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 512: 01/17/2026 dict=MW, L=100651, hw=dhātupa, user=srhodes
+old = 7 fluids’ elementary
+new = 7 fluids’, elementary
+status = PENDING
+------------------------------------------------------------------------
+
+Case 498: 01/14/2026 dict=MW, L=39220, hw=ekacara, user=srhodes
+old = segregarious
+new = gregarious
+comment = Typo – Please note that this is a suggested "print change". Even GOOGLE seems to be unfamiliar with this spelling: "segregarious" ?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 497: 01/14/2026 dict=MW, L=39186, hw=ekakapāla, user=srhodes
+old = cup-full
+new = cupful
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" as well as with a single (not double) letter " l ".  Attention Jim Funderburk, Merriam-Webster agrees! 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 492: 01/13/2026 dict=MW, L=38125, hw=ūrdhvakaṇṭhakā, user=srhodes
+old = ūrdhvakaṇṭhakā
+new = ūrdhvakaṇṭhikā
+comment = Typo – Please note that this is a Headword "Print Change", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3694873540 LB AND  LB https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3738689457
+status = PENDING
+------------------------------------------------------------------------
+
+Case 491: 01/13/2026 dict=MW, L=38123, hw=ūrdhvakaṇṭhā, user=srhodes
+old = ūrdhvakaṇṭhā
+new = ūrdhvakaṇṭhī
+comment = Typo – Please note that this is a Headword "Print Change", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3694873540 LB AND  LB https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3738689457
+status = PENDING
+------------------------------------------------------------------------
+
+Case 490: 01/13/2026 dict=MW, L=156575, hw=madhyā, user=srhodes
+old = See Below
+new = Since the Headword "madhyā" appears TWICE: "1. madhyā [ID=156352]"  AND  "2. madhyā [ID=156575]" ,  would it be a good idea to introduce the numbers "1" and "2" to the Headwords in the Hierarchy Column List ?  By the way, the numbering "1" and "2" as used above are my own usage, but the suggestion is here for your consideration.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 489: 01/13/2026 dict=MW, L=156352, hw=madhyā, user=srhodes
+old = See Below
+new = Since the Headword "madhyā" appears TWICE: "1. madhyā [ID=156352]"  AND  "2. madhyā [ID=156575]" ,  would it be a good idea to introduce the numbers "1" and "2" to the Headwords in the Hierarchy Column List ?  By the way, the numbering "1" and "2" as used above are my own usage, but the suggestion is here for your consideration.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 488: 01/13/2026 dict=MW, L=39821.11, hw=ekāntaduḥkha, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the Headword "ekāntaduḥṣamā f. [ID=39822]" in the Hierarchical listing of words. I am aware that Andhrabharati often disagrees with my suggestions for "relocation" of words. However, in this case I prove my point on the strength of MW's own listing of the following two Headwords: "1. duḥṣama n. [ID=93320]"  AND  "1. duḥkha mfn. [ID=93403]". Each of these two Headwords serve as the "uttarapada" for the two compounds: "ekāntaduḥṣamā"  AND  "ekāntaduḥkha". Therefore given the very same "pūrvapada", namely "ekānta", the alphabetical ordering of these two compounds MUST FOLLOW the same alphabetical ordering as given by MW himself in listing the following two Headwords (which form the uttarapada of the above compounds): "1. duḥṣama n. [ID=93320]"  AND  "1. duḥkha mfn. [ID=93403]".  The ID numbers here Prove the Point: "ekāntaduḥkha" MUST FOLLOW AFTER "ekāntaduḥṣamā".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 486: 01/13/2026 dict=MW, L=39821.11, hw=ekāntaduḥkha, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the Headword "ekāntaduḥṣamā f. [ID=39822]" in the Hierarchical listing of words. I am aware that Andhrabharati often disagrees with my suggestions for "relocation" of words. However, in this case I prove my point on the strength of MW's own listing of the following two Headwords: "1. duḥṣama n. [ID=93320]"  AND  "1. duḥkha mfn. [ID=93403]". Each of these two Headwords serve as the "uttarapada" for the two compounds: "ekāntaduḥṣamā"  AND  "ekāntaduḥkha". Therefore given the very same "pūrvapada", namely "ekānta", the alphabetical ordering of these two compounds MUST FOLLOW the same alphabetical ordering as given by MW himself in listing the following two Headwords (which form the uttarapada of the above compounds): "1. duḥṣama n. [ID=93320]"  AND  "1. duḥkha mfn. [ID=93403]".  The ID numbers here Prove the Point: "ekāntaduḥkha" MUST FOLLOW AFTER "ekāntaduḥṣamā".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 476: 01/11/2026 dict=MW, L=257531, hw=sanīsrasa, user=srhodes
+old = SEE BELOW
+new = PLEASE READ: As a side note, MW lists the directly related Headword "danīdhvaṃsa [ID=90014]", THEREFORE why not list this Headword accordingly as "sanīsraṃsa" ; Consistency Wins The Day !  Both forms are cited and given under the very same rule: "Pāṇ. ii, 4, 74, Kāś."  I see that the Mahābhāṣya approves of this word "sanīsrasa", however the more common form appears to be spelled: "sanīsraṃsa", just like "danīdhvaṃsa [ID=90014]". MW did NOT print "danīdhvasa", although the Mahābhāṣya approves of this spelling.
+comment = SEE ABOVE
+status = PENDING
+------------------------------------------------------------------------
+
+Case 475: 01/11/2026 dict=MW, L=257531, hw=sanīsrasa, user=srhodes
+old = Pāṇ. iv, 2, 74,
+new = Pāṇ. ii, 4, 74,
+comment = Typo – Please note that this is a  VERY IMPORTANT  "Print Change" ! LB ALSO, as a side note, I hope that Andhrabharati will confirm that this Headword is spelled correctly. I see that the Mahābhāṣya approves of this word, however the more common form appears to be spelled: "sanīsraṃsa". Therefore, I wonder if this spelling should be made as a "Print Change" Headword here ?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 458: 01/08/2026 dict=MW, L=29989, hw=īhatas, user=srhodes
+old = īhatas
+new = īhātas
+comment = Typo – Please note that this correction has been cofirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/99#issuecomment-3719300212
+status = PENDING
+------------------------------------------------------------------------
+
+Case 456: 01/07/2026 dict=MW, L=38619, hw=ṛtvij, user=srhodes
+old = See Below
+new = Please note that on the printed page, the following four Chief Priests are shown with an initial Capital Letter (and italics): Hotṛ  Adhvaryu  Brahman  Udgātṛ ; LB Thus, these four words should be corrected accordingly in the following enumeration: "viz. hotṛ, Maitrāvaruṇa, Acchāvāka, Grāva-stut; adhvaryu, Prati-prasthātṛ, Neṣṭṛ, Un-netṛ; brahman, Brāhmaṇācchaṃsin, Agnīdhra, Potṛ; udgātṛ, Prastotṛ, Pratihartṛ, Subrahmaṇya". LB Indeed, it is strange to "demote" the Chief Priests being mentioned !
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 454: 01/07/2026 dict=MW, L=170882.2, hw=yaśodhavala, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 453: 01/07/2026 dict=MW, L=170882.2, hw=yaśodhavala, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 452: 01/07/2026 dict=MW, L=170882.3, hw=yaśoviśāla, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśovarman [ID= 170954]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 451: 01/07/2026 dict=MW, L=170882.1, hw=yaśodharman, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 450: 01/07/2026 dict=MW, L=170882.1, hw=yaśodharman, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 449: 01/07/2026 dict=MW, L=170882.1, hw=yaśodharman, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 448: 01/07/2026 dict=MW, L=170882.1, hw=yaśodharman, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 447: 01/07/2026 dict=MW, L=170882.1, hw=yaśodharman, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 446: 01/07/2026 dict=MW, L=170882.1, hw=yaśodhavala, user=srhodes
+old = Placement Error
+new = Placement Error LB The supplemental insertion of this Headword should be placed just after the Headword "yaśodhareya [ID=170923]" in the Hierarchical listing of words. This follows the alphabetical order of compounds beginning with the pūrvapada "yaśo".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 445: 01/07/2026 dict=MW, L=99768, hw=dharādhārā, user=srhodes
+old = See Below
+new = Please note that there are TWO Headwords as: "1. dharādhārā [ID=99768]"  AND  "2. dharādhārā [ID=99850]". The numbering here is my own. But the point is that some Numbering perhaps should be added to the Hierarchy List, to distinguish between the First "dharādhārā" being formed with the pūrvapada "dhara"; and the  Second  "dharādhārā" with the pūrvapada "dharā".
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 444: 01/07/2026 dict=MW, L=99842, hw=dharā, user=srhodes
+old = See Below
+new = Please note that there are TWO Headwords as: "1. dharā [ID=99757]"  AND  "2. dharā [ID=99842]". The numbering here is my own. But the point is that some Numbering perhaps should be added to the Hierarchy List, to distinguish between the First "dharā" being strictly defined in its own right; and the  Second  "dharā" which heads the related compounds beginning with "dharā-"  acting as the pūrvapada.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 437: 01/05/2026 dict=MW, L=245858, hw=sukhārta, user=srhodes
+old = Pāṇ. vi, 7, 89 LB 
+new = Pāṇ. vi, 1, 89
+status = PENDING
+------------------------------------------------------------------------
+
+Case 435: 01/04/2026 dict=MW, L=241629, hw=sādhu, user=srhodes
+old = money-lender
+new = moneylender
+comment = Typo – Please note that this word is better written as one word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 434: 01/04/2026 dict=MW, L=136392, hw=prayojaka, user=srhodes
+old = money-lender
+new = moneylender
+comment = Typo – Please note that this word is better written as one word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 433: 01/04/2026 dict=MW, L=53577, hw=kusīda, user=srhodes
+old = money-lender
+new = moneylender
+comment = Typo – Please note that this word is better written as one word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 432: 01/04/2026 dict=MW, L=38883, hw=ṛṇapradātṛ, user=srhodes
+old = money-lender
+new = moneylender
+comment = Typo – Please note that this word is better written as one word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees! LB P.S. This ID number would be great to be holding as cards in a game.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 427: 01/04/2026 dict=MW, L=38872, hw=ṛṇacyut, user=srhodes
+old = See Below
+new = In regard to this "Revision", I am reminded of our discussion last year of treating ALL Revisions in such a way that the Window Display will RETAIN the original definition with a "red line-through markup."  I also recall that Dhaval specifically commented that he "likes this idea", because it allows the user to make an informed decision regarding translation of Sanskrit words, which we all agree are capable of bearing a wide variety of meanings, both literal and metaphorical.  LB I mention this now as a reminder, and perhaps Dhaval would like to add this "New Revision Treatment" to his To Do List – for ALL revisions contained in MW dictionary.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 426: 01/04/2026 dict=MW, L=38870, hw=ṛṇacit, user=srhodes
+old = See Below
+new = In regard to this "Revision", I am reminded of our discussion last year of treating ALL Revisions in such a way that the Window Display will RETAIN the original definition with a "red line-through markup."  I also recall that Dhaval specifically commented that he "likes this idea", because it allows the user to make an informed decision regarding translation of Sanskrit words, which we all agree are capable of bearing a wide variety of meanings, both literal and metaphorical.  LB I mention this now as a reminder, and perhaps Dhaval would like to add this "New Revision Treatment" to his To Do List – for ALL revisions contained in MW dictionary.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 425: 01/04/2026 dict=MW, L=38865, hw=ṛṇakāti, user=srhodes
+old = See Below
+new = In regard to this "Revision", I am reminded of our discussion last year of treating ALL Revisions in such a way that the Window Display will RETAIN the original definition with a "red line-through markup."  I also recall that Dhaval specifically commented that he "likes this idea", because it allows the user to make an informed decision regarding translation of Sanskrit words, which we all agree are capable of bearing a wide variety of meanings, both literal and metaphorical.  LB I mention this now as a reminder, and perhaps Dhaval would like to add this "New Revision Treatment" to his To Do List – for ALL revisions contained in MW dictionary.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 424: 01/04/2026 dict=MW, L=38901, hw=ṛṇakāti, user=srhodes
+old = ṛṇāpakaraṇa
+new = ṛṇāpākaraṇa
+comment = Typo – Please note that this is a "Print Change". You may confirm by checking with SHS, LRV, Wilson and Yates. Also check the uttarapada for this compound which must be "apākaraṇa", in order to yield the correct meaning. Furthermore, you will see that this Headword is part of a Three Word Grouping by MW. Thus, while the grouping is to be maintained, the Alphabetical Order must be corrected to reflect this "Print Change". To be specific: the Corrected Headword "ṛṇāpākaraṇa" must now follow the Headword "ṛṇāpanodana [ID=38903]". And lastly, the three related ID numbers must all be corrected to reflect the new order.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 423: 01/04/2026 dict=MW, L=38901, hw=ṛṇāpakaraṇa, user=srhodes
+old = ṛṇāpakaraṇa
+new = ṛṇāpākaraṇa
+comment = Typo – Please note that this is a "Print Change". You may confirm by checking with SHS, LRV, Wilson and Yates. Also check the uttarapada for this compound which must be "apākaraṇa", in order to yield the correct meaning. Furthermore, you will see that this Headword is part of a Three Word Grouping by MW. Thus, while the grouping is to be maintained, the Alphabetical Order must be corrected to reflect this "Print Change". To be specific: the Corrected Headword "ṛṇāpākaraṇa" must now follow the Headword "ṛṇāpanodana [ID=38903]". And lastly, the three related ID numbers must all be corrected to reflect the new order.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 422: 01/04/2026 dict=MW, L=38901, hw=ṛṇāpakaraṇa, user=srhodes
+old = ṛṇāpakaraṇa
+new = ṛṇāpākaraṇa
+comment = Typo – Please note that this is a "Print Change". You may confirm by checking with SHS, LRV, Wilson and Yates. Also check the uttarapada for this compound which must be "apākaraṇa", in order to yield the correct meaning. Furthermore, you will see that this Headword is part of a Three Word Grouping by MW. Thus, while the grouping is to be maintained, the Alphabetical Order must be corrected to reflect this "Print Change". To be specific: the Corrected Headword "ṛṇāpākaraṇa" must now follow the Headword "ṛṇāpanodana [ID=38903]". And lastly, the three related ID numbers must all be corrected to reflect the new order.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 398: 01/01/2026 dict=MW, L=199214, hw=virāj, user=srhodes
+old = Prajā-pati
+new = Prajāpati
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 397: 01/01/2026 dict=MW, L=199214, hw=virāj, user=srhodes
+old = Prajā-patis
+new = Prajāpatis
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 396: 01/01/2026 dict=MW, L=203872, hw=vīraṇa, user=srhodes
+old = Prajā-pati
+new = Prajāpati
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 395: 01/01/2026 dict=MW, L=202530, hw=viṣṇupurāṇaka, user=srhodes
+old = Prajā-patis
+new = Prajāpatis
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 394: 01/01/2026 dict=MW, L=202529, hw=viṣṇupurāṇa, user=srhodes
+old = Prajā-patis
+new = Prajāpatis
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 393: 01/01/2026 dict=MW, L=201490, hw=viśvakarman, user=srhodes
+old = Prajā-pati
+new = Prajāpati
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 392: 01/01/2026 dict=MW, L=46708, hw=kaśyapa, user=srhodes
+old = Prajā-pati
+new = Prajāpati
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 391: 01/01/2026 dict=MW, L=46708, hw=kaśyapa, user=srhodes
+old = Prajā-pati
+new = Prajāpati
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 390: 01/01/2026 dict=MW, L=124055, hw=pitṛpati, user=srhodes
+old = Prajā-patis
+new = Prajāpatis
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 389: 01/01/2026 dict=MW, L=250154, hw=suśravas, user=srhodes
+old = Prajā-pati
+new = Prajāpati
+comment = Typo – Please note that the "Hyphen" is not needed. In fact, if you read books referring to such entity, you will find that this word is NOT hyphenated in usage – it is simply cumbersome.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 381: 12/31/2025 dict=MW, L=10218, hw=apiśala, user=srhodes
+old = the descendants of Apiśala. See āpiśali. [ID=10218 ]
+new = (ās), m. pl. the descendants of Apiśala. See āpiśali. [ID=10218 ]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 370: 12/29/2025 dict=MW, L=38192, hw=ūrdhvapatha, user=srhodes
+old = the other
+new = the ether
+comment = Typo – Please note that this is a "print change". You may compare with APTE and PW.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 369: 12/28/2025 dict=MW, L=64849, hw=gāmbhīra, user=srhodes
+old = g. saṃkaladi
+new = g. saṃkalādi
+comment = Typo – This could also be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 357: 12/28/2025 dict=MW, L=38102.5, hw=ūrṇāyu, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ūrṇāvāhi m. [ID=38099.1 sup]" in the Hierarchical listing of words. This reasoning is in keeping with the MW Headword "ūrṇāvat" which is located strictly according to alphabetical order, even though it is formed with the suffix "vat". Therefore, by the very same reasoning the Supplemental Word "ūrṇāyu", formed with the suffix "yus", should likewise be located strictly according to alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 354: 12/27/2025 dict=MW, L=168883, hw=mradas, user=srhodes
+old = SEE BELOW
+new = Please note the following statement: "See ūrṇa-mrada and ūrṇā-mradas."  Therefore, I am suggesting that the Missing Headword: "ūrṇamrada" be added (and paired with) the existing Headword: "ūrṇamradas [ID=38090]".  There is no reason to "omit" the Headword "ūrṇamrada", which MW has directly mentioned here. I consider this to be a Worthy Print Change, namely: Adding The Missing Headword!
+comment = SEE ABOVE
+status = PENDING
+------------------------------------------------------------------------
+
+Case 337: 12/25/2025 dict=MW, L=90846, hw=daśacandra, user=srhodes
+old = moon like
+new = moon-like
+comment = Typo – please note that the "hyphen" must be used here. As an example, compare with the MW Headword "śatacandra", for an example of this correction !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 336: 12/25/2025 dict=MW, L=37835, hw=uṣṇīṣin, user=srhodes
+old = N. of Śiva
+new = m. N. of Śiva
+comment = Typo – please note that this is a suggested "Print Change", in order to supply the CORRECT gender for the Proper Name; and please note that Śiva will be pleased as well!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 329: 12/25/2025 dict=MW, L=37716, hw=uṣarbudha, user=srhodes
+old = fire
+new = m. fire
+comment = Typo – please note that this is a suggested "Print Change", in order to supply the CORRECT gender for the NOUN: "fire etc.". Other dictionaries agree!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 328: 12/24/2025 dict=MW, L=37794, hw=uṣṇavīrya, user=srhodes
+old = Delphinus Gangeticus
+new = m. Delphinus Gangeticus
+comment = Typo – please note that this is a suggested "Print Change", in order to supply the CORRECT gender for the NOUN: "Delphinus Gangeticus".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 321: 12/23/2025 dict=MW, L=237642, hw=saritvat, user=srhodes
+old = mfn. ‘possessed of rivers’, the ocean
+new = mfn. ‘possessed of rivers’, m. the ocean
+comment = Typo – please note that this is a suggested "Print Change", in order to supply the CORRECT gender for the NOUN: "the ocean". This correction follows SHS and VCP.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 314: 12/22/2025 dict=MW, L=15732, hw=arcis, user=srhodes
+old = Dhūmaketu
+new = Dhūmrakeśa
+comment = Typo – Please note that this is a suggested "print change". Check the definitions given for these names, along with the Feminine Name "arcis", to sort out what is correct !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 297: 12/21/2025 dict=MW, L=37366, hw=uruhāra, user=srhodes
+old = uru—hāra mfn. a valuable necklace. 
+new = uru—hāra m. a valuable necklace. 
+comment = Typo – Please note that this is a suggested "print change", on the strength of the "substantive" so defined. Also, please bear mind that in the case of an "adjective", it is possible that the feminine form should be "upahārī" ?  In any case, I would like this Headword to be discussed and explained, if the decision is "No Change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 272: 12/19/2025 dict=MW, L=37422, hw=urvarī, user=srhodes
+old = ādhikyaprāptāstrī
+new = ādhikyaprāptā strī
+comment = Typo – Please note that this correction follows the printed text. Also, it is worth noting that this is NOT a compound. Simply an adjective in the feminine gender: "ādhikyaprāptā", followed by the feminine noun: "strī" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 251: 12/17/2025 dict=MW, L=37251.1, hw=urogrīva, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "uroghāta [ID=37282]" in the Hierarchical listing of words. This correction is simply according to the correct alphabetical order beginning with the form "uro".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 250: 12/17/2025 dict=MW, L=37246.2, hw=uraḥstha, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "uraḥsthala [ID=37261]" in the Hierarchical listing of words. This correction is simply according to the correct alphabetical order beginning with the form "uraḥ".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 249: 12/17/2025 dict=MW, L=37246.1, hw=uraḥśiras, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "uraḥśūla [ID=37257]" in the Hierarchical listing of words. This correction is simply according to the correct alphabetical order beginning with the form "uraḥ".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 248: 12/17/2025 dict=MW, L=37241.1, hw=uralli, user=srhodes
+old = ib.
+new = Mālatīm.
+comment = Please note that the reason for this correction is that "ib." is in reference to the preceding word in the annexure which is: "urarīkṛ [ID=37237.1 sup]". But here, in the main Hierarchy, the supplementary words have become separated and therefore the reference "ib.", must be explicitly stated. Also please note the Font and Color required for the Term "Mālatīm."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 230: 12/15/2025 dict=MW, L=115908.2, hw=payovikāra, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "payovidārikā [ID=115998]" in the Hierarchical listing of words.  LB Please note that this is the Proper Location in the Hierarchy for all compounds of: "payo in comp. for °yas. [ID=115951]".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 229: 12/15/2025 dict=MW, L=115908.1, hw=payogarbha, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just before the word "payograhá [ID=115954]" in the Hierarchical listing of words.  LB Please note that this is the Proper Location in the Hierarchy for all compounds of: "payo in comp. for °yas. [ID=115951]".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 220: 12/14/2025 dict=MW, L=37023, hw=upodghāta, user=srhodes
+old = an example, opposite argument
+new = an example, apposite argument
+comment = Typo – Please note that this is a "print change", based upon the sense being conveyed. Both APTE and SHS agree!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 200: 12/12/2025 dict=MW, L=36920, hw=upāyaturīya, user=srhodes
+old = means’ violence
+new = means’, violence
+status = PENDING
+------------------------------------------------------------------------
+
+Case 166: 12/08/2025 dict=MW, L=35287, hw=upamantraṇa, user=srhodes
+old = art
+new = act
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 162: 12/08/2025 dict=MW, L=262132, hw=hāsyāspada, user=srhodes
+old = laughing-stock
+new = laughingstock
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 161: 12/08/2025 dict=MW, L=36474, hw=upahāsāspada, user=srhodes
+old = laughing-stock
+new = laughingstock
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 156: 12/08/2025 dict=MW, L=120968, hw=pāṃsukūlika, user=srhodes
+old = d°-h°
+new = dustheap
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 155: 12/08/2025 dict=MW, L=120967, hw=pāṃsukūlasīvana, user=srhodes
+old = f-om a d°-h°
+new = from a dustheap
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 154: 12/08/2025 dict=MW, L=120965, hw=pāṃsukūla, user=srhodes
+old = d°-h°
+new = dustheap
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 153: 12/08/2025 dict=MW, L=120965, hw=pāṃsukūla, user=srhodes
+old = dust-heap
+new = dustheap
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 152: 12/08/2025 dict=MW, L=36459, hw=upahati, user=srhodes
+old = dust-heap
+new = dustheap
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 112: 12/06/2025 dict=MW, L=36068, hw=upasaṃkhyāna, user=srhodes
+old = annumeration
+new = addition
+comment = Typo – Please note that this is a suggested "print change". The word "annumeration" appears to be considered "obsolete". I know that Andhrabharati likes to retain obsolete words, however I prefer to go with the "spirit" rather than the "letter" of the law (so to speak). I hope that Jim Funderburk will give this some thought. Cologne online dictionaries are presenting the "Ultimate Corrected Editions" with "Print Changes" for the benefit of Humanity – and why correct the "Sanskrit" and not the "English" as well? So it is important to be clear when and where to "Draw the Line", and why "Stagnate" the inevitable evolution of language. "Accurate Meaning" should be the "Rule", not "Curating" Archaic and Obsolete words, in honor of the Deceased.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 105: 12/05/2025 dict=MW, L=263115, hw=himottarīya, user=srhodes
+old = over-garment
+new = overgarment
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 104: 12/05/2025 dict=MW, L=35973, hw=upaśrī, user=srhodes
+old = over-garment
+new = overgarment
+comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 80: 12/04/2025 dict=MW, L=36067, hw=upasaṃkṣepa, user=srhodes
+old = an abstract compendium
+new = an abstract, compendium
+comment = Typo – Please note that these are two separate definitions to be separated by a comma (rather than a single sense taken together without comma).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 52: 12/01/2025 dict=MW, L=35557, hw=upariśayana, user=srhodes
+old = resting-place
+new = resting place
+comment = Typo – Please note that this word is better written as two words, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees! Please note that, Andhrabharati has suggested that such corrections as this should not be made. But the simple fact is this: The online Cologne Dictionaries are presenting a "New Edited Edition" of each dictionary by making "print changes", according to authoritative approval. The only question remaining is this: "For what reason, should we limit such corrections?". Print changes are being made, this is a fact! But why should there be some "print changes", and not others? I prefer a thorough and consistent approach to editorial corrections. The evolution of language is unstoppable! So why try to "stop", the inevitable?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 36: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ambujānanā m. [ID=14503]" in the Hierarchical listing of words. This is correction is confirmed simply on the basis of the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 35: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ambujānanā m. [ID=14503]" in the Hierarchical listing of words. This is correction is confirmed simply on the basis of the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 34: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ambujānanā m. [ID=14503]" in the Hierarchical listing of words. This is correction is confirmed simply on the basis of the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 33: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ambujānanā m. [ID=14503]" in the Hierarchical listing of words. This is correction is confirmed simply on the basis of the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 32: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ambujānanā m. [ID=14503]" in the Hierarchical listing of words. This is correction is confirmed simply on the basis of the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 31: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "ambujānanā m. [ID=14503]" in the Hierarchical listing of words. This is correction is confirmed simply on the basis of the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 11/28/2025 dict=MW, L=152494, hw=bhṛ, user=srhodes
+old = bibhariṣati (Pāṇ. viii, 2, 49)
+new = bibhariṣati (Pāṇ. vii, 2, 49)
+comment = Typo – Please note that this correction is a "print change", which may be confirmed by looking up the citation.
+status = PENDING
+------------------------------------------------------------------------
+
