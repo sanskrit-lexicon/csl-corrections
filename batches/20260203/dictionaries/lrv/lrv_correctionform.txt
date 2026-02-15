@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of February 15, 2026
-36 correction records, with 36 PENDING
+36 correction records, with 15 PENDING
 
 Case 588: 02/03/2026 dict=LRV, L=7444, hw=ekatas, user=srhodes
 old = on one side-one other
 new = on one side-on the other
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 578: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
 old = ekatarat
 new = ekataram
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 577: 02/01/2026 dict=LRV, L=7398.1, hw=ekatarā, user=srhodes
@@ -26,14 +26,14 @@ Case 576: 02/01/2026 dict=LRV, L=7398, hw=ekatara, user=srhodes
 old = n. rat) 
 new = n. ram) 
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 575: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
 old = n. rat) 
 new = n. ram) 
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 573: 01/31/2026 dict=LRV, L=7508, hw=aikadyam, user=srhodes
@@ -53,13 +53,13 @@ status = PENDING
 Case 501: 01/15/2026 dict=LRV, L=7333.1, hw=ṛśyaketana, user=srhodes
 old = pradyuman
 new = pradyumna
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 500: 01/15/2026 dict=LRV, L=7333, hw=ṛśyaketu, user=srhodes
 old = pradyuman
 new = pradyumna
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 477: 01/12/2026 dict=LRV, L=7353, hw=eka, user=srhodes
@@ -71,7 +71,7 @@ status = PENDING
 Case 463: 01/10/2026 dict=LRV, L=7316, hw=ṛtumukha, user=srhodes
 old = feason
 new = season
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 421: 01/04/2026 dict=LRV, L=7287.1, hw=ṛjvī, user=srhodes
@@ -85,34 +85,34 @@ Case 420: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
 old = NONE
 new = See Below
 comment = I just realized that "vt. or vi",  probably means "verb transitive  or  verb intransitive".  Please confirm.
-status = PENDING
+status = Yes
 ------------------------------------------------------------------------
 
 Case 419: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
 old = NONE
 new = See Below
 comment = I just realized that "vt. or vi",  probably means "verb transitive  or  verb intransitive".  Please confirm.
-status = PENDING
+status = Yes
 ------------------------------------------------------------------------
 
 Case 418: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
 old = NONE
 new = See Below
 comment = I just realized that "vt. or vi",  probably means "verb transitive  or  verb intransitive".  Please confirm.
-status = PENDING
+status = Yes
 ------------------------------------------------------------------------
 
 Case 417: 01/04/2026 dict=LRV, L=7276, hw=ṛc, user=srhodes
 old = pp. arcita
 new = pp. ṛcita
 comment = Typo – Please note that this is a "print change" suggested for this class 6 root. You may consult the following webpage and look for the "क्त" participle: https://ashtadhyayi.com/dhatu/sk1302?tab=krut LB ALSO, as a side note, in the Window Display for this root, there appears the following abbreviation:  "vt. or vi."  Please, decode this for my understanding.
-status = PENDING
+status = No change required. vt. is verb transitive and vi. is verb intransitive, I guess.
 ------------------------------------------------------------------------
 
 Case 416: 01/04/2026 dict=LRV, L=7259, hw=ṛ, user=srhodes
 old = aoquire
 new = acquire
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 412: 01/03/2026 dict=LRV, L=7254, hw=ūhāpoha, user=srhodes
@@ -146,20 +146,20 @@ status = PENDING
 Case 355: 12/28/2025 dict=LRV, L=7157, hw=uṣṇīṣin, user=srhodes
 old = Wetting
 new = Wearing
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 308: 12/22/2025 dict=LRV, L=7092, hw=urvīdhara, user=srhodes
 old = Śesha
 new = Śeṣa
 comment = Typo – Please note that this correction should be made Globally to avoid "Mixing various modes of Transliteration". AB has indicated that consistency should be maintained particularly within a single word!
-status = PENDING
+status = Already corrected elsewhere
 ------------------------------------------------------------------------
 
 Case 307: 12/22/2025 dict=LRV, L=7079, hw=uruvikrama, user=srhodes
 old = inight
 new = mighty
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 259: 12/18/2025 dict=LRV, L=7066.1, hw=urastrāṇa, user=srhodes
@@ -200,31 +200,31 @@ status = PENDING
 Case 219: 12/14/2025 dict=LRV, L=7015, hw=upeta, user=srhodes
 old = pp. of ha
 new = pp. of i
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 209: 12/12/2025 dict=LRV, L=7007.1, hw=upāsanā, user=srhodes
 old = adoption
 new = adoration
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 208: 12/12/2025 dict=LRV, L=7007, hw=upāsana, user=srhodes
 old = adoption
 new = adoration
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 151: 12/08/2025 dict=LRV, L=6947, hw=upahata, user=srhodes
 old = ritiated
 new = vitiated
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 115: 12/07/2025 dict=LRV, L=6909, hw=upasaṃnyāsa, user=srhodes
 old = Lying down
 new = Laying down
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 114: 12/07/2025 dict=LRV, L=6898, hw=upasaṃkhyāna, user=srhodes
@@ -237,6 +237,6 @@ status = PENDING
 Case 65: 12/02/2025 dict=LRV, L=6871, hw=upavidyā, user=srhodes
 old = inferibr
 new = inferior
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
