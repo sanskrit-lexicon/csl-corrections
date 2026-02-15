@@ -493,3 +493,8 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/112
 L code : Headword : Old  : New : Comment
 2396 : annam : bahiHsrotas : vAhisrotas : Seen in other dictionaries. vAhisrotas means oesophagus.
 -----------------------------------------------------------------------
+02-15-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/107
+L code : Headword : Old  : New : Comment
+:  : billion : trillion : Comment by @drdhaval2785 - I do not full fledgedly agree to such changes, but similar change has already been made in case of antya. Therefore, made changes to other places for uniformity.
+-----------------------------------------------------------------------
