@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of February 16, 2026
-589 correction records, with 511 PENDING
+589 correction records, with 510 PENDING
 
 Case 589: 02/03/2026 dict=AP, L=10821, hw=aiśvaryam, user=srhodes
 old = Super-human
@@ -823,7 +823,7 @@ status = Corrected 16 Feb 2026
 Case 467: 01/11/2026 dict=SHS, L=8049, hw=ṛṣabha, user=srhodes
 old = hollow of the air
 new = hollow of the ear
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 466: 01/10/2026 dict=PW, L=2069, hw=atiśaya, user=srhodes
@@ -3583,7 +3583,7 @@ status = PENDING
 Case 37: 11/30/2025 dict=SHS, L=7453, hw=uparakṣaṇa, user=srhodes
 old = out post
 new = outpost
-status = TODOjoin
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 36: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes

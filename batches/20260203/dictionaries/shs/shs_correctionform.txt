@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of February 16, 2026
-40 correction records, with 2 PENDING
+40 correction records, with 1 PENDING
 
 Case 552: 01/29/2026 dict=SHS, L=8176, hw=ekāgra, user=srhodes
 old = Singlepointed
@@ -92,7 +92,7 @@ status = Corrected 16 Feb 2026
 Case 467: 01/11/2026 dict=SHS, L=8049, hw=ṛṣabha, user=srhodes
 old = hollow of the air
 new = hollow of the ear
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 438: 01/06/2026 dict=SHS, L=7983, hw=ṛja, user=srhodes
@@ -249,7 +249,7 @@ status = TODO-
 Case 37: 11/30/2025 dict=SHS, L=7453, hw=uparakṣaṇa, user=srhodes
 old = out post
 new = outpost
-status = TODOjoin
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 10: 11/28/2025 dict=SHS, L=7433, hw=upamātṛ, user=srhodes
