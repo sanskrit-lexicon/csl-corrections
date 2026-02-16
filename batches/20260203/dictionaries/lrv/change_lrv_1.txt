@@ -1,0 +1,80 @@
+; <L>06807<pc>140-05<k1>upamaMTanI<k2>upamaMTanI
+25157 old {#upamaMTanI#}¦ {%f.%} A staff for stiting fire (in ritualistic works).
+;
+25157 new {#upamaMTanI#}¦ {%f.%} A staff for stirring fire (in ritualistic works).
+;---------------------------------------------------
+; <L>06871<pc>142-09<k1>upavidyA<k2>upavidyA
+25373 old {#upavidyA#}¦ {%f.%} Profane science, inferibr sort of knowledge.
+;
+25373 new {#upavidyA#}¦ {%f.%} Profane science, inferor sort of knowledge.
+;---------------------------------------------------
+; <L>06898<pc>142-36<k1>upasaMKyAna<k2>upasaMKyAna
+25465 old <L>06898<pc>142-36<k1>upasaMKyAna<k2>upasaMKyAna
+;
+25465 new <L>06898<pc>142-36<k1>upasaMvyAna<k2>upasavKyAna
+;---------------------------------------------------
+; <L>06898<pc>142-36<k1>upasaMKyAna<k2>upasaMKyAna
+25466 old {#upasaMKyAna#}¦ {%n.%} An undergarment.
+;
+25466 new {#upasaMvyAna#}¦ {%n.%} An undergarment.
+;---------------------------------------------------
+; <L>06909<pc>143-05<k1>upasaMnyAsa<k2>upasaMnyAsa
+25502 old {#upasaMnyAsa#}¦ {%m.%} Lying down, giving up.
+;
+25502 new {#upasaMnyAsa#}¦ {%m.%} Laying down, giving up.
+;---------------------------------------------------
+; <L>06947<pc>144-08<k1>upahata<k2>upahata
+25634 old {#upahata#}¦ {%a. (f. {#tA#})%} 1. Censured, rebuked, disregarded; 2. impure; 3. doomed, destroyed, e.g. {#dEvenopahatasya vfdDiraTavA pUrvaM viparyasyati#}; 4. hurt, injured; 5. ritiated, polluted, {#SArIrErmalEH surABirmadyErvA yadupahataM tadatyantopahatam#} <ls>Viṣṇu.</ls>
+;
+25634 new {#upahata#}¦ {%a. (f. {#tA#})%} 1. Censured, rebuked, disregarded; 2. impure; 3. doomed, destroyed, e.g. {#dEvenopahatasya vfdDiraTavA pUrvaM viparyasyati#}; 4. hurt, injured; 5. vitiated, polluted, {#SArIrErmalEH surABirmadyErvA yadupahataM tadatyantopahatam#} <ls>Viṣṇu.</ls>
+;---------------------------------------------------
+; <L>07007<pc>145-20<k1>upAsana<k2>upAsana
+25841 old {#upAsana#}¦ {%n.%} 1. Engaging in, performing, <ls>M.</ls>ii.69; 2. practice of archery; 3. service, attendance, waiting upon, <ls>M.</ls>iii.107, <ls>Na.</ls>i.34, <ls>Bg.</ls>xiii.7, <ls>Yaj.</ls>iii.156; 4. worship, adoption; 5. religious meditation.
+;
+25841 new {#upAsana#}¦ {%n.%} 1. Engaging in, performing, <ls>M.</ls>ii.69; 2. practice of archery; 3. service, attendance, waiting upon, <ls>M.</ls>iii.107, <ls>Na.</ls>i.34, <ls>Bg.</ls>xiii.7, <ls>Yaj.</ls>iii.156; 4. worship, adoration; 5. religious meditation.
+;---------------------------------------------------
+; <L>07015<pc>145-27<k1>upeta<k2>upeta
+25874 old {#upeta#}¦ {%a. (f. {#tA#})%} Possessed of, {#sarvaguRopetam#} ({#putram#}) <ls>Sak.</ls>i., (pp. of {#ha#} with {#upa#} q.v.)
+;
+25874 new {#upeta#}¦ {%a. (f. {#tA#})%} Possessed of, {#sarvaguRopetam#} ({#putram#}) <ls>Sak.</ls>i., (pp. of {#i#} with {#upa#} q.v.)
+;---------------------------------------------------
+; <L>07079<pc>147-05<k1>uruvikrama<k2>uru-vikrama
+26120 old {#uru-vikrama#}¦ {%a.%} valiant, inight.
+;
+26120 new {#uru-vikrama#}¦ {%a.%} valiant, mighty.
+;---------------------------------------------------
+; <L>07157<pc>148-19<k1>uzRIzin<k2>uzRIzin<h>1
+26435 old {#uzRIzin#}¦ {%(I) a. (f. {#RI#})%} Wetting a diadem.
+;
+26435 new {#uzRIzin#}¦ {%(I) a. (f. {#RI#})%} Wearing a diadem.
+;---------------------------------------------------
+; <L>07259<pc>150-05<k1>f<k2>f<h>2
+26882 old {#f#}¦ {%(II) vt. 3P (pp. {#fta#}) (mostly used in the Vedas)%} 1. To go; 2. to meet; 3. to gain, to aoquire.
+;
+26882 new {#f#}¦ {%(II) vt. 3P (pp. {#fta#}) (mostly used in the Vedas)%} 1. To go; 2. to meet; 3. to gain, to acquire.
+;---------------------------------------------------
+; <L>07316<pc>151-04<k1>ftumuKa<k2>ftu-muKa
+27080 old {#ftu-muKa#}¦ {%n.%} the beginning of a feason.
+;
+27080 new {#ftu-muKa#}¦ {%n.%} the beginning of a season.
+;---------------------------------------------------
+; <L>07333<pc>151-14<k1>fSyaketu<k2>fSya-ketu
+27134 old {#fSya-ketu#}¦ {%m.%} 1. name of {#anirudDa#}, son of {#pradyuman#}; 2. an epithet of the god of love.
+;
+27134 new {#fSya-ketu#}¦ {%m.%} 1. name of {#anirudDa#}, son of {#pradyumna#}; 2. an epithet of the god of love.
+;---------------------------------------------------
+; <L>07333.1<pc>151-14<k1>fSyaketana<k2>fSya-ketana
+27137 old {#fSya-ketana#}¦ {%m.%} 1. name of {#anirudDa#}, son of {#pradyuman#}; 2. an epithet of the god of love.
+;
+27137 new {#fSya-ketana#}¦ {%m.%} 1. name of {#anirudDa#}, son of {#pradyumna#}; 2. an epithet of the god of love.
+;---------------------------------------------------
+; <L>07353<pc>152-02<k1>eka<k2>eka
+27200 old {#eka#}¦ {%pron. (f. {#kA#})%} 1. One, single; 2. unique, singular; 3. preeminent, excellent; 4. same, identical; 5. one of type or many, <ls>Megh.</ls>i.30, ii.15; 6. a, an (used as an indefinite article); 7. alone, only, <ls>Bhartr.</ls>iii.14; 8. unparalleled, peerless.<P>({#eka#}-{#anya#} or {#apara#} ‘the one-the other,’ ‘some-others.’)
+;
+27200 new {#eka#}¦ {%pron. (f. {#kA#})%} 1. One, single; 2. unique, singular; 3. preeminent, excellent; 4. same, identical; 5. one of two or many, <ls>Megh.</ls>i.30, ii.15; 6. a, an (used as an indefinite article); 7. alone, only, <ls>Bhartr.</ls>iii.14; 8. unparalleled, peerless.<P>({#eka#}-{#anya#} or {#apara#} ‘the one-the other,’ ‘some-others.’)
+;---------------------------------------------------
+; <L>07444<pc>153-02<k1>ekatas<k2>ekatas
+27524 old {#ekatas#}¦ {%ind.%} 1. From one side, on one side; 2. one by one.<P>({#ekataH#}-{#anyataH#} ‘on one side-one other’ <ls>Kir.</ls>v.2.)
+;
+27524 new {#ekatas#}¦ {%ind.%} 1. From one side, on one side; 2. one by one.<P>({#ekataH#}-{#anyataH#} ‘on one side-on the other’ <ls>Kir.</ls>v.2.)
+;---------------------------------------------------
