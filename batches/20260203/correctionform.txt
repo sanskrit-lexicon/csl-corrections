@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of February 16, 2026
-589 correction records, with 549 PENDING
+589 correction records, with 513 PENDING
 
 Case 589: 02/03/2026 dict=AP, L=10821, hw=aiśvaryam, user=srhodes
 old = Super-human
@@ -254,14 +254,14 @@ Case 552: 01/29/2026 dict=SHS, L=8176, hw=ekāgra, user=srhodes
 old = Singlepointed
 new = Single-pointed
 comment = Typo – Better written with the "hyphen".
-status = PENDING
+status = TODOa
 ------------------------------------------------------------------------
 
 Case 551: 01/28/2026 dict=SHS, L=43088, hw=samāj, user=srhodes
 old = samāj
 new = samrāj
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 550: 01/28/2026 dict=AP, L=33387, hw=satra, user=srhodes
@@ -439,7 +439,7 @@ status = PENDING
 Case 525: 01/21/2026 dict=SHS, L=8103, hw=ekatāla, user=srhodes
 old = heating
 new = beating
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 524: 01/21/2026 dict=MW, L=39265, hw=ekajyā, user=srhodes
@@ -453,7 +453,7 @@ Case 523: 01/21/2026 dict=SHS, L=8085, hw=ekakālīna, user=srhodes
 old = cotemporary
 new = contemporary
 comment = Typo – Please note that the augment nUM is inserted after the initial vowel.
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 522: 01/20/2026 dict=AP, L=10632, hw=eka, user=srhodes
@@ -575,20 +575,20 @@ status = PENDING
 Case 504: 01/15/2026 dict=SHS, L=8074, hw=ḹ, user=srhodes
 old = ḷ
 new = ḹ
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 503: 01/15/2026 dict=SHS, L=8069, hw=ṝ, user=srhodes
 old = ṝṇoti
 new = ṛṇāti
 comment = Typo - Please note that this is the authorized spelling. You may check here:  https://ashtadhyayi.com/dhatu/sk1497
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 502: 01/15/2026 dict=SHS, L=8062, hw=ṛṣyagatā, user=srhodes
 old = recemosus
 new = racemosus
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 501: 01/15/2026 dict=LRV, L=7333.1, hw=ṛśyaketana, user=srhodes
@@ -711,14 +711,14 @@ Case 484: 01/12/2026 dict=SHS, L=7663, hw=uptima, user=srhodes
 old = uptima
 new = uptrima
 comment = Typo – Headword Typo!  Confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3738355162
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 483: 01/12/2026 dict=SHS, L=7663, hw=uptima, user=srhodes
 old = ktin aff.
 new = ktri aff.
 comment = Typo – confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3738355162
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 482: 01/12/2026 dict=AP, L=10255, hw=ubhayataḥ, user=srhodes
@@ -810,14 +810,14 @@ status = Yes. No change required.
 Case 469: 01/11/2026 dict=SHS, L=8051, hw=ṛṣi, user=srhodes
 old = in the Vedis
 new = in the Vedas
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 468: 01/11/2026 dict=SHS, L=8050, hw=ṛṣabharvvaja, user=srhodes
 old = ṛṣabharvvaja
 new = ṛṣabhadhvaja
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 467: 01/11/2026 dict=SHS, L=8049, hw=ṛṣabha, user=srhodes
@@ -1018,7 +1018,7 @@ status = PENDING
 Case 438: 01/06/2026 dict=SHS, L=7983, hw=ṛja, user=srhodes
 old = changed to āra
 new = changed to ār
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 437: 01/05/2026 dict=MW, L=245858, hw=sukhārta, user=srhodes
@@ -1280,7 +1280,7 @@ status = Corrected UrvazwIva to UrvazWIva on 15 Feb 2026. The top 'urv' one does
 Case 399: 01/02/2026 dict=SHS, L=7931, hw=ūrmmi, user=srhodes
 old = decay. death
 new = decay, death
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 398: 01/01/2026 dict=MW, L=199214, hw=virāj, user=srhodes
@@ -1374,7 +1374,7 @@ status = PENDING
 Case 385: 01/01/2026 dict=SHS, L=21397, hw=nāndīka, user=srhodes
 old = pot
 new = post
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 384: 01/01/2026 dict=AP, L=10513, hw=ūha, user=srhodes
@@ -1435,27 +1435,27 @@ status = PENDING
 Case 375: 12/30/2025 dict=SHS, L=7889, hw=ūrjita, user=srhodes
 old = Exceedding
 new = Exceeding
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 374: 12/30/2025 dict=SHS, L=7873, hw=ūravya, user=srhodes
 old = third cast
 new = third caste
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 373: 12/30/2025 dict=SHS, L=7870, hw=ūma, user=srhodes
 old = ūma
 new = ūm
 comment = Typo – FOLLOW UP: Please note that the definition "n. (-maṃ) A city." MUST BE located with the Headword "ūma" ;  BUT THE indeclinable portion must be written as:  "ūm"  !
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 372: 12/30/2025 dict=SHS, L=7870, hw=ūma, user=srhodes
 old = ūma
 new = ūm
 comment = Typo – Headword Typo!
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 371: 12/29/2025 dict=AP, L=10483, hw=ūrdhva, user=srhodes
@@ -1602,14 +1602,14 @@ Case 349: 12/27/2025 dict=SHS, L=7835, hw=uṣṇavāraṇa, user=srhodes
 old = a Chhattah.
 new = ?
 comment = Typo – This word most likely could use a correction – You decide !
-status = PENDING
+status = Chātāh is Hindi for umbrella.
 ------------------------------------------------------------------------
 
 Case 348: 12/26/2025 dict=SHS, L=7806, hw=uṣaṇa, user=srhodes
 old = Piper chavya
 new = Piper chaba
 comment = Typo – This correction is suggested according to authoritative agreement from reputable sources.
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 347: 12/26/2025 dict=AP, L=10463, hw=ūruḥ, user=srhodes
@@ -1742,13 +1742,13 @@ status = PENDING
 Case 327: 12/24/2025 dict=SHS, L=7796, hw=ulvaṇa, user=srhodes
 old = Much exceeding
 new = Much, exceeding
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 326: 12/24/2025 dict=SHS, L=7792, hw=ullekhana, user=srhodes
 old = Seraping
 new = Scraping
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 325: 12/23/2025 dict=AP, L=10409, hw=uṣṇa, user=srhodes
@@ -1812,14 +1812,14 @@ Case 316: 12/23/2025 dict=SHS, L=7768, hw=ulkāmukha, user=srhodes
 old = life-time
 new = lifetime
 comment = Typo – Please note that this word is better written as a single word, without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
-status = PENDING
+status = TODO-
 ------------------------------------------------------------------------
 
 Case 315: 12/23/2025 dict=SHS, L=7759, hw=ulupin, user=srhodes
 old = ulupin
 new = ulūpin
 comment = Typo – Headword Typo! Please note "ulupin" has already been given; and check as well the alphabetical order at this location !
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 314: 12/22/2025 dict=MW, L=15732, hw=arcis, user=srhodes
@@ -1941,19 +1941,19 @@ status = PENDING
 Case 296: 12/21/2025 dict=SHS, L=7731, hw=uruvuka, user=srhodes
 old = commu- nis
 new = communis
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 295: 12/21/2025 dict=SHS, L=7731, hw=uruvuka, user=srhodes
 old = commu- nis
 new = communis
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 294: 12/21/2025 dict=SHS, L=7731, hw=uruvuka, user=srhodes
 old = commu- nis
 new = communis
-status = PENDING
+status = no change required
 ------------------------------------------------------------------------
 
 Case 293: 12/20/2025 dict=AP, L=10351, hw=ullaṅgh, user=srhodes
@@ -2286,13 +2286,13 @@ status = PENDING
 Case 243: 12/17/2025 dict=SHS, L=7680, hw=uma, user=srhodes
 old = utilatissimum
 new = usitatissimum
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 242: 12/17/2025 dict=SHS, L=7664, hw=ubja, user=srhodes
 old = tyubjati
 new = nyubjati
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 241: 12/16/2025 dict=AP, L=10274, hw=uragaḥ, user=srhodes
@@ -2488,14 +2488,14 @@ status = PENDING
 Case 211: 12/13/2025 dict=SHS, L=7630, hw=upāsaka, user=srhodes
 old = Sudra
 new = Śūdra
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 210: 12/12/2025 dict=SHS, L=7618, hw=upāyina, user=srhodes
 old = upāyina
 new = upāyin
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 209: 12/12/2025 dict=LRV, L=7007.1, hw=upāsanā, user=srhodes
@@ -2681,7 +2681,7 @@ status = PENDING
 Case 179: 12/10/2025 dict=SHS, L=7575, hw=upahatadṛś, user=srhodes
 old = Dozzled
 new = Dazzled
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 178: 12/09/2025 dict=AP, L=10140, hw=upāṅgaḥ, user=srhodes
@@ -3305,7 +3305,7 @@ status = PENDING
 Case 81: 12/04/2025 dict=SHS, L=7524, hw=upasaṃgraha, user=srhodes
 old = Obeisance. civil address
 new = Obeisance, civil address
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 80: 12/04/2025 dict=MW, L=36067, hw=upasaṃkṣepa, user=srhodes
@@ -3479,7 +3479,7 @@ status = PENDING
 Case 53: 12/02/2025 dict=SHS, L=7481, hw=upalambhya, user=srhodes
 old = praise-worthy
 new = praiseworthy
-status = PENDING
+status = TODO-
 ------------------------------------------------------------------------
 
 Case 52: 12/01/2025 dict=MW, L=35557, hw=upariśayana, user=srhodes
@@ -3583,7 +3583,7 @@ status = PENDING
 Case 37: 11/30/2025 dict=SHS, L=7453, hw=uparakṣaṇa, user=srhodes
 old = out post
 new = outpost
-status = PENDING
+status = TODOjoin
 ------------------------------------------------------------------------
 
 Case 36: 11/29/2025 dict=MW, L=14502.1, hw=ambujāsanā, user=srhodes
@@ -3755,7 +3755,7 @@ Case 10: 11/28/2025 dict=SHS, L=7433, hw=upamātṛ, user=srhodes
 old = f. (-trī)
 new = f. (-tā)
 comment = Typo – Please note that this is a suggested "print change" for the feminine nominative singular form: "upamātā"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 9: 11/27/2025 dict=AP, L=9725, hw=upaplavaḥ, user=srhodes
