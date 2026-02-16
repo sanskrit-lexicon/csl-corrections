@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for LRV
-As of February 15, 2026
-36 correction records, with 15 PENDING
+As of February 16, 2026
+36 correction records, with 4 PENDING
 
 Case 588: 02/03/2026 dict=LRV, L=7444, hw=ekatas, user=srhodes
 old = on one side-one other
@@ -19,7 +19,7 @@ Case 577: 02/01/2026 dict=LRV, L=7398.1, hw=ekatarā, user=srhodes
 old = n. rat) 
 new = n. ram) 
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 576: 02/01/2026 dict=LRV, L=7398, hw=ekatara, user=srhodes
@@ -47,7 +47,7 @@ Case 556: 01/30/2026 dict=LRV, L=7357, hw=ekāṃga, user=srhodes
 old = body-guard
 new = bodyguard
 comment = Typo – Better without the "Hyphen". This should be a Global Correction!
-status = PENDING
+status = TODO-
 ------------------------------------------------------------------------
 
 Case 501: 01/15/2026 dict=LRV, L=7333.1, hw=ṛśyaketana, user=srhodes
@@ -65,7 +65,7 @@ status = Corrected 15 Feb 2026
 Case 477: 01/12/2026 dict=LRV, L=7353, hw=eka, user=srhodes
 old = one of type or many,
 new = one of two or many,
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 463: 01/10/2026 dict=LRV, L=7316, hw=ṛtumukha, user=srhodes
@@ -119,14 +119,14 @@ Case 412: 01/03/2026 dict=LRV, L=7254, hw=ūhāpoha, user=srhodes
 old = ūha-apoha ??? 
 new = ūha-apoha 
 comment = Typo – Delete the three "???". This Headword is clearly a "Print Change", and should simply be marked as such. No need for the question marks, the citation given settles the issue !
-status = PENDING
+status = Question is about the missing gender of the word. So, not settled.
 ------------------------------------------------------------------------
 
 Case 411: 01/03/2026 dict=LRV, L=7254, hw=ūṣaka, user=srhodes
 old = ūha-apoha ??? 
 new = ūha-apoha 
 comment = Typo – Delete the three "???". This Headword is clearly a "Print Change", and should simply be marked as such. No need for the question marks, the citation given settles the issue !
-status = PENDING
+status = Question is about the missing gender of the word. So, not settled.
 ------------------------------------------------------------------------
 
 Case 410: 01/03/2026 dict=LRV, L=7244, hw=ūṣaka, user=srhodes
@@ -153,7 +153,7 @@ Case 308: 12/22/2025 dict=LRV, L=7092, hw=urvīdhara, user=srhodes
 old = Śesha
 new = Śeṣa
 comment = Typo – Please note that this correction should be made Globally to avoid "Mixing various modes of Transliteration". AB has indicated that consistency should be maintained particularly within a single word!
-status = Already corrected elsewhere
+status = Already corrected elsewhere. In the other dictionaries, corrected via https://github.com/sanskrit-lexicon/csl-orig/issues/2822
 ------------------------------------------------------------------------
 
 Case 307: 12/22/2025 dict=LRV, L=7079, hw=uruvikrama, user=srhodes
@@ -166,35 +166,35 @@ Case 259: 12/18/2025 dict=LRV, L=7066.1, hw=urastrāṇa, user=srhodes
 old = breast-plate
 new = breastplate
 comment = Typo – This is better written as a single word without the hyphen.
-status = PENDING
+status = TODO-
 ------------------------------------------------------------------------
 
 Case 258: 12/18/2025 dict=LRV, L=7066.1, hw=urastrāṇa, user=srhodes
 old = breast-plate
 new = breastplate
 comment = Typo – This is better written as a single word without the hyphen.
-status = PENDING
+status = TODO-
 ------------------------------------------------------------------------
 
 Case 257: 12/18/2025 dict=LRV, L=7066, hw=urastra, user=srhodes
 old = breast-plate
 new = breastplate
 comment = Typo – This is better written as a single word without the hyphen.
-status = PENDING
+status = TODO-
 ------------------------------------------------------------------------
 
 Case 256: 12/18/2025 dict=LRV, L=7050, hw=uragapratisara, user=srhodes
 old = wedding-ring
 new = wedding ring
 comment = Typo – This is better written as Two Words without the hyphen.
-status = PENDING
+status = TODO-
 ------------------------------------------------------------------------
 
 Case 255: 12/18/2025 dict=LRV, L=7036, hw=ubhayavidyā, user=srhodes
 old = two fold
 new = twofold
 comment = Typo – This is better written as a single word. Please consider making this a Global Change covering all numbers from two to nine: threefold, fourfold, fivefold etc.
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 219: 12/14/2025 dict=LRV, L=7015, hw=upeta, user=srhodes
@@ -231,7 +231,7 @@ Case 114: 12/07/2025 dict=LRV, L=6898, hw=upasaṃkhyāna, user=srhodes
 old = upasaṃkhyāna
 new = upasaṃvyāna
 comment = Typo – Please note that this is a Headword Typo! Of course, once the correction has been, the Window Display should not include: "upasaṃkhyāna [ID=6903]".
-status = PENDING
+status = Corrected 15 Feb 2026
 ------------------------------------------------------------------------
 
 Case 65: 12/02/2025 dict=LRV, L=6871, hw=upavidyā, user=srhodes
