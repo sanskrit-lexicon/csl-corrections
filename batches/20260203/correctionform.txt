@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of February 16, 2026
-589 correction records, with 513 PENDING
+589 correction records, with 511 PENDING
 
 Case 589: 02/03/2026 dict=AP, L=10821, hw=aiśvaryam, user=srhodes
 old = Super-human
@@ -288,7 +288,7 @@ Case 547: 01/28/2026 dict=SHS, L=8138, hw=ekamukha, user=srhodes
 old = Onefaced
 new = One-faced
 comment = Typo – Better with the "hyphen".
-status = PENDING
+status = TODOa
 ------------------------------------------------------------------------
 
 Case 546: 01/27/2026 dict=AP, L=8150, hw=idambaram, user=srhodes
@@ -3112,7 +3112,7 @@ status = PENDING
 Case 111: 12/06/2025 dict=SHS, L=7550, hw=upasṛṣṭa, user=srhodes
 old = Cotton
 new = Coition
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 110: 12/05/2025 dict=AP, L=9986, hw=upasaṃhāraḥ, user=srhodes

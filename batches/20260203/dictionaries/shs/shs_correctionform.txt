@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of February 16, 2026
-40 correction records, with 4 PENDING
+40 correction records, with 2 PENDING
 
 Case 552: 01/29/2026 dict=SHS, L=8176, hw=ekāgra, user=srhodes
 old = Singlepointed
@@ -20,7 +20,7 @@ Case 547: 01/28/2026 dict=SHS, L=8138, hw=ekamukha, user=srhodes
 old = Onefaced
 new = One-faced
 comment = Typo – Better with the "hyphen".
-status = PENDING
+status = TODOa
 ------------------------------------------------------------------------
 
 Case 525: 01/21/2026 dict=SHS, L=8103, hw=ekatāla, user=srhodes
@@ -231,7 +231,7 @@ status = Corrected 16 Feb 2026
 Case 111: 12/06/2025 dict=SHS, L=7550, hw=upasṛṣṭa, user=srhodes
 old = Cotton
 new = Coition
-status = PENDING
+status = Corrected 16 Feb 2026
 ------------------------------------------------------------------------
 
 Case 81: 12/04/2025 dict=SHS, L=7524, hw=upasaṃgraha, user=srhodes
