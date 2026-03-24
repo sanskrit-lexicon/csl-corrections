@@ -16,7 +16,29 @@
    $dictb = $dict;
   }
   $dict = $dictb;
- } 
+  }
+  
+ $lnum_default = '';
+ $lnum = $lnum_default;
+ if (isset($_GET['lnum'])) {
+  $lnuma = $_GET['lnum'];
+  $lnumb = preg_replace('|[^A-Za-z0-9]|','',$lnuma);
+  if(strlen($lnumb) > 20) {
+   $lnumb = $lnum_default;
+  }
+  $lnum = $lnumb;
+ }
+ 
+ $hw_default = '';
+ $hw = $hw_default;
+ if (isset($_GET['hw'])) {
+  $hwa = $_GET['hw'];
+  $hwb = preg_replace('|[^A-Za-z0-9]|','',$hwa);
+  if(strlen($hwb) > 100) {
+   $hwb = $hw_default;
+  }
+  $hw = $hwb;
+ }
  
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "//www.w3.org/TR/html4/strict.dtd">
@@ -122,16 +144,16 @@ onsubmit="submitted=true;">
  </label>
 &nbsp;&nbsp;
 <input type="text" name="entry_L" 
- value="
+  value="
 <?php
  if ($dict == 'APES'){
   echo "0(NA)";
  }else {
-  echo "";
+  echo $lnum;
  }
 ?>
- " 
- class="ss-q-short" id="entry_L" dir="auto" aria-label="Which L code?  " aria-required="true" required="" title="" style="width:80px;position:relative;left:70px;">
+  " 
+  class="ss-q-short" id="entry_L" dir="auto" aria-label="Which L code?  " aria-required="true" required="" title="" style="width:80px;position:relative;left:70px;">
 <div class="error-message"></div>
 <div class="required-message" style="display:none;">This is a required question</div>
 </div></div></div> 
@@ -146,7 +168,7 @@ onsubmit="submitted=true;">
   <div class="ss-q-help ss-secondary-text" dir="ltr" style="display:none;">The headword under which you are submitting a correction</div>
  </label>
 &nbsp;&nbsp;
-<input type="text" name="entry_hw" value="" class="ss-q-short" id="entry_hw" dir="auto" aria-label="Headword The headword under which you are submitting a correction " aria-required="true" required="" title="" style="width:80px;position:relative;left:48px;">
+<input type="text" name="entry_hw" value="<?php echo $hw; ?>" class="ss-q-short" id="entry_hw" dir="auto" aria-label="Headword The headword under which you are submitting a correction " aria-required="true" required="" title="" style="width:80px;position:relative;left:48px;">
 <div class="error-message"></div>
 <div class="required-message" style="display:none;">This is a required question</div>
 </div>
