@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 02, 2026
-109 correction records, with 25 PENDING
+As of April 03, 2026
+109 correction records, with 4 PENDING
 
 Case 571: 01/30/2026 dict=MW, L=156977, hw=manuṣyasabhā, user=srhodes
 old = meeting-place
@@ -76,14 +76,14 @@ Case 545: 01/27/2026 dict=MW, L=94688, hw=dustyajya, user=srhodes
 old = dustyajya
 new = dustyaja
 comment = "Typo – Please note that this is a ""print change"" confirmed by AB here:https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3803708865"
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 544: 01/27/2026 dict=MW, L=144864, hw=bāṣpaviklaba, user=srhodes
 old = bāṣpaviklaba
 new = bāṣpaviklava
 comment = "Typo – Please note that this is a ""print change"" confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3803746750"
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 541: 01/27/2026 dict=MW, L=39859, hw=ekāyanagata, user=srhodes
@@ -118,62 +118,62 @@ Case 537: 01/26/2026 dict=MW, L=28803.42, hw=idamīya, user=srhodes
 old = Placement Error (the previous submission was a mistake)
 new = "The supplemental insertion of this Headword should be placed just after the word ""idammaya mf(ī)n. [ID=28819]"" in the Hierarchical listing of words. Such a placement will have ""idamīya"" following after all of the proper compounds beginning with ""idam-""."
 comment = Placement Error (the previous submission was a mistake)
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 536: 01/26/2026 dict=MW, L=28803.41, hw=idaṃśabda, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""idammaya mf(ī)n. [ID=28819]"" in the Hierarchical listing of words. Such a placement will have ""idamīya"" following after all of the proper compounds beginning with ""idam-""."
 comment = Placement Error
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 535: 01/26/2026 dict=MW, L=28803.41, hw=idaṃśabda, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""idaṃvid mfn. [ID=28807]"" in the Hierarchical listing of words. This placement is follow the correct alphabetical order as used by MW dictionary. For example, ""saṃśaṃs [ID=226526]"" FOLLOWS AFTER ""saṃ-√vlī [ID=226523]"", which I hope proves my point."
 comment = Placement Error
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 534: 01/26/2026 dict=MW, L=38504.1, hw=ṛtebhaṅga, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""ṛte ind. [ID=38914]"" in the Hierarchical listing of words. This placement is confirmed by the understanding the ""Proper"" sense of the compound being relocated."
 comment = Placement Error
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 533: 01/26/2026 dict=MW, L=38504.2, hw=ṛtesphya, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""ṛte ind. [ID=38914]"" in the Hierarchical listing of words. This placement is confirmed by the understanding the ""Proper"" sense of the compound being relocated."
 comment = Placement Error
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 532: 01/26/2026 dict=MW, L=115019.1, hw=pati, user=srhodes
 old = "pati f. = gati, going, motion."
 new = "2. Pati, f. = gati, going, motion."
 comment = "Typo – Please note that this correction matches the printed page. This supplementary entry appears to be numbered ""2"", by MW dictionary. Perhaps you would like ""Separate"" this Supplemental Entry from the Main Entry ""1. pati [ID=115014 ]"", so that the ""2. Pati"" will appear in the Hierarchy list display with the number ""2"" (and of course according to its proper placement within the Hierarchy)."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 524: 01/21/2026 dict=MW, L=39265, hw=ekajyā, user=srhodes
 old = cord
 new = chord
 comment = "Typo – Please note that ""chord"" appears to be the better spelling, for the sense given."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 512: 01/17/2026 dict=MW, L=100651, hw=dhātupa, user=srhodes
 old = 7 fluids’ elementary
 new = "7 fluids’, elementary"
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 498: 01/14/2026 dict=MW, L=39220, hw=ekacara, user=srhodes
 old = segregarious
 new = gregarious
 comment = "Typo – Please note that this is a suggested ""print change"". Even GOOGLE seems to be unfamiliar with this spelling: ""segregarious"" ?"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 497: 01/14/2026 dict=MW, L=39186, hw=ekakapāla, user=srhodes
@@ -187,70 +187,70 @@ Case 492: 01/13/2026 dict=MW, L=38125, hw=ūrdhvakaṇṭhakā, user=srhodes
 old = ūrdhvakaṇṭhakā
 new = ūrdhvakaṇṭhikā
 comment = "Typo – Please note that this is a Headword ""Print Change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3694873540 LB AND  LB https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3738689457"
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 491: 01/13/2026 dict=MW, L=38123, hw=ūrdhvakaṇṭhā, user=srhodes
 old = ūrdhvakaṇṭhā
 new = ūrdhvakaṇṭhī
 comment = "Typo – Please note that this is a Headword ""Print Change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3694873540 LB AND  LB https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3738689457"
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 490: 01/13/2026 dict=MW, L=156575, hw=madhyā, user=srhodes
 old = See Below
 new = "Since the Headword ""madhyā"" appears TWICE: ""1. madhyā [ID=156352]""  AND  ""2. madhyā [ID=156575]"" ,  would it be a good idea to introduce the numbers ""1"" and ""2"" to the Headwords in the Hierarchy Column List ?  By the way, the numbering ""1"" and ""2"" as used above are my own usage, but the suggestion is here for your consideration."
 comment = See Above
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 489: 01/13/2026 dict=MW, L=156352, hw=madhyā, user=srhodes
 old = See Below
 new = "Since the Headword ""madhyā"" appears TWICE: ""1. madhyā [ID=156352]""  AND  ""2. madhyā [ID=156575]"" ,  would it be a good idea to introduce the numbers ""1"" and ""2"" to the Headwords in the Hierarchy Column List ?  By the way, the numbering ""1"" and ""2"" as used above are my own usage, but the suggestion is here for your consideration."
 comment = See Above
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 488: 01/13/2026 dict=MW, L=39821.11, hw=ekāntaduḥkha, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the Headword ""ekāntaduḥṣamā f. [ID=39822]"" in the Hierarchical listing of words. I am aware that Andhrabharati often disagrees with my suggestions for ""relocation"" of words. However, in this case I prove my point on the strength of MW's own listing of the following two Headwords: ""1. duḥṣama n. [ID=93320]""  AND  ""1. duḥkha mfn. [ID=93403]"". Each of these two Headwords serve as the ""uttarapada"" for the two compounds: ""ekāntaduḥṣamā""  AND  ""ekāntaduḥkha"". Therefore given the very same ""pūrvapada"", namely ""ekānta"", the alphabetical ordering of these two compounds MUST FOLLOW the same alphabetical ordering as given by MW himself in listing the following two Headwords (which form the uttarapada of the above compounds): ""1. duḥṣama n. [ID=93320]""  AND  ""1. duḥkha mfn. [ID=93403]"".  The ID numbers here Prove the Point: ""ekāntaduḥkha"" MUST FOLLOW AFTER ""ekāntaduḥṣamā""."
 comment = Placement Error
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 486: 01/13/2026 dict=MW, L=39821.11, hw=ekāntaduḥkha, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the Headword ""ekāntaduḥṣamā f. [ID=39822]"" in the Hierarchical listing of words. I am aware that Andhrabharati often disagrees with my suggestions for ""relocation"" of words. However, in this case I prove my point on the strength of MW's own listing of the following two Headwords: ""1. duḥṣama n. [ID=93320]""  AND  ""1. duḥkha mfn. [ID=93403]"". Each of these two Headwords serve as the ""uttarapada"" for the two compounds: ""ekāntaduḥṣamā""  AND  ""ekāntaduḥkha"". Therefore given the very same ""pūrvapada"", namely ""ekānta"", the alphabetical ordering of these two compounds MUST FOLLOW the same alphabetical ordering as given by MW himself in listing the following two Headwords (which form the uttarapada of the above compounds): ""1. duḥṣama n. [ID=93320]""  AND  ""1. duḥkha mfn. [ID=93403]"".  The ID numbers here Prove the Point: ""ekāntaduḥkha"" MUST FOLLOW AFTER ""ekāntaduḥṣamā""."
 comment = Placement Error
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 476: 01/11/2026 dict=MW, L=257531, hw=sanīsrasa, user=srhodes
 old = SEE BELOW
 new = "PLEASE READ: As a side note, MW lists the directly related Headword ""danīdhvaṃsa [ID=90014]"", THEREFORE why not list this Headword accordingly as ""sanīsraṃsa"" ; Consistency Wins The Day !  Both forms are cited and given under the very same rule: ""Pāṇ. ii, 4, 74, Kāś.""  I see that the Mahābhāṣya approves of this word ""sanīsrasa"", however the more common form appears to be spelled: ""sanīsraṃsa"", just like ""danīdhvaṃsa [ID=90014]"". MW did NOT print ""danīdhvasa"", although the Mahābhāṣya approves of this spelling."
 comment = SEE ABOVE
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 475: 01/11/2026 dict=MW, L=257531, hw=sanīsrasa, user=srhodes
 old = "Pāṇ. iv, 2, 74,"
 new = "Pāṇ. ii, 4, 74,"
 comment = "Typo – Please note that this is a  VERY IMPORTANT  ""Print Change"" ! LB ALSO, as a side note, I hope that Andhrabharati will confirm that this Headword is spelled correctly. I see that the Mahābhāṣya approves of this word, however the more common form appears to be spelled: ""sanīsraṃsa"". Therefore, I wonder if this spelling should be made as a ""Print Change"" Headword here ?"
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 458: 01/08/2026 dict=MW, L=29989, hw=īhatas, user=srhodes
 old = īhatas
 new = īhātas
 comment = Typo – Please note that this correction has been cofirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/99#issuecomment-3719300212
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 456: 01/07/2026 dict=MW, L=38619, hw=ṛtvij, user=srhodes
 old = See Below
 new = "Please note that on the printed page, the following four Chief Priests are shown with an initial Capital Letter (and italics): Hotṛ  Adhvaryu  Brahman  Udgātṛ ; LB Thus, these four words should be corrected accordingly in the following enumeration: ""viz. hotṛ, Maitrāvaruṇa, Acchāvāka, Grāva-stut; adhvaryu, Prati-prasthātṛ, Neṣṭṛ, Un-netṛ; brahman, Brāhmaṇācchaṃsin, Agnīdhra, Potṛ; udgātṛ, Prastotṛ, Pratihartṛ, Subrahmaṇya"". LB Indeed, it is strange to ""demote"" the Chief Priests being mentioned !"
 comment = See Above
-status = PENDING
+status = Corrected 02 Apr 2026
 ------------------------------------------------------------------------
 
 Case 454: 01/07/2026 dict=MW, L=170882.2, hw=yaśodhavala, user=srhodes
