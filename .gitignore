@@ -5,3 +5,5 @@ temp*
 app/correction_response/cfr-*.tsv
 app/correction_response/*.zip
 __pycache__
+.DS_store
+app/.DS_store batches/.DS_store
