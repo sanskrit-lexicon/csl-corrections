@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 03, 2026
-63 correction records, with 7 PENDING
+63 correction records, with 5 PENDING
 
 Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
@@ -13,7 +13,7 @@ Case 555: 04/01/2026 dict=SHS, L=9017, hw=kaphakṛrccikā, user=srhodes
 old = kaphakṛrccikā
 new = kaphakūrccikā
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 537: 03/30/2026 dict=SHS, L=8977, hw=kapiladruma, user=srhodes
@@ -27,7 +27,7 @@ Case 524: 03/27/2026 dict=SHS, L=8898, hw=kandalu, user=srhodes
 old = kandalu
 new = kandālu
 comment = "Typo – Please note that this is a possible Print Change, following the Headword as spelled by VCP, SKD and MW."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 510: 03/26/2026 dict=SHS, L=304, hw=agniṣṭha, user=srhodes

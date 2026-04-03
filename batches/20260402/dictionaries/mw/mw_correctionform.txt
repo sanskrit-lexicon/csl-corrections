@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 03, 2026
-235 correction records, with 11 PENDING
+235 correction records, with 5 PENDING
 
 Case 573: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
 old = -kāmoyet
 new = -kāmayet
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 571: 04/02/2026 dict=MW, L=45908, hw=kalāṭīna, user=srhodes
@@ -19,7 +19,7 @@ Case 564: 04/01/2026 dict=MW, L=174870, hw=rabh, user=srhodes
 old = 1. pl. rarabhmá
 new = 1. pl. rarabhmā́
 comment = "Typo – Please note that this correction is a confirmed ""Print Change"", as you may verify by consulting the vedic verse: RV. viii, 45, 20."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 554: 03/31/2026 dict=MW, L=216850, hw=śiñjadṣaḍaṅghri, user=srhodes
@@ -33,7 +33,7 @@ Case 553: 03/31/2026 dict=MW, L=45697.1, hw=kalaṅkeśa, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""kalaṅkāṅka m. [ID=45694]"" in the Hierarchical listing of words. The reason for this alphabetical placement is according to the proper dissolution of the compound: ""kalaṅka + īśa"" = ""kalaṅkeśa"" m. the moon (possessing spots)."
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 548: 03/30/2026 dict=MW, L=43645.1, hw=kapotapadadarśana, user=srhodes
@@ -60,7 +60,7 @@ status = No change required
 Case 536: 03/29/2026 dict=MW, L=143528.1, hw=bahukṛtya, user=srhodes
 old = -karanīya
 new = -karaṇīya
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 523: 03/26/2026 dict=MW, L=134345, hw=pratyudāharaṇa, user=srhodes
@@ -88,14 +88,14 @@ Case 520: 03/26/2026 dict=MW, L=132396, hw=pratidhuktva, user=srhodes
 old = Triple Indentation Error in the Hierarchy List Column
 new = Please Make a Double Indentation of this Headword in the Hierarchy List Column. (H4) —> (H3).
 comment = Triple Indentation Error in the Hierarchy List Column
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 519: 03/26/2026 dict=MW, L=132395, hw=pratiduh, user=srhodes
 old = Double Indentation Error in the Hierarchy List Column
 new = Please Make a Single Indentation of this Headword in the Hierarchy List Column. (H3) —> (H2).
 comment = Double Indentation Error in the Hierarchy List Column
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 518: 03/26/2026 dict=MW, L=131518, hw=pratidṛṣṭānta, user=srhodes

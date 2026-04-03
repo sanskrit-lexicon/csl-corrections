@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 03, 2026
-38 correction records, with 8 PENDING
+38 correction records, with 2 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
 new = lotuses
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 574: 04/03/2026 dict=LRV, L=8236, hw=kamanachada, user=srhodes
@@ -19,7 +19,7 @@ Case 550: 03/31/2026 dict=LRV, L=8184, hw=kapila, user=srhodes
 old = haing
 new = having
 comment = Typo – This could be made as a Global Correction (in case it happens again).
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 533: 03/29/2026 dict=LRV, L=8169, hw=kapālikā, user=srhodes
@@ -32,25 +32,25 @@ status = No change required
 Case 532: 03/29/2026 dict=LRV, L=8167.1, hw=kapālabhṛt, user=srhodes
 old = kapāla-pāṇi m.
 new = kapāla-bhṛt m.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 531: 03/29/2026 dict=LRV, L=8167.2, hw=kapālamālin, user=srhodes
 old = kapāla-pāṇi m.
 new = kapāla-mālin m.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 530: 03/29/2026 dict=LRV, L=8167.3, hw=kapālaśiras, user=srhodes
 old = kapāla-pāṇi m.
 new = kapāla-śiras m.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 529: 03/29/2026 dict=LRV, L=8149.1, hw=kanyikā, user=srhodes
 old = kanyakā f. 1. A virgin
 new = kanyikā f. 1. A virgin
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 430: 03/22/2026 dict=LRV, L=8109, hw=kaṃdalī, user=srhodes

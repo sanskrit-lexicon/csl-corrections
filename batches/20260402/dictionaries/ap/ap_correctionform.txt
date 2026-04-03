@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 03, 2026
-233 correction records, with 26 PENDING
+233 correction records, with 7 PENDING
 
 Case 572: 04/02/2026 dict=AP, L=11728, hw=kalāpaḥ, user=srhodes
 old = kuvalayanaṃyanānā
 new = kuvalayanayanānā
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 569: 04/02/2026 dict=AP, L=11724.002, hw=kalācī, user=srhodes
@@ -26,21 +26,21 @@ Case 567: 04/02/2026 dict=AP, L=11741, hw=kalikā, user=srhodes
 old = king
 new = kind
 comment = Typo – Please note that this is a suggested Print Change.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 566: 04/02/2026 dict=AP, L=11720.03, hw=kalādharaḥ, user=srhodes
 old = whoops
 new = Please Ignore! It Has Already Been Done!!!
 comment = whoops
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 565: 04/02/2026 dict=AP, L=11720.03, hw=kalādharaḥ, user=srhodes
 old = Missing Headwords
 new = "Two Headwords to add to the Hierarchy List Column: ""kalānidhiḥ""  AND  ""kalāpūrṇaḥ"" , so as to be a ""searchable"" Headwords within the online dictionary."
 comment = Missing Headwords
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 563: 04/01/2026 dict=AP, L=11717.024, hw=kalaśodadhi, user=srhodes
@@ -75,42 +75,42 @@ Case 559: 04/01/2026 dict=AP, L=11709.02, hw=kalamagopavadha, user=srhodes
 old = -gopavadha
 new = -gopavadhū
 comment = "Typo – Please note that this is a ""Print Change"" that is required in order to yield the correct meaning given."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 558: 04/01/2026 dict=AP, L=11709.022, hw=kalamagopī, user=srhodes
 old = -gopavadha
 new = -gopavadhū
 comment = "Typo – Please note that this is a ""Print Change"" that is required in order to yield the correct meaning given."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 557: 04/01/2026 dict=AP, L=11709.02, hw=kalamagopavadha, user=srhodes
 old = kalamagopavadha
 new = kalamagopavadhū
 comment = "Typo – Please note that this is a ""Print Change"" that is required in order to yield the correct meaning given."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 556: 04/01/2026 dict=AP, L=11709, hw=kalamaḥ, user=srhodes
 old = kalamagopavadha
 new = kalamagopavadhū
 comment = "Typo – Please note that this is a ""Print Change"" that is required in order to yield the correct meaning given."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 552: 03/31/2026 dict=AP, L=11693.048, hw=kaladhautam, user=srhodes
 old = Missing Compound
 new = "Please note that this is a suggestion to add the compound indicated here: ""kaladhautamlipi f."" , to the Hierarchy List Column, so as to be a ""searchable"" compound within the online dictionary. It probably would also receive an additional indentation in the Hierarchy List, while being located directly beneath the pūrvapada ""kaladhautam""."
 comment = Missing Compound
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 551: 03/31/2026 dict=AP, L=11693.048, hw=kaladhautam, user=srhodes
 old = Missing Compound
 new = "Please note that this is a suggestion to add the compound indicated here: ""kaladhautamlipi f."" , to the Hierarchy List Column, so as to be a ""searchable"" compound within the online dictionary. It probably would also receive an additional indentation in the Hierarchy List, while being located directly beneath the pūrvapada ""kaladhautam""."
 comment = Missing Compound
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 549: 03/30/2026 dict=AP, L=11683.02, hw=kalānuvādin, user=srhodes
@@ -124,14 +124,14 @@ Case 547: 03/30/2026 dict=AP, L=11683.02, hw=karṣāpaṇa, user=srhodes
 old = See Below
 new = "Please note that this compound is not printed as an official Headword. However, I like the idea of adding ALL APTE compounds to the Hierarchy List Column, in the manner done here. Of course, this would be a Monumental Task! Perhaps this listing is a template for the future work to be done in regard to all compounds?"
 comment = See Above
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 546: 03/30/2026 dict=AP, L=11683, hw=karṣaḥ, user=srhodes
 old = karṣāpaṇa
 new = -āpaṇa = kārṣāpaṇa q.v.
 comment = Typo – Please note that this correction follows the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 545: 03/30/2026 dict=AP, L=21565.052, hw=purataṭī, user=srhodes
@@ -159,26 +159,26 @@ Case 540: 03/30/2026 dict=AP, L=11672, hw=karmandin, user=srhodes
 old = P. IV. 4. 111
 new = P. IV. 3. 111
 comment = "Typo – UPDATED ID NUMBER (sorry for that) – Please note that this is a ""Print Change"", easily verified."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 539: 03/30/2026 dict=AP, L=11669, hw=karmandin, user=srhodes
 old = P. IV. 4. 111
 new = P. IV. 3. 111
 comment = "Typo – Please note that this is a ""Print Change"", easily verified."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 538: 03/30/2026 dict=AP, L=11669, hw=karmaṇya, user=srhodes
 old = karmana-yat
 new = karman-yat
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 535: 03/29/2026 dict=AP, L=11667, hw=karman, user=srhodes
 old = -samnyāsikaḥ
 new = -saṃnyāsikaḥ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 534: 03/29/2026 dict=AP, L=11667, hw=karman, user=srhodes
@@ -191,13 +191,13 @@ status = No change required
 Case 528: 03/28/2026 dict=AP, L=11667, hw=karman, user=srhodes
 old = agnivīṃraṃ
 new = agnir vīraṃ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 527: 03/28/2026 dict=AP, L=11667, hw=karman, user=srhodes
 old = mugthe
 new = mugdhe
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 526: 03/28/2026 dict=AP, L=11667, hw=karman, user=srhodes
@@ -211,7 +211,7 @@ Case 525: 03/27/2026 dict=AP, L=11667, hw=karman, user=srhodes
 old = janmakarmāpanuttaye
 new = janma karmāpanuttaye
 comment = Typo – Please note that this correction to the Verse Citation is confirmed by numerous sources.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 516: 03/26/2026 dict=AP, L=11655, hw=karparaḥ, user=srhodes
