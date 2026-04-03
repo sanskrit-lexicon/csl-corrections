@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History
 As of April 03, 2026
-589 correction records, with 484 PENDING
+589 correction records, with 459 PENDING
 
 Case 589: 02/03/2026 dict=AP, L=10821, hw=aiśvaryam, user=srhodes
 old = Super-human
 new = Superhuman
 comment = "Typo – Please note that this word is better written as a single word   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 588: 02/03/2026 dict=LRV, L=7444, hw=ekatas, user=srhodes
@@ -46,21 +46,21 @@ Case 583: 02/01/2026 dict=AP, L=10767, hw=aikṣubhārika, user=srhodes
 old = sugar-canes
 new = sugarcanes
 comment = "Typo – Please note that this word is better written as a single word   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!  ALSO, please note that the ""plural"" here could be rendered simply as ""sugarcane"", which is my preference."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 582: 02/01/2026 dict=AP, L=10766, hw=aikṣuka, user=srhodes
 old = sugar-cane
 new = sugarcane
 comment = "Typo – Please note that this word is better written as a single word   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 581: 02/01/2026 dict=AP, L=10765, hw=aikṣavya, user=srhodes
 old = sugar-cane
 new = sugarcane
 comment = "Typo – Please note that this word is better written as a single word   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 580: 02/01/2026 dict=AP, L=10760, hw=aikānyikaḥ, user=srhodes
@@ -74,7 +74,7 @@ Case 579: 02/01/2026 dict=AP, L=10755, hw=aikāṅgaḥ, user=srhodes
 old = body-guard
 new = bodyguard
 comment = "Typo – Please note that this word is better written as a single word   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 578: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
@@ -316,7 +316,7 @@ Case 543: 01/27/2026 dict=AP, L=10677, hw=etad, user=srhodes
 old = hence-forth
 new = henceforth
 comment = "Typo - Please note that this is a ""print change"". The ""Hyphen"" is not needed. Please make this a Global Correction, so that we don't have to waste time on such trivial matters."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 542: 01/27/2026 dict=AP, L=10677, hw=etad, user=srhodes
@@ -399,7 +399,7 @@ Case 531: 01/21/2026 dict=AP, L=10669, hw=eṇaḥ, user=srhodes
 old = deer-skin
 new = deerskin
 comment = "Typo – Please note that this is better written without ""hyphen"""
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 530: 01/21/2026 dict=AP, L=10666, hw=eḍa, user=srhodes
@@ -420,7 +420,7 @@ Case 528: 01/21/2026 dict=AP, L=10666, hw=eḍa, user=srhodes
 old = ring-worms
 new = ringworms
 comment = Typo – Please note that this correction matches the printed page!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 527: 01/21/2026 dict=AP, L=10654, hw=ekībhū, user=srhodes
@@ -634,7 +634,7 @@ Case 495: 01/14/2026 dict=AP, L=10632, hw=eka, user=srhodes
 old = foot-path
 new = footpath
 comment = "Typo – Better written without the ""hyphen"". Also, a Global Correction !"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 494: 01/13/2026 dict=AP, L=10628, hw=ḷ, user=srhodes
@@ -1086,7 +1086,7 @@ Case 428: 01/04/2026 dict=AP, L=10563, hw=ṛṇa, user=srhodes
 old = strong-hold
 new = stronghold
 comment = "Typo – Better without the ""Hyphen"". Of course, it should be a Global Correction !"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 427: 01/04/2026 dict=MW, L=38872, hw=ṛṇacyut, user=srhodes
@@ -1176,14 +1176,14 @@ Case 415: 01/03/2026 dict=AP, L=10559, hw=ṛjvī, user=srhodes
 old = straight-forward
 new = straightforward
 comment = "Typo – Better without the ""Hyphen""."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 414: 01/03/2026 dict=AP, L=10550, hw=ṛju, user=srhodes
 old = straight-forward
 new = straightforward
 comment = "Typo – Better without the ""Hyphen""."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 413: 01/03/2026 dict=AP, L=10549, hw=ṛjīṣin, user=srhodes
@@ -1697,7 +1697,7 @@ Case 334: 12/25/2025 dict=AP, L=10419, hw=uṣas, user=srhodes
 old = day-break
 new = daybreak
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 333: 12/25/2025 dict=AP, L=10419, hw=uṣas, user=srhodes
@@ -1767,7 +1767,7 @@ Case 323: 12/23/2025 dict=AP, L=10405, hw=uṣa, user=srhodes
 old = day-break
 new = daybreak
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 322: 12/23/2025 dict=AP, L=10404, hw=uṣ, user=srhodes
@@ -2111,7 +2111,7 @@ Case 270: 12/19/2025 dict=AP, L=10311, hw=urṇā, user=srhodes
 old = eye-brows
 new = eyebrows
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees! The correction should target the SINGULAR form which will automatically correct the plural: ""eye-brow"" —becomes— ""eyebrow""."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 269: 12/18/2025 dict=AP, L=10301, hw=urūla, user=srhodes
@@ -2802,7 +2802,7 @@ Case 160: 12/08/2025 dict=AP, L=10100, hw=upahāsaḥ, user=srhodes
 old = laughing-stock
 new = laughingstock
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 159: 12/08/2025 dict=AP, L=10097, hw=upaghātakaḥ, user=srhodes
@@ -3010,7 +3010,7 @@ Case 127: 12/07/2025 dict=AP, L=10026, hw=upasūryakam, user=srhodes
 old = fire-fly
 new = firefly
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 126: 12/07/2025 dict=AP, L=10021, hw=upasāntv, user=srhodes
@@ -3131,7 +3131,7 @@ Case 108: 12/05/2025 dict=AP, L=9966, hw=upaśleṣaḥ, user=srhodes
 old = Juxta-position
 new = Juxtaposition
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 107: 12/05/2025 dict=AP, L=9963, hw=upaśrotṛ, user=srhodes
@@ -3170,7 +3170,7 @@ Case 102: 12/05/2025 dict=AP, L=9952, hw=upaśāyin, user=srhodes
 old = tranquilling
 new = tranquilizing
 comment = "Typo – Please note that this is a suggested ""print change"", based upon current usage as indicated by Merriam-Webster. I maintain that current usage in English should be the standard, because language is only going to continue to change; I am sure that you will agree that the English language is currently ""Far Beyond Shakespeare"", and so language continues to evolve."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 101: 12/05/2025 dict=AP, L=9941, hw=upaśākhā, user=srhodes
@@ -3350,7 +3350,7 @@ Case 74: 12/03/2025 dict=AP, L=9851, hw=upalabhya, user=srhodes
 old = praise-worthy
 new = praiseworthy
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 73: 12/03/2025 dict=AP, L=9848, hw=upalambhaḥ, user=srhodes
@@ -3556,21 +3556,21 @@ Case 41: 11/30/2025 dict=AP, L=9814, hw=uparathyā, user=srhodes
 old = bye-road
 new = byroad
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 40: 11/30/2025 dict=AP, L=9813, hw=uparakṣaṇam, user=srhodes
 old = out-post
 new = outpost
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 39: 11/30/2025 dict=AP, L=9812, hw=uparakṣaḥ, user=srhodes
 old = body-guard
 new = bodyguard
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 38: 11/30/2025 dict=AP, L=9786, hw=upayamanam, user=srhodes
@@ -3782,7 +3782,7 @@ Case 6: 11/27/2025 dict=AP, L=9692, hw=upapattiḥ, user=srhodes
 old = sound is eternal because it is produced
 new = sound is uneternal because it is produced
 comment = "Typo – Please note that this is a ""print change"", following MW dictionary AND also following the reasoning being intended to be conveyed."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 5: 11/27/2025 dict=AP, L=9692, hw=upapattiḥ, user=srhodes
@@ -3814,6 +3814,6 @@ Case 1: 11/27/2025 dict=AP, L=9686, hw=upapakṣaḥ, user=srhodes
 old = arm-pit
 new = armpit
 comment = "Typo – Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
