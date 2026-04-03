@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of April 03, 2026
-589 correction records, with 459 PENDING
+589 correction records, with 407 PENDING
 
 Case 589: 02/03/2026 dict=AP, L=10821, hw=aiśvaryam, user=srhodes
 old = Super-human
@@ -3375,33 +3375,33 @@ Case 70: 12/03/2025 dict=AP, L=9848, hw=upalambhaḥ, user=srhodes
 old = memory) same as anubhaba q. v.);
 new = memory (same as anubhava q. v.);
 comment = "Typo – Please note that in regard to the DOUBLE ""Closing Parantheses"" this is a suggested ""print change"". The other correction ""anubhaba"" is simply a Typo."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 69: 12/03/2025 dict=AP, L=9848, hw=upalambhaḥ, user=srhodes
 old = memory) same as anubhaba q. v.);
 new = memory (same as anubhava q. v.);
 comment = "Typo – Please note that in regard to the DOUBLE ""Closing Parantheses"" this is a suggested ""print change"". The other correction ""anubhaba"" is simply a Typo."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 68: 12/03/2025 dict=AP, L=9848, hw=upalambhaḥ, user=srhodes
 old = memory) same as anubhaba q. v.);
 new = memory (same as anubhava q. v.);
 comment = "Typo – Please note that in regard to the DOUBLE ""Closing Parantheses"" this is a suggested ""print change"". The other correction ""anubhaba"" is simply a Typo."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 67: 12/03/2025 dict=AP, L=9846, hw=upalabdhiḥ, user=srhodes
 old = kiyatām
 new = kriyatām
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 66: 12/03/2025 dict=AP, L=9844, hw=upalabh, user=srhodes
 old = pratikiyā
 new = pratikriyā
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 65: 12/02/2025 dict=LRV, L=6871, hw=upavidyā, user=srhodes
@@ -3413,67 +3413,67 @@ status = PENDING
 Case 64: 12/02/2025 dict=AP, L=9840, hw=upalakṣaṇam, user=srhodes
 old = belopalakṣaṇārtham
 new = velopalakṣaṇārtham
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 63: 12/02/2025 dict=AP, L=9838, hw=upalakṣ, user=srhodes
 old = ādimadhyābasāneṣu bhabacchabdopalakṣitā
 new = ādimadhyāvasāneṣu bhavacchabdopalakṣitā
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 62: 12/02/2025 dict=AP, L=9838, hw=upalakṣ, user=srhodes
 old = ādimadhyābasāneṣu bhabacchabdopalakṣitā
 new = ādimadhyāvasāneṣu bhavacchabdopalakṣitā
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 61: 12/02/2025 dict=AP, L=9838, hw=upalakṣ, user=srhodes
 old = āsannabartijana
 new = āsannavartijana
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 60: 12/02/2025 dict=AP, L=9836, hw=upalaḥ, user=srhodes
 old = babhūbuḥ
 new = babhūvuḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 59: 12/02/2025 dict=AP, L=9835, hw=uparūpakam, user=srhodes
 old = preḍkhaṇaṃ
 new = preṅkhaṇaṃ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 58: 12/02/2025 dict=AP, L=9834, hw=uparodhin, user=srhodes
 old = so'bhuḍktasukhoparodhi
 new = so'bhuṅktasukhoparodhi
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 57: 12/02/2025 dict=AP, L=9831, hw=uparodhaḥ, user=srhodes
 old = bigṛhyoparodhahetavaḥ
 new = vigṛhyoparodhahetavaḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 56: 12/02/2025 dict=AP, L=9831, hw=uparodhaḥ, user=srhodes
 old = khalbeṣa
 new = khalveṣa
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 55: 12/02/2025 dict=AP, L=9829, hw=uparudh, user=srhodes
 old = paurāstapobanamuparundhanti
 new = paurāstapovanamuparundhanti
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 54: 12/02/2025 dict=AP, L=9827, hw=upariṣṭāt, user=srhodes
 old = kalyāṇābataṃsā hi kalyāṇasaṃpadupariṣṭād bhabati
 new = kalyāṇāvataṃsā hi kalyāṇasaṃpadupariṣṭād bhavati
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 53: 12/02/2025 dict=SHS, L=7481, hw=upalambhya, user=srhodes
@@ -3492,64 +3492,64 @@ status = No change required
 Case 51: 12/01/2025 dict=AP, L=9826, hw=upari, user=srhodes
 old = debamuparimartyaṃ
 new = devamuparimartyaṃ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 50: 12/01/2025 dict=AP, L=9826, hw=upari, user=srhodes
 old = naiba bhabitā
 new = naiva bhavitā
 comment = "Typo – You may consider to make this two separate Global Corrections using the target searches: 1. "" naiba ""  ——becomes—–  "" naiva "" •  2. "" bhabitā ""  ——becomes—–  "" bhavitā "" • the initial and following space in the [{find/replace} function] will isolate the issue to prevent ""ativyāpti""."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 49: 12/01/2025 dict=AP, L=9826, hw=upari, user=srhodes
 old = naiba bhabitā
 new = naiva bhavitā
 comment = "Typo – You may consider to make this two separate Global Corrections using the target searches: 1. "" naiba ""  ——becomes—–  "" naiva "" •  2. "" bhabitā ""  ——becomes—–  "" bhavitā "" • the initial and following space in the [{find/replace} function] will isolate the issue to prevent ""ativyāpti""."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 48: 12/01/2025 dict=AP, L=9826, hw=upari, user=srhodes
 old = naiba bhabitā
 new = naiva bhavitā
 comment = "Typo – You may consider to make this two separate Global Corrections using the target searches: 1. "" naiba ""  ——becomes—–  "" naiva "" •  2. "" bhabitā ""  ——becomes—–  "" bhavitā "" • the initial and following space in the [{find/replace} function] will isolate the issue to prevent ""ativyāpti""."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 47: 12/01/2025 dict=AP, L=9826, hw=upari, user=srhodes
 old = śatānthupari
 new = śatānyupari
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 46: 12/01/2025 dict=AP, L=9826, hw=upari, user=srhodes
 old = kuddhaḥ
 new = kruddhaḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 45: 12/01/2025 dict=AP, L=9826, hw=upari, user=srhodes
 old = avāḍmukhasyopari
 new = avāṅmukhasyopari
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 44: 12/01/2025 dict=AP, L=9822, hw=uparavaḥ, user=srhodes
 old = uparabaḥ
 new = uparavaḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 43: 12/01/2025 dict=AP, L=9822, hw=uparavaḥ, user=srhodes
 old = somābhiṣabāṅgo
 new = somābhiṣavāṅgo
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 42: 11/30/2025 dict=AP, L=9819, hw=uparamaḥ, user=srhodes
 old = bhabaprabāhoparamaṃ
 new = bhavapravāhoparamaṃ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 41: 11/30/2025 dict=AP, L=9814, hw=uparathyā, user=srhodes
@@ -3577,7 +3577,7 @@ Case 38: 11/30/2025 dict=AP, L=9786, hw=upayamanam, user=srhodes
 old = fire-wood
 new = firewood
 comment = "Please note that this word is better written as a single word, without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 37: 11/30/2025 dict=SHS, L=7453, hw=uparakṣaṇa, user=srhodes
@@ -3631,87 +3631,87 @@ status = Corrected 03 Feb 2026
 Case 30: 11/29/2025 dict=AP, L=9774, hw=upamardaḥ, user=srhodes
 old = bhṛḍgaṃ
 new = bhṛṅgaṃ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 29: 11/29/2025 dict=AP, L=9773, hw=upamṛd, user=srhodes
 old = kiyante
 new = kriyante
 comment = "Typo – You may consider to make this a Global Correction using the target search: ""  kiyante ""  ——becomes—–  ""  kriyante  "" • the initial and following space in the [{find/replace} function] will isolate the issue to prevent ""ativyāpti""."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 28: 11/29/2025 dict=AP, L=9764, hw=upamitiḥ, user=srhodes
 old = pallabopamitisāmyasapakṣam
 new = pallavopamitisāmyasapakṣam
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 27: 11/28/2025 dict=AP, L=4229, hw=amṛta, user=srhodes
 old = (built by Amṛtaprabha)
 new = (built by Amṛtaprabhā) 
 comment = "Typo – Please note that this ""print change"" has been confirmed by Andhrabharati."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26: 11/28/2025 dict=AP, L=9760, hw=upamā, user=srhodes
 old = sarbopamādravyasamuccayena
 new = sarvopamādravyasamuccayena
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25: 11/28/2025 dict=AP, L=9760, hw=upamā, user=srhodes
 old = bidharmaḥ
 new = vidharmaḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 24: 11/28/2025 dict=AP, L=9760, hw=upamā, user=srhodes
 old = bidharmaḥ
 new = vidharmaḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 23: 11/28/2025 dict=AP, L=9760, hw=upamā, user=srhodes
 old = bidharmaḥ
 new = vidharmaḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 22: 11/28/2025 dict=AP, L=9760, hw=upamā, user=srhodes
 old = sbeṣu
 new = sveṣu
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 21: 11/28/2025 dict=AP, L=9760, hw=upamā, user=srhodes
 old = nibātastho neḍgate
 new = nivātastho neṅgate
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 20: 11/28/2025 dict=AP, L=9760, hw=upamā, user=srhodes
 old = sāddaśyaṃ
 new = sādṛśyaṃ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 19: 11/28/2025 dict=AP, L=9759, hw=upamā, user=srhodes
 old = kanakakalaśābityupamitau
 new = kanakakalaśāvityupamitau
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 18: 11/28/2025 dict=AP, L=9755, hw=upamantrin, user=srhodes
 old = upamantrinbhavyatāmanyabārtā
 new = upamantrinbhavyatāmanyavārtā
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 17: 11/28/2025 dict=AP, L=9747, hw=upabhṛ, user=srhodes
 old = dhbanitasūcitamambumucāṃ
 new = dhvanitasūcitamambumucāṃ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 16: 11/28/2025 dict=MW, L=152494, hw=bhṛ, user=srhodes
@@ -3724,19 +3724,19 @@ status = Corrected 03 Feb 2026
 Case 15: 11/28/2025 dict=AP, L=9744, hw=upabhogya, user=srhodes
 old = nāgabadhūpabhogyam
 new = nāgavadhūpabhogyam
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 14: 11/28/2025 dict=AP, L=9739, hw=upabhuj, user=srhodes
 old = manasaivāyamupabhuḍkte
 new = manasaivāyamupabhuṅkte
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 13: 11/28/2025 dict=AP, L=9739, hw=upabhuj, user=srhodes
 old = strīratnamupabhuḍkṣva
 new = strīratnamupabhuṅkṣva
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 12: 11/28/2025 dict=AP, L=9739, hw=upabhuj, user=srhodes
@@ -3748,7 +3748,7 @@ status = PENDING
 Case 11: 11/28/2025 dict=AP, L=9736, hw=upabdaḥ, user=srhodes
 old = punarbo
 new = punarvo
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 10: 11/28/2025 dict=SHS, L=7433, hw=upamātṛ, user=srhodes
@@ -3762,20 +3762,20 @@ Case 9: 11/27/2025 dict=AP, L=9725, hw=upaplavaḥ, user=srhodes
 old = unluky
 new = unlucky
 comment = "Typo – Please note that this is a ""print change""."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 8: 11/27/2025 dict=AP, L=9725, hw=upaplavaḥ, user=srhodes
 old = jībanpunaḥ
 new = jīvanpunaḥ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 7: 11/27/2025 dict=AP, L=9693, hw=upapanna, user=srhodes
 old = śibaṃ śibāḥ
 new = śivaṃ śivāḥ
 comment = "Typo – You may consider to make this a Global Correction using the following two target searches: 1.  ""  śibaṃ ""  ——becomes—–  ""  śivaṃ  ""  AND 2.  ""  śibāḥ ""  ——becomes—–  ""  śivāḥ  "" • the initial and following space in the [{find/replace} function] will isolate the issue to prevent ""ativyāpti""."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 6: 11/27/2025 dict=AP, L=9692, hw=upapattiḥ, user=srhodes
@@ -3789,25 +3789,25 @@ Case 5: 11/27/2025 dict=AP, L=9692, hw=upapattiḥ, user=srhodes
 old = bacanaṃ
 new = vacanaṃ
 comment = "Typo – You may consider to make this a Global Correction using the target search: ""  bacanaṃ ""  ——becomes—–  ""  vacanaṃ  "" • the initial and following space in the [{find/replace} function] will isolate the issue to prevent ""ativyāpti""."
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 4: 11/27/2025 dict=AP, L=9691, hw=upapad, user=srhodes
 old = bināśadharmiṇamupapādayasi
 new = vināśadharmiṇamupapādayasi
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 3: 11/27/2025 dict=AP, L=9691, hw=upapad, user=srhodes
 old = sarbasvaṃ
 new = sarvasvaṃ
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 2: 11/27/2025 dict=AP, L=9688, hw=upapatiḥ, user=srhodes
 old = upapatiriba
 new = upapatiriva
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 1: 11/27/2025 dict=AP, L=9686, hw=upapakṣaḥ, user=srhodes
