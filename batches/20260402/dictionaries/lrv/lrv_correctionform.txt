@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 03, 2026
-38 correction records, with 14 PENDING
+38 correction records, with 12 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -98,13 +98,13 @@ Case 313: 03/14/2026 dict=LRV, L=7986, hw=katamāla, user=srhodes
 old = Cf. katamāla
 new = Cf. khatamāla
 comment = Typo – Updated with Correct ID NUMBER !
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 312: 03/14/2026 dict=LRV, L=7978, hw=katamāla, user=srhodes
 old = Cf. katamāla
 new = Cf. khatamāla
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 311: 03/14/2026 dict=LRV, L=7978, hw=kaṃḍolī, user=srhodes

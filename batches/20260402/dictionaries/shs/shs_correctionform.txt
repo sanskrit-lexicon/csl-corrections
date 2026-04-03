@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 03, 2026
-63 correction records, with 13 PENDING
+63 correction records, with 10 PENDING
 
 Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
@@ -201,21 +201,21 @@ status = No change required
 Case 345: 03/16/2026 dict=SHS, L=8758, hw=kaṇḍūyanaka, user=srhodes
 old = ticklace
 new = tickles
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 344: 03/16/2026 dict=SHS, L=8744, hw=kaṇṭhīrava, user=srhodes
 old = lion elephant
 new = "lion, elephant"
 comment = "Typo – Please note that this is a suggested ""Print Change"". The reason being that some sort of ""puncutation"" is required to ""separate"" the TWO meanings."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 332: 03/15/2026 dict=SHS, L=8715, hw=kaṇṭakīja, user=srhodes
 old = kaṇṭakīja
 new = kaṇṭakija
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 289: 03/12/2026 dict=SHS, L=8703, hw=kaṇṭaka, user=srhodes

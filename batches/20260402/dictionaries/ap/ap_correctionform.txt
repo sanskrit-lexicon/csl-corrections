@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 03, 2026
-233 correction records, with 40 PENDING
+233 correction records, with 34 PENDING
 
 Case 572: 04/02/2026 dict=AP, L=11728, hw=kalāpaḥ, user=srhodes
 old = kuvalayanaṃyanānā
@@ -571,7 +571,7 @@ status = No change required
 Case 347: 03/16/2026 dict=AP, L=11537, hw=kara, user=srhodes
 old = karākāntamahībhṛduccakairasaṃśayaṃ
 new = karākrāntamahībhṛduccakairasaṃśayaṃ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 346: 03/16/2026 dict=AP, L=11530, hw=kambukaḥ, user=srhodes
@@ -585,7 +585,7 @@ Case 343: 03/15/2026 dict=AP, L=11529, hw=kambu, user=srhodes
 old = -mba f.
 new = -mbū f.
 comment = Typo – Please note that this is a suggested correction awaiting approval by higher authority.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 338: 03/15/2026 dict=AP, L=31537, hw=śakaṭaḥ, user=srhodes
@@ -655,28 +655,28 @@ Case 310: 03/13/2026 dict=AP, L=11489, hw=kaphaṇiḥ, user=srhodes
 old = Missing Headword
 new = "Please add the ""Buried"" Headword: ""kaphoṇiḥ (-ṇī f.)"" to the Hierarchical Listing of Headwords, so as to be a ""Searchable Headword"" in its own right. Of course, include all necessary definitions and references as well, to the Window Display of the Newly Listed Headword: ""kaphoṇiḥ (-ṇī f.)""."
 comment = Missing Headword
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 309: 03/13/2026 dict=AP, L=11489, hw=kaphaṇiḥ, user=srhodes
 old = Missing Headword
 new = "Please add the ""Buried"" Headword: ""kaphoṇiḥ (-ṇī f.)"" to the Hierarchical Listing of Headwords, so as to be a ""Searchable Headword"" in its own right. Of course, include all necessary definitions and references as well, to the Window Display of the Newly Listed Headword: ""kaphoṇiḥ (-ṇī f.)""."
 comment = Missing Headword
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 308: 03/13/2026 dict=AP, L=11489, hw=kaphaṇiḥ, user=srhodes
 old = Missing Headword
 new = "Please add the ""Buried"" Headword: ""kaphoṇiḥ (-ṇī f.)"" to the Hierarchical Listing of Headwords, so as to be a ""Searchable Headword"" in its own right. Of course, include all necessary definitions and references as well, to the Window Display of the Newly Listed Headword: ""kaphoṇiḥ (-ṇī f.)""."
 comment = Missing Headword
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 307: 03/13/2026 dict=AP, L=11486, hw=kaphaḥ, user=srhodes
 old = -kṛrcikā
 new = -kūrcikā
 comment = "Typo – Please note that this correction appears to be a ""Print Change""."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 302: 03/12/2026 dict=AP, L=26950, hw=yaṣṭiḥ, user=srhodes
