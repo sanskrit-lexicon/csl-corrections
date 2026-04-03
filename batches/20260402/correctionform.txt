@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of April 03, 2026
-575 correction records, with 216 PENDING
+575 correction records, with 196 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -3781,20 +3781,20 @@ Case 26: 02/10/2026 dict=AP, L=10966, hw=aunnetram, user=srhodes
 old = -aunmukhyam Expectancy; Rāj. T.
 new = "Please note that THIS MUST BE LISTED AS A SEPARATE HEADWORD, in its own right:  ""aunmukhyam Expectancy; Rāj. T."" AND this should follow immediately after the Headword ""aunnetram""."
 comment = Headword Missing and Placed Incorrectly under another Headword! Please see AB comment here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3879063384
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 25: 02/10/2026 dict=AP, L=10949, hw=audumbara, user=srhodes
 old = 3 Made of copper.
 new = DELETE THIS ENTRY (which is an unnecessary redundancy)
 comment = Typo – Please note that AB has confirmed this error here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3876803558
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 24: 02/10/2026 dict=SHS, L=8301, hw=aindri, user=srhodes
 old = patronymick
 new = patronymic 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 23: 02/09/2026 dict=AP, L=10943, hw=audaśvita, user=srhodes
@@ -3815,13 +3815,13 @@ Case 21: 02/09/2026 dict=AP, L=10925, hw=autpattika, user=srhodes
 old = In born
 new = Inborn
 comment = Typo – Please make this a Global Correction as well.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 20: 02/09/2026 dict=LRV, L=7541, hw=aidaṃparya, user=srhodes
 old = baying
 new = having
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 19: 02/09/2026 dict=LRV, L=7526.1, hw=aikṣubhārika, user=srhodes
@@ -3841,20 +3841,20 @@ status = No change required
 Case 17: 02/08/2026 dict=PW, L=13773, hw=ācarita, user=srhodes
 old = °tā n.
 new = °tva n.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 16: 02/08/2026 dict=AP, L=10894, hw=aukṣakam, user=srhodes
 old = cake 
 new = cakre 
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 15: 02/07/2026 dict=MW, L=244367.1, hw=siddhatvatā, user=srhodes
 old = siddha—tva—tā f.
 new = siddha—tā f.
 comment = "Typo – Please note that this is a Headword Typo!  This correction involves a few considerations: 1) the printed text reads: “(or -tā, f.)”.  Therefore, the Headword MUST BE CHANGED to ""siddhatā""; 2) Furthermore, you may consider this to be some sort of grouping with the primary listing ""siddhatva"" ?  3) The Indentation of this word ""siddhatā"" may need to be changed in the Hierarchy List so as to match equal status with the Headword ""siddhatva"". It is generally accepted that neuter words ending in ""-tva"" and feminine words ending in ""-tā"" have EQUAL status in the category of derivation."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 14: 02/07/2026 dict=AP, L=10880, hw=oṣaṇaḥ, user=srhodes
@@ -3867,27 +3867,27 @@ status = No change required
 Case 13: 02/07/2026 dict=LRV, L=7498, hw=suih, user=srhodes
 old = suih
 new = such
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 12: 02/06/2026 dict=LRV, L=7470, hw=etad, user=srhodes
 old = “samīpavarti caitado rūpam
 new = “samīpavarti caitad rūpam
 comment = "Typo – This is a suggested ""print change"", pending approval by authorities."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 11: 02/05/2026 dict=AP, L=10854, hw=oḍikāḥ, user=srhodes
 old = oḍikāḥ
 new = oḍikā f.
 comment = "Typo – Please note that this is a ""Print Change"", as well as a Headword Correction, confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3855908069"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 10: 02/05/2026 dict=AP, L=10859, hw=otuḥ, user=srhodes
 old = (lai)
 new = (lau)
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 9: 02/05/2026 dict=AP, L=10858, hw=ota, user=srhodes
@@ -3900,51 +3900,51 @@ status = No change required
 Case 8: 02/05/2026 dict=MW, L=40652, hw=ojman, user=srhodes
 old = speed velocity
 new = "speed, velocity"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 7: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = śukāntānāṃ
 new = śukrāntānāṃ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 6: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = śukeṇa
 new = śukreṇa
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 5: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = ojas and śukam
 new = ojas and śukram
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 4: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = disstinguish
 new = distinguish
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 3: 02/05/2026 dict=MW, L=40624, hw=oja, user=srhodes
 old = "= ojas, L."
 new = "n. = ojas, L."
 comment = "Typo – Please note that this is a suggested ""print change"", in order to state the correct gender (i.e. neuter), as given by APTE and VCP."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 2: 02/05/2026 dict=SHS, L=8232, hw=ettha, user=srhodes
 old = ettha
 new = etya
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 1: 02/04/2026 dict=MW, L=197470, hw=viprapriya, user=srhodes
 old = Br° 
 new = Br°s 
 comment = Typo – Please note that this correction follows the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 

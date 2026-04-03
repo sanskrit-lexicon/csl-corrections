@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 03, 2026
-235 correction records, with 45 PENDING
+235 correction records, with 41 PENDING
 
 Case 573: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
 old = -kāmoyet
@@ -1615,26 +1615,26 @@ Case 15: 02/07/2026 dict=MW, L=244367.1, hw=siddhatvatā, user=srhodes
 old = siddha—tva—tā f.
 new = siddha—tā f.
 comment = "Typo – Please note that this is a Headword Typo!  This correction involves a few considerations: 1) the printed text reads: “(or -tā, f.)”.  Therefore, the Headword MUST BE CHANGED to ""siddhatā""; 2) Furthermore, you may consider this to be some sort of grouping with the primary listing ""siddhatva"" ?  3) The Indentation of this word ""siddhatā"" may need to be changed in the Hierarchy List so as to match equal status with the Headword ""siddhatva"". It is generally accepted that neuter words ending in ""-tva"" and feminine words ending in ""-tā"" have EQUAL status in the category of derivation."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 8: 02/05/2026 dict=MW, L=40652, hw=ojman, user=srhodes
 old = speed velocity
 new = "speed, velocity"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 3: 02/05/2026 dict=MW, L=40624, hw=oja, user=srhodes
 old = "= ojas, L."
 new = "n. = ojas, L."
 comment = "Typo – Please note that this is a suggested ""print change"", in order to state the correct gender (i.e. neuter), as given by APTE and VCP."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 1: 02/04/2026 dict=MW, L=197470, hw=viprapriya, user=srhodes
 old = Br° 
 new = Br°s 
 comment = Typo – Please note that this correction follows the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 

@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 03, 2026
-63 correction records, with 36 PENDING
+63 correction records, with 34 PENDING
 
 Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
@@ -418,13 +418,13 @@ status = PENDING
 Case 24: 02/10/2026 dict=SHS, L=8301, hw=aindri, user=srhodes
 old = patronymick
 new = patronymic 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 2: 02/05/2026 dict=SHS, L=8232, hw=ettha, user=srhodes
 old = ettha
 new = etya
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 

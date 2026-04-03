@@ -498,3 +498,11 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/107
 L code : Headword : Old  : New : Comment
 :  : billion : trillion : Comment by @drdhaval2785 - I do not full fledgedly agree to such changes, but similar change has already been made in case of antya. Therefore, made changes to other places for uniformity.
 -----------------------------------------------------------------------
+02-15-2026
+Ref: Scott batch 20260402
+L code : Headword : Old  : New : Comment
+10847 : ojas : disstinguish : distinguish : 
+10854 : oqikAH : oqikAH : oqikA :  https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3855908069
+10949 : Odumbara : ∙²3 Made of copper. : deleted entry 3 : This is duplication as mentioned in https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3876803558
+10966 : Onnetram : OnmuKyam : OnmuKyam listed as a separate headword 10966.1 : See https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3879063384
+-----------------------------------------------------------------------

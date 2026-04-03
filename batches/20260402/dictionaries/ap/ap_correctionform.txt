@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 03, 2026
-233 correction records, with 103 PENDING
+233 correction records, with 93 PENDING
 
 Case 572: 04/02/2026 dict=AP, L=11728, hw=kalāpaḥ, user=srhodes
 old = kuvalayanaṃyanānā
@@ -1507,14 +1507,14 @@ Case 26: 02/10/2026 dict=AP, L=10966, hw=aunnetram, user=srhodes
 old = -aunmukhyam Expectancy; Rāj. T.
 new = "Please note that THIS MUST BE LISTED AS A SEPARATE HEADWORD, in its own right:  ""aunmukhyam Expectancy; Rāj. T."" AND this should follow immediately after the Headword ""aunnetram""."
 comment = Headword Missing and Placed Incorrectly under another Headword! Please see AB comment here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3879063384
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 25: 02/10/2026 dict=AP, L=10949, hw=audumbara, user=srhodes
 old = 3 Made of copper.
 new = DELETE THIS ENTRY (which is an unnecessary redundancy)
 comment = Typo – Please note that AB has confirmed this error here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3876803558
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 23: 02/09/2026 dict=AP, L=10943, hw=audaśvita, user=srhodes
@@ -1535,13 +1535,13 @@ Case 21: 02/09/2026 dict=AP, L=10925, hw=autpattika, user=srhodes
 old = In born
 new = Inborn
 comment = Typo – Please make this a Global Correction as well.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 16: 02/08/2026 dict=AP, L=10894, hw=aukṣakam, user=srhodes
 old = cake 
 new = cakre 
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 14: 02/07/2026 dict=AP, L=10880, hw=oṣaṇaḥ, user=srhodes
@@ -1555,13 +1555,13 @@ Case 11: 02/05/2026 dict=AP, L=10854, hw=oḍikāḥ, user=srhodes
 old = oḍikāḥ
 new = oḍikā f.
 comment = "Typo – Please note that this is a ""Print Change"", as well as a Headword Correction, confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3855908069"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 10: 02/05/2026 dict=AP, L=10859, hw=otuḥ, user=srhodes
 old = (lai)
 new = (lau)
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 9: 02/05/2026 dict=AP, L=10858, hw=ota, user=srhodes
@@ -1574,24 +1574,24 @@ status = No change required
 Case 7: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = śukāntānāṃ
 new = śukrāntānāṃ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 6: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = śukeṇa
 new = śukreṇa
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 5: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = ojas and śukam
 new = ojas and śukram
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 4: 02/05/2026 dict=AP, L=10845, hw=ojas, user=srhodes
 old = disstinguish
 new = distinguish
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 

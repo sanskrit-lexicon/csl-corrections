@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for PW
 As of April 03, 2026
-4 correction records, with 4 PENDING
+4 correction records, with 3 PENDING
 
 Case 197: 03/03/2026 dict=PW, L=116114, hw=ṣaṭcakra, user=srhodes
 old = ajñākhya
@@ -25,6 +25,6 @@ status = PENDING
 Case 17: 02/08/2026 dict=PW, L=13773, hw=ācarita, user=srhodes
 old = °tā n.
 new = °tva n.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
