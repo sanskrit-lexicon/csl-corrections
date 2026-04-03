@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 03, 2026
-38 correction records, with 23 PENDING
+38 correction records, with 18 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -177,7 +177,7 @@ Case 83: 02/19/2026 dict=LRV, L=7660, hw=auddhārika, user=srhodes
 old = fron
 new = from
 comment = "Typo – Please note that this could be considered as a ""Global"" correction, in case it occurs multiple times. OF COURSE a blank space must be used to ""isolate"" the single word: ""_fron_"", so as to avoid tampering with such words as ""front, frontal etc.""."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 50: 02/17/2026 dict=LRV, L=7637, hw=autpattika, user=srhodes
@@ -190,21 +190,21 @@ status = No change required
 Case 49: 02/17/2026 dict=LRV, L=7619, hw=aucitī, user=srhodes
 old = inode
 new = mode
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 40: 02/13/2026 dict=LRV, L=7594, hw=odana, user=srhodes
 old = washed
 new = mashed
 comment = "Typo – Please note that this is a suggested ""print change"", following APTE, MW and the comment by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3894827551"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 39: 02/13/2026 dict=LRV, L=7592, hw=otaprota, user=srhodes
 old = crosswise and length-wise
 new = crosswise and lengthwise
 comment = "Typo – Of course since it is printed ""crosswise"", it must also be ""lengthwise"". Please make this a Global correction of ""length-wise"" TO BECOME ""lengthwise"" !"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 28: 02/11/2026 dict=LRV, L=7566, hw=aiśānī, user=srhodes
@@ -217,7 +217,7 @@ status = No change required
 Case 27: 02/11/2026 dict=LRV, L=7567, hw=aiśvara, user=srhodes
 old = powerfuly
 new = powerful
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 20: 02/09/2026 dict=LRV, L=7541, hw=aidaṃparya, user=srhodes

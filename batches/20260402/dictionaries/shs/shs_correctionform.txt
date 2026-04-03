@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 03, 2026
-63 correction records, with 34 PENDING
+63 correction records, with 28 PENDING
 
 Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
@@ -374,25 +374,25 @@ Case 90: 02/20/2026 dict=SHS, L=7611, hw=upānaha, user=srhodes
 old = upānaha
 new = upānah
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 89: 02/20/2026 dict=SHS, L=8413, hw=aupānahya, user=srhodes
 old = E. upānaha
 new = E. upānah
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 66: 02/18/2026 dict=SHS, L=8377, hw=auttānapādi, user=srhodes
 old = MENU
 new = MANU
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 65: 02/18/2026 dict=SHS, L=8375, hw=auttami, user=srhodes
 old = MENU
 new = MANU
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 46: 02/16/2026 dict=SHS, L=8365, hw=aukthaka, user=srhodes
@@ -406,13 +406,13 @@ Case 43: 02/15/2026 dict=SHS, L=8355, hw=oṣadhopati, user=srhodes
 old = oṣadhopati
 new = oṣadhīpati
 comment = Typo - Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 34: 02/12/2026 dict=SHS, L=8315, hw=aiśvaryya, user=srhodes
 old = away
 new = sway
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 24: 02/10/2026 dict=SHS, L=8301, hw=aindri, user=srhodes

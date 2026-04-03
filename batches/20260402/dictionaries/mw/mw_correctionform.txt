@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 03, 2026
-235 correction records, with 41 PENDING
+235 correction records, with 35 PENDING
 
 Case 573: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
 old = -kāmoyet
@@ -1463,21 +1463,21 @@ Case 91: 02/20/2026 dict=MW, L=41739.1, hw=kacāra, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword into the Main Entries, should be placed just after the word ""kacāṭura m. [ID=41743]"" in the Hierarchical listing of words. This correction has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3931343062"
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 88: 02/19/2026 dict=MW, L=147094, hw=brahmasātkṛta, user=srhodes
 old = Brahmā
 new = Brahmă
 comment = "Typo – Please note that this is an important correction following the printed page. The reference here is to the Supreme Spirit brahman (neuter gender). NOT the Brahmā Creator God (masculine gender),"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 82: 02/18/2026 dict=MW, L=241804, hw=sādhvīka, user=srhodes
 old = 2. sādhvīka
 new = sādhvīka
 comment = "Typo – NUMBERING ERROR!  Please note that there is NO number ""2"" on the printed page. Furthermore, there is NO number ""1"" either !"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 81: 02/18/2026 dict=MW, L=230688, hw=sadayahṛdaya, user=srhodes
@@ -1553,7 +1553,7 @@ status = No change required
 Case 64: 02/17/2026 dict=MW, L=41549, hw=kakṣastha, user=srhodes
 old = heap
 new = hip
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 63: 02/17/2026 dict=MW, L=74347, hw=ciru, user=srhodes
@@ -1601,14 +1601,14 @@ status = No change required
 Case 38: 02/12/2026 dict=MW, L=36439, hw=upasvāvat, user=srhodes
 old = "N., of "
 new = N. of 
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 33: 02/12/2026 dict=MW, L=5489.2, hw=anātmatā, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""anātmajña [ID=5494 ]"" in the Hierarchical listing of words. The reason for this correction follows the standard of placing of words under the related ""pūrvapada"", which in this case is ""ātman"" !  Then, as MW treats feminine words ending in ""-tā"" exactly as proper compounds, then the alphabetical placement should be precisely as stated above."
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 15: 02/07/2026 dict=MW, L=244367.1, hw=siddhatvatā, user=srhodes

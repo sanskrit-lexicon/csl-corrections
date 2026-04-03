@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of April 03, 2026
-575 correction records, with 196 PENDING
+575 correction records, with 161 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -3286,28 +3286,28 @@ Case 99: 02/20/2026 dict=AP, L=11162, hw=kacchapikā, user=srhodes
 old = "3 The borderline of a water-course, where people get down to draw water (daṇḍaviveka,  G. O. S. 52, p. 297 )."
 new = "RELOCATE THIS ENTIRE DEFINITION TO THE CORRECT HEADWORD: ""kacchaṭikā [ID=11161]"". This correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3935114307"
 comment = Definition Misplacement
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 98: 02/20/2026 dict=AP, L=11162, hw=kacchapikā, user=srhodes
 old = "3 The borderline of a water-course, where people get down to draw water (daṇḍaviveka,  G. O. S. 52, p. 297 )."
 new = "RELOCATE THIS ENTIRE DEFINITION TO THE CORRECT HEADWORD: ""kacchaṭikā [ID=11161]"". This correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3935114307"
 comment = Definition Misplacement
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 97: 02/20/2026 dict=AP, L=11162, hw=kacchapikā, user=srhodes
 old = "3 The borderline of a water-course, where people get down to draw water (daṇḍaviveka,  G. O. S. 52, p. 297 )."
 new = "RELOCATE THIS ENTIRE DEFINITION TO THE CORRECT HEADWORD: ""kacchaṭikā [ID=11161]"". This correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3935114307"
 comment = Definition Misplacement
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 96: 02/20/2026 dict=AP, L=11162, hw=kacchapikā, user=srhodes
 old = "3 The borderline of a water-course, where people get down to draw water (daṇḍaviveka,  G. O. S. 52, p. 297 )."
 new = "RELOCATE THIS ENTIRE DEFINITION TO THE CORRECT HEADWORD: ""kacchaṭikā [ID=11161]"". This correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3935114307"
 comment = Definition Misplacement
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 95: 02/20/2026 dict=MW, L=223821, hw=śroṇibimba, user=srhodes
@@ -3328,54 +3328,54 @@ Case 93: 02/20/2026 dict=AP, L=11160, hw=kacchaḥ, user=srhodes
 old = paḥ (-pī f.)
 new = -paḥ (-pī f.)
 comment = "Typo – Please note that this is a ""print change"", according to the standard of listing each compound with an initial dash ""-""  LB AND at the beginning of a new line; therefore a ""carriage return"" is needed."
-status = PENDING
+status = Noted at https://github.com/sanskrit-lexicon/csl-corrections/issues/126
 ------------------------------------------------------------------------
 
 Case 92: 02/20/2026 dict=AP, L=11159, hw=kaccit, user=srhodes
 old = kacidetacchrutaṃ
 new = kaccidetacchrutaṃ
 comment = "Typo – Please note that this is a ""print change"", easy to verify."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 91: 02/20/2026 dict=MW, L=41739.1, hw=kacāra, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword into the Main Entries, should be placed just after the word ""kacāṭura m. [ID=41743]"" in the Hierarchical listing of words. This correction has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3931343062"
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 90: 02/20/2026 dict=SHS, L=7611, hw=upānaha, user=srhodes
 old = upānaha
 new = upānah
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 89: 02/20/2026 dict=SHS, L=8413, hw=aupānahya, user=srhodes
 old = E. upānaha
 new = E. upānah
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 88: 02/19/2026 dict=MW, L=147094, hw=brahmasātkṛta, user=srhodes
 old = Brahmā
 new = Brahmă
 comment = "Typo – Please note that this is an important correction following the printed page. The reference here is to the Supreme Spirit brahman (neuter gender). NOT the Brahmā Creator God (masculine gender),"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 87: 02/19/2026 dict=AP, L=11146, hw=kaṅgu, user=srhodes
 old = kaṅgu n.
 new = kaṅgu f.
 comment = "Typo – Please note that this is a ""print change"", confirmed by AB here: https://github.com/sanskrit-lexicon/AP/issues/7#issuecomment-3925252976"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 86: 02/19/2026 dict=AP, L=11135, hw=kaṅkālaḥ, user=srhodes
 old = -śoṣa
 new = -śeṣa
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 85: 02/19/2026 dict=AP, L=11132, hw=kaṅkara, user=srhodes
@@ -3396,14 +3396,14 @@ Case 83: 02/19/2026 dict=LRV, L=7660, hw=auddhārika, user=srhodes
 old = fron
 new = from
 comment = "Typo – Please note that this could be considered as a ""Global"" correction, in case it occurs multiple times. OF COURSE a blank space must be used to ""isolate"" the single word: ""_fron_"", so as to avoid tampering with such words as ""front, frontal etc.""."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 82: 02/18/2026 dict=MW, L=241804, hw=sādhvīka, user=srhodes
 old = 2. sādhvīka
 new = sādhvīka
 comment = "Typo – NUMBERING ERROR!  Please note that there is NO number ""2"" on the printed page. Furthermore, there is NO number ""1"" either !"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 81: 02/18/2026 dict=MW, L=230688, hw=sadayahṛdaya, user=srhodes
@@ -3514,19 +3514,19 @@ status = No change required
 Case 66: 02/18/2026 dict=SHS, L=8377, hw=auttānapādi, user=srhodes
 old = MENU
 new = MANU
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 65: 02/18/2026 dict=SHS, L=8375, hw=auttami, user=srhodes
 old = MENU
 new = MANU
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 64: 02/17/2026 dict=MW, L=41549, hw=kakṣastha, user=srhodes
 old = heap
 new = hip
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 63: 02/17/2026 dict=MW, L=74347, hw=ciru, user=srhodes
@@ -3630,14 +3630,14 @@ status = No change required
 Case 49: 02/17/2026 dict=LRV, L=7619, hw=aucitī, user=srhodes
 old = inode
 new = mode
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 48: 02/16/2026 dict=AP, L=11086, hw=kaṃsaḥ, user=srhodes
 old = Śrikṛṣṇa
 new = Śrīkṛṣṇa
 comment = "Typo – Please note that this is a suggested ""print change""."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 47: 02/16/2026 dict=AP, L=11086, hw=kaṃsaḥ, user=srhodes
@@ -3658,59 +3658,59 @@ Case 45: 02/15/2026 dict=AP, L=11079, hw=ka, user=srhodes
 old = These are called
 new = These are called ardhavisarga.
 comment = "Typo – Please note that this is a VERY important correction, because the Word printed in Sanskrit  ""अर्धविसर्ग""  has been omitted by mistake."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 44: 02/15/2026 dict=AP, L=11078, hw=auṣṇyam, user=srhodes
 old = kṛttnasya
 new = kṛtsnasya
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 43: 02/15/2026 dict=SHS, L=8355, hw=oṣadhopati, user=srhodes
 old = oṣadhopati
 new = oṣadhīpati
 comment = Typo - Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 42: 02/14/2026 dict=AP, L=11047, hw=aurdhvadehika, user=srhodes
 old = yatkarotyaurdhvadohikam
 new = yatkarotyaurdhvadehikam
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 41: 02/13/2026 dict=AP, L=11022, hw=aupasthyam, user=srhodes
 old = aupasthyajaihvayaṃ
 new = aupasthyajaihvyaṃ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 40: 02/13/2026 dict=LRV, L=7594, hw=odana, user=srhodes
 old = washed
 new = mashed
 comment = "Typo – Please note that this is a suggested ""print change"", following APTE, MW and the comment by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3894827551"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 39: 02/13/2026 dict=LRV, L=7592, hw=otaprota, user=srhodes
 old = crosswise and length-wise
 new = crosswise and lengthwise
 comment = "Typo – Of course since it is printed ""crosswise"", it must also be ""lengthwise"". Please make this a Global correction of ""length-wise"" TO BECOME ""lengthwise"" !"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 38: 02/12/2026 dict=MW, L=36439, hw=upasvāvat, user=srhodes
 old = "N., of "
 new = N. of 
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 37: 02/12/2026 dict=AP, L=10990, hw=aupapattika, user=srhodes
 old = Ready at hand within reach
 new = "Ready at hand, within reach"
 comment = "Typo – Two senses expressed must be separated by ""comma"" etc."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 36: 02/12/2026 dict=AP, L=10989, hw=aupapakṣya, user=srhodes
@@ -3723,26 +3723,26 @@ status = No change required
 Case 35: 02/12/2026 dict=AP, L=10988, hw=aupanīvika, user=srhodes
 old = males of females
 new = males or females
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 34: 02/12/2026 dict=SHS, L=8315, hw=aiśvaryya, user=srhodes
 old = away
 new = sway
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 33: 02/12/2026 dict=MW, L=5489.2, hw=anātmatā, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""anātmajña [ID=5494 ]"" in the Hierarchical listing of words. The reason for this correction follows the standard of placing of words under the related ""pūrvapada"", which in this case is ""ātman"" !  Then, as MW treats feminine words ending in ""-tā"" exactly as proper compounds, then the alphabetical placement should be precisely as stated above."
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 32: 02/11/2026 dict=AP, L=10984, hw=aupanidhika, user=srhodes
 old = [upanidhi ṭhak]
 new = [upanidhi-ṭhak]
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 31: 02/11/2026 dict=AP, L=10977, hw=aupadraṣṭryam, user=srhodes
@@ -3755,13 +3755,13 @@ status = No change required
 Case 30: 02/11/2026 dict=AP, L=10976, hw=aupadravika, user=srhodes
 old = [upadrava ṭhak]
 new = [upadrava-ṭhak]
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 29: 02/11/2026 dict=AP, L=10972, hw=aupacārika, user=srhodes
 old = Meta phorical
 new = Metaphorical
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 28: 02/11/2026 dict=LRV, L=7566, hw=aiśānī, user=srhodes
@@ -3774,7 +3774,7 @@ status = No change required
 Case 27: 02/11/2026 dict=LRV, L=7567, hw=aiśvara, user=srhodes
 old = powerfuly
 new = powerful
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26: 02/10/2026 dict=AP, L=10966, hw=aunnetram, user=srhodes
