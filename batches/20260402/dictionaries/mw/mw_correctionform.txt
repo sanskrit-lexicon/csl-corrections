@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 03, 2026
-235 correction records, with 24 PENDING
+235 correction records, with 18 PENDING
 
 Case 573: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
 old = -kāmoyet
@@ -851,14 +851,14 @@ Case 306: 03/13/2026 dict=MW, L=43700.2, hw=kaphakarakṣaya, user=srhodes
 old = kaphakarakṣaya
 new = kaphakṣaya
 comment = "Typo – Please note that this correction precisely follows the printed text. The online Headword as erroneously carried the portion ""kara"" within the compound."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 305: 03/13/2026 dict=MW, L=43700.1, hw=kaphakarakūrcikā, user=srhodes
 old = kaphakarakūrcikā
 new = kaphakūrcikā
 comment = "Typo – Please note that this correction precisely follows the printed text. The online Headword as erroneously carried the portion ""kara"" within the compound."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 304: 03/13/2026 dict=MW, L=62783, hw=gaṇḍabhitti, user=srhodes
@@ -1012,7 +1012,7 @@ Case 257: 03/10/2026 dict=MW, L=78844.1, hw=jānvantarā, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just after the word ""jānvakna [ID=78849]"" in the Hierarchical listing of words. This correction appears to be obvious, as it is required according to the standard Alphabetical Order of words."
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 250: 03/08/2026 dict=MW, L=263368, hw=hiraṇyinī, user=srhodes
@@ -1046,14 +1046,14 @@ status = No change required
 Case 239: 03/07/2026 dict=MW, L=41966, hw=kaṭākṣāveṣaṇa, user=srhodes
 old = kaṭākṣāveṣaṇa
 new = kaṭākṣāvekṣaṇa
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 236: 03/05/2026 dict=MW, L=64788, hw=gāndharva, user=srhodes
 old = "mf(gāndharvī-)n. belonging or relating to the Gandharvas (especially vivāha, or vidhi, "
 new = "mf(gāndharvī)n. belonging or relating to the Gandharvas (especially vivāha or vidhi, "
 comment = Typo – Please note TWO corrections made.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 234: 03/05/2026 dict=MW, L=92805, hw=dīpaśikhā, user=srhodes
@@ -1151,7 +1151,7 @@ Case 203: 03/03/2026 dict=MW, L=41493, hw=kakubhādinī, user=srhodes
 old = kakubhādinī
 new = kakubhādanī
 comment = "Typo – Please note that this Headword  ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3985092783"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 196: 03/03/2026 dict=MW, L=224973, hw=ṣaṭcakra, user=srhodes

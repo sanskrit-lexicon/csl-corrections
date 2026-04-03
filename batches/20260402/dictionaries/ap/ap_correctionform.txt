@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 03, 2026
-233 correction records, with 54 PENDING
+233 correction records, with 40 PENDING
 
 Case 572: 04/02/2026 dict=AP, L=11728, hw=kalāpaḥ, user=srhodes
 old = kuvalayanaṃyanānā
@@ -718,14 +718,14 @@ Case 293: 03/12/2026 dict=AP, L=11481, hw=kapotaḥ, user=srhodes
 old = pale of dirty
 new = pale or dirty
 comment = "Typo - Please note that this is a suggested ""Print Change"", based upon the correct understanding of the sense being conveyed."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 290: 03/12/2026 dict=AP, L=11477, hw=kapiṣṭhāla, user=srhodes
 old = kapiṣṭhāla
 new = kapiṣṭhala
 comment = Typo - Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 288: 03/11/2026 dict=AP, L=11473, hw=kapila, user=srhodes
@@ -739,7 +739,7 @@ Case 287: 03/11/2026 dict=AP, L=11473, hw=kapila, user=srhodes
 old = A form or fire.
 new = A form of fire.
 comment = "Typo – Please note that this is a suggested ""Print Change""."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 286: 03/11/2026 dict=AP, L=11472, hw=kapitthaḥ, user=srhodes
@@ -752,7 +752,7 @@ status = No change required
 Case 285: 03/11/2026 dict=AP, L=11472, hw=kapitthaḥ, user=srhodes
 old = (taka)
 new = (takra)
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 284: 03/11/2026 dict=AP, L=11471, hw=kapiñjalaḥ, user=srhodes
@@ -765,13 +765,13 @@ status = PENDING
 Case 283: 03/11/2026 dict=AP, L=11470, hw=kapiḥ, user=srhodes
 old = -lāhem
 new = -lohem
-status = PENDING
+status = Could not find
 ------------------------------------------------------------------------
 
 Case 282: 03/11/2026 dict=AP, L=11465, hw=kapāṭikā, user=srhodes
 old = marutpurakapāṭikoddhāṭanam
 new = marutpurakapāṭikodghāṭanam
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 281: 03/11/2026 dict=AP, L=13574, hw=khānilaḥ, user=srhodes
@@ -833,7 +833,7 @@ status = No change required
 Case 259: 03/11/2026 dict=AP, L=11464, hw=kapāṭaḥ, user=srhodes
 old = -uddhāṭanam
 new = -udghāṭanam
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 256: 03/10/2026 dict=AP, L=4637, hw=alakaḥ, user=srhodes
@@ -846,7 +846,7 @@ status = No change required
 Case 255: 03/10/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
 old = jaymurmandākinītaṭam
 new = jagmurmandākinītaṭam
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 251: 03/08/2026 dict=AP, L=36469, hw=hiraṇyinī, user=srhodes
@@ -894,7 +894,7 @@ status = No change required
 Case 240: 03/07/2026 dict=AP, L=11393, hw=kadā, user=srhodes
 old = kīḍetkadācittu
 new = krīḍetkadācittu
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 232: 03/05/2026 dict=AP, L=17339, hw=dīpaḥ, user=srhodes
@@ -935,13 +935,13 @@ status = No change required
 Case 221: 03/04/2026 dict=AP, L=11371, hw=kathā, user=srhodes
 old = ākumārakathoddhātaṃ
 new = ākumārakathoddgātaṃ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 220: 03/04/2026 dict=AP, L=11371, hw=kathā, user=srhodes
 old = -uddhātaḥ
 new = -udghātaḥ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 217: 03/04/2026 dict=AP, L=11374, hw=kathikaḥ, user=srhodes
@@ -976,7 +976,7 @@ Case 209: 03/03/2026 dict=AP, L=11341, hw=kaṇḍoṣaḥ, user=srhodes
 old = catterpillar
 new = caterpillar
 comment = Typo – Please note that this is the correction spelling according to Merriam-Webster.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 207: 03/03/2026 dict=AP, L=11340, hw=kaṇḍolakaḥ, user=srhodes
@@ -997,14 +997,14 @@ Case 202: 03/03/2026 dict=AP, L=11289, hw=kaṇāṭīnaḥ, user=srhodes
 old = -ṭārakaḥ
 new = -ṭīrakaḥ
 comment = "Typo – SORRY, UPDATED HEADWORD AND ID NUMBER!  LB Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984822067"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 201: 03/03/2026 dict=AP, L=11310, hw=kaṇṭhaḥ, user=srhodes
 old = -ṭārakaḥ
 new = -ṭīrakaḥ
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984822067"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 199: 03/03/2026 dict=AP, L=11310, hw=kaṇṭhaḥ, user=srhodes

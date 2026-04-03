@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 03, 2026
-63 correction records, with 19 PENDING
+63 correction records, with 13 PENDING
 
 Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
@@ -229,7 +229,7 @@ Case 258: 03/11/2026 dict=SHS, L=8663, hw=kaṭinatā, user=srhodes
 old = kaṭinatā
 new = kaṭinathā
 comment = Typo – Headword Typo
-status = PENDING
+status = Corrected 03 Apr 2026. Corrected to kaWinatA in SLP1
 ------------------------------------------------------------------------
 
 Case 254: 03/10/2026 dict=SHS, L=8649, hw=kaṭphala, user=srhodes
@@ -242,7 +242,7 @@ status = No change required
 Case 253: 03/10/2026 dict=SHS, L=8643, hw=kaṭusneha, user=srhodes
 old = mustard sea 
 new = mustard seed 
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 241: 03/08/2026 dict=SHS, L=8615, hw=kaṭisūtra, user=srhodes
@@ -255,14 +255,14 @@ status = No change required
 Case 238: 03/07/2026 dict=SHS, L=8590, hw=kaṭabhī, user=srhodes
 old = Cardiaspermum
 new = Cardiospermum
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 237: 03/07/2026 dict=SHS, L=8586, hw=kaṭapūṭana, user=srhodes
 old = kaṭapūṭana
 new = kaṭapūtana
 comment = Typo – Headword Typo !
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 235: 03/05/2026 dict=SHS, L=19064, hw=dīpaśikhā, user=srhodes
@@ -282,14 +282,14 @@ status = No change required
 Case 223: 03/05/2026 dict=SHS, L=8573, hw=kañjara, user=srhodes
 old = BHAHMA
 new = BRAHMA
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 222: 03/05/2026 dict=SHS, L=8565, hw=kañjuka, user=srhodes
 old = kañjuka
 new = kañcuka
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 210: 03/04/2026 dict=SHS, L=8533, hw=kacāku, user=srhodes
