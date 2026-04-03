@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 03, 2026
-233 correction records, with 34 PENDING
+233 correction records, with 26 PENDING
 
 Case 572: 04/02/2026 dict=AP, L=11728, hw=kalāpaḥ, user=srhodes
 old = kuvalayanaṃyanānā
@@ -288,14 +288,14 @@ Case 488: 03/26/2026 dict=AP, L=11653, hw=karpaṭika, user=srhodes
 old = Buried Headword
 new = "Please add the Headword : ""karpaṭin"" , as an independent ""Searchable"" Headword."
 comment = Buried Headword
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 487: 03/26/2026 dict=AP, L=11648, hw=kardaḥ, user=srhodes
 old = Buried Headword
 new = "Please add the Headword : ""kardaṭaḥ"" , as an independent ""Searchable"" Headword."
 comment = Buried Headword
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 480: 03/25/2026 dict=AP, L=11630, hw=karṇeṭiraṭirā, user=srhodes
@@ -316,20 +316,20 @@ Case 478: 03/25/2026 dict=AP, L=11626, hw=karṇikāraḥ, user=srhodes
 old = juttling {sic}
 new = jutting
 comment = Typo – Please note that this is a suggested correction.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 477: 03/25/2026 dict=AP, L=11626, hw=karṇikāraḥ, user=srhodes
 old = juttling {sic}
 new = jutting
 comment = Typo – Please note that this is a suggested correction.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 476: 03/25/2026 dict=AP, L=11624, hw=karṇālavādyam, user=srhodes
 old = cakuḥ
 new = cakruḥ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 475: 03/25/2026 dict=AP, L=11624, hw=karṇālavādyam, user=srhodes
@@ -531,20 +531,20 @@ status = No change required
 Case 409: 03/18/2026 dict=AP, L=11542, hw=karaṭaḥ, user=srhodes
 old = -ṭama
 new = -ṭam
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 408: 03/18/2026 dict=AP, L=11540, hw=karaṅkaḥ, user=srhodes
 old = Any one of 
 new = Any bone of 
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 404: 03/18/2026 dict=AP, L=11338, hw=kaṇḍodhaḥ, user=srhodes
 old = catterpillar
 new = caterpillar
 comment = Typo – This appears to be the modern and correct spelling.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 359: 03/16/2026 dict=AP, L=13754, hw=gaḍukaḥ, user=srhodes

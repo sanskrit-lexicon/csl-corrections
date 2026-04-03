@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 03, 2026
-38 correction records, with 12 PENDING
+38 correction records, with 8 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -63,28 +63,28 @@ status = No change required
 Case 418: 03/21/2026 dict=LRV, L=8092, hw=kaṃda, user=srhodes
 old = camphire
 new = camphor
-status = PENDING
+status = No change required. A valid archaic word.
 ------------------------------------------------------------------------
 
 Case 417: 03/21/2026 dict=LRV, L=8056.1, hw=kadaṃbakavāyu, user=srhodes
 old = kadaṃbakavāyu
 new = This Headword Should Possibly be Deleted
 comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
-status = PENDING
+status = Print has kadaMba/kadaMbaka as headwords. Therefore the compounds would also have kadaMba/kadaMbaka
 ------------------------------------------------------------------------
 
 Case 416: 03/21/2026 dict=LRV, L=8055.1, hw=kadaṃbakakorakanyāya, user=srhodes
 old = kadaṃbakakorakanyāya
 new = This Headword Should Possibly be Deleted
 comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
-status = PENDING
+status = Print has kadaMba/kadaMbaka as headwords. Therefore the compounds would also have kadaMba/kadaMbaka
 ------------------------------------------------------------------------
 
 Case 415: 03/21/2026 dict=LRV, L=8054.1, hw=kadaṃbakānila, user=srhodes
 old = kadaṃbakānila
 new = This Headword Should Possibly be Deleted
 comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
-status = PENDING
+status = Print has kadaMba/kadaMbaka as headwords. Therefore the compounds would also have kadaMba/kadaMbaka
 ------------------------------------------------------------------------
 
 Case 368: 03/17/2026 dict=LRV, L=7998, hw=kathaka, user=srhodes

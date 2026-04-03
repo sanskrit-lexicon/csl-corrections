@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 03, 2026
-63 correction records, with 10 PENDING
+63 correction records, with 7 PENDING
 
 Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
@@ -55,21 +55,21 @@ Case 485: 03/26/2026 dict=SHS, L=8877, hw=kanthā, user=srhodes
 old = Usināra
 new = Uśīnara
 comment = "Typo – Please note that this is a suggested Print Change, in order to correctly spell this word. Of what use is a Dictionary that frequently misspells words ?  Please ponder...."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 484: 03/26/2026 dict=SHS, L=8873, hw=kanera, user=srhodes
 old = kanera
 new = kanerā
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
-Case 483: 03/26/2026 dict=SHS, L=8868, hw=kanīci, user=srhodes
+Case 483: 03/26/2026 dict=SHS, L=8868, hw=kanīci, user="srhodes
 old = Gunja
 new = Guñjā
 comment = "Typo – Please note that this is a suggested Print Change, in order to correctly spell this word. Of what use is a Dictionary that frequently misspells words ?  Please ponder...."
-status = PENDING
+status = No change required. Nobody has said that SHS is a precise dictionary. Precisely because of its substandard publication, it is not on too high a pedestal. Given a choice, I would not change anything in SHS and PUI. They chose inconsistent transliteration knowingly."
 ------------------------------------------------------------------------
 
 Case 482: 03/26/2026 dict=SHS, L=8858, hw=kanakasthalī, user=srhodes

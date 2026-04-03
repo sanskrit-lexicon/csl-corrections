@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of April 03, 2026
-575 correction records, with 76 PENDING
+575 correction records, with 54 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -603,14 +603,14 @@ Case 488: 03/26/2026 dict=AP, L=11653, hw=karpaṭika, user=srhodes
 old = Buried Headword
 new = "Please add the Headword : ""karpaṭin"" , as an independent ""Searchable"" Headword."
 comment = Buried Headword
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 487: 03/26/2026 dict=AP, L=11648, hw=kardaḥ, user=srhodes
 old = Buried Headword
 new = "Please add the Headword : ""kardaṭaḥ"" , as an independent ""Searchable"" Headword."
 comment = Buried Headword
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 486: 03/26/2026 dict=SHS, L=8878, hw=kanthādhāraṇa, user=srhodes
@@ -624,21 +624,21 @@ Case 485: 03/26/2026 dict=SHS, L=8877, hw=kanthā, user=srhodes
 old = Usināra
 new = Uśīnara
 comment = "Typo – Please note that this is a suggested Print Change, in order to correctly spell this word. Of what use is a Dictionary that frequently misspells words ?  Please ponder...."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 484: 03/26/2026 dict=SHS, L=8873, hw=kanera, user=srhodes
 old = kanera
 new = kanerā
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
-Case 483: 03/26/2026 dict=SHS, L=8868, hw=kanīci, user=srhodes
+Case 483: 03/26/2026 dict=SHS, L=8868, hw=kanīci, user="srhodes
 old = Gunja
 new = Guñjā
 comment = "Typo – Please note that this is a suggested Print Change, in order to correctly spell this word. Of what use is a Dictionary that frequently misspells words ?  Please ponder...."
-status = PENDING
+status = No change required. Nobody has said that SHS is a precise dictionary. Precisely because of its substandard publication, it is not on too high a pedestal. Given a choice, I would not change anything in SHS and PUI. They chose inconsistent transliteration knowingly."
 ------------------------------------------------------------------------
 
 Case 482: 03/26/2026 dict=SHS, L=8858, hw=kanakasthalī, user=srhodes
@@ -673,20 +673,20 @@ Case 478: 03/25/2026 dict=AP, L=11626, hw=karṇikāraḥ, user=srhodes
 old = juttling {sic}
 new = jutting
 comment = Typo – Please note that this is a suggested correction.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 477: 03/25/2026 dict=AP, L=11626, hw=karṇikāraḥ, user=srhodes
 old = juttling {sic}
 new = jutting
 comment = Typo – Please note that this is a suggested correction.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 476: 03/25/2026 dict=AP, L=11624, hw=karṇālavādyam, user=srhodes
 old = cakuḥ
 new = cakruḥ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 475: 03/25/2026 dict=AP, L=11624, hw=karṇālavādyam, user=srhodes
@@ -1050,35 +1050,35 @@ Case 424: 03/21/2026 dict=MW, L=44697.4, hw=karkandhu, user=srhodes
 old = karkandhu f. 
 new = karkandhū f. 
 comment = "Typo – Please note that this correction appears to follow the printed text, as there is NO indication of a short vowel for the Feminine form !"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 423: 03/21/2026 dict=MW, L=44366.3, hw=karagṛhīti, user=srhodes
 old = levying taxes (and ‘shaking hands’)
 new = levying taxes
 comment = "Typo – Typo – Please note that in the annexure, the Supplemental Homonym is printed as: ""karagṛhīti f. levying taxes (and ‘shaking hands’)"". HOWEVER, the portion in parenthesis ""(and ‘shaking hands’): OBVIOUSLY applies to the Main Entry Headword: ""karagṛhīti the act of taking the hand, Hcar. [ID=44050]""."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 422: 03/21/2026 dict=MW, L=44050, hw=karagṛhīti, user=srhodes
 old = "the act of taking the hand, Hcar."
 new = "the act of taking the hand (and ‘shaking hands’), Hcar."
 comment = "Typo – Please note that in the annexure, the Supplemental Homonym is printed as: ""karagṛhīti f. levying taxes (and ‘shaking hands’)"". HOWEVER, the portion in parenthesis ""(and ‘shaking hands’): OBVIOUSLY applies to the Main Entry Headword: "" the act of taking the hand, Hcar. [ID=44050]"". Therefore, TWO supplementary additions must be taken into account. Here, the original Headword, ""kara—gṛhīti f. [ID=44050]"", must include this new Supplemental definition: ""shaking hands"", and therefore needs to be marked with the ""circle-S"" symbol in the Hierarchy List Display, along with the aforesaid number ""1"" to distinguish this Homonym."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 421: 03/21/2026 dict=MW, L=44050, hw=karagṛhīti, user=srhodes
 old = Homonym Number Missing
 new = "Please add the number ""1"" to the right side of this Headword in the hierarchy list to properly mark the location of this Homonym. This represents a unique case, whereby the supplemental entry from the annexure introduces a Homonym, which previously did not exist. Upon the insertion of this Supplemental word into the Main Entries, the Homonym simultaneously comes into existence and REQUIRES the numerical distinction to be added to the Window Display and to this Headword located within the Hierarchy List Column. You will see that some following Headwords also are Homonyms by the well known fact the pūrvapada ""kara"" Itself is a Homonym, thus generating compounds that are Homonyms as well, ALL of which use and require the numberings ""1"" and ""2""."
 comment = Homonym Number Missing
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 420: 03/21/2026 dict=MW, L=44366.3, hw=karagṛhīti, user=srhodes
 old = Homonym Number Missing
 new = "Please add the number ""2"" to the right side of this Headword in the hierarchy list to properly mark the location of this Homonym. This represents a unique case, whereby the supplemental entry from the annexure introduces a Homonym, which previously did not exist. Upon the insertion of this Supplemental word into the Main Entries, the Homonym simultaneously comes into existence and REQUIRES the numerical distinction to be added to the Window Display and to this Headword located within the Hierarchy List Column. You will see that some following Headwords also are Homonyms by the well known fact the pūrvapada ""kara"" Itself is a Homonym, thus generating compounds that are Homonyms as well, ALL of which use and require the numberings ""1"" and ""2"". For this particular case, I suggest introducing the number ""2"" In Front Of the ""circle-S"" symbol that indicates the Supplemental entry."
 comment = Homonym Number Missing
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 419: 03/21/2026 dict=AP, L=11584, hw=kareṭaḥ, user=srhodes
@@ -1091,28 +1091,28 @@ status = No change required
 Case 418: 03/21/2026 dict=LRV, L=8092, hw=kaṃda, user=srhodes
 old = camphire
 new = camphor
-status = PENDING
+status = No change required. A valid archaic word.
 ------------------------------------------------------------------------
 
 Case 417: 03/21/2026 dict=LRV, L=8056.1, hw=kadaṃbakavāyu, user=srhodes
 old = kadaṃbakavāyu
 new = This Headword Should Possibly be Deleted
 comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
-status = PENDING
+status = Print has kadaMba/kadaMbaka as headwords. Therefore the compounds would also have kadaMba/kadaMbaka
 ------------------------------------------------------------------------
 
 Case 416: 03/21/2026 dict=LRV, L=8055.1, hw=kadaṃbakakorakanyāya, user=srhodes
 old = kadaṃbakakorakanyāya
 new = This Headword Should Possibly be Deleted
 comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
-status = PENDING
+status = Print has kadaMba/kadaMbaka as headwords. Therefore the compounds would also have kadaMba/kadaMbaka
 ------------------------------------------------------------------------
 
 Case 415: 03/21/2026 dict=LRV, L=8054.1, hw=kadaṃbakānila, user=srhodes
 old = kadaṃbakānila
 new = This Headword Should Possibly be Deleted
 comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
-status = PENDING
+status = Print has kadaMba/kadaMbaka as headwords. Therefore the compounds would also have kadaMba/kadaMbaka
 ------------------------------------------------------------------------
 
 Case 414: 03/19/2026 dict=SHS, L=8804, hw=kathika, user=srhodes
@@ -1153,13 +1153,13 @@ status = No change required
 Case 409: 03/18/2026 dict=AP, L=11542, hw=karaṭaḥ, user=srhodes
 old = -ṭama
 new = -ṭam
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 408: 03/18/2026 dict=AP, L=11540, hw=karaṅkaḥ, user=srhodes
 old = Any one of 
 new = Any bone of 
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 407: 03/18/2026 dict=SHS, L=8773, hw=kati, user=srhodes
@@ -1187,7 +1187,7 @@ Case 404: 03/18/2026 dict=AP, L=11338, hw=kaṇḍodhaḥ, user=srhodes
 old = catterpillar
 new = caterpillar
 comment = Typo – This appears to be the modern and correct spelling.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 403: 03/18/2026 dict=SHS, L=8763, hw=kaṇḍolaka, user=srhodes
@@ -1446,14 +1446,14 @@ Case 367: 03/17/2026 dict=MW, L=240690, hw=sahasravat, user=srhodes
 old = th° fold
 new = th°fold
 comment = "Typo – Please note ALL such numbers ending in the suffix ""fold"", are properly written as ONE word. Therefore, please make this a Global Correction!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 366: 03/17/2026 dict=MW, L=229371, hw=saṃjñaka, user=srhodes
 old = 2. saṃjña
 new = 2. saṃjñā
 comment = "Typo – Please note that this correction is a possible ""Print Change"", depending on how you read the print. Also, this correction follows the Great Authority of Böhtlingk PW."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 365: 03/16/2026 dict=MW, L=1737.1, hw=aṅgulīyaka, user=srhodes

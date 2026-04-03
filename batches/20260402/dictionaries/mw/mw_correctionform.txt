@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 03, 2026
-235 correction records, with 18 PENDING
+235 correction records, with 11 PENDING
 
 Case 573: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
 old = -kāmoyet
@@ -368,35 +368,35 @@ Case 424: 03/21/2026 dict=MW, L=44697.4, hw=karkandhu, user=srhodes
 old = karkandhu f. 
 new = karkandhū f. 
 comment = "Typo – Please note that this correction appears to follow the printed text, as there is NO indication of a short vowel for the Feminine form !"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 423: 03/21/2026 dict=MW, L=44366.3, hw=karagṛhīti, user=srhodes
 old = levying taxes (and ‘shaking hands’)
 new = levying taxes
 comment = "Typo – Typo – Please note that in the annexure, the Supplemental Homonym is printed as: ""karagṛhīti f. levying taxes (and ‘shaking hands’)"". HOWEVER, the portion in parenthesis ""(and ‘shaking hands’): OBVIOUSLY applies to the Main Entry Headword: ""karagṛhīti the act of taking the hand, Hcar. [ID=44050]""."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 422: 03/21/2026 dict=MW, L=44050, hw=karagṛhīti, user=srhodes
 old = "the act of taking the hand, Hcar."
 new = "the act of taking the hand (and ‘shaking hands’), Hcar."
 comment = "Typo – Please note that in the annexure, the Supplemental Homonym is printed as: ""karagṛhīti f. levying taxes (and ‘shaking hands’)"". HOWEVER, the portion in parenthesis ""(and ‘shaking hands’): OBVIOUSLY applies to the Main Entry Headword: "" the act of taking the hand, Hcar. [ID=44050]"". Therefore, TWO supplementary additions must be taken into account. Here, the original Headword, ""kara—gṛhīti f. [ID=44050]"", must include this new Supplemental definition: ""shaking hands"", and therefore needs to be marked with the ""circle-S"" symbol in the Hierarchy List Display, along with the aforesaid number ""1"" to distinguish this Homonym."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 421: 03/21/2026 dict=MW, L=44050, hw=karagṛhīti, user=srhodes
 old = Homonym Number Missing
 new = "Please add the number ""1"" to the right side of this Headword in the hierarchy list to properly mark the location of this Homonym. This represents a unique case, whereby the supplemental entry from the annexure introduces a Homonym, which previously did not exist. Upon the insertion of this Supplemental word into the Main Entries, the Homonym simultaneously comes into existence and REQUIRES the numerical distinction to be added to the Window Display and to this Headword located within the Hierarchy List Column. You will see that some following Headwords also are Homonyms by the well known fact the pūrvapada ""kara"" Itself is a Homonym, thus generating compounds that are Homonyms as well, ALL of which use and require the numberings ""1"" and ""2""."
 comment = Homonym Number Missing
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 420: 03/21/2026 dict=MW, L=44366.3, hw=karagṛhīti, user=srhodes
 old = Homonym Number Missing
 new = "Please add the number ""2"" to the right side of this Headword in the hierarchy list to properly mark the location of this Homonym. This represents a unique case, whereby the supplemental entry from the annexure introduces a Homonym, which previously did not exist. Upon the insertion of this Supplemental word into the Main Entries, the Homonym simultaneously comes into existence and REQUIRES the numerical distinction to be added to the Window Display and to this Headword located within the Hierarchy List Column. You will see that some following Headwords also are Homonyms by the well known fact the pūrvapada ""kara"" Itself is a Homonym, thus generating compounds that are Homonyms as well, ALL of which use and require the numberings ""1"" and ""2"". For this particular case, I suggest introducing the number ""2"" In Front Of the ""circle-S"" symbol that indicates the Supplemental entry."
 comment = Homonym Number Missing
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 402: 03/18/2026 dict=MW, L=56720, hw=kolāhala, user=srhodes
@@ -641,14 +641,14 @@ Case 367: 03/17/2026 dict=MW, L=240690, hw=sahasravat, user=srhodes
 old = th° fold
 new = th°fold
 comment = "Typo – Please note ALL such numbers ending in the suffix ""fold"", are properly written as ONE word. Therefore, please make this a Global Correction!"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 366: 03/17/2026 dict=MW, L=229371, hw=saṃjñaka, user=srhodes
 old = 2. saṃjña
 new = 2. saṃjñā
 comment = "Typo – Please note that this correction is a possible ""Print Change"", depending on how you read the print. Also, this correction follows the Great Authority of Böhtlingk PW."
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 365: 03/16/2026 dict=MW, L=1737.1, hw=aṅgulīyaka, user=srhodes
