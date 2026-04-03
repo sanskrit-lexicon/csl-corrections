@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 03, 2026
-63 correction records, with 28 PENDING
+63 correction records, with 19 PENDING
 
 Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
@@ -303,7 +303,7 @@ Case 200: 03/03/2026 dict=SHS, L=8486, hw=kakṣāvat, user=srhodes
 old = kakṣāvat
 new = kakṣīvat
 comment = "Typo – Please note that this is a Headword Typo and ""Print Change"". This correction will require the Relocation of the Headword within the Hiearchy Display List, according to proper Alphabetical Order (as well as updating the ID number). Also, Please note that this VERY important correction has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984756406 LB Finally, there is the consideration of possibly correcting the given Etymology: ""E. kakṣā a reply"", but I leave that detail up to those who are Learned."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 184: 03/02/2026 dict=SHS, L=8513, hw=kaṅkuṣṭa, user=srhodes
@@ -316,19 +316,19 @@ Case 178: 02/28/2026 dict=SHS, L=8495, hw=kaṅkaṭerī, user=srhodes
 old = Turmerick
 new = Turmeric
 comment = Typo – This spelling appears to be better.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 168: 02/26/2026 dict=SHS, L=8470, hw=kakudmin, user=srhodes
 old = lions
 new = loins
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 167: 02/26/2026 dict=SHS, L=8469, hw=kakudmin, user=srhodes
 old = Pumped
 new = Humped
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 150: 02/23/2026 dict=SHS, L=8459, hw=kaṃsika, user=srhodes
@@ -342,32 +342,32 @@ Case 148: 02/23/2026 dict=SHS, L=8438, hw=auṣadhi, user=srhodes
 old = n. (-dhi) 
 new = f. (-dhi) 
 comment = Typo – Please note the Gender Change.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 147: 02/23/2026 dict=SHS, L=8437, hw=auṣadha, user=srhodes
 old = any herd
 new = any herb
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 146: 02/22/2026 dict=SHS, L=22327, hw=niṣpādita, user=srhodes
 old = made produced
 new = "made, produced"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 114: 02/22/2026 dict=SHS, L=8427, hw=aurddhaśrotasika, user=srhodes
 old = Canges
 new = Ganges
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 107: 02/21/2026 dict=SHS, L=8570, hw=kañjaka, user=srhodes
 old = Mayana
 new = Myna
 comment = "Typo – please note that this is a suggested ""print change"", you may check Wikipedia for reference to this Bird."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 90: 02/20/2026 dict=SHS, L=7611, hw=upānaha, user=srhodes

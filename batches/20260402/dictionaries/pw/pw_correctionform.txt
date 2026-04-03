@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for PW
 As of April 03, 2026
-4 correction records, with 3 PENDING
+4 correction records, with 0 PENDING
 
 Case 197: 03/03/2026 dict=PW, L=116114, hw=ṣaṭcakra, user=srhodes
 old = ajñākhya
 new = ājñā
 comment = "Typo – UPDATED CORRECTION !   Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984486559"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 175: 02/26/2026 dict=PW, L=116114, hw=ṣaṭcakra, user=srhodes
 old = ajñākhya
 new = ājñākhya
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 153: 02/23/2026 dict=PW, L=2402, hw=adadyañc, user=srhodes
 old = adadyañc
 new = adadryañc
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 17: 02/08/2026 dict=PW, L=13773, hw=ācarita, user=srhodes

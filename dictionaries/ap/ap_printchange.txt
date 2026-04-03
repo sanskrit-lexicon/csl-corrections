@@ -498,7 +498,7 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/107
 L code : Headword : Old  : New : Comment
 :  : billion : trillion : Comment by @drdhaval2785 - I do not full fledgedly agree to such changes, but similar change has already been made in case of antya. Therefore, made changes to other places for uniformity.
 -----------------------------------------------------------------------
-02-15-2026
+04-03-2026
 Ref: Scott batch 20260402
 L code : Headword : Old  : New : Comment
 10847 : ojas : disstinguish : distinguish : 
@@ -509,4 +509,11 @@ L code : Headword : Old  : New : Comment
 10976 : OpaniDika : Wak : -Wak : hyphen
 10990 : Opapattika : Ready at hand within reach : Ready at hand, within reach : comma
 11146 : kaNgu : n. : f. : https://github.com/sanskrit-lexicon/AP/issues/7#issuecomment-3925252976
+11188.022 : kaYjanABaH : kaYjanABAstirodaDe : kaYjanABastirodaDe : A to a
+11188.020 : kaYjaH : -YjaH : -jaH : kaYjaYjaH to kaYjajaH
+11228 : kawuka : unpleasant works : unpleasant words :
+11258 : kaWikallaH : kaWikallaH : kaWillakaH :
+11338 : kaRqoDaH : catterpillar : caterpillar :
+11341 : kaRqozaH : catterpillar : caterpillar :
+11296.038 : kaRwakaprAvfwA : kaRwakaprAvfwA : kaRwakaprAvftA :
 -----------------------------------------------------------------------

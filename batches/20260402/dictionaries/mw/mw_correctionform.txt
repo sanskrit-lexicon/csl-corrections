@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 03, 2026
-235 correction records, with 35 PENDING
+235 correction records, with 24 PENDING
 
 Case 573: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
 old = -kāmoyet
@@ -1158,14 +1158,14 @@ Case 196: 03/03/2026 dict=MW, L=224973, hw=ṣaṭcakra, user=srhodes
 old = ājñākhya
 new = ājñā
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984486559"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 192: 03/02/2026 dict=MW, L=42559, hw=kaṇṭhīla, user=srhodes
 old = mf(ī).
 new = mf(ā).
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3983224987"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 190: 03/02/2026 dict=MW, L=79075, hw=jālagoṇikā, user=srhodes
@@ -1213,7 +1213,7 @@ status = No change required
 Case 180: 02/28/2026 dict=MW, L=21495, hw=asmadruh, user=srhodes
 old = "(nom. -dhrúk), (nom. -dhrúk), "
 new = "(nom. -dhrúk),"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 163: 02/25/2026 dict=MW, L=125755.1, hw=punarnava, user=srhodes
@@ -1311,20 +1311,20 @@ Case 135: 02/22/2026 dict=MW, L=42173, hw=kaṭṭāraka, user=srhodes
 old = MISSING HEADWORD
 new = "ADD THE HEADWORD ""kaṭṭārikā f."" to the SEARCHABLE HIERARCHY"
 comment = MISSING HEADWORD
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 132: 02/22/2026 dict=MW, L=657.1, hw=akṣisaṃskāra, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just before the word ""akṣisaṃtarjana [ID=657]"" in the Hierarchical listing of words. The reason for this correction is that the anusvāra preceding the letter ""s"" is ALWAYS alphabetically placed BEFORE the anusvāra preceding the letter ""t"" !"
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 131: 02/22/2026 dict=MW, L=242535, hw=sāmudrikā, user=srhodes
 old = "(), f."
 new = "(ikā), f."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 130: 02/22/2026 dict=MW, L=242536, hw=sāmudraka, user=srhodes
@@ -1422,34 +1422,34 @@ Case 113: 02/22/2026 dict=MW, L=188730, hw=vasu, user=srhodes
 old = °sor-dhā́rā-prayoga m. N. of wk.
 new = °rā-prayoga m. N. of wk.
 comment = Typo – Please note that this correction EXACTLY follows the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 112: 02/22/2026 dict=MW, L=188730, hw=vasu, user=srhodes
 old = "(°soṣ-pati m. prob. ‘the god of wealth or property’, AV. i, 12 [Paipp. asoṣ-p°, ‘the god of life’]; °sor-dhā́rā"
 new = "(vasoṣ-pati m. prob. ‘the god of wealth or property’, AV. i, 12 [Paipp. asoṣ-p°, ‘the god of life’]; vásor-dhā́rā"
 comment = "Typo – Please note that this correction EXACTLY follows the printed text. This correction is important, because otherwise the correct ""Accent"" is missed !"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 111: 02/21/2026 dict=MW, L=106683, hw=niraham, user=srhodes
 old = ind.
 new = mfn.
 comment = "Typo – Please note that this is a suggested ""print change"", following other lexicons. Also, note that under the Headword ""aham [ID=21660]"", MW mentions ""hence declinable"", in other words NOT indeclinable. Andhrabharati agrees with this ""print change"" here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3938800505"
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 110: 02/21/2026 dict=MW, L=106683, hw=niraham, user=srhodes
 old = ind.
 new = mfn.
 comment = "Typo – Please note that this is a suggested ""print change"", following other lexicons. Also, note that under the Headword ""aham [ID=21660]"", MW mentions ""hence declinable"", in other words NOT indeclinable. Andhrabharati agrees with this ""print change"" here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3938800505"
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 109: 02/21/2026 dict=MW, L=41921, hw=kaṭakhādaka, user=srhodes
 old = eating much voracious
 new = "eating much, voracious"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 95: 02/20/2026 dict=MW, L=223821, hw=śroṇibimba, user=srhodes

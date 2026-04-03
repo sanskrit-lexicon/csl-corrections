@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 03, 2026
-38 correction records, with 18 PENDING
+38 correction records, with 14 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -131,13 +131,13 @@ Case 195: 03/03/2026 dict=LRV, L=7778, hw=kakṣa, user=srhodes
 old = side or plank
 new = side or flank
 comment = "Typo – Please note that this is a ""print change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984382078"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 194: 03/03/2026 dict=LRV, L=7840, hw=kaṃjaja, user=srhodes
 old = (n.).
 new = (m.).
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 177: 02/27/2026 dict=LRV, L=7780, hw=kakṣāvekṣaka, user=srhodes
@@ -150,7 +150,7 @@ status = No change required
 Case 176: 02/27/2026 dict=LRV, L=7767.1, hw=kakudmisutā, user=srhodes
 old = kakudmin-kanyā
 new = kakudmin-sutā
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 102: 02/21/2026 dict=LRV, L=7736, hw=auṣasa, user=srhodes
@@ -163,7 +163,7 @@ status = No change required
 Case 101: 02/21/2026 dict=LRV, L=7727, hw=auśanasa, user=srhodes
 old = by a uśanas
 new = by uśanas
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 84: 02/19/2026 dict=LRV, L=7662, hw=audbhida, user=srhodes

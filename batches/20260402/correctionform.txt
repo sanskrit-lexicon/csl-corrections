@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of April 03, 2026
-575 correction records, with 161 PENDING
+575 correction records, with 113 PENDING
 
 Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
@@ -2599,69 +2599,69 @@ Case 200: 03/03/2026 dict=SHS, L=8486, hw=kakṣāvat, user=srhodes
 old = kakṣāvat
 new = kakṣīvat
 comment = "Typo – Please note that this is a Headword Typo and ""Print Change"". This correction will require the Relocation of the Headword within the Hiearchy Display List, according to proper Alphabetical Order (as well as updating the ID number). Also, Please note that this VERY important correction has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984756406 LB Finally, there is the consideration of possibly correcting the given Etymology: ""E. kakṣā a reply"", but I leave that detail up to those who are Learned."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 199: 03/03/2026 dict=AP, L=11310, hw=kaṇṭhaḥ, user=srhodes
 old = -naḍikaḥ a kite.
 new = -nīḍakaḥ a kite.
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984711663"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 198: 03/03/2026 dict=AP, L=11310, hw=kaṇṭhaḥ, user=srhodes
 old = -śālukam a hard tumour in the throat.
 new = -śālūkam a hard tumour in the throat.
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984641807 LB ALSO, please note that if you compare the definitions of ""śālūkam"" with ""śālukam"", you will find that ONLY the long-vowel spelling ""śālūkam"" yields the definition of ""a hard tumour""."
-status = PENDING
+status = No change required. Both are valid words.
 ------------------------------------------------------------------------
 
 Case 197: 03/03/2026 dict=PW, L=116114, hw=ṣaṭcakra, user=srhodes
 old = ajñākhya
 new = ājñā
 comment = "Typo – UPDATED CORRECTION !   Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984486559"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 196: 03/03/2026 dict=MW, L=224973, hw=ṣaṭcakra, user=srhodes
 old = ājñākhya
 new = ājñā
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984486559"
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 195: 03/03/2026 dict=LRV, L=7778, hw=kakṣa, user=srhodes
 old = side or plank
 new = side or flank
 comment = "Typo – Please note that this is a ""print change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984382078"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 194: 03/03/2026 dict=LRV, L=7840, hw=kaṃjaja, user=srhodes
 old = (n.).
 new = (m.).
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 193: 03/02/2026 dict=AP, L=11296, hw=kaṇṭakaḥ, user=srhodes
 old = -prāvṛṭā
 new = -prāvṛtā
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3983345750"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 192: 03/02/2026 dict=MW, L=42559, hw=kaṇṭhīla, user=srhodes
 old = mf(ī).
 new = mf(ā).
 comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3983224987"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 191: 03/02/2026 dict=AP, L=11338, hw=kaṇḍodhaḥ, user=srhodes
 old = catterpillar
 new = caterpillar
 comment = Typo – Please note that this may be considered as a Global Correction. Attention Jim Funderburk Merriam-Webster agrees!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 190: 03/02/2026 dict=MW, L=79075, hw=jālagoṇikā, user=srhodes
@@ -2715,7 +2715,7 @@ status = PENDING
 Case 183: 03/01/2026 dict=AP, L=11314, hw=kaṇṭhī, user=srhodes
 old = -khaḥ
 new = -ravaḥ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 182: 03/01/2026 dict=AP, L=11296, hw=kaṇṭakaḥ, user=srhodes
@@ -2728,13 +2728,13 @@ status = No change required
 Case 181: 03/01/2026 dict=AP, L=11296, hw=kaṇṭakaḥ, user=srhodes
 old = -āḍhathaḥ
 new = -āḍhyaḥ
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 180: 02/28/2026 dict=MW, L=21495, hw=asmadruh, user=srhodes
 old = "(nom. -dhrúk), (nom. -dhrúk), "
 new = "(nom. -dhrúk),"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 179: 02/28/2026 dict=AP, L=11296, hw=kaṇṭakaḥ, user=srhodes
@@ -2748,7 +2748,7 @@ Case 178: 02/28/2026 dict=SHS, L=8495, hw=kaṅkaṭerī, user=srhodes
 old = Turmerick
 new = Turmeric
 comment = Typo – This spelling appears to be better.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 177: 02/27/2026 dict=LRV, L=7780, hw=kakṣāvekṣaka, user=srhodes
@@ -2761,47 +2761,47 @@ status = No change required
 Case 176: 02/27/2026 dict=LRV, L=7767.1, hw=kakudmisutā, user=srhodes
 old = kakudmin-kanyā
 new = kakudmin-sutā
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 175: 02/26/2026 dict=PW, L=116114, hw=ṣaṭcakra, user=srhodes
 old = ajñākhya
 new = ājñākhya
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 174: 02/26/2026 dict=AP, L=11270, hw=kaḍatram, user=srhodes
 old = kaḍa(la)tram
 new = kaḍa (-la) tram
 comment = Typo – Please note that this correction precisely matches the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 173: 02/26/2026 dict=AP, L=11267, hw=kaḍaṅgaraḥ, user=srhodes
 old = kaḍaṅga(ka)raḥ
 new = kaḍaṅga (-ka) raḥ
 comment = Typo – UPDATED CORRECTION ! Please note that this correction precisely matches the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 172: 02/26/2026 dict=AP, L=11268, hw=kaḍaṅgarīya, user=srhodes
 old = kaḍaṅga(kā)rīya
 new = kaḍaṅga (-ka) rīya
 comment = Typo – UPDATED CORRECTION ! Please note that this correction precisely matches the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 171: 02/26/2026 dict=AP, L=11268, hw=kaḍaṅgarīya, user=srhodes
 old = kaḍaṅga(kā)rīya
 new = kaḍaṅga (-ka) rīya
 comment = Typo – UPDATED CORRECTION ! Please note that this correction precisely matches the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 170: 02/26/2026 dict=AP, L=11268, hw=kaḍaṅgarīya, user=srhodes
 old = kaḍaṅga(kā)rīya
 new = kaḍaṅga(ka)rīya
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 169: 02/26/2026 dict=AP, L=11265, hw=kaḍakam, user=srhodes
@@ -2814,34 +2814,34 @@ status = No change required
 Case 168: 02/26/2026 dict=SHS, L=8470, hw=kakudmin, user=srhodes
 old = lions
 new = loins
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 167: 02/26/2026 dict=SHS, L=8469, hw=kakudmin, user=srhodes
 old = Pumped
 new = Humped
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 166: 02/25/2026 dict=AP, L=11258, hw=kaṭhora, user=srhodes
 old = ātaṅkasphuritakaṭhoragarbhaguvīṃm
 new = ātaṅkasphuritakaṭhoragarbhagurvīm
 comment = Typo – Another Great Correction by Scott !
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 165: 02/25/2026 dict=AP, L=11255, hw=kaṭhikallaḥ, user=srhodes
 old = kaṭhikallaḥ
 new = kaṭhillakaḥ
 comment = "Typo – Please note that this correction is a Headword Typo and ""Print Change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3957706593"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
-Case 164: 02/25/2026 dict=AP, L=10168, hw=upābhṛt, user=srhodes
+Case 164: 02/25/2026 dict=AP, L=10168, hw=upābhṛt, user="srhodes
 old = upābhṛt
 new = upābhṛti
 comment = "Typo – Please note that this correction is a Headword Typo and ""Print Change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3948918437"
-status = PENDING
+status = Leaving as it is. If we change, the user would not be able to make sense why AP is saying MW made an error."
 ------------------------------------------------------------------------
 
 Case 163: 02/25/2026 dict=MW, L=125755.1, hw=punarnava, user=srhodes
@@ -2882,39 +2882,39 @@ status = No change required
 Case 158: 02/25/2026 dict=AP, L=11243, hw=kaṭhaḥ, user=srhodes
 old = Upniṣad
 new = Upaniṣad
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 157: 02/25/2026 dict=AP, L=11243, hw=kaṭhaḥ, user=srhodes
 old = kind of ṛik
 new = kind of ṛk
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 156: 02/24/2026 dict=AP, L=11228, hw=kaṭuka, user=srhodes
 old = unpleasant works
 new = unpleasant words
 comment = "Typo – Please note that this ""print change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3948925831"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 155: 02/24/2026 dict=AP, L=11227, hw=kaṭu, user=srhodes
 old = kaṭkī
 new = kaṭukī
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 154: 02/24/2026 dict=AP, L=11227, hw=kaṭu, user=srhodes
 old = -kha
 new = -rava
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 153: 02/23/2026 dict=PW, L=2402, hw=adadyañc, user=srhodes
 old = adadyañc
 new = adadryañc
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 152: 02/23/2026 dict=AP, L=11219, hw=kaṭiḥ, user=srhodes
@@ -2949,19 +2949,19 @@ Case 148: 02/23/2026 dict=SHS, L=8438, hw=auṣadhi, user=srhodes
 old = n. (-dhi) 
 new = f. (-dhi) 
 comment = Typo – Please note the Gender Change.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 147: 02/23/2026 dict=SHS, L=8437, hw=auṣadha, user=srhodes
 old = any herd
 new = any herb
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 146: 02/22/2026 dict=SHS, L=22327, hw=niṣpādita, user=srhodes
 old = made produced
 new = "made, produced"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 145: 02/22/2026 dict=MW, L=142237, hw=phena, user=srhodes
@@ -3038,7 +3038,7 @@ Case 135: 02/22/2026 dict=MW, L=42173, hw=kaṭṭāraka, user=srhodes
 old = MISSING HEADWORD
 new = "ADD THE HEADWORD ""kaṭṭārikā f."" to the SEARCHABLE HIERARCHY"
 comment = MISSING HEADWORD
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 134: 02/22/2026 dict=AP, L=170, hw=akṣīva, user=srhodes
@@ -3059,13 +3059,13 @@ Case 132: 02/22/2026 dict=MW, L=657.1, hw=akṣisaṃskāra, user=srhodes
 old = Placement Error
 new = "The supplemental insertion of this Headword should be placed just before the word ""akṣisaṃtarjana [ID=657]"" in the Hierarchical listing of words. The reason for this correction is that the anusvāra preceding the letter ""s"" is ALWAYS alphabetically placed BEFORE the anusvāra preceding the letter ""t"" !"
 comment = Placement Error
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 131: 02/22/2026 dict=MW, L=242535, hw=sāmudrikā, user=srhodes
 old = "(), f."
 new = "(ikā), f."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 130: 02/22/2026 dict=MW, L=242536, hw=sāmudraka, user=srhodes
@@ -3183,62 +3183,62 @@ status = No change required
 Case 114: 02/22/2026 dict=SHS, L=8427, hw=aurddhaśrotasika, user=srhodes
 old = Canges
 new = Ganges
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 113: 02/22/2026 dict=MW, L=188730, hw=vasu, user=srhodes
 old = °sor-dhā́rā-prayoga m. N. of wk.
 new = °rā-prayoga m. N. of wk.
 comment = Typo – Please note that this correction EXACTLY follows the printed text.
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 112: 02/22/2026 dict=MW, L=188730, hw=vasu, user=srhodes
 old = "(°soṣ-pati m. prob. ‘the god of wealth or property’, AV. i, 12 [Paipp. asoṣ-p°, ‘the god of life’]; °sor-dhā́rā"
 new = "(vasoṣ-pati m. prob. ‘the god of wealth or property’, AV. i, 12 [Paipp. asoṣ-p°, ‘the god of life’]; vásor-dhā́rā"
 comment = "Typo – Please note that this correction EXACTLY follows the printed text. This correction is important, because otherwise the correct ""Accent"" is missed !"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 111: 02/21/2026 dict=MW, L=106683, hw=niraham, user=srhodes
 old = ind.
 new = mfn.
 comment = "Typo – Please note that this is a suggested ""print change"", following other lexicons. Also, note that under the Headword ""aham [ID=21660]"", MW mentions ""hence declinable"", in other words NOT indeclinable. Andhrabharati agrees with this ""print change"" here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3938800505"
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 110: 02/21/2026 dict=MW, L=106683, hw=niraham, user=srhodes
 old = ind.
 new = mfn.
 comment = "Typo – Please note that this is a suggested ""print change"", following other lexicons. Also, note that under the Headword ""aham [ID=21660]"", MW mentions ""hence declinable"", in other words NOT indeclinable. Andhrabharati agrees with this ""print change"" here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3938800505"
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 109: 02/21/2026 dict=MW, L=41921, hw=kaṭakhādaka, user=srhodes
 old = eating much voracious
 new = "eating much, voracious"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 108: 02/21/2026 dict=AP, L=11188, hw=kañjaḥ, user=srhodes
 old = -ñjaḥ N. of Brahmā.
 new = -jaḥ N. of Brahmā.
 comment = "Typo – Please note that this is a ""print change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3938563648"
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 107: 02/21/2026 dict=SHS, L=8570, hw=kañjaka, user=srhodes
 old = Mayana
 new = Myna
 comment = "Typo – please note that this is a suggested ""print change"", you may check Wikipedia for reference to this Bird."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 106: 02/21/2026 dict=AP, L=11188, hw=kañjaḥ, user=srhodes
 old = kañjanābhāstirodadhe
 new = kañjanābhastirodadhe
 comment = "Typo – Please note that this is a ""print change"", easily verifiable."
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 105: 02/21/2026 dict=AP, L=11183, hw=kañcukin, user=srhodes
@@ -3272,7 +3272,7 @@ status = No change required
 Case 101: 02/21/2026 dict=LRV, L=7727, hw=auśanasa, user=srhodes
 old = by a uśanas
 new = by uśanas
-status = PENDING
+status = Corrected 03 Apr 2026
 ------------------------------------------------------------------------
 
 Case 100: 02/20/2026 dict=AP, L=11172, hw=kajjalam, user=srhodes
