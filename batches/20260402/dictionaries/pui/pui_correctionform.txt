@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for PUI
+As of April 03, 2026
+2 correction records, with 2 PENDING
+
+Case 436: 03/23/2026 dict=PUI, L=10843, hw=mukhyā, user=srhodes
+old = Puramjana
+new = Puraṃjana  OR  Purañjana
+comment = "Typo – Please note that this is a suggested GLOBAL CORRECTION to be made, so as to spell with the correct transliteration. Please compare with the other names given here: Āpaṇa and Bahūdana."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 435: 03/23/2026 dict=PUI, L=10843, hw=mukhyā, user=srhodes
+old = Puramjana
+new = Puraṃjana  OR  Purañjana
+comment = "Typo – Please note that this is a suggested GLOBAL CORRECTION to be made, so as to spell with the correct transliteration. Please compare with the other names given here: Āpaṇa and Bahūdana."
+status = PENDING
+------------------------------------------------------------------------
+

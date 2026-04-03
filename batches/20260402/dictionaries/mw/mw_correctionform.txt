@@ -1,0 +1,1640 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 03, 2026
+235 correction records, with 45 PENDING
+
+Case 573: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
+old = -kāmoyet
+new = -kāmayet
+status = PENDING
+------------------------------------------------------------------------
+
+Case 571: 04/02/2026 dict=MW, L=45908, hw=kalāṭīna, user=srhodes
+old = water-wagtail
+new = water wagtail
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 564: 04/01/2026 dict=MW, L=174870, hw=rabh, user=srhodes
+old = 1. pl. rarabhmá
+new = 1. pl. rarabhmā́
+comment = "Typo – Please note that this correction is a confirmed ""Print Change"", as you may verify by consulting the vedic verse: RV. viii, 45, 20."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 554: 03/31/2026 dict=MW, L=216850, hw=śiñjadṣaḍaṅghri, user=srhodes
+old = śiñjadṣaḍaṅghri
+new = śiñjatṣaḍaṅghri
+comment = "Typo – Please note that this is a possible serious ""Print Change"", depending upon the authoritative confirmation of the Correct Sandhi, ocurring between the letters ""t + ṣ"" ,  in the compound: ""śiñjat + ṣaḍaṅghri"". MW has printed the Sandhi as being: ""t + ṣ"" —> ""d + ṣ"" ; But this appears to be Dubious ? I hope that Dr. Dhaval will investigate this matter and clarify the issue, for my own edification. If a correction must be made here, then also there will need to be the correct ""Relocation"" of this Headword, so as to directly follow the pūrvapada ""śiñjat""."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 553: 03/31/2026 dict=MW, L=45697.1, hw=kalaṅkeśa, user=srhodes
+old = Placement Error
+new = "The supplemental insertion of this Headword should be placed just after the word ""kalaṅkāṅka m. [ID=45694]"" in the Hierarchical listing of words. The reason for this alphabetical placement is according to the proper dissolution of the compound: ""kalaṅka + īśa"" = ""kalaṅkeśa"" m. the moon (possessing spots)."
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 548: 03/30/2026 dict=MW, L=43645.1, hw=kapotapadadarśana, user=srhodes
+old = foot-print
+new = footprint
+comment = "Typo – Please note that this word is better written as one word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 544: 03/30/2026 dict=MW, L=126141, hw=purataṭī, user=srhodes
+old = market-town
+new = market town
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 542: 03/30/2026 dict=MW, L=45525.1, hw=karvaṭa, user=srhodes
+old = market-town
+new = market town
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 536: 03/29/2026 dict=MW, L=143528.1, hw=bahukṛtya, user=srhodes
+old = -karanīya
+new = -karaṇīya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 523: 03/26/2026 dict=MW, L=134345, hw=pratyudāharaṇa, user=srhodes
+old = counter example
+new = counterexample
+comment = "Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 522: 03/26/2026 dict=MW, L=134346, hw=pratyudāhārya, user=srhodes
+old = c° ex°
+new = c°ex°
+comment = "Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 521: 03/26/2026 dict=MW, L=131519, hw=pratidṛṣṭāntasama, user=srhodes
+old = c° ex°
+new = c°ex°
+comment = "Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 520: 03/26/2026 dict=MW, L=132396, hw=pratidhuktva, user=srhodes
+old = Triple Indentation Error in the Hierarchy List Column
+new = Please Make a Double Indentation of this Headword in the Hierarchy List Column. (H4) —> (H3).
+comment = Triple Indentation Error in the Hierarchy List Column
+status = PENDING
+------------------------------------------------------------------------
+
+Case 519: 03/26/2026 dict=MW, L=132395, hw=pratiduh, user=srhodes
+old = Double Indentation Error in the Hierarchy List Column
+new = Please Make a Single Indentation of this Headword in the Hierarchy List Column. (H3) —> (H2).
+comment = Double Indentation Error in the Hierarchy List Column
+status = PENDING
+------------------------------------------------------------------------
+
+Case 518: 03/26/2026 dict=MW, L=131518, hw=pratidṛṣṭānta, user=srhodes
+old = counter example
+new = counterexample
+comment = "Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 517: 03/26/2026 dict=MW, L=48853.1, hw=kārya, user=srhodes
+old = Triple Listing Error
+new = "Please note that the Primary listing ""1. kārya"" should be applied to the Headword ""[ID=48853 ]"", and this Supplementary definintion should NOT be again listed in the Hierarchy Display Column (as a third Headword), but rather included into the Primary Headword ""kārya"" that already exists on the printed page number ""276,1""."
+comment = Triple Listing Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 513: 03/26/2026 dict=MW, L=38765, hw=ṛcīṣa, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 509: 03/26/2026 dict=MW, L=61679, hw=khallikā, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 506: 03/26/2026 dict=MW, L=153518, hw=bhrāṣṭraka, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 505: 03/26/2026 dict=MW, L=153516, hw=bhrāṣṭramindha, user=srhodes
+old = fr°-pan
+new = fr° pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 504: 03/26/2026 dict=MW, L=153515, hw=bhrāṣṭraja, user=srhodes
+old = pan-cake
+new = pancake
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 503: 03/26/2026 dict=MW, L=153514, hw=bhrāṣṭraja, user=srhodes
+old = fr°-pan
+new = fr° pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 502: 03/26/2026 dict=MW, L=153512, hw=bhrāṣṭra, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 498: 03/26/2026 dict=MW, L=148905, hw=bharjana, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 497: 03/26/2026 dict=MW, L=152713, hw=bharjana, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 496: 03/26/2026 dict=MW, L=83902, hw=tāpaka, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 495: 03/26/2026 dict=MW, L=83902, hw=tāpikā, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 494: 03/26/2026 dict=MW, L=82856, hw=taptaka, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 492: 03/26/2026 dict=MW, L=41995.1, hw=kaṭani, user=srhodes
+old = mountain-slope
+new = mountain slope
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 491: 03/26/2026 dict=MW, L=42006, hw=kaṭāha, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 490: 03/26/2026 dict=MW, L=53681, hw=kusūla, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 489: 03/26/2026 dict=MW, L=89571.08, hw=daṇḍa, user=srhodes
+old = sauce-pan
+new = saucepan
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 469: 03/24/2026 dict=MW, L=98394, hw=dvāryā, user=srhodes
+old = d°-post
+new = d°post
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 468: 03/24/2026 dict=MW, L=98394, hw=dvārya, user=srhodes
+old = d°-post
+new = d°post
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 467: 03/24/2026 dict=MW, L=98372, hw=dvārasthūṇā, user=srhodes
+old = d°-post
+new = d°post
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 466: 03/24/2026 dict=MW, L=98366, hw=dvāraśākhā, user=srhodes
+old = door-post
+new = doorpost
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 465: 03/24/2026 dict=MW, L=98313, hw=dvārbāhu, user=srhodes
+old = door-post
+new = doorpost
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 464: 03/24/2026 dict=MW, L=214954, hw=śākhā, user=srhodes
+old = door-post
+new = doorpost
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 463: 03/24/2026 dict=MW, L=117325, hw=parighastambha, user=srhodes
+old = door-post
+new = doorpost
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 461: 03/24/2026 dict=MW, L=98313, hw=dvārbāhu, user=srhodes
+old = door-post
+new = doorpost
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 457: 03/23/2026 dict=MW, L=128859.1, hw=pṛṣṭhamāṃsādana, user=srhodes
+old = back-biting
+new = backbiting
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 456: 03/23/2026 dict=MW, L=128858.1, hw=pṛṣṭhamāṃsāda, user=srhodes
+old = back-biting
+new = backbiting
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 450: 03/23/2026 dict=MW, L=97079, hw=doṣānuvāda, user=srhodes
+old = tale-bearing
+new = talebearing
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 449: 03/23/2026 dict=MW, L=209280, hw=vyasana, user=srhodes
+old = tale-bearing
+new = talebearing
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 448: 03/23/2026 dict=MW, L=129219, hw=paiśuna, user=srhodes
+old = back-biting
+new = backbiting
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 447: 03/23/2026 dict=MW, L=129219, hw=paiśuna, user=srhodes
+old = tale-bearing
+new = talebearing
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 446: 03/23/2026 dict=MW, L=44988, hw=karṇeṭiriṭirā, user=srhodes
+old = tale-bearing
+new = talebearing
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 445: 03/23/2026 dict=MW, L=44985, hw=karṇecurucurā, user=srhodes
+old = tale-bearing
+new = talebearing
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 444: 03/23/2026 dict=MW, L=44984, hw=karṇecuracurā, user=srhodes
+old = tale-bearing
+new = talebearing
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 443: 03/23/2026 dict=MW, L=44823, hw=karṇajāpa, user=srhodes
+old = tale-bearing
+new = talebearing
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 437: 03/23/2026 dict=MW, L=96164, hw=devahū, user=srhodes
+old = north wards
+new = north wards
+comment = "Typo – Please note that these two words are better written as ONE word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 429: 03/21/2026 dict=MW, L=44723.1, hw=karkarī, user=srhodes
+old = water-jar
+new = water jar
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 424: 03/21/2026 dict=MW, L=44697.4, hw=karkandhu, user=srhodes
+old = karkandhu f. 
+new = karkandhū f. 
+comment = "Typo – Please note that this correction appears to follow the printed text, as there is NO indication of a short vowel for the Feminine form !"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 423: 03/21/2026 dict=MW, L=44366.3, hw=karagṛhīti, user=srhodes
+old = levying taxes (and ‘shaking hands’)
+new = levying taxes
+comment = "Typo – Typo – Please note that in the annexure, the Supplemental Homonym is printed as: ""karagṛhīti f. levying taxes (and ‘shaking hands’)"". HOWEVER, the portion in parenthesis ""(and ‘shaking hands’): OBVIOUSLY applies to the Main Entry Headword: ""karagṛhīti the act of taking the hand, Hcar. [ID=44050]""."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 422: 03/21/2026 dict=MW, L=44050, hw=karagṛhīti, user=srhodes
+old = "the act of taking the hand, Hcar."
+new = "the act of taking the hand (and ‘shaking hands’), Hcar."
+comment = "Typo – Please note that in the annexure, the Supplemental Homonym is printed as: ""karagṛhīti f. levying taxes (and ‘shaking hands’)"". HOWEVER, the portion in parenthesis ""(and ‘shaking hands’): OBVIOUSLY applies to the Main Entry Headword: "" the act of taking the hand, Hcar. [ID=44050]"". Therefore, TWO supplementary additions must be taken into account. Here, the original Headword, ""kara—gṛhīti f. [ID=44050]"", must include this new Supplemental definition: ""shaking hands"", and therefore needs to be marked with the ""circle-S"" symbol in the Hierarchy List Display, along with the aforesaid number ""1"" to distinguish this Homonym."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 421: 03/21/2026 dict=MW, L=44050, hw=karagṛhīti, user=srhodes
+old = Homonym Number Missing
+new = "Please add the number ""1"" to the right side of this Headword in the hierarchy list to properly mark the location of this Homonym. This represents a unique case, whereby the supplemental entry from the annexure introduces a Homonym, which previously did not exist. Upon the insertion of this Supplemental word into the Main Entries, the Homonym simultaneously comes into existence and REQUIRES the numerical distinction to be added to the Window Display and to this Headword located within the Hierarchy List Column. You will see that some following Headwords also are Homonyms by the well known fact the pūrvapada ""kara"" Itself is a Homonym, thus generating compounds that are Homonyms as well, ALL of which use and require the numberings ""1"" and ""2""."
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 420: 03/21/2026 dict=MW, L=44366.3, hw=karagṛhīti, user=srhodes
+old = Homonym Number Missing
+new = "Please add the number ""2"" to the right side of this Headword in the hierarchy list to properly mark the location of this Homonym. This represents a unique case, whereby the supplemental entry from the annexure introduces a Homonym, which previously did not exist. Upon the insertion of this Supplemental word into the Main Entries, the Homonym simultaneously comes into existence and REQUIRES the numerical distinction to be added to the Window Display and to this Headword located within the Hierarchy List Column. You will see that some following Headwords also are Homonyms by the well known fact the pūrvapada ""kara"" Itself is a Homonym, thus generating compounds that are Homonyms as well, ALL of which use and require the numberings ""1"" and ""2"". For this particular case, I suggest introducing the number ""2"" In Front Of the ""circle-S"" symbol that indicates the Supplemental entry."
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 402: 03/18/2026 dict=MW, L=56720, hw=kolāhala, user=srhodes
+old = m. N. of a prince
+new = "(as), m. N. of a prince"
+comment = Typo – Please note that this correction follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 401: 03/18/2026 dict=MW, L=56719, hw=kolāhala, user=srhodes
+old = m. f.
+new = "(as, ā), m. f."
+comment = "Typo – Please note that this correction follows the printed text. Also, you may consider adding the Feminine Gender Headword ""kolāhalā"" to the Hierarchy List Column so as to be a ""Searchable"" Headword in its own right. This is the standard approach, at many places in MW dictionary."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 400: 03/17/2026 dict=MW, L=157625, hw=mantharā, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 399: 03/17/2026 dict=MW, L=157588, hw=manthāna, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 398: 03/17/2026 dict=MW, L=157550, hw=mantha, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 397: 03/17/2026 dict=MW, L=157550, hw=manthā, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 396: 03/17/2026 dict=MW, L=157573, hw=manthana, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 395: 03/17/2026 dict=MW, L=157563, hw=manthaviṣkambha, user=srhodes
+old = ch°-stick
+new = ch°stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 394: 03/17/2026 dict=MW, L=157560, hw=manthadaṇḍaka, user=srhodes
+old = ch°-stick
+new = ch°stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 393: 03/17/2026 dict=MW, L=157559.1, hw=manthadaṇḍīkṛta, user=srhodes
+old = ch°-stick
+new = ch°stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 392: 03/17/2026 dict=MW, L=157559, hw=manthadaṇḍa, user=srhodes
+old = ch°-stick
+new = ch°stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 391: 03/17/2026 dict=MW, L=155209, hw=mathin, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 390: 03/17/2026 dict=MW, L=157823, hw=mandara, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 389: 03/17/2026 dict=MW, L=155198, hw=mathanācala, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 388: 03/17/2026 dict=MW, L=154476, hw=mañjīra, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 387: 03/17/2026 dict=MW, L=40725, hw=ovilī, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 386: 03/17/2026 dict=MW, L=132036, hw=pratyargala, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 385: 03/17/2026 dict=MW, L=84, hw=aṃśuka, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 384: 03/17/2026 dict=MW, L=89923, hw=dadhicāra, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 383: 03/17/2026 dict=MW, L=89736, hw=daṇḍāhata, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 382: 03/17/2026 dict=MW, L=89697, hw=daṇḍaviṣkambha, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 381: 03/17/2026 dict=MW, L=89571.18, hw=daṇḍa, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 380: 03/17/2026 dict=MW, L=81599, hw=takrāṭa, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 379: 03/17/2026 dict=MW, L=185246, hw=vaṭara, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 378: 03/17/2026 dict=MW, L=202281, hw=viṣkambha, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 377: 03/17/2026 dict=MW, L=244870, hw=sindhumantha, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 376: 03/17/2026 dict=MW, L=207788, hw=vaiśākharajju, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 375: 03/17/2026 dict=MW, L=129062, hw=peṣī, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 374: 03/17/2026 dict=MW, L=112098, hw=netra, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 373: 03/17/2026 dict=MW, L=44057, hw=karagharṣin, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 372: 03/17/2026 dict=MW, L=44055, hw=karagharṣaṇa, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 371: 03/17/2026 dict=MW, L=51717, hw=kuṭhara, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 370: 03/17/2026 dict=MW, L=51718, hw=kuṭhara, user=srhodes
+old = churning-stick
+new = churning stick
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 369: 03/17/2026 dict=MW, L=42734, hw=kathārambha, user=srhodes
+old = story-telling
+new = storytelling
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 367: 03/17/2026 dict=MW, L=240690, hw=sahasravat, user=srhodes
+old = th° fold
+new = th°fold
+comment = "Typo – Please note ALL such numbers ending in the suffix ""fold"", are properly written as ONE word. Therefore, please make this a Global Correction!"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 366: 03/17/2026 dict=MW, L=229371, hw=saṃjñaka, user=srhodes
+old = 2. saṃjña
+new = 2. saṃjñā
+comment = "Typo – Please note that this correction is a possible ""Print Change"", depending on how you read the print. Also, this correction follows the Great Authority of Böhtlingk PW."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 365: 03/16/2026 dict=MW, L=1737.1, hw=aṅgulīyaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 364: 03/16/2026 dict=MW, L=1737, hw=aṅgulīya, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 362: 03/16/2026 dict=MW, L=1704, hw=aṅgurīyaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 361: 03/16/2026 dict=MW, L=1703, hw=aṅgurīya, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 360: 03/16/2026 dict=MW, L=62507, hw=gaḍuka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 356: 03/16/2026 dict=MW, L=174448, hw=ratnāṅgulīyaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 355: 03/16/2026 dict=MW, L=174447, hw=ratnāṅgurīyaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 350: 03/16/2026 dict=MW, L=192132, hw=vālaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 349: 03/16/2026 dict=MW, L=44224, hw=karāroṭa, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 342: 03/15/2026 dict=MW, L=174766, hw=rathī, user=srhodes
+old = cart-load
+new = cartload
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 341: 03/15/2026 dict=MW, L=214213, hw=śalāṭa, user=srhodes
+old = cart-load
+new = cartload
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 340: 03/15/2026 dict=MW, L=214785, hw=śākaṭīna, user=srhodes
+old = cart-load
+new = cartload
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 339: 03/15/2026 dict=MW, L=214770, hw=śākaṭa, user=srhodes
+old = cart-load
+new = cartload
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 337: 03/15/2026 dict=MW, L=190295, hw=vājagandhya, user=srhodes
+old = cart-load
+new = cartload
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 330: 03/14/2026 dict=MW, L=153292, hw=bhojanasamaya, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 329: 03/14/2026 dict=MW, L=153292, hw=bhojanasamaya, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 327: 03/14/2026 dict=MW, L=153278, hw=bhojanakāla, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 326: 03/14/2026 dict=MW, L=206276, hw=velā, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 325: 03/14/2026 dict=MW, L=225351, hw=ṣaṣṭhakāla, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 324: 03/14/2026 dict=MW, L=71355.1, hw=caturthakālam, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 323: 03/14/2026 dict=MW, L=71355.1, hw=caturthakāla, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 322: 03/14/2026 dict=MW, L=169670, hw=yathākāla, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 321: 03/14/2026 dict=MW, L=49362, hw=kāla, user=srhodes
+old = meal-time
+new = mealtime
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 320: 03/14/2026 dict=MW, L=92417, hw=divyapāṭala, user=srhodes
+old = pale-red
+new = pale red
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 319: 03/14/2026 dict=MW, L=224713, hw=śvetarakta, user=srhodes
+old = pale-red
+new = pale red
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 318: 03/14/2026 dict=MW, L=224713, hw=śvetarakta, user=srhodes
+old = pale-red
+new = pale red
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 317: 03/14/2026 dict=MW, L=43793, hw=kamala, user=srhodes
+old = pale-red
+new = pale red
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 315: 03/14/2026 dict=MW, L=43901, hw=kamaṇḍalu, user=srhodes
+old = water-jar
+new = water jar
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 306: 03/13/2026 dict=MW, L=43700.2, hw=kaphakarakṣaya, user=srhodes
+old = kaphakarakṣaya
+new = kaphakṣaya
+comment = "Typo – Please note that this correction precisely follows the printed text. The online Headword as erroneously carried the portion ""kara"" within the compound."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 305: 03/13/2026 dict=MW, L=43700.1, hw=kaphakarakūrcikā, user=srhodes
+old = kaphakarakūrcikā
+new = kaphakūrcikā
+comment = "Typo – Please note that this correction precisely follows the printed text. The online Headword as erroneously carried the portion ""kara"" within the compound."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 304: 03/13/2026 dict=MW, L=62783, hw=gaṇḍabhitti, user=srhodes
+old = cheek-bone
+new = cheekbone
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 298: 03/12/2026 dict=MW, L=170980, hw=yaṣṭinivāsa, user=srhodes
+old = pigeon-house
+new = pigeon house
+comment = "Typo – Attention Jim Funderburk, Merriam-Webster agrees! As can be seen, the ""hyphen"" has been removed. By the way, here is another important consideration: ""the term “pigeon house” was deﬁned synonymously with dovecote by Noah Webster (1828) and J. C. Loudon (1838)."" By the way, I wonder if Andhrabharati will still like to retain his ""Hyphen"" against the authorative standard!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 297: 03/12/2026 dict=MW, L=113515, hw=pañjara, user=srhodes
+old = dove-cot
+new = dovecot
+comment = "Typo – Attention Jim Funderburk, Merriam-Webster agrees! As can be seen, the ""hyphen"" has been removed. By the way, here is another important consideration: ""the term “pigeon house” was deﬁned synonymously with dovecote by Noah Webster (1828) and J. C. Loudon (1838)."" By the way, I wonder if Andhrabharati will still like to retain his ""Hyphen"" against the authorative standard!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 296: 03/12/2026 dict=MW, L=192127, hw=vālāgra, user=srhodes
+old = dove-cot
+new = dovecot
+comment = "Typo – Attention Jim Funderburk, Merriam-Webster agrees! As can be seen, the ""hyphen"" has been removed. By the way, here is another important consideration: ""the term “pigeon house” was deﬁned synonymously with dovecote by Noah Webster (1828) and J. C. Loudon (1838)."" By the way, I wonder if Andhrabharati will still like to retain his ""Hyphen"" against the authorative standard!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 295: 03/12/2026 dict=MW, L=43651, hw=kapotapālikā, user=srhodes
+old = "dove-cot, pigeon-house"
+new = "dovecot, pigeon house"
+comment = "Typo – Please note that there are TWO corrections being made here, and by the way, attention Jim Funderburk, Merriam-Webster agrees! As can be seen, the ""hyphens"" have been removed, and in one case ONE word, and in the other case TWO words. By the way, here is another important consideration: ""the term “pigeon house” was deﬁned synonymously with dovecote by Noah Webster (1828) and J. C. Loudon (1838)."" By the way, I wonder if Andhrabharati will still like to retain his ""Hyphens"" against the authorative standard!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 292: 03/12/2026 dict=MW, L=263272, hw=hiraṇyapraüga, user=srhodes
+old = fore-part
+new = forepart
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 291: 03/12/2026 dict=MW, L=43630, hw=kapucchala, user=srhodes
+old = fore-part
+new = forepart
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 280: 03/11/2026 dict=MW, L=61330, hw=khānila, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 279: 03/11/2026 dict=MW, L=61324, hw=khānaka, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 277: 03/11/2026 dict=MW, L=61285, hw=khanika, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 276: 03/11/2026 dict=MW, L=61271, hw=khanaka, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 273: 03/11/2026 dict=MW, L=126201, hw=puraṃdara, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 272: 03/11/2026 dict=MW, L=150740, hw=bhitticaura, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 271: 03/11/2026 dict=MW, L=150740, hw=bhitticaura, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 268: 03/11/2026 dict=MW, L=249781, hw=suruṅgāhi, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 266: 03/11/2026 dict=MW, L=187402, hw=varṇaviloḍaka, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 265: 03/11/2026 dict=MW, L=43770, hw=varṇaviloḍaka, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 264: 03/11/2026 dict=MW, L=43770, hw=kapāṭaghna, user=srhodes
+old = house-breaker
+new = housebreaker
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 262: 03/11/2026 dict=MW, L=193107, hw=vidaṇḍa, user=srhodes
+old = door-key
+new = door key
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 261: 03/11/2026 dict=MW, L=43377, hw=kapāṭodghāṭana, user=srhodes
+old = door-key
+new = door key
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 260: 03/11/2026 dict=MW, L=78844.1, hw=kapāṭodghāṭana, user=srhodes
+old = door-key
+new = door key
+comment = Placement Error
+status = No change required
+------------------------------------------------------------------------
+
+Case 257: 03/10/2026 dict=MW, L=78844.1, hw=jānvantarā, user=srhodes
+old = Placement Error
+new = "The supplemental insertion of this Headword should be placed just after the word ""jānvakna [ID=78849]"" in the Hierarchical listing of words. This correction appears to be obvious, as it is required according to the standard Alphabetical Order of words."
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 250: 03/08/2026 dict=MW, L=263368, hw=hiraṇyinī, user=srhodes
+old = gold-mine
+new = gold mine
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 249: 03/08/2026 dict=MW, L=263368, hw=hiraṇyin, user=srhodes
+old = gold-mine
+new = gold mine
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 248: 03/08/2026 dict=MW, L=259396, hw=svarṇākara, user=srhodes
+old = gold-mine
+new = gold mine
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 246: 03/08/2026 dict=MW, L=47378, hw=kāñcanabhū, user=srhodes
+old = gold-dust
+new = gold dust
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 239: 03/07/2026 dict=MW, L=41966, hw=kaṭākṣāveṣaṇa, user=srhodes
+old = kaṭākṣāveṣaṇa
+new = kaṭākṣāvekṣaṇa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 236: 03/05/2026 dict=MW, L=64788, hw=gāndharva, user=srhodes
+old = "mf(gāndharvī-)n. belonging or relating to the Gandharvas (especially vivāha, or vidhi, "
+new = "mf(gāndharvī)n. belonging or relating to the Gandharvas (especially vivāha or vidhi, "
+comment = Typo – Please note TWO corrections made.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 234: 03/05/2026 dict=MW, L=92805, hw=dīpaśikhā, user=srhodes
+old = l°-black
+new = lampblack
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 233: 03/05/2026 dict=MW, L=92774, hw=dīpakūpī, user=srhodes
+old = l°
+new = lamp (or lantern)
+comment = "Typo – Please note that this is a suggested ""Print Change"", based upon the fact that the ""contraction mark"" used here will reference the Preceding Word: ""lampblack"", which will give the incorrect meaning !"
+status = No change required
+------------------------------------------------------------------------
+
+Case 230: 03/05/2026 dict=MW, L=92773, hw=dīpakiṭṭa, user=srhodes
+old = lamp-black
+new = lampblack
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 229: 03/05/2026 dict=MW, L=158169, hw=marāla, user=srhodes
+old = lamp-black
+new = lampblack
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 228: 03/05/2026 dict=MW, L=244344, hw=siddhakajjala, user=srhodes
+old = lamp-black
+new = lampblack
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 219: 03/04/2026 dict=MW, L=228479, hw=saṃgataka, user=srhodes
+old = story-teller
+new = storyteller
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 218: 03/04/2026 dict=MW, L=42754, hw=kathika, user=srhodes
+old = story-teller
+new = storyteller
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 215: 03/04/2026 dict=MW, L=42725, hw=kathāprāṇa, user=srhodes
+old = story-teller
+new = storyteller
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 213: 03/04/2026 dict=MW, L=42700, hw=kathanika, user=srhodes
+old = story-teller
+new = storyteller
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 212: 03/04/2026 dict=MW, L=42694, hw=kathaka, user=srhodes
+old = story-teller
+new = storyteller
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 208: 03/03/2026 dict=MW, L=42615, hw=kaṇḍolaka, user=srhodes
+old = store-room
+new = storeroom
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 206: 03/03/2026 dict=MW, L=123750, hw=piṭhara, user=srhodes
+old = store-room
+new = storeroom
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 205: 03/03/2026 dict=MW, L=56901, hw=koṣṭhaka, user=srhodes
+old = store-room
+new = storeroom
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 203: 03/03/2026 dict=MW, L=41493, hw=kakubhādinī, user=srhodes
+old = kakubhādinī
+new = kakubhādanī
+comment = "Typo – Please note that this Headword  ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3985092783"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 196: 03/03/2026 dict=MW, L=224973, hw=ṣaṭcakra, user=srhodes
+old = ājñākhya
+new = ājñā
+comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984486559"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 192: 03/02/2026 dict=MW, L=42559, hw=kaṇṭhīla, user=srhodes
+old = mf(ī).
+new = mf(ā).
+comment = "Typo – Please note that this ""Print Change"" has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3983224987"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 190: 03/02/2026 dict=MW, L=79075, hw=jālagoṇikā, user=srhodes
+old = churning-vessel
+new = churning vessel
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 189: 03/02/2026 dict=MW, L=157562, hw=manthapātra, user=srhodes
+old = ch°-vessel
+new = ch° vessel
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 188: 03/02/2026 dict=MW, L=42559, hw=kaṇṭhīla, user=srhodes
+old = churning-vessel
+new = churning vessel
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 187: 03/02/2026 dict=MW, L=42557, hw=kaṇṭhālā, user=srhodes
+old = churning-vessel
+new = churning vessel
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 186: 03/02/2026 dict=MW, L=42557, hw=kaṇṭhāla, user=srhodes
+old = churning-vessel
+new = churning vessel
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 185: 03/02/2026 dict=MW, L=42556, hw=kaṇṭhāla, user=srhodes
+old = churning-vessel
+new = churning vessel
+comment = "Typo – Please note that this word is better written as TWO words   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 180: 02/28/2026 dict=MW, L=21495, hw=asmadruh, user=srhodes
+old = "(nom. -dhrúk), (nom. -dhrúk), "
+new = "(nom. -dhrúk),"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 163: 02/25/2026 dict=MW, L=125755.1, hw=punarnava, user=srhodes
+old = finger-nail
+new = fingernail
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 162: 02/25/2026 dict=MW, L=125755.2, hw=punarnavā, user=srhodes
+old = hog-weed
+new = hogweed
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 161: 02/25/2026 dict=MW, L=195350, hw=viṭāṭikā, user=srhodes
+old = hog-weed
+new = hogweed
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 149: 02/23/2026 dict=MW, L=41381, hw=kaṃsaniṣūdana, user=srhodes
+old = "m. id.,"
+new = "m. N. of Kṛṣṇa,"
+comment = "Typo – Please note that this is a REQUIRED ""print change"", due to the insertion of the TWO prior supplemental words, which INTERRUPT the ""anuvṛtti"" being indicated by the abbreviation: ""id."". I believe this is considered as some ort of DANGLING issue."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 145: 02/22/2026 dict=MW, L=142237, hw=phena, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 144: 02/22/2026 dict=MW, L=115980, hw=payodhika, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 143: 02/22/2026 dict=MW, L=242528, hw=sāmudra, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 142: 02/22/2026 dict=MW, L=242528, hw=sāmudra, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 141: 02/22/2026 dict=MW, L=235278, hw=samudraphena, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 140: 02/22/2026 dict=MW, L=32085, hw=udadhimala, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 139: 02/22/2026 dict=MW, L=78138, hw=jalahāsa, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 137: 02/22/2026 dict=MW, L=262861, hw=hiṇḍīra, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 136: 02/22/2026 dict=MW, L=244828, hw=sindhukapha, user=srhodes
+old = cuttle-fish
+new = cuttlefish
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 135: 02/22/2026 dict=MW, L=42173, hw=kaṭṭāraka, user=srhodes
+old = MISSING HEADWORD
+new = "ADD THE HEADWORD ""kaṭṭārikā f."" to the SEARCHABLE HIERARCHY"
+comment = MISSING HEADWORD
+status = PENDING
+------------------------------------------------------------------------
+
+Case 132: 02/22/2026 dict=MW, L=657.1, hw=akṣisaṃskāra, user=srhodes
+old = Placement Error
+new = "The supplemental insertion of this Headword should be placed just before the word ""akṣisaṃtarjana [ID=657]"" in the Hierarchical listing of words. The reason for this correction is that the anusvāra preceding the letter ""s"" is ALWAYS alphabetically placed BEFORE the anusvāra preceding the letter ""t"" !"
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 131: 02/22/2026 dict=MW, L=242535, hw=sāmudrikā, user=srhodes
+old = "(), f."
+new = "(ikā), f."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 130: 02/22/2026 dict=MW, L=242536, hw=sāmudraka, user=srhodes
+old = sea-salt
+new = sea salt
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 129: 02/22/2026 dict=MW, L=242536, hw=sāmudraka, user=srhodes
+old = sea-salt
+new = sea salt
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 128: 02/22/2026 dict=MW, L=242527, hw=sāmudra, user=srhodes
+old = sea-salt
+new = sea salt
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 127: 02/22/2026 dict=MW, L=235296, hw=samudralavaṇa, user=srhodes
+old = sea-salt
+new = sea salt
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 126: 02/22/2026 dict=MW, L=241158, hw=samudralavaṇa, user=srhodes
+old = sea-salt
+new = sea salt
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 125: 02/22/2026 dict=MW, L=241158, hw=sāgarottha, user=srhodes
+old = sea-salt
+new = sea salt
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 124: 02/22/2026 dict=MW, L=41972.1, hw=kaṭakaṭa, user=srhodes
+old = sea-salt
+new = sea salt
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 120: 02/22/2026 dict=MW, L=92185, hw=dinaspṛś, user=srhodes
+old = week-days
+new = weekdays
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 119: 02/22/2026 dict=MW, L=92182, hw=dinavāra, user=srhodes
+old = week-day
+new = weekday
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 118: 02/22/2026 dict=MW, L=92164, hw=dinapa, user=srhodes
+old = week-day
+new = weekday
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 117: 02/22/2026 dict=MW, L=92281, hw=divasavāra, user=srhodes
+old = week-day
+new = weekday
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 116: 02/22/2026 dict=MW, L=192450, hw=vāsareśa, user=srhodes
+old = week-day
+new = weekday
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 115: 02/22/2026 dict=MW, L=192437, hw=vāsara, user=srhodes
+old = week-day
+new = weekday
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 113: 02/22/2026 dict=MW, L=188730, hw=vasu, user=srhodes
+old = °sor-dhā́rā-prayoga m. N. of wk.
+new = °rā-prayoga m. N. of wk.
+comment = Typo – Please note that this correction EXACTLY follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 112: 02/22/2026 dict=MW, L=188730, hw=vasu, user=srhodes
+old = "(°soṣ-pati m. prob. ‘the god of wealth or property’, AV. i, 12 [Paipp. asoṣ-p°, ‘the god of life’]; °sor-dhā́rā"
+new = "(vasoṣ-pati m. prob. ‘the god of wealth or property’, AV. i, 12 [Paipp. asoṣ-p°, ‘the god of life’]; vásor-dhā́rā"
+comment = "Typo – Please note that this correction EXACTLY follows the printed text. This correction is important, because otherwise the correct ""Accent"" is missed !"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 111: 02/21/2026 dict=MW, L=106683, hw=niraham, user=srhodes
+old = ind.
+new = mfn.
+comment = "Typo – Please note that this is a suggested ""print change"", following other lexicons. Also, note that under the Headword ""aham [ID=21660]"", MW mentions ""hence declinable"", in other words NOT indeclinable. Andhrabharati agrees with this ""print change"" here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3938800505"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 110: 02/21/2026 dict=MW, L=106683, hw=niraham, user=srhodes
+old = ind.
+new = mfn.
+comment = "Typo – Please note that this is a suggested ""print change"", following other lexicons. Also, note that under the Headword ""aham [ID=21660]"", MW mentions ""hence declinable"", in other words NOT indeclinable. Andhrabharati agrees with this ""print change"" here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3938800505"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 109: 02/21/2026 dict=MW, L=41921, hw=kaṭakhādaka, user=srhodes
+old = eating much voracious
+new = "eating much, voracious"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 95: 02/20/2026 dict=MW, L=223821, hw=śroṇibimba, user=srhodes
+old = waist-band
+new = waistband
+comment = "Typo – Please note that this word is better written as a single word  without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 91: 02/20/2026 dict=MW, L=41739.1, hw=kacāra, user=srhodes
+old = Placement Error
+new = "The supplemental insertion of this Headword into the Main Entries, should be placed just after the word ""kacāṭura m. [ID=41743]"" in the Hierarchical listing of words. This correction has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3931343062"
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 88: 02/19/2026 dict=MW, L=147094, hw=brahmasātkṛta, user=srhodes
+old = Brahmā
+new = Brahmă
+comment = "Typo – Please note that this is an important correction following the printed page. The reference here is to the Supreme Spirit brahman (neuter gender). NOT the Brahmā Creator God (masculine gender),"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 82: 02/18/2026 dict=MW, L=241804, hw=sādhvīka, user=srhodes
+old = 2. sādhvīka
+new = sādhvīka
+comment = "Typo – NUMBERING ERROR!  Please note that there is NO number ""2"" on the printed page. Furthermore, there is NO number ""1"" either !"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 81: 02/18/2026 dict=MW, L=230688, hw=sadayahṛdaya, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 80: 02/18/2026 dict=MW, L=263863, hw=hṛdayin, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 79: 02/18/2026 dict=MW, L=263861, hw=hṛdayika, user=srhodes
+old = warm-hearted
+new = warmhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 77: 02/18/2026 dict=MW, L=263859, hw=hṛdayālu, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 76: 02/18/2026 dict=MW, L=263804, hw=hṛdayavat, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 74: 02/18/2026 dict=MW, L=257011, hw=sphūrtimat, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 73: 02/18/2026 dict=MW, L=58576, hw=klinnahṛd, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 72: 02/18/2026 dict=MW, L=58576, hw=klinnahṛd, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 70: 02/18/2026 dict=MW, L=54890.1, hw=kṛpātman, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 69: 02/18/2026 dict=MW, L=44583, hw=karuṇārdra, user=srhodes
+old = tender-hearted
+new = tenderhearted
+comment = "Typo – Please note that this word is better written as ONE word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 64: 02/17/2026 dict=MW, L=41549, hw=kakṣastha, user=srhodes
+old = heap
+new = hip
+status = PENDING
+------------------------------------------------------------------------
+
+Case 63: 02/17/2026 dict=MW, L=74347, hw=ciru, user=srhodes
+old = shoulder-joint
+new = shoulder joint
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 62: 02/17/2026 dict=MW, L=242517, hw=sāmudga, user=srhodes
+old = hip-joint
+new = hip joint
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 61: 02/17/2026 dict=MW, L=242517, hw=sāmudga, user=srhodes
+old = shoulder-joint
+new = shoulder joint
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 60: 02/17/2026 dict=MW, L=254160, hw=skandha, user=srhodes
+old = shoulder-joint
+new = shoulder joint
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 59: 02/17/2026 dict=MW, L=254160, hw=skandha, user=srhodes
+old = shoulder-joint
+new = shoulder joint
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 58: 02/17/2026 dict=MW, L=41541, hw=kakṣadhara, user=srhodes
+old = shoulder-joint
+new = shoulder joint
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 38: 02/12/2026 dict=MW, L=36439, hw=upasvāvat, user=srhodes
+old = "N., of "
+new = N. of 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 33: 02/12/2026 dict=MW, L=5489.2, hw=anātmatā, user=srhodes
+old = Placement Error
+new = "The supplemental insertion of this Headword should be placed just after the word ""anātmajña [ID=5494 ]"" in the Hierarchical listing of words. The reason for this correction follows the standard of placing of words under the related ""pūrvapada"", which in this case is ""ātman"" !  Then, as MW treats feminine words ending in ""-tā"" exactly as proper compounds, then the alphabetical placement should be precisely as stated above."
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 02/07/2026 dict=MW, L=244367.1, hw=siddhatvatā, user=srhodes
+old = siddha—tva—tā f.
+new = siddha—tā f.
+comment = "Typo – Please note that this is a Headword Typo!  This correction involves a few considerations: 1) the printed text reads: “(or -tā, f.)”.  Therefore, the Headword MUST BE CHANGED to ""siddhatā""; 2) Furthermore, you may consider this to be some sort of grouping with the primary listing ""siddhatva"" ?  3) The Indentation of this word ""siddhatā"" may need to be changed in the Hierarchy List so as to match equal status with the Headword ""siddhatva"". It is generally accepted that neuter words ending in ""-tva"" and feminine words ending in ""-tā"" have EQUAL status in the category of derivation."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 02/05/2026 dict=MW, L=40652, hw=ojman, user=srhodes
+old = speed velocity
+new = "speed, velocity"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 02/05/2026 dict=MW, L=40624, hw=oja, user=srhodes
+old = "= ojas, L."
+new = "n. = ojas, L."
+comment = "Typo – Please note that this is a suggested ""print change"", in order to state the correct gender (i.e. neuter), as given by APTE and VCP."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 02/04/2026 dict=MW, L=197470, hw=viprapriya, user=srhodes
+old = Br° 
+new = Br°s 
+comment = Typo – Please note that this correction follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+

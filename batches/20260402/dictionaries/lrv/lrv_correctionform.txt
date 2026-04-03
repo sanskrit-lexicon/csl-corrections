@@ -1,0 +1,255 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of April 03, 2026
+38 correction records, with 26 PENDING
+
+Case 575: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
+old = lot uses
+new = lotuses
+status = PENDING
+------------------------------------------------------------------------
+
+Case 574: 04/03/2026 dict=LRV, L=8236, hw=kamanachada, user=srhodes
+old = kamanachada
+new = kamanacchada
+comment = "Typo – This may indicate a Global Correction to be made in regard to the following transformation: ""-ch"" »»» ""-ccha"""
+status = PENDING
+------------------------------------------------------------------------
+
+Case 550: 03/31/2026 dict=LRV, L=8184, hw=kapila, user=srhodes
+old = haing
+new = having
+comment = Typo – This could be made as a Global Correction (in case it happens again).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 533: 03/29/2026 dict=LRV, L=8169, hw=kapālikā, user=srhodes
+old = pot-sherd
+new = potsherd
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 532: 03/29/2026 dict=LRV, L=8167.1, hw=kapālabhṛt, user=srhodes
+old = kapāla-pāṇi m.
+new = kapāla-bhṛt m.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 531: 03/29/2026 dict=LRV, L=8167.2, hw=kapālamālin, user=srhodes
+old = kapāla-pāṇi m.
+new = kapāla-mālin m.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 530: 03/29/2026 dict=LRV, L=8167.3, hw=kapālaśiras, user=srhodes
+old = kapāla-pāṇi m.
+new = kapāla-śiras m.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 529: 03/29/2026 dict=LRV, L=8149.1, hw=kanyikā, user=srhodes
+old = kanyakā f. 1. A virgin
+new = kanyikā f. 1. A virgin
+status = PENDING
+------------------------------------------------------------------------
+
+Case 430: 03/22/2026 dict=LRV, L=8109, hw=kaṃdalī, user=srhodes
+old = lotus-seed
+new = lotus seed
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 418: 03/21/2026 dict=LRV, L=8092, hw=kaṃda, user=srhodes
+old = camphire
+new = camphor
+status = PENDING
+------------------------------------------------------------------------
+
+Case 417: 03/21/2026 dict=LRV, L=8056.1, hw=kadaṃbakavāyu, user=srhodes
+old = kadaṃbakavāyu
+new = This Headword Should Possibly be Deleted
+comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 416: 03/21/2026 dict=LRV, L=8055.1, hw=kadaṃbakakorakanyāya, user=srhodes
+old = kadaṃbakakorakanyāya
+new = This Headword Should Possibly be Deleted
+comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 415: 03/21/2026 dict=LRV, L=8054.1, hw=kadaṃbakānila, user=srhodes
+old = kadaṃbakānila
+new = This Headword Should Possibly be Deleted
+comment = "Typo – Please note that this compound beginning with ""kadaṃbaka"" may be an erroneous listing. It needs further examination by an authority."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 368: 03/17/2026 dict=LRV, L=7998, hw=kathaka, user=srhodes
+old = story-teller
+new = storyteller
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 313: 03/14/2026 dict=LRV, L=7986, hw=katamāla, user=srhodes
+old = Cf. katamāla
+new = Cf. khatamāla
+comment = Typo – Updated with Correct ID NUMBER !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 312: 03/14/2026 dict=LRV, L=7978, hw=katamāla, user=srhodes
+old = Cf. katamāla
+new = Cf. khatamāla
+status = PENDING
+------------------------------------------------------------------------
+
+Case 311: 03/14/2026 dict=LRV, L=7978, hw=kaṃḍolī, user=srhodes
+old = Chaṇḍāla
+new = Caṇḍāla
+comment = "Typo – This is a suggested correction by the following reasoning: By virtue of the letters ""ṇ"", ""ḍ"" and ""ā"", one is led to believe that the letter ""Ch"" also indicates itself. BUT actually the letter ""Ch"" is a layman's way depicting the letter ""C"" in Sanskrit. In other words ""Ch"" is the WRONG letter!  Now I know that Andhrabharati approves of such things because, ""That is just how it is"", but I prefer things to be Accurate, regardless of (wrong) usage. Also, such a spelling as ""Chaṇḍāla"" goes against Andhrabharati's own principal that ""Different Modalities should NOT be mixed within a single Entity or Form etc."". That is a ""paraphrase"", but I am certain that Andhrabharati will catch my point. Therefore maintaining this spelling ""Chaṇḍāla"" is really a bit of a ""Pickle"" !  Therefore, I am making all such correction in my own dictionary!"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 303: 03/13/2026 dict=LRV, L=7929, hw=kaṃṭaka, user=srhodes
+old = finger-nail
+new = fingernail
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 252: 03/09/2026 dict=LRV, L=7903, hw=kaṭhora, user=srhodes
+old = hard hearted
+new = hard-hearted
+status = No change required
+------------------------------------------------------------------------
+
+Case 195: 03/03/2026 dict=LRV, L=7778, hw=kakṣa, user=srhodes
+old = side or plank
+new = side or flank
+comment = "Typo – Please note that this is a ""print change"", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984382078"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 194: 03/03/2026 dict=LRV, L=7840, hw=kaṃjaja, user=srhodes
+old = (n.).
+new = (m.).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 177: 02/27/2026 dict=LRV, L=7780, hw=kakṣāvekṣaka, user=srhodes
+old = door-keeper
+new = doorkeeper
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 176: 02/27/2026 dict=LRV, L=7767.1, hw=kakudmisutā, user=srhodes
+old = kakudmin-kanyā
+new = kakudmin-sutā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 102: 02/21/2026 dict=LRV, L=7736, hw=auṣasa, user=srhodes
+old = day-break
+new = daybreak
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 101: 02/21/2026 dict=LRV, L=7727, hw=auśanasa, user=srhodes
+old = by a uśanas
+new = by uśanas
+status = PENDING
+------------------------------------------------------------------------
+
+Case 84: 02/19/2026 dict=LRV, L=7662, hw=audbhida, user=srhodes
+old = rock-salt
+new = rock salt
+comment = "Typo – Please note that this word is better written as a TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 83: 02/19/2026 dict=LRV, L=7660, hw=auddhārika, user=srhodes
+old = fron
+new = from
+comment = "Typo – Please note that this could be considered as a ""Global"" correction, in case it occurs multiple times. OF COURSE a blank space must be used to ""isolate"" the single word: ""_fron_"", so as to avoid tampering with such words as ""front, frontal etc.""."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 50: 02/17/2026 dict=LRV, L=7637, hw=autpattika, user=srhodes
+old = In-born
+new = Inborn
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 49: 02/17/2026 dict=LRV, L=7619, hw=aucitī, user=srhodes
+old = inode
+new = mode
+status = PENDING
+------------------------------------------------------------------------
+
+Case 40: 02/13/2026 dict=LRV, L=7594, hw=odana, user=srhodes
+old = washed
+new = mashed
+comment = "Typo – Please note that this is a suggested ""print change"", following APTE, MW and the comment by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3894827551"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 39: 02/13/2026 dict=LRV, L=7592, hw=otaprota, user=srhodes
+old = crosswise and length-wise
+new = crosswise and lengthwise
+comment = "Typo – Of course since it is printed ""crosswise"", it must also be ""lengthwise"". Please make this a Global correction of ""length-wise"" TO BECOME ""lengthwise"" !"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 28: 02/11/2026 dict=LRV, L=7566, hw=aiśānī, user=srhodes
+old = north-east
+new = northeast
+comment = "Typo – Better without the ""Hyphen"" !  Global Correction may be made here as well."
+status = No change required
+------------------------------------------------------------------------
+
+Case 27: 02/11/2026 dict=LRV, L=7567, hw=aiśvara, user=srhodes
+old = powerfuly
+new = powerful
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20: 02/09/2026 dict=LRV, L=7541, hw=aidaṃparya, user=srhodes
+old = baying
+new = having
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 02/09/2026 dict=LRV, L=7526.1, hw=aikṣubhārika, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = "Typo – Please note that this word is better written as a single word   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 18: 02/09/2026 dict=LRV, L=7526, hw=aikṣuka, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = "Typo – Please note that this word is better written as a single word   without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 13: 02/07/2026 dict=LRV, L=7498, hw=suih, user=srhodes
+old = suih
+new = such
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 02/06/2026 dict=LRV, L=7470, hw=etad, user=srhodes
+old = “samīpavarti caitado rūpam
+new = “samīpavarti caitad rūpam
+comment = "Typo – This is a suggested ""print change"", pending approval by authorities."
+status = PENDING
+------------------------------------------------------------------------
+

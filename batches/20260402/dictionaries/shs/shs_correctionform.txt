@@ -1,0 +1,430 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 03, 2026
+63 correction records, with 36 PENDING
+
+Case 570: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
+old = fore arm
+new = forearm
+comment = "Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 555: 04/01/2026 dict=SHS, L=9017, hw=kaphakṛrccikā, user=srhodes
+old = kaphakṛrccikā
+new = kaphakūrccikā
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 537: 03/30/2026 dict=SHS, L=8977, hw=kapiladruma, user=srhodes
+old = sweet scented
+new = sweet-scented
+comment = Typo – a suggested correction.
+status = No change required
+------------------------------------------------------------------------
+
+Case 524: 03/27/2026 dict=SHS, L=8898, hw=kandalu, user=srhodes
+old = kandalu
+new = kandālu
+comment = "Typo – Please note that this is a possible Print Change, following the Headword as spelled by VCP, SKD and MW."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 510: 03/26/2026 dict=SHS, L=304, hw=agniṣṭha, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 501: 03/26/2026 dict=SHS, L=29936, hw=bhrāṣṭra, user=srhodes
+old = frying-pan
+new = frying pan
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 486: 03/26/2026 dict=SHS, L=8878, hw=kanthādhāraṇa, user=srhodes
+old = patch-work
+new = patchwork
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 485: 03/26/2026 dict=SHS, L=8877, hw=kanthā, user=srhodes
+old = Usināra
+new = Uśīnara
+comment = "Typo – Please note that this is a suggested Print Change, in order to correctly spell this word. Of what use is a Dictionary that frequently misspells words ?  Please ponder...."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 484: 03/26/2026 dict=SHS, L=8873, hw=kanera, user=srhodes
+old = kanera
+new = kanerā
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 483: 03/26/2026 dict=SHS, L=8868, hw=kanīci, user=srhodes
+old = Gunja
+new = Guñjā
+comment = "Typo – Please note that this is a suggested Print Change, in order to correctly spell this word. Of what use is a Dictionary that frequently misspells words ?  Please ponder...."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 482: 03/26/2026 dict=SHS, L=8858, hw=kanakasthalī, user=srhodes
+old = gold-mine
+new = gold mine
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 481: 03/26/2026 dict=SHS, L=8851, hw=kanakaparāga, user=srhodes
+old = Gold-dust
+new = Gold dust
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 454: 03/23/2026 dict=SHS, L=9329, hw=karṇejapa, user=srhodes
+old = tale-bearer
+new = talebearer
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 414: 03/19/2026 dict=SHS, L=8804, hw=kathika, user=srhodes
+old = story-teller
+new = storyteller
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 413: 03/19/2026 dict=SHS, L=8801, hw=kathārambha, user=srhodes
+old = story telling
+new = storytelling
+comment = Typo – Please note that these TWO words are better written as a ONE word. Please consider this to be a Global Correction.
+status = No change required
+------------------------------------------------------------------------
+
+Case 412: 03/19/2026 dict=SHS, L=8801, hw=kathāprāṇa, user=srhodes
+old = story telling
+new = storytelling
+comment = Typo – Please note that these TWO words are better written as a ONE word. Please consider this to be a Global Correction.
+status = No change required
+------------------------------------------------------------------------
+
+Case 411: 03/19/2026 dict=SHS, L=8799, hw=kathāprāṇa, user=srhodes
+old = story teller
+new = storyteller
+comment = Typo – Please note that these TWO words are better written as a ONE word. Please consider this to be a Global Correction.
+status = No change required
+------------------------------------------------------------------------
+
+Case 410: 03/19/2026 dict=SHS, L=8785, hw=kathaka, user=srhodes
+old = story teller
+new = storyteller
+comment = Typo – Please note that these TWO words are better written as a ONE word. Please consider this to be a Global Correction.
+status = No change required
+------------------------------------------------------------------------
+
+Case 407: 03/18/2026 dict=SHS, L=8773, hw=kati, user=srhodes
+old = (-tiḥ-tiḥ-ti)
+new = (-ti-ti-ti)
+comment = Typo – Please note that this correction is needed for the correct form which is identical in  nom. voc. and acc. plural (for Masc. Fem and Neut).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 406: 03/18/2026 dict=SHS, L=8772, hw=katara, user=srhodes
+old = maṃ)
+new = mat)
+comment = Typo – Please note that this correction is needed for the correct form in the Neuter Gender.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 405: 03/18/2026 dict=SHS, L=8770, hw=katama, user=srhodes
+old = maṃ)
+new = mat)
+comment = Typo – Please note that this correction is needed for the correct form in the Neuter Gender.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 403: 03/18/2026 dict=SHS, L=8763, hw=kaṇḍolaka, user=srhodes
+old = store room
+new = storeroom
+comment = Typo – Better written as ONE word.
+status = No change required
+------------------------------------------------------------------------
+
+Case 363: 03/16/2026 dict=SHS, L=469, hw=aṅgurīya, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 358: 03/16/2026 dict=SHS, L=28683, hw=bālaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 354: 03/16/2026 dict=SHS, L=36140, hw=vālaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 353: 03/16/2026 dict=SHS, L=8703, hw=kaṇṭaka, user=srhodes
+old = work-shop
+new = workshop
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 352: 03/16/2026 dict=SHS, L=36140, hw=vālaka, user=srhodes
+old = finger-ring
+new = finger ring
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 351: 03/16/2026 dict=SHS, L=8703, hw=vālaka, user=srhodes
+old = work-shop
+new = workshop
+comment = "Typo – Please note that this word is better written as TWO words without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 345: 03/16/2026 dict=SHS, L=8758, hw=kaṇḍūyanaka, user=srhodes
+old = ticklace
+new = tickles
+status = PENDING
+------------------------------------------------------------------------
+
+Case 344: 03/16/2026 dict=SHS, L=8744, hw=kaṇṭhīrava, user=srhodes
+old = lion elephant
+new = "lion, elephant"
+comment = "Typo – Please note that this is a suggested ""Print Change"". The reason being that some sort of ""puncutation"" is required to ""separate"" the TWO meanings."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 332: 03/15/2026 dict=SHS, L=8715, hw=kaṇṭakīja, user=srhodes
+old = kaṇṭakīja
+new = kaṇṭakija
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 289: 03/12/2026 dict=SHS, L=8703, hw=kaṇṭaka, user=srhodes
+old = work-shop
+new = workshop
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 258: 03/11/2026 dict=SHS, L=8663, hw=kaṭinatā, user=srhodes
+old = kaṭinatā
+new = kaṭinathā
+comment = Typo – Headword Typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 254: 03/10/2026 dict=SHS, L=8649, hw=kaṭphala, user=srhodes
+old = egg plant
+new = eggplant
+comment = Typo – Better written as ONE word.
+status = No change required
+------------------------------------------------------------------------
+
+Case 253: 03/10/2026 dict=SHS, L=8643, hw=kaṭusneha, user=srhodes
+old = mustard sea 
+new = mustard seed 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 241: 03/08/2026 dict=SHS, L=8615, hw=kaṭisūtra, user=srhodes
+old = waist-band
+new = waistband
+comment = "Typo – Please note that this word is better written as a single word without the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 238: 03/07/2026 dict=SHS, L=8590, hw=kaṭabhī, user=srhodes
+old = Cardiaspermum
+new = Cardiospermum
+status = PENDING
+------------------------------------------------------------------------
+
+Case 237: 03/07/2026 dict=SHS, L=8586, hw=kaṭapūṭana, user=srhodes
+old = kaṭapūṭana
+new = kaṭapūtana
+comment = Typo – Headword Typo !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 235: 03/05/2026 dict=SHS, L=19064, hw=dīpaśikhā, user=srhodes
+old = Lamp black
+new = Lampblack
+comment = "Typo – Please note that these two words are better written as ONE word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 231: 03/05/2026 dict=SHS, L=19053, hw=dīpakiṭṭa, user=srhodes
+old = Lamp black
+new = Lampblack
+comment = "Typo – Please note that these two words are better written as ONE word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 223: 03/05/2026 dict=SHS, L=8573, hw=kañjara, user=srhodes
+old = BHAHMA
+new = BRAHMA
+status = PENDING
+------------------------------------------------------------------------
+
+Case 222: 03/05/2026 dict=SHS, L=8565, hw=kañjuka, user=srhodes
+old = kañjuka
+new = kañcuka
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 210: 03/04/2026 dict=SHS, L=8533, hw=kacāku, user=srhodes
+old = Ill disposed
+new = Ill-disposed
+comment = "Typo – Please note that this word is better written with the ""hyphen"" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!"
+status = No change required
+------------------------------------------------------------------------
+
+Case 200: 03/03/2026 dict=SHS, L=8486, hw=kakṣāvat, user=srhodes
+old = kakṣāvat
+new = kakṣīvat
+comment = "Typo – Please note that this is a Headword Typo and ""Print Change"". This correction will require the Relocation of the Headword within the Hiearchy Display List, according to proper Alphabetical Order (as well as updating the ID number). Also, Please note that this VERY important correction has been confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3984756406 LB Finally, there is the consideration of possibly correcting the given Etymology: ""E. kakṣā a reply"", but I leave that detail up to those who are Learned."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 184: 03/02/2026 dict=SHS, L=8513, hw=kaṅkuṣṭa, user=srhodes
+old = kaṅkuṣṭa
+new = kaṅkuṣṭha
+status = PENDING
+------------------------------------------------------------------------
+
+Case 178: 02/28/2026 dict=SHS, L=8495, hw=kaṅkaṭerī, user=srhodes
+old = Turmerick
+new = Turmeric
+comment = Typo – This spelling appears to be better.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 168: 02/26/2026 dict=SHS, L=8470, hw=kakudmin, user=srhodes
+old = lions
+new = loins
+status = PENDING
+------------------------------------------------------------------------
+
+Case 167: 02/26/2026 dict=SHS, L=8469, hw=kakudmin, user=srhodes
+old = Pumped
+new = Humped
+status = PENDING
+------------------------------------------------------------------------
+
+Case 150: 02/23/2026 dict=SHS, L=8459, hw=kaṃsika, user=srhodes
+old = bellmetal
+new = bell metal
+comment = Typo – Better written as TWO words. Also a Global Correction to be made!
+status = No change required
+------------------------------------------------------------------------
+
+Case 148: 02/23/2026 dict=SHS, L=8438, hw=auṣadhi, user=srhodes
+old = n. (-dhi) 
+new = f. (-dhi) 
+comment = Typo – Please note the Gender Change.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 147: 02/23/2026 dict=SHS, L=8437, hw=auṣadha, user=srhodes
+old = any herd
+new = any herb
+status = PENDING
+------------------------------------------------------------------------
+
+Case 146: 02/22/2026 dict=SHS, L=22327, hw=niṣpādita, user=srhodes
+old = made produced
+new = "made, produced"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 114: 02/22/2026 dict=SHS, L=8427, hw=aurddhaśrotasika, user=srhodes
+old = Canges
+new = Ganges
+status = PENDING
+------------------------------------------------------------------------
+
+Case 107: 02/21/2026 dict=SHS, L=8570, hw=kañjaka, user=srhodes
+old = Mayana
+new = Myna
+comment = "Typo – please note that this is a suggested ""print change"", you may check Wikipedia for reference to this Bird."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 90: 02/20/2026 dict=SHS, L=7611, hw=upānaha, user=srhodes
+old = upānaha
+new = upānah
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 89: 02/20/2026 dict=SHS, L=8413, hw=aupānahya, user=srhodes
+old = E. upānaha
+new = E. upānah
+status = PENDING
+------------------------------------------------------------------------
+
+Case 66: 02/18/2026 dict=SHS, L=8377, hw=auttānapādi, user=srhodes
+old = MENU
+new = MANU
+status = PENDING
+------------------------------------------------------------------------
+
+Case 65: 02/18/2026 dict=SHS, L=8375, hw=auttami, user=srhodes
+old = MENU
+new = MANU
+status = PENDING
+------------------------------------------------------------------------
+
+Case 46: 02/16/2026 dict=SHS, L=8365, hw=aukthaka, user=srhodes
+old = aukthaka
+new = aukthika
+comment = Typo - Headword Typo and Print Change!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 43: 02/15/2026 dict=SHS, L=8355, hw=oṣadhopati, user=srhodes
+old = oṣadhopati
+new = oṣadhīpati
+comment = Typo - Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 34: 02/12/2026 dict=SHS, L=8315, hw=aiśvaryya, user=srhodes
+old = away
+new = sway
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24: 02/10/2026 dict=SHS, L=8301, hw=aindri, user=srhodes
+old = patronymick
+new = patronymic 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 02/05/2026 dict=SHS, L=8232, hw=ettha, user=srhodes
+old = ettha
+new = etya
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
