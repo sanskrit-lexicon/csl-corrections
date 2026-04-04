@@ -30,10 +30,11 @@
  $fp = fopen($fileout,"a");
  fwrite($fp,"$out\n");
  fclose($fp);
+ /* 04-04-2026 do NOT revise cfr.tsv on Cologne server
  // (b) correction_response/cfr.tsv
  $fileout = "correction_response/cfr.tsv";
  $fp = fopen($fileout,"a");
  fwrite($fp,"$out\n");
  fclose($fp);
-
+ */
 ?>
