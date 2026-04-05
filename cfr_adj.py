@@ -146,9 +146,8 @@ def generate_output(dcode,filename,recs):
    if os.path.exists(dir):
     print("ERROR: %s exists, but is not a directory" % dir)
     exit(1)
-   print('ERROR: Missing directory',dir)
-   exit(1)
-   #os.mkdir(dir,0755)
+   os.makedirs(dir)
+   print("CREATED directory %s" % dir)
  if dcode != 'ALL':
   write_flag = check_for_new(allarr,fileout)
  else: # always rewrite the global correctionform.txt file
