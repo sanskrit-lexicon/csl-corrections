@@ -23,11 +23,21 @@ jobs:
       - name: Run fetch script
         run: ./fetch_yesterday_cfr.sh
 
+      - name: Append daily corrections to cfr_ab.tsv
+        run: |
+          DAILY_FILE="daily/${{ steps.date.outputs.date }}/cfr-${{ steps.date.outputs.date }}.tsv"
+          if [ -s "$DAILY_FILE" ]; then
+            cat "$DAILY_FILE" >> cfr_ab/cfr_ab.tsv
+            echo "Appended $(wc -l < "$DAILY_FILE") rows to cfr_ab/cfr_ab.tsv"
+          else
+            echo "No daily corrections file to append"
+          fi
+
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add daily/${{ steps.date.outputs.date }}/
+          git add daily/${{ steps.date.outputs.date }}/ cfr_ab/cfr_ab.tsv
           git diff --staged --stat || true
           git commit -m "[CRON] daily corrections for ${{ steps.date.outputs.date_formatted }}" || echo "No changes to commit"
 
