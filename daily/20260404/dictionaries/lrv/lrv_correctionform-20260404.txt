@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 05, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
 Case 2: 04/04/2026 dict=LRV, L=8267, hw=kaṃbala, user=srhodes
 old = dew-lap
 new = dewlap
 comment = Typo – Better without the "Hyphen".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 1: 04/04/2026 dict=LRV, L=8262, hw=kaṃpāka, user=srhodes
 old = kaṃpāka
 new = kaṃpāṅka
 comment = Typo – Please note that this is a possible "Print Change", that needs investigation. The spelling as "kaṃpāka", might be incorrect.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
