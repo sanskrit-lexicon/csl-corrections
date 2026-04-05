@@ -1167,3 +1167,12 @@ code : Headword : Old  : New : Comment
 8877 : kanTA : Usināra : Uśīnara : 
 8898 : kandalu : kandalu : kandAlu : Also confirmed by position of headword. 
 -----------------------------------------------------------------------
+04-05-2026
+Ref : https://github.com/sanskrit-lexicon/csl-corrections/issues/125#issuecomment-4183819710
+code : Headword : Old  : New : Comment
+8365 : OkTaka : OkTaka : OkTika : Because of Wak suffix. Verified from other dictionaries.
+8513 : kaNkuzwa : kaNkuzwa : kaNkuzWa : SHS is very unclear in reading. Verified from other dictionaries.
+8770 : katara : kataraM : katarat : For neuter gender.
+8772 : katama : katamaM : katamat : For neuter gender.
+8773 : kati : katiH-tiH-ti : kati-ti-ti : It is the same in all genders.
+-----------------------------------------------------------------------
