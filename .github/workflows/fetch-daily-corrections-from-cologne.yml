@@ -39,11 +39,20 @@ jobs:
         run: |
           CORRECTION_FILE="daily/${{ steps.date.outputs.date }}/correctionform-${{ steps.date.outputs.date }}.txt"
           if [ -s "$CORRECTION_FILE" ]; then
-            CONTENT=$(cat "$CORRECTION_FILE" | jq -Rs .)
-            curl -s -X POST https://api.github.com/repos/${{ github.repository }}/issues \
+            TITLE="Daily Corrections - ${{ steps.date.outputs.date_formatted }}"
+            EXISTING=$(curl -s "https://api.github.com/repos/${{ github.repository }}/issues?state=all&labels=daily-corrections" \
               -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-              -H "Content-Type: application/json" \
-              -d "{\"title\": \"Daily Corrections - ${{ steps.date.outputs.date_formatted }}\", \"body\": $CONTENT, \"labels\": [\"daily-corrections\"]}"
+              -H "Accept: application/vnd.github.v3+json" | jq -r '.[] | select(.title == "'"$TITLE"'") | .number')
+            if [ -n "$EXISTING" ]; then
+              echo "Issue with title '$TITLE' already exists (#$EXISTING), skipping..."
+            else
+              CONTENT=$(cat "$CORRECTION_FILE" | jq -Rs .)
+              curl -s -X POST https://api.github.com/repos/${{ github.repository }}/issues \
+                -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+                -H "Content-Type: application/json" \
+                -d "{\"title\": \"$TITLE\", \"body\": $CONTENT, \"labels\": [\"daily-corrections\"]}"
+              echo "Created issue: $TITLE"
+            fi
           else
             echo "No corrections to create issue for"
           fi
