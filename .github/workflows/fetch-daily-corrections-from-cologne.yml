@@ -27,8 +27,10 @@ jobs:
         run: |
           DAILY_FILE="daily/${{ steps.date.outputs.date }}/cfr-${{ steps.date.outputs.date }}.tsv"
           if [ -s "$DAILY_FILE" ]; then
-            cat "$DAILY_FILE" >> cfr_ab/cfr_ab.tsv
-            echo "Appended $(wc -l < "$DAILY_FILE") rows to cfr_ab/cfr_ab.tsv"
+            TEMP_FILE=$(mktemp)
+            cat cfr_ab/cfr_ab.tsv "$DAILY_FILE" > "$TEMP_FILE"
+            sort -u "$TEMP_FILE" > cfr_ab/cfr_ab.tsv
+            echo "Deduplicated and saved to cfr_ab/cfr_ab.tsv"
           else
             echo "No daily corrections file to append"
           fi
