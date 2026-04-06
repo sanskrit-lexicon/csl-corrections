@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 06, 2026
-1 correction records, with 1 PENDING
+1 correction records, with 0 PENDING
 
 Case 8: 04/05/2026 dict=MW, L=20444.1, hw=asakRt, user=giuliogey
 old = with saṃvat-sarasya, oftener than once a year,
 new = with saṃvatsarasya, oftener than once a year,
 comment = Nonsensical reproduction of the printed version (where the division samvat-sara is due to a linebreak)
-status = PENDING
+status = Corrected 2026-04-06
 ------------------------------------------------------------------------
 

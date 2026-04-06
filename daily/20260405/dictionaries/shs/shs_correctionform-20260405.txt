@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 06, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
 Case 2: 04/05/2026 dict=SHS, L=9072, hw=kambhū, user=srhodes
 old = kambhū
 new = kambhu
 comment = Typo – Please note that this is a suggested "Print Change", since the word is in neuter gender and ends in short "u".
-status = PENDING
+status = Corrected 2026-04-06
 ------------------------------------------------------------------------
 
 Case 1: 04/05/2026 dict=SHS, L=9051, hw=kampana, user=srhodes
 old = Trembling quivering
 new = Trembling, quivering
-status = PENDING
+status = Corrected 2026-04-06
 ------------------------------------------------------------------------
 
