@@ -29,7 +29,7 @@ jobs:
           if [ -s "$DAILY_FILE" ]; then
             TEMP_FILE=$(mktemp)
             cat cfr_ab/cfr_ab.tsv "$DAILY_FILE" > "$TEMP_FILE"
-            sort -u "$TEMP_FILE" > cfr_ab/cfr_ab.tsv
+            awk '!seen[$0]++' "$TEMP_FILE" > cfr_ab/cfr_ab.tsv
             echo "Deduplicated and saved to cfr_ab/cfr_ab.tsv"
           else
             echo "No daily corrections file to append"
