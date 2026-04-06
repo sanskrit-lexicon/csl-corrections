@@ -1176,3 +1176,8 @@ code : Headword : Old  : New : Comment
 8772 : katama : katamaM : katamat : For neuter gender.
 8773 : kati : katiH-tiH-ti : kati-ti-ti : It is the same in all genders.
 -----------------------------------------------------------------------
+04-06-2026
+Ref : https://github.com/sanskrit-lexicon/csl-corrections/issues/135
+code : Headword : Old  : New : Comment
+9051 : kamBU : kamBU : kamBu : Neuter word. confirmed from other dictionaries.
+-----------------------------------------------------------------------
