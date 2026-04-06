@@ -2,31 +2,31 @@ Sanskrit Lexicon Correction Form History for AP
 As of April 06, 2026
 5 correction records, with 5 PENDING
 
-Case 6: 04/05/2026 dict=AP, L=11756.036, hw=kalpavṛkṣaḥ, user=srhodes
+Case 7: 04/05/2026 dict=AP, L=11756.036, hw=kalpavṛkṣaḥ, user=srhodes
 old = cake'lpitakalpapādapaḥ
 new = cakre'lpitakalpapādapaḥ
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 5: 04/05/2026 dict=AP, L=11756.034, hw=kalpapādapaḥ, user=srhodes
+Case 6: 04/05/2026 dict=AP, L=11756.034, hw=kalpapādapaḥ, user=srhodes
 old = cake'lpitakalpapādapaḥ
 new = cakre'lpitakalpapādapaḥ
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 4: 04/05/2026 dict=AP, L=11756.032, hw=kalpadrumaḥ, user=srhodes
+Case 5: 04/05/2026 dict=AP, L=11756.032, hw=kalpadrumaḥ, user=srhodes
 old = cake'lpitakalpapādapaḥ
 new = cakre'lpitakalpapādapaḥ
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 3: 04/05/2026 dict=AP, L=11756.03, hw=kalpataruḥ, user=srhodes
+Case 4: 04/05/2026 dict=AP, L=11756.03, hw=kalpataruḥ, user=srhodes
 old = cake'lpitakalpapādapaḥ
 new = cakre'lpitakalpapādapaḥ
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 2: 04/05/2026 dict=AP, L=11756.022, hw=kalpādiḥ, user=srhodes
+Case 3: 04/05/2026 dict=AP, L=11756.022, hw=kalpādiḥ, user=srhodes
 old = visṛjāmyahṛm
 new = visṛjāmyaham
 status = PENDING
