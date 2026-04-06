@@ -13,6 +13,8 @@ funderburkjim@gmail.com Oct 18, 2014: Use 'dictionaries' subdirectory.
  Dec 17, 2019 check_for_new function. Thus, if no new corrections for
     a given dictionary xxx, then dictionaries/xxx/xxx_correctionform.txt is
     not changed.
+ Apr 06, 2026 Check for occurrence of 'Which Dictionary?' to decide whether there 
+     is a header or not. If header, skip it. Otherwise, process all lines.
 """
 from __future__ import print_function
 import re,sys,os
@@ -200,15 +202,17 @@ def check_for_new(allarr,fileout):
 def adjust(filein,fileout):
  f = codecs.open(filein,'r','utf-8')
  n = 0
- recsin=[]
+ recsin = []
  dictmap = {}
+ first_line = True
  for line in f:
   line = line.rstrip('\r\n')
   n = n + 1
+  if first_line:
+   first_line = False
+   if 'Which Dictionary?' in line:
+    continue  # skip header line
   rec = CFR(line,n)
-  if n == 1:
-   hrec = rec
-   continue
   recsin.append(rec)
   d = rec.dict.upper()
   if d not in dictmap:
