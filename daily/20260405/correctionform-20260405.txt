@@ -1,0 +1,48 @@
+Sanskrit Lexicon Correction Form History
+As of April 06, 2026
+7 correction records, with 7 PENDING
+
+Case 7: 04/05/2026 dict=MW, L=20444.1, hw=asakRt, user=giuliogey
+old = with saṃvat-sarasya, oftener than once a year,
+new = with saṃvatsarasya, oftener than once a year,
+comment = Nonsensical reproduction of the printed version (where the division samvat-sara is due to a linebreak)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/05/2026 dict=AP, L=11756.036, hw=kalpavṛkṣaḥ, user=srhodes
+old = cake'lpitakalpapādapaḥ
+new = cakre'lpitakalpapādapaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/05/2026 dict=AP, L=11756.034, hw=kalpapādapaḥ, user=srhodes
+old = cake'lpitakalpapādapaḥ
+new = cakre'lpitakalpapādapaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/05/2026 dict=AP, L=11756.032, hw=kalpadrumaḥ, user=srhodes
+old = cake'lpitakalpapādapaḥ
+new = cakre'lpitakalpapādapaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/05/2026 dict=AP, L=11756.03, hw=kalpataruḥ, user=srhodes
+old = cake'lpitakalpapādapaḥ
+new = cakre'lpitakalpapādapaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/05/2026 dict=AP, L=11756.022, hw=kalpādiḥ, user=srhodes
+old = visṛjāmyahṛm
+new = visṛjāmyaham
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/05/2026 dict=SHS, L=9072, hw=kambhū, user=srhodes
+old = kambhū
+new = kambhu
+comment = Typo – Please note that this is a suggested "Print Change", since the word is in neuter gender and ends in short "u".
+status = PENDING
+------------------------------------------------------------------------
+
