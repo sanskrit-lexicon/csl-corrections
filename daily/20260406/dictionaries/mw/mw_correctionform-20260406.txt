@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 07, 2026
+1 correction records, with 1 PENDING
+
+Case 7: 04/06/2026 dict=MW, L=216947, hw=śithilambhāva, user=srhodes
+old = śithila—m-bhāva See a-ś°.
+new = śithila—ṃ-bhāva See a-ś°.
+comment = Typo – Please note that this is a suggested "Print Change". I am aware that this is a VERY minor point, but the referenced Headword: " See a-ś° " , is spelled as follows: "aśithilaṃbhāva [ID=19547]".  As you can see the letter "ṃ" here is printed as "anusvāra". Therefore, when the Negative Particle is removed, we should retain the Spelling as "śithilaṃbhāva", rather than with the (solid) letter "m".  Also, it seems to me that when the letter "m" is isolated between TWO hyphens as it is above: "—m-",  it is BETTER to be printed as anusvāra: "—ṃ-". Again this is a minor point, but I prefer consistency and "Normalizing" rather than "Hack" variations. If this correction is approved, it will affect BOTH the Headword "śithilambhāva" and the specific parsed form listed above.
+status = PENDING
+------------------------------------------------------------------------
+
