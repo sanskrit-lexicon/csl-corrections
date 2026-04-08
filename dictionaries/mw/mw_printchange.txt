@@ -2220,3 +2220,9 @@ L code : Headword : Old  : New : Comment
 42559 : kaRqila: I : A : Feminine suffix change
 174870 : raB: raraBma : raraBmA : Elsewhere in MW too it is raraBmA.
 -----------------------------------------------------------------
+04-08-2026
+Source: @srhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/140
+L code : Headword : Old  : New : Comment
+216947 : SiTilamBAva : SiTila—m-BAva : SiTila—M-BAva : Capital M for prefix
+-----------------------------------------------------------------

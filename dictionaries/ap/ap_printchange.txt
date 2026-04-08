@@ -538,3 +538,9 @@ L code : Headword : Old  : New : Comment
 11630 : karRewirawirA : karRewirawirA : karRewiriwirA : wa-wi
 11717.024 : kalaSodaDi : kalaSodaDi : kalaSodaDiH : 
 -----------------------------------------------------------------------
+04-08-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/140
+L code : Headword : Old  : New : Comment
+11771.024 : kalyARapaYcakaH : {%a.%} horse with white feet and white mouth, a kind of horse : a horse with white feet and white mouth, a kind of horse : Not adjective, masculine noun
+11771.030 : kalyARayogaH : {%a.%} kind of astrological yoga : a kind of astrological yoga : Not adjective, masculine noun
+11771.026 : kalyARabIjam : kalyARabIjam : kalyARabIjaH : Gender correction, masculine per MW,PW,SKD
