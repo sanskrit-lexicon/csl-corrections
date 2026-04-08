@@ -1,16 +1,16 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 08, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
 Case 2: 04/07/2026 dict=LRV, L=8302.1, hw=karatālī, user=srhodes
 old = kara-tālikā f.
 new = kara-tālī f.
-status = PENDING
+status = Noted for generic change at https://github.com/sanskrit-lexicon/LRV/issues/28
 ------------------------------------------------------------------------
 
 Case 1: 04/07/2026 dict=LRV, L=8298, hw=karatala, user=srhodes
 old = the-palm
 new = the palm
-status = PENDING
+status = Corrected 08 Apr 2026
 ------------------------------------------------------------------------
 

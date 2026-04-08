@@ -1,30 +1,30 @@
 Sanskrit Lexicon Correction Form History
 As of April 08, 2026
-4 correction records, with 4 PENDING
+4 correction records, with 0 PENDING
 
 Case 4: 04/07/2026 dict=AP, L=11783, hw=kavacaḥ, user=srhodes
 old = kettle-drum
 new = kettledrum
 comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 3: 04/07/2026 dict=SHS, L=30872, hw=malākula, user=srhodes
 old = malākula
 new = mahākula
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 08 Apr 2026
 ------------------------------------------------------------------------
 
 Case 2: 04/07/2026 dict=LRV, L=8302.1, hw=karatālī, user=srhodes
 old = kara-tālikā f.
 new = kara-tālī f.
-status = PENDING
+status = Noted for generic change at https://github.com/sanskrit-lexicon/LRV/issues/28
 ------------------------------------------------------------------------
 
 Case 1: 04/07/2026 dict=LRV, L=8298, hw=karatala, user=srhodes
 old = the-palm
 new = the palm
-status = PENDING
+status = Corrected 08 Apr 2026
 ------------------------------------------------------------------------
 
