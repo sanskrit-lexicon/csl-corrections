@@ -1,0 +1,53 @@
+Sanskrit Lexicon Correction Form History
+As of April 07, 2026
+7 correction records, with 7 PENDING
+
+Case 7: 04/06/2026 dict=MW, L=216947, hw=śithilambhāva, user=srhodes
+old = śithila—m-bhāva See a-ś°.
+new = śithila—ṃ-bhāva See a-ś°.
+comment = Typo – Please note that this is a suggested "Print Change". I am aware that this is a VERY minor point, but the referenced Headword: " See a-ś° " , is spelled as follows: "aśithilaṃbhāva [ID=19547]".  As you can see the letter "ṃ" here is printed as "anusvāra". Therefore, when the Negative Particle is removed, we should retain the Spelling as "śithilaṃbhāva", rather than with the (solid) letter "m".  Also, it seems to me that when the letter "m" is isolated between TWO hyphens as it is above: "—m-",  it is BETTER to be printed as anusvāra: "—ṃ-". Again this is a minor point, but I prefer consistency and "Normalizing" rather than "Hack" variations. If this correction is approved, it will affect BOTH the Headword "śithilambhāva" and the specific parsed form listed above.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/06/2026 dict=AP, L=11775, hw=kalla, user=srhodes
+old = Missing Headword
+new = Please note that this is a suggestion to add the TWO Headwords indicated here: "kallatā"  AND  "kallatvam" , to the Hierarchy List Column, so as to be "searchable" Headwords within the online dictionary. It probably would also receive an indentation in the Hierarchy List, while being located directly beneath the Parent Headword "kalla". Also, this indicates a GLOBAL ISSUE in regard to ALL such derivative forms which are "Buried" under the related Parent Headword in the Window Display and indicated in the following manner: "˚tā"  OR  "-tā" , AND  "˚tvam"  OR  "-tvam".
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/06/2026 dict=AP, L=11773, hw=kalyāṇin, user=srhodes
+old = Missing Headword
+new = Please note that this is a suggestion to add the Feminine compound indicated here: "kalyāṇinī" , to the Hierarchy List Column, so as to be a "searchable" compound within the online dictionary.  It probably would also receive an indentation in the Hierarchy List, while being located directly beneath the Parent Headword "kalyāṇin". Also, this indicates a GLOBAL ISSUE in regard to ALL such Feminine Gender Nouns that currently are NOT listed in the Hierarchy List Display as "Searchable Headwords", but rather lay "Buried" under the Parent Headword, such as is the case here.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/06/2026 dict=AP, L=11772, hw=kalyāṇaka, user=srhodes
+old = Missing Headword
+new = Please note that this is a suggestion to add the Feminine compound indicated here: "kalyāṇikā" , to the Hierarchy List Column, so as to be a "searchable" compound within the online dictionary.  It probably would also receive an additional indentation in the Hierarchy List, while being located directly beneath the Parent Headword "kalyāṇaka". Also, this indicates a GLOBAL ISSUE in regard to ALL such Feminine Gender Nouns that currently are NOT listed in the Hierarchy List Display as "Searchable Headwords", but rather lay "Buried" under the Parent Headword, such as is the case here.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/06/2026 dict=AP, L=11771.026, hw=kalyāṇabījam, user=srhodes
+old = kalyāṇabījam
+new = kalyāṇabījaḥ
+comment = Typo – Please note that this is a possible "Print Change", for the correction of Gender. MW, SKD, VCP, SHS all print this as Masculine Gender (however spelling as kalyāṇavījaḥ).  The accepted variation of  "kalyāṇavījaḥ"  OR  "kalyāṇabījaḥ"  should NOT influence the Gender!  I hope that Andhrabharati will clarify the correct gender: Masculine, Neuter OR Both ???
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/06/2026 dict=AP, L=11771.03, hw=kalyāṇayogaḥ, user=srhodes
+old = -yogaḥ a. kind of astrological yoga.
+new = -yogaḥ a kind of astrological yoga
+comment = Typo – Please note that this is a suggested "Print Change". This compound is listed as ending in the Visarga, which Apte uses to indicate the Masculine Gender. Therefore , this is NOT an Adjective. The italic format: "a." , as used here indicates an "Adjective", but the final Visarga AND the Definition indicate simply a Masculine Gender Noun.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/06/2026 dict=AP, L=11771.024, hw=kalyāṇapañcakaḥ, user=srhodes
+old = -pañcakaḥ a. horse with white feet and white mouth, a kind of horse;
+new = -pañcakaḥ a horse with white feet and white mouth, a kind of horse;
+comment = Typo – Please note that this is a suggested "Print Change". This compound is listed as ending in the Visarga, which Apte uses to indicate the Masculine Gender. Therefore , this is NOT an Adjective. The italic format: "a." , as used here indicates an "Adjective", but the final Visarga AND the Definition indicate simply a Masculine Gender Noun.
+status = PENDING
+------------------------------------------------------------------------
+
