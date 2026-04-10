@@ -1,0 +1,155 @@
+Sanskrit Lexicon Correction Form History
+As of April 10, 2026
+22 correction records, with 22 PENDING
+
+Case 22: 04/09/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21: 04/09/2026 dict=AP, L=11829, hw=kaṣāya, user=srhodes
+old = bhaktapā
+new = bhaktyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20: 04/09/2026 dict=AP, L=11829, hw=kaṣāya, user=srhodes
+old = loghrakaṣāyarūkṣe
+new = lodhrakaṣāyarūkṣe
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 04/09/2026 dict=AP, L=11822, hw=kaṣaṇa, user=srhodes
+old = touch-stone
+new = touchstone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 18: 04/09/2026 dict=AP, L=11821.022, hw=kaṣapāṣāṇaḥ, user=srhodes
+old = touch-stone
+new = touchstone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 04/09/2026 dict=AP, L=11821.02, hw=kaṣapaṭṭikā, user=srhodes
+old = touch-stone
+new = touchstone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/09/2026 dict=AP, L=11821, hw=kaṣa, user=srhodes
+old = touch-stone
+new = touchstone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/09/2026 dict=AP, L=11820, hw=kaṣ, user=srhodes
+old = touch-stone
+new = touchstone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/09/2026 dict=MW, L=170385, hw=yama, user=srhodes
+old = self-control forbearance
+new = self-control, forbearance
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes
+old = kaserukāḥ
+new = kaserukā
+comment = Typo – This is a possible "Print Change" that needs investigation. It appears that Three Genders (masculine, neuter and feminine) are being cited for this definition: "a sort of grass". Therefore, "kaserukāḥ" is likely intended as the Feminine Form, which of course should be spelled as "kaserukā". It appears that VCP, SKD and SHS agree. MW also indicates this correction under His Headword "kaśeruka".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/09/2026 dict=AP, L=11816.002, hw=kaseruka, user=srhodes
+old = kaseruka
+new = kaserukam
+comment = Typo – This is a possible "Print Change" that needs investigation. It appears that Three Genders (masculine, neuter and feminine) are being cited for this definition: "a sort of grass". Therefore, "kaseruka" is likely intended as the Neuter Form, which of course should be spelled as "kaserukam".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes
+old = back-bone
+new = backbone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/09/2026 dict=AP, L=11816.002, hw=kaseruka, user=srhodes
+old = back-bone
+new = backbone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/09/2026 dict=AP, L=11816, hw=kaśerukaḥ, user=srhodes
+old = back-bone
+new = backbone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/09/2026 dict=AP, L=11815.002, hw=kaseru, user=srhodes
+old = back-bone
+new = backbone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/09/2026 dict=AP, L=11815, hw=kaśeru, user=srhodes
+old = back-bone
+new = backbone
+comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/09/2026 dict=AP, L=11813, hw=kaśikaḥ, user=srhodes
+old = mungoose
+new = mongoose
+comment = Typo – Please note the following authoritative statement: "It was spelled "mungoose" in the 18th and 19th centuries." However, the spelling in Current Times is now "mongoose".  Therefore this may be considered as a Global Change, so that Users may receive "Modern Day" English Words, rather than 18th Century terminology. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/09/2026 dict=SHS, L=9092, hw=karaja, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/09/2026 dict=SHS, L=9089, hw=karaṅkaśāli, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/09/2026 dict=SHS, L=9088, hw=karaṅka, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/09/2026 dict=SHS, L=9077, hw=karakaṇṭaka, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/09/2026 dict=SHS, L=9077, hw=karakaṇṭaka, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 10, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 04/09/2026 dict=SHS, L=9092, hw=karaja, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/09/2026 dict=SHS, L=9089, hw=karaṅkaśāli, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/09/2026 dict=SHS, L=9088, hw=karaṅka, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/09/2026 dict=SHS, L=9077, hw=karakaṇṭaka, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/09/2026 dict=SHS, L=9077, hw=karakaṇṭaka, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = PENDING
+------------------------------------------------------------------------
+
