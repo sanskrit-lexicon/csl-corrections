@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 11, 2026
+4 correction records, with 4 PENDING
+
+Case 5: 04/10/2026 dict=SHS, L=9131, hw=karabāla, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/10/2026 dict=SHS, L=9113, hw=karatoyā, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/10/2026 dict=SHS, L=9107, hw=karaṇḍa, user=srhodes
+old = honey-comb
+new = honeycomb
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/10/2026 dict=SHS, L=9107, hw=karaṇḍa, user=srhodes
+old = bee-hive
+new = beehive
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
