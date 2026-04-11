@@ -18,7 +18,6 @@ funderburkjim@gmail.com Oct 18, 2014: Use 'dictionaries' subdirectory.
 """
 from __future__ import print_function
 import re,sys,os
-import codecs
 
 def oneline(x):
  parts = re.split(r'[\r\n]',x)
@@ -156,7 +155,7 @@ def generate_output(dcode,filename,recs):
   write_flag = True
  if write_flag:
   print('rewriting',fileout,'(',npending,'pending )')
-  fout = codecs.open(fileout,'w','utf-8')
+  fout = open(fileout,'w')
   for out in allarr:
    fout.write("%s\n" % out)
   fout.close()
@@ -177,7 +176,7 @@ def check_for_new(allarr,fileout):
  if not os.path.exists(fileout):
   return True  # we need to rewrite this file
  # fileout exists.  Get its lines
- with codecs.open(fileout,"r","utf-8") as f:
+ with open(fileout,"r") as f:
   lines = [x.rstrip() for x in f]
  # compare allarr with lines
  if len(allarr) != len(lines):
@@ -200,7 +199,7 @@ def check_for_new(allarr,fileout):
  return rewrite
 
 def adjust(filein,fileout):
- f = codecs.open(filein,'r','utf-8')
+ f = open(filein,'r')
  n = 0
  recsin = []
  dictmap = {}
