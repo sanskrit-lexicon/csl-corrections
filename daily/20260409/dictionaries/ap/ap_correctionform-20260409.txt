@@ -1,52 +1,52 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 10, 2026
-15 correction records, with 15 PENDING
+As of April 11, 2026
+15 correction records, with 2 PENDING
 
 Case 21: 04/09/2026 dict=AP, L=11829, hw=kaṣāya, user=srhodes
 old = bhaktapā
 new = bhaktyā
-status = PENDING
+status = Corrected 11 Apr 2026
 ------------------------------------------------------------------------
 
 Case 20: 04/09/2026 dict=AP, L=11829, hw=kaṣāya, user=srhodes
 old = loghrakaṣāyarūkṣe
 new = lodhrakaṣāyarūkṣe
-status = PENDING
+status = Corrected 11 Apr 2026
 ------------------------------------------------------------------------
 
 Case 19: 04/09/2026 dict=AP, L=11822, hw=kaṣaṇa, user=srhodes
 old = touch-stone
 new = touchstone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 18: 04/09/2026 dict=AP, L=11821.022, hw=kaṣapāṣāṇaḥ, user=srhodes
 old = touch-stone
 new = touchstone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 17: 04/09/2026 dict=AP, L=11821.02, hw=kaṣapaṭṭikā, user=srhodes
 old = touch-stone
 new = touchstone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 16: 04/09/2026 dict=AP, L=11821, hw=kaṣa, user=srhodes
 old = touch-stone
 new = touchstone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 15: 04/09/2026 dict=AP, L=11820, hw=kaṣ, user=srhodes
 old = touch-stone
 new = touchstone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 13: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes
@@ -67,41 +67,41 @@ Case 11: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes
 old = back-bone
 new = backbone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 10: 04/09/2026 dict=AP, L=11816.002, hw=kaseruka, user=srhodes
 old = back-bone
 new = backbone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 9: 04/09/2026 dict=AP, L=11816, hw=kaśerukaḥ, user=srhodes
 old = back-bone
 new = backbone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 8: 04/09/2026 dict=AP, L=11815.002, hw=kaseru, user=srhodes
 old = back-bone
 new = backbone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 7: 04/09/2026 dict=AP, L=11815, hw=kaśeru, user=srhodes
 old = back-bone
 new = backbone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well. Any doctor would prefer this spelling, why deviate now?
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 6: 04/09/2026 dict=AP, L=11813, hw=kaśikaḥ, user=srhodes
 old = mungoose
 new = mongoose
 comment = Typo – Please note the following authoritative statement: "It was spelled "mungoose" in the 18th and 19th centuries." However, the spelling in Current Times is now "mongoose".  Therefore this may be considered as a Global Change, so that Users may receive "Modern Day" English Words, rather than 18th Century terminology. 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
