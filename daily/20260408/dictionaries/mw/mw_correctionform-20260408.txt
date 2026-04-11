@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 09, 2026
-1 correction records, with 1 PENDING
+As of April 11, 2026
+1 correction records, with 0 PENDING
 
 Case 2: 04/08/2026 dict=MW, L=46595.1, hw=kavīndrakarṇābharaṇa, user=srhodes
 old = Indentation Error
 new = Please note that this Supplemental Compound: "kavīndrakarṇābharaṇa" must receive the SAME Triple Indentation as the previous Compound "kavīndrakalpataru [ID=46595]" occurring in the Hierarchy List Display Column. The pūrvapada here being "kavīndra", itself is already Double-Indented! Therefore, BOTH of the following (sibling) compounds must be Triply so.
 comment = Indentation Error
-status = PENDING
+status = Corrected 11 Apr 2026
 ------------------------------------------------------------------------
 

@@ -1,31 +1,31 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 09, 2026
-4 correction records, with 4 PENDING
+As of April 11, 2026
+4 correction records, with 0 PENDING
 
 Case 5: 04/08/2026 dict=AP, L=11810, hw=kaśaḥ, user=srhodes
 old = ━Comp.: kaśatrayam
 new = ━Comp.: kaśātrayam
-status = PENDING
+status = Corrected 11 Apr 2026
 ------------------------------------------------------------------------
 
 Case 4: 04/08/2026 dict=AP, L=11810.02, hw=kaśatrayam, user=srhodes
 old = kaśatrayam
 new = kaśātrayam
 comment = Typo – Please note that the pūrvapada is in fact FEMININE, and retains the long vowel so that we have: "kaśā + trayam". Therefore, this equation MUST be corrected in the Window Display along with the Headword itself. "kaśaḥ + -trayam"  ——TO BECOME—— "kaśā + -trayam". Of course, the citation provided confirms this correction as well: samyak kaśātrayavicāravatā niyuktaḥ Śi.
-status = PENDING
+status = Corrected 11 Apr 2026
 ------------------------------------------------------------------------
 
 Case 3: 04/08/2026 dict=AP, L=11807, hw=kavoṣṇa, user=srhodes
 old = mahurmuhurnyaśvasiṣuḥ
 new = muhurmuhurnyaśvasiṣuḥ
 comment = Typo – Please note that this is a possible "Print Change", pending approval by Dr. Dhaval.
-status = PENDING
+status = Corrected 11 Apr 2026
 ------------------------------------------------------------------------
 
 Case 1: 04/08/2026 dict=AP, L=11795, hw=kavalita, user=srhodes
 old = as is
 new = as in
 comment = Typo – Please note that this is a possible "Print Change", pending approval by Dr. Dhaval.
-status = PENDING
+status = Corrected 11 Apr 2026
 ------------------------------------------------------------------------
 
