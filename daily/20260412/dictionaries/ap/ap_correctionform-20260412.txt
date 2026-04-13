@@ -1,0 +1,29 @@
+Sanskrit Lexicon Correction Form History for AP
+As of April 13, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 04/12/2026 dict=AP, L=11858.02, hw=kāṃsyopadoha, user=srhodes
+old = vesselful milk
+new = vesselful of milk
+comment = Typo – This is a suggested "Print Change" to "smooth out" the apparent sense.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/12/2026 dict=AP, L=13153.002, hw=kā, user=srhodes
+old = kā
+new = krimikā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/12/2026 dict=AP, L=11732.002, hw=kā, user=srhodes
+old = kā
+new = kalāmbikā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/12/2026 dict=AP, L=11732.002, hw=kā, user=srhodes
+old = kā
+new = kalāmbikā
+status = PENDING
+------------------------------------------------------------------------
+
