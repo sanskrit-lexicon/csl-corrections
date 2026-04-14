@@ -1,0 +1,16 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of April 14, 2026
+2 correction records, with 2 PENDING
+
+Case 3: 04/13/2026 dict=LRV, L=8320.1, hw=karavīraka, user=srhodes
+old = cemetory
+new = cemetery
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/13/2026 dict=LRV, L=8320, hw=karavīra, user=srhodes
+old = cemetory
+new = cemetery
+status = PENDING
+------------------------------------------------------------------------
+
