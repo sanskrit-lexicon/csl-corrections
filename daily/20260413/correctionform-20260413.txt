@@ -1,82 +1,75 @@
 Sanskrit Lexicon Correction Form History
 As of April 14, 2026
-12 correction records, with 12 PENDING
+11 correction records, with 2 PENDING
 
-Case 12: 04/13/2026 dict=pw, L=  16231, hw=ASri, user=ejf
+Case 11: 04/13/2026 dict=pw, L=  16231, hw=ASri, user=ejf
 old = ASri f. = ASri
 new = ASri f. = aSri
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 11: 04/13/2026 dict=AP, L=11860.078, hw=kākanāsikī, user=srhodes
+Case 10: 04/13/2026 dict=AP, L=11860.078, hw=kākanāsikī, user=srhodes
 old = kākanāsikī
 new = ???
 comment = Typo – Please note that this Headword needs to be confirmed by authority, as it is not to be found listed in VCP, SKD, SHS or MW.
-status = PENDING
+status = Valid word. SHS mentions it. No change required.
 ------------------------------------------------------------------------
 
-Case 10: 04/13/2026 dict=AP, L=11860, hw=kākaḥ, user=srhodes
+Case 9: 04/13/2026 dict=AP, L=11860, hw=kākaḥ, user=srhodes
 old = kākatindukā
 new = kākatinduka
 comment = Typo – Please note that this might be a "Print Change". As appears to be confirmed by VCP, SKD, SHS and MW.
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 9: 04/13/2026 dict=AP, L=11860.064, hw=kākatindukā, user=srhodes
+Case 8: 04/13/2026 dict=AP, L=11860.064, hw=kākatindukā, user=srhodes
 old = kākatindukā
 new = kākatinduka
 comment = Typo – Please note that this might be a "Print Change". This correction appears to be confirmed by VCP, SKD, SHS and MW. LB Also may require: "-tindukā  ——TO BE CORRECTED—— "-tinduka". ALSO, please note that these DETAILS of FORMATION, must be CORRECTED in the Window Display for each of the THREE GROUPED Compounds !
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 8: 04/13/2026 dict=AP, L=11860.062, hw=kākatikā, user=srhodes
+Case 7: 04/13/2026 dict=AP, L=11860.062, hw=kākatikā, user=srhodes
 old = kākatikā
 new = kākatiktā
 comment = Typo – Please note that this might be a "Print Change". Also may require: "+ -tikā"  ——TO BE CORRECTED—— "+ -tiktā"
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 7: 04/13/2026 dict=AP, L=11860, hw=kākaḥ, user=srhodes
+Case 6: 04/13/2026 dict=AP, L=11860, hw=kākaḥ, user=srhodes
 old = kākatālukina
 new = kākatālukin
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 6: 04/13/2026 dict=AP, L=11860.06, hw=kākatālukina, user=srhodes
+Case 5: 04/13/2026 dict=AP, L=11860.06, hw=kākatālukina, user=srhodes
 old = kākatālukina
 new = kākatālukin
 comment = Typo – Headword Typo!  Also, please note that the portion: "+ -tālukina " MUST be corrected as well to read: "+ -tālukin"
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 5: 04/13/2026 dict=WIL, L=  , hw=udaka, user=
+Case 4: 04/13/2026 dict=WIL, L=  , hw=udaka, user=
 old =  LB 
 new = 
-status = PENDING
+status = Insufficient information
 ------------------------------------------------------------------------
 
-Case 4: 04/13/2026 dict=ae, L=  4533, hw=glean, user=ejf
+Case 3: 04/13/2026 dict=ae, L=  4533, hw=glean, user=ejf
 old = उछ् 
 new = उंछ्
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 3: 04/13/2026 dict=LRV, L=8320.1, hw=karavīraka, user=srhodes
+Case 2: 04/13/2026 dict=LRV, L=8320.1, hw=karavīraka, user=srhodes
 old = cemetory
 new = cemetery
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 2: 04/13/2026 dict=LRV, L=8320, hw=karavīra, user=srhodes
+Case 1: 04/13/2026 dict=LRV, L=8320, hw=karavīra, user=srhodes
 old = cemetory
 new = cemetery
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 04/13/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 

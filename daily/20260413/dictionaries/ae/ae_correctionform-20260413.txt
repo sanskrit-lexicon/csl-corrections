@@ -1,10 +1,10 @@
 Sanskrit Lexicon Correction Form History for AE
 As of April 14, 2026
-1 correction records, with 1 PENDING
+1 correction records, with 0 PENDING
 
-Case 4: 04/13/2026 dict=ae, L=  4533, hw=glean, user=ejf
+Case 3: 04/13/2026 dict=ae, L=  4533, hw=glean, user=ejf
 old = उछ् 
 new = उंछ्
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 

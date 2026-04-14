@@ -1,10 +1,10 @@
 Sanskrit Lexicon Correction Form History for PW
 As of April 14, 2026
-1 correction records, with 1 PENDING
+1 correction records, with 0 PENDING
 
-Case 12: 04/13/2026 dict=pw, L=  16231, hw=ASri, user=ejf
+Case 11: 04/13/2026 dict=pw, L=  16231, hw=ASri, user=ejf
 old = ASri f. = ASri
 new = ASri f. = aSri
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
