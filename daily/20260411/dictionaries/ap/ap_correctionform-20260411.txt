@@ -1,73 +1,73 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 12, 2026
-10 correction records, with 10 PENDING
+As of April 14, 2026
+10 correction records, with 0 PENDING
 
-Case 12: 04/11/2026 dict=AP, L=11847.024, hw=kasturikāmallikā, user=srhodes
+Case 10: 04/11/2026 dict=AP, L=11847.024, hw=kasturikāmallikā, user=srhodes
 old = kasturikāmallikā
 new = kastūrīmallikā
 comment = Typo – Please note that this correction needs investigation. According to Dr. Böhtlingk, the compound is formed with the pūrvapada, as: "kastūrī". Also, please note that APTE includes here the indication: "(कस्तूरी)", which is evidence in support of this correction.
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 11: 04/11/2026 dict=AP, L=11847.022, hw=kasturikāmṛgaḥ, user=srhodes
+Case 9: 04/11/2026 dict=AP, L=11847.022, hw=kasturikāmṛgaḥ, user=srhodes
 old = kasturikāmṛgaḥ
 new = kastūrikāmṛgaḥ
 comment = Typo – Please note that this correction needs investigation. According to Dr. Böhtlingk, the compound contains the long vowel "ū" in the pūrvapada, as: "kastūrikā".
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 10: 04/11/2026 dict=AP, L=11847.02, hw=kasturikākuraṅgaḥ, user=srhodes
+Case 8: 04/11/2026 dict=AP, L=11847.02, hw=kasturikākuraṅgaḥ, user=srhodes
 old = kasturikākuraṅgaḥ
 new = kastūrikākuraṅgaḥ
 comment = Typo – Please note that this correction needs investigation. According to Dr. Böhtlingk, the compound contains the long vowel "ū" in the pūrvapada, as: "kastūrikā".
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 9: 04/11/2026 dict=AP, L=5879, hw=aśruta, user=srhodes
+Case 7: 04/11/2026 dict=AP, L=5879, hw=aśruta, user=srhodes
 old = acqainted
 new = acquainted
-status = PENDING
+status = Corrected 14 Apr 2026
 ------------------------------------------------------------------------
 
-Case 7: 04/11/2026 dict=AP, L=11839, hw=kasaḥ, user=srhodes
+Case 6: 04/11/2026 dict=AP, L=11839, hw=kasaḥ, user=srhodes
 old = touch-stone
 new = touchstone
 comment = Typo – Better without the "Hyphen", and therefore may be made a Global Correction as well.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 6: 04/11/2026 dict=AP, L=11836.032, hw=kaṣṭamātulaḥ, user=srhodes
-old = step-mother
-new = stepmother
-comment = Typo – Please note that this word occurs at a "line break" on the printed page. But there is no reason to "Import" the "Hyphen" online, especially when the "Hyphen" is not used in spelling this word! Therefore, please make this a Global Correction.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 5: 04/11/2026 dict=AP, L=11836.032, hw=kaṣṭamātulaḥ, user=srhodes
 old = step-mother
 new = stepmother
 comment = Typo – Please note that this word occurs at a "line break" on the printed page. But there is no reason to "Import" the "Hyphen" online, especially when the "Hyphen" is not used in spelling this word! Therefore, please make this a Global Correction.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
-Case 4: 04/11/2026 dict=AP, L=11834.002, hw=kaserukā, user=srhodes
-old = back-bone
-new = backbone
-comment = Typo – Please note that this correction Follows The Printed Page!
-status = PENDING
+Case 4: 04/11/2026 dict=AP, L=11836.032, hw=kaṣṭamātulaḥ, user=srhodes
+old = step-mother
+new = stepmother
+comment = Typo – Please note that this word occurs at a "line break" on the printed page. But there is no reason to "Import" the "Hyphen" online, especially when the "Hyphen" is not used in spelling this word! Therefore, please make this a Global Correction.
+status = No change required
 ------------------------------------------------------------------------
 
 Case 3: 04/11/2026 dict=AP, L=11834.002, hw=kaserukā, user=srhodes
 old = back-bone
 new = backbone
 comment = Typo – Please note that this correction Follows The Printed Page!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
-Case 2: 04/11/2026 dict=AP, L=11834, hw=kaṣerukā, user=srhodes
+Case 2: 04/11/2026 dict=AP, L=11834.002, hw=kaserukā, user=srhodes
 old = back-bone
 new = backbone
 comment = Typo – Please note that this correction Follows The Printed Page!
-status = PENDING
+status = No change required
+------------------------------------------------------------------------
+
+Case 1: 04/11/2026 dict=AP, L=11834, hw=kaṣerukā, user=srhodes
+old = back-bone
+new = backbone
+comment = Typo – Please note that this correction Follows The Printed Page!
+status = No change required
 ------------------------------------------------------------------------
 
