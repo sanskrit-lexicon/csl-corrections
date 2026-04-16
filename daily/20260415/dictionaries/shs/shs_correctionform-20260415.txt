@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 16, 2026
+4 correction records, with 4 PENDING
+
+Case 6: 04/15/2026 dict=SHS, L=9145, hw=karāgrahapallava, user=srhodes
+old = karāgrahapallava
+new = karāgrapallava
+comment = Typo – Please note that this is a "Print Change", based upon SHS Etymology listed here as: kara, and agra to the point, pallava a shoot. Also, please note that MW agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/15/2026 dict=SHS, L=9140, hw=karamardda, user=srhodes
+old = carondas
+new = carandas
+comment = Typo – Please note that this is a "Print Change", based upon Wikipedia Authority.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/15/2026 dict=SHS, L=9138, hw=karabhaṭṭa, user=srhodes
+old = karabhaṭṭa
+new = karamaṭṭa
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/15/2026 dict=SHS, L=9138, hw=karabhaṭṭa, user=srhodes
+old = see guvakā
+new = see guvāka
+comment = Typo – Please note that this is a "Print Change", based upon all sources, including SHS own listing!
+status = PENDING
+------------------------------------------------------------------------
+
