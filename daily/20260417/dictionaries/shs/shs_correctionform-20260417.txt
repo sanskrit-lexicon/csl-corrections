@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 18, 2026
+5 correction records, with 5 PENDING
+
+Case 7: 04/17/2026 dict=SHS, L=9165, hw=karāmlaka, user=srhodes
+old = Carissa carondas
+new = Carissa carandas
+comment = Typo – Please note that this is a suggested "Global Correction", following the Authority of Wikipedia.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/17/2026 dict=SHS, L=9164, hw=karāmuka, user=srhodes
+old = karāmuka
+new = karāmbuka
+comment = Typo – Please note that this is a suggested "Print Change" according to VCP, SKD and MW.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/17/2026 dict=SHS, L=9163, hw=karāmarddha, user=srhodes
+old = see karamarddha
+new = see karamardda
+comment = Typo – This correction follows VCP, SKD and MW. Of course, the "doubling" of the letter "d" is an irrelevant point. The Important Point is that Big Three Authorities cited here do NOT spell this word using the letter "dh". EVEN SHS lists this word as corrected here: "karamardda".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/17/2026 dict=SHS, L=9163, hw=karāmarddha, user=srhodes
+old = karāmarddha
+new = karāmardda
+comment = Typo – This correction follows VCP, SKD and MW. Of course, the "doubling" of the letter "d" is an irrelevant point. The Important Point is that Big Three Authorities cited here do NOT spell this word using the letter "dh".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/17/2026 dict=SHS, L=9158, hw=karaśuka, user=srhodes
+old = karaśuka
+new = karaśūka
+comment = Typo – This correction follows VCP, SKD and MW.
+status = PENDING
+------------------------------------------------------------------------
+

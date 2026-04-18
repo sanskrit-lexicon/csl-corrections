@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for AP
+As of April 18, 2026
+3 correction records, with 3 PENDING
+
+Case 21: 04/17/2026 dict=AP, L=11919.042, hw=kāṇḍaṣṭham, user=srhodes
+old = kāṇḍaṣṭham
+new = kāṇḍapṛṣṭham
+comment = Typo – Please note that the previous correction has added this Neuter  Gender Definition to the Previous Headword, so as to Match the Printed Page. Therefore, this listing may well be DELETED, as the Neuter Form now correctly is placed under the Primary Masculine listing. It appears that the standard method for AP is NOT to list the Masculine and Neuter Gender as TWO Separate Headwords. However, if you would like to proceed in this manner, please let me know so that I may bring other such cases to your attention, one way or the other.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20: 04/17/2026 dict=AP, L=11919.04, hw=kāṇḍapṛṣṭaḥ, user=srhodes
+old = Missing Form and Definition
+new = Please note that the Neuter Gender and Related Definintion have been omitted, although Clearly Printed on the Page! Therefore, please ADD the Following: "(-ṣṭham) the bow of Karṇa & Kāma."
+comment = Missing Form and Definition
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 04/17/2026 dict=AP, L=11919.04, hw=kāṇḍapṛṣṭaḥ, user=srhodes
+old = kāṇḍapṛṣṭaḥ
+new = kāṇḍapṛṣṭhaḥ
+comment = Typo – Please note that this correction follows the printed text. It was simply an OCR error, and thus NOT a "print change".
+status = PENDING
+------------------------------------------------------------------------
+

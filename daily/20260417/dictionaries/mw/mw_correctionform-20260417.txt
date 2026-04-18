@@ -1,0 +1,74 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 18, 2026
+10 correction records, with 10 PENDING
+
+Case 23: 04/17/2026 dict=MW, L=114107, hw=pañcāsuvandhura, user=srhodes
+old = pañcāsuvandhura
+new = pañcāsubandhura
+comment = Please note that this is an Indisputable Error by MW. Andhrabharati has confirmed that MW Dictionary is simply a copied translation of Dr. Böhtlingk's own German dictionary. Therefore, we should consult Dr. Böhtlingk's own listing of this very Headword; and here is what we find (with Google Translation): "pañcāsubandhura Adj. in whom the five life breaths form the chariot straps (?) Bhāg. P. 4,29,18. [ID=62203]." LB The Verse Citation Given from Bhāgavatam is also Indisputable. In fact this is a very well known allegory. The Five Horses are symbolic of the Five Senses; the Body is likened to a Chariot; and Here we come to this Grave Error of MW. The proper word is "pañcāsubandhura" as cited by Dr. Böhtlingk. Given the Indisputable Context of this usage, the Five Life Airs are likened to the Five Ropes connected between the Chariot (as body) and the Five Horses (as the senses). Therefore the following Correction/Revision MUST be made to MW Dictionary Online at Cologne as follows: LB "pañcāsu-vandhura mfn. whose carriage-seats (?) are the 5 vital airs, BhP." LB MUST BE CORRECTED TO READ LB "pañcāsu-bandhura mfn. whose ropes are the 5 vital airs, BhP." LB (Of course the word 'rope' could be 'cord' or whatever you prefer, but this correction must be made – there is no other option).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 04/17/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/17/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/17/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/17/2026 dict=mw, L=, hw=test', user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/17/2026 dict=mw, L=, hw=test, user=test'
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/17/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo'
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/17/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test'
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/17/2026 dict=mw, L=, hw=test, user=test
+old = test'
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/17/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
