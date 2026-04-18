@@ -2226,3 +2226,10 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/140
 L code : Headword : Old  : New : Comment
 216947 : SiTilamBAva : SiTila—m-BAva : SiTila—M-BAva : Capital M for prefix
 -----------------------------------------------------------------
+04-08-2026
+Source: @srhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/155
+L code : Headword : Old  : New : Comment
+114107 : paYcAsuvanDura : carriage-seats (?) : cords : https://github.com/sanskrit-lexicon/csl-corrections/issues/155#issue-4286283687
+114107 : paYcAsuvanDura : paYcAsuvanDura : paYcAsubanDura : https://github.com/sanskrit-lexicon/csl-corrections/issues/155#issue-4286283687
+-----------------------------------------------------------------

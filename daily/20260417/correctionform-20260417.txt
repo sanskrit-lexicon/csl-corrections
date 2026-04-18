@@ -1,171 +1,73 @@
 Sanskrit Lexicon Correction Form History
 As of April 18, 2026
-24 correction records, with 24 PENDING
+10 correction records, with 0 PENDING
 
-Case 24: 04/17/2026 dict=BUR, L=  18432 , hw=sāmānya , user=Caujolle
+Case 10: 04/17/2026 dict=BUR, L=  18432 , hw=sāmānya , user=Caujolle
 old = commun. général. 
 new = commun, général. 
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
-Case 23: 04/17/2026 dict=MW, L=114107, hw=pañcāsuvandhura, user=srhodes
+Case 9: 04/17/2026 dict=MW, L=114107, hw=pañcāsuvandhura, user=srhodes
 old = pañcāsuvandhura
 new = pañcāsubandhura
 comment = Please note that this is an Indisputable Error by MW. Andhrabharati has confirmed that MW Dictionary is simply a copied translation of Dr. Böhtlingk's own German dictionary. Therefore, we should consult Dr. Böhtlingk's own listing of this very Headword; and here is what we find (with Google Translation): "pañcāsubandhura Adj. in whom the five life breaths form the chariot straps (?) Bhāg. P. 4,29,18. [ID=62203]." LB The Verse Citation Given from Bhāgavatam is also Indisputable. In fact this is a very well known allegory. The Five Horses are symbolic of the Five Senses; the Body is likened to a Chariot; and Here we come to this Grave Error of MW. The proper word is "pañcāsubandhura" as cited by Dr. Böhtlingk. Given the Indisputable Context of this usage, the Five Life Airs are likened to the Five Ropes connected between the Chariot (as body) and the Five Horses (as the senses). Therefore the following Correction/Revision MUST be made to MW Dictionary Online at Cologne as follows: LB "pañcāsu-vandhura mfn. whose carriage-seats (?) are the 5 vital airs, BhP." LB MUST BE CORRECTED TO READ LB "pañcāsu-bandhura mfn. whose ropes are the 5 vital airs, BhP." LB (Of course the word 'rope' could be 'cord' or whatever you prefer, but this correction must be made – there is no other option).
-status = PENDING
+status = Corrected 18 Apr 2026. Checked with https://archive.org/details/srimad-bhagavata-multiple-commentaries/sb_canto_04/page/७२०/mode/1up which tells that this is indeed a restraint.
 ------------------------------------------------------------------------
 
-Case 22: 04/17/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 21: 04/17/2026 dict=AP, L=11919.042, hw=kāṇḍaṣṭham, user=srhodes
+Case 8: 04/17/2026 dict=AP, L=11919.042, hw=kāṇḍaṣṭham, user=srhodes
 old = kāṇḍaṣṭham
 new = kāṇḍapṛṣṭham
 comment = Typo – Please note that the previous correction has added this Neuter  Gender Definition to the Previous Headword, so as to Match the Printed Page. Therefore, this listing may well be DELETED, as the Neuter Form now correctly is placed under the Primary Masculine listing. It appears that the standard method for AP is NOT to list the Masculine and Neuter Gender as TWO Separate Headwords. However, if you would like to proceed in this manner, please let me know so that I may bring other such cases to your attention, one way or the other.
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
-Case 20: 04/17/2026 dict=AP, L=11919.04, hw=kāṇḍapṛṣṭaḥ, user=srhodes
+Case 7: 04/17/2026 dict=AP, L=11919.04, hw=kāṇḍapṛṣṭaḥ, user=srhodes
 old = Missing Form and Definition
 new = Please note that the Neuter Gender and Related Definintion have been omitted, although Clearly Printed on the Page! Therefore, please ADD the Following: "(-ṣṭham) the bow of Karṇa & Kāma."
 comment = Missing Form and Definition
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
-Case 19: 04/17/2026 dict=AP, L=11919.04, hw=kāṇḍapṛṣṭaḥ, user=srhodes
+Case 6: 04/17/2026 dict=AP, L=11919.04, hw=kāṇḍapṛṣṭaḥ, user=srhodes
 old = kāṇḍapṛṣṭaḥ
 new = kāṇḍapṛṣṭhaḥ
 comment = Typo – Please note that this correction follows the printed text. It was simply an OCR error, and thus NOT a "print change".
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
-Case 18: 04/17/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 17: 04/17/2026 dict=mw, L=, hw=test, user=test
-old = test
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 16: 04/17/2026 dict=mw, L=, hw=test, user=test
-old = test
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 15: 04/17/2026 dict=mw, L=, hw=test, user=test
-old = test
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 14: 04/17/2026 dict=mw, L=, hw=test', user=test
-old = test
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 13: 04/17/2026 dict=mw', L=, hw=test, user=test
-old = test
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 12: 04/17/2026 dict=mw, L=, hw=test, user=test'
-old = test
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 11: 04/17/2026 dict=mw, L=, hw=test, user=test
-old = test
-new = test
-comment = typo'
-status = PENDING
-------------------------------------------------------------------------
-
-Case 10: 04/17/2026 dict=mw, L=, hw=test, user=test
-old = test
-new = test'
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 9: 04/17/2026 dict=mw, L=, hw=test, user=test
-old = test'
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 8: 04/17/2026 dict=mw, L=, hw=test, user=test
-old = test
-new = test
-comment = typo
-status = PENDING
-------------------------------------------------------------------------
-
-Case 7: 04/17/2026 dict=SHS, L=9165, hw=karāmlaka, user=srhodes
+Case 5: 04/17/2026 dict=SHS, L=9165, hw=karāmlaka, user=srhodes
 old = Carissa carondas
 new = Carissa carandas
 comment = Typo – Please note that this is a suggested "Global Correction", following the Authority of Wikipedia.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
-Case 6: 04/17/2026 dict=SHS, L=9164, hw=karāmuka, user=srhodes
+Case 4: 04/17/2026 dict=SHS, L=9164, hw=karāmuka, user=srhodes
 old = karāmuka
 new = karāmbuka
 comment = Typo – Please note that this is a suggested "Print Change" according to VCP, SKD and MW.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 5: 04/17/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 4: 04/17/2026 dict=SHS, L=9163, hw=karāmarddha, user=srhodes
-old = see karamarddha
-new = see karamardda
-comment = Typo – This correction follows VCP, SKD and MW. Of course, the "doubling" of the letter "d" is an irrelevant point. The Important Point is that Big Three Authorities cited here do NOT spell this word using the letter "dh". EVEN SHS lists this word as corrected here: "karamardda".
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/158
 ------------------------------------------------------------------------
 
 Case 3: 04/17/2026 dict=SHS, L=9163, hw=karāmarddha, user=srhodes
+old = see karamarddha
+new = see karamardda
+comment = Typo – This correction follows VCP, SKD and MW. Of course, the "doubling" of the letter "d" is an irrelevant point. The Important Point is that Big Three Authorities cited here do NOT spell this word using the letter "dh". EVEN SHS lists this word as corrected here: "karamardda".
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/158
+------------------------------------------------------------------------
+
+Case 2: 04/17/2026 dict=SHS, L=9163, hw=karāmarddha, user=srhodes
 old = karāmarddha
 new = karāmardda
 comment = Typo – This correction follows VCP, SKD and MW. Of course, the "doubling" of the letter "d" is an irrelevant point. The Important Point is that Big Three Authorities cited here do NOT spell this word using the letter "dh".
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/158
 ------------------------------------------------------------------------
 
-Case 2: 04/17/2026 dict=SHS, L=9158, hw=karaśuka, user=srhodes
+Case 1: 04/17/2026 dict=SHS, L=9158, hw=karaśuka, user=srhodes
 old = karaśuka
 new = karaśūka
 comment = Typo – This correction follows VCP, SKD and MW.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 04/17/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
