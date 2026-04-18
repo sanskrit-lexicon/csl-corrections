@@ -1,39 +1,39 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 15, 2026
-5 correction records, with 5 PENDING
+As of April 18, 2026
+5 correction records, with 0 PENDING
 
 Case 6: 04/14/2026 dict=AP, L=11866.02, hw=kākaliravaḥ, user=srhodes
 old = kākaliravaḥ
 new = kākalīravaḥ
 comment = Typo – Please note that this correction is confirmed by VCP, SKD, SHS and MW. This appears to be a common problem with AP. The listing of compounds is such that the LONG or SHORT vowel is not being "Specified" by AP explicity. So every such case apparently must be vetted one at a time, as we are doing here.
-status = PENDING
+status = No change required. Both kAkali and kAkalI are valid words.
 ------------------------------------------------------------------------
 
 Case 5: 04/14/2026 dict=AP, L=11866.002, hw=kākalī, user=srhodes
 old = SEE BELOW
 new = Namaste Dr. Dhaval, This is just a Reminder to check the following webpage from "Bottom to Top", for suggested Global Corrections that may not have yet been implemented: https://github.com/sanskrit-lexicon/AP/issues/7
 comment = SEE ABOVE
-status = PENDING
+status = Handled elsewhere
 ------------------------------------------------------------------------
 
 Case 4: 04/14/2026 dict=AP, L=11866.002, hw=kākalī, user=srhodes
 old = kīḍatkokilakākalīkalakalairudgīrṇakarṇajvarāḥ
 new = krīḍatkokilakākalīkalakalairudgīrṇakarṇajvarāḥ
 comment = Typo – ALSO, please note that the following Extraction appears to be a Valid Global Correction: "kīḍat" —> "krīḍat".
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
 Case 3: 04/14/2026 dict=AP, L=11866.002, hw=kākalī, user=srhodes
 old = kīḍatkokilakākalīkalakalairudgīrṇakarṇajvarāḥ
 new = krīḍatkokilakākalīkalakalairudgīrṇakarṇajvarāḥ
 comment = Typo – ALSO, please note that the following Extraction appears to be a Valid Global Correction: "kīḍat" —> "krīḍat".
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
 Case 2: 04/14/2026 dict=AP, L=11866, hw=kākaliḥ, user=srhodes
 old = kīḍatkokilakākalīkalakalairudgīrṇakarṇajvarāḥ
 new = krīḍatkokilakākalīkalakalairudgīrṇakarṇajvarāḥ
 comment = Typo – ALSO, please note that the following Extraction appears to be a Valid Global Correction: "kīḍat" —> "krīḍat".
-status = PENDING
+status = Corrected 18 Apr 2026
 ------------------------------------------------------------------------
 
