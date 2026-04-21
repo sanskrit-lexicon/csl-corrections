@@ -73,7 +73,6 @@ def update_cfr_ab():
                     # print(f"  Added {added_count} lines from {date_str}")
 
     # 3. Deduplicate (preserving order)
-    # This is similar to awk '!seen[$0]++'
     seen = set()
     deduped_lines = []
     for line in output_lines:
@@ -81,12 +80,40 @@ def update_cfr_ab():
             deduped_lines.append(line)
             seen.add(line)
     
-    print(f"Final line count after deduplication: {len(deduped_lines)}")
+    # 4. Sort chronologically
+    def get_sort_key(line):
+        # Header should always be first
+        if line.startswith('\tWhich Dictionary?'):
+            return datetime.min
+            
+        parts = line.split('\t')
+        if not parts:
+            return datetime.min
+        timestamp_str = parts[0].strip()
+        try:
+            # Full format: MM/DD/YYYY HH:MM:SS
+            return datetime.strptime(timestamp_str, '%m/%d/%Y %H:%M:%S')
+        except ValueError:
+            try:
+                # Just date: MM/DD/YYYY
+                return datetime.strptime(timestamp_str[:10], '%m/%d/%Y')
+            except ValueError:
+                # If everything fails, put it at the very beginning (after header)
+                # but before valid dates.
+                return datetime.min
 
-    # 4. Write back
+    # Preserve header, sort the rest
+    header = deduped_lines[0]
+    data_lines = deduped_lines[1:]
+    data_lines.sort(key=get_sort_key)
+    final_lines = [header] + data_lines
+
+    print(f"Final line count after deduplication and sorting: {len(final_lines)}")
+
+    # 5. Write back
     os.makedirs(os.path.dirname(cfr_ab_path), exist_ok=True)
     with open(cfr_ab_path, 'w', encoding='utf-8') as f:
-        f.writelines(deduped_lines)
+        f.writelines(final_lines)
 
 if __name__ == "__main__":
     update_cfr_ab()
