@@ -1,0 +1,74 @@
+Sanskrit Lexicon Correction Form History
+As of April 21, 2026
+10 correction records, with 10 PENDING
+
+Case 10: 04/20/2026 dict=AP, L=11983, hw=kāpya, user=srhodes
+old = kāpya
+new = kāpyaḥ 
+comment = Typo – Please note that this is a suggested "Print Change", in order to state the Masculine Gender, which may be appropriate? Unless this word is preferred to remain simply as a Qualitative term.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/20/2026 dict=AP, L=11981, hw=kāpeya, user=srhodes
+old = 3 N. of a sage, the son of kapiḥ śaunakaḥ kāpeyaḥ 
+new = ??? Masculine Gender Required ???
+comment = Typo – Please note that the definition cited above is currently given in Neuter Gender. However, it appears that Masculine Gender may be more appropritate. Please confirm one way or the other.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/20/2026 dict=AP, L=11972, hw=kāpāla, user=srhodes
+old = Missing Headword
+new = Please note that you have the option of adding the Searchable Headword: "kāpālī f." given here, to the Hierarchy List Column (along with the related Three Definitions). Ladies are generally pleased when they receive the recognition that they deserve.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/20/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/20/2026 dict=SHS, L=8766, hw=kaṇḍrogha, user=srhodes
+old = kaṇḍrogha
+new = kaṇḍvogha
+comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4279371179
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/20/2026 dict=AP, L=11338, hw=kaṇḍodhaḥ, user=srhodes
+old = kaṇḍodhaḥ
+new = kaṇḍvoghaḥ
+comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4279371179
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/20/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/20/2026 dict=SHS, L=9225, hw=karkacirbhiṭī, user=srhodes
+old = See Below
+new = We need our Great Andhrabharati to verify this spelling, as there appears to be a number of possible variations: "karkacirbhiṭā, karkacirbhiṭī, karakcirbhaṭī, (karakcirbhaṭi ?)". Certainly the uttarapada: "cirbhaṭī" ,  is Well Known. It would be wonderful if Andhrabharati would provide ALL of the authorized variations for this word.
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/20/2026 dict=SHS, L=9221, hw=karoṭa, user=srhodes
+old = scull
+new = skull
+comment = Typo – Please note that this is a suggested "Print Change". Errors such as these make me suspect that SHS was orally transmitted and that the "scribe" was not "kovida" in spelling.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/20/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
