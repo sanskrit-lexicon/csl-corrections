@@ -23,17 +23,8 @@ jobs:
       - name: Run fetch script
         run: ./fetch_yesterday_cfr.sh
 
-      - name: Append daily corrections to cfr_ab.tsv
-        run: |
-          DAILY_FILE="daily/${{ steps.date.outputs.date }}/cfr-${{ steps.date.outputs.date }}.tsv"
-          if [ -s "$DAILY_FILE" ]; then
-            TEMP_FILE=$(mktemp)
-            cat cfr_ab/cfr_ab.tsv "$DAILY_FILE" > "$TEMP_FILE"
-            awk '!seen[$0]++' "$TEMP_FILE" > cfr_ab/cfr_ab.tsv
-            echo "Deduplicated and saved to cfr_ab/cfr_ab.tsv"
-          else
-            echo "No daily corrections file to append"
-          fi
+      - name: Update cfr_ab.tsv with daily and corrected data
+        run: python scripts/update_cfr_ab.py
 
       - name: Commit changes
         run: |
