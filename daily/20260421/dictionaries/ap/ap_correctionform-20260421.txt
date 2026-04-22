@@ -1,0 +1,59 @@
+Sanskrit Lexicon Correction Form History for AP
+As of April 22, 2026
+8 correction records, with 8 PENDING
+
+Case 15: 04/21/2026 dict=AP, L=11231, hw=kaṭukatā, user=srhodes
+old = kaṭukatā
+new = kaṭuṃkatā
+comment = Typo – Headword Typo !  Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4290505322
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/21/2026 dict=AP, L=11989.02, hw=kāmāgniḥ, user=srhodes
+old = Missing Headword
+new = Please note that by Further Compounding, the Headword "kāmāgnisaṃdīpanam" is listed here by the abbreviation: "˚saṃdīpanam". Therefore this Additional Compound, should be listed as an Additional Headword in the Hierarchy Display Column, so as to be "Searchable" by the user. Of Course the related TWO definitions must accompany this Newly Listed Headword, which of course will receive an addition Indentation in the Hierarchy List Display beneath the pūrvapada: "kāmāgni".
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/21/2026 dict=AP, L=11989, hw=kāmaḥ, user=srhodes
+old = magyāveśitadhiyāṃ
+new = mayyāveśitadhiyāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/21/2026 dict=AP, L=11985, hw=kāpyakāraḥ, user=srhodes
+old = See Below
+new = Please note that the Previous Headword Listing, is Precisely the SAME Spelling, and likely to be Directly Related: "kāpyakāraḥ A penitent.                  [ID=11984.002]". Therefore, Some Sort of "Merging" or "Consolidation" of Headwords and Meanings may be in Order? OTHERWISE, we are stuck with TWO Identical Headwords Being Separately Listed. If such is the case, then when a user "Searches" for this particular word, ONLY ONE Version would be shown from the initial Search; and then the user would have to Click Again on the Second Headword Listing, in order to discover All Meanings Available to this (currently) Dual Headword: "kāpyakāraḥ".
+comment = See Above
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/21/2026 dict=AP, L=11984.002, hw=kāraḥ, user=srhodes
+old = kāraḥ
+new = kāpyakāraḥ
+comment = Typo – Headword Typo!   ALSO and Very Important – Please note that the Following Headword Listing, is Precisely the SAME Spelling, and likely to be Directly Related: "kāpyakāraḥ Avowal or confession of sin [ID=11985]". Therefore, Some Sort of "Merging" or "Consolidation" of Headwords and Meanings may be in Order?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/21/2026 dict=AP, L=11366, hw=kathantā, user=srhodes
+old = Mbh. 2. 39 .
+new = Yogas. 2. 39 .
+comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here:https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4287103659
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/21/2026 dict=AP, L=11386.028, hw=kadambabrahmamaṇḍalam, user=srhodes
+old = kadambabrahmamaṇḍalam
+new = kadambabhramamaṇḍalam
+comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4287018625 LB OF COURSE, the portion "-brahmamaṇḍalam ", must be corrected as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/21/2026 dict=AP, L=11386, hw=kadambaḥ, user=srhodes
+old = kadambabrahmamaṇḍalam
+new = kadambabhramamaṇḍalam
+comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4287018625
+status = PENDING
+------------------------------------------------------------------------
+
