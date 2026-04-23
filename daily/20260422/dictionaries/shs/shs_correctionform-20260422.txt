@@ -1,0 +1,30 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 23, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 04/22/2026 dict=SHS, L=9256, hw=karkoṭaka, user=srhodes
+old = 5. Sugar-cane.
+new = 4. Sugar-cane.
+comment = Typo – Please note that this is a suggested "Print Change" for correction to the numbering. As you see, the definitions went from "3" to "5", with no "4" !  The "Hyphen" is tempting me – अथ तु मम यमो बलवान् !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/22/2026 dict=SHS, L=9255, hw=karkoṭa, user=srhodes
+old = Patala
+new = Pātāla
+comment = Typo – Please note that this is a suggested "Print Change" for correct transliteration. If you like, this may be considered as a Global Correction. As you remember, we have undertaken similar correction with PUI, (as you may recall with Puramjana).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/22/2026 dict=SHS, L=9254, hw=karketara, user=srhodes
+old = karketara
+new = karketana
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/22/2026 dict=SHS, L=9254, hw=karketara, user=srhodes
+old = karketara
+new = karketana
+status = PENDING
+------------------------------------------------------------------------
+

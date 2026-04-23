@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for AP
+As of April 23, 2026
+5 correction records, with 5 PENDING
+
+Case 12: 04/22/2026 dict=AP, L=11466.02, hw=kapālanalikā, user=srhodes
+old = kapālanalikā
+new = kapālanālikā
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4295010760 LB OF COURSE, the portion: "-nalikā", must be corrected to read: ""-nālikā".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/22/2026 dict=AP, L=11466, hw=kapālaḥ, user=srhodes
+old = kapālanalikā
+new = kapālanālikā
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4295010760
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/22/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
+old = Missing Compound
+new = Please note that the Compound "kanyakumārī", is also indicated by Apte and should be listed BOTH here in the Window Display at the Bottom, AND in the Hierarchy Column as a "Searchable Headword" as well.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/22/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
+old = Missing Compound
+new = Please note that the Compound "kanyakumārī", is also indicated by Apte and should be listed BOTH here in the Window Display at the Bottom, AND in the Hierarchy Column as a "Searchable Headword" as well.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/22/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
+old = Missing Headword
+new = Please note that the Compound "kanyakumārī", is also indicated by Apte and should be listed BOTH here in the Window Display at the Bottom, AND in the Hierarchy Column as a "Searchable Headword" as well.
+comment = Missing Headword
+status = PENDING
+------------------------------------------------------------------------
+

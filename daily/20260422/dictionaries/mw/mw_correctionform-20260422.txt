@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 23, 2026
+3 correction records, with 3 PENDING
+
+Case 14: 04/22/2026 dict=MW, L=216850, hw=śiñjatṣaḍaṅghri, user=srhodes
+old = Placement Error
+new = This is a Follow Up to the correction that you previously made. It was too much to address all at once. So this is Part 2!  Please bear in mind that the Correct "pūrvapada" for this compound is simply the Official Headword: "śiñjat mfn. tinkling, rattling, sounding &c. [ID=216847]". Therefore, this Corrected Compound MUST be Relocated Directly AFTER the Headword: "śiñjat [ID=216847]".  Furthermore, the Window Display must be corrected as follows: "śiñjad—" —> "śiñjat—".  A Final Point to bear in mind is that the Headword: "śiñjad in comp. for °jat. [ID=216848]" NO LONGER RELATES to this Corrected Compound: "śiñjatṣaḍaṅghri". Thus everything must be corrected as stated above:  The Relocation Must Be Made AND the Window Display corrected so that the "pūrvapada" reads as: "śiñjat—".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/22/2026 dict=MW, L=43105, hw=kanyāgata, user=srhodes
+old = the position of a planet in the sign Virgo. 
+new = n. the position of a planet in the sign Virgo. 
+comment = Typo – Please note that this is a "Print Change", in order to STATE the required Gender for this nominal usage; Also, this has correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294760931https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013 LB Of Course, simply looking up the rule numbers confirms the correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/22/2026 dict=MW, L=225626, hw=saṃyam, user=srhodes
+old = Pāṇ. i, 3, 35
+new = Pāṇ. i, 3, 55
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013 LB Of Course, simply looking up the rule numbers confirms the correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
