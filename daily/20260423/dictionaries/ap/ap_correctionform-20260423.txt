@@ -1,0 +1,37 @@
+Sanskrit Lexicon Correction Form History for AP
+As of April 24, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 04/23/2026 dict=AP, L=11989, hw=kāmaḥ, user=srhodes
+old = kāmalā
+new = kāmaphalā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/23/2026 dict=AP, L=11989.192, hw=kāmalā, user=srhodes
+old = kāmalā
+new = kāmaphalā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/23/2026 dict=AP, L=11989.192, hw=kāmarasaḥ, user=srhodes
+old = the spling
+new = the spring
+comment = Typo – Please note that this is a suggested "Print Change". Please confirm that it is so.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/23/2026 dict=AP, L=3054, hw=apohaḥ, user=srhodes
+old = dhiguṇas
+new = dhīguṇas
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4306139374
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/23/2026 dict=AP, L=22225, hw=prajā, user=srhodes
+old = GREAT SUGGESTION
+new = Now that ALL Compounds are fully listed BOTH in the Window Display AND in the Hierarchy Column – A Great Idea has arisen: Would It Be Possible to make EACH COMPOUND in the Window Display a "Hot Link" directly to ITS OWN listing in the Hierarchy List Column. This would Mimic the the Linking that is currently active in MW Dictionary whereby "clicking on" ONE of TWO Homonyms Directly Delivers the user to the selected Headword. Bingo and Bullseye !
+comment = GREAT SUGGESTION
+status = PENDING
+------------------------------------------------------------------------
+
