@@ -562,3 +562,10 @@ L code : Headword : Old  : New : Comment
 11946 : kAdala : kadali : kadalī : 
 11949 : kAdraveyaH : Son of {#kadrU : Son of {#kadrU#}; : 
 -----------------------------------------------------------------------
+04-25-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/166
+L code : Headword : Old  : New : Comment
+11338 : kaRqoGaH : kaRqoGaH : kaRqvoGaH : 
+11981 : kApyam : kApyam : kApyaH : Name of a sage deserves masculine lex.
+11983 : kApya : N. of a sage : m. N. of a sage : Added masculine lex tag.
+-----------------------------------------------------------------------

@@ -1,32 +1,32 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 21, 2026
-4 correction records, with 4 PENDING
+As of April 25, 2026
+4 correction records, with 0 PENDING
 
-Case 10: 04/20/2026 dict=AP, L=11983, hw=kāpya, user=srhodes
+Case 7: 04/20/2026 dict=AP, L=11983, hw=kāpya, user=srhodes
 old = kāpya
 new = kāpyaḥ 
 comment = Typo – Please note that this is a suggested "Print Change", in order to state the Masculine Gender, which may be appropriate? Unless this word is preferred to remain simply as a Qualitative term.
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 9: 04/20/2026 dict=AP, L=11981, hw=kāpeya, user=srhodes
+Case 6: 04/20/2026 dict=AP, L=11981, hw=kāpeya, user=srhodes
 old = 3 N. of a sage, the son of kapiḥ śaunakaḥ kāpeyaḥ 
 new = ??? Masculine Gender Required ???
 comment = Typo – Please note that the definition cited above is currently given in Neuter Gender. However, it appears that Masculine Gender may be more appropritate. Please confirm one way or the other.
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 8: 04/20/2026 dict=AP, L=11972, hw=kāpāla, user=srhodes
+Case 5: 04/20/2026 dict=AP, L=11972, hw=kāpāla, user=srhodes
 old = Missing Headword
 new = Please note that you have the option of adding the Searchable Headword: "kāpālī f." given here, to the Hierarchy List Column (along with the related Three Definitions). Ladies are generally pleased when they receive the recognition that they deserve.
 comment = Missing Headword
-status = PENDING
+status = Already handled in https://github.com/sanskrit-lexicon/AP/issues/23
 ------------------------------------------------------------------------
 
-Case 5: 04/20/2026 dict=AP, L=11338, hw=kaṇḍodhaḥ, user=srhodes
+Case 3: 04/20/2026 dict=AP, L=11338, hw=kaṇḍodhaḥ, user=srhodes
 old = kaṇḍodhaḥ
 new = kaṇḍvoghaḥ
 comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4279371179
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
