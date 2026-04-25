@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 22, 2026
-2 correction records, with 2 PENDING
+As of April 25, 2026
+2 correction records, with 0 PENDING
 
-Case 3: 04/21/2026 dict=MW, L=44715, hw=karkarāndhaka, user=srhodes
+Case 2: 04/21/2026 dict=MW, L=44715, hw=karkarāndhaka, user=srhodes
 old = over grown
 new = overgrown
 comment = Typo – Please note that this should be written as a ONE WORD. However, currently in the Window Display the placement occurs at a line break. So the Correction must be made taking all factors into account. If the "line break" is absolutely necessary in the middle of this word, then we are stuck with a "Hyphen", which I would rather not mention or employ!
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 2: 04/21/2026 dict=MW, L=44722.1, hw=karkāra, user=srhodes
+Case 1: 04/21/2026 dict=MW, L=44722.1, hw=karkāra, user=srhodes
 old = Placement Error
 new = The supplemental insertion of this Headword should be placed just before the word "karkāru m. [ID=44745]" in the Hierarchical listing of words. This is simply according to the proper alphabetical placement, since their appears to be no other overriding factor.
 comment = Placement Error
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 

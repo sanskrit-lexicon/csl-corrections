@@ -569,3 +569,10 @@ L code : Headword : Old  : New : Comment
 11981 : kApyam : kApyam : kApyaH : Name of a sage deserves masculine lex.
 11983 : kApya : N. of a sage : m. N. of a sage : Added masculine lex tag.
 -----------------------------------------------------------------------
+04-25-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/167
+L code : Headword : Old  : New : Comment
+11386 : kadambaH : brahmamaRqalam : BramamaRqalam : https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4287018625
+11386.028 : kadambabrahmamaRqalam : brahmamaRqalam : BramamaRqalam : https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4287018625
+11231 : kawukatA : kawukatA : kawuMkatA : https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4290505322
+-----------------------------------------------------------------------

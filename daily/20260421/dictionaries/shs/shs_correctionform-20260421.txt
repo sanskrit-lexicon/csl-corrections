@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of April 22, 2026
-3 correction records, with 3 PENDING
+As of April 25, 2026
+3 correction records, with 0 PENDING
 
-Case 14: 04/21/2026 dict=SHS, L=8609, hw=kaṭin, user=srhodes
+Case 12: 04/21/2026 dict=SHS, L=8609, hw=kaṭin, user=srhodes
 old = Mattered
 new = Matted
 comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4289881347
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 6: 04/21/2026 dict=SHS, L=9250, hw=karkasāra, user=srhodes
+Case 4: 04/21/2026 dict=SHS, L=9250, hw=karkasāra, user=srhodes
 old = Flour of meal
 new = Flour or meal
 comment = Typo – Please note that this is a suggested "Print Change". MW agress. And furthermore, the word "meal" already is defined as: "any grain or pulse ground to powder, such as cornmeal". Therefore Flour and Meal are just SLIGHT variations of each other, and NOT to be related in the genetive case, for some other purpose.
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 5: 04/21/2026 dict=SHS, L=9244, hw=karkareṭa, user=srhodes
+Case 3: 04/21/2026 dict=SHS, L=9244, hw=karkareṭa, user=srhodes
 old = half moon
 new = half-moon
 comment = Typo – Perhaps it is better written this way. (Sorry for mentioning).
-status = PENDING
+status = No chnage required
 ------------------------------------------------------------------------
 

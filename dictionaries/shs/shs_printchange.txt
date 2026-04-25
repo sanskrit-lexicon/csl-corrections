@@ -1200,3 +1200,9 @@ code : Headword : Old  : New : Comment
 9172 : karAlambana : helping sustaining : helping, sustaining : 
 9178 : karikusumBa : Nagesara : Nāgakesara : 
 -----------------------------------------------------------------------
+04-25-2026
+Ref : https://github.com/sanskrit-lexicon/csl-corrections/issues/167
+code : Headword : Old  : New : Comment
+9250 : karkasAra : Flour of meal : Flour or meal : AP supports this reading.
+8609 : kawin : Mattered : Matted : https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4289881347
+-----------------------------------------------------------------------
