@@ -2239,3 +2239,10 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/159
 L code : Headword : Old  : New : Comment
 186761 : varUTaka : sAptaDAtuvarUTaka : saptaDAtuvarUTaka : MW lists this word himself.
 -----------------------------------------------------------------
+04-26-2026
+Source: @srhodes
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/159
+L code : Headword : Old  : New : Comment
+225626 : saMyam : Pāṇ. i, 3, 35 : Pāṇ. i, 3, 55 : https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013
+43105 : kanyAgata : ¦  : ¦ <lex>n.</lex> : Added neuter gender. https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294760931, https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013
+-----------------------------------------------------------------

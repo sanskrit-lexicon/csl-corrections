@@ -1,99 +1,92 @@
 Sanskrit Lexicon Correction Form History
-As of April 23, 2026
-14 correction records, with 14 PENDING
+As of April 25, 2026
+13 correction records, with 0 PENDING
 
-Case 14: 04/22/2026 dict=MW, L=216850, hw=śiñjatṣaḍaṅghri, user=srhodes
+Case 13: 04/22/2026 dict=MW, L=216850, hw=śiñjatṣaḍaṅghri, user=srhodes
 old = Placement Error
 new = This is a Follow Up to the correction that you previously made. It was too much to address all at once. So this is Part 2!  Please bear in mind that the Correct "pūrvapada" for this compound is simply the Official Headword: "śiñjat mfn. tinkling, rattling, sounding &c. [ID=216847]". Therefore, this Corrected Compound MUST be Relocated Directly AFTER the Headword: "śiñjat [ID=216847]".  Furthermore, the Window Display must be corrected as follows: "śiñjad—" —> "śiñjat—".  A Final Point to bear in mind is that the Headword: "śiñjad in comp. for °jat. [ID=216848]" NO LONGER RELATES to this Corrected Compound: "śiñjatṣaḍaṅghri". Thus everything must be corrected as stated above:  The Relocation Must Be Made AND the Window Display corrected so that the "pūrvapada" reads as: "śiñjat—".
 comment = Placement Error
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 13: 04/22/2026 dict=AE, L=   [ID=9 ], hw=abbreviate, user=Shalu
+Case 12: 04/22/2026 dict=AE, L=   [ID=9 ], hw=abbreviate, user=Shalu
 old = पङं
 new = पणं
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 12: 04/22/2026 dict=AP, L=11466.02, hw=kapālanalikā, user=srhodes
+Case 11: 04/22/2026 dict=AP, L=11466.02, hw=kapālanalikā, user=srhodes
 old = kapālanalikā
 new = kapālanālikā
 comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4295010760 LB OF COURSE, the portion: "-nalikā", must be corrected to read: ""-nālikā".
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 11: 04/22/2026 dict=AP, L=11466, hw=kapālaḥ, user=srhodes
+Case 10: 04/22/2026 dict=AP, L=11466, hw=kapālaḥ, user=srhodes
 old = kapālanalikā
 new = kapālanālikā
 comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4295010760
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 10: 04/22/2026 dict=MW, L=43105, hw=kanyāgata, user=srhodes
+Case 9: 04/22/2026 dict=MW, L=43105, hw=kanyāgata, user=srhodes
 old = the position of a planet in the sign Virgo. 
 new = n. the position of a planet in the sign Virgo. 
 comment = Typo – Please note that this is a "Print Change", in order to STATE the required Gender for this nominal usage; Also, this has correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294760931https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013 LB Of Course, simply looking up the rule numbers confirms the correction as well.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 9: 04/22/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
-old = Missing Compound
-new = Please note that the Compound "kanyakumārī", is also indicated by Apte and should be listed BOTH here in the Window Display at the Bottom, AND in the Hierarchy Column as a "Searchable Headword" as well.
-comment = Missing Compound
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 8: 04/22/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
 old = Missing Compound
 new = Please note that the Compound "kanyakumārī", is also indicated by Apte and should be listed BOTH here in the Window Display at the Bottom, AND in the Hierarchy Column as a "Searchable Headword" as well.
 comment = Missing Compound
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 7: 04/22/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
+old = Missing Compound
+new = Please note that the Compound "kanyakumārī", is also indicated by Apte and should be listed BOTH here in the Window Display at the Bottom, AND in the Hierarchy Column as a "Searchable Headword" as well.
+comment = Missing Compound
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 6: 04/22/2026 dict=AP, L=11449, hw=kanyā, user=srhodes
 old = Missing Headword
 new = Please note that the Compound "kanyakumārī", is also indicated by Apte and should be listed BOTH here in the Window Display at the Bottom, AND in the Hierarchy Column as a "Searchable Headword" as well.
 comment = Missing Headword
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 6: 04/22/2026 dict=MW, L=225626, hw=saṃyam, user=srhodes
+Case 5: 04/22/2026 dict=MW, L=225626, hw=saṃyam, user=srhodes
 old = Pāṇ. i, 3, 35
 new = Pāṇ. i, 3, 55
 comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013 LB Of Course, simply looking up the rule numbers confirms the correction as well.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 5: 04/22/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 4: 04/22/2026 dict=SHS, L=9256, hw=karkoṭaka, user=srhodes
 old = 5. Sugar-cane.
 new = 4. Sugar-cane.
 comment = Typo – Please note that this is a suggested "Print Change" for correction to the numbering. As you see, the definitions went from "3" to "5", with no "4" !  The "Hyphen" is tempting me – अथ तु मम यमो बलवान् !
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 3: 04/22/2026 dict=SHS, L=9255, hw=karkoṭa, user=srhodes
 old = Patala
 new = Pātāla
 comment = Typo – Please note that this is a suggested "Print Change" for correct transliteration. If you like, this may be considered as a Global Correction. As you remember, we have undertaken similar correction with PUI, (as you may recall with Puramjana).
-status = PENDING
+status = Corrected 25 Apr 2026. Corrected at all 4 places.
 ------------------------------------------------------------------------
 
 Case 2: 04/22/2026 dict=SHS, L=9254, hw=karketara, user=srhodes
 old = karketara
 new = karketana
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 1: 04/22/2026 dict=SHS, L=9254, hw=karketara, user=srhodes
 old = karketara
 new = karketana
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 

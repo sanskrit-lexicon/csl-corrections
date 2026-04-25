@@ -1,10 +1,10 @@
 Sanskrit Lexicon Correction Form History for AE
-As of April 23, 2026
-1 correction records, with 1 PENDING
+As of April 25, 2026
+1 correction records, with 0 PENDING
 
-Case 13: 04/22/2026 dict=AE, L=   [ID=9 ], hw=abbreviate, user=Shalu
+Case 12: 04/22/2026 dict=AE, L=   [ID=9 ], hw=abbreviate, user=Shalu
 old = पङं
 new = पणं
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
