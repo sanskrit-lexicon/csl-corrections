@@ -1,37 +1,37 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of April 19, 2026
-5 correction records, with 5 PENDING
+As of April 25, 2026
+5 correction records, with 0 PENDING
 
-Case 7: 04/18/2026 dict=SHS, L=9178, hw=karikusumbha, user=srhodes
+Case 6: 04/18/2026 dict=SHS, L=9178, hw=karikusumbha, user=srhodes
 old = Nagesara
 new = Nāgakesara
 comment = Typo – Please note that this is a suggested "Print Change", unless someone has a better explanation.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 6: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
-old = Piper chavya
-new = Piper chaba
-comment = Typo – Please note that this correction is according to MW and Wikipedia Authority. If approved, this could be made as a Global Correction.
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 5: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
+old = Piper chavya
+new = Piper chaba
+comment = Typo – Please note that this correction is according to MW and Wikipedia Authority. If approved, this could be made as a Global Correction.
+status = No change required. PWG says that Wilson has given karikaRavallI
+------------------------------------------------------------------------
+
+Case 4: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
 old = karikaṇavallī
 new = karikaṇāvallī
 comment = Typo – Please note that this suggested "Print Change" needs investigation. SKD and MW support this correction. VCP apparently follows SHS. Are Both Spellings Authorized ? 
-status = PENDING
+status = No change required. PWG says that Wilson has given karikaRavallI.
 ------------------------------------------------------------------------
 
-Case 4: 04/18/2026 dict=SHS, L=9172, hw=karālambana, user=srhodes
+Case 3: 04/18/2026 dict=SHS, L=9172, hw=karālambana, user=srhodes
 old = helping sustaining
 new = helping, sustaining
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 3: 04/18/2026 dict=SHS, L=9168, hw=karāla, user=srhodes
+Case 2: 04/18/2026 dict=SHS, L=9168, hw=karāla, user=srhodes
 old = Rosin
 new = Resin
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 

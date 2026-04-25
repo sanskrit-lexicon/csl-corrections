@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 19, 2026
-2 correction records, with 2 PENDING
+As of April 25, 2026
+2 correction records, with 0 PENDING
 
-Case 9: 04/18/2026 dict=AP, L=11949, hw=kādraveyaḥ, user=srhodes
+Case 8: 04/18/2026 dict=AP, L=11949, hw=kādraveyaḥ, user=srhodes
 old = Son of kadrū kādraveyo
 new = Son of kadrū; kādraveyo
 comment = Typo – Please note that this is a suggested correction to add Punctuation in order to separate the Definition Name "kadrū", from the Citation that follows. Currently, as you will see it all "Runs Together".
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 8: 04/18/2026 dict=AP, L=11946, hw=kādala, user=srhodes
+Case 7: 04/18/2026 dict=AP, L=11946, hw=kādala, user=srhodes
 old = kadali
 new = kadalī
 comment = Typo – Please note that this is a suggested "Print Change", so as to correctly spell the word, which is located at the end of the included citation: "mṛdūccakarburanīlāgraromā mṛgaviśeṣaḥ kadalī".
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 

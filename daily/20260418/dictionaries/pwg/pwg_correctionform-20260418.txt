@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of April 19, 2026
-1 correction records, with 1 PENDING
+As of April 25, 2026
+1 correction records, with 0 PENDING
 
-Case 10: 04/18/2026 dict=pwg, L=11124, hw=utsuka, user=Jim
+Case 9: 04/18/2026 dict=pwg, L=11124, hw=utsuka, user=Jim
 old = Śāk. 62. 98,14. ad 62.     markup error in 'ad 62.' <ls n="">62.</ls>
 new = <ls n="Śāk.">62.</ls>
 comment = markup
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 

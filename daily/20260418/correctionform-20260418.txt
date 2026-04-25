@@ -1,72 +1,65 @@
 Sanskrit Lexicon Correction Form History
-As of April 19, 2026
-10 correction records, with 10 PENDING
+As of April 25, 2026
+9 correction records, with 0 PENDING
 
-Case 10: 04/18/2026 dict=pwg, L=11124, hw=utsuka, user=Jim
+Case 9: 04/18/2026 dict=pwg, L=11124, hw=utsuka, user=Jim
 old = Śāk. 62. 98,14. ad 62.     markup error in 'ad 62.' <ls n="">62.</ls>
 new = <ls n="Śāk.">62.</ls>
 comment = markup
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 9: 04/18/2026 dict=AP, L=11949, hw=kādraveyaḥ, user=srhodes
+Case 8: 04/18/2026 dict=AP, L=11949, hw=kādraveyaḥ, user=srhodes
 old = Son of kadrū kādraveyo
 new = Son of kadrū; kādraveyo
 comment = Typo – Please note that this is a suggested correction to add Punctuation in order to separate the Definition Name "kadrū", from the Citation that follows. Currently, as you will see it all "Runs Together".
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 8: 04/18/2026 dict=AP, L=11946, hw=kādala, user=srhodes
+Case 7: 04/18/2026 dict=AP, L=11946, hw=kādala, user=srhodes
 old = kadali
 new = kadalī
 comment = Typo – Please note that this is a suggested "Print Change", so as to correctly spell the word, which is located at the end of the included citation: "mṛdūccakarburanīlāgraromā mṛgaviśeṣaḥ kadalī".
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 7: 04/18/2026 dict=SHS, L=9178, hw=karikusumbha, user=srhodes
+Case 6: 04/18/2026 dict=SHS, L=9178, hw=karikusumbha, user=srhodes
 old = Nagesara
 new = Nāgakesara
 comment = Typo – Please note that this is a suggested "Print Change", unless someone has a better explanation.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 6: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
-old = Piper chavya
-new = Piper chaba
-comment = Typo – Please note that this correction is according to MW and Wikipedia Authority. If approved, this could be made as a Global Correction.
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 5: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
+old = Piper chavya
+new = Piper chaba
+comment = Typo – Please note that this correction is according to MW and Wikipedia Authority. If approved, this could be made as a Global Correction.
+status = No change required. PWG says that Wilson has given karikaRavallI
+------------------------------------------------------------------------
+
+Case 4: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
 old = karikaṇavallī
 new = karikaṇāvallī
 comment = Typo – Please note that this suggested "Print Change" needs investigation. SKD and MW support this correction. VCP apparently follows SHS. Are Both Spellings Authorized ? 
-status = PENDING
+status = No change required. PWG says that Wilson has given karikaRavallI.
 ------------------------------------------------------------------------
 
-Case 4: 04/18/2026 dict=SHS, L=9172, hw=karālambana, user=srhodes
+Case 3: 04/18/2026 dict=SHS, L=9172, hw=karālambana, user=srhodes
 old = helping sustaining
 new = helping, sustaining
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 3: 04/18/2026 dict=SHS, L=9168, hw=karāla, user=srhodes
+Case 2: 04/18/2026 dict=SHS, L=9168, hw=karāla, user=srhodes
 old = Rosin
 new = Resin
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
-Case 2: 04/18/2026 dict=MW, L=186761, hw=varūthaka, user=srhodes
+Case 1: 04/18/2026 dict=MW, L=186761, hw=varūthaka, user=srhodes
 old = sāpta-dhātu-v°
 new = sapta-dhātu-v°
 comment = Typo – Please note that this is a "Print Change", verifiable by looking up the Actual Headword as listed by MW himself.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 04/18/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
