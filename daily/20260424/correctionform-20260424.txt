@@ -1,67 +1,67 @@
 Sanskrit Lexicon Correction Form History
 As of April 25, 2026
-9 correction records, with 9 PENDING
+9 correction records, with 0 PENDING
 
 Case 9: 04/24/2026 dict=ap, L=, hw=eva, user=gasyoun
 old = evo gantā; ye ca evā marutaḥ Uṇ. 1. 150 .                   [ID=10713 ]    <!!!>22.<!!!> eva  ind. This particle is most frequently used to strengthen  and emphasize
 new = 2. instead of 22. 
 comment = 
-status = PENDING
+status = Tracked at https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/58
 ------------------------------------------------------------------------
 
 Case 8: 04/24/2026 dict=ap, L=, hw=eva, user=gasyoun
 old = eva  eva  [Printed book page 0501-1]  <!!!>11.<!!!> eva  a. Ved. 1 Going, moving. 2 Speedy, quick; evo gantā; ye ca evā marutaḥ
 new = 1. instead of 11. 
 comment = 
-status = PENDING
+status = Tracked at https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/58
 ------------------------------------------------------------------------
 
 Case 7: 04/24/2026 dict=AP, L=11989.24, hw=kāmasū, user=srhodes
 old = Rukmiṇi
 new = Rukmiṇī
 comment = Typo – Please note that this is a suggested "Print Change", for the correct spelling of the Femine Form.  This may be considered as a Global Correction as well !
-status = PENDING
+status = Corrected 25 Apr 2026. Also corrected one more occurrence.
 ------------------------------------------------------------------------
 
 Case 6: 04/24/2026 dict=AP, L=11989.23, hw=kāmavṛntam, user=srhodes
 old = kāmavṛntam
 new = kāmavṛntā
 comment = Typo – Please note that this is a suggested "Print Change", for the correction to Gender. AP57 has once again "Taken on the Rest of the World", as MW, SHS, VCP and SKD print this word in the Feminine !  
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 5: 04/24/2026 dict=AP, L=11989.222, hw=kāmavṛkṣam, user=srhodes
 old = -vṛkṣam a. parasitical plant.
 new = -vṛkṣaḥ a parasitical plant.
 comment = Typo – Please note that the "Masculine Gender" is confirmed by MW, VCP and SKD.  ALSO, again we have a Global Correction as the sequence: "m a. "  with the abbreviation "a." in italics, will ALWAYS indicate a mistake !  However, it may resolve in one of TWO ways depending upon the Actual Gender, being either "Masculine or Neuter".  Therefore: LB 1)  In the case of Neuter Gender the correction will be: "m a." —> "m a"  –  (while removing the italics of the letter 'a'). LB 2)  In the case of Masculine Gender the correction will be: "m a." —> "ḥ a"  –  (while removing the italics of the letter 'a').
-status = PENDING
+status = Corrected 25 Apr 2026. Rest cases are tracked at https://github.com/sanskrit-lexicon/csl-corrections/issues/176
 ------------------------------------------------------------------------
 
 Case 4: 04/24/2026 dict=AP, L=11989.214, hw=kāmavaśya, user=srhodes
 old = vaśya n.
 new = vaśya a.
 comment = Typo – Here again is the issue of the abbreviation "a." in italics, which indicates "adjective". Of course the letter "n" as been erroneously used in this case. Therefore, a Very Safe Global Correction is being presented as follows: "a n." —> "a a."
-status = PENDING
+status = Corrected 25 Apr 2026. Rest tracked at https://github.com/sanskrit-lexicon/csl-corrections/issues/174
 ------------------------------------------------------------------------
 
 Case 3: 04/24/2026 dict=AP, L=11989.212, hw=kāmavaśa, user=srhodes
 old = See Below
 new = Please let me know if you intend to list the "Masculine Form", separately, in addition to the adjective in the Hierarchy List Display. My opinion it that it is not necessary, although such has been already implemented in AP. I like to have a consistent approach throughout, so please advise as to your preference.
 comment = See Above
-status = PENDING
+status = I intend to do this. Tracking at https://github.com/sanskrit-lexicon/csl-corrections/issues/175
 ------------------------------------------------------------------------
 
 Case 2: 04/24/2026 dict=AP, L=11989.211, hw=kāmavallabhā, user=srhodes
 old = + -vallabhaḥ + .(-bhā)
 new = + vallabhā
 comment = Typo – Please note that this is a Follow-Up correction to give a clearer parsing to the compound formation.
-status = PENDING
+status = Tracking at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
 ------------------------------------------------------------------------
 
 Case 1: 04/24/2026 dict=AP, L=11989.211, hw=kāmavallabhā, user=srhodes
 old = + .(
 new = + (
 comment = Typo – Please note that this indicates a Global Correction that should be implemented in THREE ways in the following sequence:  LB 1)  "+ .(" —> "+ (" LB 2)  "+ ." —> "+ "  LB 3)  ".(" —> "("   OR   ".(" —> ". (" LB Transformation Number 3, is the only one with possible "crossfire". In other words, it may need to be resolved in one of two ways, but it would be worthwhile to tackle the issue if it still remains, after the First correction has been made.
-status = PENDING
+status = Tracking at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
 ------------------------------------------------------------------------
 

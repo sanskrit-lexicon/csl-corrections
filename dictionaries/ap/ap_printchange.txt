@@ -588,3 +588,8 @@ L code : Headword : Old  : New : Comment
 11989.192 : kAmarasaH : spling : spring : spling is not a word
 11989.178 : kAmalA : kAmalA : kAmaPalA : 
 -----------------------------------------------------------------------
+04-25-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/170
+L code : Headword : Old  : New : Comment
+11989.230 : kAmavfntam : kAmavfntam : kAmavfntA : Rest of dictionaries have this as feminine.
+-----------------------------------------------------------------------
