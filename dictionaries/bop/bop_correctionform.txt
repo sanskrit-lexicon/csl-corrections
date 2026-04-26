@@ -1,222 +1,222 @@
 Sanskrit Lexicon Correction Form History for BOP
-As of April 27, 2022
+As of April 26, 2026
 32 correction records, with 0 PENDING
 
-Case 25133: 03/28/2022 dict=BOP, L= 8155, hw=sakRt, user=h.c.jahr
+Case 24892: 03/28/2022 dict=BOP, L= 8155, hw=sakRt, user=h.c.jahr
 old = gr. (greek) vocum se-mel, si- LB mul, sim-plex, (greek)
 new = gr. ἁ vocum se-mel, si- LB mul, sim-plex, ἁ-πλοῦς
 status =  Corrected 04/27/2022
 ------------------------------------------------------------------------
 
-Case 24956: 07/23/2021 dict=BOP, L= 1594, hw=RkSa, user=h.c.jahr
+Case 24715: 07/23/2021 dict=BOP, L= 1594, hw=RkSa, user=h.c.jahr
 old = (greek)
 new = ἄρκτος
 status = Corrected 09/30/2021
 ------------------------------------------------------------------------
 
-Case 23817: 09/11/2017 dict=BOP, L=2025, hw=kANGin, user=dhaval
-old = kANGin
-new = kANkzin
-comment = typo 
-status =  Corrected 09/11/2017
-------------------------------------------------------------------------
-
-Case 23816: 09/11/2017 dict=BOP, L=2024, hw=kANGA, user=dhaval
-old = kANGA
-new = kANkzA
-comment = typo 
-status =  Corrected 09/11/2017
-------------------------------------------------------------------------
-
-Case 23815: 09/11/2017 dict=BOP, L=7861, hw=SiNGa, user=dhaval
-old = SiNGa
-new = SiNG
-comment = typo 
-status =  Corrected 09/11/2017
-------------------------------------------------------------------------
-
-Case 23814: 09/11/2017 dict=BOP, L=832, hw=AkANGA, user=dhaval
+Case 23580: 09/11/2017 dict=BOP, L=832, hw=AkANGA, user=dhaval
 old = AkANGA
 new = AkANkzA
 comment = typo 
 status =  Corrected 09/11/2017
 ------------------------------------------------------------------------
 
-Case 23675: 03/28/2017 dict=BOP, L=8580, hw=sEha, user=dhaval
-old = sEha
-new = sEMha
-comment = typo Related to siMha.
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23674: 03/28/2017 dict=BOP, L=8179, hw=saNGepatas, user=dhaval
-old = saNGepatas
-new = saNkzepatas
+Case 23579: 09/11/2017 dict=BOP, L=7861, hw=SiNGa, user=dhaval
+old = SiNGa
+new = SiNG
 comment = typo 
-status =  Corrected 03/28/2017
+status =  Corrected 09/11/2017
 ------------------------------------------------------------------------
 
-Case 23673: 03/28/2017 dict=BOP, L=8177, hw=saNGaya, user=dhaval
-old = saNGaya
-new = saNkzaya
+Case 23578: 09/11/2017 dict=BOP, L=2025, hw=kANGin, user=dhaval
+old = kANGin
+new = kANkzin
 comment = typo 
-status =  Corrected 03/28/2017
+status =  Corrected 09/11/2017
 ------------------------------------------------------------------------
 
-Case 23672: 03/28/2017 dict=BOP, L=8159, hw=sakiTa, user=dhaval
-old = sakiTa
-new = sakTi
+Case 23577: 09/11/2017 dict=BOP, L=2024, hw=kANGA, user=dhaval
+old = kANGA
+new = kANkzA
 comment = typo 
-status =  Corrected 03/28/2017
+status =  Corrected 09/11/2017
 ------------------------------------------------------------------------
 
-Case 23671: 03/28/2017 dict=BOP, L=6574, hw=rakzRa, user=dhaval
-old = rakzRa
-new = rakzaRa
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23670: 03/28/2017 dict=BOP, L=6546, hw=yoz, user=dhaval
-old = yoz
-new = yez
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23669: 03/28/2017 dict=BOP, L=6369, hw=medenI, user=dhaval
-old = medenI
-new = medinI
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23668: 03/28/2017 dict=BOP, L=6235, hw=miSrU, user=dhaval
-old = miSrU
-new = miSr
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23667: 03/28/2017 dict=BOP, L=5252, hw=pUp, user=dhaval
-old = pUp
-new = pUy
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23666: 03/28/2017 dict=BOP, L=4839, hw=pawiwaSa, user=dhaval
-old = pawiwaSa
-new = pawwiSa
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23665: 03/28/2017 dict=BOP, L=4477, hw=naqravala, user=dhaval
-old = naqravala
-new = naqvala
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23664: 03/28/2017 dict=BOP, L=3703, hw=tadfSa, user=dhaval
-old = tadfSa
-new = tAdfSa
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23663: 03/28/2017 dict=BOP, L=2543, hw=kzRadAdara, user=dhaval
-old = kzRadAdara
-new = kzaRadAcara
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23662: 03/28/2017 dict=BOP, L=2161, hw=kicaka, user=dhaval
-old = kicaka
-new = kIcaka
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23661: 03/28/2017 dict=BOP, L=1757, hw=kaNkitikA, user=dhaval
-old = kaNkitikA
-new = kaNkatikA
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23660: 03/28/2017 dict=BOP, L=1704, hw=oDa, user=dhaval
-old = oDa
-new = oGa
-comment = typo 
-status =  Corrected 03/28/2017
-------------------------------------------------------------------------
-
-Case 23659: 03/28/2017 dict=BOP, L=87, hw=aNiGri, user=dhaval
+Case 23438: 03/28/2017 dict=BOP, L=87, hw=aNiGri, user=dhaval
 old = aNiGri
 new = aNGri
 comment = typo 
 status =  Corrected 03/28/2017
 ------------------------------------------------------------------------
 
-Case 23550: 10/17/2016 dict=BOP, L= , hw=dharma, user=greens
+Case 23437: 03/28/2017 dict=BOP, L=8580, hw=sEha, user=dhaval
+old = sEha
+new = sEMha
+comment = typo Related to siMha.
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23436: 03/28/2017 dict=BOP, L=8179, hw=saNGepatas, user=dhaval
+old = saNGepatas
+new = saNkzepatas
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23435: 03/28/2017 dict=BOP, L=8177, hw=saNGaya, user=dhaval
+old = saNGaya
+new = saNkzaya
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23434: 03/28/2017 dict=BOP, L=8159, hw=sakiTa, user=dhaval
+old = sakiTa
+new = sakTi
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23433: 03/28/2017 dict=BOP, L=6574, hw=rakzRa, user=dhaval
+old = rakzRa
+new = rakzaRa
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23432: 03/28/2017 dict=BOP, L=6546, hw=yoz, user=dhaval
+old = yoz
+new = yez
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23431: 03/28/2017 dict=BOP, L=6369, hw=medenI, user=dhaval
+old = medenI
+new = medinI
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23430: 03/28/2017 dict=BOP, L=6235, hw=miSrU, user=dhaval
+old = miSrU
+new = miSr
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23429: 03/28/2017 dict=BOP, L=5252, hw=pUp, user=dhaval
+old = pUp
+new = pUy
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23428: 03/28/2017 dict=BOP, L=4839, hw=pawiwaSa, user=dhaval
+old = pawiwaSa
+new = pawwiSa
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23427: 03/28/2017 dict=BOP, L=4477, hw=naqravala, user=dhaval
+old = naqravala
+new = naqvala
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23426: 03/28/2017 dict=BOP, L=3703, hw=tadfSa, user=dhaval
+old = tadfSa
+new = tAdfSa
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23425: 03/28/2017 dict=BOP, L=2543, hw=kzRadAdara, user=dhaval
+old = kzRadAdara
+new = kzaRadAcara
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23424: 03/28/2017 dict=BOP, L=2161, hw=kicaka, user=dhaval
+old = kicaka
+new = kIcaka
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23423: 03/28/2017 dict=BOP, L=1757, hw=kaNkitikA, user=dhaval
+old = kaNkitikA
+new = kaNkatikA
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23422: 03/28/2017 dict=BOP, L=1704, hw=oDa, user=dhaval
+old = oDa
+new = oGa
+comment = typo 
+status =  Corrected 03/28/2017
+------------------------------------------------------------------------
+
+Case 23313: 10/17/2016 dict=BOP, L= , hw=dharma, user=greens
 old = darma
 new = 
 status =  No change needed.10/16/2016
 ------------------------------------------------------------------------
 
-Case 23366: 06/14/2016 dict=BOP, L=7350, hw=viBozaRa, user=dhaval
+Case 23129: 06/14/2016 dict=BOP, L=7350, hw=viBozaRa, user=dhaval
 old = viBozaRa
 new = viBIzaRa
 comment = typo Boz
 status =  Corrected 06/14/2016
 ------------------------------------------------------------------------
 
-Case 21472: 04/14/2016 dict=BOP, L=8178, hw=saNGepa, user=dhaval
+Case 21236: 04/14/2016 dict=BOP, L=8178, hw=saNGepa, user=dhaval
 old = saNGepa
 new = saNkzepa
 comment = typo NGe->Nkz. Similar orthography
 status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
-Case 16933: 01/22/2016 dict=BOP, L=1466, hw=upaspfrSA, user=dhaval
-old = upaspfrSA
-new = upasparSa
-comment = typo fr
-status =  Corrected 01/22/2016
-------------------------------------------------------------------------
-
-Case 16932: 01/22/2016 dict=BOP, L=1465, hw=upasita, user=dhaval
-old = upasita
-new = upasTita
-comment = typo  paper wrinkle in scan
-status =  Corrected 01/22/2016
-------------------------------------------------------------------------
-
-Case 16931: 01/22/2016 dict=BOP, L=1464, hw=upasAna, user=dhaval
-old = upasAna
-new = upasTAna
-comment = typo  paper wrinkle in scan
-status =  Corrected 01/22/2016
-------------------------------------------------------------------------
-
-Case 16930: 01/22/2016 dict=BOP, L=2580, hw=kzti, user=dhaval
+Case 16831: 01/22/2016 dict=BOP, L=2580, hw=kzti, user=dhaval
 old = kzti
 new = kziti
 comment = typo zt
 status =  Corrected 01/22/2016
 ------------------------------------------------------------------------
 
-Case 15441: 01/13/2016 dict=BOP, L=8819, hw=hfW, user=dhaval
+Case 16830: 01/22/2016 dict=BOP, L=1466, hw=upaspfrSA, user=dhaval
+old = upaspfrSA
+new = upasparSa
+comment = typo fr
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16829: 01/22/2016 dict=BOP, L=1465, hw=upasita, user=dhaval
+old = upasita
+new = upasTita
+comment = typo  paper wrinkle in scan
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16828: 01/22/2016 dict=BOP, L=1464, hw=upasAna, user=dhaval
+old = upasAna
+new = upasTAna
+comment = typo  paper wrinkle in scan
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 15340: 01/13/2016 dict=BOP, L=8819, hw=hfW, user=dhaval
 old = hfW
 new = haW
 comment = typo fW
 status =  Corrected 01/13/2016
 ------------------------------------------------------------------------
 
-Case 5914: 12/03/2015 dict=BOP, L=4818, hw=paNkta, user=gasyoun
+Case 5867: 12/03/2015 dict=BOP, L=4818, hw=paNkta, user=gasyoun
 old = paNkta
 new = paNkti
 comment = typo 

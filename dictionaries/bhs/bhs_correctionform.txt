@@ -1,101 +1,101 @@
 Sanskrit Lexicon Correction Form History for BHS
-As of December 13, 2023
+As of April 26, 2026
 21 correction records, with 0 PENDING
 
-Case 25714: 11/20/2023 dict=BHS, L= maṇi, hw=maṇiratna, user=
+Case 25472: 11/20/2023 dict=BHS, L= maṇi, hw=maṇiratna, user=
 old = 
 new = 
 status = 12/12/2023 no change. insufficient info.
 ------------------------------------------------------------------------
 
-Case 25347: 12/22/2022 dict=BHS, L= , hw=Bhāva, user=
+Case 25106: 12/22/2022 dict=BHS, L= , hw=Bhāva, user=
 old = Bhāva
 new = 
 status =  12/22/2022 insufficient information.
 ------------------------------------------------------------------------
 
-Case 24116: 03/07/2018 dict=BHS, L= , hw=Abhinda, user=
+Case 23875: 03/07/2018 dict=BHS, L= , hw=Abhinda, user=
 old = 
 new = Abhinda
 status =  05/21/2018. Insufficient information for correction
 ------------------------------------------------------------------------
 
-Case 23471: 08/03/2016 dict=BHS, L= , hw=prthu, user=rathnawp
+Case 23234: 08/03/2016 dict=BHS, L= , hw=prthu, user=rathnawp
 old = 
 new = 
 status =  08/22/2016. No correction required. 'pRthu' is HK spelling.
 ------------------------------------------------------------------------
 
-Case 22563: 05/11/2016 dict=BHS, L=1822, hw=aMuYciyaM, user=ejf
+Case 22326: 05/11/2016 dict=BHS, L=1822, hw=aMuYciyaM, user=ejf
 old = aMuYciyaM
 new = amuYciyaM
 comment = print error  'M' wrong by alphabetical ordering and by text
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 18080: 04/01/2016 dict=BHS, L= , hw=samana, user=
+Case 17845: 04/01/2016 dict=BHS, L= , hw=samana, user=
 old = 
 new = 
 comment = 
 status =  Corrected 04/14/2016  Insufficiant information for correction
 ------------------------------------------------------------------------
 
-Case 15440: 01/13/2016 dict=BHS, L=15463, hw=saMswaraRaka, user=dhaval
+Case 15339: 01/13/2016 dict=BHS, L=15463, hw=saMswaraRaka, user=dhaval
 old = saMswaraRaka
 new = saMstaraRaka
 comment = typo sw- Confirmed by the alphabetic order. Preceding and subsequent entry has 'saMst'
 status =  Corrected 01/13/2016
 ------------------------------------------------------------------------
 
-Case 3290: 1/28/2015 dict=BHS, L=6864, hw=tayyaTApl, user=ejf
-old = tayyaTApl
-new = tayyaTApi
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3289: 1/28/2015 dict=BHS, L=9747, hw=pfcCparipfcCikA, user=ejf
+Case 3284: 1/28/2015 dict=BHS, L=9747, hw=pfcCparipfcCikA, user=ejf
 old = pfcCparipfcCikA
 new = pfcCaparipfcCikA
 status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 
-Case 3288: 1/28/2015 dict=BHS, L=7778, hw=DarmanayagamBIraSrIcaNdra, user=ejf
+Case 3283: 1/28/2015 dict=BHS, L=7778, hw=DarmanayagamBIraSrIcaNdra, user=ejf
 old = DarmanayagamBIraSrIcaNdra
 new = DarmanayagamBIraSrIcandra
 status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 
-Case 3287: 1/28/2015 dict=BHS, L=15745, hw=saMdfztika, user=ejf
-old = saMdfztika
-new = saMdfzwika
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3286: 1/28/2015 dict=BHS, L=7481, hw=dfztaSakti, user=ejf
+Case 3282: 1/28/2015 dict=BHS, L=7481, hw=dfztaSakti, user=ejf
 old = dfztaSakti
 new = dfzwaSakti
 status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 
-Case 3285: 1/28/2015 dict=BHS, L=4177, hw=okramana, user=ejf
+Case 3281: 1/28/2015 dict=BHS, L=6864, hw=tayyaTApl, user=ejf
+old = tayyaTApl
+new = tayyaTApi
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3280: 1/28/2015 dict=BHS, L=4177, hw=okramana, user=ejf
 old = okramana
 new = okramaRa
 status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 
-Case 3284: 1/28/2015 dict=BHS, L=2934, hw=AryamahAsiMhOkkAsita, user=ejf
+Case 3279: 1/28/2015 dict=BHS, L=2934, hw=AryamahAsiMhOkkAsita, user=ejf
 old = AryamahAsiMhOkkAsita
 new = AryamahAsiMhaukkAsita
 status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 
-Case 3283: 1/28/2015 dict=BHS, L=1545, hw=aBinispIqayati, user=ejf
+Case 3278: 1/28/2015 dict=BHS, L=15745, hw=saMdfztika, user=ejf
+old = saMdfztika
+new = saMdfzwika
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3277: 1/28/2015 dict=BHS, L=1545, hw=aBinispIqayati, user=ejf
 old = aBinispIqayati
 new = aBinizpIqayati
 status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 
-Case 1615: 12/11/2014 dict=BHS, L= ---, hw=lakSmI, user=brahma
+Case 1612: 12/11/2014 dict=BHS, L= ---, hw=lakSmI, user=brahma
 old = does not work
 new = 
 comment = does not work

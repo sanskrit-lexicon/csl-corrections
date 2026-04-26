@@ -1,187 +1,206 @@
 Sanskrit Lexicon Correction Form History for AE
-As of February 03, 2026
-103 correction records, with 0 PENDING
+As of April 26, 2026
+106 correction records, with 1 PENDING
 
-Case 26234: 01/25/2026 dict=ae, L=, hw=, user=Serge A
+Case 26221: 04/22/2026 dict=AE, L=   [ID=9 ], hw=abbreviate, user=Shalu
+old = पङं
+new = पणं
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26131: 04/13/2026 dict=ae, L=  4533, hw=glean, user=ejf
+old = उछ् 
+new = उंछ्
+status = Corrected 14 Apr 2026
+------------------------------------------------------------------------
+
+Case 26011: 02/05/2026 dict=AE, L= 6923 , hw=moustache, user=Shalu
+old = Not a typo- but the word "mustache" doesn't appear in search in the cologne dictionary- but it is there on this link- of the printed book scan. LB https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=ae&page=301
+new = please include it so as it appears in the search.
+comment = Word missing in digital version
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25991: 01/25/2026 dict=ae, L=, hw=, user=Serge A
 old = Help  dog  dog  [Printed book page 119]  Dog,  s. śvan m. <!!!>kukkaraḥ<!!!>, sārameyaḥ, śunakaḥ; kauleyakaḥ, bhaṣakaḥ, mṛgadaṃśakaḥ; ‘d. -cheap’
 new = kukkuraḥ
 comment = 
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 25945: 04/14/2024 dict=AE, L=225, hw=ahead, user=snbt98
+Case 25702: 04/14/2024 dict=AE, L=225, hw=ahead, user=snbt98
 old = अग्ने
 new = अग्रे
 status =  corrected 06-24-2024
 ------------------------------------------------------------------------
 
-Case 25928: 03/15/2024 dict=ae, L= 11188, hw=well, user=ejf
+Case 25685: 03/15/2024 dict=ae, L= 11188, hw=well, user=ejf
 old = कृपः
 new = कूपः
 status =  corrected 06-24-2024
 ------------------------------------------------------------------------
 
-Case 25409: 03/11/2023 dict=ae, L=7729, hw=pause, user=ejf
+Case 25168: 03/11/2023 dict=ae, L=7729, hw=pause, user=ejf
 old = pause  [Printed book page 334]  Pause,  v. i. <!!!>vi-up-ram<!!!> 1 P, nivft;
 new = vi-upa-ram   [print error]
 comment = 
 status = corrected 06-05-2023
 ------------------------------------------------------------------------
 
-Case 25035: 11/29/2021 dict=AE, L= 4968, hw=home, user=SergeA
+Case 24794: 11/29/2021 dict=AE, L= 4968, hw=home, user=SergeA
 old = gṛhaj-jāta,
 new = gṛhaja-jāta,
 status = 12/20/2021 corrected.
 ------------------------------------------------------------------------
 
-Case 24827: 01/16/2021 dict=ae, L=34, hw=about, user=SergeA
+Case 24586: 01/16/2021 dict=ae, L=34, hw=about, user=SergeA
 old = old’ paṃcavarṣadeśīyaḥ. 3 (Regard- -ing) ādhikṛtya, prati, uddiśya; saṃbaddha- <!!!>-anuviddha gata-<!!!>viśaye in comp.; ‘I ask a. my friend’ mitragataṃ pṛcchāmi; parājayā- -nuviddhā
 new = -anuviddha-gata- (hyphen)
 comment = 
 status =  03/20/2021 Corrected
 ------------------------------------------------------------------------
 
-Case 24826: 01/16/2021 dict=ae, L=34, hw=about, user=SergeA
+Case 24585: 01/16/2021 dict=ae, L=34, hw=about, user=SergeA
 old = 3 (Regard- -ing) ādhikṛtya, prati, uddiśya; saṃbaddha- -anuviddha gata-<!!!>viśaye<!!!> in comp.; ‘I ask a. my friend’ mitragataṃ pṛcchāmi; parājayā- -nuviddhā ālāpāḥ
 new = viṣaye
 comment = 
 status =  03/20/2021 Corrected
 ------------------------------------------------------------------------
 
-Case 24680: 06/03/2020 dict=AE, L=8784 in Apte E-S, 99903 in MW, and p. 857 in Apte S-E, hw=dharma, user=sanaatani
+Case 24439: 06/03/2020 dict=AE, L=8784 in Apte E-S, 99903 in MW, and p. 857 in Apte S-E, hw=dharma, user=sanaatani
 old = ---
 new = The word for RELIGION is मतः| But in all the three dictionaries the word listed is धर्मः| Paradoxically the word मतः is not shown against the word RELIGION. मतः means OPINION, and RELIGION is the ultimate OPINION. LB Pseudo debaters, like leftists, are trigger happy about using the word धर्मः to mean RELIGION, for it serves their agenda. Confusion reigns the minds of the people as long as they do so. LB I am of the opinion that you should discuss with scholars within your panel and without, and think of doing away with this unholy equation.
 comment = Meaning
 status = 06/17/2020 Nothing to change.
 ------------------------------------------------------------------------
 
-Case 24632: 04/06/2020 dict=AE, L= 10468 etc., hw=Tooth etc., user=sanaatani
+Case 24391: 04/06/2020 dict=AE, L= 10468 etc., hw=Tooth etc., user=sanaatani
 old = See below
 new = I am not versed in व्याकरणशास्त्र, but I have stated here my observation on the usage of the अनुनासिक: LB 1.  वर्गीयव्यञ्जन: The अनुनासिक of the respective वर्गs should be used where such अनुनासिक immediately precedes those other consonants. E. g. LB a.  कवर्ग: शङ्कर, शृङ्खला, शृङ्गार, सङ्घात LB b.  चवर्ग: इञ्चर, वाञ्छा, मञ्जीर, झञ्झावात LB c.  टवर्ग: कण्टक, कुण्ठित, दण्ड, ढुण्ढि LB d.  तवर्ग: दन्ति, ग्रन्थ, मन्द, बन्धन LB e.  पवर्ग: कम्पन, गुम्फन, लम्ब, स्तम्भन LB 2.  अवर्गीयव्यञ्जन: The vowel-अनुनासिक (ं) is used where it immediately precedes the consonants. E. g. संयम, संरक्षण, संलग्न, संवरण, संशय, अरुंषिका/दंष्ट्र, संसार, संहरण (य to ह) LB 3.  In https://www.sanskrit-lexicon.uni-koeln.de/scans/AEScan/2014/web/webtc2/index.php it is spelled दंपती whereas in https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php it is spelled दम्पति. As per my above understanding, I feel म्प is apt; ंप isn’t. Other such examples in former website are: संघः, वांछा, कंटकः, दंतः LB Kindly clarify/ educate me.
 comment = Spello
 status = 05/01/2020 No correction needed.
 ------------------------------------------------------------------------
 
-Case 24469: 09/06/2019 dict=AE, L= 11278, hw=Woman, user=sanaatani
+Case 24228: 09/06/2019 dict=AE, L= 11278, hw=Woman, user=sanaatani
 old = कुलांगमा
 new = कुलांगना. It is better to use the अनुनासिक of the कवर्ग - कुलाङ्गना। The svarAnunAsika (ं) is for अवर्गीयव्यञ्जनाः - संयम, संरम्भ, संलग्न, संवरण, संशय, संस्कार, संहार
 comment = Typo.
 status = Corrected 12/17/2019
 ------------------------------------------------------------------------
 
-Case 24448: 07/26/2019 dict=AE, L= 382, hw=Anhelation, user=sanaatani
+Case 24207: 07/26/2019 dict=AE, L= 382, hw=Anhelation, user=sanaatani
 old = 
 new = 
 comment = None. A little while ago I wrongly suggested that it could be INHALATION. Pls ignore my suggestion. Anhelation is correct. Sorry for the inconvenience.
 status = Corrected 12/17/2019
 ------------------------------------------------------------------------
 
-Case 24447: 07/26/2019 dict=AE, L= 382, hw=Anhelation, user=sanaatani
+Case 24206: 07/26/2019 dict=AE, L= 382, hw=Anhelation, user=sanaatani
 old = Is it inhalation?
 new = 
 status = Corrected 12/17/2019
 ------------------------------------------------------------------------
 
-Case 24187: 06/01/2018 dict=AE, L=5874, hw=Join, user=sanaatani
+Case 23946: 06/01/2018 dict=AE, L=5874, hw=Join, user=sanaatani
 old = -er, s. तक्षकः, रथकारः, सूत्रधारः,  LB तष्टृ, m., तक्षन् m., काष्ठतक्ष् m., वर्धकिः  LB -ery, s. काष्टतक्षणं
 new = Is it alpaprAN or mahAprAN? - काष्ठ/ काष्ट. And why is just 'काष्ठ (for twig)' not listed?
 status =  Corrected 09/13/2018 kAzwatakzaRaM -> kAzWatakzaRaM
 ------------------------------------------------------------------------
 
-Case 23955: 10/02/2017 dict=AE, L= 8947, hw=ride, user=danbalogh
+Case 23714: 10/02/2017 dict=AE, L= 8947, hw=ride, user=danbalogh
 old = aśvaārohin 
 new = aśvārohin 
 status =  Corrected 11/10/2017
 ------------------------------------------------------------------------
 
-Case 23954: 10/02/2017 dict=AE, L= 578, hw=assail, user=danbalogh
+Case 23713: 10/02/2017 dict=AE, L= 578, hw=assail, user=danbalogh
 old = thing 
 new = king
 comment = Typo?
 status =  Corrected 11/10/2017
 ------------------------------------------------------------------------
 
-Case 23787: 08/28/2017 dict=AE, L= 6399, hw=Magic, user=bikelis
+Case 23550: 08/28/2017 dict=AE, L= 6399, hw=Magic, user=bikelis
 old = aidra-  LB -jālika-
 new = aiṁdra-  LB -jālika-
 status =  Corrected 11/10/2017 (correction previously made)
 ------------------------------------------------------------------------
 
-Case 23786: 08/27/2017 dict=AE, L=9367, hw=sex, user=aprigliano
+Case 23549: 08/27/2017 dict=AE, L=9367, hw=sex, user=aprigliano
 old = सीरीपुंस
 new = स्त्रीपुंस
 status =  Corrected 11/10/2017
 ------------------------------------------------------------------------
 
-Case 23785: 08/27/2017 dict=AE, L= 9367, hw=sex, user=aprigliano
+Case 23548: 08/27/2017 dict=AE, L= 9367, hw=sex, user=aprigliano
 old = jāt; puṁja tiḥ
 new = jātiḥ; puṁjātiḥ
 status =  Corrected 11/10/2017
 ------------------------------------------------------------------------
 
-Case 23772: 08/14/2017 dict=AE, L= [L=3099] [p= 117], hw=distinct, user=Shalu
+Case 23535: 08/14/2017 dict=AE, L= [L=3099] [p= 117], hw=distinct, user=Shalu
 old = 
 new = 
 comment = Not a typo. But the head word "Distinct" has become a part of "Distinguish" and it is not appearing when searched for. Please mark it as a separate head word.
 status =  Noted  08/19/2017 (on todo list - alternate headwords)
 ------------------------------------------------------------------------
 
-Case 23633: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
+Case 23396: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
 old = vignah [...] sāṁgnāmika-sāmarika
 new = vigrah [...] sāṁgrāmika-sāmarika
 status =  Corrected 02/21/2017
 ------------------------------------------------------------------------
 
-Case 23632: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
+Case 23395: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
 old = vignahaḥ, saṁgrahāraḥ
 new = vigrahaḥ, saṁprahāraḥ
 status =  Corrected 02/21/2017
 ------------------------------------------------------------------------
 
-Case 23631: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
+Case 23394: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
 old = saṁgnāmaḥ
 new = saṁgrāmaḥ
 status =  Corrected 02/21/2017
 ------------------------------------------------------------------------
 
-Case 23458: 07/29/2016 dict=AE, L=4310, hw=Froth, user=sanaatani
+Case 23221: 07/29/2016 dict=AE, L=4310, hw=Froth, user=sanaatani
 old = Also L 6237, 8886 & 8942 - respectively Linsleywoolsey, restore and rich: the common sanskrit word in these is listed as satva
 new = Should it be sattva?
 status =  Corrected 08/22/2016
 ------------------------------------------------------------------------
 
-Case 23453: 07/26/2016 dict=AE, L=[L=9751] [p= 440], hw=Spirit, user=sanaatani
+Case 23216: 07/26/2016 dict=AE, L=[L=9751] [p= 440], hw=Spirit, user=sanaatani
 old = ब्रह्नवादः
 new = ब्रह्मवादः?
 status =   Corrected 07/28/2016
 ------------------------------------------------------------------------
 
-Case 23435: 07/20/2016 dict=AE, L=  32555, hw=Mn, user=Pronab singh
+Case 23198: 07/20/2016 dict=AE, L=  32555, hw=Mn, user=Pronab singh
 old = English
 new = Sanskrit
 status =  07/27/2016. Insufficient information to correct
 ------------------------------------------------------------------------
 
-Case 23408: 06/17/2016 dict=AE, L=5059, hw=husband, user=ejf
+Case 23171: 06/17/2016 dict=AE, L=5059, hw=husband, user=ejf
 old = Batf
 new = Bartf
 comment = typo 
 status =  Corrected 06/17/2016
 ------------------------------------------------------------------------
 
-Case 20940: 04/11/2016 dict=AE, L= 3712, hw=every, user=thomaskintaert
+Case 20704: 04/11/2016 dict=AE, L= 3712, hw=every, user=thomaskintaert
 old = marvajñaḥ
 new = sarvajñaḥ
 status =  Corrected 04/14/2016.
 ------------------------------------------------------------------------
 
-Case 18083: 04/04/2016 dict=AE, L= [L=566] [p= 021], hw=ask, user=Shalu
+Case 17848: 04/04/2016 dict=AE, L= [L=566] [p= 021], hw=ask, user=Shalu
 old = अनुवोगः
 new = अनुयोगः
 status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
-Case 4106: 4/23/2015 dict=AE, L= [L=10445] [p= 471], hw=title, user=Shalu
+Case 4067: 4/23/2015 dict=AE, L= [L=10445] [p= 471], hw=title, user=Shalu
 old = नानन् 
 new = नामन् 
 status =  Corrected 05/03/2015

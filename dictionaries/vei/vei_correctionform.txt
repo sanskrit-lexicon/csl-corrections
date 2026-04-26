@@ -1,121 +1,121 @@
 Sanskrit Lexicon Correction Form History for VEI
-As of March 20, 2021
+As of April 26, 2026
 44 correction records, with 0 PENDING
 
-Case 24841: 02/09/2021 dict=VEI, L= 1, hw=Deo, user=DR VIJAY SHANKARL
+Case 24600: 02/09/2021 dict=VEI, L= 1, hw=Deo, user=DR VIJAY SHANKARL
 old = 
 new = 
 status =  03/21/2021 Insufficient Information
 ------------------------------------------------------------------------
 
-Case 24791: 11/03/2020 dict=VEI, L=2656, hw=rasA, user=toe5sst.mt31415
+Case 24550: 11/03/2020 dict=VEI, L=2656, hw=rasA, user=toe5sst.mt31415
 old = atinosphere
 new = atmosphere
 comment = Typo, '-in-' should be '-m-' . LB Printed book page 2-209.
 status =  Corrected 11/19/2020
 ------------------------------------------------------------------------
 
-Case 23933: 09/12/2017 dict=VEI, L=675, hw=kusurubindaOddalaki, user=dhaval
+Case 23692: 09/12/2017 dict=VEI, L=675, hw=kusurubindaOddalaki, user=dhaval
 old = kusurubindaOddalaki
 new = kusurubindaOddAlaki
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23932: 09/12/2017 dict=VEI, L=113, hw=amAvAsyaSARdilyAyana, user=dhaval
+Case 23691: 09/12/2017 dict=VEI, L=113, hw=amAvAsyaSARdilyAyana, user=dhaval
 old = amAvAsyaSARdilyAyana
 new = amAvAsyaSARqilyAyana
 comment = print error 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23526: 09/13/2016 dict=VEI, L= 732, hw=kosa, user=ejf for gasuns
+Case 23289: 09/13/2016 dict=VEI, L= 732, hw=kosa, user=ejf for gasuns
 old = kosa
 new = koSa (slp1)
 comment = Print error
 status =  Corrected 09/16/2016
 ------------------------------------------------------------------------
 
-Case 21510: 04/14/2016 dict=VEI, L=184, hw=azAQOttarapArASarya, user=dhaval
-old = azAQOttarapArASarya
-new = azAQauttarapArASarya
-comment = typo QO. Multiple headwords; requires change to hw2.py to allow hiatus
-status =  Corrected 04/14/2016
-------------------------------------------------------------------------
-
-Case 21509: 04/14/2016 dict=VEI, L=284, hw=aSvatTva, user=dhaval
+Case 21274: 04/14/2016 dict=VEI, L=284, hw=aSvatTva, user=dhaval
 old = aSvatTva
 new = aSvatTya
 comment = typo Tv is not possible in patronymic. Ty is much more probable. Requires investigation.
 status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
-Case 18046: 03/16/2016 dict=VEI, L=3418, hw=saMvartaAngirasa, user=ejf
+Case 21273: 04/14/2016 dict=VEI, L=184, hw=azAQOttarapArASarya, user=dhaval
+old = azAQOttarapArASarya
+new = azAQauttarapArASarya
+comment = typo QO. Multiple headwords; requires change to hw2.py to allow hiatus
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 17811: 03/16/2016 dict=VEI, L=3418, hw=saMvartaAngirasa, user=ejf
 old = saMvartaAngirasa
 new = saMvartaANgirasa
 comment = print error  proper name. two words saMvarta + ANgirasa  (Angirasa seems print err.)
 status =  Corrected 03/16/2016
 ------------------------------------------------------------------------
 
-Case 16995: 01/22/2016 dict=VEI, L=2906, hw=vAfzRivfdDa, user=dhaval
+Case 16893: 01/22/2016 dict=VEI, L=2906, hw=vAfzRivfdDa, user=dhaval
 old = vAfzRivfdDa
 new = vArzRivfdDa
 comment = typo Af
 status =  Corrected 01/22/2016
 ------------------------------------------------------------------------
 
-Case 15487: 01/13/2016 dict=VEI, L=3699, hw=skanDhyA, user=dhaval
+Case 15386: 01/13/2016 dict=VEI, L=3699, hw=skanDhyA, user=dhaval
 old = skanDhyA
 new = skanDyA
 comment = print error Dh
 status =  Corrected 01/13/2016
 ------------------------------------------------------------------------
 
-Case 4105: 4/19/2015 dict=VEI, L=3407, hw=SvetaketuaruReya, user=dhaval
-old = SvetaketuaruReya
-new = Svetaketu
-status =  Corrected 04/19/2015
-------------------------------------------------------------------------
-
-Case 4104: 4/19/2015 dict=VEI, L=3316, hw=SunolAngUla, user=dhaval
-old = SunolAngUla
-new = SunolANgUla
-status =  Corrected 04/19/2015
-------------------------------------------------------------------------
-
-Case 4103: 4/19/2015 dict=VEI, L=3311, hw=SunaHpuCa, user=dhaval
-old = SunaHpuCa
-new = SunaHpucCa
-status =  Corrected 04/19/2015
-------------------------------------------------------------------------
-
-Case 4102: 4/19/2015 dict=VEI, L=3141, hw=SaNkuinTe, user=dhaval
-old = SaNkuinTe
-new = SaNku
-status =  Corrected 04/19/2015
-------------------------------------------------------------------------
-
-Case 4101: 4/19/2015 dict=VEI, L=2102, hw=piakza, user=dhaval
-old = piakza
-new = plakza
-status =  Corrected 04/19/2015
-------------------------------------------------------------------------
-
-Case 4100: 4/19/2015 dict=VEI, L=1595, hw=nIeya, user=dhaval
-old = nIeya
-new = nIcya
-status =  Corrected 04/19/2015
-------------------------------------------------------------------------
-
-Case 4099: 4/19/2015 dict=VEI, L=764, hw=kanzya, user=dhaval
+Case 4066: 4/19/2015 dict=VEI, L=764, hw=kanzya, user=dhaval
 old = kanzya
 new = kOzya
 status =  Corrected 04/19/2015
 ------------------------------------------------------------------------
 
-Case 4098: 4/19/2015 dict=VEI, L=592, hw=kArSkeyIputra, user=dhaval
+Case 4065: 4/19/2015 dict=VEI, L=592, hw=kArSkeyIputra, user=dhaval
 old = kArSkeyIputra
 new = kArSakeyIputra
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4064: 4/19/2015 dict=VEI, L=3407, hw=SvetaketuaruReya, user=dhaval
+old = SvetaketuaruReya
+new = Svetaketu
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4063: 4/19/2015 dict=VEI, L=3316, hw=SunolAngUla, user=dhaval
+old = SunolAngUla
+new = SunolANgUla
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4062: 4/19/2015 dict=VEI, L=3311, hw=SunaHpuCa, user=dhaval
+old = SunaHpuCa
+new = SunaHpucCa
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4061: 4/19/2015 dict=VEI, L=3141, hw=SaNkuinTe, user=dhaval
+old = SaNkuinTe
+new = SaNku
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4060: 4/19/2015 dict=VEI, L=2102, hw=piakza, user=dhaval
+old = piakza
+new = plakza
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4059: 4/19/2015 dict=VEI, L=1595, hw=nIeya, user=dhaval
+old = nIeya
+new = nIcya
 status =  Corrected 04/19/2015
 ------------------------------------------------------------------------
 

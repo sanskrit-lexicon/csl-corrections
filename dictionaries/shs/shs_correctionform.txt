@@ -1,943 +1,1173 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of February 03, 2026
-217 correction records, with 1 PENDING
+As of April 26, 2026
+253 correction records, with 2 PENDING
 
-Case 26233: 01/22/2026 dict=SHS, L=23535 , hw=परि, user=snbt98
+Case 26213: 04/22/2026 dict=SHS, L=9256, hw=karkoṭaka, user=srhodes
+old = 5. Sugar-cane.
+new = 4. Sugar-cane.
+comment = Typo – Please note that this is a suggested "Print Change" for correction to the numbering. As you see, the definitions went from "3" to "5", with no "4" !  The "Hyphen" is tempting me – अथ तु मम यमो बलवान् !
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26212: 04/22/2026 dict=SHS, L=9255, hw=karkoṭa, user=srhodes
+old = Patala
+new = Pātāla
+comment = Typo – Please note that this is a suggested "Print Change" for correct transliteration. If you like, this may be considered as a Global Correction. As you remember, we have undertaken similar correction with PUI, (as you may recall with Puramjana).
+status = Corrected 25 Apr 2026. Corrected at all 4 places.
+------------------------------------------------------------------------
+
+Case 26211: 04/22/2026 dict=SHS, L=9254, hw=karketara, user=srhodes
+old = karketara
+new = karketana
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26210: 04/22/2026 dict=SHS, L=9254, hw=karketara, user=srhodes
+old = karketara
+new = karketana
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26208: 04/21/2026 dict=SHS, L=8609, hw=kaṭin, user=srhodes
+old = Mattered
+new = Matted
+comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4289881347
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26200: 04/21/2026 dict=SHS, L=9250, hw=karkasāra, user=srhodes
+old = Flour of meal
+new = Flour or meal
+comment = Typo – Please note that this is a suggested "Print Change". MW agress. And furthermore, the word "meal" already is defined as: "any grain or pulse ground to powder, such as cornmeal". Therefore Flour and Meal are just SLIGHT variations of each other, and NOT to be related in the genetive case, for some other purpose.
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26199: 04/21/2026 dict=SHS, L=9244, hw=karkareṭa, user=srhodes
+old = half moon
+new = half-moon
+comment = Typo – Perhaps it is better written this way. (Sorry for mentioning).
+status = No chnage required
+------------------------------------------------------------------------
+
+Case 26193: 04/20/2026 dict=SHS, L=8766, hw=kaṇḍrogha, user=srhodes
+old = kaṇḍrogha
+new = kaṇḍvogha
+comment = Typo – Please note that this is a "Print Change", as confirmed by our Great Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4279371179
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26191: 04/20/2026 dict=SHS, L=9225, hw=karkacirbhiṭī, user=srhodes
+old = See Below
+new = We need our Great Andhrabharati to verify this spelling, as there appears to be a number of possible variations: "karkacirbhiṭā, karkacirbhiṭī, karakcirbhaṭī, (karakcirbhaṭi ?)". Certainly the uttarapada: "cirbhaṭī" ,  is Well Known. It would be wonderful if Andhrabharati would provide ALL of the authorized variations for this word.
+comment = See Above
+status = No change required.karkacirBiwI is valid word.
+------------------------------------------------------------------------
+
+Case 26190: 04/20/2026 dict=SHS, L=9221, hw=karoṭa, user=srhodes
+old = scull
+new = skull
+comment = Typo – Please note that this is a suggested "Print Change". Errors such as these make me suspect that SHS was orally transmitted and that the "scribe" was not "kovida" in spelling.
+status = No change required. AE, GST, CAE, BOR, YAT, MWE all have this spelling.
+------------------------------------------------------------------------
+
+Case 26178: 04/18/2026 dict=SHS, L=9178, hw=karikusumbha, user=srhodes
+old = Nagesara
+new = Nāgakesara
+comment = Typo – Please note that this is a suggested "Print Change", unless someone has a better explanation.
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26177: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
+old = Piper chavya
+new = Piper chaba
+comment = Typo – Please note that this correction is according to MW and Wikipedia Authority. If approved, this could be made as a Global Correction.
+status = No change required. PWG says that Wilson has given karikaRavallI
+------------------------------------------------------------------------
+
+Case 26176: 04/18/2026 dict=SHS, L=9176, hw=karikaṇavallī, user=srhodes
+old = karikaṇavallī
+new = karikaṇāvallī
+comment = Typo – Please note that this suggested "Print Change" needs investigation. SKD and MW support this correction. VCP apparently follows SHS. Are Both Spellings Authorized ? 
+status = No change required. PWG says that Wilson has given karikaRavallI.
+------------------------------------------------------------------------
+
+Case 26175: 04/18/2026 dict=SHS, L=9172, hw=karālambana, user=srhodes
+old = helping sustaining
+new = helping, sustaining
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26174: 04/18/2026 dict=SHS, L=9168, hw=karāla, user=srhodes
+old = Rosin
+new = Resin
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26167: 04/17/2026 dict=SHS, L=9165, hw=karāmlaka, user=srhodes
+old = Carissa carondas
+new = Carissa carandas
+comment = Typo – Please note that this is a suggested "Global Correction", following the Authority of Wikipedia.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26166: 04/17/2026 dict=SHS, L=9164, hw=karāmuka, user=srhodes
+old = karāmuka
+new = karāmbuka
+comment = Typo – Please note that this is a suggested "Print Change" according to VCP, SKD and MW.
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/158
+------------------------------------------------------------------------
+
+Case 26165: 04/17/2026 dict=SHS, L=9163, hw=karāmarddha, user=srhodes
+old = see karamarddha
+new = see karamardda
+comment = Typo – This correction follows VCP, SKD and MW. Of course, the "doubling" of the letter "d" is an irrelevant point. The Important Point is that Big Three Authorities cited here do NOT spell this word using the letter "dh". EVEN SHS lists this word as corrected here: "karamardda".
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/158
+------------------------------------------------------------------------
+
+Case 26164: 04/17/2026 dict=SHS, L=9163, hw=karāmarddha, user=srhodes
+old = karāmarddha
+new = karāmardda
+comment = Typo – This correction follows VCP, SKD and MW. Of course, the "doubling" of the letter "d" is an irrelevant point. The Important Point is that Big Three Authorities cited here do NOT spell this word using the letter "dh".
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/158
+------------------------------------------------------------------------
+
+Case 26163: 04/17/2026 dict=SHS, L=9158, hw=karaśuka, user=srhodes
+old = karaśuka
+new = karaśūka
+comment = Typo – This correction follows VCP, SKD and MW.
+status = Corrected 18 Apr 2026
+------------------------------------------------------------------------
+
+Case 26150: 04/15/2026 dict=SHS, L=9145, hw=karāgrahapallava, user=srhodes
+old = karāgrahapallava
+new = karāgrapallava
+comment = Typo – Please note that this is a "Print Change", based upon SHS Etymology listed here as: kara, and agra to the point, pallava a shoot. Also, please note that MW agrees!
+status = Corrected 18 Apr 2026
+------------------------------------------------------------------------
+
+Case 26149: 04/15/2026 dict=SHS, L=9140, hw=karamardda, user=srhodes
+old = carondas
+new = carandas
+comment = Typo – Please note that this is a "Print Change", based upon Wikipedia Authority.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26148: 04/15/2026 dict=SHS, L=9138, hw=karabhaṭṭa, user=srhodes
+old = karabhaṭṭa
+new = karamaṭṭa
+comment = Typo – Headword Typo!
+status = Corrected 18 Apr 2026
+------------------------------------------------------------------------
+
+Case 26147: 04/15/2026 dict=SHS, L=9138, hw=karabhaṭṭa, user=srhodes
+old = see guvakā
+new = see guvāka
+comment = Typo – Please note that this is a "Print Change", based upon all sources, including SHS own listing!
+status = Corrected 18 Apr 2026
+------------------------------------------------------------------------
+
+Case 26114: 04/10/2026 dict=SHS, L=9131, hw=karabāla, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26113: 04/10/2026 dict=SHS, L=9113, hw=karatoyā, user=srhodes
+old = north-east
+new = northeast
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26112: 04/10/2026 dict=SHS, L=9107, hw=karaṇḍa, user=srhodes
+old = honey-comb
+new = honeycomb
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26111: 04/10/2026 dict=SHS, L=9107, hw=karaṇḍa, user=srhodes
+old = bee-hive
+new = beehive
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26094: 04/09/2026 dict=SHS, L=9092, hw=karaja, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = No change required
+------------------------------------------------------------------------
+
+Case 26093: 04/09/2026 dict=SHS, L=9089, hw=karaṅkaśāli, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26092: 04/09/2026 dict=SHS, L=9088, hw=karaṅka, user=srhodes
+old = sugar-cane
+new = sugarcane
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26091: 04/09/2026 dict=SHS, L=9077, hw=karakaṇṭaka, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = No change required
+------------------------------------------------------------------------
+
+Case 26090: 04/09/2026 dict=SHS, L=9077, hw=karakaṇṭaka, user=srhodes
+old = finger-nail
+new = fingernail
+comment = Typo – Better without the "Hyphen". May be made a Global Correction as well. For anyone who might feel "Uncertain" about this correction, here is my suggestion:  "Ask your wife" !
+status = No change required
+------------------------------------------------------------------------
+
+Case 26083: 04/07/2026 dict=SHS, L=30872, hw=malākula, user=srhodes
+old = malākula
+new = mahākula
+comment = Typo – Headword Typo!
+status = Corrected 08 Apr 2026
+------------------------------------------------------------------------
+
+Case 26067: 04/05/2026 dict=SHS, L=9072, hw=kambhū, user=srhodes
+old = kambhū
+new = kambhu
+comment = Typo – Please note that this is a suggested "Print Change", since the word is in neuter gender and ends in short "u".
+status = Corrected 2026-04-06
+------------------------------------------------------------------------
+
+Case 26066: 04/05/2026 dict=SHS, L=9051, hw=kampana, user=srhodes
+old = Trembling quivering
+new = Trembling, quivering
+status = Corrected 2026-04-06
+------------------------------------------------------------------------
+
+Case 26051: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
+old = fore arm
+new = forearm
+comment = Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25990: 01/22/2026 dict=SHS, L=23535 , hw=परि, user=snbt98
 old = परि(र)णाम
 new = परि(री)णाम
 comment = Possible error. I do not think there is a form as परणाम. I checked in MW as well.  
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26226: 01/09/2026 dict=SHS, L= 27972 , hw=प्रासाद्र, user=snbt98
+Case 25983: 01/09/2026 dict=SHS, L= 27972 , hw=प्रासाद्र, user=snbt98
 old = प्रासाद्र
 new = प्रासाद 
 comment = Typo or printing error in the original. 
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26220: 12/24/2025 dict=SHS, L= 28311 , hw=फल्ग, user=snbt98
+Case 25977: 12/24/2025 dict=SHS, L= 28311 , hw=फल्ग, user=snbt98
 old = फल्ग
 new = फल्गु
 comment = Typo in the original print, I think.
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26216: 12/18/2025 dict=SHS, L= 13513, hw=गिर, user=snbt98
+Case 25973: 12/18/2025 dict=SHS, L= 13513, hw=गिर, user=snbt98
 old = गिर
 new = गिरि
 comment = Typo in print. 
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26215: 12/17/2025 dict=SHS, L= 42412, hw=सपत्र, user=snbt98
+Case 25972: 12/17/2025 dict=SHS, L= 42412, hw=सपत्र, user=snbt98
 old = सपत्र
 new = सपत्न
 comment = Typo. The two words after this on the scanned page too have the same error. नुक् augment is clearly mentioned in the etymology.
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26213: 12/13/2025 dict=SHS, L=23047 , hw=पत्री, user=snbt98
+Case 25970: 12/13/2025 dict=SHS, L=23047 , hw=पत्री, user=snbt98
 old = पत्री
 new = पत्नी
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26208: 12/09/2025 dict=SHS, L=45991 , hw=स्मेरविष्किर, user=snbt98
+Case 25965: 12/09/2025 dict=SHS, L=45991 , hw=स्मेरविष्किर, user=snbt98
 old = स्मर in the Etymology
 new = स्मेर
 comment = Typo in the original print.
 status = corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26200: 11/26/2025 dict=SHS, L=21095 , hw=नमस्कत्वा, user=snbt98
+Case 25957: 11/26/2025 dict=SHS, L=21095 , hw=नमस्कत्वा, user=snbt98
 old = नमस्कत्वा
 new = नमस्कृत्वा
 status = corrected 02 Feb 2026. Duplicate
 ------------------------------------------------------------------------
 
-Case 26151: 06/23/2025 dict=SHS, L=23591, hw=रपपिन्थिन्, user=snbt98
+Case 25908: 06/23/2025 dict=SHS, L=23591, hw=रपपिन्थिन्, user=snbt98
 old = रपपिन्थिन्
 new = परिपन्थिन्
 comment = Typo in the original scan. 
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26150: 06/23/2025 dict=SHS, L=9894, hw=कान्तार, user=snbt98
+Case 25907: 06/23/2025 dict=SHS, L=9894, hw=कान्तार, user=snbt98
 old = 1. A had ...
 new = 1. A bad ...
 comment = Typo. 
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26149: 06/23/2025 dict=SHS, L=4962, hw=आकाशवर्त्मव्, user=snbt98
+Case 25906: 06/23/2025 dict=SHS, L=4962, hw=आकाशवर्त्मव्, user=snbt98
 old = आकाशवर्त्मव्
 new = आकाशवर्त्मन्
 status = corrected. Date unknown
 ------------------------------------------------------------------------
 
-Case 26148: 06/23/2025 dict=SHS, L= 2002, hw=अपत्थपथ, user=snbt98
+Case 25905: 06/23/2025 dict=SHS, L= 2002, hw=अपत्थपथ, user=snbt98
 old = अपत्थपथ
 new = अपत्यपथ
 comment = Typo. Can be verified from the prior and following entries
 status = corrected. Date unknown
 ------------------------------------------------------------------------
 
-Case 26141: 06/09/2025 dict=SHS, L=771, hw=अविरोमश, user=snbt98
+Case 25898: 06/09/2025 dict=SHS, L=771, hw=अविरोमश, user=snbt98
 old = अविरोमश
 new = अतिरोमश
 comment = It is a print error. Can be verified by (i) etymology; (ii) viewing previous and further entries 
 status = corrected. Date unknown
 ------------------------------------------------------------------------
 
-Case 26137: 06/04/2025 dict=SHS, L= 33, hw=अंशुहस्त, user=snbt98
+Case 25894: 06/04/2025 dict=SHS, L= 33, hw=अंशुहस्त, user=snbt98
 old = हल
 new = हस्त
 comment = Typo in the Etymology
 status = corrected 02 Feb 2026. duplicate
 ------------------------------------------------------------------------
 
-Case 26136: 06/02/2025 dict=SHS, L= 32430, hw=यतिमैथुन, user=snbt98
+Case 25893: 06/02/2025 dict=SHS, L= 32430, hw=यतिमैथुन, user=snbt98
 old = सैथुन
 new = मैथुन
 comment = Typo in the Etymology
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26132: 05/26/2025 dict=SHS, L=10104, hw=कार्त्तिकेयपसू, user=snbt98
+Case 25889: 05/26/2025 dict=SHS, L=10104, hw=कार्त्तिकेयपसू, user=snbt98
 old = कार्त्तिकेयपसू
 new = कार्त्तिकेयप्रसू
 comment = Typo. 
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26128: 05/22/2025 dict=SHS, L=33, hw=अंशुहस्त, user=snbt98
+Case 25885: 05/22/2025 dict=SHS, L=33, hw=अंशुहस्त, user=snbt98
 old = हल
 new = हस्त
 comment = Typo. In the etymology.
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26122: 05/03/2025 dict=SHS, L=31893, hw=मृगजलस्रान, user=snbt98
+Case 25879: 05/03/2025 dict=SHS, L=31893, hw=मृगजलस्रान, user=snbt98
 old = मृगजलस्रान
 new = मृगजलस्ना
 comment = Typo.र् ---> न्
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26112: 04/17/2025 dict=SHS, L=- , hw=-, user=iv271
+Case 25869: 04/17/2025 dict=SHS, L=- , hw=-, user=iv271
 old = Wrong book attribution
 new = The source indexed here is attributed to BHAṬṬĀCĀRYA, J. V. here:  LB https://www.sanskrit-lexicon.uni-koeln.de/scans/SHSScan/2020/web/index.php LB But the book appears to be written by someone else: Vidyasagara, Pandit-Kulapati Jibananda LB https://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/shspref/shspref01.html  LB 
 comment = Incorrect bibliography entry for the source
 status = no change required. See discussion at https://github.com/sanskrit-lexicon/csl-orig/issues/2808.
 ------------------------------------------------------------------------
 
-Case 26108: 04/08/2025 dict=SHS, L=27873, hw=प्रादुर्भाव, user=snbt98
+Case 25865: 04/08/2025 dict=SHS, L=27873, hw=प्रादुर्भाव, user=snbt98
 old = पादुस् in the Etymology
 new = प्रादुस्
 comment = Typo. This an error present in print. I'm aware that the maintainers policy is to digitise the contents as it is, even if errors are found. So, just tagging this error, in case it may be useful in the future.
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26107: 04/07/2025 dict=SHS, L=1881, hw=अन्यजत्मन्, user=snbt98
+Case 25864: 04/07/2025 dict=SHS, L=1881, hw=अन्यजत्मन्, user=snbt98
 old = अन्यजत्मन्
 new = अन्यजन्मन्
 comment = Typo. In the etymology, जन्मन् has been entered correctly. However, for the headword, due to the print being slightly unclear, त् has been entered insted of न्.
 status = corrected. Date unknown
 ------------------------------------------------------------------------
 
-Case 26104: 04/02/2025 dict=SHS, L=21091, hw=नमस्, user=snbt98
+Case 25861: 04/02/2025 dict=SHS, L=21091, hw=नमस्, user=snbt98
 old = NA
 new = NA
 comment = "in the fifth case". It should be the fourth case. Is सम्बोधन being considered as a separate case to get this as the fifth case? Not clear. It is not a typo as it matches what we find in the scanned print. 
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 26103: 04/02/2025 dict=SHS, L=21095, hw=नमस्कत्वा, user=snbt98
+Case 25860: 04/02/2025 dict=SHS, L=21095, hw=नमस्कत्वा, user=snbt98
 old = नमस्कत्वा
 new = नमस्कृत्वा
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26101: 03/30/2025 dict=SHS, L=12622, hw=खङ्ग, user=snbt98
+Case 25858: 03/30/2025 dict=SHS, L=12622, hw=खङ्ग, user=snbt98
 old = खङ्ग
 new = खड्ग
 comment = Typo. Instead of the third letter of the third class, the fifth nasalised letter of the first class of vargeeya vyanjan has been written due to only slight difference in the glyphs representing them. This mistake is found repeated in the entries following it. It can be confirmed by viewing the scanned pages. 
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26100: 03/26/2025 dict=SHS, L=22278, hw=निष्कार्मा, user=snbt98
+Case 25857: 03/26/2025 dict=SHS, L=22278, hw=निष्कार्मा, user=snbt98
 old = निष्कार्मा
 new = निष्काम
 comment = Typo. There is some printing artefact after म in the scanned page. I do not think it represents र् and आ.
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26099: 03/26/2025 dict=SHS, L=3859, hw=अवशक्थिका, user=snbt98
+Case 25856: 03/26/2025 dict=SHS, L=3859, hw=अवशक्थिका, user=snbt98
 old = kness
 new = knees
 status = corrected. Date unknown
 ------------------------------------------------------------------------
 
-Case 26098: 03/21/2025 dict=SHS, L=25301, hw=पुरस्कत, user=snbt98
+Case 25855: 03/21/2025 dict=SHS, L=25301, hw=पुरस्कत, user=snbt98
 old = पुरस्कत
 new = पुरस्कृत
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26097: 03/21/2025 dict=SHS, L=33410, hw=राजगामिन्, user=snbt98
+Case 25854: 03/21/2025 dict=SHS, L=33410, hw=राजगामिन्, user=snbt98
 old = heris
 new = heirs
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26092: 03/15/2025 dict=SHS, L=32313, hw=म्लेच्छभोजन , user=snbt98
+Case 25849: 03/15/2025 dict=SHS, L=32313, hw=म्लेच्छभोजन , user=snbt98
 old = in the Etymology LB म्नेच्छ
 new = म्लेच्छ
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26091: 03/15/2025 dict=SHS, L=5541, hw=आप्रपद, user=snbt98
+Case 25848: 03/15/2025 dict=SHS, L=5541, hw=आप्रपद, user=snbt98
 old = food
 new = foot
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26090: 03/13/2025 dict=SHS, L=11663 , hw=कैकेयो, user=snbt98
+Case 25847: 03/13/2025 dict=SHS, L=11663 , hw=कैकेयो, user=snbt98
 old = कैकेयो
 new = कैकेयी
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 26066: 01/07/2025 dict=SHS, L=10138, hw=कार्य्यवत्, user=sachinbhatia98
+Case 25823: 01/07/2025 dict=SHS, L=10138, hw=कार्य्यवत्, user=sachinbhatia98
 old = वात् ; engagod
 new = वान् ; engaged
 status =  corrected 23 Jul 2025
 ------------------------------------------------------------------------
 
-Case 25900: 01/22/2024 dict=SHS, L= 39486, hw=śabdatanmātra, user=srhodes
+Case 25657: 01/22/2024 dict=SHS, L= 39486, hw=śabdatanmātra, user=srhodes
 old = subtile
 new = subtle
 comment = Typo - printing error
 status = No change. Old English
 ------------------------------------------------------------------------
 
-Case 25899: 01/22/2024 dict=SHS, L= 22827, hw=pañcatva, user=srhodes
+Case 25656: 01/22/2024 dict=SHS, L= 22827, hw=pañcatva, user=srhodes
 old = sate or being
 new = state or being
 comment = Typo - printing error
 status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25896: 01/20/2024 dict=SHS, L= 44332, hw=sudānta, user=srhodes
+Case 25653: 01/20/2024 dict=SHS, L= 44332, hw=sudānta, user=srhodes
 old = SĀKYA MUNI
 new = Śākyamuni OR Śākya Muni
 comment = Typo - perhaps a printing error?
 status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25895: 01/19/2024 dict=SHS, L= 13896, hw=geṣṇu, user=srhodes
+Case 25652: 01/19/2024 dict=SHS, L= 13896, hw=geṣṇu, user=srhodes
 old = chaunter
 new = chanter
 comment = Typo - must be a printing error (or an archaic spelling)
 status = No change. Old English. Encountered at three places.
 ------------------------------------------------------------------------
 
-Case 25894: 01/18/2024 dict=SHS, L= 44780, hw=sukti, user=srhodes
+Case 25651: 01/18/2024 dict=SHS, L= 44780, hw=sukti, user=srhodes
 old = sukti
 new = sūkti
 comment = Typo - I believe that this is an error in the printing. Also look at the word listed above and below (both of which contain the long vowel ū). How can the short vowel u be alphabetically listed between two long vowels?
 status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25893: 01/18/2024 dict=SHS, L= 1350, hw=anāśrita, user=srhodes
+Case 25650: 01/18/2024 dict=SHS, L= 1350, hw=anāśrita, user=srhodes
 old = u{?n?}concerned
 new = unconcerned
 comment = Typo - (I am certain that this is correct)
 status = 01-26-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25886: 01/13/2024 dict=SHS, L=  43012, hw=sambala expences, user=Typo - spelling is incorrect. I suggest the correction for posterity.   srhodes
+Case 25643: 01/13/2024 dict=SHS, L=  43012, hw=sambala expences, user=Typo - spelling is incorrect. I suggest the correction for posterity.   srhodes
 old = 
 new = expenses
 comment = 
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25839: 12/30/2023 dict=SHS, L= 39019, hw=vyāma, user=srhodes
+Case 25596: 12/30/2023 dict=SHS, L= 39019, hw=vyāma, user=srhodes
 old = E. bi
 new = E. vi
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25834: 12/28/2023 dict=SHS, L= 18927, hw=dita, user=srhodes
+Case 25591: 12/28/2023 dict=SHS, L= 18927, hw=dita, user=srhodes
 old = E. dī
 new = E. do
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25833: 12/27/2023 dict=SHS, L= 1313, hw=anādi, user=srhodes
+Case 25590: 12/27/2023 dict=SHS, L= 1313, hw=anādi, user=srhodes
 old = uncreate
 new = uncreated
 comment = Typo - (very likely a printing error)
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25829: 12/25/2023 dict=SHS, L= 46221, hw=svarga, user=srhodes
+Case 25586: 12/25/2023 dict=SHS, L= 46221, hw=svarga, user=srhodes
 old = E. mu
 new = E. su
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25828: 12/25/2023 dict=SHS, L= 46221, hw=svarga, user=srhodes
-old = E. mu
-new = E. su
-status = 01-15-2024 corrected
-------------------------------------------------------------------------
-
-Case 25820: 12/22/2023 dict=SHS, L= , hw=kulmāṣa, user=srhodes
+Case 25578: 12/22/2023 dict=SHS, L= , hw=kulmāṣa, user=srhodes
 old = 2. Forced riee.
 new = 2. Forced rice.
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25816: 12/21/2023 dict=SHS, L= , hw=śūnya, user=srhodes
+Case 25574: 12/21/2023 dict=SHS, L= , hw=śūnya, user=srhodes
 old = 4. Dovoid of.
 new = 4. Devoid of.
 comment = Typo – Printing Error
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25811: 12/20/2023 dict=SHS, L= 10580, hw=kucita, user=srhodes
+Case 25569: 12/20/2023 dict=SHS, L= 10580, hw=kucita, user=srhodes
 old = E. kuv
 new = E. kuc
 comment = Typo – This is clearly an error in the printing
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25801: 12/19/2023 dict=SHS, L= 2934, hw=amedhyalepa, user=srhodes
+Case 25559: 12/19/2023 dict=SHS, L= 2934, hw=amedhyalepa, user=srhodes
 old = Mearing
 new = Smearing
 comment = Typo (an error in the original printing)
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25800: 12/19/2023 dict=SHS, L= 34490, hw=lepa, user=srhodes
+Case 25558: 12/19/2023 dict=SHS, L= 34490, hw=lepa, user=srhodes
 old = Polution
 new = Pollution
 status = 01-15-2024 corrected
 ------------------------------------------------------------------------
 
-Case 25767: 12/14/2023 dict=SHS, L= 16610, hw=jha, user=srhodes
+Case 25525: 12/14/2023 dict=SHS, L= 16610, hw=jha, user=srhodes
 old = the classing of cymbals
 new = the clashing of cymbals
 status = 12-15-2023 corrected
 ------------------------------------------------------------------------
 
-Case 25720: 11/27/2023 dict=SHS, L= 28829, hw=bṝ, user=srhodes
+Case 25478: 11/27/2023 dict=SHS, L= 28829, hw=bṝ, user=srhodes
 old = bṝ more usually.
 new = vṝ more usually.
 status = 12/12/2023 corrected
 ------------------------------------------------------------------------
 
-Case 25718: 11/24/2023 dict=SHS, L= 41454, hw=ṣāḍva, user=srhodes
+Case 25476: 11/24/2023 dict=SHS, L= 41454, hw=ṣāḍva, user=srhodes
 old = ṣāḍva
 new = ṣāḍava
 comment = Typo (Headword Typo!)
 status = 12/12/2023 corrected
 ------------------------------------------------------------------------
 
-Case 25677: 10/30/2023 dict=SHS, L= 4422, hw=aṣṭāpadapatra, user=srhodes
+Case 25435: 10/30/2023 dict=SHS, L= 4422, hw=aṣṭāpadapatra, user=srhodes
 old = Cold-leaf
 new = Gold-leaf
 status = 12/12/2023 corrected
 ------------------------------------------------------------------------
 
-Case 25663: 10/25/2023 dict=SHS, L= 26671, hw=pratiśraya, user=srhodes
+Case 25421: 10/25/2023 dict=SHS, L= 26671, hw=pratiśraya, user=srhodes
 old = Helf    (and maybe also »»»  "śrī to serve")
 new = Help      (and maybe also »»»  "śri to serve")
 status = 12/12/2023 corrected
 ------------------------------------------------------------------------
 
-Case 25595: 09/06/2023 dict=SHS, L= 32605, hw=yAga, user=22mansidhariwal
+Case 25353: 09/06/2023 dict=SHS, L= 32605, hw=yAga, user=22mansidhariwal
 old = घज्
 new = घञ्
 status = 09/08/2023 corrected
 ------------------------------------------------------------------------
 
-Case 25332: 11/19/2022 dict=SHS, L= , hw=uttrāsa, user=shztg
+Case 25091: 11/19/2022 dict=SHS, L= , hw=uttrāsa, user=shztg
 old = uttrāsa [Printed book page 117-b] LB uttrāsa LB m. (-saḥ) Eear, terror. LB E. uta much, and trāsa fear. [ID=6840]
 new = m. (-saḥ) Fear, terror.
 status =  12/22/2022 corrected
 ------------------------------------------------------------------------
 
-Case 24174: 05/10/2018 dict=SHS, L= , hw=vaiśeṣikaḥ, user=
+Case 23933: 05/10/2018 dict=SHS, L= , hw=vaiśeṣikaḥ, user=
 old = 
 new = 
 status =  05/21/2018. Insufficient information
 ------------------------------------------------------------------------
 
-Case 23930: 09/12/2017 dict=SHS, L=38209, hw=vfDAGAta, user=dhaval
-old = vfDAGAta
-new = vfTAGAta
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23929: 09/12/2017 dict=SHS, L=7135, hw=uDmAna, user=dhaval
-old = uDmAna
-new = udDmAna
-comment = print error 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23928: 09/12/2017 dict=SHS, L=25185, hw=puttapOtrIRa, user=dhaval
-old = puttapOtrIRa
-new = puttrapOtrIRa
-comment = print error 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23927: 09/12/2017 dict=SHS, L=23048, hw=patryAwa, user=dhaval
-old = patryAwa
-new = patnyAwa
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23926: 09/12/2017 dict=SHS, L=24500, hw=pApnAn, user=dhaval
-old = pApnAn
-new = pApman
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23925: 09/12/2017 dict=SHS, L=24278, hw=pARokaraRa, user=dhaval
-old = pARokaraRa
-new = pARIkaraRa
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23924: 09/12/2017 dict=SHS, L=22587, hw=nESreyasika, user=dhaval
-old = nESreyasika
-new = nEHSreyasika
-comment = print error 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23923: 09/12/2017 dict=SHS, L=31953, hw=mfgE, user=dhaval
-old = mfgE
-new = mfgErvvAru
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23922: 09/12/2017 dict=SHS, L=30373, hw=maDurAmnaka, user=dhaval
-old = maDurAmnaka
-new = maDurAmlaka
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23921: 09/12/2017 dict=SHS, L=32194, hw=mEyuna, user=dhaval
-old = mEyuna
-new = mETuna
-comment = print error 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23920: 09/12/2017 dict=SHS, L=8614, hw=kawiSfNkalA, user=dhaval
+Case 23689: 09/12/2017 dict=SHS, L=8614, hw=kawiSfNkalA, user=dhaval
 old = kawiSfNkalA
 new = kawiSfNKalA
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23919: 09/12/2017 dict=SHS, L=13535, hw=girimrallikA, user=dhaval
-old = girimrallikA
-new = girimallikA
+Case 23688: 09/12/2017 dict=SHS, L=7135, hw=uDmAna, user=dhaval
+old = uDmAna
+new = udDmAna
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23687: 09/12/2017 dict=SHS, L=38209, hw=vfDAGAta, user=dhaval
+old = vfDAGAta
+new = vfTAGAta
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23918: 09/12/2017 dict=SHS, L=18365, hw=daRqatAmro, user=dhaval
-old = daRqatAmro
-new = daRqatAmrI
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23917: 09/12/2017 dict=SHS, L=18799, hw=dAprayitvA, user=dhaval
-old = dAprayitvA
-new = dApayitvA
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23916: 09/12/2017 dict=SHS, L=28968, hw=brAhmta, user=dhaval
-old = brAhmta
-new = brAhmya
-comment = typo 
-status =  Corrected 09/12/2017
-------------------------------------------------------------------------
-
-Case 23915: 09/12/2017 dict=SHS, L=3383, hw=ardDaca, user=dhaval
+Case 23686: 09/12/2017 dict=SHS, L=3383, hw=ardDaca, user=dhaval
 old = ardDaca
 new = ardDarca
 comment = print error 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23914: 09/12/2017 dict=SHS, L=2181, hw=apaNkta, user=dhaval
+Case 23685: 09/12/2017 dict=SHS, L=32194, hw=mEyuna, user=dhaval
+old = mEyuna
+new = mETuna
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23684: 09/12/2017 dict=SHS, L=31953, hw=mfgE, user=dhaval
+old = mfgE
+new = mfgErvvAru
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23683: 09/12/2017 dict=SHS, L=30373, hw=maDurAmnaka, user=dhaval
+old = maDurAmnaka
+new = maDurAmlaka
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23682: 09/12/2017 dict=SHS, L=28968, hw=brAhmta, user=dhaval
+old = brAhmta
+new = brAhmya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23681: 09/12/2017 dict=SHS, L=25185, hw=puttapOtrIRa, user=dhaval
+old = puttapOtrIRa
+new = puttrapOtrIRa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23680: 09/12/2017 dict=SHS, L=24500, hw=pApnAn, user=dhaval
+old = pApnAn
+new = pApman
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23679: 09/12/2017 dict=SHS, L=24278, hw=pARokaraRa, user=dhaval
+old = pARokaraRa
+new = pARIkaraRa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23678: 09/12/2017 dict=SHS, L=23048, hw=patryAwa, user=dhaval
+old = patryAwa
+new = patnyAwa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23677: 09/12/2017 dict=SHS, L=22587, hw=nESreyasika, user=dhaval
+old = nESreyasika
+new = nEHSreyasika
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23676: 09/12/2017 dict=SHS, L=2181, hw=apaNkta, user=dhaval
 old = apaNkta
 new = apANkta
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23913: 09/12/2017 dict=SHS, L=20853, hw=DvajotyAna, user=dhaval
+Case 23675: 09/12/2017 dict=SHS, L=20853, hw=DvajotyAna, user=dhaval
 old = DvajotyAna
 new = DvajotTAna
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23430: 07/11/2016 dict=SHS, L= , hw=, user=
+Case 23674: 09/12/2017 dict=SHS, L=18799, hw=dAprayitvA, user=dhaval
+old = dAprayitvA
+new = dApayitvA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23673: 09/12/2017 dict=SHS, L=18365, hw=daRqatAmro, user=dhaval
+old = daRqatAmro
+new = daRqatAmrI
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23672: 09/12/2017 dict=SHS, L=13535, hw=girimrallikA, user=dhaval
+old = girimrallikA
+new = girimallikA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23193: 07/11/2016 dict=SHS, L= , hw=, user=
 old = Prajna
 new = 
 status =  07/27/2016. Insufficient information to correct
 ------------------------------------------------------------------------
 
-Case 23399: 06/15/2016 dict=SHS, L=37692, hw=vizakfBinyAya, user=dhaval
-old = vizakfBinyAya
-new = vizakfminyAya
-comment = typo kfB
-status =  Corrected 06/15/2016
-------------------------------------------------------------------------
-
-Case 23398: 06/15/2016 dict=SHS, L=7142, hw=udvoDana, user=dhaval
+Case 23162: 06/15/2016 dict=SHS, L=7142, hw=udvoDana, user=dhaval
 old = udvoDana
 new = udboDana
 comment = typo dvo
 status =  Corrected 06/15/2016
 ------------------------------------------------------------------------
 
-Case 23397: 06/15/2016 dict=SHS, L=44894, hw=sUpaGUpana, user=dhaval
-old = sUpaGUpana
-new = sUpaDUpana
-comment = typo GUp
-status =  Corrected 06/15/2016
-------------------------------------------------------------------------
-
-Case 23396: 06/15/2016 dict=SHS, L=23931, hw=parRIwaja, user=dhaval
-old = parRIwaja
-new = parRowaja
-comment = typo RIw
-status =  Corrected 06/15/2016
-------------------------------------------------------------------------
-
-Case 23395: 06/15/2016 dict=SHS, L=40366, hw=SItaBIjin, user=dhaval
-old = SItaBIjin
-new = SItaBojin
-comment = typo BIj
-status =  Corrected 06/15/2016
-------------------------------------------------------------------------
-
-Case 23394: 06/15/2016 dict=SHS, L=12637, hw=KaNgAGAta, user=dhaval
-old = KaNgAGAta
-new = KaqgAGAta
-comment = typo gAG
-status =  Corrected 06/15/2016
-------------------------------------------------------------------------
-
-Case 23393: 06/15/2016 dict=SHS, L=5205, hw=AQyamBaviRu, user=dhaval
+Case 23161: 06/15/2016 dict=SHS, L=5205, hw=AQyamBaviRu, user=dhaval
 old = AQyamBaviRu
 new = AQyamBavizRu
 comment = typo iRu
 status =  Corrected 06/15/2016
 ------------------------------------------------------------------------
 
-Case 23323: 06/08/2016 dict=SHS, L=41465, hw=ziNga, user=ejf
+Case 23160: 06/15/2016 dict=SHS, L=44894, hw=sUpaGUpana, user=dhaval
+old = sUpaGUpana
+new = sUpaDUpana
+comment = typo GUp
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23159: 06/15/2016 dict=SHS, L=40366, hw=SItaBIjin, user=dhaval
+old = SItaBIjin
+new = SItaBojin
+comment = typo BIj
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23158: 06/15/2016 dict=SHS, L=37692, hw=vizakfBinyAya, user=dhaval
+old = vizakfBinyAya
+new = vizakfminyAya
+comment = typo kfB
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23157: 06/15/2016 dict=SHS, L=23931, hw=parRIwaja, user=dhaval
+old = parRIwaja
+new = parRowaja
+comment = typo RIw
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23156: 06/15/2016 dict=SHS, L=12637, hw=KaNgAGAta, user=dhaval
+old = KaNgAGAta
+new = KaqgAGAta
+comment = typo gAG
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23086: 06/08/2016 dict=SHS, L=41465, hw=ziNga, user=ejf
 old = ziNga
 new = ziqga
 comment = typo   confirm by alph. order
 status =  Corrected 06/08/2016
 ------------------------------------------------------------------------
 
-Case 22674: 05/14/2016 dict=SHS, L=36845, hw=viDepada, user=dhaval
-old = viDepada
-new = viDeyapada
-comment = typo Dep
-status =  Corrected 05/14/2016
-------------------------------------------------------------------------
-
-Case 22673: 05/14/2016 dict=SHS, L=35792, hw=vAWyA, user=dhaval
-old = vAWyA
-new = vAwyA
-comment = typo vAW. Explanation has 'vAwI'.
-status =  Corrected 05/14/2016
-------------------------------------------------------------------------
-
-Case 22672: 05/14/2016 dict=SHS, L=24476, hw=pApawfSvan, user=dhaval
-old = pApawfSvan
-new = pApadfSvan
-comment = typo wf
-status =  Corrected 05/14/2016
-------------------------------------------------------------------------
-
-Case 22671: 05/14/2016 dict=SHS, L=32055, hw=mfzAGAdin, user=dhaval
-old = mfzAGAdin
-new = mfzAvAdin
-comment = typo GAd
-status =  Corrected 05/14/2016
-------------------------------------------------------------------------
-
-Case 22670: 05/14/2016 dict=SHS, L=12390, hw=kzIrabfkza, user=dhaval
-old = kzIrabfkza
-new = kzIravfkza
-comment = typo Alphabetic misordering.
-status =  Corrected 05/14/2016
-------------------------------------------------------------------------
-
-Case 22669: 05/14/2016 dict=SHS, L=12097, hw=knoSaDvani, user=dhaval
-old = knoSaDvani
-new = kroSaDvani
-comment = typo noS
-status =  Corrected 05/14/2016
-------------------------------------------------------------------------
-
-Case 22668: 05/14/2016 dict=SHS, L=12112, hw=knOSaSatika, user=dhaval
-old = knOSaSatika
-new = krOSaSatika
-comment = typo knO,nOS
-status =  Corrected 05/14/2016
-------------------------------------------------------------------------
-
-Case 22667: 05/14/2016 dict=SHS, L=46487, hw=hawwavOraka, user=dhaval
+Case 22437: 05/14/2016 dict=SHS, L=46487, hw=hawwavOraka, user=dhaval
 old = hawwavOraka
 new = hawwacOraka
 comment = typo vOr
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22666: 05/14/2016 dict=SHS, L=28595, hw=bahfpatra, user=dhaval
-old = bahfpatra
-new = bahupatra
-comment = typo hfp
+Case 22436: 05/14/2016 dict=SHS, L=36845, hw=viDepada, user=dhaval
+old = viDepada
+new = viDeyapada
+comment = typo Dep
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22665: 05/14/2016 dict=SHS, L=12631, hw=KaNgapiTAna, user=dhaval
-old = KaNgapiTAna
-new = KaqgapiDAna
-comment = typo iTA
+Case 22435: 05/14/2016 dict=SHS, L=35792, hw=vAWyA, user=dhaval
+old = vAWyA
+new = vAwyA
+comment = typo vAW. Explanation has 'vAwI'.
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22664: 05/14/2016 dict=SHS, L=29876, hw=BOBaratna, user=dhaval
+Case 22434: 05/14/2016 dict=SHS, L=32055, hw=mfzAGAdin, user=dhaval
+old = mfzAGAdin
+new = mfzAvAdin
+comment = typo GAd
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22433: 05/14/2016 dict=SHS, L=29876, hw=BOBaratna, user=dhaval
 old = BOBaratna
 new = BOmaratna
 comment = typo BOB
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22574: 05/11/2016 dict=SHS, L=46240, hw=svargigira, user=ejf
+Case 22432: 05/14/2016 dict=SHS, L=28595, hw=bahfpatra, user=dhaval
+old = bahfpatra
+new = bahupatra
+comment = typo hfp
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22431: 05/14/2016 dict=SHS, L=24476, hw=pApawfSvan, user=dhaval
+old = pApawfSvan
+new = pApadfSvan
+comment = typo wf
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22430: 05/14/2016 dict=SHS, L=12631, hw=KaNgapiTAna, user=dhaval
+old = KaNgapiTAna
+new = KaqgapiDAna
+comment = typo iTA
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22429: 05/14/2016 dict=SHS, L=12390, hw=kzIrabfkza, user=dhaval
+old = kzIrabfkza
+new = kzIravfkza
+comment = typo Alphabetic misordering.
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22428: 05/14/2016 dict=SHS, L=12112, hw=knOSaSatika, user=dhaval
+old = knOSaSatika
+new = krOSaSatika
+comment = typo knO,nOS
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22427: 05/14/2016 dict=SHS, L=12097, hw=knoSaDvani, user=dhaval
+old = knoSaDvani
+new = kroSaDvani
+comment = typo noS
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22337: 05/11/2016 dict=SHS, L=46240, hw=svargigira, user=ejf
 old = svargigira
 new = svargigiri
 comment = typo  final a->i
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22573: 05/11/2016 dict=SHS, L=38177, hw=vfttatasa, user=ejf
-old = vfttatasa
-new = vfttatas
-comment = print error  virAma missing in print.
-status =  Corrected 05/11/2016
-------------------------------------------------------------------------
-
-Case 22572: 05/11/2016 dict=SHS, L=25967, hw=pOsavana, user=ejf
-old = pOsavana
-new = pOMsavana
-comment = typo  alph. order supports the anusvara; also derivation from puMs.
-status =  Corrected 05/11/2016
-------------------------------------------------------------------------
-
-Case 22571: 05/11/2016 dict=SHS, L=187, hw=akzabDu, user=ejf
-old = akzabDu
-new = akzubDa
-comment = print error  The Devanagari 'u' is misplaced
-status =  Corrected 05/11/2016
-------------------------------------------------------------------------
-
-Case 22570: 05/11/2016 dict=SHS, L=45632, hw=sTirayovana, user=ejf
+Case 22336: 05/11/2016 dict=SHS, L=45632, hw=sTirayovana, user=ejf
 old = sTirayovana
 new = sTirayOvana
 comment = typo 
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 21504: 04/14/2016 dict=SHS, L=38319, hw=vflacCalka, user=dhaval
+Case 22335: 05/11/2016 dict=SHS, L=38177, hw=vfttatasa, user=ejf
+old = vfttatasa
+new = vfttatas
+comment = print error  virAma missing in print.
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22334: 05/11/2016 dict=SHS, L=25967, hw=pOsavana, user=ejf
+old = pOsavana
+new = pOMsavana
+comment = typo  alph. order supports the anusvara; also derivation from puMs.
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22333: 05/11/2016 dict=SHS, L=187, hw=akzabDu, user=ejf
+old = akzabDu
+new = akzubDa
+comment = print error  The Devanagari 'u' is misplaced
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 21268: 04/14/2016 dict=SHS, L=38319, hw=vflacCalka, user=dhaval
 old = vflacCalka
 new = vfhacCalka
 comment = typo fl. Alphabetic misordering.
 status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
-Case 21503: 04/14/2016 dict=SHS, L=22225, hw=niSoTinInATa, user=dhaval
-old = niSoTinInATa
-new = niSITinInATa
-comment = typo oT
-status =  Corrected 04/14/2016
-------------------------------------------------------------------------
-
-Case 21502: 04/14/2016 dict=SHS, L=21478, hw=nASACinnI, user=dhaval
-old = nASACinnI
-new = nAsACinnI
-comment = print error Alphabetic misordering.
-status =  Corrected 04/14/2016
-------------------------------------------------------------------------
-
-Case 21501: 04/14/2016 dict=SHS, L=32029, hw=mfducCvada, user=dhaval
+Case 21267: 04/14/2016 dict=SHS, L=32029, hw=mfducCvada, user=dhaval
 old = mfducCvada
 new = mfducCada
 comment = typo Cv
 status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
-Case 18037: 03/16/2016 dict=SHS, L=22096, hw=nirviDna, user=ejf
+Case 21266: 04/14/2016 dict=SHS, L=22225, hw=niSoTinInATa, user=dhaval
+old = niSoTinInATa
+new = niSITinInATa
+comment = typo oT
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21265: 04/14/2016 dict=SHS, L=21478, hw=nASACinnI, user=dhaval
+old = nASACinnI
+new = nAsACinnI
+comment = print error Alphabetic misordering.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 17802: 03/16/2016 dict=SHS, L=22096, hw=nirviDna, user=ejf
 old = nirviDna
 new = nirviGna
 comment = print error  headword shows Devanagari 'D'
 status =  Corrected 03/16/2016
 ------------------------------------------------------------------------
 
-Case 18036: 03/16/2016 dict=SHS, L=194, hw=akzna, user=ejf
+Case 17801: 03/16/2016 dict=SHS, L=194, hw=akzna, user=ejf
 old = akzna
 new = akzRa
 comment = print error  'zn' usually not possible. SHS copies Wilson
 status =  Corrected 03/16/2016
 ------------------------------------------------------------------------
 
-Case 9084: 12/16/2015 dict=SHS, L=17139, hw=tarupaMkti, user=dhaval
-old = tarupaMkti
-new = tarupaNkti
-comment = print error c
-status =  Corrected 12/16/2015
-------------------------------------------------------------------------
-
-Case 9083: 12/16/2015 dict=SHS, L=11627, hw=keSapaMkti, user=dhaval
-old = keSapaMkti
-new = keSapaNkti
-comment = typo convention error. SHS has paNkti as headword.
-status =  Corrected 12/16/2015
-------------------------------------------------------------------------
-
-Case 9082: 12/16/2015 dict=SHS, L=19669, hw=devavadDaMki, user=dhaval
-old = devavadDaMki
-new = devavardDaki
-comment = typo vardDaki is carpenter.
-status =  Corrected 12/16/2015
-------------------------------------------------------------------------
-
-Case 9081: 12/16/2015 dict=SHS, L=3237, hw=arkaMparRa, user=dhaval
-old = arkaMparRa
-new = arkaparRa
-comment = typo print smudge
-status =  Corrected 12/16/2015
-------------------------------------------------------------------------
-
-Case 9080: 12/16/2015 dict=SHS, L=3281, hw=arjunaMcCavi, user=dhaval
+Case 9034: 12/16/2015 dict=SHS, L=3281, hw=arjunaMcCavi, user=dhaval
 old = arjunaMcCavi
 new = arjunacCavi
 comment = typo print smudge. Also alphabetic misordering. See https
 status =  Corrected 12/16/2015
 ------------------------------------------------------------------------
 
-Case 3591: 2/23/2015 dict=SHS, L=25455, hw=zwapu , user=ejf
+Case 9033: 12/16/2015 dict=SHS, L=3237, hw=arkaMparRa, user=dhaval
+old = arkaMparRa
+new = arkaparRa
+comment = typo print smudge
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9032: 12/16/2015 dict=SHS, L=19669, hw=devavadDaMki, user=dhaval
+old = devavadDaMki
+new = devavardDaki
+comment = typo vardDaki is carpenter.
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9031: 12/16/2015 dict=SHS, L=17139, hw=tarupaMkti, user=dhaval
+old = tarupaMkti
+new = tarupaNkti
+comment = print error c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9030: 12/16/2015 dict=SHS, L=11627, hw=keSapaMkti, user=dhaval
+old = keSapaMkti
+new = keSapaNkti
+comment = typo convention error. SHS has paNkti as headword.
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 3557: 2/23/2015 dict=SHS, L=25455, hw=zwapu , user=ejf
 old = zwapu 
 new = puzwa
 comment = print error
 status =  Corrected 02/23/2015
 ------------------------------------------------------------------------
 
-Case 2837: 1/15/2015 dict=SHS, L=25910, hw=pEtfsvastrIya, user=ejf
+Case 2833: 1/15/2015 dict=SHS, L=25910, hw=pEtfsvastrIya, user=ejf
 old = pEtfsvastrIya
 new = pEtfsvasrIya
 status =  Corrected 01/17/2015
 ------------------------------------------------------------------------
 
-Case 1565: 12/9/2014 dict=SHS, L=24215, hw=pAYcArSrika, user=dhaval
-old = pAYcArSrika
-new = pAYcArTika
-status =  Corrected 12/09/2014
-------------------------------------------------------------------------
-
-Case 1564: 12/9/2014 dict=SHS, L=6038, hw=Asajjra, user=dhaval
+Case 1610: 12/9/2014 dict=SHS, L=6038, hw=Asajjra, user=dhaval
 old = Asajjra
 new = Asajjya
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1563: 12/9/2014 dict=SHS, L=43091, hw=sayuTya, user=dhaval
+Case 1609: 12/9/2014 dict=SHS, L=43091, hw=sayuTya, user=dhaval
 old = sayuTya
 new = sayUTya
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1562: 12/9/2014 dict=SHS, L=33186, hw=raTakaWyA, user=dhaval
+Case 1608: 12/9/2014 dict=SHS, L=33186, hw=raTakaWyA, user=dhaval
 old = raTakaWyA
 new = raTakawyA
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1561: 12/9/2014 dict=SHS, L=12901, hw=KONkAha, user=dhaval
+Case 1607: 12/9/2014 dict=SHS, L=24215, hw=pAYcArSrika, user=dhaval
+old = pAYcArSrika
+new = pAYcArTika
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
+
+Case 1606: 12/9/2014 dict=SHS, L=12901, hw=KONkAha, user=dhaval
 old = KONkAha
 new = KoNkAha
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1559: 12/7/2014 dict=SHS, L=46034, hw=snanm, user=ejf
-old = snanm
-new = sramB
+Case 1556: 12/7/2014 dict=SHS, L=8185, hw=ekvAntakaruRa, user=ejf
+old = ekvAntakaruRa
+new = ekAntakaruRa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1558: 12/7/2014 dict=SHS, L=41448, hw=zamj, user=ejf
-old = zamj
-new = zasj
+Case 1555: 12/7/2014 dict=SHS, L=8033, hw=ftumlAtA, user=ejf
+old = ftumlAtA
+new = ftusnAtA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1557: 12/7/2014 dict=SHS, L=29986, hw=makv, user=ejf
-old = makv
-new = makk
+Case 1554: 12/7/2014 dict=SHS, L=75, hw=akAraRItpanna, user=ejf
+old = akAraRItpanna
+new = akAraRotpanna
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1556: 12/7/2014 dict=SHS, L=12664, hw=RqaKaSas, user=ejf
-old = RqaKaSas
-new = KaRqaSas
+Case 1553: 12/7/2014 dict=SHS, L=6923, hw=utmikta, user=ejf
+old = utmikta
+new = utsikta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1555: 12/7/2014 dict=SHS, L=10107, hw=kAtrsnya, user=ejf
-old = kAtrsnya
-new = kArtsnya
+Case 1552: 12/7/2014 dict=SHS, L=6461, hw=Ipmana, user=ejf
+old = Ipmana
+new = Ipsana
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1554: 12/7/2014 dict=SHS, L=10106, hw=kAtrsna, user=ejf
-old = kAtrsna
-new = kArtsna
+Case 1551: 12/7/2014 dict=SHS, L=5786, hw=Aryyazuva, user=ejf
+old = Aryyazuva
+new = Aryyaputra
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1553: 12/7/2014 dict=SHS, L=45166, hw=sAlluRWa, user=ejf
-old = sAlluRWa
-new = solluRWa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1552: 12/7/2014 dict=SHS, L=45165, hw=sorAzwvika, user=ejf
-old = sorAzwvika
-new = sorAzwrika
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1551: 12/7/2014 dict=SHS, L=42399, hw=sannivfttri, user=ejf
-old = sannivfttri
-new = sannivftti
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1550: 12/7/2014 dict=SHS, L=40783, hw=SEGyra, user=ejf
-old = SEGyra
-new = SEGrya
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1549: 12/7/2014 dict=SHS, L=40552, hw=SunDya, user=ejf
-old = SunDya
-new = SunDyu
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1548: 12/7/2014 dict=SHS, L=40343, hw=SIGyra, user=ejf
-old = SIGyra
-new = SIGrya
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1547: 12/7/2014 dict=SHS, L=38382, hw=veRukarkvara, user=ejf
-old = veRukarkvara
-new = veRukarkkara
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1546: 12/7/2014 dict=SHS, L=37902, hw=visprardDamAna, user=ejf
-old = visprardDamAna
-new = vispardDamAna
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1545: 12/7/2014 dict=SHS, L=29853, hw=Bogondra, user=ejf
-old = Bogondra
-new = BogIndra
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1544: 12/7/2014 dict=SHS, L=29070, hw=BaRqka, user=ejf
-old = BaRqka
-new = BaRqUka
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1543: 12/7/2014 dict=SHS, L=26444, hw=pratijYAsanryAsa, user=ejf
-old = pratijYAsanryAsa
-new = pratijYAsannyAsa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1542: 12/7/2014 dict=SHS, L=24651, hw=pArSvIdarapriya, user=ejf
-old = pArSvIdarapriya
-new = pArSvodarapriya
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1541: 12/7/2014 dict=SHS, L=18632, hw=dalanirmBoka, user=ejf
-old = dalanirmBoka
-new = dalanirmmoka
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1540: 12/7/2014 dict=SHS, L=15688, hw=jagatkftmna, user=ejf
-old = jagatkftmna
-new = jagatkftsna
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1539: 12/7/2014 dict=SHS, L=13600, hw=guqaSarkvarA, user=ejf
-old = guqaSarkvarA
-new = guqaSarkkarA
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1538: 12/7/2014 dict=SHS, L=11537, hw=kfzRArjka, user=ejf
-old = kfzRArjka
-new = kfzRArjaka
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1537: 12/7/2014 dict=SHS, L=5111, hw=AcaturTya, user=ejf
+Case 1550: 12/7/2014 dict=SHS, L=5111, hw=AcaturTya, user=ejf
 old = AcaturTya
 new = Acaturyya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1536: 12/7/2014 dict=SHS, L=4884, hw=ahinirsmoka, user=ejf
+Case 1549: 12/7/2014 dict=SHS, L=4884, hw=ahinirsmoka, user=ejf
 old = ahinirsmoka
 new = ahinirmmoka
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1548: 12/7/2014 dict=SHS, L=4849, hw=ahfmmati, user=ejf
+old = ahfmmati
+new = ahammati
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1547: 12/7/2014 dict=SHS, L=47076, hw=hfbottara, user=ejf
+old = hfbottara
+new = hftottara
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1546: 12/7/2014 dict=SHS, L=46062, hw=snE, user=ejf
+old = snE
+new = srE
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1545: 12/7/2014 dict=SHS, L=46061, hw=snek, user=ejf
+old = snek
+new = srek
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1544: 12/7/2014 dict=SHS, L=46060, hw=snU, user=ejf
+old = snU
+new = srU
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1543: 12/7/2014 dict=SHS, L=46059, hw=snuvAvfkza, user=ejf
+old = snuvAvfkza
+new = sruvAvfkza
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1542: 12/7/2014 dict=SHS, L=46058, hw=snuva, user=ejf
+old = snuva
+new = sruva
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1541: 12/7/2014 dict=SHS, L=46057, hw=snuti, user=ejf
+old = snuti
+new = sruti
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1540: 12/7/2014 dict=SHS, L=46056, hw=snuta, user=ejf
+old = snuta
+new = sruta
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1539: 12/7/2014 dict=SHS, L=46055, hw=snuc, user=ejf
+old = snuc
+new = sruc
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1538: 12/7/2014 dict=SHS, L=46054, hw=snuDnI, user=ejf
+old = snuDnI
+new = sruDnI
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1537: 12/7/2014 dict=SHS, L=46053, hw=snugdAru, user=ejf
+old = snugdAru
+new = srugdAru
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1536: 12/7/2014 dict=SHS, L=46034, hw=snanm, user=ejf
+old = snanm
+new = sramB
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
@@ -947,123 +1177,123 @@ new = asammoha
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1534: 12/7/2014 dict=SHS, L=1508, hw=anuddDaraRa, user=ejf
-old = anuddDaraRa
-new = anudDaraRa
+Case 1534: 12/7/2014 dict=SHS, L=45275, hw=sOvOryya, user=ejf
+old = sOvOryya
+new = sOvIryya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1533: 12/7/2014 dict=SHS, L=1112, hw=aDostrapitta, user=ejf
-old = aDostrapitta
-new = aDosrapitta
+Case 1533: 12/7/2014 dict=SHS, L=45166, hw=sAlluRWa, user=ejf
+old = sAlluRWa
+new = solluRWa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1532: 12/7/2014 dict=SHS, L=365, hw=agyra, user=ejf
-old = agyra
-new = agrya
+Case 1532: 12/7/2014 dict=SHS, L=45165, hw=sorAzwvika, user=ejf
+old = sorAzwvika
+new = sorAzwrika
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1531: 12/7/2014 dict=SHS, L=46062, hw=snE, user=ejf
-old = snE
-new = srE
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1530: 12/7/2014 dict=SHS, L=46061, hw=snek, user=ejf
-old = snek
-new = srek
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1529: 12/7/2014 dict=SHS, L=46060, hw=snU, user=ejf
-old = snU
-new = srU
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1528: 12/7/2014 dict=SHS, L=46059, hw=snuvAvfkza, user=ejf
-old = snuvAvfkza
-new = sruvAvfkza
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1527: 12/7/2014 dict=SHS, L=46058, hw=snuva, user=ejf
-old = snuva
-new = sruva
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1526: 12/7/2014 dict=SHS, L=46057, hw=snuti, user=ejf
-old = snuti
-new = sruti
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1525: 12/7/2014 dict=SHS, L=46056, hw=snuta, user=ejf
-old = snuta
-new = sruta
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1524: 12/7/2014 dict=SHS, L=46055, hw=snuc, user=ejf
-old = snuc
-new = sruc
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1523: 12/7/2014 dict=SHS, L=46054, hw=snuDnI, user=ejf
-old = snuDnI
-new = sruDnI
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1522: 12/7/2014 dict=SHS, L=46053, hw=snugdAru, user=ejf
-old = snugdAru
-new = srugdAru
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1521: 12/7/2014 dict=SHS, L=44826, hw=sUvyAsya, user=ejf
+Case 1531: 12/7/2014 dict=SHS, L=44826, hw=sUvyAsya, user=ejf
 old = sUvyAsya
 new = sUcyAsya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1520: 12/7/2014 dict=SHS, L=44825, hw=sUvyagrasTUlaka, user=ejf
+Case 1530: 12/7/2014 dict=SHS, L=44825, hw=sUvyagrasTUlaka, user=ejf
 old = sUvyagrasTUlaka
 new = sUcyagrasTUlaka
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1519: 12/7/2014 dict=SHS, L=44523, hw=sumvaluRWa, user=ejf
+Case 1529: 12/7/2014 dict=SHS, L=44523, hw=sumvaluRWa, user=ejf
 old = sumvaluRWa
 new = sumpaluRWa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1518: 12/7/2014 dict=SHS, L=38565, hw=vEktavya, user=ejf
+Case 1528: 12/7/2014 dict=SHS, L=43073, hw=sammUCana, user=ejf
+old = sammUCana
+new = sammUrCana
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1527: 12/7/2014 dict=SHS, L=42399, hw=sannivfttri, user=ejf
+old = sannivfttri
+new = sannivftti
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1526: 12/7/2014 dict=SHS, L=41448, hw=zamj, user=ejf
+old = zamj
+new = zasj
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1525: 12/7/2014 dict=SHS, L=40783, hw=SEGyra, user=ejf
+old = SEGyra
+new = SEGrya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1524: 12/7/2014 dict=SHS, L=40552, hw=SunDya, user=ejf
+old = SunDya
+new = SunDyu
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1523: 12/7/2014 dict=SHS, L=40343, hw=SIGyra, user=ejf
+old = SIGyra
+new = SIGrya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1522: 12/7/2014 dict=SHS, L=38565, hw=vEktavya, user=ejf
 old = vEktavya
 new = vEklavya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1517: 12/7/2014 dict=SHS, L=38096, hw=vIyyAvaDUta, user=ejf
+Case 1521: 12/7/2014 dict=SHS, L=38382, hw=veRukarkvara, user=ejf
+old = veRukarkvara
+new = veRukarkkara
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1520: 12/7/2014 dict=SHS, L=38096, hw=vIyyAvaDUta, user=ejf
 old = vIyyAvaDUta
 new = vIryyAvaDUta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1516: 12/7/2014 dict=SHS, L=34425, hw=luWyat, user=ejf
+Case 1519: 12/7/2014 dict=SHS, L=37902, hw=visprardDamAna, user=ejf
+old = visprardDamAna
+new = vispardDamAna
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1518: 12/7/2014 dict=SHS, L=365, hw=agyra, user=ejf
+old = agyra
+new = agrya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1517: 12/7/2014 dict=SHS, L=34425, hw=luWyat, user=ejf
 old = luWyat
 new = luwyat
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1515: 12/7/2014 dict=SHS, L=33114, hw=raRatUyya, user=ejf
+Case 1516: 12/7/2014 dict=SHS, L=33114, hw=raRatUyya, user=ejf
 old = raRatUyya
 new = raRatUryya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1515: 12/7/2014 dict=SHS, L=32816, hw=yogaruQa, user=ejf
+old = yogaruQa
+new = yogarUQa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
@@ -1103,273 +1333,291 @@ new = matsyAkzI
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1508: 12/7/2014 dict=SHS, L=27724, hw=prAkvAla, user=ejf
-old = prAkvAla
-new = prAkkAla
+Case 1508: 12/7/2014 dict=SHS, L=29986, hw=makv, user=ejf
+old = makv
+new = makk
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1507: 12/7/2014 dict=SHS, L=27726, hw=prAkkula, user=ejf
-old = prAkkula
-new = prAkkUla
+Case 1507: 12/7/2014 dict=SHS, L=29853, hw=Bogondra, user=ejf
+old = Bogondra
+new = BogIndra
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1506: 12/7/2014 dict=SHS, L=27709, hw=prAkaWya, user=ejf
-old = prAkaWya
-new = prAkawya
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1505: 12/7/2014 dict=SHS, L=26547, hw=pratibimvana, user=ejf
-old = pratibimvana
-new = pratibimbana
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1504: 12/7/2014 dict=SHS, L=26079, hw=prakIrci, user=ejf
-old = prakIrci
-new = prakIrtti
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1503: 12/7/2014 dict=SHS, L=25441, hw=pulraGa, user=ejf
-old = pulraGa
-new = pulvaGa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1502: 12/7/2014 dict=SHS, L=22312, hw=nizweva, user=ejf
-old = nizweva
-new = nizWeva
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1501: 12/7/2014 dict=SHS, L=21354, hw=nAWyaSAlA, user=ejf
-old = nAWyaSAlA
-new = nAwyaSAlA
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1500: 12/7/2014 dict=SHS, L=21352, hw=nAWyaDarmmika, user=ejf
-old = nAWyaDarmmika
-new = nAwyaDarmmika
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1499: 12/7/2014 dict=SHS, L=21355, hw=nAWyokti, user=ejf
-old = nAWyokti
-new = nAwyokti
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1498: 12/7/2014 dict=SHS, L=20715, hw=DUBrAwa, user=ejf
-old = DUBrAwa
-new = DUmrAwa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1497: 12/7/2014 dict=SHS, L=20504, hw=DavalItpala, user=ejf
-old = DavalItpala
-new = Davalotpala
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1496: 12/7/2014 dict=SHS, L=19094, hw=dorGakoSikA, user=ejf
-old = dorGakoSikA
-new = dIrGakoSikA
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1495: 12/7/2014 dict=SHS, L=18492, hw=dantapuppa, user=ejf
-old = dantapuppa
-new = dantapuzpa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1494: 12/7/2014 dict=SHS, L=16263, hw=jiGatmu, user=ejf
-old = jiGatmu
-new = jiGatsu
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1493: 12/7/2014 dict=SHS, L=14205, hw=grAmakukvuwa, user=ejf
-old = grAmakukvuwa
-new = grAmakukkuwa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1492: 12/7/2014 dict=SHS, L=13804, hw=gfRqIba, user=ejf
-old = gfRqIba
-new = gfRqIva
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1491: 12/7/2014 dict=SHS, L=13473, hw=gAmmIryya, user=ejf
-old = gAmmIryya
-new = gAmBIryya
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1490: 12/7/2014 dict=SHS, L=12363, hw=kzIzRAzwakarmman, user=ejf
-old = kzIzRAzwakarmman
-new = kzIRAzwakarmman
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1489: 12/7/2014 dict=SHS, L=10550, hw=kukvuwARqa, user=ejf
-old = kukvuwARqa
-new = kukkuwARqa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1488: 12/7/2014 dict=SHS, L=10548, hw=kukvuwavrata, user=ejf
-old = kukvuwavrata
-new = kukkuwavrata
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1487: 12/7/2014 dict=SHS, L=10547, hw=kukvuwamastaka, user=ejf
-old = kukvuwamastaka
-new = kukkuwamastaka
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1486: 12/7/2014 dict=SHS, L=10546, hw=kukvuwamaRqapa, user=ejf
-old = kukvuwamaRqapa
-new = kukkuwamaRqapa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1485: 12/7/2014 dict=SHS, L=10544, hw=kukvuwa, user=ejf
-old = kukvuwa
-new = kukkuwa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1484: 12/7/2014 dict=SHS, L=8185, hw=ekvAntakaruRa, user=ejf
-old = ekvAntakaruRa
-new = ekAntakaruRa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1483: 12/7/2014 dict=SHS, L=8033, hw=ftumlAtA, user=ejf
-old = ftumlAtA
-new = ftusnAtA
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1482: 12/7/2014 dict=SHS, L=6923, hw=utmikta, user=ejf
-old = utmikta
-new = utsikta
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1481: 12/7/2014 dict=SHS, L=6461, hw=Ipmana, user=ejf
-old = Ipmana
-new = Ipsana
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1480: 12/7/2014 dict=SHS, L=4849, hw=ahfmmati, user=ejf
-old = ahfmmati
-new = ahammati
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1479: 12/7/2014 dict=SHS, L=2917, hw=amftasrUt, user=ejf
-old = amftasrUt
-new = amftasrut
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1478: 12/7/2014 dict=SHS, L=75, hw=akAraRItpanna, user=ejf
-old = akAraRItpanna
-new = akAraRotpanna
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1477: 12/7/2014 dict=SHS, L=47076, hw=hfbottara, user=ejf
-old = hfbottara
-new = hftottara
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1476: 12/7/2014 dict=SHS, L=45275, hw=sOvOryya, user=ejf
-old = sOvOryya
-new = sOvIryya
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1475: 12/7/2014 dict=SHS, L=43073, hw=sammUCana, user=ejf
-old = sammUCana
-new = sammUrCana
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1474: 12/7/2014 dict=SHS, L=32816, hw=yogaruQa, user=ejf
-old = yogaruQa
-new = yogarUQa
-status =  Corrected 12/07/2014
-------------------------------------------------------------------------
-
-Case 1473: 12/7/2014 dict=SHS, L=29847, hw=BIgAvalI, user=ejf
+Case 1506: 12/7/2014 dict=SHS, L=29847, hw=BIgAvalI, user=ejf
 old = BIgAvalI
 new = BogAvalI
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1472: 12/7/2014 dict=SHS, L=28940, hw=brahmoJatA, user=ejf
+Case 1505: 12/7/2014 dict=SHS, L=2917, hw=amftasrUt, user=ejf
+old = amftasrUt
+new = amftasrut
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1504: 12/7/2014 dict=SHS, L=29070, hw=BaRqka, user=ejf
+old = BaRqka
+new = BaRqUka
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1503: 12/7/2014 dict=SHS, L=28940, hw=brahmoJatA, user=ejf
 old = brahmoJatA
 new = brahmojJatA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1471: 12/7/2014 dict=SHS, L=27944, hw=prAlEyAMSu, user=ejf
+Case 1502: 12/7/2014 dict=SHS, L=27944, hw=prAlEyAMSu, user=ejf
 old = prAlEyAMSu
 new = prAleyAMSu
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1470: 12/7/2014 dict=SHS, L=27761, hw=prANamuKa, user=ejf
+Case 1501: 12/7/2014 dict=SHS, L=27761, hw=prANamuKa, user=ejf
 old = prANamuKa
 new = prANmuKa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1469: 12/7/2014 dict=SHS, L=22349, hw=nizfzwArTa, user=ejf
+Case 1500: 12/7/2014 dict=SHS, L=27726, hw=prAkkula, user=ejf
+old = prAkkula
+new = prAkkUla
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1499: 12/7/2014 dict=SHS, L=27724, hw=prAkvAla, user=ejf
+old = prAkvAla
+new = prAkkAla
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1498: 12/7/2014 dict=SHS, L=27709, hw=prAkaWya, user=ejf
+old = prAkaWya
+new = prAkawya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1497: 12/7/2014 dict=SHS, L=26547, hw=pratibimvana, user=ejf
+old = pratibimvana
+new = pratibimbana
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1496: 12/7/2014 dict=SHS, L=26444, hw=pratijYAsanryAsa, user=ejf
+old = pratijYAsanryAsa
+new = pratijYAsannyAsa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1495: 12/7/2014 dict=SHS, L=26079, hw=prakIrci, user=ejf
+old = prakIrci
+new = prakIrtti
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1494: 12/7/2014 dict=SHS, L=25441, hw=pulraGa, user=ejf
+old = pulraGa
+new = pulvaGa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1493: 12/7/2014 dict=SHS, L=24651, hw=pArSvIdarapriya, user=ejf
+old = pArSvIdarapriya
+new = pArSvodarapriya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1492: 12/7/2014 dict=SHS, L=22349, hw=nizfzwArTa, user=ejf
 old = nizfzwArTa
 new = nisfzwArTa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1468: 12/7/2014 dict=SHS, L=22348, hw=nizfzwa, user=ejf
+Case 1491: 12/7/2014 dict=SHS, L=22348, hw=nizfzwa, user=ejf
 old = nizfzwa
 new = nisfzwa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1467: 12/7/2014 dict=SHS, L=22347, hw=nizftA, user=ejf
+Case 1490: 12/7/2014 dict=SHS, L=22347, hw=nizftA, user=ejf
 old = nizftA
 new = nisftA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1466: 12/7/2014 dict=SHS, L=18678, hw=daSaBUBiga, user=ejf
+Case 1489: 12/7/2014 dict=SHS, L=22312, hw=nizweva, user=ejf
+old = nizweva
+new = nizWeva
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1488: 12/7/2014 dict=SHS, L=21355, hw=nAWyokti, user=ejf
+old = nAWyokti
+new = nAwyokti
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1487: 12/7/2014 dict=SHS, L=21354, hw=nAWyaSAlA, user=ejf
+old = nAWyaSAlA
+new = nAwyaSAlA
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1486: 12/7/2014 dict=SHS, L=21352, hw=nAWyaDarmmika, user=ejf
+old = nAWyaDarmmika
+new = nAwyaDarmmika
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1485: 12/7/2014 dict=SHS, L=20715, hw=DUBrAwa, user=ejf
+old = DUBrAwa
+new = DUmrAwa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1484: 12/7/2014 dict=SHS, L=20504, hw=DavalItpala, user=ejf
+old = DavalItpala
+new = Davalotpala
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1483: 12/7/2014 dict=SHS, L=19094, hw=dorGakoSikA, user=ejf
+old = dorGakoSikA
+new = dIrGakoSikA
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1482: 12/7/2014 dict=SHS, L=18678, hw=daSaBUBiga, user=ejf
 old = daSaBUBiga
 new = daSaBUmiga
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1465: 12/7/2014 dict=SHS, L=15544, hw=CandaskFta, user=ejf
+Case 1481: 12/7/2014 dict=SHS, L=18632, hw=dalanirmBoka, user=ejf
+old = dalanirmBoka
+new = dalanirmmoka
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1480: 12/7/2014 dict=SHS, L=18492, hw=dantapuppa, user=ejf
+old = dantapuppa
+new = dantapuzpa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1479: 12/7/2014 dict=SHS, L=16263, hw=jiGatmu, user=ejf
+old = jiGatmu
+new = jiGatsu
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1478: 12/7/2014 dict=SHS, L=15688, hw=jagatkftmna, user=ejf
+old = jagatkftmna
+new = jagatkftsna
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1477: 12/7/2014 dict=SHS, L=15544, hw=CandaskFta, user=ejf
 old = CandaskFta
 new = Candaskfta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1464: 12/7/2014 dict=SHS, L=5786, hw=Aryyazuva, user=ejf
-old = Aryyazuva
-new = Aryyaputra
+Case 1476: 12/7/2014 dict=SHS, L=1508, hw=anuddDaraRa, user=ejf
+old = anuddDaraRa
+new = anudDaraRa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1475: 12/7/2014 dict=SHS, L=14205, hw=grAmakukvuwa, user=ejf
+old = grAmakukvuwa
+new = grAmakukkuwa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1474: 12/7/2014 dict=SHS, L=13804, hw=gfRqIba, user=ejf
+old = gfRqIba
+new = gfRqIva
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1473: 12/7/2014 dict=SHS, L=13600, hw=guqaSarkvarA, user=ejf
+old = guqaSarkvarA
+new = guqaSarkkarA
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1472: 12/7/2014 dict=SHS, L=13473, hw=gAmmIryya, user=ejf
+old = gAmmIryya
+new = gAmBIryya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1471: 12/7/2014 dict=SHS, L=12664, hw=RqaKaSas, user=ejf
+old = RqaKaSas
+new = KaRqaSas
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1470: 12/7/2014 dict=SHS, L=12363, hw=kzIzRAzwakarmman, user=ejf
+old = kzIzRAzwakarmman
+new = kzIRAzwakarmman
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1469: 12/7/2014 dict=SHS, L=11537, hw=kfzRArjka, user=ejf
+old = kfzRArjka
+new = kfzRArjaka
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1468: 12/7/2014 dict=SHS, L=1112, hw=aDostrapitta, user=ejf
+old = aDostrapitta
+new = aDosrapitta
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1467: 12/7/2014 dict=SHS, L=10550, hw=kukvuwARqa, user=ejf
+old = kukvuwARqa
+new = kukkuwARqa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1466: 12/7/2014 dict=SHS, L=10548, hw=kukvuwavrata, user=ejf
+old = kukvuwavrata
+new = kukkuwavrata
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1465: 12/7/2014 dict=SHS, L=10547, hw=kukvuwamastaka, user=ejf
+old = kukvuwamastaka
+new = kukkuwamastaka
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1464: 12/7/2014 dict=SHS, L=10546, hw=kukvuwamaRqapa, user=ejf
+old = kukvuwamaRqapa
+new = kukkuwamaRqapa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1463: 12/7/2014 dict=SHS, L=10544, hw=kukvuwa, user=ejf
+old = kukvuwa
+new = kukkuwa
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1462: 12/7/2014 dict=SHS, L=10107, hw=kAtrsnya, user=ejf
+old = kAtrsnya
+new = kArtsnya
+status =  Corrected 12/07/2014
+------------------------------------------------------------------------
+
+Case 1461: 12/7/2014 dict=SHS, L=10106, hw=kAtrsna, user=ejf
+old = kAtrsna
+new = kArtsna
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 

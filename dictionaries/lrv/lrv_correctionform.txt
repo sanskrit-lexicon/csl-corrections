@@ -1,20 +1,137 @@
 Sanskrit Lexicon Correction Form History for LRV
-As of February 03, 2026
-3 correction records, with 0 PENDING
+As of April 26, 2026
+21 correction records, with 8 PENDING
 
-Case 26133: 05/27/2025 dict=LRV, L= 25470, hw=prAya, user=ejf
+Case 26238: 04/25/2026 dict=LRV, L=8424.1, hw=karṇejapa, user=srhodes
+old = karṇajapa
+new = karṇejapa
+status = Corrected 26 Apr 2026
+------------------------------------------------------------------------
+
+Case 26237: 04/25/2026 dict=LRV, L=8416.1, hw=karṇāṃdū, user=srhodes
+old = karṇa-aṃdu f. 
+new = karṇa-aṃdū f. 
+status = Corrected 26 Apr 2026
+------------------------------------------------------------------------
+
+Case 26182: 04/19/2026 dict=LRV, L=8392.1, hw=kareṇusūta, user=srhodes
+old = kareṇu-bhū m.
+new = kareṇu-sūta m.
+comment = Typo – Please confirmt that this spelling is authorized, as the rest of the world apparently prefers: "kareṇusuta", with short vowel.
+status = Corrected 25 Apr 2026
+------------------------------------------------------------------------
+
+Case 26130: 04/13/2026 dict=LRV, L=8320.1, hw=karavīraka, user=srhodes
+old = cemetory
+new = cemetery
+status = Corrected 14 Apr 2026
+------------------------------------------------------------------------
+
+Case 26129: 04/13/2026 dict=LRV, L=8320, hw=karavīra, user=srhodes
+old = cemetory
+new = cemetery
+status = Corrected 14 Apr 2026
+------------------------------------------------------------------------
+
+Case 26082: 04/07/2026 dict=LRV, L=8302.1, hw=karatālī, user=srhodes
+old = kara-tālikā f.
+new = kara-tālī f.
+status = Noted for generic change at https://github.com/sanskrit-lexicon/LRV/issues/28
+------------------------------------------------------------------------
+
+Case 26081: 04/07/2026 dict=LRV, L=8298, hw=karatala, user=srhodes
+old = the-palm
+new = the palm
+status = Corrected 08 Apr 2026
+------------------------------------------------------------------------
+
+Case 26063: 04/04/2026 dict=LRV, L=8267, hw=kaṃbala, user=srhodes
+old = dew-lap
+new = dewlap
+comment = Typo – Better without the "Hyphen".
+status = No change required
+------------------------------------------------------------------------
+
+Case 26062: 04/04/2026 dict=LRV, L=8262, hw=kaṃpāka, user=srhodes
+old = kaṃpāka
+new = kaṃpāṅka
+comment = Typo – Please note that this is a possible "Print Change", that needs investigation. The spelling as "kaṃpāka", might be incorrect.
+status = No change required
+------------------------------------------------------------------------
+
+Case 26061: 04/04/2026 dict=LRV, L=8252.1, hw=kamalāsakha, user=srhodes
+old = kamalā-pati
+new = kamalā-sakha
+status = Corrected 2026-04-05
+------------------------------------------------------------------------
+
+Case 26056: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
+old = lot uses
+new = lotuses
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26055: 04/03/2026 dict=LRV, L=8236, hw=kamanachada, user=srhodes
+old = kamanachada
+new = kamanacchada
+comment = Typo – This may indicate a Global Correction to be made in regard to the following transformation: "-ch" »»» "-ccha"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 26009: 02/03/2026 dict=LRV, L=7444, hw=ekatas, user=srhodes
+old = on one side-one other
+new = on one side-on the other
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25999: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
+old = ekatarat
+new = ekataram
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25998: 02/01/2026 dict=LRV, L=7398.1, hw=ekatarā, user=srhodes
+old = n. rat) 
+new = n. ram) 
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25997: 02/01/2026 dict=LRV, L=7398, hw=ekatara, user=srhodes
+old = n. rat) 
+new = n. ram) 
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25996: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
+old = n. rat) 
+new = n. ram) 
+comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25994: 01/31/2026 dict=LRV, L=7508, hw=aikadyam, user=srhodes
+old = aikadyam
+new = DELETE ENTRY
+comment = Typo – The Deletion of this Headword has been possibly indicated here by AB: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3828612970
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25890: 05/27/2025 dict=LRV, L= 25470, hw=prAya, user=ejf
 old = प्रयेण is usetl as an indeclinable
 new = प्रयेण is used as an indeclinable
 status = corrected 02 Feb 2026. Also corrected prayeRa to prAyeRa.
 ------------------------------------------------------------------------
 
-Case 26127: 05/16/2025 dict=LRV, L= 19968, hw=निवार, user=ejf
+Case 25884: 05/16/2025 dict=LRV, L= 19968, hw=निवार, user=ejf
 old = prerenting
 new = preventing
 status = corrected 02 Feb 2026
 ------------------------------------------------------------------------
 
-Case 25683: 11/04/2023 dict=LRV, L= 21056, hw=para, user=shztg
+Case 25441: 11/04/2023 dict=LRV, L= 21056, hw=para, user=shztg
 old = 8. mimical, adverse; 
 new = 8. inimical, adverse; 
 status = 12/12/2023 corrected

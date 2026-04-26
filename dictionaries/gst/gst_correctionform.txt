@@ -1,56 +1,56 @@
 Sanskrit Lexicon Correction Form History for GST
-As of February 03, 2026
+As of April 26, 2026
 9 correction records, with 0 PENDING
 
-Case 26040: 11/16/2024 dict=GST, L= Sanskrit, hw=KAk, user=
+Case 25797: 11/16/2024 dict=GST, L= Sanskrit, hw=KAk, user=
 old = Sánscrito LB Normal
 new = 
 status = insufficient information. Not corrected
 ------------------------------------------------------------------------
 
-Case 25228: 07/16/2022 dict=GST, L= , hw=no headword, user=frank.ziesing
+Case 24987: 07/16/2022 dict=GST, L= , hw=no headword, user=frank.ziesing
 old = 
 new = 
 comment = There seems to be a bug in the list view of the Goldstücker dictionary. It finds only words which are in the list on the left.
 status = no correction needed 09/12/2022
 ------------------------------------------------------------------------
 
-Case 23838: 09/12/2017 dict=GST, L=4791, hw=aparAhletana, user=dhaval
+Case 23600: 09/12/2017 dict=GST, L=4791, hw=aparAhletana, user=dhaval
 old = aparAhletana
 new = aparAhRetana
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23837: 09/12/2017 dict=GST, L=4790, hw=aparAhlatana, user=dhaval
+Case 23599: 09/12/2017 dict=GST, L=4790, hw=aparAhlatana, user=dhaval
 old = aparAhlatana
 new = aparAhRatana
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23836: 09/12/2017 dict=GST, L=4789, hw=aparAhlakfta, user=dhaval
+Case 23598: 09/12/2017 dict=GST, L=4789, hw=aparAhlakfta, user=dhaval
 old = aparAhlakfta
 new = aparAhRakfta
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23835: 09/12/2017 dict=GST, L=4788, hw=aparAhlaka, user=dhaval
+Case 23597: 09/12/2017 dict=GST, L=4788, hw=aparAhlaka, user=dhaval
 old = aparAhlaka
 new = aparAhRaka
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 23834: 09/12/2017 dict=GST, L=4787, hw=aparAhla, user=dhaval
+Case 23596: 09/12/2017 dict=GST, L=4787, hw=aparAhla, user=dhaval
 old = aparAhla
 new = aparAhRa
 comment = typo 
 status =  Corrected 09/12/2017
 ------------------------------------------------------------------------
 
-Case 22620: 05/12/2016 dict=GST, L=4757, hw=aparANguKa, user=dhaval
+Case 22383: 05/12/2016 dict=GST, L=4757, hw=aparANguKa, user=dhaval
 old = aparANguKa
 new = aparANmuKa
 comment = typo guK
