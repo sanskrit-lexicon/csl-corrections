@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 26, 2026
-21 correction records, with 8 PENDING
+21 correction records, with 0 PENDING
 
 Case 26238: 04/25/2026 dict=LRV, L=8424.1, hw=karṇejapa, user=srhodes
 old = karṇajapa
@@ -68,55 +68,55 @@ status = Corrected 2026-04-05
 Case 26056: 04/03/2026 dict=LRV, L=8242, hw=kamalākara, user=srhodes
 old = lot uses
 new = lotuses
-status = PENDING
+status = Corrected 2026-04-05
 ------------------------------------------------------------------------
 
 Case 26055: 04/03/2026 dict=LRV, L=8236, hw=kamanachada, user=srhodes
 old = kamanachada
 new = kamanacchada
 comment = Typo – This may indicate a Global Correction to be made in regard to the following transformation: "-ch" »»» "-ccha"
-status = PENDING
+status = Corrected 2026-04-05
 ------------------------------------------------------------------------
 
 Case 26009: 02/03/2026 dict=LRV, L=7444, hw=ekatas, user=srhodes
 old = on one side-one other
 new = on one side-on the other
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25999: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
 old = ekatarat
 new = ekataram
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25998: 02/01/2026 dict=LRV, L=7398.1, hw=ekatarā, user=srhodes
 old = n. rat) 
 new = n. ram) 
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25997: 02/01/2026 dict=LRV, L=7398, hw=ekatara, user=srhodes
 old = n. rat) 
 new = n. ram) 
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25996: 02/01/2026 dict=LRV, L=7398.2, hw=ekatarat, user=srhodes
 old = n. rat) 
 new = n. ram) 
 comment = Typo – This is a possible "print change" based upon the statement in MW dictionary under the Headword "ekatara – (n. am, not at by Vārtt. on Pāṇ. vii, 1, 26) ".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25994: 01/31/2026 dict=LRV, L=7508, hw=aikadyam, user=srhodes
 old = aikadyam
 new = DELETE ENTRY
 comment = Typo – The Deletion of this Headword has been possibly indicated here by AB: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3828612970
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-orig/issues/2826
 ------------------------------------------------------------------------
 
 Case 25890: 05/27/2025 dict=LRV, L= 25470, hw=prAya, user=ejf

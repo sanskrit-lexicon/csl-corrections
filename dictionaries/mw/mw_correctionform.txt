@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 26, 2026
-2288 correction records, with 31 PENDING
+2288 correction records, with 13 PENDING
 
 Case 26222: 04/22/2026 dict=MW, L=216850, hw=śiñjatṣaḍaṅghri, user=srhodes
 old = Placement Error
@@ -115,75 +115,75 @@ status = Corrected 2026-04-06
 Case 26054: 04/03/2026 dict=MW, L=107824, hw=nikam, user=srhodes
 old = -kāmoyet
 new = -kāmayet
-status = PENDING
+status = Corrected 2026-04-05
 ------------------------------------------------------------------------
 
 Case 26052: 04/02/2026 dict=MW, L=45908, hw=kalāṭīna, user=srhodes
 old = water-wagtail
 new = water wagtail
 comment = Typo – Please note that this word is better written as TWO words without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26044: 04/01/2026 dict=MW, L=14233, hw=amṛtabandhu, user=jc
 old = a-mṛ́ta—bandhu m. (amṛta-)
 new = a-mṛ́ta—bandhu m. (amṛ́ta-)
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26043: 04/01/2026 dict=MW, L=176852, hw=rājanyabandhu, user=jc
 old = rājanyà—bandhu m. (°nyá-)
 new = rājanyà—bandhu m. (°nyà-)
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26042: 04/01/2026 dict=MW, L=116702.38, hw= parokṣabandhu, user=jc
 old = paro—'kṣa—bandhu mfn. (parokṣa-)
 new = paró—'kṣa—bandhu mfn. (paró'kṣa-)
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26041: 04/01/2026 dict=MW, L=80591, hw=jyeṣṭhabandhu, user=jc
 old = jyéṣṭha—bandhu (°ṣṭhá-)
 new = jyeṣṭhá—bandhu (°ṣṭhá-)
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26039: 03/29/2026 dict=MW, L=176878, hw=rājya, user=jc
 old = also rā́jya or rājyā
 new = also rā́jya or rājyà
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26037: 03/25/2026 dict=MW, L=126047 , hw=purogava, user=jc
 old = (f. °ví)
 new = (f. °vī́)
 comment = Typo (also possibly a misprint in the print edition - the font is very unclear with italic "i").
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26036: 03/25/2026 dict=MW, L=15369, hw=ariṣṭagu, user=Jaycee Carter
 old = (árlṣṭa-)
 new = (áriṣṭa-)
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26035: 03/25/2026 dict=MW, L= 227404, hw=saMhati, user=chandan.mazumdar
 old = ...Kāv.; Kathās. and C. 
 new = ...Kāv.; Kathās. &c. 
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26034: 03/24/2026 dict=MW, L=219861, hw=zulka, user=chandan.mazumdar
 old = (ifc. f A.) price,...
 new = (ifc. f ā.) price,...
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26033: 03/23/2026 dict=MW, L= 36673.15 , hw=1. upā-dhi, user=samm3
 old = asty-upādhi, having, ‘is’ as an attribute
 new = asty-upādhi, having ‘is’ as an attribute LB (comma to be erased)
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26029: 03/15/2026 dict=mw, L=, hw=, user=Serge A
@@ -210,7 +210,7 @@ status = PENDING
 Case 26025: 03/12/2026 dict=MW, L= 30024.1, hw=उक्तार्थ, user=marcwinner13
 old = उक्—°तार्थ
 new = उक्—°तार्थ -> उक्तार्थ 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26024: 03/08/2026 dict=MW, L=240990 , hw=साकूत, user=octaveboczkowski
@@ -238,31 +238,31 @@ Case 26021: 03/03/2026 dict=MW, L=211284, hw=शकल, user=octaveboczkowski
 old = log. piece
 new = log, piece
 comment = Typo (dot in stead of comma)
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26020: 03/03/2026 dict=MW, L= 171291, hw=yājña, user=Owen Flawers
 old = (fr. yajñā,
 new = (fr. yajña,
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26019: 02/28/2026 dict=MW, L= 102768, hw=nakta, user=jc
 old = °sá-naktā
 new = °sā-naktā
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26017: 02/22/2026 dict=mw, L= , hw=Bhava, user=
 old = 
 new = 
-status = PENDING
+status = Insufficient information
 ------------------------------------------------------------------------
 
 Case 26016: 02/21/2026 dict=MW, L= 1899, hw=Sanskrit word, user=
 old = kRtajJA
 new = 
-status = PENDING
+status = Insufficient information
 ------------------------------------------------------------------------
 
 Case 25984: 01/12/2026 dict=MW, L= , hw=saṃsāra, user=

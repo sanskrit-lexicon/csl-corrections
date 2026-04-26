@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP90
 As of April 26, 2026
-420 correction records, with 1 PENDING
+420 correction records, with 0 PENDING
 
 Case 26015: 02/19/2026 dict=AP90, L= 6338 , hw=आनुसूय, user=sanaatani
 old = The word given for atripatni is अनुसूया। Should it be अनसूया?
 new = 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25966: 12/11/2025 dict=AP90, L=22878 , hw=मही, user=chandrasekharanr

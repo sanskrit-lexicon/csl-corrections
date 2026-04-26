@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for PD
 As of April 26, 2026
-1376 correction records, with 1 PENDING
+1376 correction records, with 0 PENDING
 
 Case 26014: 02/16/2026 dict=PD, L= ID=2593, hw=अकुसीद, user=philipp.a.maas
 old = र्धर्ममेवः 
 new = र्धर्ममेघः
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/123
 ------------------------------------------------------------------------
 
 Case 23619: 09/12/2017 dict=PD, L=44409, hw=aDaHSayy, user=dhaval

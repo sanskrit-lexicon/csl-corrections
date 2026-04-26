@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for GRA
 As of April 26, 2026
-416 correction records, with 1 PENDING
+416 correction records, with 0 PENDING
 
 Case 26013: 02/16/2026 dict=GRA, L= 6437 , hw=bhr̥, user=pvstiles
 old = -avaí u ápa 840,2 ná‿ eṣā́ gávyūtis ápabhartavaí u  LB (page 963)
 new = 940,2 
 comment = Graßmann error
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25937: 09/26/2025 dict=GRA, L= 744, hw=aphala, user=reremixing

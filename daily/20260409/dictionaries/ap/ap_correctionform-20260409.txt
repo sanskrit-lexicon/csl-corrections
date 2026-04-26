@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 11, 2026
-15 correction records, with 2 PENDING
+As of April 26, 2026
+15 correction records, with 0 PENDING
 
 Case 21: 04/09/2026 dict=AP, L=11829, hw=kaṣāya, user=srhodes
 old = bhaktapā
@@ -53,14 +53,14 @@ Case 13: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes
 old = kaserukāḥ
 new = kaserukā
 comment = Typo – This is a possible "Print Change" that needs investigation. It appears that Three Genders (masculine, neuter and feminine) are being cited for this definition: "a sort of grass". Therefore, "kaserukāḥ" is likely intended as the Feminine Form, which of course should be spelled as "kaserukā". It appears that VCP, SKD and SHS agree. MW also indicates this correction under His Headword "kaśeruka".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 12: 04/09/2026 dict=AP, L=11816.002, hw=kaseruka, user=srhodes
 old = kaseruka
 new = kaserukam
 comment = Typo – This is a possible "Print Change" that needs investigation. It appears that Three Genders (masculine, neuter and feminine) are being cited for this definition: "a sort of grass". Therefore, "kaseruka" is likely intended as the Neuter Form, which of course should be spelled as "kaserukam".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 11: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes

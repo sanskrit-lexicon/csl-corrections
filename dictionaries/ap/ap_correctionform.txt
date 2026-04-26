@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 26, 2026
-716 correction records, with 30 PENDING
+716 correction records, with 4 PENDING
 
 Case 26246: 04/25/2026 dict=AP, L=11995.004, hw=kāmayitṛ, user=srhodes
 old = kāmayāgam
@@ -811,21 +811,21 @@ Case 26060: 04/03/2026 dict=AP, L=11739.032, hw=kalimārakaḥ, user=srhodes
 old = karanja
 new = karañja
 comment = Typo – Please note that this is a suggested "Print Change". My preference is to have spellings be precise in every detail.
-status = PENDING
+status = Corrected 2026-04-05
 ------------------------------------------------------------------------
 
 Case 26059: 04/03/2026 dict=AP, L=11739.024, hw=kalikriyaḥ, user=srhodes
 old = karanja
 new = karañja
 comment = Typo – Please note that this is a suggested "Print Change". My preference is to have spellings be precise in every detail.
-status = PENDING
+status = Corrected 2026-04-05
 ------------------------------------------------------------------------
 
 Case 26058: 04/03/2026 dict=AP, L=11739.022, hw=kalikārakaḥ, user=srhodes
 old = karanja
 new = karañja
 comment = Typo – Please note that this is a suggested "Print Change". My preference is to have spellings be precise in every detail.
-status = PENDING
+status = Corrected 2026-04-05
 ------------------------------------------------------------------------
 
 Case 26057: 04/03/2026 dict=AP, L=11739.02, hw=kalikāraḥ, user=srhodes
@@ -838,157 +838,157 @@ status = Corrected 2026-04-05
 Case 26053: 04/02/2026 dict=AP, L=11728, hw=kalāpaḥ, user=srhodes
 old = kuvalayanaṃyanānā
 new = kuvalayanayanānā
-status = PENDING
+status = Corrected 2026-04-26
 ------------------------------------------------------------------------
 
 Case 26050: 04/02/2026 dict=AP, L=11724.002, hw=kalācī, user=srhodes
 old = fore-arm
 new = forearm
 comment = Typo – Please note that this word is better written as a single word without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26049: 04/02/2026 dict=AP, L=11724, hw=kalācika, user=srhodes
 old = fore-arm
 new = forearm
 comment = Typo – Please note that this word is better written as a single word without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26048: 04/02/2026 dict=AP, L=11741, hw=kalikā, user=srhodes
 old = king
 new = kind
 comment = Typo – Please note that this is a suggested Print Change.
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26047: 04/02/2026 dict=AP, L=11720.03, hw=kalādharaḥ, user=srhodes
 old = whoops
 new = Please Ignore! It Has Already Been Done!!!
 comment = whoops
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26046: 04/02/2026 dict=AP, L=11720.03, hw=kalādharaḥ, user=srhodes
 old = Missing Headwords
 new = Two Headwords to add to the Hierarchy List Column: "kalānidhiḥ"  AND  "kalāpūrṇaḥ" , so as to be a "searchable" Headwords within the online dictionary.
 comment = Missing Headwords
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26045: 04/02/2026 dict=AP, L=14050 , hw=गिर्, user=sumant.pes
 old = गिष्पतिः
 new = गीर्पतिः
 comment = incorrect samasa. Side note: I happen to have worked on a similar project https://github.com/sumanthegde/apte-uncompress/tree/ap57, I'd be glad to contribute my findings from there
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26040: 03/29/2026 dict=AP, L=14050, hw=गिर्, user=sumant.pes
 old = गिर्देवी, गिर्वाणः
 new = गीर्देवी, गीर्वाणः
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26038: 03/29/2026 dict=AP, L=ID=23793, hw=प्रांशु, user=aprigliano
 old = मोहाद्
 new = लोभाद्
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 26031: 03/18/2026 dict=ap, L=, hw=parihf, user=jim
 old = leave, desert; कति न कथितमिदमनुपदमचिरं  मा परिहर हरिमतिशयरुचिरम् Gīt. 9 . 3 <!!!>To remove destroy;<!!!> answer, refute (as objections, charges 
 new = To remove, destroy  [comma]
 comment = 
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26026: 03/14/2026 dict=AP, L=11513, hw=kamalinī, user=
 old = lotus-plant
 new = lotus plant
 comment = Typo – Please note that this word is better written as TWO words without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26010: 02/03/2026 dict=AP, L=10821, hw=aiśvaryam, user=srhodes
 old = Super-human
 new = Superhuman
 comment = Typo – Please note that this word is better written as a single word   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26008: 02/02/2026 dict=AP, L=10790, hw=aindra, user=srhodes
 old = yaṣṭapāhvamaindrīnalināni
 new = yaṣṭyāhvamaindrīnalināni
 comment = Typo – Please note that this is a suggested "print change", pending approval by the Authorities.
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26007: 02/02/2026 dict=AP, L=10790, hw=aindra, user=srhodes
 old = Ṛik
 new = Ṛik
 comment = Typo – Please note that this is a suggested "print change", which of course should be made GLOBAL as: "Ṛi"  —— becomes —— "Ṛ"
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26006: 02/02/2026 dict=AP, L=10789, hw=aindumateyaḥ, user=srhodes
 old = Indumati
 new = Indumatī
 comment = Typo – Please note that this is a suggested "print change", pending approval by the Authorities.
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26005: 02/02/2026 dict=AP, L=10783, hw=aitihyam, user=srhodes
 old = pramāṇepvanavasthānādrikalpātsa
 new = pramāṇeṣvanavasthānādrikalpātsa
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26004: 02/01/2026 dict=AP, L=10767, hw=aikṣubhārika, user=srhodes
 old = sugar-canes
 new = sugarcanes
 comment = Typo – Please note that this word is better written as a single word   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!  ALSO, please note that the "plural" here could be rendered simply as "sugarcane", which is my preference.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26003: 02/01/2026 dict=AP, L=10766, hw=aikṣuka, user=srhodes
 old = sugar-cane
 new = sugarcane
 comment = Typo – Please note that this word is better written as a single word   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26002: 02/01/2026 dict=AP, L=10765, hw=aikṣavya, user=srhodes
 old = sugar-cane
 new = sugarcane
 comment = Typo – Please note that this word is better written as a single word   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26001: 02/01/2026 dict=AP, L=10760, hw=aikānyikaḥ, user=srhodes
 old = yato; tra
 new = yato'tra
 comment = Typo – Please note that this is a possible "print change", but it needs confirmation by Authority.
-status = PENDING
+status = Corrected already
 ------------------------------------------------------------------------
 
 Case 26000: 02/01/2026 dict=AP, L=10755, hw=aikāṅgaḥ, user=srhodes
 old = body-guard
 new = bodyguard
 comment = Typo – Please note that this word is better written as a single word   without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25995: 01/31/2026 dict=AP, L=10738, hw=aikadyam, user=srhodes
 old = aikadyam
 new = DELETE ENTRY
 comment = Typo – The Deletion of this Headword has been possibly indicated here by AB: https://github.com/sanskrit-lexicon/csl-corrections/issues/103#issuecomment-3828612970
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-orig/issues/2826
 ------------------------------------------------------------------------
 
 Case 25993: 01/31/2026 dict=AP, L=10733, hw=aiḥ, user=srhodes
 old = kūro
 new = krūro
-status = PENDING
+status = Corrected 03 Feb 2026
 ------------------------------------------------------------------------
 
 Case 25992: 01/31/2026 dict=ap, L=, hw=prayogaH, user=jim

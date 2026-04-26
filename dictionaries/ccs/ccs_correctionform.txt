@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for CCS
 As of April 26, 2026
-2266 correction records, with 1 PENDING
+2266 correction records, with 0 PENDING
 
 Case 26018: 02/25/2026 dict=CCS, L= 26063, hw=san, user=h.c.jahr
 old = Instr. O. Loc.
 new = Instr. o. Loc.  
 comment = Typo // the link to page 471 of the Cappeller Wörterbuch seems to lead to page 472
-status = PENDING
+status = Corrected 25 Apr 2026
 ------------------------------------------------------------------------
 
 Case 25975: 12/20/2025 dict=CCS, L= 28617, hw= sthā, user=frank.ziesing

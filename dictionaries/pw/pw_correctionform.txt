@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for PW
 As of April 26, 2026
-11852 correction records, with 1 PENDING
+11852 correction records, with 0 PENDING
 
 Case 26139: 04/13/2026 dict=pw, L=  16231, hw=ASri, user=ejf
 old = ASri f. = ASri
@@ -12,7 +12,7 @@ Case 26012: 02/06/2026 dict=PW, L= 593814, hw=rAdhas, user=H.C.Jahr
 old = Gelingen Zustandekommen
 new = Gelingen, Zustandekommen
 comment = missing comma
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25832: 01/23/2025 dict=PW, L= 131427 , hw=sparśayajña, user=frank.ziesing

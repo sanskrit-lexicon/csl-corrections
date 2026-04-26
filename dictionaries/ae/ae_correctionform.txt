@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AE
 As of April 26, 2026
-106 correction records, with 1 PENDING
+106 correction records, with 0 PENDING
 
 Case 26221: 04/22/2026 dict=AE, L=   [ID=9 ], hw=abbreviate, user=Shalu
 old = पङं
@@ -18,7 +18,7 @@ Case 26011: 02/05/2026 dict=AE, L= 6923 , hw=moustache, user=Shalu
 old = Not a typo- but the word "mustache" doesn't appear in search in the cologne dictionary- but it is there on this link- of the printed book scan. LB https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=ae&page=301
 new = please include it so as it appears in the search.
 comment = Word missing in digital version
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25991: 01/25/2026 dict=ae, L=, hw=, user=Serge A

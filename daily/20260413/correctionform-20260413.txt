@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
-As of April 14, 2026
-11 correction records, with 2 PENDING
+As of April 26, 2026
+11 correction records, with 0 PENDING
 
 Case 11: 04/13/2026 dict=pw, L=  16231, hw=ASri, user=ejf
 old = ASri f. = ASri
@@ -19,14 +19,14 @@ Case 9: 04/13/2026 dict=AP, L=11860, hw=kākaḥ, user=srhodes
 old = kākatindukā
 new = kākatinduka
 comment = Typo – Please note that this might be a "Print Change". As appears to be confirmed by VCP, SKD, SHS and MW.
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 8: 04/13/2026 dict=AP, L=11860.064, hw=kākatindukā, user=srhodes
 old = kākatindukā
 new = kākatinduka
 comment = Typo – Please note that this might be a "Print Change". This correction appears to be confirmed by VCP, SKD, SHS and MW. LB Also may require: "-tindukā  ——TO BE CORRECTED—— "-tinduka". ALSO, please note that these DETAILS of FORMATION, must be CORRECTED in the Window Display for each of the THREE GROUPED Compounds !
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 7: 04/13/2026 dict=AP, L=11860.062, hw=kākatikā, user=srhodes

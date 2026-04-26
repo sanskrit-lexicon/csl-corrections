@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for MWE
 As of April 26, 2026
-88 correction records, with 2 PENDING
+88 correction records, with 0 PENDING
 
 Case 26032: 03/21/2026 dict=MWE, L=18971, hw=MEANING, user=saumyabhati2006
 old = अमिप्रायः
 new = अभिप्रायः
-status = PENDING
+status = Already corrected. There was one more occurrence in BOR. Corrected it too.
 ------------------------------------------------------------------------
 
 Case 26030: 03/16/2026 dict=MWE, L= река, hw=varanasi, user=
 old = 
 new = 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25967: 12/12/2025 dict=MWE, L= 27229, hw=siva, user=vaibhav.niku

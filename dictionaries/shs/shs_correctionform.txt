@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 26, 2026
-253 correction records, with 2 PENDING
+253 correction records, with 1 PENDING
 
 Case 26213: 04/22/2026 dict=SHS, L=9256, hw=karkoṭaka, user=srhodes
 old = 5. Sugar-cane.
@@ -253,7 +253,7 @@ Case 26051: 04/02/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
 old = fore arm
 new = forearm
 comment = Typo – Please note that these two words are better written as a single word; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25990: 01/22/2026 dict=SHS, L=23535 , hw=परि, user=snbt98
