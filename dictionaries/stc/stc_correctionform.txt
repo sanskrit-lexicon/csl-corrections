@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for STC
 As of April 26, 2026
-173 correction records, with 1 PENDING
+173 correction records, with 0 PENDING
 
 Case 25979: 12/28/2025 dict=STC, L= 4224, hw=avāna , user=Caujolle
 old = non desséché, frais. humide. 
@@ -24,7 +24,7 @@ Case 25963: 12/08/2025 dict=STC, L= 8866, hw=go, user=Caujolle
 old = nt. = gavyūti- (s. v.). 
 new = s. v. is not properly referenced; it is not the only case, also under the words: graha, tri (under °gaṇa-), dharaṇa, etc. I looked only to the first 50 words under the seach "s v"
 comment = reference
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/181
 ------------------------------------------------------------------------
 
 Case 25962: 12/08/2025 dict=STC, L= 21374, hw=saṃdhā , user=Caujolle

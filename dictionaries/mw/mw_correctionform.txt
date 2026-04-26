@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 26, 2026
-2288 correction records, with 6 PENDING
+2288 correction records, with 0 PENDING
 
 Case 26222: 04/22/2026 dict=MW, L=216850, hw=śiñjatṣaḍaṅghri, user=srhodes
 old = Placement Error
@@ -190,21 +190,21 @@ Case 26029: 03/15/2026 dict=mw, L=, hw=, user=Serge A
 old = and Niyutsā, BhP.  [ID=198460 ]      of a son of Bhṛgu, MW.  [ID=198461 ]    <!!!>vi-bhū   m. pl.<!!!> N. of the Ṛbhus, RV.  [ID=198462 ]  ←  (H2)  [Printed book page 978,3]  vi-bhū
 new = again wrong added headword. MW had only "m. pl."
 comment = 
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26028: 03/15/2026 dict=mw, L=, hw=, user=Serge A
 old = (inf.), RV. 
 new = wrong added headword. MW gives only 'm.', and the headword should from the main headword, which is "vibhu or (Ved.) vibhū" and not "vibhū"
 comment = 
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26027: 03/15/2026 dict=mw, L=, hw=, user=Serge A
 old = Intens. See -bobhuvat.  [ID=198394 ]  ←  (H3)  [Printed book page 978,3]  <!!!>vi-bhū   or vibhu, mf(ū or vī)n. (Ved.)<!!!> being everywhere, far-extending, all-pervading, omnipresent, eternal, RV.;
 new = wrong corrupted headword. MW gives "vibhu or (Ved.) vibhū".
 comment = 
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26025: 03/12/2026 dict=MW, L= 30024.1, hw=उक्तार्थ, user=marcwinner13
@@ -281,14 +281,14 @@ Case 25978: 12/27/2025 dict=MW, L=81792 , hw=tatas, user=jim
 old = त°तः  (similarly त°तस् )
 new = °तः   (at ids 81792 - 81797)
 comment = markup
-status = PENDING
+status = Already corrrected
 ------------------------------------------------------------------------
 
 Case 25960: 12/07/2025 dict=mw, L=, hw=praTamam, user=jim
 old = cases and their terminations.  [ID=134516 ]  (H1C)  [Printed book page 678,3]  <!!!>प्रथमम्   (अम्), ind.<!!!>  [ID=134516.1 ]      ▲ .प्रथिति  .प्रथिमन्  .प्रथिमिन्  .(प्रथिमिनी)
 new = definition missing
 comment = 
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/182
 ------------------------------------------------------------------------
 
 Case 25959: 12/07/2025 dict=mw, L=, hw=tad, user=gasyoun
@@ -447,7 +447,7 @@ status = corrected 02 Feb 2026
 Case 25882: 05/12/2025 dict=MW, L=ID=17507 , hw=ava-dhāraṇa am , user=samm3
 old = ava-dhāraṇa am 
 new = ava-dhāraṇa 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 25875: 04/28/2025 dict=MW, L= 122106 , hw=पादिन्, user=ejf

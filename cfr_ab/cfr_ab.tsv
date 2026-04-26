@@ -25864,7 +25864,7 @@
 04/04/2025 13:40:22	BUR	 11194	purA	poëme	poème	Typo, this mistake is present in at least 10 places (1 uktha (poëme) LB 2 ṛtu (poëme) LB 3 kāvya (poëme) LB 4 kṛti (poëme) LB 5 gīta (poëme) LB 6 gai (poëme) LB 7 divya (poëme) LB 8 purā (poëme) LB 9 prakara (poëme) LB 10 rāma (poëme))	Caujolle:Already corrected
 04/07/2025 15:02:48	SHS	1881	अन्यजत्मन्	अन्यजत्मन्	अन्यजन्मन्	Typo. In the etymology, जन्मन् has been entered correctly. However, for the headword, due to the print being slightly unclear, त् has been entered insted of न्.	snbt98@gmail.com:corrected. Date unknown
 04/08/2025 12:22:44	SHS	27873	प्रादुर्भाव	पादुस् in the Etymology	प्रादुस्	Typo. This an error present in print. I'm aware that the maintainers policy is to digitise the contents as it is, even if errors are found. So, just tagging this error, in case it may be useful in the future.	snbt98@gmail.com:corrected 02 Feb 2026
-04/11/2025 14:35:06	IEG	3874	o	wrong headword. a more general problem: entries with d̤ (d with two dots below = ड़) are cut so od̤iya is only o.	review entries with d̤ inside	Entry issue:Handled separately at https://github.com/sanskrit-lexicon/csl-corrections/issues/38	
+04/11/2025 14:35:06	IEG	3874	o	wrong headword. a more general problem: entries with d̤ (d with two dots below = ड़) are cut so od̤iya is only o.	review entries with d̤ inside	Entry issue	unknown:Handled separately at https://github.com/sanskrit-lexicon/csl-corrections/issues/38
 04/13/2025 20:53:17	mw	 27167 	AvI	A/-vavIran (slp1)	A/-vevIran	Typo	ejf:corrected 02 Feb 2026
 04/16/2025 20:41:07	AP	10478	ūrṇā	māḍgalyorṇāvalayini	māṅgalyorṇāvalayini	misinterpretation of an akṣara	christian.ferstl@univie.ac.at:corrected. Date unknown.
 04/17/2025 12:34:45	SHS	- 	-	Wrong book attribution	The source indexed here is attributed to BHAṬṬĀCĀRYA, J. V. here:  LB https://www.sanskrit-lexicon.uni-koeln.de/scans/SHSScan/2020/web/index.php LB But the book appears to be written by someone else: Vidyasagara, Pandit-Kulapati Jibananda LB https://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/shspref/shspref01.html  LB 	Incorrect bibliography entry for the source	iv271@cantab.ac.uk:no change required. See discussion at https://github.com/sanskrit-lexicon/csl-orig/issues/2808.
@@ -25880,7 +25880,7 @@
 05/03/2025 09:48:26	SHS	31893	मृगजलस्रान	मृगजलस्रान	मृगजलस्ना	Typo.र् ---> न्	snbt98@hotmail.com:corrected 02 Feb 2026
 05/04/2025 12:30:30	STC	 1749	anupāta	fait d'aller après de suivre, 	fait d'aller après, de suivre, 	Typo	Caujolle:corrected 02 Feb 2026
 05/04/2025 12:46:07	BUR	 9246	dhana	biens,. richesses	biens, richesses	Typo (it is just a spot on the paper, not a period)	Caujolle:corrected 02 Feb 2026
-05/12/2025 15:37:10	MW	ID=17507 	ava-dhāraṇa am 	ava-dhāraṇa am 	ava-dhāraṇa 	Typo	samm3@hanmail.net
+05/12/2025 15:37:10	MW	ID=17507 	ava-dhāraṇa am 	ava-dhāraṇa am 	ava-dhāraṇa 	Typo	samm3@hanmail.net:No change required
 05/13/2025 21:10:23	GRA	 6253	bodhinmanas	Stinn [mánas] habend.	Sinn	Typo	pvstiles@yahoo.co.uk:corrected 02 Feb 2026
 05/16/2025 05:16:33	LRV	 19968	निवार	prerenting	preventing	Typo	ejf:corrected 02 Feb 2026
 05/22/2025 16:53:06	SHS	33	अंशुहस्त	हल	हस्त	Typo. In the etymology.	snbt98@gmail.com:corrected 02 Feb 2026
@@ -25958,10 +25958,10 @@
 11/26/2025 09:23:15	SHS	21095 	नमस्कत्वा	नमस्कत्वा	नमस्कृत्वा	Typo	snbt98@gmail.com:corrected 02 Feb 2026. Duplicate
 12/03/2025 06:28:14	VCP	 41074	वानप्रस्य	वानप्रस्य	वानप्रस्थ	Typo	Shalu:corrected. 03 Feb 2026
 12/07/2025 06:22:18	mw		tad	[ID=82046.40 ]      so also, equally, and AV. xi , xv   [ID=82046.45 ]    <!!!>tad   tad tad this and that, various, different<!!!> (e.g. taṃ taṃ deśaṃ jagāma, ‘he went to this and that place’; tāsu tāsu	tad tad in printed book, instead of tad tad tad, other similar "doubling" cases in same article as well		gasyoun:no change required
-12/07/2025 06:59:15	mw		praTamam	cases and their terminations.  [ID=134516 ]  (H1C)  [Printed book page 678,3]  <!!!>प्रथमम्   (अम्), ind.<!!!>  [ID=134516.1 ]      ▲ .प्रथिति  .प्रथिमन्  .प्रथिमिन्  .(प्रथिमिनी)	definition missing		jim
+12/07/2025 06:59:15	mw		praTamam	cases and their terminations.  [ID=134516 ]  (H1C)  [Printed book page 678,3]  <!!!>प्रथमम्   (अम्), ind.<!!!>  [ID=134516.1 ]      ▲ .प्रथिति  .प्रथिमन्  .प्रथिमिन्  .(प्रथिमिनी)	definition missing		jim:Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/182
 12/08/2025 08:32:49	STC	 21464	saṃnihita 	saṃ-nihita- a. v. v. s. -°DHĀ- 	saṃ-nihita- a. v. v. s. °DHĀ- or better, "saṃ-nihita- a. v. v. s. saṃniDHĀ-"	not only a typo (the third hyphen is not supposed to be there),  it is presently unclear (it is suggested to look at saṃdhā instead of saṃnidhā ); I suppose that if the hyphen wasn't there I would have understood, but even, better would be to write saṃniDHĀ-  instead of °DHĀ- (this because the word is listed as saṃ-nihita, and not as saṃ-ni-hita	Caujolle:no change required.
 12/08/2025 08:40:35	STC	 21374	saṃdhā 	concentrer son esprit. se concentrer ; but there is also  "s. v.",  which is not properly referenced (at, "°hita- s. v. ;")	concentrer son esprit, se concentrer ; 	Typo	Caujolle:corrected 03 Feb 2026
-12/08/2025 08:53:33	STC	 8866	go	nt. = gavyūti- (s. v.). 	s. v. is not properly referenced; it is not the only case, also under the words: graha, tri (under °gaṇa-), dharaṇa, etc. I looked only to the first 50 words under the seach "s v"	reference	Caujolle
+12/08/2025 08:53:33	STC	 8866	go	nt. = gavyūti- (s. v.). 	s. v. is not properly referenced; it is not the only case, also under the words: graha, tri (under °gaṇa-), dharaṇa, etc. I looked only to the first 50 words under the seach "s v"	reference	Caujolle:Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/181
 12/08/2025 09:43:03	PWG	 97104	zakti	Furst	Fürst	Typo	h.c.jahr@gmx.de:corrected 03 Feb 2026
 12/09/2025 11:42:32	SHS	45991 	स्मेरविष्किर	स्मर in the Etymology	स्मेर	Typo in the original print.	snbt98@gmail.com:corrected 03 Feb 2026
 12/11/2025 06:53:42	AP90	22878 	मही	क्षितु	क्षित्	Typo	chandrasekharanr@gmail.com:corrected 03 Feb 2026
@@ -25976,7 +25976,7 @@
 12/20/2025 19:01:09	CCS	 28617	 sthā	Caus. utthāpayati außtehen	Caus. utthāpayati aufstehen	Typo, same as before. should be "fs" instead of "ß"	frank.ziesing@web.de:corrected 03 Feb 2026
 12/21/2025 12:26:42	BUR	 4167	kalā 	un doigt. c-à-d. — du diametre de la lune. 	un doigt, c-à-d. 1/16 du diamètre de la lune. 	Typos (3, the comma, the number and the accent)	Caujolle:corrected 03 Feb 2026
 12/24/2025 15:33:12	SHS	 28311 	फल्ग	फल्ग	फल्गु	Typo in the original print, I think.	snbt98@gmail.com:corrected 03 Feb 2026
-12/27/2025 05:13:29	MW	81792 	tatas	त°तः  (similarly त°तस् )	°तः   (at ids 81792 - 81797)	markup	jim
+12/27/2025 05:13:29	MW	81792 	tatas	त°तः  (similarly त°तस् )	°तः   (at ids 81792 - 81797)	markup	jim:Already corrrected
 12/28/2025 14:50:00	STC	 4224	avāna 	non desséché, frais. humide. 	non desséché, frais, humide. 	Typo	Caujolle:corrected 03 Feb 2026
 01/05/2026 18:13:19	BUR	 17090	śrava 	— N. service, demesticité. 	— N. service, domesticité. 	Typo	Caujolle:corrected 03 Feb 2026
 01/08/2026 16:55:07	BUR	 4203	kalpa	Au fig. forme idéale d'un objet, idée qu on s'on fait, propriété qu on lui attribue on qu'il possede;   LB l'nyctémère de Brahmā [il y en a de 3 grandeurs: le pepetit kalpa LB 	Au fig. forme idéale d'un objet, idée qu'on s'en fait, propriété qu'on lui attribue ou qu'il possède;  [5 corrections] +  LB le nyctémère de Brahmā [il y en a de 3 grandeurs: le petit kalpa  [2 corrections]	Typos (the last is a typo in the book)	Caujolle:corrected 03 Feb 2026
@@ -26025,9 +26025,9 @@
 03/08/2026 21:53:10	MW	240990 	साकूत	having meaning, intentionally, Kathās.	having meaning, intentional, Kāv. ; Kathās.	1. "intentionally" instead of "intentional" LB 2. missing Kāv.	octaveboczkowski@gmail.com:Corrected 26 Apr 2026. Did not change 'intentional' to 'intentionally'. This is both an adjective and an adverb. Adverb is separately listed.
 03/12/2026 15:36:06	MW	 30024.1	उक्तार्थ	उक्—°तार्थ	उक्—°तार्थ -> उक्तार्थ 	Typo	marcwinner13@gmail.com:No change required
 03/14/2026 16:01:02	AP	11513	kamalinī	lotus-plant	lotus plant	Typo – Please note that this word is better written as TWO words without the "hyphen" ; therefore this may be considered as a Global correction as well. Attention Jim Funderburk, Merriam-Webster agrees!	:No change required
-03/15/2026 00:02:55	mw			Intens. See -bobhuvat.  [ID=198394 ]  ←  (H3)  [Printed book page 978,3]  <!!!>vi-bhū   or vibhu, mf(ū or vī)n. (Ved.)<!!!> being everywhere, far-extending, all-pervading, omnipresent, eternal, RV.;	wrong corrupted headword. MW gives "vibhu or (Ved.) vibhū".		Serge A
-03/15/2026 00:07:11	mw			(inf.), RV. 	wrong added headword. MW gives only 'm.', and the headword should from the main headword, which is "vibhu or (Ved.) vibhū" and not "vibhū"		Serge A
-03/15/2026 00:08:55	mw			and Niyutsā, BhP.  [ID=198460 ]      of a son of Bhṛgu, MW.  [ID=198461 ]    <!!!>vi-bhū   m. pl.<!!!> N. of the Ṛbhus, RV.  [ID=198462 ]  ←  (H2)  [Printed book page 978,3]  vi-bhū	again wrong added headword. MW had only "m. pl."		Serge A
+03/15/2026 00:02:55	mw			Intens. See -bobhuvat.  [ID=198394 ]  ←  (H3)  [Printed book page 978,3]  <!!!>vi-bhū   or vibhu, mf(ū or vī)n. (Ved.)<!!!> being everywhere, far-extending, all-pervading, omnipresent, eternal, RV.;	wrong corrupted headword. MW gives "vibhu or (Ved.) vibhū".		Serge A:Corrected 26 Apr 2026
+03/15/2026 00:07:11	mw			(inf.), RV. 	wrong added headword. MW gives only 'm.', and the headword should from the main headword, which is "vibhu or (Ved.) vibhū" and not "vibhū"		Serge A:Already corrected
+03/15/2026 00:08:55	mw			and Niyutsā, BhP.  [ID=198460 ]      of a son of Bhṛgu, MW.  [ID=198461 ]    <!!!>vi-bhū   m. pl.<!!!> N. of the Ṛbhus, RV.  [ID=198462 ]  ←  (H2)  [Printed book page 978,3]  vi-bhū	again wrong added headword. MW had only "m. pl."		Serge A:Already corrected
 03/16/2026 09:42:49	MWE	 река	varanasi			Typo	:No change required
 03/18/2026 05:33:45	ap		parihf	leave, desert; कति न कथितमिदमनुपदमचिरं  मा परिहर हरिमतिशयरुचिरम् Gīt. 9 . 3 <!!!>To remove destroy;<!!!> answer, refute (as objections, charges 	To remove, destroy  [comma]		jim:Already corrected
 03/21/2026 16:31:19	MWE	18971	MEANING	अमिप्रायः	अभिप्रायः	Typo	saumyabhati2006@gmail.com:Already corrected. There was one more occurrence in BOR. Corrected it too.
