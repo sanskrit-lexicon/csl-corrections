@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 26, 2026
-253 correction records, with 1 PENDING
+253 correction records, with 0 PENDING
 
 Case 26213: 04/22/2026 dict=SHS, L=9256, hw=karkoṭaka, user=srhodes
 old = 5. Sugar-cane.
@@ -404,7 +404,7 @@ Case 25861: 04/02/2025 dict=SHS, L=21091, hw=नमस्, user=snbt98
 old = NA
 new = NA
 comment = "in the fifth case". It should be the fourth case. Is सम्बोधन being considered as a separate case to get this as the fifth case? Not clear. It is not a typo as it matches what we find in the scanned print. 
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25860: 04/02/2025 dict=SHS, L=21095, hw=नमस्कत्वा, user=snbt98

@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 26, 2026
-2288 correction records, with 13 PENDING
+2288 correction records, with 6 PENDING
 
 Case 26222: 04/22/2026 dict=MW, L=216850, hw=śiñjatṣaḍaṅghri, user=srhodes
 old = Placement Error
@@ -217,21 +217,21 @@ Case 26024: 03/08/2026 dict=MW, L=240990 , hw=साकूत, user=octaveboczko
 old = having meaning, intentionally, Kathās.
 new = having meaning, intentional, Kāv. ; Kathās.
 comment = 1. "intentionally" instead of "intentional" LB 2. missing Kāv.
-status = PENDING
+status = Corrected 26 Apr 2026. Did not change 'intentional' to 'intentionally'. This is both an adjective and an adverb. Adverb is separately listed.
 ------------------------------------------------------------------------
 
 Case 26023: 03/04/2026 dict=MW, L= 82047, hw=tad, user=giuliogey
 old = tad tad tad this and that ... LB tad tad tad respective
 new = tad tad this and that LB tad tad respective
 comment = Typo there is an extra tad to be removed (it occurs twice)
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26022: 03/04/2026 dict=MW, L= 244322, hw=siddha, user=giuliogey
 old = in the later mythology the are some times confused with the; Sādhyas [q.v.] or take their place
 new = in the later mythology they are sometimes confused with the Sādhyas [q.v.] or take their place
 comment = Typo: "the are" should be corrected into they are + "some times" into sometimes + in "the; Sādhyas" the semicolon should be removed
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 26021: 03/03/2026 dict=MW, L=211284, hw=शकल, user=octaveboczkowski
@@ -309,7 +309,7 @@ Case 25954: 11/21/2025 dict=MW, L= 17474, hw=avadhīr, user=renuvate
 old = ava-√dhīr (ind.p. : -dhīrya [Correction: ava-dhīraya]) 
 new = ava-√dhīr [Correction: ava-dhīraya] (ind.p. : -dhīrya) 
 comment = Wrong correction. page 1317.1 intended to correct the headword avadhīr>avadhīraya (and not the ind.p. avadhīrya, which is correct)
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25953: 11/19/2025 dict=mw, L=, hw=krI, user=jim
@@ -369,7 +369,7 @@ Case 25924: 08/07/2025 dict=MW, L= 141796 , hw=phala—pariṇāma, user=Caujoll
 old = phala—pariṇāma m. id., A.
 new = phala—pariṇāma m. id., A. [the ripeness of a fruit] or phala—pariṇāma m. id., A. [= phala—pariṇati] ro [see phala—pariṇati] [with phala—pariṇati as a link (in general, links are missing in the dictionary, even if this dict. is already great, Regards] 
 comment = that would be nice not to have to open the scan (which now are blurred), (my search was pariṇāma as suffix)
-status = PENDING
+status = Handled elsewhere to provide definitions in case of 'id.'.
 ------------------------------------------------------------------------
 
 Case 25921: 08/03/2025 dict=mw, L=, hw=vihAyas, user=gasyoun
@@ -429,7 +429,7 @@ Case 25891: 05/29/2025 dict=MW, L= 71737 , hw=candra—bindu , user=Caujolle
 old = ‘moon-like spot’, the sign for the nasal o
 new = ‘moon-like spot’, the sign for the nasal   ঁ
 comment = ?
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25888: 05/25/2025 dict=MW, L= चातु , hw=चातु , user=
@@ -593,7 +593,7 @@ Case 25791: 11/08/2024 dict=MW, L=1730, hw=aṅgulisaṃdaṃśa, user=
 old = Revision Update
 new = Please note that the original definition MUST be 'crossed out', YET displayed in MW Dictionary online. I consider this Revision to be 'dangerous' and actually an error! As Andhrabharati has noted, "Scott likes to check other dictionaries: Apte, Shabda etc." I check other dictionaries because for my own dictionary I am integrating all information from all reliable sources. The word "aṅgulisaṃdeśa" which has been revised by Monier-Williams is spelled by Apte and Shabda as "aṅgulisandeśa". If we look up the word "saṃdeśa or sandeśa" and then "integrate" the meaning of the compound "aṅgulisaṃdeśa", we will find that this is a LEGITIMATE word in the Sanskrit Language and should NOT be cancelled! In fact I am shocked at the audacity of Monier-Williams! I have heard it said that in the Sanskrit Language there exist Two Million manuscripts that predate the printing press, whereas in the Greek Language the number is a mere twenty thousand. I would like to meet someone who has read all two million manuscripts! Therefore, speaking metaphorically, I take the entire Sanskrit Language as "ākṛtigaṇa" and I do not "close the door" on any possible (and legitimate) word. In fact the masters of language are allowed to 'coin' words (even at times in violation of the rules of grammar). All this being said, for my own dictionary I include both words "aṅgulisaṃdaṃśa" AND "aṅgulisandeśa or aṅgulisaṁdeśa" with a slight variation in meaning according to the "uttarapada" (in each case).
 comment = Revision Update
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25789: 10/30/2024 dict=MW, L= 17389, hw=अवदात, user=octaveboczkowski

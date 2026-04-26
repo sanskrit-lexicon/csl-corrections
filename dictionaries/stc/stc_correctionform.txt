@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for STC
 As of April 26, 2026
-173 correction records, with 3 PENDING
+173 correction records, with 1 PENDING
 
 Case 25979: 12/28/2025 dict=STC, L= 4224, hw=avāna , user=Caujolle
 old = non desséché, frais. humide. 
@@ -50,14 +50,14 @@ Case 25947: 11/11/2025 dict=STC, L= 16333, hw=bhoktṛ , user=Caujolle
 old = bhoktṛ- ag. (fut périphr.) qui jouit, 
 new = bhoktṛ- ag. (fut. périphr.) qui jouit, 
 comment = (fut périphr.) was non referenced because of the missing period (see the correction).
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25942: 11/06/2025 dict=STC, L= 11299, hw=na, user=Caujolle
 old = avec opt. 
 new = avec opt. 
 comment = this abbreviation isn't referenced. "opt." stands for "optatif". It seems to be seven occurrences in the dictionary.
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25941: 10/25/2025 dict=STC, L= 7866, hw=kāma , user=Caujolle

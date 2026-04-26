@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 26, 2026
-716 correction records, with 4 PENDING
+716 correction records, with 0 PENDING
 
 Case 26246: 04/25/2026 dict=AP, L=11995.004, hw=kāmayitṛ, user=srhodes
 old = kāmayāgam
@@ -460,14 +460,14 @@ Case 26137: 04/13/2026 dict=AP, L=11860, hw=kākaḥ, user=srhodes
 old = kākatindukā
 new = kākatinduka
 comment = Typo – Please note that this might be a "Print Change". As appears to be confirmed by VCP, SKD, SHS and MW.
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26136: 04/13/2026 dict=AP, L=11860.064, hw=kākatindukā, user=srhodes
 old = kākatindukā
 new = kākatinduka
 comment = Typo – Please note that this might be a "Print Change". This correction appears to be confirmed by VCP, SKD, SHS and MW. LB Also may require: "-tindukā  ——TO BE CORRECTED—— "-tinduka". ALSO, please note that these DETAILS of FORMATION, must be CORRECTED in the Window Display for each of the THREE GROUPED Compounds !
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
 Case 26135: 04/13/2026 dict=AP, L=11860.062, hw=kākatikā, user=srhodes
@@ -635,14 +635,14 @@ Case 26102: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes
 old = kaserukāḥ
 new = kaserukā
 comment = Typo – This is a possible "Print Change" that needs investigation. It appears that Three Genders (masculine, neuter and feminine) are being cited for this definition: "a sort of grass". Therefore, "kaserukāḥ" is likely intended as the Feminine Form, which of course should be spelled as "kaserukā". It appears that VCP, SKD and SHS agree. MW also indicates this correction under His Headword "kaśeruka".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26101: 04/09/2026 dict=AP, L=11816.002, hw=kaseruka, user=srhodes
 old = kaseruka
 new = kaserukam
 comment = Typo – This is a possible "Print Change" that needs investigation. It appears that Three Genders (masculine, neuter and feminine) are being cited for this definition: "a sort of grass". Therefore, "kaseruka" is likely intended as the Neuter Form, which of course should be spelled as "kaserukam".
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 26100: 04/09/2026 dict=AP, L=11816.004, hw=kaserukāḥ, user=srhodes

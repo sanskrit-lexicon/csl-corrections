@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for BUR
 As of April 26, 2026
-803 correction records, with 3 PENDING
+803 correction records, with 0 PENDING
 
 Case 26172: 04/17/2026 dict=BUR, L=  18432 , hw=sāmānya , user=Caujolle
 old = commun. général. 
@@ -65,7 +65,7 @@ Case 25904: 06/21/2025 dict=BUR, L= 19328, hw=sam, user=Caujolle
 old = sma sma partic. explétive
 new = "partic." is in fact referring to "particule", not to "participe". There are 5 such occurrences in the dictionary.
 comment = reference
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25896: 06/07/2025 dict=BUR, L= 12786, hw=bhūta , user=Caujolle
@@ -92,7 +92,7 @@ Case 25863: 04/04/2025 dict=BUR, L= 11194, hw=purA, user=Caujolle
 old = poëme
 new = poème
 comment = Typo, this mistake is present in at least 10 places (1 uktha (poëme) LB 2 ṛtu (poëme) LB 3 kāvya (poëme) LB 4 kṛti (poëme) LB 5 gīta (poëme) LB 6 gai (poëme) LB 7 divya (poëme) LB 8 purā (poëme) LB 9 prakara (poëme) LB 10 rāma (poëme))
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25840: 02/14/2025 dict=BUR, L= 47, hw=akṣa , user=Caujolle
@@ -105,7 +105,7 @@ Case 25839: 02/14/2025 dict=BUR, L= 47, hw=akṣa , user=Caujolle
 old = akṣa akṣa m. primitivt.
 new = the reference for "primitivt." is "primitivement"
 comment = reference missing
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 25784: 09/23/2024 dict=BUR, L= 10536, hw=parikrama, user=Caujolle

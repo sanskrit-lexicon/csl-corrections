@@ -5,7 +5,7 @@ As of April 26, 2026
 Case 25866: 04/11/2025 dict=IEG, L=3874, hw=o, user=
 old = wrong headword. a more general problem: entries with d̤ (d with two dots below = ड़) are cut so od̤iya is only o.
 new = review entries with d̤ inside
-comment = Entry issue
+comment = Entry issue:Handled separately at https://github.com/sanskrit-lexicon/csl-corrections/issues/38
 status = PENDING
 ------------------------------------------------------------------------
 
