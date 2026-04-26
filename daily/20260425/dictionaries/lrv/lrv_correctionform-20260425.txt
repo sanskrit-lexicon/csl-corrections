@@ -1,16 +1,16 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of April 26, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
-Case 3: 04/25/2026 dict=LRV, L=8424.1, hw=karṇejapa, user=srhodes
+Case 2: 04/25/2026 dict=LRV, L=8424.1, hw=karṇejapa, user=srhodes
 old = karṇajapa
 new = karṇejapa
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
-Case 2: 04/25/2026 dict=LRV, L=8416.1, hw=karṇāṃdū, user=srhodes
+Case 1: 04/25/2026 dict=LRV, L=8416.1, hw=karṇāṃdū, user=srhodes
 old = karṇa-aṃdu f. 
 new = karṇa-aṃdū f. 
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 

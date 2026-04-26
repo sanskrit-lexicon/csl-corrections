@@ -1,56 +1,56 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 26, 2026
-8 correction records, with 8 PENDING
+8 correction records, with 0 PENDING
 
-Case 13: 04/25/2026 dict=AP, L=11995.004, hw=kāmayitṛ, user=srhodes
+Case 10: 04/25/2026 dict=AP, L=11995.004, hw=kāmayitṛ, user=srhodes
 old = kāmayāgam
 new = kāmayānam
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
-Case 12: 04/25/2026 dict=AP, L=11995.002, hw=kāmayāna, user=srhodes
+Case 9: 04/25/2026 dict=AP, L=11995.002, hw=kāmayāna, user=srhodes
 old = kāmayāgam
 new = kāmayānam
-status = PENDING
+status = Corrected 26 Apr 2026
 ------------------------------------------------------------------------
 
-Case 11: 04/25/2026 dict=AP, L=11995, hw=kāmayamāna, user=srhodes
+Case 8: 04/25/2026 dict=AP, L=11995, hw=kāmayamāna, user=srhodes
 old = kāmayāgam
 new = kāmayānam
-status = PENDING
+status = Corrected 26 Apr 2026. It is changed to kAmayAnAm.
 ------------------------------------------------------------------------
 
-Case 10: 04/25/2026 dict=AP, L=11991.004, hw=kāmanā, user=srhodes
+Case 7: 04/25/2026 dict=AP, L=11991.004, hw=kāmanā, user=srhodes
 old = kāmana + .-nā
 new = ???
 comment = Typo – I am uncertain that this is the best way to present the Feminine Gender. Please confirm that you are Happy with this presentation ?  To me it looks prolix and sloppy. There must be a simpler and better presentation for the Feminine Gender.
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
 ------------------------------------------------------------------------
 
-Case 9: 04/25/2026 dict=AP, L=11991.002, hw=kāmanam, user=srhodes
+Case 6: 04/25/2026 dict=AP, L=11991.002, hw=kāmanam, user=srhodes
 old = kāmana + .-nam 
 new = ???
 comment = Typo – I am uncertain that this is the best way to present the Neuter Gender. Please confirm that you are Happy with this presentation ?  To me it looks prolix and sloppy. There must be a simpler and better presentation for the Neuter Gender.
-status = PENDING
+status = https://github.com/sanskrit-lexicon/csl-corrections/issues/173
 ------------------------------------------------------------------------
 
-Case 7: 04/25/2026 dict=AP, L=12030.002, hw=kāraḥ, user=srhodes
+Case 5: 04/25/2026 dict=AP, L=12030.002, hw=kāraḥ, user=srhodes
 old = kāra + .-raḥ
 new = kāraḥ
 comment = Typo – Please note that this is simply the Masculine Form. There should NOT be  "plus etc.".  ALSO, this indicates a Global Correction as follows: "+ ." —> "+ " , BECAUSE a "period" NEVER follows the "plus symbol".
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
 ------------------------------------------------------------------------
 
-Case 6: 04/25/2026 dict=AP, L=11984.002, hw=kāraḥ, user=srhodes
+Case 4: 04/25/2026 dict=AP, L=11984.002, hw=kāraḥ, user=srhodes
 old = kāraḥ
 new = kāpyakāraḥ
-status = PENDING
+status = Already corrected earlier.
 ------------------------------------------------------------------------
 
-Case 5: 04/25/2026 dict=AP, L=11959.008, hw=kāntāram, user=srhodes
+Case 3: 04/25/2026 dict=AP, L=11959.008, hw=kāntāram, user=srhodes
 old = kāntāraḥ, -ram + .-ram
 new = kāntāram
 comment = Typo – Please note that this correction follows the Printed Text, as the particular definitions given are NOT available here for the Masculine Gender. ALSO, a Global Correction has presented itself as follows: "+ ." —> "+ " LB The reason for this Global Correction is simply because a "period" NEVER follows the "plus".
-status = PENDING
+status = Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
 ------------------------------------------------------------------------
 
