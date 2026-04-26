@@ -26235,16 +26235,13 @@
 04/24/2026 09:16:39	AP	11989.24	kāmasū	Rukmiṇi	Rukmiṇī	Typo – Please note that this is a suggested "Print Change", for the correct spelling of the Femine Form.  This may be considered as a Global Correction as well !	srhodes@snowcrest.net:Corrected 25 Apr 2026. Also corrected one more occurrence.
 04/24/2026 18:50:02	ap		eva	eva  eva  [Printed book page 0501-1]  <!!!>11.<!!!> eva  a. Ved. 1 Going, moving. 2 Speedy, quick; evo gantā; ye ca evā marutaḥ	1. instead of 11. 		gasyoun:Tracked at https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/58
 04/24/2026 18:50:14	ap		eva	evo gantā; ye ca evā marutaḥ Uṇ. 1. 150 .                   [ID=10713 ]    <!!!>22.<!!!> eva  ind. This particle is most frequently used to strengthen  and emphasize	2. instead of 22. 		gasyoun:Tracked at https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/58
-04/25/2026 03:39:45							
-04/25/2026 04:02:17	LRV	8416.1	karṇāṃdū	karṇa-aṃdu f. 	karṇa-aṃdū f. 	Typo	srhodes@snowcrest.net
-04/25/2026 04:10:08	LRV	8424.1	karṇejapa	karṇajapa	karṇejapa	Typo	srhodes@snowcrest.net
-04/25/2026 10:37:57							
-04/25/2026 10:41:31	AP	11959.008	kāntāram	kāntāraḥ, -ram + .-ram	kāntāram	Typo – Please note that this correction follows the Printed Text, as the particular definitions given are NOT available here for the Masculine Gender. ALSO, a Global Correction has presented itself as follows: "+ ." —> "+ " LB The reason for this Global Correction is simply because a "period" NEVER follows the "plus".	srhodes@snowcrest.net
-04/25/2026 10:52:54	AP	11984.002	kāraḥ	kāraḥ	kāpyakāraḥ	Typo	srhodes@snowcrest.net
-04/25/2026 10:57:02	AP	12030.002	kāraḥ	kāra + .-raḥ	kāraḥ	Typo – Please note that this is simply the Masculine Form. There should NOT be  "plus etc.".  ALSO, this indicates a Global Correction as follows: "+ ." —> "+ " , BECAUSE a "period" NEVER follows the "plus symbol".	srhodes@snowcrest.net
-04/25/2026 11:28:08							
-04/25/2026 11:32:00	AP	11991.002	kāmanam	kāmana + .-nam 	???	Typo – I am uncertain that this is the best way to present the Neuter Gender. Please confirm that you are Happy with this presentation ?  To me it looks prolix and sloppy. There must be a simpler and better presentation for the Neuter Gender.	srhodes@snowcrest.net
-04/25/2026 11:32:52	AP	11991.004	kāmanā	kāmana + .-nā	???	Typo – I am uncertain that this is the best way to present the Feminine Gender. Please confirm that you are Happy with this presentation ?  To me it looks prolix and sloppy. There must be a simpler and better presentation for the Feminine Gender.	srhodes@snowcrest.net
-04/25/2026 12:09:06	AP	11995	kāmayamāna	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net
-04/25/2026 12:09:22	AP	11995.002	kāmayāna	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net
-04/25/2026 12:09:38	AP	11995.004	kāmayitṛ	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net
+04/25/2026 04:02:17	LRV	8416.1	karṇāṃdū	karṇa-aṃdu f. 	karṇa-aṃdū f. 	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026
+04/25/2026 04:10:08	LRV	8424.1	karṇejapa	karṇajapa	karṇejapa	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026
+04/25/2026 10:41:31	AP	11959.008	kāntāram	kāntāraḥ, -ram + .-ram	kāntāram	Typo – Please note that this correction follows the Printed Text, as the particular definitions given are NOT available here for the Masculine Gender. ALSO, a Global Correction has presented itself as follows: "+ ." —> "+ " LB The reason for this Global Correction is simply because a "period" NEVER follows the "plus".	srhodes@snowcrest.net:Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
+04/25/2026 10:52:54	AP	11984.002	kāraḥ	kāraḥ	kāpyakāraḥ	Typo	srhodes@snowcrest.net:Already corrected earlier.
+04/25/2026 10:57:02	AP	12030.002	kāraḥ	kāra + .-raḥ	kāraḥ	Typo – Please note that this is simply the Masculine Form. There should NOT be  "plus etc.".  ALSO, this indicates a Global Correction as follows: "+ ." —> "+ " , BECAUSE a "period" NEVER follows the "plus symbol".	srhodes@snowcrest.net:Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
+04/25/2026 11:32:00	AP	11991.002	kāmanam	kāmana + .-nam 	???	Typo – I am uncertain that this is the best way to present the Neuter Gender. Please confirm that you are Happy with this presentation ?  To me it looks prolix and sloppy. There must be a simpler and better presentation for the Neuter Gender.	srhodes@snowcrest.net:https://github.com/sanskrit-lexicon/csl-corrections/issues/173
+04/25/2026 11:32:52	AP	11991.004	kāmanā	kāmana + .-nā	???	Typo – I am uncertain that this is the best way to present the Feminine Gender. Please confirm that you are Happy with this presentation ?  To me it looks prolix and sloppy. There must be a simpler and better presentation for the Feminine Gender.	srhodes@snowcrest.net:Handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
+04/25/2026 12:09:06	AP	11995	kāmayamāna	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026. It is changed to kAmayAnAm.
+04/25/2026 12:09:22	AP	11995.002	kāmayāna	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026
+04/25/2026 12:09:38	AP	11995.004	kāmayitṛ	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026
