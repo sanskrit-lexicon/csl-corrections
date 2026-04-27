@@ -1,0 +1,74 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 27, 2026
+10 correction records, with 10 PENDING
+
+Case 18: 04/26/2026 dict=MW, L=48492.1, hw=kāyoḍhaja, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just BEFORE the word "kāyotsarga m. [ID= 48492]" in the Hierarchical listing of words. This is simply according to the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/26/2026 dict=mw, L=, hw=test, user=test'
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test'
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo'
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test'
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/26/2026 dict=mw, L=, hw=test', user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+

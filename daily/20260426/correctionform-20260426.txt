@@ -1,0 +1,128 @@
+Sanskrit Lexicon Correction Form History
+As of April 27, 2026
+18 correction records, with 18 PENDING
+
+Case 18: 04/26/2026 dict=MW, L=48492.1, hw=kāyoḍhaja, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just BEFORE the word "kāyotsarga m. [ID= 48492]" in the Hierarchical listing of words. This is simply according to the proper alphabetical order.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 04/26/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/26/2026 dict=AP, L=12024.006, hw=kāyaḥ, user=srhodes
+old = , -yam + .-yaḥ
+new = 
+comment = Typo – Please note that the correction here is to DELETE the following: ", -yam + .-yaḥ".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/26/2026 dict=AP, L=12015, hw=kāmukāyanaḥ, user=srhodes
+old = an new authority
+new = an old authority
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/26/2026 dict=AP, L=12005.03, hw=kāmyavṛttam, user=srhodes
+old = kāmyavṛttam
+new = kāmyavratam
+comment = Typo – Headword Typo!  Please note that this is a suggested "Print Change", following Dr. Böhtlingk.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/26/2026 dict=AP, L=12005.022, hw=kāmyakarman, user=srhodes
+old = paticular
+new = particular
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/26/2026 dict=mw', L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/26/2026 dict=mw, L=, hw=test, user=test'
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test'
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo'
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test'
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/26/2026 dict=mw, L=, hw=test', user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/26/2026 dict=mw, L=, hw=test, user=test
+old = test
+new = test
+comment = typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/26/2026 dict=AP, L=12004.002, hw=kāmukaḥ, user=srhodes
+old = Missing Compound
+new = Please Add the Compound Indicated Here in the Window Display: "kāmukakāntā f. N. of Mādhavi creeper." This compound Deserves to be a Searchable Headword, located in the Hierarchy List Display.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/26/2026 dict=AP, L=12004.002, hw=kāmukaḥ, user=srhodes
+old = Missing Compound
+new = Please Add the Compound Indicated Here in the Window Display: "kāmukakāntā f. N. of Mādhavi creeper." This compouns Deserves to be a Searchable Headword, located in the Hierarchy List Display.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
