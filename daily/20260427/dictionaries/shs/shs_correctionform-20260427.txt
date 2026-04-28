@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of April 28, 2026
+2 correction records, with 2 PENDING
+
+Case 3: 04/27/2026 dict=SHS, L=9313, hw=karṇānuja, user=srhodes
+old = Yudhishṭhira
+new = Yudhiṣṭhira
+comment = Typo – Please note that this is a worthwhile GLOBAL "Print Change".  In Fact PLEASE Consider targeting the extracted element: "shṭh" —> "ṣṭh".  Of course, this is VERY similar in nature to your recent: "ñch" —> "ñc" (or some such combination).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/27/2026 dict=SHS, L=9292, hw=karṇamadgura, user=srhodes
+old = sheat fish
+new = sheatfish
+comment = Typo – Please note that this is a suggested "Print Change". Merriam-Webster Dictionary, prefers this to be written as a Single Word. It is a bit like the word: "catfish" , which is NOT written "cat fish" !
+status = PENDING
+------------------------------------------------------------------------
+

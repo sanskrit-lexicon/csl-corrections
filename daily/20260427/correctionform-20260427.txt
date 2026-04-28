@@ -1,0 +1,121 @@
+Sanskrit Lexicon Correction Form History
+As of April 28, 2026
+17 correction records, with 17 PENDING
+
+Case 17: 04/27/2026 dict=AP, L=12025.008, hw=kāyakā, user=srhodes
+old = kāyakavṛddhiḥ
+new = kāyikāvṛddhiḥ
+comment = Typo – Please note that this is just an error in the expansion of the compound form, as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4327230458
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/27/2026 dict=AP, L=12025.02, hw=kāyakavṛddhiḥ, user=srhodes
+old = kāyakavṛddhiḥ
+new = kāyikāvṛddhiḥ
+comment = Typo – Please note that this is just an error in the expansion of the compounded form, as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4327230458
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/27/2026 dict=AP, L=12025.008, hw=kāyakā, user=srhodes
+old = kāyakā
+new = kāyikā
+comment = Typo – UPDATED CORRECTION! Please note that this Correction is according to MW and VCP. The PROBLEM with AP listing Feminine Forms such as THIS, is that it REQUIRES interpretation !   LB ALSO, This is REALLY TOO MUCH: "kāyaka (-yikā f.), kāyika (-kī f.) + .-kā ".  THAT equation, should be reduced in some way !  For Example, simply: "kāyaka + (-yikā f.)", or you choose.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/27/2026 dict=AP, L=12025.008, hw=kāyakā, user=srhodes
+old = kāyaka (-yikā f.), kāyika (-kī f.) + .-kā
+new = kāyaka + .-kā
+comment = Typo – Please confirm whether this correction is according to your desired presentation. Please bear in mind that ALL OF THIS: "(-yikā f.), kāyika (-kī f.) "  DOES NOT RELATE in any way, to the Feminine Word Given Here as: "kāyakā".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/27/2026 dict=AP, L=12024.037, hw=kāyasthī, user=srhodes
+old = kāyaḥ + -sthaḥ + .(-sthī)
+new = kāyaḥ + .(-sthī)
+comment = Typo – Please confirm whether this correction is according to your desired presentation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/27/2026 dict=AP, L=12024.036, hw=kāyasthaḥ, user=srhodes
+old = kāyastha iti ladhvī mātrā
+new = kāyastha iti laghvī mātrā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/27/2026 dict=AP, L=7592.006, hw=ālekhanaḥ, user=srhodes
+old = ālekhanam + .-naḥ
+new = ālekhana + .-naḥ
+comment = Typo – Please confirm whether this correction is according to your desired presentation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/27/2026 dict=AP, L=7592.002, hw=ālekhanī, user=srhodes
+old = ālekhanam + .-nī
+new = ālekhana + .-nī
+comment = Typo – Please confirm whether this correction is according to your desired presentation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/27/2026 dict=AP, L=7592.004, hw=ālekhanam, user=srhodes
+old = ālekhanam + .-nam
+new = ālekhanam
+comment = Typo – Please confirm if this correction is according to your desired presentation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/27/2026 dict=AP, L=7592, hw=ālekhanam, user=srhodes
+old = ālekhanam a.
+new = ālekhana a.
+comment = Typo – Please note that this is a Headword Print Change. The neuter definitions are alreay given subsequently. The Main Headword is inteneded as Adjective. Thus again, we have the Global Correction relating to the abbreviation "a." in italics, which indicates "adjective". The Global Correction to be made here being: "m a." —> "m a".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/27/2026 dict=AP, L=27940, hw=lābukāyanaḥ, user=srhodes
+old = an new authority
+new = an old authority
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4326298828
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/27/2026 dict=AP, L=12118, hw=kārṣṇājiniḥ, user=srhodes
+old = an new authority
+new = an old authority
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4326298828
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/27/2026 dict=AP, L=11486.026, hw=kaphaghna, user=srhodes
+old = ━m.
+new = ━ā or ━ī f.
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4325270043
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/27/2026 dict=AP, L=  29655 , hw=विधिः, user=jim
+old = A ny  religious  (at sense 5)
+new = Any  religious 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/27/2026 dict=SHS, L=9313, hw=karṇānuja, user=srhodes
+old = Yudhishṭhira
+new = Yudhiṣṭhira
+comment = Typo – Please note that this is a worthwhile GLOBAL "Print Change".  In Fact PLEASE Consider targeting the extracted element: "shṭh" —> "ṣṭh".  Of course, this is VERY similar in nature to your recent: "ñch" —> "ñc" (or some such combination).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/27/2026 dict=SHS, L=9292, hw=karṇamadgura, user=srhodes
+old = sheat fish
+new = sheatfish
+comment = Typo – Please note that this is a suggested "Print Change". Merriam-Webster Dictionary, prefers this to be written as a Single Word. It is a bit like the word: "catfish" , which is NOT written "cat fish" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/27/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
