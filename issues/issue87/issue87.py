@@ -34,7 +34,7 @@ def main():
             if not stripped:
                 continue
                 
-            num_cols = stripped.count(':')
+            num_cols = stripped.count(':') - stripped.count(':/')
             
             if stripped[0].isdigit() and num_cols in [3, 4]:
                 parts = [p.strip() for p in stripped.split(':')]
