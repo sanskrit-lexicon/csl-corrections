@@ -36,10 +36,8 @@ def main():
                 
             num_cols = stripped.count(':')
             
-            # Condition for valid change line: starts with digit and has 3 or 4 colons
             if stripped[0].isdigit() and num_cols in [3, 4]:
                 parts = [p.strip() for p in stripped.split(':')]
-                # For 3 colons, parts length is 4. For 4 colons, parts length is 5.
                 if 4 <= len(parts) <= 5:
                     changes.append({
                         'lcode': parts[0],
@@ -48,10 +46,7 @@ def main():
                         'found_lcode': False
                     })
             elif num_cols > 0:
-                # Check for malformed lines: has colon but doesn't meet the data line criteria
-                # Exclude known metadata headers like Source: or Ref:
                 if not stripped.startswith(('Source:', 'Ref:', 'L code :')):
-                    # Looking for non-ascii characters around the colon or generally in the line
                     has_non_ascii = any(ord(c) > 127 for c in stripped)
                     if has_non_ascii or stripped[0].isdigit():
                         print(f"{YELLOW}WARNING: Malformed line at {line_num} - {stripped}{RESET}")
@@ -85,18 +80,59 @@ def main():
         if lcode in lcode_to_indices:
             change['found_lcode'] = True
             indices = lcode_to_indices[lcode]
-            found_any_new = False
+            found_any_matching = False
             
             for idx in indices:
                 block_content = modified_sections[idx]
+                
+                # We try to match 'new_val' even if there are hyphens or certain separators
+                # To handle cases like 'annakozWaka' matching 'anna-kozWaka'
+                # We construct a regex that allows optional hyphens or separators between characters
+                # Only if the literal 'new_val' is not found
+                
+                matches = []
                 if new_val in block_content:
-                    found_any_new = True
-                    count = block_content.count(new_val)
-                    print(f"INFO: {lcode} - Replaced {count} occurrence(s) of '{new_val}' with choice tag.")
-                    replacement = f"<choice><sic>{old_val}</sic><corr>{new_val}</corr></choice>"
-                    modified_sections[idx] = block_content.replace(new_val, replacement)
+                    # Literal matches
+                    pattern = re.escape(new_val)
+                    matches = list(re.finditer(pattern, block_content))
+                else:
+                    # Hyphen-insensitive and tag-insensitive matching
+                    # We allow optional hyphens, spaces, or certain delimiters between letters
+                    # This is more robust for 'anna-kozWaka' and '{#azwApada#}¦ {%m.n.%}'
+                    
+                    # Pattern for each character: char followed by optional separators
+                    # Separators: hyphen, space, or common tags like {# #}, {% %}, ¦
+                    sep_pattern = r'(?:[-\s¦]|{.*?}|<.*?>)*'
+                    regex_str = sep_pattern.join([re.escape(c) for c in new_val if not c.isspace()])
+                    
+                    # If the original new_val had spaces, we should respect them too
+                    # But the sep_pattern already includes \s
+                    
+                    try:
+                        matches = list(re.finditer(regex_str, block_content))
+                    except re.error:
+                        matches = []
+                
+                if matches:
+                    found_any_matching = True
+                    count = len(matches)
+                    
+                    msg = f"{lcode} - Replaced {count} occurrence(s) of '{new_val}' with choice tag."
+                    if count > 3:
+                        print(f"{YELLOW}WARNING: {msg}{RESET}")
+                    else:
+                        print(f"INFO: {msg}")
+                    
+                    # Apply replacements from end to start to maintain offsets
+                    for m in reversed(matches):
+                        # found_text = m.group(0)
+                        # The user wants New literally in the corr tag
+                        replacement = f"<choice><sic>{old_val}</sic><corr>{new_val}</corr></choice>"
+                        block_content = block_content[:m.start()] + replacement + block_content[m.end():]
+                    
+                    modified_sections[idx] = block_content
             
-            if not found_any_new:
+            if not found_any_matching:
                 print(f"{YELLOW}WARNING: {lcode} - '{new_val}' not found in block{RESET}")
         else:
             print(f"{YELLOW}WARNING: {lcode} - L number not found in {orig_file}{RESET}")

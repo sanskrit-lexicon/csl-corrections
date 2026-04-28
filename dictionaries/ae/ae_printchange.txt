@@ -14,18 +14,18 @@ The changes are all where
 there was a printing of 'satva', which was changed to 'sattva'
 L code : Headword : Old :       New       : Comment
 2868 : die : niHsatva: niHsattva
-3246 : dry : niHsatva: niHsattva
-3467 : empty: niHsatva: niHsattva
-3874 : faint : niHsatva: niHsattva
-3945 : feeble : niHsatva: niHsattva
-4965 : hollow : niHsatva: niHsattva
-5174 : impair : niHsatva: niHsattva
-5231 : impotent : niHsatva: niHsattva : twice
-5857 : jejune : niHsatva: niHsattva
-4310 : froth : niHsatva: niHsattva
-6237 : linseywoolsey  : niH-satva: niH-sattva
-8886 : restore : satva-bala-varDana : sattva-bala-varDana
-8942 : rich : satva-sAra : sattva-sAra
+3245 : dry : niHsatva: niHsattva
+3466 : empty: niHsatva: niHsattva
+3873 : faint : niHsatva: niHsattva
+3944 : feeble : niHsatva: niHsattva
+4964 : hollow : niHsatva: niHsattva
+5173 : impair : niHsatva: niHsattva
+5230 : impotent : niHsatva: niHsattva : twice
+5856 : jejune : niHsatva: niHsattva
+4309 : froth : niHsatva: niHsattva
+6236 : linseywoolsey  : niH-satva: niH-sattva
+8885 : restore : satva-bala-varDana : sattva-bala-varDana
+8941 : rich : satva-sAra : sattva-sAra
 -----------------------------------------------------------------------
 09-06-2016
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/304
@@ -34,21 +34,21 @@ L code : Headword : Old :       New       : Comment
 835 : be : <>{#BUtaM, satvaH- tvaM;#} ‘rational b.’ {#sacetanaH, : <>{#BUtaM, sattvaH- tvaM;#} ‘rational b.’ {#sacetanaH, : 
 1228 : brisk : <>{%s.%} {#tejas#} {%n.,%} {#sAraH, satvaM#}. : <>{%s.%} {#tejas#} {%n.,%} {#sAraH, sattvaM#}. : 
 2759 : depress : <>spirits’ {#satvaBraMSaH#}. : <>spirits’ {#sattvaBraMSaH#}. : 
-3570 : entity : <><P>{@Entity,@} {%s.%} {#satvaM, astitvaM, BAvaH, sattA#}. : <><P>{@Entity,@} {%s.%} {#sattvaM, astitvaM, BAvaH, sattA#}. : 
-4046 : fire : <>-jas#} {%n.,%} {#satvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : <>-jas#} {%n.,%} {#sattvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : 
-4587 : good : <>sujanatA;#} ‘tendency to g.’ {#satvaguRaH#}. : <>sujanatA;#} ‘tendency to g.’ {#sattvaguRaH#}. : 
-5421 : indomitable : <>-vat, urusatva#}. : <>-vat, urusattva#}. : 
-6200 : life : <>tejas#} {%n.,%} {#satvaM, rasaH;#} ‘bring or restore : <>tejas#} {%n.,%} {#sattvaM, rasaH;#} ‘bring or restore : 
-8773 : rejuvenate : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-satvaM-vfD#} c., {#A-pyE#} c. : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-sattvaM-vfD#} c., {#A-pyE#} c. : 
+3569 : entity : <><P>{@Entity,@} {%s.%} {#satvaM, astitvaM, BAvaH, sattA#}. : <><P>{@Entity,@} {%s.%} {#sattvaM, astitvaM, BAvaH, sattA#}. : 
+4045 : fire : <>-jas#} {%n.,%} {#satvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : <>-jas#} {%n.,%} {#sattvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : 
+4586 : good : <>sujanatA;#} ‘tendency to g.’ {#satvaguRaH#}. : <>sujanatA;#} ‘tendency to g.’ {#sattvaguRaH#}. : 
+5420 : indomitable : <>-vat, urusatva#}. : <>-vat, urusattva#}. : 
+6199 : life : <>tejas#} {%n.,%} {#satvaM, rasaH;#} ‘bring or restore : <>tejas#} {%n.,%} {#sattvaM, rasaH;#} ‘bring or restore : 
+8772 : rejuvenate : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-satvaM-vfD#} c., {#A-pyE#} c. : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-sattvaM-vfD#} c., {#A-pyE#} c. : 
 -----------------------------------------------------------------------
 10-10-2016
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/306
 Sampada Savardekar , Jim Funderburk
 L code : Headword : Old :       New       : Comment
-5782 : irredeemable : aniDkreya : anizkreya : 
+5781 : irredeemable : aniDkreya : anizkreya : 
 1950 : colour : avalaMtrM : avalaMb : print unclear
 1950 : colour : dfqaM : dfQaM :
-10025 : succeed : AnupUfvyaRa : AnupUrvyeRa : 
+10021 : succeed : AnupUfvyaRa : AnupUrvyeRa : 
 740 : bailiff : AseDdf : AsedDf :
 -----------------------------------------------------------------------
 10-17-2016
@@ -57,30 +57,30 @@ Sampada Savardekar , Jim Funderburk (batches 2 and 3)
 L code : Headword : Old :       New       : Comment
 2990 : disenchant : uDhf : udDf :
 2313 : counsel : upadezF : upadezwf : print blurred
-5543 : innovate : kxy : kxp :
-9200 : scheme : kXp : kxp : 
-3765 : exhaust : gKanna : Kinna :
-7972 : pious : DarmAcAMra : DarmAcAra :
+5542 : innovate : kxy : kxp :
+9197 : scheme : kXp : kxp : 
+3764 : exhaust : gKanna : Kinna :
+7971 : pious : DarmAcAMra : DarmAcAra :
 -----------------------------------------------------------------------
 10-27-2016
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/306
 Sampada Savardekar , Jim Funderburk (batches 5,7)
 L code : Headword : Old :       New       : Comment
 1719 : chronicle : yaTAkramM : yaTAkramaM : 
-9942 : street : raTMyA : raTyA : 
-7103 : night : rAzwrIkA : rAzwrikA : cf. MW solanum = night-shade = rAzwrikA
-4534 : glean : saMgrahH : saMgrahaH : 
-4134 : flourish : saM-FD : saM-fD :
+9939 : street : raTMyA : raTyA : 
+7102 : night : rAzwrIkA : rAzwrikA : cf. MW solanum = night-shade = rAzwrikA
+4533 : glean : saMgrahH : saMgrahaH : 
+4133 : flourish : saM-FD : saM-fD :
 -----------------------------------------------------------------------
 11-16-2016
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318
 Sampada Savardekar , Jim Funderburk (batch 01)
 L code : Headword : Old :       New       : Comment
-6102   : lean     : dattahastAvalaMbAM : dattahastAvalaMbaM :
-4494   : gibber   : mfzATaka : mfzArTaka :
-7731   : pave     : BUBiM : BUmiM :
+6101   : lean     : dattahastAvalaMbAM : dattahastAvalaMbaM :
+4493   : gibber   : mfzATaka : mfzArTaka :
+7730   : pave     : BUBiM : BUmiM :
 1393   : campaign : samaraBUBi : samaraBUmi : 
-5523   : injure   : nfSasa : nfSaMsa :
+5522   : injure   : nfSasa : nfSaMsa :
 2582   : debark   : utF    : uttF :
 2160   : constrain : av-ruD : ava-ruD :
 -----------------------------------------------------------------------
@@ -88,22 +88,22 @@ L code : Headword : Old :       New       : Comment
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 02
 Sampada Savardekar 
 L code : Headword : Old :       New       : Comment
-10195 : table : UDvarBUmi : UrDvaBUmi
-4567 : gnash : daMtEMrdatAn : daMtErdaMtAn : order of anunsvAra, 'r' wrong in print
-4664 : grind : daMtEMrdatAnnizpizya : daMtErdaMtAnnizpizya : same as above
-9305 : select : vFM : vF 
-9389 : share : dfHKaM : duHKaM
+10191 : table : UDvarBUmi : UrDvaBUmi
+4566 : gnash : daMtEMrdatAn : daMtErdaMtAn : order of anunsvAra, 'r' wrong in print
+4663 : grind : daMtEMrdatAnnizpizya : daMtErdaMtAnnizpizya : same as above
+9302 : select : vFM : vF 
+9386 : share : dfHKaM : duHKaM
 -----------------------------------------------------------------------
 12-02-2016
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 03
 Sampada Savardekar 
 L code : Headword : Old :       New       : Comment
 3510 : enervate : SIRa : kzIRa : 
-5779 : irrational : hIga : hIna 
-11068 : visible : kUjJawikAcCanna : kujJawikAcCanna
-10388 : thrive : saMfD : samfD :  anusvAra before vowel is error
-11068 : visible : dfMzwi : dfzwi 
-8391 : prostrate : sAMzwAMgapraRAmaH : sAzwAMgapraRAmaH
+5778 : irrational : hIga : hIna 
+11064 : visible : kUjJawikAcCanna : kujJawikAcCanna
+10384 : thrive : saMfD : samfD :  anusvAra before vowel is error
+11064 : visible : dfMzwi : dfzwi 
+8390 : prostrate : sAMzwAMgapraRAmaH : sAzwAMgapraRAmaH
 -----------------------------------------------------------------------
 12-02-2016
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 04
