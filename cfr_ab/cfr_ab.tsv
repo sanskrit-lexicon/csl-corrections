@@ -26245,21 +26245,27 @@
 04/25/2026 12:09:06	AP	11995	kāmayamāna	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026. It is changed to kAmayAnAm.
 04/25/2026 12:09:22	AP	11995.002	kāmayāna	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026
 04/25/2026 12:09:38	AP	11995.004	kāmayitṛ	kāmayāgam	kāmayānam	Typo	srhodes@snowcrest.net:Corrected 26 Apr 2026
-04/26/2026 04:07:09	AP	12004.002	kāmukaḥ	Missing Compound	Please Add the Compound Indicated Here in the Window Display: "kāmukakāntā f. N. of Mādhavi creeper." This compouns Deserves to be a Searchable Headword, located in the Hierarchy List Display.	Missing Compound	srhodes@snowcrest.net
-04/26/2026 04:07:17	AP	12004.002	kāmukaḥ	Missing Compound	Please Add the Compound Indicated Here in the Window Display: "kāmukakāntā f. N. of Mādhavi creeper." This compound Deserves to be a Searchable Headword, located in the Hierarchy List Display.	Missing Compound	srhodes@snowcrest.net
-04/26/2026 09:50:30	mw		test	test	test	typo	test
-04/26/2026 09:50:31	mw		test'	test	test	typo	test
-04/26/2026 09:50:32	mw		test	test	test	typo	test
-04/26/2026 09:50:32	mw		test	test'	test	typo	test
-04/26/2026 09:50:33	mw		test	test	test	typo'	test
-04/26/2026 09:50:33	mw		test	test	test	typo	test
-04/26/2026 09:50:34	mw		test	test	test	typo	test
-04/26/2026 09:50:34	mw		test	test	test'	typo	test
-04/26/2026 09:50:35	mw		test	test	test	typo	test'
-04/26/2026 09:50:35	mw'		test	test	test	typo	test
-04/26/2026 09:59:39	AP	12005.022	kāmyakarman	paticular	particular	Typo	srhodes@snowcrest.net
-04/26/2026 10:10:24	AP	12005.03	kāmyavṛttam	kāmyavṛttam	kāmyavratam	Typo – Headword Typo!  Please note that this is a suggested "Print Change", following Dr. Böhtlingk.	srhodes@snowcrest.net
-04/26/2026 11:10:18	AP	12015	kāmukāyanaḥ	an new authority	an old authority	Typo	srhodes@snowcrest.net
-04/26/2026 17:27:00	AP	12024.006	kāyaḥ	, -yam + .-yaḥ		Typo – Please note that the correction here is to DELETE the following: ", -yam + .-yaḥ".	srhodes@snowcrest.net
-04/26/2026 17:34:23							
-04/26/2026 17:34:55	MW	48492.1	kāyoḍhaja	Placement Error	The supplemental insertion of this Headword should be placed just BEFORE the word "kāyotsarga m. [ID= 48492]" in the Hierarchical listing of words. This is simply according to the proper alphabetical order.	Placement Error	srhodes@snowcrest.net
+04/26/2026 04:07:09	AP	12004.002	kāmukaḥ	Missing Compound	Please Add the Compound Indicated Here in the Window Display: "kāmukakāntā f. N. of Mādhavi creeper." This compouns Deserves to be a Searchable Headword, located in the Hierarchy List Display.	Missing Compound	srhodes@snowcrest.net:Handled separately at https://github.com/sanskrit-lexicon/AP/issues/17
+04/26/2026 04:07:17	AP	12004.002	kāmukaḥ	Missing Compound	Please Add the Compound Indicated Here in the Window Display: "kāmukakāntā f. N. of Mādhavi creeper." This compound Deserves to be a Searchable Headword, located in the Hierarchy List Display.	Missing Compound	srhodes@snowcrest.net:Handled separately at https://github.com/sanskrit-lexicon/AP/issues/17
+04/26/2026 09:59:39	AP	12005.022	kāmyakarman	paticular	particular	Typo	srhodes@snowcrest.net:Corrected 27 Apr 2026
+04/26/2026 10:10:24	AP	12005.03	kāmyavṛttam	kāmyavṛttam	kāmyavratam	Typo – Headword Typo!  Please note that this is a suggested "Print Change", following Dr. Böhtlingk.	srhodes@snowcrest.net:Corrected 27 Apr 2026
+04/26/2026 11:10:18	AP	12015	kāmukāyanaḥ	an new authority	an old authority	Typo	srhodes@snowcrest.net:Corrected 27 Apr 2026
+04/26/2026 17:27:00	AP	12024.006	kāyaḥ	, -yam + .-yaḥ		Typo – Please note that the correction here is to DELETE the following: ", -yam + .-yaḥ".	srhodes@snowcrest.net:Handled seaprately at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
+04/26/2026 17:34:55	MW	48492.1	kāyoḍhaja	Placement Error	The supplemental insertion of this Headword should be placed just BEFORE the word "kāyotsarga m. [ID= 48492]" in the Hierarchical listing of words. This is simply according to the proper alphabetical order.	Placement Error	srhodes@snowcrest.net:Corrected 27 Apr 2026
+04/27/2026 04:07:55							
+04/27/2026 04:09:50	SHS	9292	karṇamadgura	sheat fish	sheatfish	Typo – Please note that this is a suggested "Print Change". Merriam-Webster Dictionary, prefers this to be written as a Single Word. It is a bit like the word: "catfish" , which is NOT written "cat fish" !	srhodes@snowcrest.net
+04/27/2026 04:25:46	SHS	9313	karṇānuja	Yudhishṭhira	Yudhiṣṭhira	Typo – Please note that this is a worthwhile GLOBAL "Print Change".  In Fact PLEASE Consider targeting the extracted element: "shṭh" —> "ṣṭh".  Of course, this is VERY similar in nature to your recent: "ñch" —> "ñc" (or some such combination).	srhodes@snowcrest.net
+04/27/2026 05:52:56	AP	  29655 	विधिः	A ny  religious  (at sense 5)	Any  religious 	Typo	jim
+04/27/2026 11:50:41	AP	11486.026	kaphaghna	━m.	━ā or ━ī f.	Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4325270043	srhodes@snowcrest.net
+04/27/2026 12:59:04	AP	12118	kārṣṇājiniḥ	an new authority	an old authority	Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4326298828	srhodes@snowcrest.net
+04/27/2026 12:59:49	AP	27940	lābukāyanaḥ	an new authority	an old authority	Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4326298828	srhodes@snowcrest.net
+04/27/2026 13:10:00	AP	7592	ālekhanam	ālekhanam a.	ālekhana a.	Typo – Please note that this is a Headword Print Change. The neuter definitions are alreay given subsequently. The Main Headword is inteneded as Adjective. Thus again, we have the Global Correction relating to the abbreviation "a." in italics, which indicates "adjective". The Global Correction to be made here being: "m a." —> "m a".	srhodes@snowcrest.net
+04/27/2026 13:12:26	AP	7592.004	ālekhanam	ālekhanam + .-nam	ālekhanam	Typo – Please confirm if this correction is according to your desired presentation.	srhodes@snowcrest.net
+04/27/2026 13:13:50	AP	7592.002	ālekhanī	ālekhanam + .-nī	ālekhana + .-nī	Typo – Please confirm whether this correction is according to your desired presentation.	srhodes@snowcrest.net
+04/27/2026 13:15:53	AP	7592.006	ālekhanaḥ	ālekhanam + .-naḥ	ālekhana + .-naḥ	Typo – Please confirm whether this correction is according to your desired presentation.	srhodes@snowcrest.net
+04/27/2026 13:40:21	AP	12024.036	kāyasthaḥ	kāyastha iti ladhvī mātrā	kāyastha iti laghvī mātrā	Typo	srhodes@snowcrest.net
+04/27/2026 13:45:28	AP	12024.037	kāyasthī	kāyaḥ + -sthaḥ + .(-sthī)	kāyaḥ + .(-sthī)	Typo – Please confirm whether this correction is according to your desired presentation.	srhodes@snowcrest.net
+04/27/2026 13:54:45	AP	12025.008	kāyakā	kāyaka (-yikā f.), kāyika (-kī f.) + .-kā	kāyaka + .-kā	Typo – Please confirm whether this correction is according to your desired presentation. Please bear in mind that ALL OF THIS: "(-yikā f.), kāyika (-kī f.) "  DOES NOT RELATE in any way, to the Feminine Word Given Here as: "kāyakā".	srhodes@snowcrest.net
+04/27/2026 14:01:35	AP	12025.008	kāyakā	kāyakā	kāyikā	Typo – UPDATED CORRECTION! Please note that this Correction is according to MW and VCP. The PROBLEM with AP listing Feminine Forms such as THIS, is that it REQUIRES interpretation !   LB ALSO, This is REALLY TOO MUCH: "kāyaka (-yikā f.), kāyika (-kī f.) + .-kā ".  THAT equation, should be reduced in some way !  For Example, simply: "kāyaka + (-yikā f.)", or you choose.	srhodes@snowcrest.net
+04/27/2026 17:11:04	AP	12025.02	kāyakavṛddhiḥ	kāyakavṛddhiḥ	kāyikāvṛddhiḥ	Typo – Please note that this is just an error in the expansion of the compounded form, as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4327230458	srhodes@snowcrest.net
+04/27/2026 18:29:52	AP	12025.008	kāyakā	kāyakavṛddhiḥ	kāyikāvṛddhiḥ	Typo – Please note that this is just an error in the expansion of the compound form, as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4327230458	srhodes@snowcrest.net
