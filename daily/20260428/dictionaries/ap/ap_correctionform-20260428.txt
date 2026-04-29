@@ -1,0 +1,67 @@
+Sanskrit Lexicon Correction Form History for AP
+As of April 29, 2026
+9 correction records, with 9 PENDING
+
+Case 11: 04/28/2026 dict=AP, L=12035.003, hw=kāraṇāt, user=srhodes
+old = kāraṇam + .-ṇā + .(-kāraṇāt 
+new = kāraṇāt 
+comment = Typo – Please Note that this is Simply CRAZY: "kāraṇam + .-ṇā + .(-kāraṇāt ". Is that supposed to represent some sort of derivation?  Obviously the word "kāraṇāt" is simply the Fifth Case Ablative Singular. CERTAINLY, there is a simpler mode of presentation than this lengthy nonsense.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/28/2026 dict=AP, L=11536, hw=kayādhuḥ, user=srhodes
+old = BLANK SPACE GAP ALERT
+new = Please note that FOLLOWING this Headword in the Hiearchy List Column there is a "BLANK SPACE GAP". There are other instances of this as well. It appears to be a RECENT anomaly, which hopefully can be addressed GLOBALLY, if the cause of this particular ERROR is identified.
+comment = BLANK SPACE GAP ALERT
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/28/2026 dict=AP, L=489, hw=añjas, user=srhodes
+old = BLANK SPACE GAP ALERT
+new = Please note that FOLLOWING this Headword in the Hiearchy List Display there is a "BLANK SPACE GAP". There are other instances of this as well. It appears to be a RECENT anomaly, which hopefully can be addressed GLOBALLY, if the cause of this particular ERROR is identified.
+comment = BLANK SPACE GAP ALERT
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/28/2026 dict=AP, L=12024.036, hw=kāyasthaḥ, user=srhodes
+old = Missing Compound
+new = Please Add the Compound Indicated Here in the Window Display: "kāyasthā f."  This compound Deserves to be a Searchable Headword, located in the Hierarchy List Display. Of course we already find "kāyasthī", therefore we MUST include "kāyasthā" !
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/28/2026 dict=AP, L=12030.024, hw=kārabhūḥ, user=srhodes
+old = kāra + -bhūḥ a toll-station. 
+new = kāra + -bhūḥ f. a toll-station. 
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4335004090
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/28/2026 dict=AP, L=12030.02, hw=kārāvaraḥ, user=srhodes
+old = Niṣāda father and Vaidehi mother
+new = Niṣāda father and Vaidehī mother
+comment = Typo – Please note that this is a suggested "Print Change", if in fact the spelling: "Vaidehi" is technically incorrect. Of course it is awkward to spell "Niṣāda" correctly and then follow-up with an incorrect Feminine spelling. If this correction is Valid, then it may be made a Global Correction as: "Vaidehi" —> "Vaidehī"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/28/2026 dict=AP, L=12028, hw=kāyamānam, user=srhodes
+old = Homonym Number Missing
+new = Since the Headword: "kāyamānam" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column. You may conveniently consult MW Dictionary on this very Headword and then employ the same Protocol to AP57, as I am suggesting. MW Dictionary uses the Format (for example): "←  [Printed book page 274,1] :". LB Of Course in AP57, the Homonym Number "1" applies to "kāyamānam [ID=12024.03]"  AND  the Homonym Number "2" applies to "kāyamānam [ID= 12028]".  ALSO, the respective Homonym Number should appear to the Right Side of each of the Two Headwords in the Hierarchy List Column as well, for ease of identification.
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/28/2026 dict=AP, L=12024.03, hw=kāyamānam, user=srhodes
+old = Homonym Number Missing
+new = Since the Headword: "kāyamānam" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column. You may conveniently consult MW Dictionary on this very Headword and then employ the same Protocol to AP57, as I am suggesting. MW Dictionary uses the Format (for example): "←  [Printed book page 274,1] :". LB Of Course in AP57, the Homonym Number "1" applies to "kāyamānam [ID=12024.03]"  AND  the Homonym Number "2" applies to "kāyamānam [ID= 12028]".  ALSO, the respective Homonym Number should appear to the Right Side of each of the Two Headwords in the Hierarchy List Column as well, for ease of identification.
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/28/2026 dict=AP, L=12029, hw=kāyādhavaḥ, user=srhodes
+old = Prahlād
+new = Prahlāda
+comment = Typo – Please note that this is a suggested "Print Change". If this correction is valid, you may consider making this a Global Correction by adding a "blank space" to the end of the Target as: "Prahlād " —> "Prahlāda".
+status = PENDING
+------------------------------------------------------------------------
+
