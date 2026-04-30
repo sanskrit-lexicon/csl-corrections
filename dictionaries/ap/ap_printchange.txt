@@ -603,3 +603,10 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/184
 L code : Headword : Old  : New : Comment
 12005.03 : kAmyavfttam : kAmyavfttam : kAmyavratam : 
 -----------------------------------------------------------------------
+04-29-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/187
+L code : Headword : Old  : New : Comment
+12005.026 : kaPaGna : masculine : Separated to -A or -I f. : New lnums 11486.029 and 11486.030 added
+27940 : lAbukAyanaH : an new authority : an old authority : See https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4326298828
+12118 : kArzRAjiniH : an new authority : an old authority : See https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4326298828
+-----------------------------------------------------------------------
