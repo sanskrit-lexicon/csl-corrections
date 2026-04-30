@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of April 30, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
-Case 4: 04/29/2026 dict=SHS, L=9352, hw=kardama, user=srhodes
+Case 3: 04/29/2026 dict=SHS, L=9352, hw=kardama, user=srhodes
 old = CHHĀYĀ
 new = CHĀYĀ
 comment = Typo – This is a suggested "Print Change", and may be a worthwhile Global Correction as well. I am guessing a bit on this one.
-status = PENDING
+status = Corrected 30 Apr 2026. Rest are separately handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/197
 ------------------------------------------------------------------------
 
-Case 3: 04/29/2026 dict=SHS, L=9352, hw=kardama, user=srhodes
+Case 2: 04/29/2026 dict=SHS, L=9352, hw=kardama, user=srhodes
 old = Prajapati
 new = Prajāpati
 comment = Typo – This is a suggested "Print Change", and may be a worthwhile Global Correction, for the correct transliteration. Targeting with the capital letter "P", should prevent "crossfire" with the finite verbal form "prajapati" !
-status = PENDING
+status = Corrected 30 Apr 2026
 ------------------------------------------------------------------------
 

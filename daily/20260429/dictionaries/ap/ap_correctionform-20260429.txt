@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for AP
 As of April 30, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
-Case 5: 04/29/2026 dict=AP, L=12035.024, hw=kāraṇākhyā, user=srhodes
+Case 4: 04/29/2026 dict=AP, L=12035.024, hw=kāraṇākhyā, user=srhodes
 old = -ākhyā a. N. of the organ of perception
 new = -ākhyā a N. of the organ of perception
 comment = Typo – Here Again is the issue of the abbreviation "a." in italics, which indicates "adjective", BUT clearly this is a Feminine Noun. Therefore, again we have a Global Correction as follows: "ā a." —> "ā a"
-status = PENDING
+status = Corrected 30 Apr 2026. Rest of the cases are separately handled at https://github.com/sanskrit-lexicon/csl-corrections/issues/196
 ------------------------------------------------------------------------
 
-Case 2: 04/29/2026 dict=ap, L=14573.028   , hw=cakoracakorAya, user=Jim
+Case 1: 04/29/2026 dict=ap, L=14573.028   , hw=cakoracakorAya, user=Jim
 old = cakoracakorAya  
 new = cakorAya  
-status = PENDING
+status = Corrected 30 Apr 2026
 ------------------------------------------------------------------------
 
