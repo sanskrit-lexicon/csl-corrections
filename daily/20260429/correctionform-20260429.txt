@@ -1,0 +1,52 @@
+Sanskrit Lexicon Correction Form History
+As of April 30, 2026
+7 correction records, with 7 PENDING
+
+Case 7: 04/29/2026 dict=MW, L=48564, hw=kāraṇaśarīra, user=srhodes
+old = A-vidyā
+new = Avidyā
+comment = Typo – Please note that this is a suggested "Print Change". The word "avidyā" is VERY well known across Sanskrit Literature. The use of the "Hyphen" here seems to be simply a distraction. Please bear in mind that the General Usage of the negative particle "a" is WITHOUT a Hyphen. Therefore, what is the need or valid reasoning for the hyphen in this particular case?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/29/2026 dict=MW, L=48546, hw=kāraṇakaraṇa, user=srhodes
+old = kāraṇakaraṇa
+new = kāraṇakāraṇa
+comment = Typo – Headword Typo !  Please note that this is a VERY GOOD correction. It follows the printed page letter by letter.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/29/2026 dict=AP, L=12035.024, hw=kāraṇākhyā, user=srhodes
+old = -ākhyā a. N. of the organ of perception
+new = -ākhyā a N. of the organ of perception
+comment = Typo – Here Again is the issue of the abbreviation "a." in italics, which indicates "adjective", BUT clearly this is a Feminine Noun. Therefore, again we have a Global Correction as follows: "ā a." —> "ā a"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/29/2026 dict=SHS, L=9352, hw=kardama, user=srhodes
+old = CHHĀYĀ
+new = CHĀYĀ
+comment = Typo – This is a suggested "Print Change", and may be a worthwhile Global Correction as well. I am guessing a bit on this one.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/29/2026 dict=SHS, L=9352, hw=kardama, user=srhodes
+old = Prajapati
+new = Prajāpati
+comment = Typo – This is a suggested "Print Change", and may be a worthwhile Global Correction, for the correct transliteration. Targeting with the capital letter "P", should prevent "crossfire" with the finite verbal form "prajapati" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/29/2026 dict=ap, L=14573.028   , hw=cakoracakorAya, user=Jim
+old = cakoracakorAya  
+new = cakorAya  
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 04/29/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
