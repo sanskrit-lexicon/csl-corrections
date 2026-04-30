@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for MW
+As of April 30, 2026
+2 correction records, with 2 PENDING
+
+Case 7: 04/29/2026 dict=MW, L=48564, hw=kāraṇaśarīra, user=srhodes
+old = A-vidyā
+new = Avidyā
+comment = Typo – Please note that this is a suggested "Print Change". The word "avidyā" is VERY well known across Sanskrit Literature. The use of the "Hyphen" here seems to be simply a distraction. Please bear in mind that the General Usage of the negative particle "a" is WITHOUT a Hyphen. Therefore, what is the need or valid reasoning for the hyphen in this particular case?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/29/2026 dict=MW, L=48546, hw=kāraṇakaraṇa, user=srhodes
+old = kāraṇakaraṇa
+new = kāraṇakāraṇa
+comment = Typo – Headword Typo !  Please note that this is a VERY GOOD correction. It follows the printed page letter by letter.
+status = PENDING
+------------------------------------------------------------------------
+
