@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 29, 2026
-1 correction records, with 1 PENDING
+As of April 30, 2026
+1 correction records, with 0 PENDING
 
-Case 12: 04/28/2026 dict=MW, L=  101818, hw=dhRta, user=giuliogey
+Case 11: 04/28/2026 dict=MW, L=  101818, hw=dhRta, user=giuliogey
 old = ...maintained, supported kept, possessed
 new = supported, kept
 comment = Typo, a comma is missing between supported and kept
-status = PENDING
+status = Already corrected. There is already a comma between supported and kept.
 ------------------------------------------------------------------------
 

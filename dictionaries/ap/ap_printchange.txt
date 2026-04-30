@@ -627,3 +627,10 @@ L code : Headword : Old  : New : Comment
 35758.030 : sTAlIbilIyam : {#-bilIyam, -bilyam#} : {#-bilIya, -bilya#} : 
 35758.032 : sTAlIbilyam : sTAlIbilya : sTAlIbilya : 
 -----------------------------------------------------------------------
+04-30-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/190
+L code : Headword : Old  : New : Comment
+12030.020 : kAravaraH : Vaidehi : Vaidehī : 
+12030.024 : kAraBUH : a toll-station : {%<lex>f.</lex>%} a toll-station : 
+12029 : kAyADavaH : Prahlād : Prahlāda : 
+-----------------------------------------------------------------------
