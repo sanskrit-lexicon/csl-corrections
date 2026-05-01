@@ -639,3 +639,35 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/191
 L code : Headword : Old  : New : Comment
 12035.024 : kAraRAKyA : {%<lex>a.</lex>%} : {%<lex>f.</lex>%} : 
 -----------------------------------------------------------------------
+04-30-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/200
+L code : Headword : Old  : New : Comment
+14880.020 : cArvAkamatam : {#cArvAkaH#} + {#-matam#}¦ : {#cArvAkaH#} + {#-matam#}¦ {%<lex>n.</lex>%} the doctrine of Cārvāka. : Definition borrowed from MW. See https://github.com/sanskrit-lexicon/csl-corrections/issues/200
+-----------------------------------------------------------------------
+05-01-2026
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/174
+L code : Headword : Old  : New : Comment
+12921 : kEmarTakya : kEmarTakya : kEmarTakyam : headword change
+14416 : Ga : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+14562 : GrAtavya : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+14660 : canizWa : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+14897 : cikita : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+15610.052 : jitasvarga : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+16457 : timira : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+17072 : daridra : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+17114 : daSama : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} Tenth. : definition added
+18885 : nimnita : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+18923.414 : nirbala : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+23828 : prAcyaka : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+26632 : mecakita : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
+28841.118 : vANmanasa : <k1>vANmanasa<k2>vANmanasa : <k1>vANmanas<k2>vANmanas : headword change (k1/k2); also {#-manasa#} : {#-manas#} in body
+28989 : vAyava : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} : content of 28989.001 (vAyavI) merged into vAyava
+28989.001 : vAyavI : body text : {{Lbody=28989}} : content moved to 28989 (vAyava)
+31802 : SAkawa : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} : content of 31802.001 (SAkawI) merged into SAkawa
+31802.001 : SAkawI : body text : {{Lbody=31802}} : content moved to 31802 (SAkawa)
+32805 : saMlApaka : {%<lex>n.</lex>%} : {%<lex>m.</lex>%} :
+34587 : sAkUta : {#sAkUtasmita#} : {#sAkUtasmitam#} : definition restructed; Comp. list removed
+34587.020 : sAkUtasmita : sAkUtasmita : sAkUtasmitam : headword change; -smita, -hasita : -smitam, -hasitam in body
+35448 : sOdarya : sOdarya : sOdaryam : headword change
+35775.076 : sTUlaBUta : -BUta : -BUtam : k2 and body updated (k1 unchanged)
+-----------------------------------------------------------------------
