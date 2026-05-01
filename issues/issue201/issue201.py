@@ -48,40 +48,17 @@ def strip_common_suffix(s1, s2):
     return s1[:-suffix_len], s2[:-suffix_len]
 
 def get_minimal_unique_context(old_val, new_val, before_block, after_block, lines, index):
-    # 1. Identify the core difference
-    common_pref, core_old_plus, core_new_plus = strip_common_prefix(old_val, new_val)
-    core_old, core_new = strip_common_suffix(core_old_plus, core_new_plus)
-    common_suff = core_old_plus[len(core_old):]
-    
-    current_old = core_old
-    current_new = core_new
+    current_old = old_val
+    current_new = new_val
     
     # Check if unique and non-blank in both directions
     def is_safe_unique(old, new):
         if not old.strip() or not new.strip(): return False
         return before_block.count(old) == 1 and after_block.count(new) == 1
 
-    # 2. Expand using chunk context
-    pref_idx = len(common_pref) - 1
-    suff_idx = 0
-    
-    while not is_safe_unique(current_old, current_new):
-        expanded = False
-        if pref_idx >= 0:
-            current_old = common_pref[pref_idx] + current_old
-            current_new = common_pref[pref_idx] + current_new
-            pref_idx -= 1
-            expanded = True
-            if is_safe_unique(current_old, current_new): break
-            
-        if suff_idx < len(common_suff):
-            current_old = current_old + common_suff[suff_idx]
-            current_new = current_new + common_suff[suff_idx]
-            suff_idx += 1
-            expanded = True
-            if is_safe_unique(current_old, current_new): break
-            
-        if not expanded: break
+    # 1. If the word is already unique, we are done
+    if is_safe_unique(current_old, current_new):
+        return current_old, current_new
 
     # 3. If still not safe/unique, expand using surrounding lines
     if not is_safe_unique(current_old, current_new):
@@ -169,8 +146,15 @@ def main():
         if before and after and before != after:
             hw = get_headword(before)
             
-            with open('temp_b.txt', 'w') as f: f.write(before)
-            with open('temp_a.txt', 'w') as f: f.write(after)
+            # Filter out metadata lines (starting with <L>) to focus on body text
+            before_body = "\n".join([l for l in before.splitlines() if not l.startswith('<L')])
+            after_body = "\n".join([l for l in after.splitlines() if not l.startswith('<L')])
+            
+            if before_body == after_body:
+                continue
+                
+            with open('temp_b.txt', 'w') as f: f.write(before_body)
+            with open('temp_a.txt', 'w') as f: f.write(after_body)
             
             # Using a very specific word-diff regex to separate tags and words
             word_diff = run_command(['git', 'diff', '--no-index', '--word-diff=porcelain', '--word-diff-regex=[^<>[:space:]]+|<[^>]+>', 'temp_b.txt', 'temp_a.txt'], check=False)
@@ -199,7 +183,7 @@ def main():
                         added = lines[i+1][1:]
                         found_added = True
                     
-                    old_str, new_str = get_minimal_unique_context(deleted, added, before, after, lines, i)
+                    old_str, new_str = get_minimal_unique_context(deleted, added, before_body, after_body, lines, i)
                     
                     # Clean up: replace real newlines with literal \n
                     old_str = old_str.strip().replace('\n', '\\n')
@@ -217,7 +201,7 @@ def main():
                         continue
                     
                     # This is an orphan addition
-                    old_str, new_str = get_minimal_unique_context("", added, before, after, lines, i)
+                    old_str, new_str = get_minimal_unique_context("", added, before_body, after_body, lines, i)
                     
                     old_str = old_str.strip().replace('\n', '\\n')
                     new_str = new_str.strip().replace('\n', '\\n')
