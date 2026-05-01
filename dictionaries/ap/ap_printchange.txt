@@ -20,7 +20,7 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
 contains details supporting these changes.
 These changes initiated by Jim Funderburk
 L code : Headword : Old  : New : Comment
-11409 : kanizwa : kanizwa : kanizWa :  (no comment)
+11409 : kanizwa : {#kanizwa#} : {#kanizWa#} :  (no comment)
 -----------------------------------------------------------------
 04-13-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
@@ -38,14 +38,14 @@ L code : Headword : Old  : New : Comment
 13997 : gAndI : Akṛūra : Akrūra 
 11117 : kakzaH : Bṛ1 : Bṛ : text has Bṛī
 15393 : janitvaH : fatheṛ : father 
-4551 : arjuna : Kṛṣna : Kṛṣṇa :text has Kṛiṣna (similar for others)
-8176 : indra : Kṛṣna : Kṛṣṇa :
-10633 : eka : Kṛṣna : Kṛṣṇa :
+4551.038 : arjunasaKiH : Kṛṣna : Kṛṣṇa :text has Kṛiṣna (similar for others)
+8176.002 : indra : Kṛṣna : Kṛṣṇa :
+10632.042 : ekAnaMSA : Kṛṣna : Kṛṣṇa :
 12120 : kArzRiH : Kṛṣna : Kṛṣṇa :
-12834 : kfzRa : Kṛṣna : Kṛṣṇa :
-18356 : narakaH : Kṛṣna : Kṛṣṇa :
+12834.002 : kfzRa : Kṛṣna : Kṛṣṇa :
+18356.004 : narakaH : Kṛṣna : Kṛṣṇa :
 33382 : satyA : Kṛṣna : Kṛṣṇa :
-4551 : arjuna : Kṛsṇa : Kṛṣṇa
+4551.038 : arjuna : Kṛsṇa : Kṛṣṇa
 10699 : erakA : Kṛṣhṇa : Kṛṣṇa :
 11819 : kaSyapaH : Ṛsi : Ṛṣi :
 -----------------------------------------------------------------
@@ -65,14 +65,15 @@ L code : Headword : Old  : New : Comment
 --- batch 202
 2872 : apasparza : apasparza : apasparSa : under root apaspfS
 3497 : aBipariplata : aBipariplata : aBiparipluta : print vague
-3708 : aBiSaNka : aBiSaNka : aBiSaNk :  Missing virAma
+3708 : aBiSaNka : {#aBiSaNka#} : {#aBiSaNk#} :  Missing virAma
 --- batch 203
 3856 : aBihft : aBihft : aBihrut
 4047 : aByacita : aByacita : aByucita : By alph. order and sense
 4133 : amInaH : amInaH : amaniH :  misplaced vowel diacritic
 4165 : amasta : amasta : amastu : from sense 'curds'. (why not 'without curds'?)
 4358 : ayudDavI : ayudDavI : ayudDvI : cf. other dictionaries; Vedic.
-4472 : aruca : aruca : aruc : Vedic. While other dictionaries have 'ruca' and 'ruc' -  they don't have aruca. So assume missing virama.
+don't have aruca. So assume missing virama.
+4472 : aruca : {#aruca#} : {#aruc#} : Vedic. While other dictionaries have 'ruca' and 'ruc' -  they don't have aruca. So assume missing virama.
 4963 : avatf : avatf : avatF : The root is tF -  as AP and others spell
 5116 : avaBajanam : avaBajanam : avaBaMjanam : Missing anusvAra. under root avaBaYj
 --- batch 204
@@ -82,20 +83,20 @@ L code : Headword : Old  : New : Comment
 6518 : Agamizwa : Agamizwa : AgamizWa : cf MW and  Whitney roots
 6642 : AcCodanama : AcCodanama : AcCodanam : missing virAma. not an adj.
 6987 : AnujIvara : AnujIvara : AnujAvara : Change to jAvara based on other dictionaries.
-7015 : Anakam : Anakam : AnUkam : Print blurred. Cf AP90  MW etc. and quotation
+7015 : Anakam : {#Anakam#} : {#AnUkam#} : Print blurred. Cf AP90  MW etc. and quotation
 --- batch 205
 7583 : AlAntam : AlAntam : AlAtam : because from अलातम् without न्
 7724 : AvIracarRaH : AvIracarRaH : AvIracUrRaH : lost diacritics
-7814 : ASuman : ASuman : ASumat : corrected after the quotation of AV 6.105.1 where there is the word आशुमत् (and not आशुमन्); confirmed by MW and PWG and the text of AV
+7814 : ASuman : {#ASuman#} : {#ASumat#} : corrected after the quotation of AV 6.105.1 where there is the word आशुमत् (and not आशुमन्); confirmed by MW and PWG and the text of AV
 8052 : AlhAdana : AlhAdana : AhlAdana
 8051 : AlhAdaH : AlhAdaH : AhlAdaH
 8053 : AlhAdin : AlhAdin : AhlAdin
 8083 : izyat : izyat : ezyat : Note quotation and AP90 and MW and PWG
 8122 : iquraH : iquraH : iqvaraH : corrected after AP90 and others
 8477 : ucCrayin : ucCrayin : ucCrAyin : corrected after AP90 and MW; confirmed by the source shi. 5.21 (उच्छ्रायिभिर्). 
-8801 : utPuMlla : utPuMlla : utPulla : the printed blobs are not anusvara
+8801 : utPuMlla : {#utPuMlla#} : {#utPulla#} : the printed blobs are not anusvara
 8958 : udAhratiH : udAhratiH : udAhftiH : from ud-ā-hṛ + suf. ti
-9011 : udgraT : Both grath and granth are possible. But in the dic the main verb granth 'to tie' is given with nasal  and without nasal is given another verb grath/granth with another meaning 'to be crooked'. So for consistency the spelling of the headword should be restored as udgranth (so in AP90 and MW)
+9011 : udgraT : udgraT : udgranT : Both grath and granth are possible. But in the dic the main verb granth 'to tie' is given with nasal  and without nasal is given another verb grath/granth with another meaning 'to be crooked'. So for consistency the spelling of the headword should be restored as udgranth (so in AP90 and MW)
 --- batch 206
 9129 : udDAhu : oBAddubAhuriva : loBAdudbAhuriva : cf. AP90
 10029 : upasaraRama : upasaraRama : upasaraRam : lost anusvara
@@ -108,16 +109,16 @@ L code : Headword : Old  : New : Comment
 11293 : kaRaraH : kaRaraH : kaReraH : follows after कणे ; corrected after AP90 and others
 11596 : karkaduH : karkaduH : karkawuH : corrected after AP90 and others
 11612 : karcUrakAH : karcUrakAH : karcUrakaH : wrong masc. ending
-11800 : kavArI : kavArI : kavAri : the adj. in -ī is improbable
+11800 : kavArI : {#kavArI#} : {#kavAri#} : the adj. in -ī is improbable
 --- batch 207
 12065 : kAruRqikAH : kAruRqikAH : kAruRqikA : visarga not needed in f. form
 12333 : kukuwiH : kukuwiH : kukkuwiH : Missing k considered error since neighboring headwords have two k's.
 12973 : koRAkoRI : koRAkoRI : koRAkoRi : Must end in short 'i' acc. to Pan. 5.4.127 referenced by PWG and MW.
 13005 : koSina : koSi(zi)na : koSi(zi)n : missing virAma. 
 13339 : kzAmam :  kzAmam : kzAman : manin affix
-14531 : GftalI : GftalI : GftelI : By alph. order under Gfta : also df many other dictionaries
+14531 : GftalI : GftalI : GftelI : By alph. order under Gfta, also df many other dictionaries
 14811 : cAtara : cAtara : cAtura : missing 'u'
-16647 : tUtum : tUtum : tUtuma : ending virama wrong since adjective.
+16647 : tUtum : {#tUtum#} : {#tUtuma#} : ending virama wrong since adjective.
 16740 : tArit : tArit : tArin : Since Rini suffix
 16779 : tElinam : tElinam : tElInam : Long 'i' in many dictionaries; also by alphabetical order in words under tEla
 17356 : dIrGIB : dIrGIB : dIrGIBU : Poor scan
@@ -125,7 +126,7 @@ L code : Headword : Old  : New : Comment
 17827 : dvfH : dvfH : dvf : Verb-Ending visarga is wrong.
 --- batch 208
 18023 : DImata : DImata : DImat : missing virAma
-18181 : Druvra : Druvra : Druva : cf. quotation and other dictionaries
+18181 : Druvra : {#Druvra#} : {#Druva#} : cf. quotation and other dictionaries
 18836 : nibandDa : nibandDa : nibandDf : vowel 'f' missing
 19585 : nErlajjam : nErlajjam : nErlajjyam : cf other dictionaries. 
 19671 : pakkaSaH :  pakkaSaH : pakvaSaH : Not sure.  pakvaSaH agrees with other dictionaries.
@@ -135,14 +136,14 @@ L code : Headword : Old  : New : Comment
 --- batch 209
 24825 : Baktimata : Baktimata : Baktimat : virAma missing
 26809 : mrakzaRama : mrakzaRama : mrakzaRam : virAma missing
-28218 : lAkaka : lAkaka : lOkika : body of text supports lOkika; also other dictionaries
-28723 : vallUram : vallUram : valluram : derivation supports short 'u" : also other dictionaries
-29492 : viwwalaH : viwwa(WWa)laH : viwWa(WWa)laH : cf Other dictionaries (AP90 : MW : PWG) 
-30365 : viSIrRi : viSIrRi : viSIrRa : cf. quotation and other dictionaries
+28218 : lAkaka : {#lAkaka#} : {#lOkika#} : body of text supports lOkika; also other dictionaries
+28723 : vallUram : vallUram : valluram : derivation supports short 'u", also other dictionaries
+29492 : viwwalaH : viwwa(WWa)laH : viwWa(WWa)laH : cf Other dictionaries (AP90, MW, PWG) 
+30365 : viSIrRi : {#viSIrRi#} : {#viSIrRa#} : cf. quotation and other dictionaries
 --- batch 210
 35732 : sTApanama : sTApanama : sTApanam : missing virAma
-35803 : snAyIya : snAyIya : snAnIya : from snAna
-35825 : snuha : snuha : snuh : missing virAma. Cf. other dictionaries
+35803 : snAyIya : {#snAyIya#} : {#snAnIya#} : from snAna
+35825 : snuha : {#snuha, : {#snuh, : missing virAma. Cf. other dictionaries
 36304 : halaniH : halaniH : halInaH : long I diacritic misplaced
 -----------------------------------------------------------------
 01-31-2017
@@ -160,7 +161,7 @@ L code : Headword : Old  : New : Commen
  816 : atyahita : atyahita : atyayita
  822 : atala : atala : atula :  missing vowel diacritic
  2474 : anvArohaRama : anvArohaRama : anvArohaRam : missing virama
- 2502 : apakalaNkakaH : apakalaNkakaH : apakalaNkaH  : Not sure. cf mw : ap90
+ 2502 : apakalaNkakaH : apakalaNkakaH : apakalaNkaH  : Not sure. cf mw, ap90
 9370 : upakarRa : upakarRa : upakarR : missing virama
 -----------------------------------------------------------------
 02-03-2017
@@ -177,8 +178,8 @@ L code : Headword : Old  : New : Comment
 19533 : nEkawya : nEkawya : nEkawyam : neuter noun
 25184 : BItaMkAra : BItaMkAra : BItaMkAram : indeclinable; presume 'am' is appropriate ending.
 25394 : BramaRa : BramaRa : BramaRam : neuter noun
-
-3233 : aba : aba : ab :  also amba : amb.  Verbs acc. to correspondence with AP90 etc.
+3233 : aba : aba : ab :  Verbs acc. to correspondence with AP90 etc.
+3233 : amba : amba : amb :  Verbs acc. to correspondence with AP90 etc.
 3292 : aBaMyakara : aBaMyakara : aBayaMkara : anusvara placement wrong
 11264 : kaqa : kaqa(-la)tram : kaqa(la)tram :  the '-' considered an error; variant is kalatram
 
@@ -362,96 +363,96 @@ L code : Headword : Old  : New : Comment
 Source: Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102
 L code : Headword : Old  : New : Comment
-4582<pc>0228-1<k1>arDa : apart, partly : a part, partly
-4594<pc>0230-1<k1>arbudaH : Cordis myxa : Cordia myxa
-4620<pc>0231-1<k1>arSas : SuraRa : SUraRa
-4637<pc>0232-1<k1>alakaH : Bergera Kaenigii : Bergera Koenigii
-4662<pc>0233-2<k1>alam : -DUma a. : -DUma m.
-4692<pc>0235-1<k1>alAbumaya : bottle : bottle-gourd
-4639<pc>0232-2<k1>alaktaH : red lac, juice : red lac juice
-4938<pc>0243-2<k1>avawIwa : puruzopyavawIwaH : puruzo'pyavawIwaH
-4997<pc>0246-1<k1>avadAnam : see avadAna : see avadAha
-5047<pc>0248-1<k1>avanata :  with stooping; limbs; :  with stooping limbs;
-5551<pc>0266-2<k1>avinaSvara : Destructible : Indestructible
-5580<pc>0267-2<k1>aviyukta : absent : not absent
-5721<pc>0272-1<k1>avyaya : Brahmā : Brahma
-5637<pc>0269-1<k1>avisargin : -RI : -gI : cf. ap90, pwg
-5776<pc>0274-1<k1>aSakya : inpracticable : impracticable
-5782<pc>0274-2<k1>aSabda : Slender, abuse : Slander, abuse
-5818<pc>0275-2<k1>aSIrzaka : aSiram : aSiras
-5831<pc>0276-1<k1>aSeva : Giving pleasure : Not giving pleasure
-5850<pc>0277-1<k1>aSman : pannA : pAnnA
-5896<pc>0280-2<k1>aSvatTaH : Faicus Benjamina : Ficus Benjamina
-5909<pc>0281-2<k1>aSvinI : the from of a mare : the form of a mare
-5923<pc>0282-1<k1>azwan : a class of three : a class of eight
-5952<pc>0286-2<k1>astamike : astamike : astamIke 
-6153<pc>0294-2<k1>asutfp : asutfp : asutfpa : headword change 
-6155<pc>0294-2<k1>asupta : °dfSa : °dfS
-6157<pc>0295-1<k1>asura : -rakzas : -rakzasa
-6196<pc>0296-2<k1>asOmya : °kfta : °kft :
-6198<pc>0296-2<k1>askanna : Not split : Not spilt
-5889<pc>0278-2<k1>aSlona : aSlona : aSloRa
-5923<pc>0282-1<k1>azwan : -asriya : -asri
-6254<pc>0298-2<k1>asmAka :  Ved. for asmAka :  Ved. for AsmAka
-6265<pc>0299-1<k1>asraH : -jita : -jit
-6265<pc>0299-1<k1>asraH : -jita = aSrajit :  -jit = astrajit
-6272<pc>0299-1<k1>asvaka : -asvakIya, -asvika : -asvakIya
-6300<pc>0300-2<k1>aham : -kft : -kfta
-6345<pc>0304-2<k1> : ApaYjara : ApiYjara
-6319<pc>0302-2<k1>ahIna : witness unfit : witness not unfit
-6373<pc>0305-1<k1>AkANkza : significancy : significance
-6382<pc>0305-2<k1>AkASaH : -garBI : -garBa
-6454<pc>0310-1<k1>AkzapAwikaH : arrange : arranger
-6512<pc>0313-1<k1>AgamaH : -nirakzepa : -nirapekza
-6396<pc>0307-1<k1>AkURita : Contracted, a little : Contracted a little
-6626<pc>0318-1<k1>Acitika : tryAcitaka : tryAcitika
-6712<pc>0321-1<k1>AQakaH : 64 Prasthas : 4 Prasthas
-6780<pc>0323-2<k1>Atman : -SAktiH : -SaktiH
-6810<pc>0327-1<k1>Adatta : -lakzmI : -lakzmi
-6821<pc>0327-2<k1>Adi : °antarvartin : °antaravartin
-6829<pc>0328-2<k1>Aditya : -patryaH : -patraH
-6853<pc>0330-1<k1>AdarSaH : (-lam) : :  remove n. gender
-6945<pc>0334-1<k1>Anandamaya : -yA : -yI
-7402<pc>0351-1<k1>AraH : -AvaliH : -AvalI
-7710<pc>0363-1<k1>AvirBU : kaTamAvirBazyati : kaTamAvirBazyati
-7718<pc>0363-2<k1>Avizya : Avizya : Avizwya : headword change
-7849<pc>0369-2<k1>ASrukarRa : ASrukarRa : ASrutkarRa : headword change
-7995<pc>0375-2<k1>Asyuta : Asyuta : AsyUta : headword change
-32960<pc>1594-2<k1>saMsftiH : Bhāg. 11. 26. 32. : Bhāg. 11. 25. 32. 
-8008<pc>0376-1<k1>Aha : 3rd. pers. sing. Pres. : 3rd. pers. sing. Perf.
-8051<pc>0378-2<k1>AhlAdaH : sAlhAdaM : sAhlAdaM
-8087<pc>0379-a2<k1>ikzuH : pumpion gourd, Cucurbita Pepo : pumpkin gourd, Cucurbita Pepo
-8164<pc>0383-2<k1>indakA : indakA : invakA :
-8171<pc>0383-2<k1>induH : -SaParin : -SaParI
-8282<pc>0391-2<k1>izwakA : P. VI. 3. 35. : P. VI. 3. 65.
-8353<pc>0394-1<k1>IzaH : cf. iz : cf. izaH
-8399<pc>0397-1<k1>ucca : -gira : -gir
-8404<pc>0397-2<k1>uccEH : uScErGozAByeti : uccErGozAByeti
-8526<pc>0401-2<k1>uquH : °paM The constellation : °parkzam The constellation
-8541<pc>0402-1<k1>uRqerakaH : roll-loaf : roll, loaf
-8138<pc>0382-2<k1>itkawaH : ({#ikqI#}) : (<ns>{#ikqI#}</ns>) : a Marathi word in the regional dialect
-8677<pc>0407-2<k1>uttara : last section of book : last section of a book
-8897<pc>0419-2<k1>udan : P. VI. 3. 28. : P. VI. 3. 58.
-8897<pc>0419-2<k1>udan : -vAvaDaH : -vIvaDaH
-9167<pc>0432-1<k1>udyAmata : udyAmata : udyamita : headword change
-8733<pc>0411-2<k1>utpacita : utpacita : utpAcita : headword change
-8803<pc>0414-2<k1>utPulliNga : utPulliNga : utPuliNga : headword change
-8821<pc>0415-2<k1>utsavaH : Kondividu : Koṇḍavīḍu
-8864<pc>0417-2<k1>utsrotas : abasrotas : arvAksrotas
-8925<pc>0421-1<k1>udavasya : {%a.%} : {%ind.%}
-9285<pc>0436-1<k1>unnAhaH : Excess, abund : Excess, abundance
-19011<pc>0915-1<k1>nirRayam : nirRayam : nirRayanam
-7793<pc>0366-1<k1>ASArikaH : ASArikaH : ASarIkaH : headword change
-9516<pc>0445-2<k1>upajaras : upajaras : upajarasam : headword change
-9514<pc>0445-2<k1>upajApaH : treason instigating to rebellion : treason, instigating to rebellion
-9610<pc>0449-2<k1>upaDAtuH : rAtiSca : rItiSca
+4582 : arDa : apart, partly : a part, partly
+4594 : arbudaH : Cordis myxa : Cordia myxa
+4620 : arSas : SuraRa : SUraRa
+4637 : alakaH : Bergera Kaenigii : Bergera Koenigii
+4662 : alam : -DUma a. : -DUma m.
+4692 : alAbumaya : bottle : bottle-gourd
+4639 : alaktaH : red lac, juice : red lac juice
+4938 : avawIwa : puruzopyavawIwaH : puruzo'pyavawIwaH
+4997 : avadAnam : see avadAna : see avadAha
+5047 : avanata :  with stooping; limbs; :  with stooping limbs;
+5551 : avinaSvara : Destructible : Indestructible
+5580 : aviyukta : absent : not absent
+5721 : avyaya : Brahmā : Brahma
+5637 : avisargin : -RI : -gI : cf. ap90, pwg
+5776 : aSakya : inpracticable : impracticable
+5782 : aSabda : Slender, abuse : Slander, abuse
+5818 : aSIrzaka : aSiram : aSiras
+5831 : aSeva : Giving pleasure : Not giving pleasure
+5850 : aSman : pannA : pAnnA
+5896 : aSvatTaH : Faicus Benjamina : Ficus Benjamina
+5909 : aSvinI : the from of a mare : the form of a mare
+5923 : azwan : a class of three : a class of eight
+5952 : astamike : astamike : astamIke 
+6153 : asutfp : asutfp : asutfpa : headword change 
+6155 : asupta : °dfSa : °dfS
+6157 : asura : -rakzas : -rakzasa
+6196 : asOmya : °kfta : °kft :
+6198 : askanna : Not split : Not spilt
+5889 : aSlona : aSlona : aSloRa
+5923 : azwan : -asriya : -asri
+6254 : asmAka :  Ved. for asmAka :  Ved. for AsmAka
+6265 : asraH : -jita : -jit
+6265 : asraH : -jita = aSrajit :  -jit = astrajit
+6272 : asvaka : -asvakIya, -asvika : -asvakIya
+6300 : aham : -kft : -kfta
+6345 : ApiYjara : ApaYjara : ApiYjara
+6319 : ahIna : witness unfit : witness not unfit
+6373 : AkANkza : significancy : significance
+6382 : AkASaH : -garBI : -garBa
+6454 : AkzapAwikaH : arrange : arranger
+6512 : AgamaH : -nirakzepa : -nirapekza
+6396 : AkURita : Contracted, a little : Contracted a little
+6626 : Acitika : tryAcitaka : tryAcitika
+6712 : AQakaH : 64 Prasthas : 4 Prasthas
+6780 : Atman : -SAktiH : -SaktiH
+6810 : Adatta : -lakzmI : -lakzmi
+6821 : Adi : °antarvartin : °antaravartin
+6829 : Aditya : -patryaH : -patraH
+6853 : AdarSaH : (-lam) : :  remove n. gender
+6945 : Anandamaya : -yA : -yI
+7402 : AraH : -AvaliH : -AvalI
+7710 : AvirBU : kaTamAvirBazyati : kaTamAvirBazyati
+7718 : Avizya : Avizya : Avizwya : headword change
+7849 : ASrukarRa : ASrukarRa : ASrutkarRa : headword change
+7995 : Asyuta : Asyuta : AsyUta : headword change
+32960 : saMsftiH : Bhāg. 11. 26. 32. : Bhāg. 11. 25. 32. 
+8008 : Aha : 3rd. pers. sing. Pres. : 3rd. pers. sing. Perf.
+8051 : AhlAdaH : sAlhAdaM : sAhlAdaM
+8087 : ikzuH : pumpion gourd, Cucurbita Pepo : pumpkin gourd, Cucurbita Pepo
+8164 : indakA : indakA : invakA :
+8171 : induH : -SaParin : -SaParI
+8282 : izwakA : P. VI. 3. 35. : P. VI. 3. 65.
+8353 : IzaH : cf. iz : cf. izaH
+8399 : ucca : -gira : -gir
+8404 : uccEH : uScErGozAByeti : uccErGozAByeti
+8526 : uquH : °paM The constellation : °parkzam The constellation
+8541 : uRqerakaH : roll-loaf : roll, loaf
+8138 : itkawaH : ({#ikqI#}) : (<ns>{#ikqI#}</ns>) : a Marathi word in the regional dialect
+8677 : uttara : last section of book : last section of a book
+8897 : udan : P. VI. 3. 28. : P. VI. 3. 58.
+8897 : udan : -vAvaDaH : -vIvaDaH
+9167 : udyAmata : udyAmata : udyamita : headword change
+8733 : utpacita : utpacita : utpAcita : headword change
+8803 : utPulliNga : utPulliNga : utPuliNga : headword change
+8821 : utsavaH : Kondividu : Koṇḍavīḍu
+8864 : utsrotas : abasrotas : arvAksrotas
+8925 : udavasya : {%a.%} : {%ind.%}
+9285 : unnAhaH : Excess, abund : Excess, abundance
+19011 : nirRayam : nirRayam : nirRayanam
+7793 : ASArikaH : ASArikaH : ASarIkaH : headword change
+9516 : upajaras : upajaras : upajarasam : headword change
+9514 : upajApaH : treason instigating to rebellion : treason, instigating to rebellion
+9610 : upaDAtuH : rAtiSca : rItiSca
 -----------------------------------------------------------------
 12-12-2025
 Source: Scott Rhodes, user @Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102#issuecomment-3647228881
 L code : Headword : Old  : New : Comment
-6271 : asva AND 6272 : asvaka.  The compounds (-ga and jAti) are
-   moved from askaka to asva
+6271 : asva : The compounds (-ga and jAti) are moved from askaka to asva
+6272 : asva AND 6272 : asvaka.  The compounds (-ga and jAti) are moved from askaka to asva
 7438 : ArAtIya : P. IV. 2. 104 : P. IV. 2. 114
 6298 : ahan : ahaH, ham or to ahna : ahaH, -haM or to ahna
 8176 : indraH : Indra's weapon ... Bhāg. 10. 44. 22. : Indra's banner ... Bhāg. 10. 44. 22. : 
@@ -467,7 +468,7 @@ Source: users @aumsanskrit, @Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101#issuecomment-37002842552
 L code : Headword : Old  : New : Comment
 2331 : antavat : 2 The god : 2 {%m.%} The god
-2334 : antar : full of strong inside : full or strong inside : [-sAra]
+2334 : antaHsAra : full of strong : full or strong : 
 2374 : antya : 1000 billions (1000,000,000,000,000.) : 1000 trillions (1000,000,000,000,000.)
 2694 : aparavat : a. : ind.
 2734 : aparizkaraH : aparizkaraH : aparizkAraH : headword change
@@ -660,14 +661,14 @@ L code : Headword : Old  : New : Comment
 18923.414 : nirbala : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
 23828 : prAcyaka : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
 26632 : mecakita : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} :
-28841.118 : vANmanasa : <k1>vANmanasa<k2>vANmanasa : <k1>vANmanas<k2>vANmanas : headword change (k1/k2); also {#-manasa#} : {#-manas#} in body
+28841.118 : vANmanasa : <k1>vANmanasa<k2>vANmanasa : <k1>vANmanas<k2>vANmanas : headword change (k1/k2); also {#-manasa#} to {#-manas#} in body
 28989 : vAyava : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} : content of 28989.001 (vAyavI) merged into vAyava
 28989.001 : vAyavI : body text : {{Lbody=28989}} : content moved to 28989 (vAyava)
 31802 : SAkawa : {%<lex>n.</lex>%} : {%<lex>a.</lex>%} : content of 31802.001 (SAkawI) merged into SAkawa
 31802.001 : SAkawI : body text : {{Lbody=31802}} : content moved to 31802 (SAkawa)
 32805 : saMlApaka : {%<lex>n.</lex>%} : {%<lex>m.</lex>%} :
 34587 : sAkUta : {#sAkUtasmita#} : {#sAkUtasmitam#} : definition restructed; Comp. list removed
-34587.020 : sAkUtasmita : sAkUtasmita : sAkUtasmitam : headword change; -smita, -hasita : -smitam, -hasitam in body
+34587.020 : sAkUtasmita : sAkUtasmita : sAkUtasmitam : headword change; -smita, -hasita to -smitam, -hasitam in body
 35448 : sOdarya : sOdarya : sOdaryam : headword change
 35775.076 : sTUlaBUta : -BUta : -BUtam : k2 and body updated (k1 unchanged)
 -----------------------------------------------------------------------

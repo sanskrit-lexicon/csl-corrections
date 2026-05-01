@@ -28,49 +28,113 @@ def get_headword(block_content):
         return match.group(1)
     return "UNKNOWN"
 
-def get_minimal_unique_context(old_val, new_val, block_content, lines, index):
-    # 'lines' is the porcelain word-diff output
-    # 'index' is the index of the '-deleted' line
+def strip_common_prefix(s1, s2):
+    prefix_len = 0
+    for c1, c2 in zip(s1, s2):
+        if c1 == c2:
+            prefix_len += 1
+        else:
+            break
+    return s1[:prefix_len], s1[prefix_len:], s2[prefix_len:]
+
+def strip_common_suffix(s1, s2):
+    suffix_len = 0
+    for c1, c2 in zip(reversed(s1), reversed(s2)):
+        if c1 == c2:
+            suffix_len += 1
+        else:
+            break
+    if suffix_len == 0: return s1, s2
+    return s1[:-suffix_len], s2[:-suffix_len]
+
+def get_minimal_unique_context(old_val, new_val, before_block, after_block, lines, index):
+    # 1. Identify the core difference
+    common_pref, core_old_plus, core_new_plus = strip_common_prefix(old_val, new_val)
+    core_old, core_new = strip_common_suffix(core_old_plus, core_new_plus)
+    common_suff = core_old_plus[len(core_old):]
     
-    current_old = old_val
-    current_new = new_val
+    current_old = core_old
+    current_new = core_new
     
-    # Expand context until unique in block
-    offset = 1
-    while block_content.count(current_old) > 1:
+    # Check if unique and non-blank in both directions
+    def is_safe_unique(old, new):
+        if not old.strip() or not new.strip(): return False
+        return before_block.count(old) == 1 and after_block.count(new) == 1
+
+    # 2. Expand using chunk context
+    pref_idx = len(common_pref) - 1
+    suff_idx = 0
+    
+    while not is_safe_unique(current_old, current_new):
         expanded = False
-        # Try to add word before
-        if index - offset >= 0:
-            prev_line = lines[index - offset]
-            if prev_line.startswith(' '):
-                words = prev_line[1:].split()
-                if words:
-                    context_before = words[-1]
-                    current_old = context_before + " " + current_old
-                    current_new = context_before + " " + current_new
-                    expanded = True
-        
-        # Try to add word after
-        if block_content.count(current_old) > 1:
-            # Find next context line
-            # The next line could be +added, or a context line
-            next_idx = index + (2 if index + 1 < len(lines) and lines[index+1].startswith('+') else 1)
-            if next_idx < len(lines):
-                next_line = lines[next_idx]
-                if next_line.startswith(' '):
-                    words = next_line[1:].split()
-                    if words:
-                        context_after = words[0]
-                        current_old = current_old + " " + context_after
-                        current_new = current_new + " " + context_after
-                        expanded = True
-        
-        if not expanded:
-            break
-        offset += 1
-        if offset > 10: # Safety break
-            break
+        if pref_idx >= 0:
+            current_old = common_pref[pref_idx] + current_old
+            current_new = common_pref[pref_idx] + current_new
+            pref_idx -= 1
+            expanded = True
+            if is_safe_unique(current_old, current_new): break
             
+        if suff_idx < len(common_suff):
+            current_old = current_old + common_suff[suff_idx]
+            current_new = current_new + common_suff[suff_idx]
+            suff_idx += 1
+            expanded = True
+            if is_safe_unique(current_old, current_new): break
+            
+        if not expanded: break
+
+    # 3. If still not safe/unique, expand using surrounding lines
+    if not is_safe_unique(current_old, current_new):
+        offset = 1
+        while not is_safe_unique(current_old, current_new):
+            expanded = False
+            # Backwards
+            back_idx = index - offset
+            if back_idx >= 0:
+                line = lines[back_idx]
+                mark, chunk = line[0], line[1:]
+                for char in reversed(chunk):
+                    if mark == ' ':
+                        current_old = char + current_old
+                        current_new = char + current_new
+                    elif mark == '-':
+                        current_old = char + current_old
+                    elif mark == '+':
+                        current_new = char + current_new
+                    
+                    if is_safe_unique(current_old, current_new): 
+                        expanded = True
+                        break
+                if expanded: break
+                expanded = True
+            # Forwards
+            if not is_safe_unique(current_old, current_new):
+                next_start_idx = index
+                if lines[index].startswith('-') and index + 1 < len(lines) and lines[index+1].startswith('+'):
+                    next_start_idx = index + 1
+                
+                next_idx = next_start_idx + offset
+                if next_idx < len(lines):
+                    line = lines[next_idx]
+                    mark, chunk = line[0], line[1:]
+                    for char in chunk:
+                        if mark == ' ':
+                            current_old = current_old + char
+                            current_new = current_new + char
+                        elif mark == '-':
+                            current_old = current_old + char
+                        elif mark == '+':
+                            current_new = current_new + char
+                        
+                        if is_safe_unique(current_old, current_new):
+                            expanded = True
+                            break
+                    if expanded: break
+                    expanded = True
+            if not expanded: break
+            offset += 1
+            if offset > 30: break
+
     return current_old, current_new
 
 def main():
@@ -108,7 +172,8 @@ def main():
             with open('temp_b.txt', 'w') as f: f.write(before)
             with open('temp_a.txt', 'w') as f: f.write(after)
             
-            word_diff = run_command(['git', 'diff', '--no-index', '--word-diff=porcelain', 'temp_b.txt', 'temp_a.txt'], check=False)
+            # Using a very specific word-diff regex to separate tags and words
+            word_diff = run_command(['git', 'diff', '--no-index', '--word-diff=porcelain', '--word-diff-regex=[^<>[:space:]]+|<[^>]+>', 'temp_b.txt', 'temp_a.txt'], check=False)
             os.remove('temp_b.txt')
             os.remove('temp_a.txt')
             
@@ -134,17 +199,31 @@ def main():
                         added = lines[i+1][1:]
                         found_added = True
                     
-                    old_str, new_str = get_minimal_unique_context(deleted, added, before, lines, i)
+                    old_str, new_str = get_minimal_unique_context(deleted, added, before, after, lines, i)
                     
-                    # Clean up
-                    old_str = old_str.strip().replace('\n', ' ')
-                    new_str = new_str.strip().replace('\n', ' ')
+                    # Clean up: replace real newlines with literal \n
+                    old_str = old_str.strip().replace('\n', '\\n')
+                    new_str = new_str.strip().replace('\n', '\\n')
                     
                     # Ensure we don't have diff artifacts
                     if old_str and not old_str.startswith('--') and not old_str.startswith('++'):
                         changed_entries.append(f"{lcode} : {hw} : {old_str} : {new_str}")
                     
                     if found_added: i += 1
+                elif line.startswith('+'):
+                    added = line[1:]
+                    if not added.strip() or added.startswith('++'):
+                        i += 1
+                        continue
+                    
+                    # This is an orphan addition
+                    old_str, new_str = get_minimal_unique_context("", added, before, after, lines, i)
+                    
+                    old_str = old_str.strip().replace('\n', '\\n')
+                    new_str = new_str.strip().replace('\n', '\\n')
+                    
+                    if new_str and not new_str.startswith('++'):
+                        changed_entries.append(f"{lcode} : {hw} : {old_str} : {new_str}")
                 i += 1
 
     if not changed_entries:
