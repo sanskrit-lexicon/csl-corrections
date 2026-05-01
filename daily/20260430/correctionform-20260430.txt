@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History
 As of May 01, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
 Case 2: 04/30/2026 dict=AP, L=27427.022 , hw=रामायनम्, user=Chandrasekharan Raman
 old = रामायनम्
 new = This headword is invalid
 comment = Invalid headword
-status = PENDING
+status = Corrected 01 May 2026
 ------------------------------------------------------------------------
 
 Case 1: 04/30/2026 dict=AP, L=  26738.006, hw=modakaH, user=Jim
 old = modaka  
 new = modakaka 
 comment = error in compound construction
-status = PENDING
+status = No change required. It is modakaH
 ------------------------------------------------------------------------
 
