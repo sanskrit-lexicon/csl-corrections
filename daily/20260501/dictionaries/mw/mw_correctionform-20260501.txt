@@ -1,24 +1,24 @@
 Sanskrit Lexicon Correction Form History for MW
 As of May 02, 2026
-3 correction records, with 3 PENDING
+3 correction records, with 0 PENDING
 
-Case 8: 05/01/2026 dict=MW, L=48659.2, hw=kārāpaka, user=srhodes
+Case 7: 05/01/2026 dict=MW, L=48659.2, hw=kārāpaka, user=srhodes
 old = (cf. next)
 new = (cf. kāritra)
 comment = Andhrabharati has Confirmed that: This is yet another case for the "Dissociation Category", whereby a reference has lost its Direct Sequential Target. Thus "cf. next", has been rendered completely erroneous in the context of the Main Entry. Please read the VERY informative explanation given by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4359094604
-status = PENDING
+status = Read the explanation, but not sure what to do. We may have to live with such edge cases.
 ------------------------------------------------------------------------
 
 Case 6: 05/01/2026 dict=MW, L=48692.1, hw=kāruṇika, user=srhodes
 old = Double Headword Error
 new = Please note that this is a Supplemental Entry that has been Brought In to the Main Entry Hierarchy. This Supplemental Entry is simply meant to be ADDED to the EXISTING Headword, already present in the Main Entry, rather than being added as a second Duplicate headword. ALSO, this supplemental entry may be marked as MASCULINE, since it is the Name of a BUDDHA, and has no reference to a woman or a hermaphrodite. Please note that this correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4359008236
 comment = Double Headword Error
-status = PENDING
+status = I do not know how to handle such cases. Handling separately at https://github.com/sanskrit-lexicon/csl-corrections/issues/203
 ------------------------------------------------------------------------
 
 Case 5: 05/01/2026 dict=MW, L=66851, hw=gehya, user=jc
 old = géhyá n.
 new = gehyàm n.
-status = PENDING
+status = Corrected 02 May 2026
 ------------------------------------------------------------------------
 

@@ -891,3 +891,8 @@ L code : Headword : Old  : New : Comment
 36226.004 : hatA : hatabudDiH, : hatabudDi,
 36226.052 : hatabudDiH : {#-budDiH#}¦ : {#-budDi#}¦
 -----------------------------------------------------------------------
+05-02-2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/8089dd2
+L code : Headword : Old  : New : Comment
+119 : kArkaRa : peasant : pheasant
+-----------------------------------------------------------------------

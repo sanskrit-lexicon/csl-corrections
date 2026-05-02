@@ -1,16 +1,16 @@
 Sanskrit Lexicon Correction Form History for LRV
 As of May 02, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
 Case 2: 05/01/2026 dict=LRV, L=8512, hw=karmacaṃḍāla, user=srhodes
 old = kṛtajño
 new = kṛtaghno
-status = PENDING
+status = Corrected 02 May 2026
 ------------------------------------------------------------------------
 
 Case 1: 05/01/2026 dict=LRV, L=8497, hw=karmātman, user=srhodes
 old = endowed ith
 new = endowed with
-status = PENDING
+status = Corrected 02 May 2026
 ------------------------------------------------------------------------
 
