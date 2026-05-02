@@ -903,3 +903,8 @@ L code : Headword : Old  : New : Comment
 17765 : drUH : {#drUH#}¦ : {#drU#}¦
 18923.146 : niraham : a. : ind.
 -----------------------------------------------------------------------
+05-02-2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/73eb19d
+L code : Headword : Old  : New : Comment
+11816 : kaSerukaH : kaseruka, : kaserukam,
+-----------------------------------------------------------------------
