@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 02, 2026
+2 correction records, with 2 PENDING
+
+Case 4: 05/01/2026 dict=AP, L=12069, hw=kārkaṇa, user=srhodes
+old = peasant
+new = pheasant
+comment = Typo – Please note that this is a suggested "Print Change", following the MW Dictionary listing AND with reference to the Direct Derivation, from the word "kṛkaṇa".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/01/2026 dict=AP, L=12061.024, hw=kāruśilpigaṇaḥ, user=srhodes
+old = handicrafts-men
+new = handicraftsmen
+comment = Typo – Please note that this correction follows the Printed Page.
+status = PENDING
+------------------------------------------------------------------------
+

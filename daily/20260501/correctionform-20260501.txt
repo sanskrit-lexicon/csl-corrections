@@ -1,0 +1,57 @@
+Sanskrit Lexicon Correction Form History
+As of May 02, 2026
+8 correction records, with 8 PENDING
+
+Case 8: 05/01/2026 dict=MW, L=48659.2, hw=kārāpaka, user=srhodes
+old = (cf. next)
+new = (cf. kāritra)
+comment = Andhrabharati has Confirmed that: This is yet another case for the "Dissociation Category", whereby a reference has lost its Direct Sequential Target. Thus "cf. next", has been rendered completely erroneous in the context of the Main Entry. Please read the VERY informative explanation given by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4359094604
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/01/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/01/2026 dict=MW, L=48692.1, hw=kāruṇika, user=srhodes
+old = Double Headword Error
+new = Please note that this is a Supplemental Entry that has been Brought In to the Main Entry Hierarchy. This Supplemental Entry is simply meant to be ADDED to the EXISTING Headword, already present in the Main Entry, rather than being added as a second Duplicate headword. ALSO, this supplemental entry may be marked as MASCULINE, since it is the Name of a BUDDHA, and has no reference to a woman or a hermaphrodite. Please note that this correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4359008236
+comment = Double Headword Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/01/2026 dict=MW, L=66851, hw=gehya, user=jc
+old = géhyá n.
+new = gehyàm n.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/01/2026 dict=AP, L=12069, hw=kārkaṇa, user=srhodes
+old = peasant
+new = pheasant
+comment = Typo – Please note that this is a suggested "Print Change", following the MW Dictionary listing AND with reference to the Direct Derivation, from the word "kṛkaṇa".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/01/2026 dict=AP, L=12061.024, hw=kāruśilpigaṇaḥ, user=srhodes
+old = handicrafts-men
+new = handicraftsmen
+comment = Typo – Please note that this correction follows the Printed Page.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/01/2026 dict=LRV, L=8512, hw=karmacaṃḍāla, user=srhodes
+old = kṛtajño
+new = kṛtaghno
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/01/2026 dict=LRV, L=8497, hw=karmātman, user=srhodes
+old = endowed ith
+new = endowed with
+status = PENDING
+------------------------------------------------------------------------
+
