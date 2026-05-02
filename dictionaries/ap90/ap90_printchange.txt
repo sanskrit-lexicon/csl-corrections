@@ -47,7 +47,7 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/215
 contains details supporting these changes.
 These changes initiated by Dr. Dhaval Patel
 L code : Headword  : Old :       New       : Comment
-9548 : equ : <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}Â¦ : <P>.{#equ(qU,qo)kaH, --kaM#}Â¦  : change 'or' to comma for consistency; also equ->equkaH
+9548 : equ : <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}¦ : <P>.{#equ(qU,qo)kaH, --kaM#}¦  : change 'or' to comma for consistency; also equ->equkaH
 -----------------------------------------------------------------------
 05-21-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
@@ -88,10 +88,10 @@ batch 200
 609 : atiprAQA : atiprAQA : atiprOQA
 batch 201
 1747 : anapraSnaH : anapraSnaH : anupraSnaH :  before and after words are 'anu'
-5366 : azWamaka : azWamaka : azwamaka
-5828 : Akzapaka : Akzapaka : Akzepaka : prev. word akzI.. : next is akze...
+5366 : azwamaka : azWamaka : azwamaka
+5828 : Akzapaka : Akzapaka : Akzepaka : prev. word akzI.., next is akze...
 6053 : AQayaMkaraRa : AQayaMkaraRa : AQyaMkaraRa
-6135 : ATavaRa : ATavaRa : ATarvaRa
+6135 : ATarvaRa : ATavaRa : ATarvaRa
 6254 : ADya : ADya : ADyE : Cf. DyE in AP90
 6461 : Aprapadani : Aprapadani : AprapadIna
 6540 : ABraka : ABraka : ABrika
@@ -100,8 +100,8 @@ batch 201
 7427 : ilIvizaH : ilIvizaH : ilIbiSaH : Wrong spelling of a name of a demon from RV.
 7428 : ilIzaH : ilIzaH : ilISaH : sergeA thought it should be left unchanged
 7489 : IjAja : IjAja : IjAna : affix कानच् should give आन्
-7848 : uttuga : uttuga : uttuMga: (checked by the source of the quotation : ed. 1815)
-9058 : upahvE : upahvE : upahve : ap90 gives ह्वे : आह्वे
+7848 : uttuga : uttuga : uttuMga: (checked by the source of the quotation - ed. 1815)
+9058 : upahvE : upahvE : upahve : ap90 gives ह्वे, आह्वे
 9329 : uzari : uzari : uzIra : badly printed
 9686 : Ezamaratana : Ezamaratana : Ezamastana : badly printed
 9860 : ApahArika : ApahArika : OpahArika
@@ -133,14 +133,14 @@ batch 204
 18290 : parizkad : parizka(ska)d : parizkaM(skaM)d
 18446 : paryAvataH : paryAvataH : paryAvartaH : lost repha
 18457 : payurpAs : payurpAs : paryupAs : wrong placed repha
-18545 : pastyavat : pastyavat : pastyAvat : changed according to the spelling of RV 1.151.2 : 2.11.16 : 4.54.5 : 8.7.29 : 9.97.18 - always with long ā
+18545 : pastyavat : pastyavat : pastyAvat : changed according to the spelling of RV 1.151.2, 2.11.16, 4.54.5, 8.7.29, 9.97.18 - always with long ā
 18583 : pAcayajYika : pAcayajYika : pAMcayajYika : lost anusvara
 batch 205
 18728 : pAMrataMtrika : pAMrataMtrika : pArataMtrika : wrong anusvara
 18772 : pArikzataH : pArikzataH : pArikzitaH : lost i
 18907 : picaqakaH : picaqakaH : picaMqakaH : lost anusvara. from पिचंडः
 19137 : puroGA : puroGA : puroDA : from puras+dhā
-19501 : prakAqakaH : prakAqakaH : prakAMqakaH : badly printed : lost anusvara
+19501 : prakAqakaH : prakAqakaH : prakAMqakaH : badly printed, lost anusvara
 19701 : prajAM : prajAM : prajA : wrong anusvara
 19950 : pratibAMDin : pratibAMDin : pratibADin : wrong anusvara
 batch 206
@@ -158,7 +158,7 @@ batch 206
 22855 : mahatarakaH : mahatarakaH : mahattarakaH
 batch 207
 24426 : laDaka : laDaka : laMGaka : from लंघ्
-24632 : liGu : liGu : liDu: see explanation of MW: li-dhu from LIṇga+DHātu; also sorted after liṭ
+24632 : liGu : liGu : liDu: see explanation of MW- li-dhu from LIṇga+DHātu; also sorted after liṭ
 24745 : lIkaH : lIkaH : lokaH
 25076 : varamin : varamin : varIman : badly placed diacritics
 batch 208
@@ -201,7 +201,7 @@ L code : Headword  : Old :       New       : Comment
 25529 : vAvavaH :  vAvavaH : vAvayaH :  Presume AP and MW and others are correct in spelling of this plant name.
 
 6249 : ADyakzaM :  ADyakzaM : ADyakzyaM :  zyaY suffix
-9292 : ullaMWanaM :  ullaMWanaM : ulluMWanaM :  Alph. order :  AP :  quote
+9292 : ullaMWanaM :  ullaMWanaM : ulluMWanaM :  Alph. order,  AP,  quote
 11318 : kUhUlaM :  kUhUlaM : kuhUlaM :  alph. order and AP
 15919 : dEviDyaM :  dEviDyaM : dvEviDyaM
 16917 : niMrgraMTanaM :   niMrgraMTanaM : nirgraMTanaM :  first anusvara wrong
@@ -212,15 +212,13 @@ L code : Headword  : Old :       New       : Comment
 23542 : mAwanaM :  mAwanaM : mowanaM :  missing diacritic
 23693 : maBanaM :   maBanaM : yaBanaM :  print unclear
 24164 : riMgiMtaM :  riMgiMtaM : riMgitaM :  Cf. AP; presume 2nd anusvara an error
-
-L = 235 :  aGa : aG :  missing virama
-L = 1341 :  anApta : anAptf :  type=p : cf. ap
-
-4862 :  hw=avasAraRam :  avasAraRam : avasaraRam :  alph. order :  cf. AP
-18934 :  hw=piYjalaM :  piYjalaM : piYjulam  (based on alph. order.). This is distinct from piYjala (adj.)
-24586 :  hw=lAlasokaM :  lAlasokaM : lAlasIkaM :  Cf. AP and SHS gives derivation with Ikan suffix.
-27031 :  hw=vEcityaM :  vEcityaM : vEcittyaM :  cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
-6249 :  hw=ADyakzaM :  ADyakzaM : ADyakzyaM :  zyaY suffix
+235 :  aG : aGa : aG :  missing virama
+1341 : anAptf : anApta : anAptf : cf. ap
+4862 :  avasAraRaM :  avasAraRaM : avasaraRaM :  alph. order - cf. AP
+18934 :  piYjalaM :  piYjalaM : piYjulaM : (based on alph. order.). This is distinct from piYjala (adj.)
+24586 :  lAlasokaM :  lAlasokaM : lAlasIkaM :  Cf. AP and SHS gives derivation with Ikan suffix.
+27031 :  vEcityaM :  vEcityaM : vEcittyaM :  cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
+6249 :  ADyakzaM :  ADyakzaM : ADyakzyaM :  zyaY suffix
 -----------------------------------------------------------------------
 02-03-2017
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
@@ -440,7 +438,6 @@ L code : Headword  : Old :       New       : Comment
 12475 : gAmin : appplying : applying :
 12848 : GagG : laught : laugh at :
 13055 : catur : epethet : epithet :
-13992 : jIvAtu : aloo : OK :
 15513 : dur : riresistible : irresistible :
 16635 : niKan : ercet : erect :
 17205 : nizkfta : rendevous : rendezvous :
@@ -452,8 +449,7 @@ L code : Headword  : Old :       New       : Comment
 22193 : Bizaj : physiciand : physician, doctor :
 22653 : manuzya : amoug : among :
 23945 : raMgaH : nsaal : nasal :
-24134 : rAvaRa : eapis : capi- :
-24369 : rOdra : furiousness : OK :
+24134 : rAvaRa : eapistal. He : capital. He :
 24409 : laGayati : smake : make :
 24702 : lUtA : cobwob : cobweb :
 24745 : lokaH : divison : division :
@@ -504,7 +500,6 @@ L code : Headword  : Old :       New       : Comment
 11213 : kulaM : geneologist : genealogist :
 11509 : kEkeyaH : completey : completely :
 12389 : garhya : cencurable : censurable :
-12518 : giri : moun : moun- :
 16233 : DvajikaH : hyprocrite : hypocrite :
 17468 : nyakza : inferier : inferior :
 17538 : pakzaH : exparte : ex parte :
@@ -560,7 +555,7 @@ L code : Headword  : Old :       New       : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/548
 user chandrasekharanr
 L code : Headword  : Old :       New       : Comment
-22244  : BU        : 1 U.  :  10 U. :
+22244  : BU        : {c1c} <ab>U.</ab>  :  {c10c} <ab>U.</ab> :
 ----------------------------------------------------------------------
 06-21-2021
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/592
@@ -607,7 +602,7 @@ L code : Headword : Old  : New : Comment
 01-26-2024
 Source: Scott Rhodes
 L code : Headword : Old  : New : Comment
-9569  : eDamAna    : eDamAnadfS : eDamAnadviz : cf. MW, PW
+9569  : eDamAna    : {#˚dfS#} : {#˚dviz#} : cf. MW, PW
 13174  : cala    : Moving : Moving, : Added comma for clarity. Rest are separated by comma. Here, it was only a line break.
 ----------------------------------------------------------------------
 06-09-2024
@@ -628,7 +623,7 @@ L code : Headword : Old  : New : Comment
 Source: @funderburkjim
 Ref: https://github.com/sanskrit-lexicon/ap90/issues/issue26 readme_althw_2fix.txt
 L code : Headword : Old  : New : Comment
-10094 : kaRAwInaH : kaRAwArakaH : kaRAwIrakaH : 
+10094 : kaRAwInaH : -wArakaH : -wIrakaH : 
 15164 : datta : dataka : dattaka : 
 ----------------------------------------------------------------------
 08-26-2024
@@ -642,9 +637,9 @@ L code : Headword : Old  : New : Comment
 Source: @aumsanskrit
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/104  ap90
 L code : Headword : Old  : New : Comment
-5765 : AkUtiH : °para : °pra
+5765 : AkUtiH : ˚pra : ˚pra
 4    : aMSaH : --avatAraH, --taraRaM : --avatAraH, --avataraRaM
-144  : akzita : {#--Uti-vasu#} ({#tA°#}) : {#--Uti, --(tA)vasu#} 
+144  : akzita : {#--Uti-vasu#} ({#tA˚#}) : {#--Uti, --(tA)vasu#} 
 821  : adaDryaMc : adaDryaMc : adadryaMc : headword change
 821  : adaDryaMc : aDryAgamaH : adryAgamaH
 853  : adUzita : unspotted : unspoiled
@@ -654,5 +649,5 @@ L code : Headword : Old  : New : Comment
 01-02-2026
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2801
 L code : Headword : Old  : New : Comment
-2631 : apAka : °cakzus : °cakzas
+2631 : apAka : ˚cakzus : ˚cakzas
 ----------------------------------------------------------------------
