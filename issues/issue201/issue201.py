@@ -114,24 +114,17 @@ def get_minimal_unique_context(old_val, new_val, before_block, after_block, line
 
     return current_old, current_new
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python3 issue201.py <commit_hash> [--dry-run]")
-        sys.exit(1)
-
-    commit = sys.argv[1]
-    dry_run = "--dry-run" in sys.argv
-    repo_path = '../../../csl-orig'
-    file_rel_path = 'v02/ap/ap.txt'
-    target_printchange = '../../dictionaries/ap/ap_printchange.txt'
-
+def process_file(commit, file_rel_path, repo_path, dry_run):
+    dictlo = file_rel_path.split('/')[1]
+    target_printchange = f'../../dictionaries/{dictlo}/{dictlo}_printchange.txt'
+    
     # Get the diff for the specific file
     try:
         before_text = run_command(['git', 'show', f'{commit}^:{file_rel_path}'], repo_path)
         after_text = run_command(['git', 'show', f'{commit}:{file_rel_path}'], repo_path)
     except Exception as e:
-        print(f"Error reading commit {commit}: {e}")
-        sys.exit(1)
+        print(f"Error reading commit {commit} for {file_rel_path}: {e}")
+        return
 
     before_blocks = {b['lcode']: b['content'] for b in get_blocks(before_text)}
     after_blocks = {b['lcode']: b['content'] for b in get_blocks(after_text)}
@@ -211,14 +204,14 @@ def main():
                 i += 1
 
     if not changed_entries:
-        print("No specific word changes identified.")
+        print(f"No specific word changes identified in {file_rel_path}.")
         return
 
     # Prepare final output
-    date_str = datetime.datetime.now().strftime("%m-%d-%Y")
+    date_str = datetime.datetime.now().strftime("%m/%d/%Y")
     commit_url = f"https://github.com/sanskrit-lexicon/csl-orig/commit/{commit}"
     
-    output = f"{date_str}\n"
+    output = f"\n{date_str}\n"
     output += f"Ref: {commit_url}\n"
     output += "L code : Headword : Old  : New : Comment\n"
     for entry in changed_entries:
@@ -226,12 +219,46 @@ def main():
     output += "-----------------------------------------------------------------------\n"
 
     if dry_run:
-        print("DRY RUN: Printing output instead of appending.")
+        print(f"DRY RUN for {dictlo}: Printing output instead of appending.")
         print(output)
     else:
-        with open(target_printchange, 'a') as f:
-            f.write(output)
-        print(f"Successfully appended {len(changed_entries)} changes to {target_printchange}")
+        if os.path.exists(target_printchange):
+            with open(target_printchange, 'a') as f:
+                f.write(output)
+            print(f"Successfully appended {len(changed_entries)} changes to {target_printchange}")
+        else:
+            print(f"WARNING: Target file {target_printchange} does not exist. Printing printchange for {dictlo} to stdout:")
+            print(output)
+
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python3 issue201.py <commit_hash> [--dry-run]")
+        sys.exit(1)
+
+    commit = sys.argv[1]
+    dry_run = "--dry-run" in sys.argv
+    repo_path = '../../../csl-orig'
+
+    # Get the list of changed files in the commit
+    try:
+        changed_files = run_command(['git', 'diff-tree', '--no-commit-id', '--name-only', '-r', commit], repo_path).splitlines()
+    except Exception as e:
+        print(f"Error getting changed files for commit {commit}: {e}")
+        sys.exit(1)
+
+    # Filter for dictionary files: v02/dictlo/dictlo.txt
+    dict_files = []
+    for f in changed_files:
+        parts = f.split('/')
+        if len(parts) == 3 and parts[0] == 'v02' and parts[2] == parts[1] + '.txt':
+            dict_files.append(f)
+
+    if not dict_files:
+        print(f"No dictionary files (v02/dictlo/dictlo.txt) found in commit {commit}.")
+        sys.exit(1)
+
+    for dict_file in dict_files:
+        process_file(commit, dict_file, repo_path, dry_run)
 
 if __name__ == "__main__":
     main()
