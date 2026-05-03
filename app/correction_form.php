@@ -4,6 +4,7 @@
    Accepts some url parameters:
     dict  A dictionary identifier
    Sep 7, 2022. Avoid xss security flaw with $_GET['dict']
+   May 3, 2026. Orphus option help
 */
  $dict_default = '?';
  $dict = $dict_default;
@@ -95,9 +96,12 @@ in a day or two.
 
 <h1 class="ss-form-title" dir="ltr">Sanskrit-Lexicon Correction Form </h1>
 <h3>For typographical errors</h3>
+<h3 >Next time, 
+ <a href="orphushelp/orphushelp.html"  target="OrphusHelp"> <span style="color:red">Try Orphus</span></a></h3>
 <div class="ss-form-desc ss-no-ignore-whitespace"> 
 <a href="//www.sanskrit-lexicon.uni-koeln.de/doc/corrections/help.html"
- target="CorrectionHelp">Instructions</a>. (Also help via tooltips).
+ target="CorrectionHelp">Instructions</a>  
+
 </div>
 
 <hr class="ss-email-break" style="display:none;">

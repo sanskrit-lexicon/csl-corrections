@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Orphus How To</title>
+
+<style>
+  body {
+    font-family: system-ui, sans-serif;
+    margin: 2rem;
+    background: #f5f5f7;
+    color: #222;
+    text-align: center;
+  }
+
+  #container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+
+  #step-indicator {
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+
+  /* TEXT CROSSFADE */
+  #text-wrapper {
+    position: relative;
+    height: 1.5rem;  /* was 3.5rem */
+    margin-bottom: 1rem;
+  }
+
+  .text-layer {
+    position: absolute;
+    width: 100%;
+    transition: opacity 0.6s ease;
+    opacity: 0;
+  }
+
+  /* IMAGE CROSSFADE */
+  #image-wrapper {
+    position: relative;
+    height: 400px; /* was 500 */
+    margin-bottom: 1rem;
+    overflow: hidden;
+  }
+
+  .image-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;  /* was 100% */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.6s ease;
+    opacity: 0;
+  }
+
+  .image-layer img {
+    max-width: 100%;
+    max-height: 100%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+
+  #controls {
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  button {
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    background: #0057b8;
+    color: white;
+    cursor: pointer;
+  }
+
+  button:disabled {
+    background: #999;
+    cursor: default;
+  }
+</style>
+</head>
+
+<body>
+
+<div id="container">
+  <h1>Corrections Using Orphus</h1>
+<p style="font-size:larger;"><i><b>
+     Orphus provides a 3-step way of submitting corrections. Give it a try!</b></i><p>
+  <div id="step-indicator"></div> 
+
+  <!-- TEXT CROSSFADE -->
+  <div id="text-wrapper">
+    <div id="textA" class="text-layer"></div>
+    <div id="textB" class="text-layer"></div>
+  </div>
+
+  <!-- IMAGE CROSSFADE -->
+  <div id="image-wrapper">
+    <div id="layerA" class="image-layer"><img></div>
+    <div id="layerB" class="image-layer"><img></div>
+  </div>
+
+  <div id="controls">
+    <button id="prevBtn">Previous</button>
+    <button id="nextBtn">Next</button>
+  </div>
+</div>
+
+<script>
+  const steps = [
+      { img: "orphus1.png",
+	text: "<b>Step 1:</b> <b>select</b> text to be changed" },
+      { img: "orphus2.png",
+	text: "<b>Step 2:</b> Press <b>Ctrl-Enter</b> to begin orphus dialog" },
+      { img: "orphus3.png",
+	text: "<b>Step 3:</b> enter the correction/name fields, <br/>and press <b>Send</b> to submit your correction, or <b>Cancel</b>" }
+  ];
+
+  let index = 0;
+  let showingA = true;
+
+  const indicator = document.getElementById("step-indicator");
+
+  const textA = document.getElementById("textA");
+  const textB = document.getElementById("textB");
+
+  const layerA = document.getElementById("layerA");
+  const layerB = document.getElementById("layerB");
+  const imgA = layerA.querySelector("img");
+  const imgB = layerB.querySelector("img");
+
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+
+  function crossfadeText(newHTML) {
+    if (showingA) {
+      textB.innerHTML = newHTML;
+      textB.style.opacity = 1;
+      textA.style.opacity = 0;
+    } else {
+      textA.innerHTML = newHTML;
+      textA.style.opacity = 1;
+      textB.style.opacity = 0;
+    }
+  }
+
+  function crossfadeImage(newSrc) {
+    if (showingA) {
+      imgB.src = newSrc;
+      layerB.style.opacity = 1;
+      layerA.style.opacity = 0;
+    } else {
+      imgA.src = newSrc;
+      layerA.style.opacity = 1;
+      layerB.style.opacity = 0;
+    }
+    showingA = !showingA;
+  }
+
+  function update() {
+    //indicator.textContent = `Step ${index + 1} of ${steps.length}`;
+
+    prevBtn.disabled = index === 0;
+    nextBtn.disabled = index === steps.length - 1;
+
+    crossfadeText(steps[index].text);
+    crossfadeImage(steps[index].img);
+  }
+
+  // Initial load
+  textA.innerHTML = steps[0].text;
+  textA.style.opacity = 1;
+
+  imgA.src = steps[0].img;
+  layerA.style.opacity = 1;
+
+  update();
+
+  prevBtn.onclick = () => { if (index > 0) { index--; update(); } };
+  nextBtn.onclick = () => { if (index < steps.length - 1) { index++; update(); } };
+</script>
+
+</body>
+</html>
