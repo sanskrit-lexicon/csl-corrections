@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of May 03, 2026
+5 correction records, with 5 PENDING
+
+Case 6: 05/02/2026 dict=SHS, L=9312, hw=karṇāṭa, user=srhodes
+old = Karnata
+new = karṇāṭa
+comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/02/2026 dict=SHS, L=9312, hw=karṇāṭa, user=srhodes
+old = Raga MALAVA
+new = Rāga Mālava
+comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration. Keep in mind, that such corrections assist the User in further looking up such Related Headwords. Without this correct transliteration, the Novice would be "at a loss" for how to properly search this word further. Of course, you may maintain the ALL CAPITAL LETTERS, if such is to your liking.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/02/2026 dict=SHS, L=9312, hw=karṇāṭa, user=srhodes
+old = Raginis
+new = Rāgiṇīs
+comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration. Keep in mind, that such corrections assist the User in further looking up such Related Headwords. Without this correct transliteration, the Novice would be "at a loss" for how to properly search this word further. Also, this could be made a Global Correction using the Singular Form Target: "Ragini" —> "Rāgiṇī".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/02/2026 dict=SHS, L=9378, hw=karmmakara, user=srhodes
+old = see mūrbbā
+new = see mūrvvā
+comment = Typo – Please note that this correction follows the SHS listing of this very word! SKD prints the same: "vv"  NOT  "bb".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/02/2026 dict=SHS, L=9376, hw=karbūrita, user=srhodes
+old = many coloured
+new = many-coloured
+comment = Typo – Please note that this is a suggested "Print Change", following MW dictionary. The usage may be more correct with the hyphen as this Word functions as a SINGLE adjective modifier of a noun (like a garment, etc.).
+status = PENDING
+------------------------------------------------------------------------
+
