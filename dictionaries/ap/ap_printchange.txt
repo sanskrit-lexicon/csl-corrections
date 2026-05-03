@@ -927,3 +927,9 @@ L code : Headword : Old  : New : Comment
 19653      : nyAyya : Ms. 2, 152 : Ms. 2. 152 
 7227       : ABUtiH : Ait. Br. 8. 13. 8 : Ait. Br. 7. 13. 8 
 -----------------------------------------------------------------------
+
+05/03/2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/24d0028fbf5ad646c5ba0b4982cb3cae0a716aa4
+L code : Headword : Old  : New : Comment
+12078 : kArtasvaram : gold (or silver ?); : gold;
+-----------------------------------------------------------------------

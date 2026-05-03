@@ -1,74 +1,60 @@
 Sanskrit Lexicon Correction Form History
 As of May 03, 2026
-10 correction records, with 10 PENDING
+8 correction records, with 0 PENDING
 
-Case 10: 05/02/2026 dict=AP, L=12078, hw=kārtasvaram, user=srhodes
+Case 8: 05/02/2026 dict=AP, L=12078, hw=kārtasvaram, user=srhodes
 old = a kind of gold (or silver ?);
 new = a kind of gold;
 comment = Typo – This is a significant "Print Change", but please bear in mind that "Silver" has no authority hear. The mentioning of "Silver" is simply adding "Confusion" for All Subsequent Sanskrit Enthusiasts. Is there any reason for promoting an Untruth? Andhrabharati approves of this Print Change here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4364236283 LB In our Humility, we leave the final decision up to Dr. Dhaval. We hope that HE will make the right decision and uphold the Vedic Truth which spreads showers light into the world, eliminating the illusion and ignorance which rise from the minds of men with questions yet unanswered. Here, we answer Apte's Question with "Deletion" !
-status = PENDING
+status = Corrected 03 May 2026
 ------------------------------------------------------------------------
 
-Case 9: 05/02/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 8: 05/02/2026 dict=AP, L=12084.004, hw=kārdamaka, user=srhodes
+Case 7: 05/02/2026 dict=AP, L=12084.004, hw=kārdamaka, user=srhodes
 old = kārdamaka
 new = DELETE ENTRY
 comment = Typo – Please note that this is an INCORRECT expansion of APTE's notation. You may consult here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4364213781
-status = PENDING
+status = Corrected 03 May 2026
 ------------------------------------------------------------------------
 
-Case 7: 05/02/2026 dict=PWG, L=49270  , hw=prapad, user=vaibhav.niku
+Case 6: 05/02/2026 dict=PWG, L=49270  , hw=prapad, user=vaibhav.niku
 old = प्र पद्ये
 new = प्रपद्ये 
 comment = Typo (very minor)
-status = PENDING
-------------------------------------------------------------------------
-
-Case 6: 05/02/2026 dict=SHS, L=9312, hw=karṇāṭa, user=srhodes
-old = Karnata
-new = karṇāṭa
-comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration.
-status = PENDING
+status = Corrected 03 May 2026
 ------------------------------------------------------------------------
 
 Case 5: 05/02/2026 dict=SHS, L=9312, hw=karṇāṭa, user=srhodes
-old = Raga MALAVA
-new = Rāga Mālava
-comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration. Keep in mind, that such corrections assist the User in further looking up such Related Headwords. Without this correct transliteration, the Novice would be "at a loss" for how to properly search this word further. Of course, you may maintain the ALL CAPITAL LETTERS, if such is to your liking.
-status = PENDING
+old = Karnata
+new = karṇāṭa
+comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration.
+status = Corrected 03 May 2026. Kept Karṇāṭa, with K capital.
 ------------------------------------------------------------------------
 
 Case 4: 05/02/2026 dict=SHS, L=9312, hw=karṇāṭa, user=srhodes
+old = Raga MALAVA
+new = Rāga Mālava
+comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration. Keep in mind, that such corrections assist the User in further looking up such Related Headwords. Without this correct transliteration, the Novice would be "at a loss" for how to properly search this word further. Of course, you may maintain the ALL CAPITAL LETTERS, if such is to your liking.
+status = Corrected 03 May 2026. Kept MĀLAVA. 
+------------------------------------------------------------------------
+
+Case 3: 05/02/2026 dict=SHS, L=9312, hw=karṇāṭa, user=srhodes
 old = Raginis
 new = Rāgiṇīs
 comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration. Keep in mind, that such corrections assist the User in further looking up such Related Headwords. Without this correct transliteration, the Novice would be "at a loss" for how to properly search this word further. Also, this could be made a Global Correction using the Singular Form Target: "Ragini" —> "Rāgiṇī".
-status = PENDING
-------------------------------------------------------------------------
-
-Case 3: 05/02/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 03 May 2026
 ------------------------------------------------------------------------
 
 Case 2: 05/02/2026 dict=SHS, L=9378, hw=karmmakara, user=srhodes
 old = see mūrbbā
 new = see mūrvvā
 comment = Typo – Please note that this correction follows the SHS listing of this very word! SKD prints the same: "vv"  NOT  "bb".
-status = PENDING
+status = Corrected 03 May 2026
 ------------------------------------------------------------------------
 
 Case 1: 05/02/2026 dict=SHS, L=9376, hw=karbūrita, user=srhodes
 old = many coloured
 new = many-coloured
 comment = Typo – Please note that this is a suggested "Print Change", following MW dictionary. The usage may be more correct with the hyphen as this Word functions as a SINGLE adjective modifier of a noun (like a garment, etc.).
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 

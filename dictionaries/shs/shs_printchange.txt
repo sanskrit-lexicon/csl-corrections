@@ -1225,3 +1225,29 @@ code : Headword : Old  : New : Comment
 6128 : AhiRqika : Vaidehi : Vaidehī : 
 10072 : kArAvara : Vaidehi : Vaidehī : 
 -----------------------------------------------------------------------
+05-03-2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/836811e1c80df8cb3fd3b2fb3c695e7b077d0163
+L code : Headword : Old  : New : Comment
+9312 : karRAwa : Karnata, : Karṇāṭa,
+9312 : karRAwa : de of the Raga : de of the Rāga
+9312 : karRAwa : MALAVA. : MĀLAVA.
+-----------------------------------------------------------------------05-03-2026
+05-03-2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/613bad844279a53d0ad136be8593968b356a8bb7
+L code : Headword : Old  : New : Comment
+5578 : ABerI : Raginis : Rāgiṇīs
+8471 : kakuB : Ragini : Rāgiṇī
+8472 : kakuBa : Raginis : Rāgiṇīs
+9312 : karRAwa : Raginis : Rāgiṇīs
+10010 : kAmodA : Ragini, : Rāgiṇī,
+10537 : kukuBA : Raginis. : Rāgiṇīs.
+13575 : gujjarI : Raginis, : Rāgiṇīs,
+13738 : gurjjara : Raginis : Rāgiṇīs
+14116 : gOqa : Raginis. : Rāgiṇīs.
+14125 : gOra : Raginis. : Rāgiṇīs.
+15437 : cevI : Raginis : Rāgiṇīs
+16680 : JUmeri : Raginis, : Rāgiṇīs,
+18204 : trowakI : Ragini : Rāgiṇī
+19052 : dIpaka : Raginis : Rāgiṇīs
+22440 : nIla : Ragini : Rāgiṇī
+-----------------------------------------------------------------------
