@@ -430,7 +430,7 @@ L code : Headword : Old  : New : Comment
 8541 : uRqerakaH : roll-loaf : roll, loaf
 8138 : itkawaH : ({#ikqI#}) : (<ns>{#ikqI#}</ns>) : a Marathi word in the regional dialect
 8677.080 : uttarakARqam : last section of book : last section of a book
-8897.057 : udapezam : P. VI. 3. 28. : P. VI. 3. 58.
+8897.057 : udapezam : P. VI. 3. 28 : P. VI. 3. 58
 8897.092 : udavIvaDaH : -vAvaDaH : -vIvaDaH
 9167 : udyAmata : udyAmata : udyamita : headword change
 8733 : utpacita : utpacita : utpAcita : headword change
@@ -467,7 +467,7 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/101#issuecomment
 L code : Headword : Old  : New : Comment
 2331 : antavat : 2 The god : 2 {%m.%} The god
 2334 : antaHsAra : full of strong : full or strong : 
-2374.006 : antyam : 1000 billions (1000,000,000,000,000) : 1000 trillions (1000,000,000,000,000.)
+2374.006 : antyam : 1000 billions (1000,000,000,000,000) : 1000 trillions (1000,000,000,000,000)
 2694 : aparavat : a. : ind.
 2734 : aparizkaraH : aparizkaraH : aparizkAraH : headword change
 2908 : apAka : ˚cakzus : ˚cakzas
