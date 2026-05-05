@@ -99,7 +99,7 @@ def main():
         for idx in target_indices:
             block_lines = modified_sections[idx]
             total_count = 0
-            used_val = None
+            used_val = '(unknown)'
             
             new_block_lines = []
             for line in block_lines:
@@ -119,21 +119,19 @@ def main():
                     if s_val in line:
                         pattern = re.escape(s_val)
                         matches = list(re.finditer(pattern, line))
-                    else:
+                    elif sum(1 for c in s_val if not c.isspace()) >= 2:
                         sep_pattern = r'(?:[-\s¦]|{.*?}|<.*?>)*'
                         regex_str = sep_pattern.join([re.escape(c) for c in s_val if not c.isspace()])
-                        if regex_str:
-                            try:
-                                matches = list(re.finditer(regex_str, line))
-                            except re.error:
-                                matches = []
+                        try:
+                            matches = list(re.finditer(regex_str, line))
+                        except re.error:
+                            matches = []
                     
                     if matches:
                         line_used_val = s_val
                         break
                 
                 if matches:
-                    line_found_any = True
                     used_val = line_used_val
                     total_count += len(matches)
                     
@@ -191,6 +189,9 @@ def main():
                     print(f"{YELLOW}WARNING: {lcode} - neither old nor new value found in block{RESET}")
                 else:
                     print(f"{YELLOW}WARNING: {lcode} - L number not found AND Headword '{hw}' not found in {orig_file}{RESET}")
+
+    applied = sum(1 for c in changes if c['found_any'])
+    print(f"Applied {applied} / {len(changes)} changes.")
 
     # Reconstruct the file content
     new_content_parts = []
