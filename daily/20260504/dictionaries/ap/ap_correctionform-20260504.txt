@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP
 As of May 05, 2026
-2 correction records, with 2 PENDING
+2 correction records, with 0 PENDING
 
 Case 5: 05/04/2026 dict=AP, L=12103.048, hw=kāryakāraṇe, user=srhodes
 old = TWO COMPOUNDS MISSING !
 new = ALERT ALERT !  Please note that the OFFICIAL definitions of the Headword "kāryakāraṇe" END WITH the following source citation: "Pt. 1. 412".  AFTER THIS POINT – TWO ADDITIONAL MISSING COMPOUNDS FOLLOW AS: LB 1)  THE ADDITIONAL COMPOUND: " ˚bhāvaḥ" ——EXPANDING INTO——> "kāryakāraṇabhāvaḥ". This ADDITIONAL COMPOUND MUST BE LISTED INDEPENDENTLY! Therefore Please add the Compound "kāryakāraṇabhāvaḥ" to the Hierarchy List Column as a Searchable Headword, along with its related definition: "the relation of cause and effect."  LB 2)  THE ADDITIONAL COMPOUND: " ˚saṃbandhaḥ" ——EXPANDING INTO——> "kāryakāraṇasaṃbandhaḥ". This ADDITIONAL COMPOUND MUST BE LISTED INDEPENDENTLY! Therefore Please add the Compound "kāryakāraṇasaṃbandhaḥ" to the Hierarchy List Column as a Searchable Headword, along with its related definition: "The relation of cause and effect. In mīmāṃsā this is established by the rule of anvayavyatireka (i. e. tadbhāve bhāvaḥ tadabhāve abhāvaḥ) The earliest exposition of this expression is found in the śābarabhāṣya on MS. 4. 3. 2 ; cf. kāryakāraṇasambandho nāma sa bhavati, yasmin sati yad bhavati yasmiṃścāsati yanna bhavati, tatraiva kāryakāraṇasaṃbandhaḥ . This should be contrasted with the naiyāyika view of anvaya-vyatireka which they use for establishing vyāpti."  LB 3) ALSO, Please note that these TWO MISSING COMPOUNDS, must be included in the OFFICIAL LIST of Compounds given in the Window Display of the HEADWORD: "kārya" !
 comment = TWO COMPOUNDS MISSING !
-status = PENDING
+status = Already being handled at https://github.com/sanskrit-lexicon/AP/issues/17. Will implement whenever I get that much of time.
 ------------------------------------------------------------------------
 
 Case 4: 05/04/2026 dict=AP, L=12103.002, hw=kāryam, user=srhodes
 old = law-suit
 new = lawsuit
 comment = Typo – Please note that this is an Exceptional Case that needs correction. The "Hyphen" here is simply incorrect. Do your own research! Readers should not be suffering such incompetence as is being maintained by Cologne Dictionaries, against my humble submissions. Therefore, please make this a Global Correction and thereby ease the pain of "Hyphenated Suffering" !
-status = PENDING
+status = No change required. Hyphenated pain is mostly an American English phenomenon. For British / Indian English, this was and is not an issue at all.
 ------------------------------------------------------------------------
 

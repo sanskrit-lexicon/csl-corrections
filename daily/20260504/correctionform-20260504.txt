@@ -1,51 +1,44 @@
 Sanskrit Lexicon Correction Form History
 As of May 05, 2026
-7 correction records, with 7 PENDING
+6 correction records, with 0 PENDING
 
-Case 7: 05/04/2026 dict=MW, L=48880, hw=kāryacintaka, user=srhodes
+Case 6: 05/04/2026 dict=MW, L=48880, hw=kāryacintaka, user=srhodes
 old = prudent, cautious.
 new = mfn. prudent, cautious.
 comment = Typo – Please note that these TWO words are clearly adjectives, as they will require a Substantive to Carry Their Stated Quality! 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 6: 05/04/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 05 May 2026
 ------------------------------------------------------------------------
 
 Case 5: 05/04/2026 dict=AP, L=12103.048, hw=kāryakāraṇe, user=srhodes
 old = TWO COMPOUNDS MISSING !
 new = ALERT ALERT !  Please note that the OFFICIAL definitions of the Headword "kāryakāraṇe" END WITH the following source citation: "Pt. 1. 412".  AFTER THIS POINT – TWO ADDITIONAL MISSING COMPOUNDS FOLLOW AS: LB 1)  THE ADDITIONAL COMPOUND: " ˚bhāvaḥ" ——EXPANDING INTO——> "kāryakāraṇabhāvaḥ". This ADDITIONAL COMPOUND MUST BE LISTED INDEPENDENTLY! Therefore Please add the Compound "kāryakāraṇabhāvaḥ" to the Hierarchy List Column as a Searchable Headword, along with its related definition: "the relation of cause and effect."  LB 2)  THE ADDITIONAL COMPOUND: " ˚saṃbandhaḥ" ——EXPANDING INTO——> "kāryakāraṇasaṃbandhaḥ". This ADDITIONAL COMPOUND MUST BE LISTED INDEPENDENTLY! Therefore Please add the Compound "kāryakāraṇasaṃbandhaḥ" to the Hierarchy List Column as a Searchable Headword, along with its related definition: "The relation of cause and effect. In mīmāṃsā this is established by the rule of anvayavyatireka (i. e. tadbhāve bhāvaḥ tadabhāve abhāvaḥ) The earliest exposition of this expression is found in the śābarabhāṣya on MS. 4. 3. 2 ; cf. kāryakāraṇasambandho nāma sa bhavati, yasmin sati yad bhavati yasmiṃścāsati yanna bhavati, tatraiva kāryakāraṇasaṃbandhaḥ . This should be contrasted with the naiyāyika view of anvaya-vyatireka which they use for establishing vyāpti."  LB 3) ALSO, Please note that these TWO MISSING COMPOUNDS, must be included in the OFFICIAL LIST of Compounds given in the Window Display of the HEADWORD: "kārya" !
 comment = TWO COMPOUNDS MISSING !
-status = PENDING
+status = Already being handled at https://github.com/sanskrit-lexicon/AP/issues/17. Will implement whenever I get that much of time.
 ------------------------------------------------------------------------
 
 Case 4: 05/04/2026 dict=AP, L=12103.002, hw=kāryam, user=srhodes
 old = law-suit
 new = lawsuit
 comment = Typo – Please note that this is an Exceptional Case that needs correction. The "Hyphen" here is simply incorrect. Do your own research! Readers should not be suffering such incompetence as is being maintained by Cologne Dictionaries, against my humble submissions. Therefore, please make this a Global Correction and thereby ease the pain of "Hyphenated Suffering" !
-status = PENDING
+status = No change required. Hyphenated pain is mostly an American English phenomenon. For British / Indian English, this was and is not an issue at all.
 ------------------------------------------------------------------------
 
 Case 3: 05/04/2026 dict=SHS, L=9409, hw=karmmabhūla, user=srhodes
 old = karmmabhūla
 new = karmmamūla
-status = PENDING
+status = Corrected 05 May 2026
 ------------------------------------------------------------------------
 
 Case 2: 05/04/2026 dict=SHS, L=9408, hw=karmmabhūmi, user=srhodes
 old = Aryavarta
 new = Āryāvarta
 comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration. Keep in mind, that such corrections assist the User in further looking up such Related Headwords. Without this correct transliteration, the Novice would be "at a loss" for how to properly search this word further. Also, this could be made a Global Correction using the Singular Form Target: "Aryavarta" —> "Āryāvarta".
-status = PENDING
+status = Corrected 05 May 2026
 ------------------------------------------------------------------------
 
 Case 1: 05/04/2026 dict=SHS, L=9408, hw=karmmabhūmi, user=srhodes
 old = the hole of India
 new = the whole of India
-status = PENDING
+status = Corrected 05 May 2026
 ------------------------------------------------------------------------
 
