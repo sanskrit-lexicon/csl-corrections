@@ -21,7 +21,7 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/201
 contains details supporting these changes.
 Dhaval Patel, Jim Funderburk
 L     : headword : old    : new     : comment
-26119 : saMntya : saMntya : santya : Print has M and n. Since CAE shows 'santya', use 'n'
+26119 : santya : saMntya : santya : Print has M and n. Since CAE shows 'santya', use 'n'
 -----------------------------------------------------------------------
 04-04-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261
@@ -41,34 +41,34 @@ L     : headword : old    : new     : comment
 5464 : kotukaguha : kotukaguha : kOtukagfha : 
 6073 : gadaBa : gadaBa : gardaBa/ : 
 6012 : ganta : ga/nta : ga/ntu : 
-11439 : cadInATa : cadInATa : nadInATa : 
+11440 : nadInATa : cadInATa : nadInATa : 
 6956 : cAndAyaRa : cAndAyaRa : cAndrAyaRa : 
-7122 : cumbu : cumbu : cumb : cae has 'cumb'. ? Not sure if final 'u' could be a verb anubanDa. : ejf: Corrected 04/05/2016
-17864 : taRqUkapluti : taRqUkapluti : maRqUkapluti : 
-8407 : tAtfpARa : tAtfpARa : tAtfzARa : cf. mw. Participle of tfp (= tarp in ccs) : ejf: Corrected 04/05/2016
-8754 : tuRIra : tuRIra : tURIra : cf. MW : ejf: Corrected 04/05/2016
-9694 : diNganAga : diNganAga : diNnAga : cf. mw : ejf: Corrected 04/05/2016
-9695 : diNganATa : diNganATa : diNnATa : cf. mw : ejf: Corrected 04/05/2016
-29856 : draDIyaMs : draDIyaMs : draQIyaMs : supplement. Also draDizWa -> draQizWa in entry : ejf: Corrected 04/05/2016
-11081 : DArADiruWa : DArADiruWa : DArADirUQa : text has rUWa, but CAE, MW, etc have rUQa : ejf: Corrected 04/05/2016
-12151 : nidavaDi : nidavaDi : niravaDi : 
-12126 : nirantarokaRWA : nirantarokaRWA : nirantarotkaRWA : cf. cae, mw : ejf: Corrected 04/05/2016
-12738 : nUnaB : nUnaB : nUnam : B->m : ejf: Corrected 04/05/2016
-13189 : paktorRa : paktorRa : pattrorRa : text missing 'r'. pakt is typo : ejf: Corrected 04/05/2016
-15541 : patyutTAna : patyutTAna : pratyutTAna : print missing 'r' : ejf: Corrected 04/05/2016
-15548 : patyupahAra : patyupahAra : pratyupahAra : print missing 'r' : ejf: Corrected 04/05/2016
-15283 : pratvikramaRa : pratvikra/maRa : pratikra/maRa : scan has pratvikramaRa : ejf: Corrected 04/05/2016
-16681 : bAlarAmAyARa : bAlarAmAyARa : bAlarAmAyaRa : cf acc, mw, pw,pwg : ejf: Corrected 04/05/2016
-16730 : bAhUbAhAvi : bAhUbAhAvi : bAhUbAhavi : cf cae, mw, etc. : ejf: Corrected 04/05/2016
-17019 : brahmopanizada : brahmopanizada : brahmopanizad : cf acc, mw, etc. : ejf: Corrected 04/05/2016
-18674 : manayitavya : manayitavya : mAnayitavya : cf. cae, mw, etc. : ejf: Corrected 04/05/2016
-19514 : yatrodBata : yatrodBata : yatrodBUta : cf. cae, mw : ejf: Corrected 04/05/2016
-20670 : romararza : romararza : romaharza : 
-21859 : vAtopaSfzwa : vAtopaSfzwa : vAtopaspfzwa : cf. cae, and mw/pw vAtopasfzwa ? : ejf: Corrected 04/05/2016
+7122 : cumbu : cumbu : cumb : cae has 'cumb'. ? Not sure if final 'u' could be a verb anubanDa. ejf Corrected 04/05/2016
+17864 : maRqUkapluti : taRqUkapluti : maRqUkapluti : 
+8407 : tAtfzARa : tAtfpARa : tAtfzARa : cf. mw. Participle of tfp (= tarp in ccs)  ejf Corrected 04/05/2016
+8754 : tURIra : tuRIra : tURIra : cf. MW. ejf Corrected 04/05/2016
+9694 : diNnAga : diNganAga : diNnAga : cf. mw. ejf Corrected 04/05/2016
+9695 : diNnATa : diNganATa : diNnATa : cf. mw. ejf Corrected 04/05/2016
+29856 : draDIyaMs : draDIyaMs : draQIyaMs : supplement. Also draDizWa -> draQizWa in entry.  ejf Corrected 04/05/2016
+11081 : DArADirUQa : DArADiruWa : DArADirUQa : text has rUWa, but CAE, MW, etc have rUQa. ejf Corrected 04/05/2016
+12151 : niravaDi : nidavaDi : niravaDi : 
+12127 : nirantarotkaRWA : nirantarokaRWA : nirantarotkaRWA : cf. cae, mw. ejf Corrected 04/05/2016
+12738 : nUnam : nUnaB : nUnam : B->m. ejf Corrected 04/05/2016
+13190 : pattrorRa : paktorRa : pattrorRa : text missing 'r'. pakt is typo. ejf Corrected 04/05/2016
+15542 : pratyutTAna : patyutTAna : pratyutTAna : print missing 'r'. ejf Corrected 04/05/2016
+15548 : pratyupahAra : patyupahAra : pratyupahAra : print missing 'r'. ejf Corrected 04/05/2016
+15283 : pratikramaRa : pratvikra/maRa : pratikra/maRa : scan has pratvikramaRa. ejf Corrected 04/05/2016
+16682 : bAlarAmAyaRa : bAlarAmAyARa : bAlarAmAyaRa : cf acc, mw, pw,pwg. ejf Corrected 04/05/2016
+16730 : bAhUbAhavi : bAhUbAhAvi : bAhUbAhavi : cf cae, mw, etc.. ejf Corrected 04/05/2016
+17019 : brahmopanizad : brahmopanizada : brahmopanizad : cf acc, mw, etc.. ejf Corrected 04/05/2016
+18674 : mAnayitavya : manayitavya : mAnayitavya : cf. cae, mw, etc.. ejf Corrected 04/05/2016
+19514 : yatrodBUta : yatrodBata : yatrodBUta : cf. cae, mw. ejf Corrected 04/05/2016
+20670 : romaharza : romararza : romaharza : 
+21859 : vAtopaspfzwa : vAtopaSfzwa : vAtopaspfzwa : cf. cae, and mw/pw vAtopasfzwa ?. ejf Corrected 04/05/2016
 22291 : vivigIzA : vivigIzA : vijigIzA : 
-23672 : vOqra : vOqra : voqra : cf. cae. : ejf: Corrected 04/05/2016
-26694 : sammIlata : sammIlata : saMmIlita : 
-29003 : srargaloka : srarga/loka : svarga/loka : 
+23672 : vOqra : vOqra : voqra : cf. cae.. ejf Corrected 04/05/2016
+26694 : saMmIlita : sammIlata : saMmIlita : 
+29002 : svargaloka : srarga/loka : svarga/loka : 
 29285 : harviryajYa : harviryajYa : haviryajYa : 
 -----------------------------------------------------------------------
 04-07-2016
@@ -89,14 +89,14 @@ L     : headword : old    : new     : comment
 18124 : mantArADana : mantArADana : mantrArADana : 
 18602 : mARavakra : mARavakra : mARavaka : 'r' is maybe print smudge
 19689 : yavasvin : yavasvi/n : yaSasvi/n : 
-21036 : lolokti : lolokti : lokokti : 
-22497 : viDaray : viDaray : viDuray : the 'u' diacritic missing on this bottom line
-23385 : vfzamanas : vf/zamanas : vf/zamaRas : cf. cae, mw for retroflex nasal
-24103 : Satruzah : Satruza/h : SatrUza/h : cf. cae, mw. Restores alphabetical order
-25747 : sakIrtana : sakIrtana : saMkIrtana : 
-25908 : sahomahant : saho/mahant : sato/mahant : Also mis-spelled in CAE
-27291 : sAtapana : sAtapana : sAntapana : cae, mw have sAMtapana.
-29081 : svAdizwa : svA/dizwa : svA/dizWa : mw, ap, etc. have 'W' as superl. of svAdu
+21036 : lokokti : lolokti : lokokti : 
+22497 : viDuray : viDaray : viDuray : the 'u' diacritic missing on this bottom line
+23385 : vfzamaRas : vf/zamanas : vf/zamaRas : cf. cae, mw for retroflex nasal
+24103 : SatrUzah : Satruza/h : SatrUza/h : cf. cae, mw. Restores alphabetical order
+25747 : saMkIrtana : sakIrtana : saMkIrtana : 
+25908 : satomahant : saho/mahant : sato/mahant : Also mis-spelled in CAE
+27291 : sAntapana : sAtapana : sAntapana : cae, mw have sAMtapana.
+29081 : svAdizWa : svA/dizwa : svA/dizWa : mw, ap, etc. have 'W' as superl. of svAdu
 -----------------------------------------------------------------------
 04-12-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275
@@ -106,7 +106,7 @@ L     : headword : old    : new     : comment
 6610 : GArmAmbu : GArmAmbu : GarmAmbu : cf. PW, MW. Both cae and ccs have same mis-spelling
 9438 : daparja : daparja : darpaja : Also in cae
 10173 : dUradaSarna : dUradaSarna : dUradarSana : Also in cae
-11975 : nitedin : nitedi/n : nitod/in : 
+11975 : nitodin : nitedi/n : nitodi/n : 
 25276 : SrOtrasUtra : SrOtrasUtra : SrOtasUtra : also error in cae
 27907 : supratizwita : supratizwita : supratizWita : also error in cae
 28710 : snuzo : snuzo : snuzA : also error in cae
@@ -117,7 +117,7 @@ contains document references for these changes.
 Jim Funderburk
 L     : headword : old    : new     : comment
 2601 : Atmaboda : Atmaboda : AtmaboDa : cf mw, etc.
-3180 : INKa : INKa : INK : DAtu, missing virAma.
+3180 : INKa : {#INKa#} : {#INK#} : DAtu, missing virAma.
 5379 : kenezitopanizada : kenezitopanizada : kenezitopanizad : print missing virAma
 8725 : tuvizWama : tuvi/zWama : tuvi/zwama : presume 'zw' is correct, acc. to MW, PW
 11660 : nazwacezWa : nazwacezWa : nazwacezwa : 'cezwa' is word in cae and many others. Presume 'zW' is misprint
@@ -147,5 +147,5 @@ L code : Headword : Old  : New : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/286
 Frank Ziesing
 L code : Headword : Old  : New : Comment
-15221  : prajYa   : jyatA : prajYatA : new headword
+15221.1  : prajYatA   : jyatA : prajYatA : new headword
 -----------------------------------------------------------------------
