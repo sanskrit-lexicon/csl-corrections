@@ -945,3 +945,33 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/c2cd436
 L code : Headword : Old  : New : Comment
 12094.002 : kArmaRam : witch-craft; : witchcraft;
 -----------------------------------------------------------------------
+
+05/05/2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/6b5cd78
+L code : Headword : Old  : New : Comment
+860 : atyAnandA : a. : f. :
+7527.042 : ArdramAzA : a. : f.
+7527.042 : ArdramAzA : %} : %} a
+11860.108 : kAkaruhA : a. : f.
+11860.108 : kAkaruhA : %} : %} a
+12189.040 : kAzWacitA : a. : f.
+12189.040 : kAzWacitA : %} : %} a
+12576.110 : kulajAyA : a. : f.
+12576.110 : kulajAyA : %} : %} a
+13814.020 : ganDakapezikA : a. : f.
+13814.020 : ganDakapezikA : %} : %} a
+13942 : gavyA : a. : f.
+14066.020 : gItyAryA : a. : f.
+14066.020 : gItyAryA : %} : %} a
+15673 : jIvA : a. : f.
+16113.066 : tanulatA : a. : f.
+16113.066 : tanulatA : %} : %} a
+17251.026 : dAvalatA : a. : f.
+17251.026 : dAvalatA : %} : %} a
+19010.020 : nirRayopamA : a. : f.
+19010.020 : nirRayopamA : %} : %} a
+20466.020 : parivarjitasaMKyA : {#-saMKyA#}¦ : {#-saMKya#}¦
+35712.022 : sTalIBUtA : {#-BUtA#}¦ : {#-BUta#}¦
+36226.036 : hatacCAyA : {#-cCAyA#}¦ : {#-cCAya#}¦
+36478.036 : hInapratijYA : {#-pratijYA#}¦ : {#-pratijYa#}¦
+-----------------------------------------------------------------------
