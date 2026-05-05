@@ -4,13 +4,15 @@ import sys
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python3 issue87.py <dict_code>")
+        print("Usage: python3 issue87.py <dict_code> [change_file_path]")
         sys.exit(1)
         
     dict_code = sys.argv[1]
-    
-    # Paths relative to issues/issue87/
-    change_file = os.path.join('..', '..', 'dictionaries', dict_code, f'{dict_code}_printchange.txt')
+    if len(sys.argv) > 2:
+        change_file = sys.argv[2]
+    else:
+        change_file = os.path.join('..', '..', 'dictionaries', dict_code, f'{dict_code}_printchange.txt')
+        
     orig_file = os.path.join('..', '..', '..', 'csl-orig', 'v02', dict_code, f'{dict_code}.txt')
     output_file = f'temp_{dict_code}.txt'
     
@@ -25,6 +27,13 @@ def main():
     if not os.path.exists(orig_file):
         print(f"Error: Original file {orig_file} not found.")
         sys.exit(1)
+
+    # Determine tag type
+    basename = os.path.basename(change_file)
+    if 'printchange' in basename:
+        start_tag, end_tag = '{{', '}}'
+    else:
+        start_tag, end_tag = '[[', ']]'
 
     # Read changes
     changes = []
@@ -78,50 +87,78 @@ def main():
             hw_to_indices[hw] = []
         hw_to_indices[hw].append(i)
 
-    # modified_sections initialized with original content
-    modified_sections = {i: all_entries[i].group(0) for i in range(len(all_entries))}
+    # modified_sections initialized with original content (split into lines)
+    modified_sections = {i: all_entries[i].group(0).split('\n') for i in range(len(all_entries))}
     
     def try_replace(target_indices, change_data, requested_lcode, is_fallback=False):
         found_any = False
         new_val = change_data['new']
         old_val = change_data['old']
         hw_val = change_data['headword']
-        actual_lcode = None
         
         for idx in target_indices:
-            block_content = modified_sections[idx]
+            block_lines = modified_sections[idx]
+            total_count = 0
+            used_val = None
             
-            matches = []
-            if new_val in block_content:
-                pattern = re.escape(new_val)
-                matches = list(re.finditer(pattern, block_content))
-            else:
-                sep_pattern = r'(?:[-\s¦]|{.*?}|<.*?>)*'
-                regex_str = sep_pattern.join([re.escape(c) for c in new_val if not c.isspace()])
-                try:
-                    matches = list(re.finditer(regex_str, block_content))
-                except re.error:
-                    matches = []
+            new_block_lines = []
+            for line in block_lines:
+                if line.startswith('<L>'):
+                    new_block_lines.append(line)
+                    continue
+                
+                matches = []
+                search_vals = []
+                if new_val:
+                    search_vals.append(new_val)
+                if old_val and old_val != new_val:
+                    search_vals.append(old_val)
+                
+                line_used_val = None
+                for s_val in search_vals:
+                    if s_val in line:
+                        pattern = re.escape(s_val)
+                        matches = list(re.finditer(pattern, line))
+                    else:
+                        sep_pattern = r'(?:[-\s¦]|{.*?}|<.*?>)*'
+                        regex_str = sep_pattern.join([re.escape(c) for c in s_val if not c.isspace()])
+                        if regex_str:
+                            try:
+                                matches = list(re.finditer(regex_str, line))
+                            except re.error:
+                                matches = []
+                    
+                    if matches:
+                        line_used_val = s_val
+                        break
+                
+                if matches:
+                    line_found_any = True
+                    used_val = line_used_val
+                    total_count += len(matches)
+                    
+                    tag_content = f"{old_val}->{new_val}"
+                    replacement_tag = f"{start_tag}{tag_content}{end_tag}"
+                    
+                    for m in reversed(matches):
+                        line = line[:m.start()] + replacement_tag + line[m.end():]
+                
+                new_block_lines.append(line)
             
-            if matches:
+            if total_count > 0:
                 found_any = True
-                count = len(matches)
                 
                 if is_fallback:
-                    msg_body = f"No match found in Lcode {requested_lcode} - Searched via Headword - {hw_val} - Replaced {count} occurrence(s) of '{new_val}' with choice tag."
+                    msg_body = f"No match found in Lcode {requested_lcode} - Searched via Headword - {hw_val} - Tagged {total_count} occurrence(s) of '{used_val}'."
                 else:
-                    msg_body = f"{requested_lcode} - Replaced {count} occurrence(s) of '{new_val}' with choice tag."
+                    msg_body = f"{requested_lcode} - Tagged {total_count} occurrence(s) of '{used_val}'."
                 
-                if count > 3:
+                if total_count > 3:
                     print(f"{YELLOW}WARNING: {msg_body}{RESET}")
                 else:
                     print(f"INFO: {msg_body}")
                 
-                for m in reversed(matches):
-                    replacement = f"<choice><sic>{old_val}</sic><corr>{new_val}</corr></choice>"
-                    block_content = block_content[:m.start()] + replacement + block_content[m.end():]
-                
-                modified_sections[idx] = block_content
+                modified_sections[idx] = new_block_lines
                 
         return found_any
 
@@ -129,7 +166,6 @@ def main():
     for change in changes:
         lcode = change['lcode']
         hw = change['headword']
-        new_val = change['new']
         
         # 1. Try the provided Lcode
         found_by_lcode = False
@@ -147,12 +183,12 @@ def main():
                     if found_by_hw:
                         change['found_any'] = True
                     else:
-                        print(f"{YELLOW}WARNING: {lcode} - Headword '{hw}' found but '{new_val}' not found in its block{RESET}")
+                        print(f"{YELLOW}WARNING: {lcode} - Headword '{hw}' found but neither old nor new value found in its block{RESET}")
                 else:
                     print(f"{YELLOW}WARNING: {lcode} - Headword '{hw}' has {len(indices)} matches in dictionary, cannot fallback{RESET}")
             else:
                 if lcode in lcode_to_indices:
-                    print(f"{YELLOW}WARNING: {lcode} - '{new_val}' not found in block{RESET}")
+                    print(f"{YELLOW}WARNING: {lcode} - neither old nor new value found in block{RESET}")
                 else:
                     print(f"{YELLOW}WARNING: {lcode} - L number not found AND Headword '{hw}' not found in {orig_file}{RESET}")
 
@@ -161,7 +197,7 @@ def main():
     last_end = 0
     for i, match in enumerate(all_entries):
         new_content_parts.append(content[last_end:match.start()])
-        new_content_parts.append(modified_sections[i])
+        new_content_parts.append('\n'.join(modified_sections[i]))
         last_end = match.end()
     
     new_content_parts.append(content[last_end:])

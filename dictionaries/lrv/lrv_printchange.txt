@@ -44,11 +44,11 @@ L code : Headword : Old  : New : Comment
 00752 : atyaha : atyaha : atyahna : headword change
 00827 : adyadina : adyAdinamAraBya : adyadinamAraBya
 00827.1 : adyadivasa : adyAdinamAraBya : adyadinamAraBya
-00909 : aDyAtma : aDyAtma : aDyAtmam : headword change
+00909 : aDyAtmam : aDi-Atma : aDi-Atmam : headword change
 -----------------------------------------------------------------------
 04-25-2026
 Source: Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/164
 L code : Headword : Old  : New : Comment
-08392.1 : kareRusUta : kareRusUta : kareRusuta : 
+08392 : kareRusuta : sUta : suta : 
 -----------------------------------------------------------------------
