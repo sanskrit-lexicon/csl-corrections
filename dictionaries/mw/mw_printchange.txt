@@ -173,23 +173,23 @@ ejf confirmed from above source.
 37. April 8, 2010.
     headword 'iti' (L=28747) changed to have accent.
     Also, the occurences of 'iti' in the body of 28747 also had accent added.
-2010-03-22: James Fitzgerald
+2010-03-22. James Fitzgerald
 Hi, I've just noticed that in both the online MW and the image of the dictionary the udatta accent on the first syllable of iti is missing. As a look at the Petersburg dictionary will confirm, the first syllalbe of iti should have, in roman script, an acute mark over it. This was MW's error, and he failed to correct it in his corrigenda. I imagine it's not possible to correct the scanned image, but the online dictionary should be made correct.
 
-2010-03-29: Peter Scharf
+2010-03-29. Peter Scharf
  I think it is proper to make factual corrections to the dictionary if and when we can track the correction as a correction for users.  The tracked correction would indicate the editor who made the correction, when, the type of correction (factual, etc. as Jim Funderburk, Malcolm, and I discussed some time ago), and reference to an authority.  I know Jim Funderburk tracks this information but we don't yet have a means to display it.  In this case Jim Fitz. cites as authority Bohtlingk and Roth.  I haven't had a chance to check the occurence in accented texts myself.  Have you Jim Fitzgerald?
 
-2010-03-29: James Fitzgerald
+2010-03-29. James Fitzgerald
 Yes, I'm looking at RV 10.71.11d right now:
 the sa?hita text "yajñásya m?tra? ví mimita u tva?" [ALTERNATE TRANSCRIPTION] // yajJa(udatta)sya mA(udatta)trAM vi(udatta) mimIta u tvaH // 
  
 is glossed in the padapatha at its very end with  "| ví | mimIte | u? íti | tva? |"  // vi(udatta) | mimIte | uM i(udatta)ti | tvaH | //.
  
-I was led to check the dictionary because the Satapatha Brahma?a passage I was reading at the time was inconsistent and had a typo or two regarding the accent of íti. It had several other correct instances. E.g. of correct passage: SB 11.4.3.6 "sárasvati tvá??a rup??i sámanaktu yajñáir íti"
+I was led to check the dictionary because the Satapatha Brahma?a passage I was reading at the time was inconsistent and had a typo or two regarding the accent of íti. It had several other correct instances. E.g. of correct passage - SB 11.4.3.6 "sárasvati tvá??a rup??i sámanaktu yajñáir íti"
  
 [ALTERNATE TRANSCRIPTION]  //sa(udatta)rasvatI tva(udatta)STA rUpA(udatta)Ni sa(udatta)manaktu yajJa(udatta)ir i(udatta)ti //
 
-2010-03-30: Peter Scharf
+2010-03-30. Peter Scharf
 I think we should make a factual correction to MW.
 evidence: Bohtlingk's entry, RV 10.71.11d, padapAtha; SB 11.4.3.6
 source: Jim Fitzgerald
@@ -197,7 +197,7 @@ source: Jim Fitzgerald
 
 38. April 8, 2010 (ejf submitted)
  L=224192.  Change 'SAT' to 'SaW' in body.
-2010-02-04: Jim Funderburk 
+2010-02-04. Jim Funderburk 
 
 Thomas/Peter -
   The following seems like a 'factual' error (typo) in MW. If so, I would like to correct the online MW.
@@ -212,7 +212,7 @@ Thomas/Peter -
  
  Do you concur?
 
-2010-02-26: Peter Scharf
+2010-02-26. Peter Scharf
 
 Yes, I agree.  It is clear from the DhP. of Westergaard which you made so conveniently accessible.
 =======================================
@@ -272,8 +272,8 @@ Peter Scharf
 =======================================
 44. Oct 16, 2011
 Changed 'wri' to 'tf' in L=101815 (Df)
-old: inf. Dartum Ka1v. , °tavE Br. [Dart/ari » under °wri] 
-new: inf. Dartum Ka1v. , °tavE Br. [Dart/ari » under °tf] 
+old: inf. Dartum Ka1v. , ˚tavE Br. [Dart/ari » under ˚wri] 
+new: inf. Dartum Ka1v. , ˚tavE Br. [Dart/ari » under ˚tf] 
 Noticed by user lino bercelli; confirmed by Jim Funderburk, Peter Scharf.
 
 =======================================
@@ -785,7 +785,7 @@ L : headword : old : new
 147021.1 : brahmavidyABAraRa : brahmavidyABAraRa : brahmavidyABaraRa
 147172.06 : brahmAnandasArasvatI : brahmAnandasArasvatI : brahmAnandasarasvatI
 153730 : BrAtfSvasura : BrAtfSvasura : BrAtfSvaSura
-176667.1 : rAjaSAyyA : rAjaSAyyA : rAjaSayyA
+176667 : rAjaSAyyA : rAjaSAyyA : rAjaSayyA
 =======================================
 Nov 13, 2015
 Refer: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/131
@@ -827,6 +827,7 @@ L :     headword : old   : new   : comment
 138169.6 : prasftimpaca : prasftimpaca : prasftimpaca : f. -> mfn.  ( nīvā́ra-prasṛtim-paca is mfn.)
 145901 : boDisattvacaryAvatAra : boDisattvacaryAvatAra : boDisattvacaryAvatAra : f. -> m. See PW
 146050 : bfMhita : bfMhita : bfMhitA :  Also, bṛṁhila -> bṛṁhilā (See PW)
+146050 : bfMhita : bfMhila : bfMhilA : Copied from above
 172603 : yogAnta : yogAnta : yogAnta : Remove 'f.' , which applies to yogAntikA. m. per PW
 182156.1 : lANgaleza : lANgaleza : lANgalezA :  Presume f. is right, so must end in A
 182585 : liNgopaDAnavAdArTa : liNgopaDAnavAdArTa : liNgopaDAnavAdArTa : f. -> m. (vAdArTa is m. ; Print does not state gender.)
@@ -900,7 +901,7 @@ Confirmed by Jim Funderburk (Whitney)
 L code : Headword : Old  : New : Comment
 195231 : vijYA : vy-AjijYapat : vy-ajijYapat : causal aorist form for jYA confirmed Whitney roots.
 ALSO
-213393 : SayanEkadaSI : SayanEkAdaSI : ekAdaSan, not ekadaSan
+213393 : SayanEkAdaSI : SayanEkadaSI : SayanEkAdaSI : ekAdaSan, not ekadaSan
 -----------------------------------------------------------------------
 11-06-2017
 Semicarpus -> Semecarpus
@@ -917,8 +918,8 @@ SriNga -> SfNga
 Jim Funderburk
 ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/412
 L code : Headword : Old  : New : Comment
- 547   : akzatA   : karkawaSriNgI : karkawaSfNgI :
- 547   : akzatA   : kaNkaqaSriNgI : kaNkaqaSfNgI :
+ 547   : akzatA   : Karkaṭaśriṅgī : Karkaṭaśṛṅgī :
+ 547   : akzatA   : Kām̐kaḍāśriṅgī : Kām̐kaḍāśṛṅgī :
 44674  : karkawAhvA : SriNgI : -SfNgI :
 158987 : mallikArjunaSriNga : mallikArjunaSriNga : mallikArjunaSfNga
 
@@ -930,14 +931,14 @@ Github user SergeA
 Jim Funderburk
 ref https://github.com/sanskrit-lexicon/MWS/issues/51
 L code : Headword : Old  : New : Comment
-14521  : ambupattrA : Cyperus Hex. C. : Cyperus Hexastychius Communis : ref hw = amBoda
+14521  : ambupattrA : Cyperus Hex. C. : Cyperus Hexastychyus Communis : ref hw = amBoda
 160425 : mahAmuni : H : Hastile : expand abbrev. in <bot> tag. cf. L=160421 
 105499 : nAdeyI   : Tesbania Aegyptiaca : Sesbania Aegyptiaca : cf. aparAjita
 -----------------------------------------------------------------------
 01-02-2018
 Jim Funderburk
 L code : Headword : Old  : New : Comment
-254842.1 : stF : stfnAti : stfRAti : print missing dot under 'n'
+254842 : stF : stfnAti : stfRAti : print missing dot under 'n'
 -----------------------------------------------------------------------
 03-22-2018
 Jim Funderburk and SergeA
@@ -953,7 +954,7 @@ L code : Headword : Old  : New : Comment
 05-14-2018
 User 'Tanuja'
 L code : Headword : Old  : New : Comment
-24737  : AnyaBAvya: Pāṇ. 5-1, 24 : Pāṇ. 5-1, 124 : 
+24737  : AnyaBAvya: Pāṇ. v, 1, 24 : Pāṇ. v, 1, 124 : 
 -----------------------------------------------------------------------
 05-14-2018
 User geymonat@sanscrito.it
@@ -973,12 +974,12 @@ L code : Headword : Old  : New : Comment
 05-15-2018
 User czhao@sadbhuja.com
 L code : Headword : Old  : New : Comment
-172219 : yuzmadIya : Pāṇ. 4-31 : Pāṇ. 4-3, 1
+172219 : yuzmadIya : Pāṇ. iv, 31 : Pāṇ. iv, 3, 1
 -----------------------------------------------------------------------
 05-15-2018
 User geymonat@sanscrito.it
 L code : Headword : Old  : New : Comment
-97636  : dravya   : cf A- : cf a-: 
+97636  : dravya   : cf <s>A-</s> : cf <s>a-</s>: 
 -----------------------------------------------------------------------
 11-28-2018
 user Jim Funderburk
@@ -990,8 +991,8 @@ L code : Headword : Old  : New : Comment
 user Jim Funderburk
 L code : Headword : Old  : New : Comment
 92593  :  diS     : di/so 'ntAt : di/So 'ntAt : obvious print mistake
-152992 : BErava   :  Bh°'s      :  Bh°s       : plural, not possessive
-186471 : vayas    : cf. 2 vi    : cf. 1 vi    : 1 vi = bird; vayas = bird
+152992 : BErava   :  <s1 n="Bhairava">Bh˚</s1>'s      :  <s1 n="Bhairava">Bh˚</s1>s       : plural, not possessive
+186471 : vayas    : <hom>2.</hom>    : <hom>1.</hom>  : 1 vi = bird; vayas = bird
 -----------------------------------------------------------------------
 01-15-2019
 user Peter Scharf
@@ -1001,12 +1002,12 @@ L code : Headword : Old  : New : Comment
 02-04-2019
 user: Jazirae Neokai
 L code : Headword : Old  : New : Comment
-161686.10 : mA  : also with sma e.g. mA sva kiM cid vaco vada : ... e.g. mA sma kiM cid ... : 
+161686.10 : mA  : mA sva : mA sma : 
 -----------------------------------------------------------------------
 02-08-2019
 user: youngsinn.sohn
 L code : Headword : Old  : New : Comment
-188979 : vasnya   : RV x,34,1  : RV x,34,3 : vasnya occurs in 34.3, not 34.1
+188979 : vasnya   : RV. x, 34, 1.  : RV. x, 34, 3. : vasnya occurs in 34.3, not 34.1
 -----------------------------------------------------------------------
 12-27-2019
 user: zaaf2
@@ -1017,9 +1018,7 @@ L code : Headword : Old  : New : Comment
 submitted by natalia.fedorova
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/101
 L code : Headword : Old  : New : Comment
-156872 : manu :   see below : see below
-text missed 10th  and 11th Manu in the description of 14 Manus.
-new:  the 10th Brahma-sāvarṇi; the 11th Dharma-sāvarṇi
+156872 : manu :   the 9th <s1>Dakṣa-sāvarṇi</s1>;\nthe 12th <s1>Rudra-sāvarṇi</s1>; : the 9th <s1>Dakṣa-sāvarṇi</s1>;\nthe 10th <s1>Brahma-sāvarṇi</s1>;\nthe 11th <s1>Dharma-sāvarṇi</s1>;\nthe 12th <s1>Rudra-sāvarṇi</s1>; :  text missed 10th  and 11th Manu in the description of 14 Manus. the 10th Brahma-sāvarṇi; the 11th Dharma-sāvarṇi
 -----------------------------------------------------------------------
 05-02-2020
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/236
@@ -1061,7 +1060,7 @@ L code : Headword : Old  : New : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/427
 User: Peter Scharf from Sharon Ben-Dor
 L code : Headword : Old  : New : Comment
-4479   : aDI      : Pāṇ. 2-3, 72 : Pāṇ. 2-3, 52 : 
+4479   : aDI      : Pāṇ. ii, 3, 72 : Pāṇ. ii, 3, 52 : 
 -----------------------------------------------------------------------
 11-19-2020
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/429
@@ -1073,7 +1072,7 @@ L code : Headword : Old  : New : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/449
 User: Unknown
 L code : Headword : Old  : New : Comment
-192970 : viGawikA : 1/23 of a Ghaṭikā : 1/60 of a Ghaṭikā :
+192970 : viGawikA : 1/23 : 1/60 :
 -----------------------------------------------------------------------
 03-20-2021
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/513
@@ -1084,13 +1083,13 @@ L code : Headword : Old  : New : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/544
 User: josephine.brill
 L code : Headword : Old  : New : Comment
-28119  : Astika   : Pāṇ. 4-2, 60 : Pāṇ. 4-4, 60
+28119  : Astika   : Pāṇ. iv, 2, 60 : Pāṇ. iv, 4, 60
 -----------------------------------------------------------------------
 06-20-2021
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/561
 User: anonymous.  checked by funderburk
 L code : Headword : Old  : New : Comment
-25119  : Aprapadam : 4-2, 8 : 5-2, 8  : Pāṇ reference
+25119  : Aprapadam : Pāṇ. iv, 2, 8. : Pāṇ. v, 2, 8. : Pāṇ reference
 -----------------------------------------------------------------------
 06-20-2021
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/563
@@ -1143,7 +1142,7 @@ L code : Headword : Old  : New : Comment
  111544 : nIlapattra : Scirpus Kysor : Scirpus Kysoor 
  159294 : mahAkacCa : Cedrena Toona : Cedrela Toona 
  458 : akza : Eleocarpus Ganitrus : Elaeocarpus Ganitrus 
- 213464 : SarakARqa : Sacclsarum Sara : Saccharum Sara  vague
+ 213464 : SarakARqa : Sacclsarum Sara : Saccharum Sara : vague
  93197 : dIrGavfnta : Colosanthes Indica : Calosanthes Indica 
  93199 : dIrGavfntaka : Colosanthes Indica : Calosanthes Indica 
  103179 : nawa : Colosanthes Indica : Calosanthes Indica 
@@ -1221,19 +1220,15 @@ L code : Headword : Old  : New : Comment
  181191 : laYCana : Eleusine Corocana : Eleusine Coracana 
  183039 : loBanI : Sphaerantus : Sphaeranthus 
  1951 : ajaganDA : Ocymum Gratissimum : Ocimum Gratissimum 
- 1952 : ajaganDikA : Ocymum Gratissimum : Ocimum Gratissimum 
  14494 : ambucAmara : Valisneria : Vallisneria 
  14505 : ambutAla : Valisneria : Vallisneria 
  58885 : kzatriyavarA : Curcumis : Cucumis 
  59929 : kzudracirBitA : Curcumis : Cucumis 
  1988 : ajamoda : Ligusticum Ajwaen : Ligusticum Ajowan 
- 1989 : ajamodA : Ligusticum Ajwaen : Ligusticum Ajowan 
- 1990 : ajamodikA : Ligusticum Ajwaen : Ligusticum Ajowan 
  28909 : induleKA : Ligusticum Ajwaen : Ligusticum Ajowan 
  221106 : SElaBeda : Coleus Scutellaroides : Coleus Scutellarioides 
  162249 : mAtf : Sphaerantus Indicus : Sphaeranthus Indicus 
  14000 : amalAtaka : Gomphraena Globosa : Gomphrena Globosa 
- 14000.1 : amalAnaka : Gomphraena Globosa : Gomphrena Globosa 
  14657.1 : amlAna : Gomphraena Globosa : Gomphrena Globosa 
  161065 : mahAsahA : Gomphraena Globosa : Gomphrena Globosa 
  223975 : SlakzRapattraka : Diaspyros Ebenaster : Diospyros Ebenaster 
@@ -1291,13 +1286,13 @@ L code : Headword : Old  : New : Comment
 12-20-2021
 Jim Funderburk. Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/726
 L code : Headword : Old  : New : Comment
-239409 : salAvfkI : = <s>sAlA-vf°  </s> : = <s>sAlA-vfka</s> : to resolve q.v.
+239409 : salAvfkI : = <s>sAlA-vf˚  </s> : = <s>sAlA-vfka</s> : to resolve q.v.
 ----------------------------------------------------------------------
 06-27-2022
 Ref: https://github.com/sanskrit-lexicon/MWS/issues/121#issuecomment-1111307586
 User Andhrabharati
 L code : Headword : Old  : New : Comment
-84423  : tArukzAyaRi : <ls>VRJ.</ls> : <ls>VĀJ</ls> : vAjasaneyi saMhitA
+84423  : tArukzAyaRi : <ls>VRJ.</ls> : <ls>VĀJ.</ls> : vAjasaneyi saMhitA
 ----------------------------------------------------------------------
 07-26-2022
 Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
@@ -1310,7 +1305,7 @@ L code : Headword : Old  : New : Comment
 18326 : avasAna :  AAnukr. : AV.Anukr.
 242045 : sAMnatya :  AAnukr. : AV.Anukr.
 15443 : aruRaketubrAhmaRa :  AitrAnukr. : ĀtrAnukr.
-154884 : maRqavAwa :  Divyâs. : Divyâv.
+154884 : maRqavAwa :  Divyās. : Divyāv.
 238764 : sarvaSakti :  Jam. : Jaim.
 35718 : upavad :  Kop. : Vop.
 4353.2 : aDirUQi :  Naith. : Naiṣ.
@@ -1319,7 +1314,7 @@ L code : Headword : Old  : New : Comment
 93709 : duravaDAraRa :  Parvad. : Sarvad.
 196112 : vidAya :   Pañcav. : Pañcar.
 196516 : viDAtrI :   Pañcav. : Pañcar.
-204509 : vftti :   Pañcav. : Pañcar.
+204509 : vftti :   Pañcav. : Pañcat.
 96949 : dEhika :  PhP. : BhP.
 26802 : Alijana :  Prasamar. : Prasannar.
 113650 : paYcatiktaGfta :  Rasav. : Rasar.
@@ -1347,7 +1342,7 @@ L code : Headword : Old  : New : Comment
 181909   : lavaRaKAni : Sambher : Sambhar
 200517   : viSAlA   : Ougein : Oujein
 209679   : vyAqiSikzA : Vaidic : Vedic
-827338   : sumuKa   : Par.   : Pur. x
+248403   : sumuKa   : Par.   : Pur. : 
 ----------------------------------------------------------------------
 08-01-2022
 ejf.
@@ -1470,8 +1465,8 @@ https://github.com/sanskrit-lexicon/csl-orig/issues/1280
 User srhodes
 https://github.com/sanskrit-lexicon/csl-orig/issues/1363
  code : Headword : Old  : New : Comment
- 132293 : praticodanA : smriti :  smfti (SLP1)
- 133694 : pratIcCaka : pratiz  :  pratIz  (slp1)
+ 132293 : praticodanA : smriti :  smfti :
+ 133694 : pratIcCaka : pratiz  :  pratIz  :
  244297 : siD : Pāṇ. vii , 3, 113 : Pāṇ. viii, 3, 113
  137764 : prAprAbanDa :  prAprAbanDa : prAbanDa : https://github.com/sanskrit-lexicon/csl-orig/issues/1422
  139132 : prAC : prA/s : prA/S : https://github.com/sanskrit-lexicon/csl-orig/issues/1426
@@ -1481,14 +1476,14 @@ https://github.com/sanskrit-lexicon/csl-orig/issues/1363
 User geymonat
 https://github.com/sanskrit-lexicon/csl-orig/issues/1388
  code : Headword : Old  : New : Comment
- 152344 : BUri   : BUrI ind. : BUri ind.  : confirm mw72
+ 152344 : BUri   : <s>Bu/ri</s> ¦ : <s>BU/ri</s> ¦  : confirm mw72
 -------------------------------------------------------
 01-15-2024
 User srhodes
  code : Headword : Old  : New : Comment
  234597 : samopta   : m. : mfn.  : Adjectives take all three genders
  153856 : Brez   : bibreza : biBreza  : Verb form bibreza does not exist
- 173134 : rakzitaka   : dAra-s° : dAra-r°  : word has to start with 'r'
+ 173134 : rakzitaka   : dAra-r˚ : dAra-r˚  : word has to start with 'r'
 ------------------------------------------------------------------------
 01-24-2024
  code : Headword : Old  : New : Comment
@@ -1565,13 +1560,13 @@ code : Headword : Old  : New : Comment
 Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1634
 code : Headword : Old  : New : Comment
-69776 : GArteya  : <s>vArt°</s> : <s>DArt°</s> : 
+69776 : GArteya  : <s>vArt˚</s> : <s>DArt˚</s> : 
 ------------------------------------------------------------------------
 05-16-2024
 User Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/74#issuecomment-890562625
 code : Headword : Old  : New : Comment
-97951 : druh    : (ep. and metr. also  Ā. °te) : (ep. also  Ā. °te) : cf. pw, pwg and mw72
+97951 : druh    : (ep. and metr. also  Ā. ˚te) : (ep. also  Ā. ˚te) : cf. pw, pwg and mw72
 ------------------------------------------------------------------------
 05-28-2024
 Scott Rhodes
@@ -1583,26 +1578,26 @@ code : Headword : Old  : New : Comment
 Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1637  also 1638, 1639, 1643
 code : Headword : Old  : New : Comment
-228330 : saMkzAra : iqAnAM S° : iqAnAM s° : 
-228330 : saMkzAra : iqA-S° : iqA-s° : 
+228330 : saMkzAra : iqAnAM S˚ : iqAnAM s˚ : 
+228330 : saMkzAra : iqA-S˚ : iqA-s˚ : 
 53370  : kuSASva  : <s>kriSA<srs/>Sva</s> : <s>kfSA<srs/>Sva</s> :
 52049  : kuTumin  : cf. kuWumin : cf. kuWumi :
 58535  : krOzwrAyaRa : krozwri  : krozwf : 
-58528  : krOzwAyana : °zwrAy° : °zwrAyaRa : 
+58528  : krOzwAyana : ˚zwrAy˚ : ˚zwrAyaRa : 
 171346 : yAt : cf. ta/t : cf. tA/t :
 251816 : sUrkz : <ls>Dhātup. xxvii, 15</ls> : <ls>Dhātup. xvii, 15</ls> :
 181753 : lAlika : lAvikA : lAvika :
 101368 : DIrAvI : pItaSiMsapA : pItaSiMSapA
-260151 : haMsarAmapraSna : cakra-pr° : -cakra-pr° :
-141464 : plIhASatru : (cf. °ha-s°) : (cf. °ha-ś°) :
+260151 : haMsarAmapraSna : cakra-pr˚ : -cakra-pr˚ :
+141464 : plIhASatru : (cf. ˚ha-s˚) : (cf. ˚ha-S˚) :
 187259 : varcas : Rākṣava : Rākṣasa :
 150479 : BAz  : Intens. baBAzyate : Intens. bABAzyate :
-162913 : mAnavOGa : divyaugha- : divyaugha :
+162913 : mAnavOGa : <s>divyO<srs/>Ga-</s> : <s>divyO<srs/>Ga</s> :
 142063 : Pullavat : Pāṇ. viii, 2, 35 : Pāṇ. viii, 2, 55 :
 187677 : vartsa : bArsva : barsva :
 191183 : vAyaka : sower : sewer :
 191186 : vAyin  : sowing : sewing :
-148923 : Bal    : Sam-Bal : sam-bal :
+148923 : Bal    : Sam-√ Bal : sam-√ Bal :
 60625  : kZmAy  : Dhātup. xiv, 45 : Dhātup. xiv, 15
 38000  : Uy     : Dhātup. xiv, 2. : Dhātup. xiv, 12.
 254262 : skft   : kosa-skft : koSa-skft
@@ -1610,25 +1605,25 @@ code : Headword : Old  : New : Comment
 119910 : paryulUKalam : -parimuKAdi: parimuKAdi :
 164805 : mukurita : -tArakA<srs/>di: tArakA<srs/>di :
 163851 : mASabdika : 3. mA : 1. mA :
-168304 : mo 3. mA : 1. mA :
+168304 : mo : <hom>3.</hom> : <hom>1.</hom> :
 235301.1 : samudravastra : (= <s>vasana</s>) : (= <s>-vasana</s>):
 103661 : nandinI : Bāṇa-nāśa : Bāṇa-nāśā :
 105628 : nAndImuKa : nARqI-pawa : nAndI-pawa : 
 102675.09 : nAticCina : nAticCina : nAticCinna : 
 66178.1 : guruRqa : suruRqa : surURqa :
-16095 : ard : 2. sg. ardayas : 2. sg. Ardayas :
+16095 : ard : <ab>sg.</ab> <s>arda/yas</s> : <ab>sg.</ab> <s>Arda/yas</s>:
 177786 : rASyaMSa : navA<srs/>Msa : navA<srs/>MSa :
 38981.2 : fllIsaka : fllIsaka : fllIzaka
 47207  : kAku : SevAkAku : sevAkAku :
 181338 : lap : Dhātup. x, 8 : Dhātup. xi, 8 :
 78473  : jAGanI : pfTu-jAGana : pfTu-jaGana :
-97341  : dyuloka : (cf. dyaur-ī°) : (cf. dyO-l°) :
+97341  : dyuloka : (cf. dyaur-ī˚) : (cf. dyO-l˚) :
 112471 : nErvARikamArgAvataraRa : vESAradyani : vESAradyAni :
 129186 : pEyUkza : pIyUkza : pIyUkzA :
 211740 : SaW : Dhātup. ix, 65 : Dhātup. ix, 55 :
 225193 : zaqdurga : Danva-durgA : Danva-durga :
-67502  : gorAwikA : -kirāł° : -kirāṭ° :
-67503  : gorAwI   : -kirāł° : -kirāṭ° :
+67502  : gorAwikA : -kirāł˚ : -kirAw˚ :
+67503  : gorAwI   : -kirāł˚ : -kirAw˚ :
 73836  : citrayAma : = <s>-Drajati</s> : <s>citra/-Drajati</s> : 
 38000  : Uy       : Uyizwa  : Oyizwa :
 122722 : pAridfQi : patr. fr. pari-dfQi : patr. fr. pari-dfQa :
@@ -1639,7 +1634,7 @@ code : Headword : Old  : New : Comment
 80045  : juhurARa : hvar : hvf :
 245096 : sIkz : sIkzati : sIkzate:
 1730   : aNgulisaMdaMsa : aNgulisaMdaMsa : aNgulisaMdaMSa: from page 1309,2 replacing aNgulisaMdeSa
-61878  : KArdamAyana  : cf. kArd° : v.l. kArd° : MW dictionary does not include the Headword "kārdamāyana".
+61878  : KArdamAyana  : cf. kArd˚ : v.l. kArd˚ : MW dictionary does not include the Headword "kārdamāyana".
 ------------------------------------------------------------------------
 06-07-2024
 User Andhrabharati
@@ -1652,7 +1647,7 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-21616
 code : Headword : Old  : New : Comment
 72700 : cah     : <ls>Dhātup. xvii</ls>, <ls n="Dhātup.">xxxv.</ls> : <ls>Dhātup. xvii, 80</ls>, <ls n="Dhātup.">xxxv, 14</ls>.
 78362 : jas     : Dhātup. xxxii : Dhātup. xxxii, 127 :
-78362 : jas     : Dhātup. xv : Dhātup. xv, 64 :
+80115 : jUrv     : Dhātup. xv : Dhātup. xv, 64 :
 81147 : JF      : Dhātup. xxvi : Dhātup. xxvi, 23 : 
 81147 : JF      : <ls n="Dhātup.">xxxi</ls> : <ls n="Dhātup.">xxxi, 24</ls> :
 85943 : tump    : Dhātup. xi : Dhātup. xi, 11 :
@@ -1671,12 +1666,12 @@ code : Headword : Old  : New : Comment
 87143 : toqana : xxviii. : xxviii, 92. :
 87421 : trand : Dhātup. iii. : Dhātup. iii, 32. :
 42167 : kawuNkatA : Kawunka : KawuNka
-162138 : mARqarika : anguly-Adi : : aNguly-Adi
+162138 : mARqarika : anguly-Adi : aNguly-Adi :
 78416  : jAMhagiri : jahAngIrI : jahANgIrI
 185056 : vajrahUna : vajrahUna : vajrahURa :
 92076  : dityOhI : see above. : see above. [<s>dityavah</s>]
-81295  : wowa : dow° : qoq° : Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2170029791
-81295.1  : wowI : dow° : qoq° : Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2170029791
+81295  : wowa : dow˚ : qoq˚ : Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2170029791
+81295.1  : wowI : dow˚ : qoq˚ : Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2170029791
 
 ------------------------------------------------------------------------
 06-24-2024
@@ -1690,10 +1685,10 @@ code : Headword : Old  : New : Comment
 10443  : aptu : body : m. body :  add gender
 183229 : lok : inf. -lokitum : inf. lokitum :
 257528 : sraMs : aor. asisrasat : aor. asasraMsat : cf. mw72
-88806  : trOk : Desid. tutrokizate : Desid. tutrOkizate :
+88806  : trOk : tutrokizate : tutrOkizate :
 204573 : vfD  : Intens. varivfDyate : Intens. varIvfDyate : cf mw72
 257421 : syandana : : <lex>m.</lex> :  add m. gender 
-30208  : uNK : cl. 6 : cl. 1 :
+30208  : uNK : <ab>cl.</ab> 6. : <ab>cl.</ab> 1. :
 158207 : marIcigarBa : dAkzasAvarRi : dakzasAvarRi :
 62479  : gaqa : gold-fish : goldfish :
 62849  : gaqaka : gold-fish : goldfish :
@@ -1710,21 +1705,21 @@ Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/91
      corrections_mw_abbrev.txt
 code : Headword : Old  : New : Comment
 164838 : muKa : prAn-muKam : prAN-muKam
-122457 : pAraka : ugra-p° : udra-p°
-114698 : pat : °pātīti : pA°patIti
+122457 : pAraka : ugra-p˚ : udra-p˚
+114698 : pat : ˚pātīti : pA˚patIti
 196254 : videhADipa : viheha : videha
-195689 : vidya : °kfta-vidya : kfta-vidya
-195615 : vitriBalagnaka : triBona-l° : triBona-lagna
-145569 : buD : °aButsi : aButsi
-200231 : vivaraRa : vi-°varaṇa mfn. : vi-°varaṇa n.
-163546 : mArtaRqa : prameya-m° : prameyakamala-m°
+195689 : vidya : ˚kfta-vidya : kfta-vidya
+195615 : vitriBalagnaka : triBona-l˚ : triBona-lagna
+145569 : buD : ˚aButsi : aButsi
+200231 : vivaraRa : <lex>mfn.</lex> : <lex>n.</lex>
+163546 : mArtaRqa : prameya-m˚ : prameyakamala-m˚
 34840  : upaDUmitA : pra-DUmitA : pra-DUmita
-81205  : waMkArita : JaM-k° : JaN-k°
-74613. : cundikA : saMcAri-c° : saMcAri-cuRqikA
-103332 : nadasya : °Syate : °syate
-108272.11 : nijihvika : nir-j° : nir-jihva
-214504 : SaSvAya : P. °te : Ā. °te
-106100 : nArASaMsapaNkti : nar° p° : nar°-p°
+81205  : waMkArita : JaM-k˚ : JaN-k˚
+74613. : cundikA : saMcAri-c˚ : saMcAri-cuRqikA
+103332 : nadasya : ˚Syate : ˚syate
+108272.11 : nijihvika : nir-j˚ : nir-jihva
+214504 : SaSvAya : P. ˚te : Ā. ˚te
+106100 : nArASaMsapaNkti : nar˚ p˚ : nar˚-p˚
 
 ------------------------------------------------------------------------
 10-14-2024
@@ -1732,24 +1727,24 @@ Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/91
      corrections_mw_not_abbrev.txt
 code : Headword : Old  : New : Comment
-5252 : anala  : (no homonym) : homonym 1 : Since supplement has hom 2
+5252 : anala  : <s>anala</s> ¦ : <hom>1.</hom> <s>anala</s> ¦ : Since supplement has hom 2
 13260 : aByarTita : cf. yaTAByarTitam : cf. yaTAByarTita
 38410 : f : haste towards : hasten towards
 41894 : kaw : cf. cat : cf. caw :
 42493.1 : kaRWapraRAlikA : id. : id. the windpipe
 47604 : kAtantrakOmudI : vftti-paYjikA : -vftti-paYjikA
-50271 : kit : cf. 2. cit : cf. 4. cit :
+50271 : kit : cf. 2. cit : See <hom>4.</hom> <s>cit</s> :
 64493 : gA  : Dhātup. xx, 53 : Dhātup. xxii, 53
  *    : *   : court-yard  : courtyard :  8 instances changed.
  *    : *   : Yudhi-ṣṭhira  : Yudhiṣṭhira :  43 instances changed.
 66852 : gE  : Dhātup. xxv, 25 : Dhātup. xxii, 20
 74324 : cirozita : -sTAyin : cira-sTAyin : for clarity
-87126 : toka : cf. ava-, jIvat, sa-tokA : cf. ava-tokA, jIvattokA, satoka
+87126 : toka : cf. ava-, jIvat, sa-tokA : <ab>cf.</ab> <s>ava-tokA</s>, <s>jIvat-tokA</s> and <s>sa-toka</s>
 91024.5 : daSArhI : cf. su- : cf. sudaSArhakula :
-91853 : dAS : cf. dU- and puro- : cf. dUqAS and puroqAS
+91853 : dAS : <ab>cf.</ab> <s>dU-</s> and <s>puro-</s> : <ab>cf.</ab> <s>dUqAS</s> and <s>puroqAS</s>
 91857 : dASa : See puro- : See puroqASa :
 101815 : Df : adArzIt : aDArzIt
-101935 : Dfzat : 1. dhṛṣat : dhṛṣat : remove homonym number.
+101935 : Dfzat : <hom>1.</hom> <s>Dfza/t</s> ¦ : <s>Dfza/t</s> ¦ : remove homonym number.
 102612 : DvAntarAti : DvAntarAti : DvAntArAti
 105026 : nAganAsorU : karaBoru : karaBorU
 115613 : padmanABi  : -nABu : -nABa
@@ -1759,10 +1754,11 @@ code : Headword : Old  : New : Comment
 145350 : biSAyaka : biSAkara : bisAkara
 146765 : brahmadAyApahArin : robbing it : robbing the earthly possession of a Brāhman  : clarification
 166318 : mUrvA : cf. mUrv  : cf. murv
-170253 : yaB : -yapsyati & -yabDum : yapsyati & yabDum
+170253 : yaB : -yapsya/ti : yapsya/ti
+170253 : yaB : -yabDum : yabDum
 175265 : rayas : amUrta-rayas : amUrta-rayasa
 177005 : rAjeyu : riteyu : fteyu :
-193201 : vinirbAnu : vinirbAnu : vinirbAhu  (headword change)
+193201 : vinirbAhu : vinirbAnu : vinirbAhu
 193282 : vipfTu : w.r. pfTa : w.r. vipfTa
 195649 : vidaTa : a sage : m. asage :  add gender
 196197 : vidAraka : a hole : m. a hole : add gender
@@ -1774,12 +1770,11 @@ code : Headword : Old  : New : Comment
 247312 : supakva : a sort of fragrant Mango : m. a sort of fragrant Mango
 251838 : sf :  sarIzarti : sarIsarti
 258776 : svaj : svajAmana : svajamAna
-46543 kavikarRapUrRa : kavikarRapUrRa : kavikarRapUra : The annexure has error '<s>kavi—pUrRa</s> ¦ (read <s>-pUra</s>)' which should be '<s>kavi—karRa-pUrRa</s> ¦ (read <s>-pUra</s>)
-
+46543 : kavikarRapUra : kavikarRapUrRa : kavikarRapUra : The annexure has error '<s>kavi—pUrRa</s> ¦ (read <s>-pUra</s>)' which should be '<s>kavi—karRa-pUrRa</s> ¦ (read <s>-pUra</s>)
 180705 : lag :
 old: Caus. or cl. 10. (Dhātup. xxxiii, 63) lāgayati
 new = Caus. lagayati, or cl. 10. (Dhātup. xxxiii, 63) lāgayati
-189239 : UQa : (no homonym) : homonym 1
+189239 : UQa : <s>UQa/</s> ¦ : <hom>1.</hom> <s>UQa/</s> ¦
 208369 : vyajanacAmara : cf. vyajanacAmara : cf. cAmaravyajana : Refer PWG under vyajana
 89975.1 : daditTa : daditTa : daDitTa : Headword changed
 294 : akupya : (no homonym) : Homonym 1
@@ -1801,7 +1796,7 @@ old: see 1. upADi (p. 213)
 new: see 1. upADi (p. 213): beautiful without limitation, i.e. altogether beautiful.
 7246.1 : anuvas : anu-√7. vas : 3. anu-√7. vas  : add homonym 3.
 * Global change : Dhṛta-rāṣṭra : Dhṛtarāṣṭra : 146 changes
-8036.3 : antaHsalilasTa : (standing in w°, Pañcat.) : standing in w°, Pañcat.
+8036.3 : antaHsalilasTa : (standing in w˚, Pañcat.) : standing in w˚, Pañcat.
 8042.3 :>antaHsmayin : see smayin, p. 1271 : laughing inwardly (see smayin, p. 1271)
 101200 : DikkriyA :
 old: f. = prec. n. pl. L.
@@ -2194,7 +2189,7 @@ L code : Headword : Old  : New : Comment
 Source: @aumsanskrit / @Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/111 
 L code : Headword : Old  : New : Comment
-29294<pc>167,3<k1>inv : impf. <s>Â°Enot : impf. <s>Enot
+29294<pc>167,3<k1>inv : impf. <s>Â˚Enot : impf. <s>Enot
 244032<pc>1214,1<k1>sic : Desid. sizikzati or sisikzati : Desid. zizikzati or sisikzati
 77741<pc>414,2<k1>jarc : cl. 1. : cl. 1. 6. 
 
