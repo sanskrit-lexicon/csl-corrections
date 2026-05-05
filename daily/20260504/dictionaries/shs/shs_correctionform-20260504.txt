@@ -1,0 +1,23 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of May 05, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 05/04/2026 dict=SHS, L=9409, hw=karmmabhūla, user=srhodes
+old = karmmabhūla
+new = karmmamūla
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/04/2026 dict=SHS, L=9408, hw=karmmabhūmi, user=srhodes
+old = Aryavarta
+new = Āryāvarta
+comment = Typo – Please note that this is a suggested "Print Change", for proper transliteration. Keep in mind, that such corrections assist the User in further looking up such Related Headwords. Without this correct transliteration, the Novice would be "at a loss" for how to properly search this word further. Also, this could be made a Global Correction using the Singular Form Target: "Aryavarta" —> "Āryāvarta".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/04/2026 dict=SHS, L=9408, hw=karmmabhūmi, user=srhodes
+old = the hole of India
+new = the whole of India
+status = PENDING
+------------------------------------------------------------------------
+
