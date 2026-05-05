@@ -933,3 +933,15 @@ Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/24d0028fbf5ad646c5ba0b4
 L code : Headword : Old  : New : Comment
 12078 : kArtasvaram : gold (or silver ?); : gold;
 -----------------------------------------------------------------------
+
+05/05/2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/6282dc7
+L code : Headword : Old  : New : Comment
+12090.002 : kArpAsaH : {#koYcaH : {#kroYcaH
+-----------------------------------------------------------------------
+
+05/05/2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/c2cd436
+L code : Headword : Old  : New : Comment
+12094.002 : kArmaRam : witch-craft; : witchcraft;
+-----------------------------------------------------------------------

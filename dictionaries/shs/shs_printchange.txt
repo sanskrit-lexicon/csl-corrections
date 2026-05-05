@@ -1251,3 +1251,12 @@ L code : Headword : Old  : New : Comment
 19052 : dIpaka : Raginis : Rāgiṇīs
 22440 : nIla : Ragini : Rāgiṇī
 -----------------------------------------------------------------------
+
+05/05/2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/c2cd436
+L code : Headword : Old  : New : Comment
+9408 : karmmaBUmi : Aryavarta : Āryāvarta
+9408 : karmmaBUmi : hole : whole
+9409 : karmmaBUla : {#karmmaBUla#}¦ : {#karmmamUla#}¦
+9409 : karmmaBUla : {#BUla#} : {#mUla#}
+-----------------------------------------------------------------------

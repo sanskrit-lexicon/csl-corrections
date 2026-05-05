@@ -173,3 +173,10 @@ Reference  https://github.com/sanskrit-lexicon/csl-orig/issues/1797
 L     : headword : old    : new     : comment
 17357 : dvandvaM    : dbandbametanmUrKasya : dvandvametanmUrKasya : b-v
 ----------------------------------------------------------------------
+
+05/05/2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/6282dc7
+L code : Headword : Old  : New : Comment
+9295 : kreyaM : koYcaM : kroYcaM
+21391 : pASupatavrataM : zESezikoYcEva : zESezikroYcEva
+-----------------------------------------------------------------------

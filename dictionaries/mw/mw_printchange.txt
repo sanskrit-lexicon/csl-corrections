@@ -2246,3 +2246,9 @@ L code : Headword : Old  : New : Comment
 225626 : saMyam : Pāṇ. i, 3, 35 : Pāṇ. i, 3, 55 : https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013
 43105 : kanyAgata : ¦  : ¦ <lex>n.</lex> : Added neuter gender. https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294760931, https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4294099013
 -----------------------------------------------------------------
+
+05/05/2026
+Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/c2cd436
+L code : Headword : Old  : New : Comment
+48880 : kAryacintaka : ¦ : ¦ <lex>mfn.</lex>
+-----------------------------------------------------------------------
