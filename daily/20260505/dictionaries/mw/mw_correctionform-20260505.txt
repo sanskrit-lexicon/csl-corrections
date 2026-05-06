@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for MW
+As of May 06, 2026
+2 correction records, with 2 PENDING
+
+Case 5: 05/05/2026 dict=MW, L=48922, hw=kāryahantṛ, user=srhodes
+old = mar-plot
+new = marplot
+comment = Typo - Please note that this is an important "Print Change". You may consult the following webpage: https://www.merriam-webster.com/dictionary/marplot LB Honestly, I am not currently "Hunting Hyphens", but they seem to continually appear before me, and I am forced to "Take Action" ! LB Of course, this may as well be made a Global Correction, in case of other instances.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/05/2026 dict=MW, L=7217, hw=anuvad, user=srhodes
+old = cf. anudita
+new = cf. anūdita
+status = PENDING
+------------------------------------------------------------------------
+
