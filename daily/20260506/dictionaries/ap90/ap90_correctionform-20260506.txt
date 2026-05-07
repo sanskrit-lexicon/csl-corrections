@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for AP90
+As of May 07, 2026
+1 correction records, with 1 PENDING
+
+Case 7: 05/06/2026 dict=AP90, L=3916, hw=ayana, user=srhodes
+old = circulation period
+new = circulation, period
+comment = Typo – Please note that this is a "Print Change", as confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4389773140
+status = PENDING
+------------------------------------------------------------------------
+
