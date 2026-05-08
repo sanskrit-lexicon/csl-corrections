@@ -1,0 +1,66 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 08, 2026
+9 correction records, with 9 PENDING
+
+Case 16: 05/07/2026 dict=AP, L=12123.008, hw=kālam, user=srhodes
+old = FOUR Missing Compounds !
+new = Please Add the Four Compounds to the Window Display: "kālanemyariḥ, kālanemiripuḥ, kālanemiharaḥ, kālanemihan m." • These Four Compounds have been indicated directly in the Window Display of the Headword: "kālanemiḥ [ID=12123.204]". See Previous Submission. These Four Compounds Deserve to be listed, in order to Fully Honor and Pay Resect to AP57.
+comment = FOUR Missing Compounds !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 05/07/2026 dict=AP, L=12123.204, hw=kālanemiḥ, user=srhodes
+old = FOUR Missing Compounds !
+new = Please Add the Four Compounds Indicated Here in the Window Display: "kālanemyariḥ, kālanemiripuḥ, kālanemiharaḥ, kālanemihan m." • These Four Compounds have been indicated here by the following citation: "˚ariḥ, ripuḥ, haraḥ, han m. epithets of Kṛṣṇa.". Therefore, these Four Compounds deserve to be Searchable Headwords, located in the Hierarchy List Display, in order to Fully Honor and Pay Resect to AP57.
+comment = FOUR Missing Compounds !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 05/07/2026 dict=AP, L=12123.178, hw=kālatrayam, user=srhodes
+old = Missing Compound
+new = Please Add the Compound Indicated Here in the Window Display: "kālatrayadarśin a. K. 46". This compounded has been indicated here by the following citation: "˚darśī K. 46.". Therefore, this compound deserves to be a Searchable Headword, located in the Hierarchy List Display, in order to Fully Honor and Pay Resect to AP57.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 05/07/2026 dict=AP, L=12123.008, hw=kālam, user=srhodes
+old = kālajyeṣṭhaḥ
+new = kālajyeṣṭha
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/07/2026 dict=AP, L=12123.17, hw=kālajyeṣṭhaḥ, user=srhodes
+old = kālajyeṣṭhaḥ
+new = kālajyeṣṭha
+comment = Typo – Here Again is the issue of the abbreviation "a." in italics, which indicates "adjective". Andhrabharati has stated that AP90 should always be consulted as a background check to AP57. In this very case, AP90 confirms: "Adjective" ! Therefore, in the Window Display, we have the additional correction as follows: "-jyeṣṭhaḥ a." —> "-jyeṣṭha a." LB AND AGAIN, we have a Global Correction as follows: "aḥ a." —> "a a." , whereby the abbreviation "a." in italics, indicates "adjective". Of course, there maybe some "Crossfire" in the event of a Masculine Noun, which would then require the change as: "aḥ a." —> "aḥ a" ; Although this Global Correction may require some "Manual Examination", it will save us both time to Correct All Such Instances In A Single Pass, rather than individually, one by one, over an extended period of time.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/07/2026 dict=AP, L=12123.008, hw=kālam, user=srhodes
+old = kālakaṇḍakaḥ
+new = kālakandakaḥ
+comment = Typo – Please note that this is a "Print Change", following MW, VCP, SKD and SHS.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/07/2026 dict=AP, L=12123.11, hw=kālakaṇḍakaḥ, user=srhodes
+old = kālakaṇḍakaḥ
+new = kālakandakaḥ
+comment = Typo – Please note that this is a "Print Change", following MW, VCP, SKD and SHS.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/07/2026 dict=ap, L=, hw=praT, user=jim
+old = arise, come to light; श्रमो नु तासां मदनो नु पप्रथे Ki. 8. 53 . 5 To occur <!!!>(to mind). ━II. 10 U.<!!!> (प्रथयति-ते, प्रथित) 1 To spread abroad, proclaim; सज्जना एव साधूनां प्रथयन्ति
+new = (to mind). LB ━II. 10 U.   [ A linebreak is needed in such cases  (this example from प्रथ् )
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/07/2026 dict=AP, L=11667.116, hw=karmanāman, user=srhodes
+old = participal
+new = participial
+comment = Typo – Please note that this is the CORRECT spelling.  "participal" is WRONG!
+status = PENDING
+------------------------------------------------------------------------
+

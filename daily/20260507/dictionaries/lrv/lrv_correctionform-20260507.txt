@@ -1,0 +1,42 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of May 08, 2026
+6 correction records, with 6 PENDING
+
+Case 8: 05/07/2026 dict=LRV, L=8535, hw=karmavipāka, user=srhodes
+old = ??? See karmapāka
+new = See karmapāka
+comment = Typo – ACTUALLY, it may be worthwhile to check if the following is a Global Issue: "???"  •  If so, then maybe correct it Globally.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/07/2026 dict=LRV, L=8535, hw=karmavipāka, user=srhodes
+old = ??? See karmapāka
+new = See karmapāka
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/07/2026 dict=LRV, L=8527, hw=karmaphala, user=srhodes
+old = recompensef
+new = recompense of
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/07/2026 dict=LRV, L=8525, hw=karmapravacanīya, user=srhodes
+old = apasarga
+new = upasarga
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/07/2026 dict=LRV, L=8518, hw=karmadhāraya, user=srhodes
+old = PAGE NUMBER AND LINK ERROR
+new = [Printed book page 171-24]  —> [Printed book page 172]
+comment = Typo – Please note that the Current Page Number in the Window Display is Incorrect, and the LINK follows exactly this Incorrect Numbering. This is a SERIOUS ISSSUE that often appears throughout the LRV Window Display and Related Scanned Page. I HOPE that there is some sort of Global Correction that could correct this widespread problem.  ONE CLUE is that this often appears in a LONG LIST of Comounds where the Page Number simply stays FIXED at the Primary Headword, while the Compounds in the printed text continue on to the following page.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/07/2026 dict=LRV, L=8518, hw=karmadhāraya, user=srhodes
+old = bahivrīhiḥ
+new = bahuvrīhiḥ
+status = PENDING
+------------------------------------------------------------------------
+
