@@ -9,3 +9,4 @@ __pycache__
 app/.DS_store batches/.DS_store
 .DS_Store
 *.numbers
+scratch
