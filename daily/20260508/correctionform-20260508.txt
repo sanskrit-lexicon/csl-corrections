@@ -1,0 +1,58 @@
+Sanskrit Lexicon Correction Form History
+As of May 09, 2026
+8 correction records, with 8 PENDING
+
+Case 8: 05/08/2026 dict=MW, L=145575  , hw=budDa, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/08/2026 dict=AP, L=12123.238, hw=kālamāna, user=srhodes
+old = Missing Compound
+new = Please add the Compound indicated here in the Window Display as: "kālamālaḥ" • This Compounds Deserves to be listed as a Searchable Headword, in order to Fully Honor and Pay Resect to AP57.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/08/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/08/2026 dict=LRV, L=8569, hw=kalāṃkura, user=srhodes
+old = Indentation Missing in Hierarchy Column
+new = Since this begins a series of compounds under the Headword "kala", perhaps these compounds should be INDENTED in the Hierarchy List Column, similar to AP57. If possible this should be done Globally for all Compound Listings.
+comment = Indentation Missing in Hierarchy Column
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/08/2026 dict=LRV, L=8565, hw=kal, user=srhodes
+old = weild
+new = wield
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/08/2026 dict=LRV, L=8559, hw=karṣaṇī, user=srhodes
+old = karṣaṇī
+new = karṣiṇī
+comment = Typo – Please note that this is a Headword Typo !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/08/2026 dict=LRV, L=8547, hw=karmaṇya, user=srhodes
+old = karmaṇya (II) f.
+new = karmaṇyā (II) f.
+comment = Typo – Please note that this is a Headword Typo "karmaṇya" —> "karmaṇyā"   (long vowel for Feminine Gender).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/08/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
