@@ -124,7 +124,8 @@ def main():
     modified_sections = {i: all_entries[i].group(0).split('\n') for i in range(len(all_entries))}
     
     def try_replace(target_indices, change_data, requested_lcode, is_fallback=False):
-        found_any = False
+        newly_tagged_total = 0
+        already_tagged_total = 0
         new_val = change_data['new']
         old_val = change_data['old']
         hw_val = change_data['headword']
@@ -132,6 +133,7 @@ def main():
         for idx in target_indices:
             block_lines = modified_sections[idx]
             total_count = 0
+            already_count = 0
             used_val = '(unknown)'
             
             new_block_lines = []
@@ -143,6 +145,18 @@ def main():
                 matches = []
                 # Pre-calculate existing tags for idempotency check
                 line_tags = list(re.finditer(r'\{\{.*?\}\}|\[\[.*?\]\]', line))
+                
+                # Count already incorporated corrections
+                search_tag_start1 = '{{' + old_val + '->' + new_val
+                search_tag_start2 = '[[' + old_val + '->' + new_val
+                for t in line_tags:
+                    tag_text = t.group(0)
+                    if tag_text.startswith(search_tag_start1) or tag_text.startswith(search_tag_start2):
+                        end_pos = 2 + len(old_val) + 2 + len(new_val)
+                        if end_pos < len(tag_text):
+                            next_chars = tag_text[end_pos:end_pos+2]
+                            if next_chars in ['||', '}}', ']]']:
+                                already_count += 1
                 
                 search_vals = []
                 if new_val:
@@ -194,8 +208,6 @@ def main():
                 new_block_lines.append(line)
             
             if total_count > 0:
-                found_any = True
-                
                 if is_fallback:
                     msg_body = f"No match found in Lcode {requested_lcode} - Searched via Headword - {hw_val} - Tagged {total_count} occurrence(s) of '{used_val}'."
                 else:
@@ -208,7 +220,10 @@ def main():
                 
                 modified_sections[idx] = new_block_lines
                 
-        return found_any
+            newly_tagged_total += total_count
+            already_tagged_total += already_count
+                
+        return newly_tagged_total, already_tagged_total
 
     # Process each change in the order of occurrence in change_file
     for change in changes:
@@ -218,18 +233,28 @@ def main():
         # 1. Try the provided Lcode
         found_by_lcode = False
         if lcode in lcode_to_indices:
-            found_by_lcode = try_replace(lcode_to_indices[lcode], change, lcode, is_fallback=False)
-            if found_by_lcode:
+            newly, already = try_replace(lcode_to_indices[lcode], change, lcode, is_fallback=False)
+            if newly > 0:
                 change['found_any'] = True
+                found_by_lcode = True
+            elif already > 0:
+                change['found_any'] = True
+                found_by_lcode = True
+                print(f"INFO: {lcode} - correction already incorporated in {dict_code}.txt")
         
         # 2. Fallback to Headword if Lcode failed
         if not found_by_lcode:
             if hw in hw_to_indices:
                 indices = hw_to_indices[hw]
                 if len(indices) == 1:
-                    found_by_hw = try_replace(indices, change, lcode, is_fallback=True)
-                    if found_by_hw:
+                    newly, already = try_replace(indices, change, lcode, is_fallback=True)
+                    if newly > 0:
                         change['found_any'] = True
+                        found_by_hw = True
+                    elif already > 0:
+                        change['found_any'] = True
+                        found_by_hw = True
+                        print(f"INFO: {lcode} - correction already incorporated in {dict_code}.txt")
                     else:
                         print(f"{YELLOW}WARNING: {lcode} - Headword '{hw}' found but neither old nor new value found in its block{RESET}")
                 else:
