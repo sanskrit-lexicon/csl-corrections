@@ -38,28 +38,61 @@ def main():
     # Read changes
     changes = []
     with open(change_file, 'r', encoding='utf-8') as f:
-        for line_num, line in enumerate(f, 1):
+        content_pc = f.read()
+    
+    blocks = re.split(r'-{10,}', content_pc)
+    for block in blocks:
+        lines = block.split('\n')
+        date = ""
+        source = ""
+        ref = ""
+        for line in lines:
             stripped = line.strip()
             if not stripped:
+                continue
+            
+            # Date MM-DD-YYYY
+            date_match = re.search(r'(\d{2})-(\d{2})-(\d{4})', stripped)
+            if date_match and not date:
+                m, d, y = date_match.groups()
+                date = f"{y}{m}{d}"
+                if len(stripped) < 15:
+                    continue
+            
+            if stripped.startswith('Source:'):
+                source = stripped.replace('Source:', '').strip()
+                continue
+            
+            if stripped.startswith('Ref:'):
+                ref = stripped.replace('Ref:', '').strip()
+                continue
+            
+            if stripped.startswith('L code'):
                 continue
                 
             num_cols = stripped.count(':') - stripped.count(':/')
             
-            if stripped[0].isdigit() and num_cols in [3, 4]:
+            if stripped[0:1].isdigit() and num_cols in [3, 4]:
                 parts = [p.strip() for p in stripped.split(':')]
                 if 4 <= len(parts) <= 5:
+                    comment = parts[4] if len(parts) == 5 else ""
                     changes.append({
                         'lcode': parts[0],
                         'headword': parts[1],
                         'old': parts[2],
                         'new': parts[3],
+                        'date': date,
+                        'source': source,
+                        'ref': ref,
+                        'comment': comment,
                         'found_any': False
                     })
             elif num_cols > 0:
-                if not stripped.startswith(('Source:', 'Ref:', 'L code :')):
+                if not stripped.startswith(('http',)):
                     has_non_ascii = any(ord(c) > 127 for c in stripped)
-                    if has_non_ascii or stripped[0].isdigit():
-                        print(f"{YELLOW}WARNING: Malformed line at {line_num} - {stripped}{RESET}")
+                    if has_non_ascii or (stripped and stripped[0].isdigit()):
+                        # print(f"{YELLOW}WARNING: Malformed line - {stripped}{RESET}")
+                        pass
 
     # Read original file
     with open(orig_file, 'r', encoding='utf-8') as f:
@@ -135,7 +168,11 @@ def main():
                     used_val = line_used_val
                     total_count += len(matches)
                     
-                    tag_content = f"{old_val}->{new_val}"
+                    if start_tag == '{{':
+                        metadata = f"{change_data.get('date', '')}|{change_data.get('source', '')}|{change_data.get('ref', '')}|{change_data.get('comment', '')}"
+                        tag_content = f"{old_val}->{new_val}||{metadata}"
+                    else:
+                        tag_content = f"{old_val}->{new_val}"
                     replacement_tag = f"{start_tag}{tag_content}{end_tag}"
                     
                     for m in reversed(matches):
