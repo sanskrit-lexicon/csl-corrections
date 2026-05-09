@@ -141,6 +141,9 @@ def main():
                     continue
                 
                 matches = []
+                # Pre-calculate existing tags for idempotency check
+                line_tags = list(re.finditer(r'\{\{.*?\}\}|\[\[.*?\]\]', line))
+                
                 search_vals = []
                 if new_val:
                     search_vals.append(new_val)
@@ -149,20 +152,30 @@ def main():
                 
                 line_used_val = None
                 for s_val in search_vals:
+                    cur_matches = []
                     if s_val in line:
                         pattern = re.escape(s_val)
-                        matches = list(re.finditer(pattern, line))
+                        cur_matches = list(re.finditer(pattern, line))
                     elif sum(1 for c in s_val if not c.isspace()) >= 2:
                         sep_pattern = r'(?:[-\s¦]|{.*?}|<.*?>)*'
                         regex_str = sep_pattern.join([re.escape(c) for c in s_val if not c.isspace()])
                         try:
-                            matches = list(re.finditer(regex_str, line))
+                            cur_matches = list(re.finditer(regex_str, line))
                         except re.error:
-                            matches = []
+                            cur_matches = []
                     
-                    if matches:
-                        line_used_val = s_val
-                        break
+                    if cur_matches:
+                        # Idempotency: filter out matches already inside {{...}} or [[...]]
+                        filtered = []
+                        for m in cur_matches:
+                            is_inside = any(t.start() <= m.start() and m.end() <= t.end() for t in line_tags)
+                            if not is_inside:
+                                filtered.append(m)
+                        
+                        if filtered:
+                            matches = filtered
+                            line_used_val = s_val
+                            break
                 
                 if matches:
                     used_val = line_used_val
