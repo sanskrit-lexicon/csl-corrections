@@ -213,7 +213,7 @@ def main():
                 else:
                     msg_body = f"{requested_lcode} - Tagged {total_count} occurrence(s) of '{used_val}'."
                 
-                if total_count > 3:
+                if total_count > 1:
                     print(f"{YELLOW}WARNING: {msg_body}{RESET}")
                 else:
                     print(f"INFO: {msg_body}")

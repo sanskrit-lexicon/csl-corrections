@@ -11,14 +11,14 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/162
 contains details supporting these changes.
 These changes initiated by Dr. Dhaval Patel
 L code : Headword : Old :       New       : Comment
-38 : akampana : akampana : akaMpana : convention error, use of anusvara
-61 : akARqa : akARqa : akAMqa : convention error, use of anusvara
-73 : akiYcana : akiYcana : akiMcana : convention error, use of anusvara
-79 : akuRWa : akuRWa : akuMWa : convention error, use of anusvara
-109 : akrAnta : akrAnta : akrAMta : convention error, use of anusvara
-139 : akzAntiH : akzAntiH : akzAMtiH : convention error, use of anusvara
-1411 : aniNgya : aniNgya : aniMgya : convention error, use of anusvara
-168 : aKaRqa : aKaRqa : aKaMqa : convention error, use of anusvara
+38 : akampana : {#akampana#} : {#akaMpana#} : convention error, use of anusvara
+61 : akARqa : {#akARqa#} : {#akAMqa#} : convention error, use of anusvara
+73 : akiYcana : {#akiYcana#} : {#akiMcana#} : convention error, use of anusvara
+79 : akuRWa : {#akuRWa#} : {#akuMWa#} : convention error, use of anusvara
+109 : akrAnta : {#akrAnta#} : {#akrAMta#} : convention error, use of anusvara
+139 : akzAntiH : {#akzAntiH#} : {#akzAMtiH#} : convention error, use of anusvara
+1411 : aniNgya : {#aniNgya#} : {#aniMgya#} : convention error, use of anusvara
+168 : aKaRqa : {#aKaRqa#} : {#aKaMqa#} : convention error, use of anusvara
 -----------------------------------------------------------------------
 12-01-2015
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/163
@@ -47,7 +47,7 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/215
 contains details supporting these changes.
 These changes initiated by Dr. Dhaval Patel
 L code : Headword  : Old :       New       : Comment
-9548 : equ : <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}¦ : <P>.{#equ(qU,qo)kaH, --kaM#}¦  : change 'or' to comma for consistency; also equ->equkaH
+9548 : equ : {#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}¦ : {#equ(qU,qo)kaH, --kaM#}¦  : change 'or' to comma for consistency; also equ->equkaH
 -----------------------------------------------------------------------
 05-21-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
@@ -67,14 +67,14 @@ L code : Headword  : Old :       New       : Comment
 Source: User geymonat
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/319
 L code : Headword  : Old :       New       : Comment
-4762 : avalaMb : Ma4l. : Ma10l. :  abbrev. for mAlatImADava
+4762 : avalaMb : <ls>Mál. 8</ls> : <ls>Māl. 8</ls> :  abbrev. for mAlatImADava
 -----------------------------------------------------------------------
 12-31-2016
 Source: Dhaval Patel
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/329
 L code : Headword  : Old :       New       : Comment
 28055 : SukaH: kaWErete : kaRWErete : cf. AP
-1688  : anupadInA : baDdA : badDA : 
+1688  : anupadInA : baDdA Ka : badDA Ka : 
 3883  : aMbarIzaM : BrAzWro : BrAzwro
 19129 : puras : hfutaSeza : hutaSeza
 -----------------------------------------------------------------------
@@ -88,40 +88,40 @@ batch 200
 609 : atiprAQA : atiprAQA : atiprOQA
 batch 201
 1747 : anapraSnaH : anapraSnaH : anupraSnaH :  before and after words are 'anu'
-5366 : azwamaka : azWamaka : azwamaka
+5366 : azwamaka : {#azWamaka#} : {#azwamaka#}
 5828 : Akzapaka : Akzapaka : Akzepaka : prev. word akzI.., next is akze...
 6053 : AQayaMkaraRa : AQayaMkaraRa : AQyaMkaraRa
-6135 : ATarvaRa : ATavaRa : ATarvaRa
+6135 : ATarvaRa : {#ATavaRa#} : {#ATarvaRa#}
 6254 : ADya : ADya : ADyE : Cf. DyE in AP90
-6461 : Aprapadani : Aprapadani : AprapadIna
+6461 : AprapadIna : {#Aprapadani#} : {#AprapadIna#}
 6540 : ABraka : ABraka : ABrika
 
 6679 : Ayuzmata : Ayuzmata : Ayuzmat : lost virama
 7427 : ilIvizaH : ilIvizaH : ilIbiSaH : Wrong spelling of a name of a demon from RV.
 7428 : ilIzaH : ilIzaH : ilISaH : sergeA thought it should be left unchanged
 7489 : IjAja : IjAja : IjAna : affix कानच् should give आन्
-7848 : uttuga : uttuga : uttuMga: (checked by the source of the quotation - ed. 1815)
+7848 : uttuMga : {#uttuga#} : {#uttuMga#} : (checked by the source of the quotation - ed. 1815)
 9058 : upahvE : upahvE : upahve : ap90 gives ह्वे, आह्वे
 9329 : uzari : uzari : uzIra : badly printed
 9686 : Ezamaratana : Ezamaratana : Ezamastana : badly printed
 9860 : ApahArika : ApahArika : OpahArika
-10138 : kaqUMla : kaqUMla : kaMqUla : wrongly placed anusvara
+10138 : kaqUMla : {#kaqUMla#} : {#kaMqUla#} : wrongly placed anusvara
 11145 : kUpinI : kUpinI : kupinI
 11217 : kulaBaraH : kulaBaraH : kulaMBaraH
 11388 : kfkavAkfH : kfkavAkfH : kfkavAkuH : apte1957 & apte 1965 changed to -kuḥ
 11511 : kEkirAtaH : kEkirAtaH : kEMkirAtaH : follows after kaiṁkaryam
-11517 : kadAra : kadAra : kEdAra
+11517 : kadAra : {#kadAra#} : {#kEdAra#}
 batch 203
 11549 : kowimata : kowimata : kowimat : badly printed
 11685 : kraTakaSikaH : kraTakaSikaH : kraTakESikaH
 11989 : kzABe : kzABe : kzoBa : badly placed diacritics
-12439 : gAga : gAga : gAMga
-12828 : grava : grava : grEva
-12894 : Gaspara : Gaspara : Gasmara : aff. kmarac will give -mara
+12439 : gAga : {#gAga#} : {#gAMga#}
+12828 : grava : {#grava#} : {#grEva#}
+12894 : Gaspara : {#Gaspara#} : {#Gasmara#} : aff. kmarac will give -mara
 13044 : caMqimana : caMqimana : caMqiman : lost virama
 13078 : cadakaH : cadakaH : caMdakaH : lost anusvara
 13115 : capakAvatI : capakAvatI : caMpakAvatI : lost anusvara
-13574 : Cadas : Cadas : CaMdas : lost anusvara
+13574 : {#CaMdas#} : {#Cadas#} : {#CaMdas#} : lost anusvara
 14364 : tanusa : tanusa : tanus : lost anusvara
 12525 : gilayuH : gilayuH : gilAyuH : sergeA demurs
 batch 204
@@ -132,16 +132,16 @@ batch 204
 18096 : paripfcCa : paripfcCa : paripfcCA : परिपृच्छ is impossible without any termination
 18290 : parizkad : parizka(ska)d : parizkaM(skaM)d
 18446 : paryAvataH : paryAvataH : paryAvartaH : lost repha
-18457 : payurpAs : payurpAs : paryupAs : wrong placed repha
+18457 : payurpAs : {#payurpAs#} : {#paryupAs#} : wrong placed repha
 18545 : pastyavat : pastyavat : pastyAvat : changed according to the spelling of RV 1.151.2, 2.11.16, 4.54.5, 8.7.29, 9.97.18 - always with long ā
 18583 : pAcayajYika : pAcayajYika : pAMcayajYika : lost anusvara
 batch 205
 18728 : pAMrataMtrika : pAMrataMtrika : pArataMtrika : wrong anusvara
 18772 : pArikzataH : pArikzataH : pArikzitaH : lost i
 18907 : picaqakaH : picaqakaH : picaMqakaH : lost anusvara. from पिचंडः
-19137 : puroGA : puroGA : puroDA : from puras+dhā
+19137 : puroGA : {#puroGA#} : {#puroDA#} : from puras+dhā
 19501 : prakAqakaH : prakAqakaH : prakAMqakaH : badly printed, lost anusvara
-19701 : prajAM : prajAM : prajA : wrong anusvara
+19701 : prajAM : {#prajAM#}¦ : {#prajA#}¦ : wrong anusvara
 19950 : pratibAMDin : pratibAMDin : pratibADin : wrong anusvara
 batch 206
 20181 : pratyakzijYAta : pratyakzijYAta : pratyaBijYAta : print vague
@@ -159,21 +159,21 @@ batch 206
 batch 207
 24426 : laDaka : laDaka : laMGaka : from लंघ्
 24632 : liGu : liGu : liDu: see explanation of MW- li-dhu from LIṇga+DHātu; also sorted after liṭ
-24745 : lIkaH : lIkaH : lokaH
+24745 : lIkaH : {#lIkaH#} : {#lokaH#}
 25076 : varamin : varamin : varIman : badly placed diacritics
 batch 208
 26442 : vilupakaH : vilupakaH : viluMpakaH : per AP quote from Bhag. Pur. 1.18.44
-26991 : vez : vez : vezw
+26991 : vez : {#vez#} : {#vezw#}
 27204 : vyatikarRi : vyatikarRi : vyatikIrRa
-28102 : SaMD : SaMD : SuMD
+28102 : SaMD : {#SaMD#} : {#SuMD#}
 batch 209
-28396 : Sro : Sro : SrI
+28396 : Sro : {#Sro#} : {#SrI#}
 28414 : SreyI : SreyI : SreRI
 28772 : saMsPalaH : saMsPalaH : saMsPAlaH
 29866 : sarvakaza : sarvakaza : sarvaMkaza
 30130 : sAparAyika : sAparAyika : sAMparAyika
 30770 : stimiH : stimiH : stiBiH : Confirm by alph. order
-31059 : syaMQ : syaMQ : syaMd
+31059 : {#syaMQ#} : {#syaMQ#}¦ : {#syaMd#}¦
 31425 : hiMqikAH : hiMqikAH : hiMqikaH
 -----------------------------------------------------------------------
 01-10-2017
@@ -190,11 +190,10 @@ Sources: user SergeA, Jim Funderburk
 L code : Headword  : Old :       New       : Comment
 3234 : aBimaMTa :  aBimaMTa : aBimaMTaH :  due to ref. to hw adhimaṁthaḥ 
 15430 : diva :  diva : div :  verb missing virama
-17340 : nuda :  nuda : nud :  verb missing virama
+17340 : nuda :  {#nuda#} : {#nud#} :  verb missing virama
 19002 : pila :  pila : pil :  it's a verb; lost virama
-19063 : puMsa :  puMsa : puMs :  lost virama
-23266 : muda :  muda : mud :  badly printed
-
+19063 : puMsa :  {#puMsa#} : {#puMs#} :  lost virama
+23266 : mud :  {#muda, mudA#} : {#mud, mudA#} :  badly printed
 12525 : gilayuH :  gilayuH : gilAyuH :  gila + Ayus
 16372 : naraMDipaH :  naraMDipaH : naraMDizaH :  Presume misprint of 'p' for 'z'; based on MW  AP and others
 20899 : prasavaMtiH :   prasavaMtiH : prasavaMtI :  f. of pres. participle ends in I not iH
@@ -215,9 +214,9 @@ L code : Headword  : Old :       New       : Comment
 235 :  aG : aGa : aG :  missing virama
 1341 : anAptf : anApta : anAptf : cf. ap
 4862 :  avasAraRaM :  avasAraRaM : avasaraRaM :  alph. order - cf. AP
-18934 :  piYjalaM :  piYjalaM : piYjulaM : (based on alph. order.). This is distinct from piYjala (adj.)
+18934 :  piYjalaM :  piYjalaM : piMjulaM : (based on alph. order.). This is distinct from piYjala (adj.)
 24586 :  lAlasokaM :  lAlasokaM : lAlasIkaM :  Cf. AP and SHS gives derivation with Ikan suffix.
-27031 :  vEcityaM :  vEcityaM : vEcittyaM :  cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
+27031 :  vEcityaM :  {#vEcityaM#} : {#vEcittyaM#} :  cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
 6249 :  ADyakzaM :  ADyakzaM : ADyakzyaM :  zyaY suffix
 -----------------------------------------------------------------------
 02-03-2017
@@ -228,7 +227,7 @@ L code : Headword  : Old :       New       : Comment
 21295 : prIRanaM :  prIRanaM : prIRana :  adjective
 21427 : plavanaM :  plavanaM : plavana :  adjective
 22202 : BItaMkAraM :  BItaMkAraM : BItaMkAra :  adjective
-30355 : suKaM :  suKaM : suKa :  presumed adjective
+30355 : suKaM :  {#suKaM#} : {#suKa#} :  presumed adjective
 -----------------------------------------------------------------------
 02-09-2017
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
@@ -253,7 +252,7 @@ or just lost anusvara
 Batch 203
 15635 : devayA : devayA : devayAnI : This is spelling in text. Sense (daughter of Sukra) agrees with AP and MW. 
 17053 : nivartaka : nivartaka : nirvartaka : first 'r' diacritic is badly printed
-17239 : nipat : nipat : nizpat : Based on alph. order and quote within text.
+17239 : nipat : {#nipat#} : {#nizpat#} : Based on alph. order and quote within text.
 
 Batch 204
 18790 : pArivarhaH : pArivarhaH : pAribarhaH : between pārip- & pāribh- should be pārib-, not pāriv-
@@ -263,13 +262,13 @@ Batch 204
 
 Batch 205
 22910 : mAMjizwa : mAMjizwa : mAMjizWa : text and other dictionaries have 'W'
-23225 : muktaH : muktaH : muktiH : missing 'i' vowel diacritic.
+23225 : muktaH : {#muktaH#}¦ : {#muktiH#}¦ : missing 'i' vowel diacritic.
 23591 : mAla : mAla : mOla : missing vowel diacritic
 23918 : rahiH : rahiH : raMhiH :  anusvara missing or faintly printed
 24310 : revata : revata : rEvata : Wrong vowel diacritic; under rE
-24492 : larb : larb : larv : From text AP90 think larv. However most dictionaries have larb.
+24492 : larb : {#larb#} : {#larv#} : From text AP90 think larv. However most dictionaries have larb.
 25029 : baMBAravaH : baMBAravaH : vaMBAravaH : by alph. order. However MW has both spellings.
-25499 : vArdDaka : vArdDaka : vArdDukaM : 'a/u' is a typo; the virAma considered print error.
+25499 : vArdDaka : {#vArdDaka#} : {#vArdDukaM#} : 'a/u' is a typo; the virAma considered print error.
 25551 : vAsaH : vAsaH : vAsataH : By alph. order and sense; presume 'ta' missing.
 25658 : vikf : vikf : vikF : print vague; by sense must be vikF
 25671 : vikramit : vikramit : vikramin : print vague; 'mit' not valid ending
@@ -277,7 +276,7 @@ Batch 205
 
 Batch 207
 30209 : sAleya : sAleya : sAleyaM : n. noun needs anusvAra ending
-30465 : sUra : sUra : sUr : virAma mis-placed
+30465 : sUra : {#sUra#} : {#sUr#} : virAma mis-placed
 31456 : hariH : hariH : hIraH : mis-placed diacritic
 31457 : harikaH : harikaH : hIrakaH : mis-aligned diacritic
 
@@ -298,11 +297,11 @@ Batch 208
 18584 : pAMcavAzarki : pAMcavAzarki : pAMcavarzika : poor print
 18802 : pArirakaH : pArirakaH : pArirakzakaH : cf ap and MW
 19850 : praticarita : praticarita : praticArita : cf AP and MW; causal
-20452 : pravAD : pravAD : prabAD : prefix of root bAD
+20452 : pravAD : {#pravAD#} : {#prabAD#} : prefix of root bAD
 20795 : vezwaH : vezwaH : pravezwaH : alph. order and sense
 21005 : prahaRi : prahaRi : prahIRa : mis-aligned diacritic
-22035 : Baza : Baza : Baz : verb missing virama
-22038 : s : s : Bas : omission in print
+22035 : Baza : {#Baza#} : {#Baz#} : verb missing virama
+22038 : Bas : {#s#} : {#Bas#} : omission in print
 Batch 209
 22516 : mawasPawiH : mawasPawiH : mawusPawiH : cf AP and MW 
 24034 : rarAwa : rarAwa : rarAwaM : also lalAwa -> lalAwaM missing anusvara
@@ -348,7 +347,7 @@ L code : Headword  : Old :       New       : Comment
 Sources:  user geymonat@sanscrito.it
 L code : Headword  : Old :       New       : Comment
 11435  : kfz : nAtyAyatazwakfSAMrgaH : nAtyAyatakfzwaSArMgaH : Confirm AP-1957, PWG
-21214  : prArTanaM : requset : request :
+21214  : prArTanaM : refusal of a requset : refusal of a request :
 -----------------------------------------------------------------------
 07-06-2019
 Source:  user ekalavya01
@@ -358,7 +357,7 @@ L code : Headword  : Old :       New       : Comment
 07-06-2019
 Source:  user chandrasekharanr
 L code : Headword  : Old :       New       : Comment
-24467  : laB  : ({#lipsate#}) T wish : ({#lipsate#}) To wish
+24467  : laB  : ({#lipsate#}) T : ({#lipsate#}) To
 -----------------------------------------------------------------------
 07-06-2019
 Source:  user jza06555
@@ -373,7 +372,7 @@ L code : Headword  : Old :       New       : Comment
 01-10-2020
 Source:  Erik Bjørn Pedersen 
 L code : Headword  : Old :       New       : Comment
-294    : aMgiraH   : luminou : luminous : last word page 20
+294    : aMgiraH   : to luminou : to luminous : last word page 20
 -----------------------------------------------------------------------
 02-17-2020
 Source: User geymonat
@@ -411,7 +410,7 @@ L code : Headword  : Old :       New       : Comment
 Source: User chandrasekharanr
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/395
 L code : Headword  : Old :       New       : Comment
-17765  : para      : 9   :        6        : 
+17765  : para      : {@--9@} Highest, greatest   :        {@--6@} Highest, greatest        : 
 -----------------------------------------------------------------------
 11-19-2020
 Source: User kjkk2717
@@ -425,7 +424,7 @@ ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20
 L code : Headword  : Old :       New       : Comment
 1259 : anavama : infeior : inferior :
 2287 : apagaMqaH : mojority : majority :
-2346 : apatyaM : partronymic : patronymic :
+2346 : apatyaM : A partronymic : A patronymic :
 3423 : aBisaMyogaH : contat : contact :
 3513 : aBIjya : asacrifice : a sacrifice :
 3894 : aMbu : torpoise : tortoise :
@@ -437,35 +436,32 @@ L code : Headword  : Old :       New       : Comment
 12469 : gAMDAraH : commnoly : commonly :
 12475 : gAmin : appplying : applying :
 12848 : GagG : laught : laugh at :
-13055 : catur : epethet : epithet :
-15513 : dur : riresistible : irresistible :
+13055 : catur : {#--daMtaH#} an epethet : {#--daMtaH#} an epithet :
+15513 : dur : overpowered, riresistible : overpowered, irresistible :
 16635 : niKan : ercet : erect :
 17205 : nizkfta : rendevous : rendezvous :
 19911 : pratipAdanaM : ractice : practice :
 20532 : pramadvara : heedles : heedless :
 21576 : baBru : irriated : irritated :
 21803 : buD : cansider : consider :
-21860 : brahman : peancne : penance :
+21860 : brahman : Religious peancne : Religious penance :
 22193 : Bizaj : physiciand : physician, doctor :
 22653 : manuzya : amoug : among :
 23945 : raMgaH : nsaal : nasal :
 24134 : rAvaRa : eapistal. He : capital. He :
-24409 : laGayati : smake : make :
 24702 : lUtA : cobwob : cobweb :
-24745 : lokaH : divison : division :
 24865 : vacanaM : dictium : dictum :
 25553 : vAsaMta : hononr : honour :
-25594 : vi : ntensity : intensity :
+25594 : vi : ntensity; {#viDvaMsa#} : intensity; {#viDvaMsa#} :
 26081 : vinaya : opiniom : opinion :
 26303 : viyat : aky : sky :
 26442 : viluMpakaH : revisher : ravisher :
 26717 : visPurita : nlarged : enlarged :
 26835 : vf : snppress : suppress :
-26860 : vfdDiH : increasa : increase :
 26978 : vevI : concieve : conceive :
 27438 : vyutpad : conversaut : conversant :
 28014 : SizyaH : pasion : passion :
-28058 : SuktiH : peral : pearl :
+28058 : SuktiH : dusky spots on a\nperal. : dusky spots on a\npearl. :
 28120 : SulkaH : praticularly : particularly :
 28724 : saMsAraH : mundance : mundane :
 29288 : saBAjanaM : worshipinng : worshipping :
@@ -476,13 +472,12 @@ L code : Headword  : Old :       New       : Comment
 30098 : sAPalyaM : productivenss : productiveness :
 30353 : su : therefere : therefore :
 30355 : suKa : placcidly : placidly :
-30422 : sUc : indiate : indicate :
-30652 : sOBAgyaM : forune : fortune :
+30422 : sUc : show, indiate : show, indicate :
 30697 : sOvIraM : lattar : latter :
 30763 : stavaka : boquet : bouquet :
 30910 : snAnIya : ungneuts : unguents :
 31068 : syamaMtakaH : jem : gem :
-31338 : hastaH : worh : worn :
+31338 : hastaH : jewerl worh : jewel worn :
 31385 : hAvaH : conquettish : coquettish :
 32149 : maheMdra : tincluded : included :
 18649 : pAtAlaM : atrol. : astrol. :
@@ -495,7 +490,7 @@ ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/48
 L code : Headword  : Old :       New       : Comment
 3124 : aBinaMd : rejocings : rejoicings :
 4265 : alaya : permanance : permanence :
-9518 : eka : rhinocerous : rhinoceros :
+9518 : eka : unicorn; rhinocerous : unicorn; rhinoceros :
 9594 : evaM : preceeds : precedes :
 11213 : kulaM : geneologist : genealogist :
 11509 : kEkeyaH : completey : completely :
@@ -503,20 +498,19 @@ L code : Headword  : Old :       New       : Comment
 16233 : DvajikaH : hyprocrite : hypocrite :
 17468 : nyakza : inferier : inferior :
 17538 : pakzaH : exparte : ex parte :
-21102 : prARin : ng : ing :
+21102 : prARin : ram-fightng : ram-fighting :
 21299 : prItimat : affoctionate : affectionate :
 21902 : Bakzita : remnauts : remnants :
 22025 : BavitavyatA : consequenee : consequence :
-22561 : matiH : ntelligent : intelligent :
+22561 : matiH : ntelligent, clever. {#--hIna#} : intelligent, clever. {#--hIna#} :
 22865 : mahA : cachination : cachinnation :
 22895 : mAgaDa : carda : cardamoms :
 23518 : mETunikA : allianee : alliance :
 23821 : yuktiH : oxpression : expression :
 24474 : lamakaH : parmour : paramour :
 24702 : lUtA : cobwob : cobweb :
-24968 : vanaM : garand : garland :
+24968 : vanaM : a garand of forest flowers : a garland of forest flowers :
 26825 : vIryaM : pusilanimous : pusillanimous :
-26860 : vfdDiH : increasa : increase :
 26978 : vevI : concieve : conceive :
 27021 : vEkfta : woful : woeful :
 27270 : vyaya : derfraying : defraying :
@@ -526,9 +520,8 @@ L code : Headword  : Old :       New       : Comment
 28012 : Sizwa : remainnig : remaining :
 28014 : SizyaH : pasion : passion :
 28058 : SuktiH : bair : hair :
-28058 : SuktiH : peral : pearl :
 28120 : SulkaH : praticularly : particularly :
-28120 : SulkaH : custo :custom :
+28120 : SulkaH : custo mhouse : customhouse :
 28519 : zaz : asid : said :
 28724 : saMsAraH : mundance : mundane :
 29288 : saBAjanaM : worshipinng : worshipping :
@@ -538,7 +531,6 @@ L code : Headword  : Old :       New       : Comment
 30098 : sAPalyaM : productivenss : productiveness :
 30353 : su : therefere : therefore :
 30355 : suKa : placcidly : placidly :
-30422 : sUc : indiate : indicate :
 30697 : sOvIraM : lattar : latter :
 30734 : stanaH : breastmantle : breast mantle :
 30763 : stavaka : boquet : bouquet :
@@ -561,13 +553,13 @@ L code : Headword  : Old :       New       : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/592
 user: Dr. Marcis Gasuns
 L code : Headword  : Old :       New       : Comment
-17489  : nyAyaH    : where there is A., there is B : where there is A, there is B  : A. -> A
+17489  : nyAyaH    : where there is A., : where there is A,  : A. -> A
 -----------------------------------------------------------------
 08-29-2021
 Source: User AndhraBharati
 Ref: https://github.com/sanskrit-lexicon/AP90/issues/24#issuecomment-907699250
 L code : Headword : Old  : New : Comment
-12741  : gOqaH    : M. P. : K. P. : ls reference corrected
+12741  : gOqaH    : <ls>M. P. 7</ls> : <ls>K. P. 7</ls> : ls reference corrected
 -----------------------------------------------------------------
 10-01-2021
 Source: User geymonat
@@ -591,13 +583,13 @@ L code : Headword : Old  : New : Comment
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/975
 L code : Headword : Old  : New : Comment
-30119  : sAmAnya  : of an, average : of an average :
+30119  : sAmAnya  : Ordinary, of an, : Ordinary, of an :
 -----------------------------------------------------------------
 12-22-2022
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1003
 L code : Headword : Old  : New : Comment
-28153  : SUnya    : valid : void : cf. AP57
+28153  : SUnya    : Empty, valid : Empty, void : cf. AP57
 ----------------------------------------------------------------------
 01-26-2024
 Source: Scott Rhodes
