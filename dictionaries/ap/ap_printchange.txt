@@ -318,7 +318,7 @@ L code : Headword : Old  : New : Comment
 3030 : apUrvin : varuRaH : taruRaH
 3048 : apehi : ˚karA : ˚kawA  : cf. pwg
 3228 : apsas : Rv. 1. 124. 6 : Rv. 1. 124. 7
-3242.004 : abalA : {%a.%} woman : a woman  : {%a.%} means 'a.' in italic type
+3242.004 : abalA : {%a.%} woman : a woman  : 'a. italics' means 'a' here.
 3344 : aBigamaH : Approahing : Approaching
 3404.024 : aBijYAnaSakuntalam : -SAkuntalam : -Sakuntalam
 3440.020 : aBihitAnvayavAdaH : vāchyārtha : vācyārtha 
@@ -863,7 +863,7 @@ L code : Headword : Old  : New : Comment
 305.052 : aNgaBUH : {#-BUH#}¦ : {#-BU#}¦
 5808 : aSiSizuH : {#aSiSizuH#}¦ : {#aSiSizu#}¦
 6242.026 : aspfzwavahniH : {#-vahniH#}¦ : {#-vahni#}¦
-6271 : asva : asvajAtiH#} : asvajAti#}
+6271 : asva : asvajAtiH : asvajAti
 6271.022 : asvajAtiH : {#-jAtiH#}¦ : {#-jAti#}¦
 6747 : AtApiH : a. : m.
 17354.006 : dIrGam : dIrGabAhuH, : dIrGabAhu,
@@ -939,26 +939,17 @@ L code : Headword : Old  : New : Comment
 Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/6b5cd78
 L code : Headword : Old  : New : Comment
 860 : atyAnandA : a. : f. :
-7527.042 : ArdramAzA : a. : f.
-7527.042 : ArdramAzA : %} : %} a
-11860.108 : kAkaruhA : a. : f.
-11860.108 : kAkaruhA : %} : %} a
-12189.040 : kAzWacitA : a. : f.
-12189.040 : kAzWacitA : %} : %} a
-12576.110 : kulajAyA : a. : f.
-12576.110 : kulajAyA : %} : %} a
-13814.020 : ganDakapezikA : a. : f.
-13814.020 : ganDakapezikA : %} : %} a
+7527.042 : ArdramAzA : {%a.%} : {%f.%} a
+11860.108 : kAkaruhA : {%a.%} : {%f.%} a
+12189.040 : kAzWacitA : {%a.%} : {%f.%} a
+12576.110 : kulajAyA : {%a.%} : {%f.%} a
+13814.020 : ganDakapezikA : {%a.%} : {%f.%} a
 13942 : gavyA : a. : f.
-14066.020 : gItyAryA : a. : f.
-14066.020 : gItyAryA : %} : %} a
+14066.020 : gItyAryA : {%a.%} : {%f.%} a
 15673 : jIvA : a. : f.
-16113.066 : tanulatA : a. : f.
-16113.066 : tanulatA : %} : %} a
-17251.026 : dAvalatA : a. : f.
-17251.026 : dAvalatA : %} : %} a
-19010.020 : nirRayopamA : a. : f.
-19010.020 : nirRayopamA : %} : %} a
+16113.066 : tanulatA : {%a.%} : {%f.%} a
+17251.026 : dAvalatA : {%a.%} : {%f.%} a
+19010.020 : nirRayopamA : {%a.%} : {%f.%} a
 20466.020 : parivarjitasaMKyA : {#-saMKyA#}¦ : {#-saMKya#}¦
 35712.022 : sTalIBUtA : {#-BUtA#}¦ : {#-BUta#}¦
 36226.036 : hatacCAyA : {#-cCAyA#}¦ : {#-cCAya#}¦
