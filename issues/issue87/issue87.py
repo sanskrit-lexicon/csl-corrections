@@ -63,8 +63,8 @@ def main():
                 source = stripped.replace('Source:', '').strip()
                 continue
             
-            if stripped.startswith('Ref:'):
-                ref = stripped.replace('Ref:', '').strip()
+            if stripped.lower().startswith('ref:'):
+                ref = stripped[4:].strip()
                 continue
             
             if stripped.startswith('L code'):

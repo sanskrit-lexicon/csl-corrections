@@ -194,7 +194,6 @@ L code : Headword  : Old :       New       : Comment
 19002 : pila :  pila : pil :  it's a verb; lost virama
 19063 : puMsa :  {#puMsa#} : {#puMs#} :  lost virama
 23266 : mud :  {#muda, mudA#} : {#mud, mudA#} :  badly printed
-12525 : gilayuH :  gilayuH : gilAyuH :  gila + Ayus
 16372 : naraMDipaH :  naraMDipaH : naraMDizaH :  Presume misprint of 'p' for 'z'; based on MW  AP and others
 20899 : prasavaMtiH :   prasavaMtiH : prasavaMtI :  f. of pres. participle ends in I not iH
 25529 : vAvavaH :  vAvavaH : vAvayaH :  Presume AP and MW and others are correct in spelling of this plant name.
@@ -217,7 +216,6 @@ L code : Headword  : Old :       New       : Comment
 18934 :  piYjalaM :  piYjalaM : piMjulaM : (based on alph. order.). This is distinct from piYjala (adj.)
 24586 :  lAlasokaM :  lAlasokaM : lAlasIkaM :  Cf. AP and SHS gives derivation with Ikan suffix.
 27031 :  vEcityaM :  {#vEcityaM#} : {#vEcittyaM#} :  cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
-6249 :  ADyakzaM :  ADyakzaM : ADyakzyaM :  zyaY suffix
 -----------------------------------------------------------------------
 02-03-2017
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
@@ -283,7 +281,6 @@ Batch 207
 ; misc
 18039 : paridaS : paridaS : paridfS : missing vowel diacritic
 2912  : aprAQa  : aprAQa  : aprOQa  : missing vowel diacritic
-25211 : balIkaM : balIkaM : valIkaM : by alph. order
 -----------------------------------------------------------------------
 02-14-2017
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
@@ -449,12 +446,10 @@ L code : Headword  : Old :       New       : Comment
 22653 : manuzya : amoug : among :
 23945 : raMgaH : nsaal : nasal :
 24134 : rAvaRa : eapistal. He : capital. He :
-24702 : lUtA : cobwob : cobweb :
 24865 : vacanaM : dictium : dictum :
 25553 : vAsaMta : hononr : honour :
 25594 : vi : ntensity; {#viDvaMsa#} : intensity; {#viDvaMsa#} :
 26081 : vinaya : opiniom : opinion :
-26303 : viyat : aky : sky :
 26442 : viluMpakaH : revisher : ravisher :
 26717 : visPurita : nlarged : enlarged :
 26835 : vf : snppress : suppress :
@@ -471,7 +466,6 @@ L code : Headword  : Old :       New       : Comment
 29826 : sarasa : seniment : sentiment :
 30098 : sAPalyaM : productivenss : productiveness :
 30353 : su : therefere : therefore :
-30355 : suKa : placcidly : placidly :
 30422 : sUc : show, indiate : show, indicate :
 30697 : sOvIraM : lattar : latter :
 30763 : stavaka : boquet : bouquet :
@@ -511,35 +505,19 @@ L code : Headword  : Old :       New       : Comment
 24702 : lUtA : cobwob : cobweb :
 24968 : vanaM : a garand of forest flowers : a garland of forest flowers :
 26825 : vIryaM : pusilanimous : pusillanimous :
-26978 : vevI : concieve : conceive :
 27021 : vEkfta : woful : woeful :
 27270 : vyaya : derfraying : defraying :
-27438 : vyutpad : conversaut : conversant :
 27857 : SArkara : skum : scum :
 27913 : SiH : eptihet : epithet :
 28012 : Sizwa : remainnig : remaining :
-28014 : SizyaH : pasion : passion :
 28058 : SuktiH : bair : hair :
-28120 : SulkaH : praticularly : particularly :
 28120 : SulkaH : custo mhouse : customhouse :
 28519 : zaz : asid : said :
-28724 : saMsAraH : mundance : mundane :
-29288 : saBAjanaM : worshipinng : worshipping :
-29423 : samAruh : untertake : undertake :
-29701 : saMprez : messsage : message :
-29826 : sarasa : seniment : sentiment :
-30098 : sAPalyaM : productivenss : productiveness :
-30353 : su : therefere : therefore :
 30355 : suKa : placcidly : placidly :
-30697 : sOvIraM : lattar : latter :
 30734 : stanaH : breastmantle : breast mantle :
-30763 : stavaka : boquet : bouquet :
-30910 : snAnIya : ungneuts : unguents :
 30929 : snehaH : sesamun : sesamum :
-31068 : syamaMtakaH : jem : gem :
 31245 : haMqA : owest : lowest :
 31278 : hariRa : yel lowish : yellowish :
-31385 : hAvaH : conquettish : coquettish :
 32003 : kalhaRa : contemporay : contemporary :
 32101 : aMDra : modren : modern :
 ----------------------------------------------------------------------
@@ -547,7 +525,7 @@ L code : Headword  : Old :       New       : Comment
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/548
 user chandrasekharanr
 L code : Headword  : Old :       New       : Comment
-22244  : BU        : {c1c} <ab>U.</ab>  :  {c10c} <ab>U.</ab> :
+22244  : BU        : {c1c} <ab>U.</ab> ({#BAvayati-te#})  :  {c10c} <ab>U.</ab> ({#BAvayati-te#}) :
 ----------------------------------------------------------------------
 06-21-2021
 ref: https://github.com/sanskrit-lexicon/csl-orig/issues/592
