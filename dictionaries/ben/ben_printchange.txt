@@ -11,12 +11,12 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/140
 contains details supporting these changes.
 These changes initiated by Dr. Dhaval Patel
 L code : Headword : Old :       New       : Comment
-12495 : urjaskara : urjaskara : Urjaskara : print error It is in 'U' headwords
-18989 : purIzaDAna : purIzaDAna : purIzADAna : print error Refer Yajyavalkya text
-111283 : mAsuri : mAsuri : mAsurI : print error refer Hemacandra text
-112442 : limpaka : limpaka : limpAka : print error meaning = lime tree
-114324 : vratIna : vratIna : vrAtIna : print error Lexicographer Error
-110810 : macarCikA : macarCikA : macarcikA : print error Lexicographer error
+2495 : urjaskara : urjaskara : Urjaskara : print error It is in 'U' headwords
+8988 : purIzaDAna : purIzaDAna : purIzADAna : print error Refer Yajyavalkya text
+11282 : mAsuri : mAsuri : mAsurI : print error refer Hemacandra text
+12441 : limpaka : limpaka : limpAka : print error meaning = lime tree
+14323 : vratIna : vratIna : vrAtIna : print error Lexicographer Error
+10809 : macarCikA : macarCikA : macarcikA : print error Lexicographer error
 -----------------------------------------------------------------------
 05-03-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/287
