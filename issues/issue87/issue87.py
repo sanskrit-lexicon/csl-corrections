@@ -59,13 +59,19 @@ def main():
                 if len(stripped) < 15:
                     continue
             
-            if stripped.startswith('Source:'):
-                source = stripped.replace('Source:', '').strip()
+            if stripped.lower().startswith('source:'):
+                source = stripped[7:].strip()
                 continue
             
             if stripped.lower().startswith('ref:'):
                 ref = stripped[4:].strip()
                 continue
+            
+            if 'reference' in stripped.lower() and 'http' in stripped:
+                url_match = re.search(r'(https?://\S+)', stripped)
+                if url_match:
+                    ref = url_match.group(1)
+                    continue
             
             if stripped.startswith('L code'):
                 continue
