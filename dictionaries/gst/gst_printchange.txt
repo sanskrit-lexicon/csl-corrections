@@ -5,9 +5,9 @@ This file was begun Feb 1, 2021.
 
 -----------------------------------------------------------------------
 02/01/2021
+Source: Dr. Sampada Savardekar
 ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/50
-These changes initiated by Dr. Sampada Savardekar
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 302 : agaja : mountaineous : mountainous :
 940 : ajuzwa : agreable : agreeable :
 1765 : aDaHpuzpI : anisun : anisum :
@@ -18,20 +18,20 @@ L code : Headword : Old  : New : Comment
 3064 : anupapAdaka : origine : origin :
 3331 : anuvAda : sipely : simply :
 3426 : anuzwuB : fourheaded : four-headed :
-3952 : anti : abbrevation : abbreviation :
+3952 : anti : abbrevation of {#antikA#} : abbreviation of {#antikA#} :
 4307 : anyaSAKaka : abandonned : abandoned :
 4377 : anyonyahastakalita : alloted : allotted :
 4532 : apaGana : explicitely : explicitly :
 4541 : apacAra : deficience : deficiency :
 4919 : apavidDa : mappelle : m'appelle :
 5024 : apahAna : abandonning : abandoning :
-5115 : apAmArga : purgent : pungent :
-5121 : apAra : acquiences : acquiescences :
+5115 : apAmArga : emetic, purgent : emetic, pungent :
+5121 : apAra : acquiences relating to : acquiescences relating to :
 5135 : apAlana : casualities : casualties :
-5162 : api : prefex : prefix :
-5162 : api : wich : which :
+5162 : api : prefex to verbs, is considered : prefix to verbs, is considered :
+5162 : api : wich the radical : which the radical :
 5162 : api : implicitely : implicitly :
-5162 : api : sometimas : sometimes :
+5162 : api : sometimas also : sometimes also :
 5285 : apekzAbudDi : chosing : choosing :
 5352 : apyayadIkzita : waylayed : waylaid :
 5395 : apraja : porceived : perceived :
@@ -41,7 +41,7 @@ L code : Headword : Old  : New : Comment
 6337 : aBivAdana : inhabitated : inhabited :
 6445 : aBizeka : whaterer : whatever :
 6445 : aBizeka : identifiy : identify :
-6445 : aBizeka : acticles : articles :
+6445 : aBizeka : infusions of the five acticles : infusions of the five articles :
 6520 : aBisArikA : horselaughter : horse laughter :
 6608 : aBIzwa : sweatheart : sweetheart :
 6608 : aBIzwa : whereever : wherever :
