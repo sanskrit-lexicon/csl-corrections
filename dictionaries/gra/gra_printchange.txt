@@ -8,17 +8,15 @@ documented.
 
 -----------------------------------------------------------------------
 03-17-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+Lcode : Headword : Old  : New : Comment
 2068 : ulbaRa : ulbana : ulbaRa : Only GRA spells 'na'. Others spell 'Ra'
 532  : anulbaRa : anulbana : anulbaRa : Only GRA spells 'na'. Others spell 'Ra'
 -----------------------------------------------------------------------
 04-14-2016
-These changes initiated by an unknown user via the correction form;
-Jim Funderburk checked the changes.
-L code : Headword : Old  : New : Comment
+Source: Unknown, Jim Funderburk
+Lcode : Headword : Old  : New : Comment
 2075 : uz : Mit nÄ« : Mit {@ni,@} : Compare MW nyuz, also PW
 1420 : ahiSuzmasatvan : ahiSusmasatvan : ahiSuzmasatvan : CF MW, PW
 1308 : asat : Unwahrkeit : Unwahrheit : 
@@ -26,48 +24,43 @@ L code : Headword : Old  : New : Comment
 1210 : aS : 7〉 {%verlangen%} : 7〉 {%erlangen%} : Only erlangen makes sense; cf PW
 ----------------------------------------------------------------------
 06-06-2016
-These changes initiated by an unknown user via the correction form;
-Jim Funderburk checked the changes.
-L code : Headword : Old  : New : Comment
+Source: Unknown, Jim Funderburk
+Lcode : Headword : Old  : New : Comment
 4735 : DUrv : Durv : DUrv : By alph. order. MW shows Durv/DUrv as alternates
 5169 : paYcadaSa : funfzehn : fünfzehn : The 'funf' spelling occurs in two other headwords also, and was similarly changed.
 ----------------------------------------------------------------------
 07-28-2016
-These changes initiated by an unknown user via the correction form;
-Jim Funderburk checked the changes.
-L code : Headword : Old  : New : Comment
+Source: Unknown, Jim Funderburk
+Lcode : Headword : Old  : New : Comment
 9424 : samyac : schwach samÄ«Ã§ : schwach {@samīc,@} : confirm in MW under samyaYc
 ----------------------------------------------------------------------
 11-10-2017
-These changes initiated by an unknown user via the correction form;
-Jim Funderburk checked the changes, confirmed via
-https://sanskritdocuments.org/mirrors/rigveda/roman03/RV0301.htm
-L code : Headword : Old  : New : Comment
+Source: Unknown, Jim Funderburk
+Ref: https://sanskritdocuments.org/mirrors/rigveda/roman03/RV0301.htm
+Lcode : Headword : Old  : New : Comment
 5934   : praBu    : 88,9 : 188,9 : wrong number
 ----------------------------------------------------------------------
 12-20-2017
-Submitted to correction form by anonymous user. Confirmed by ejf.
-L code : Headword : Old  : New : Comment
+Source: Unknown, Jim Funderburk
+Lcode : Headword : Old  : New : Comment
 8715   : SavisTa  : SavisTa : SavizWa : Confirmed by PWG
 7250   : raMvasaMdfS : raMvasaMdfS : raRvasaMdfS : Confirmed by PWG, and alph. order
   79   : agni   : xAtis  : kṣātís  : only such occurrence of 'x' .
 ----------------------------------------------------------------------
 05-18-2018
-Submitted to correction form by anonymous user.
-For notes on confirmation, see 
-  https://github.com/sanskrit-lexicon/Cologne/issues/223
-L code : Headword : Old  : New : Comment
+Source: Unknown, Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/Cologne/issues/223
+Lcode : Headword : Old  : New : Comment
 6725   : mahAyya  : 697,8 : 679,8 : 
 6432   : BUrRI    : ásya spácas : ásya spáśas : 
 ----------------------------------------------------------------------
 01-09-2020
-Submitted by ejf.  
-Problem noticed by Mārcis Gasūns 
-(ref: https://github.com/sanskrit-lexicon/GRA/issues/5)
+Source: Mārcis Gasūns, Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/GRA/issues/5
 These print changes are in the references to rgveda. In each case,
 a reference appears in the form xxx.y;  
 the period should be a comma, xxx,y
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 616 : ap : 312.8 : 312,8
 1582 : Ayus : 287. 7 : 287,7
 4544 : draviRa : 861.13 : 861,13
@@ -81,115 +74,116 @@ L code : Headword : Old  : New : Comment
 10036 : suzwuti : 320.1 :  320,1
 ----------------------------------------------------------------------
 06-17-2020
-User kevin_peter_kelly
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/290
-L code : Headword : Old  : New : Comment
+Source: kevin_peter_kelly
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/290
+Lcode : Headword : Old  : New : Comment
 8385   : vfD      : 442,4  : 422,4 :
 ----------------------------------------------------------------------
 06-17-2020
-User kevin_peter_kelly
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/289
-L code : Headword : Old  : New : Comment
+Source: kevin_peter_kelly
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/289
+Lcode : Headword : Old  : New : Comment
 9425   : samrAj   : -āja [du.] : -ājā [du.] :
 ----------------------------------------------------------------------
 10-05-2020
-User kevin_peter_kelly
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/371
-L code : Headword : Old  : New : Comment
+Source: kevin_peter_kelly
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/371
+Lcode : Headword : Old  : New : Comment
 8979   : Sri      : 447,4 : 417,4 : correct RV referece
 ----------------------------------------------------------------------
 04-09-2021
-ref: https://github.com/sanskrit-lexicon/GRA/issues/16
-Submitted by Dr. Marcis Gasuns
-L code : Headword : Old  : New : Comment
+Source: Dr. Marcis Gasuns
+Ref: https://github.com/sanskrit-lexicon/GRA/issues/16
+Lcode : Headword : Old  : New : Comment
 6505   : maNgala  :  enthālten :  enthalten :
 ----------------------------------------------------------------------
 06-21-2021
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/532
-Submitted user pvstiles.
-L code : Headword : Old  : New : Comment
+Source: pvstiles
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/532
+Lcode : Headword : Old  : New : Comment
 4792   : na       : 221,17 : 221,7  : 
 ----------------------------------------------------------------------
 07-31-2021
-ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/58
-Submitted by Marcis Gasuns.
-L code : Headword : Old  : New : Comment
+Source: Marcis Gasuns
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/58
+Lcode : Headword : Old  : New : Comment
 4792   : SfNga       : cátuḥçṛṅga : cátuḥśṛṅga  : 
 ----------------------------------------------------------------------
 04-27-2022
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/764
-Submitted by user pvstiles.
-L code : Headword : Old  : New : Comment
+Source: pvstiles
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/764
+Lcode : Headword : Old  : New : Comment
 8468   : veDas    : -ás 1) rā́jā : -ā́s 1〉 :
 ----------------------------------------------------------------------
 09-13-2022
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/867
-Submitted by user pvstiles.
-L code : Headword : Old  : New : Comment
+Source: pvstiles
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/867
+Lcode : Headword : Old  : New : Comment
 5957   : veDas    : vielleicht in 293,1 : vielleicht in 293,2 : confirm by Rg Veda verse.
 ----------------------------------------------------------------------
 10-04-2022
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/...
-Submitted by user pvstiles. (PatrickStiles)
-L code : Headword : Old  : New : Comment
+Source: pvstiles (PatrickStiles)
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/...
+Lcode : Headword : Old  : New : Comment
 2848   : Kadira   : 287,9 : 287,19 : issues/1007
 1305   : as       : s. s. : 3. s. : issues/1015
 5736   : pfc      : -kta [3. pl.] : -kta [2. pl.] : issues/1017
 724    : apravitA : -ā [<ab>f.</ab>] {289,5}; {303,9}. : -ā {303,9}; -āḥ [N. p. f.] {289,5}. : issues/1023
 ----------------------------------------------------------------------
 06-05-2023
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1183
-Submitted by user pvstiles. (PatrickStiles)
-L code : Headword : Old  : New : Comment
+Source: pvstiles (PatrickStiles)
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1183
+Lcode : Headword : Old  : New : Comment
 8335   : vf :  {642,7} : {842,7} :
 ----------------------------------------------------------------------
 06-05-2023
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1218
-Submitted by user pvstiles. (PatrickStiles)
-L code : Headword : Old  : New : Comment
+Source: pvstiles (PatrickStiles)
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1218
+Lcode : Headword : Old  : New : Comment
 7336 : varcas : 2〉 bildlich : 3〉 bildlich :
 ----------------------------------------------------------------------
 07-12-2023
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1266
-Submitted by user louis.falkenstein
-L code : Headword : Old  : New : Comment
+Source: louis.falkenstein
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1266
+Lcode : Headword : Old  : New : Comment
 10132  : sfj      : {634,15} : {534,15} : 
 ----------------------------------------------------------------------
 09-08-2023
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1276
-Jim Funderburk based on observation by Patrick Stiles.
-L code : Headword : Old  : New : Comment
+Source: pvstiles (PatrickStiles), Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1276
+Lcode : Headword : Old  : New : Comment
 6403   : BU       : 8〉  : 8〉[?] : 9 instances.
 ----------------------------------------------------------------------
 01-29-2023
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/646
-L code : Headword : Old  : New : Comment
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/646
+Lcode : Headword : Old  : New : Comment
 4726   : Dur      : ūṛ́ṣú : -ūrṣú : 
 ----------------------------------------------------------------------
 03-26-2024
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1676
-Submitted by user pvstiles. (PatrickStiles)
-L code : Headword : Old  : New : Comment
+Source: pvstiles (PatrickStiles)
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1676
+Lcode : Headword : Old  : New : Comment
 6412   : BUri     : saúbhayam {48,9} : saubhágam {48,9} :
 ----------------------------------------------------------------------
 04-17-2024
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1691
-Submitted by user pvstiles. (PatrickStiles)
-L code : Headword : Old  : New : Comment
+Source: pvstiles (PatrickStiles)
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1691
+Lcode : Headword : Old  : New : Comment
 6994   : yaj      : {113,30} : {113,20} :
 ----------------------------------------------------------------------
 01-12-2026
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1794
-L code : Headword : Old  : New : Comment
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1794
+Lcode : Headword : Old  : New : Comment
 2904   : gamiṣṭha      : acvinā práti‿ávartim : aśvinā práti‿ávartim : 
 ----------------------------------------------------------------------
 02-03-2026
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2813
-L code : Headword : Old  : New : Comment
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2813
+Lcode : Headword : Old  : New : Comment
 8516   : vyaD      : entprungen : entsprungen : Revised Grassmann 1996 confirms the correction.
 ----------------------------------------------------------------------
 04-03-2026
-L code : Headword : Old  : New : Comment
+Source: pvstiles (PatrickStiles)
+Lcode : Headword : Old  : New : Comment
 6437   : Bf      : 840,2 : 940,2 : pvstiles correction
 ----------------------------------------------------------------------
 
