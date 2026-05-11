@@ -18,15 +18,15 @@ Lcode : Headword : Old  : New : Comment
 Source: Unknown, Jim Funderburk
 Lcode : Headword : Old  : New : Comment
 2075 : uz : Mit nÄ« : Mit {@ni,@} : Compare MW nyuz, also PW
-1420 : ahiSuzmasatvan : ahiSusmasatvan : ahiSuzmasatvan : CF MW, PW
+1420 : ahiSuzmasatvan : {@ahiśusma-sátvan,@} : {@ahiśuṣma-sátvan,@} : CF MW, PW
 1308 : asat : Unwahrkeit : Unwahrheit : 
 1310 : asacadviz : unglÃ¤ubigen, : ungläubigen : Comma doesn't make sense
-1210 : aS : 7〉 {%verlangen%} : 7〉 {%erlangen%} : Only erlangen makes sense; cf PW
+1210 : aS : {%hin gelangen zu;%} 7〉 {%verlangen%} : {%hin gelangen zu;%} 7〉 {%erlangen%} : Only erlangen makes sense; cf PW
 ----------------------------------------------------------------------
 06-06-2016
 Source: Unknown, Jim Funderburk
 Lcode : Headword : Old  : New : Comment
-4735 : DUrv : Durv : DUrv : By alph. order. MW shows Durv/DUrv as alternates
+4735 : DUrv : {@√dhurv.@} : {@√dhūrv.@} : By alph. order. MW shows Durv/DUrv as alternates
 5169 : paYcadaSa : funfzehn : fünfzehn : The 'funf' spelling occurs in two other headwords also, and was similarly changed.
 ----------------------------------------------------------------------
 07-28-2016
@@ -44,7 +44,7 @@ Lcode : Headword : Old  : New : Comment
 Source: Unknown, Jim Funderburk
 Lcode : Headword : Old  : New : Comment
 8715   : SavisTa  : SavisTa : SavizWa : Confirmed by PWG
-7250   : raMvasaMdfS : raMvasaMdfS : raRvasaMdfS : Confirmed by PWG, and alph. order
+7250   : raRvasaMdfS : raṃvá-saṃdṛś : raṇvá-saṃdṛś : Confirmed by PWG, and alph. order
   79   : agni   : xAtis  : kṣātís  : only such occurrence of 'x' .
 ----------------------------------------------------------------------
 05-18-2018
@@ -101,7 +101,7 @@ Lcode : Headword : Old  : New : Comment
 Source: pvstiles
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/532
 Lcode : Headword : Old  : New : Comment
-4792   : na       : 221,17 : 221,7  : 
+4792   : na       : {151,9}; {221,17} : {151,9}; {221,7}  : 
 ----------------------------------------------------------------------
 07-31-2021
 Source: Marcis Gasuns
@@ -119,7 +119,7 @@ Lcode : Headword : Old  : New : Comment
 Source: pvstiles
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/867
 Lcode : Headword : Old  : New : Comment
-5957   : veDas    : vielleicht in 293,1 : vielleicht in 293,2 : confirm by Rg Veda verse.
+5957   : prayasvat    : vielleicht in {293,1} : vielleicht in {293,2} : confirm by Rg Veda verse.
 ----------------------------------------------------------------------
 10-04-2022
 Source: pvstiles (PatrickStiles)
@@ -157,7 +157,7 @@ Lcode : Headword : Old  : New : Comment
 01-29-2023
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/646
 Lcode : Headword : Old  : New : Comment
-4726   : Dur      : ūṛ́ṣú : -ūrṣú : 
+4726   : Dur      : ūṛ́ṣú {100,16} : -ūrṣú {100,16} : 
 ----------------------------------------------------------------------
 03-26-2024
 Source: pvstiles (PatrickStiles)
