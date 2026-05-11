@@ -1,98 +1,98 @@
 Sanskrit Lexicon Correction Form History
-As of May 06, 2026
-14 correction records, with 14 PENDING
+As of May 11, 2026
+14 correction records, with 0 PENDING
 
 Case 14: 05/05/2026 dict=SHS, L=10407, hw=kintu, user=srhodes
 old = Rut
 new = But
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 13: 05/05/2026 dict=AP, L=12118, hw=kārṣṇājiniḥ, user=srhodes
 old = an new authority
 new = an old authority
 comment = Typo – Please note that this correction follows the Printed Text !  We made such corrections, a few weeks ago. Apparently this one was missed. There were a number of these Exact Errors. Therefore the following string could be made as a Global Correction (in case of other instances): "an new" —> "an old". The CLUE to the validity of this Transformation is the indefinite article "an", which ONLY appears when preceding a Vowel !  Therefore "an new" will ALWAYS be incorrect, and tip off this very Global Correction.
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 12: 05/05/2026 dict=AP, L=12115, hw=kārṣman, user=srhodes
 old = nyakamīt
 new = nyakramīt
 comment = Typo – Please note that this could be made a Global Correction as well, in case of other such instances.
-status = PENDING
+status = Corrected 11 May 2026. There is only one such case having 'akamIt'
 ------------------------------------------------------------------------
 
 Case 11: 05/05/2026 dict=AP, L=30656, hw=vīthiḥ, user=srhodes
 old = race-course
 new = racecourse
 comment = Typo – Please note that this correction Follows The Previous Correction, on the strength of Continuity and Correctness of form !
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 10: 05/05/2026 dict=AP, L=12115, hw=kārṣman, user=srhodes
 old = race-course
 new = racecourse
 comment = Typo – Please note that this correction Follows The Printed Page! Honestly, I am not currently "Hunting Hyphens", but they seem to continually appear before me, and I am forced to "Take Action" !
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 9: 05/05/2026 dict=AP, L=12111.006, hw=kārṣāpaṇam, user=srhodes
 old = kārṣāpaṇaḥ, -ṇam (or -paṇakaḥ) + .-ṇam
 new = kārṣāpaṇam
 comment = Typo – Please note that this Headword and Definition only apply to the Neuter Form: "kārṣāpaṇam" ! LB Therefore, the following string must be corrected in someway: "kārṣāpaṇaḥ, -ṇam (or -paṇakaḥ) + .-ṇam", BECAUSE "kārṣāpaṇaḥ, (or -paṇakaḥ)" have NO authorization for the definition cited here as: "Money, gold and silver." 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 8: 05/05/2026 dict=AP, L=12111.004, hw=kārṣāpaṇakaḥ, user=srhodes
 old =  (= karṣa)
 new =  (= karṣam)
 comment = Typo – Please note that this is a suggested "Print Change", in order to precisely clarify the reference. If you look up this word, you will see that ONLY the Neuter Gender applies here. Therefore, the printed page is currently Ambiguous in nature.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 7: 05/05/2026 dict=AP, L=12111.002, hw=kārṣāpaṇam, user=srhodes
 old =  (= karṣa)
 new =  (= karṣam)
 comment = Typo – Please note that this is a suggested "Print Change", in order to precisely clarify the reference. If you look up this word, you will see that ONLY the Neuter Gender applies here. Therefore, the printed page is currently Ambiguous in nature.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 6: 05/05/2026 dict=AP, L=12111, hw=kārṣāpaṇaḥ, user=srhodes
 old =  (= karṣa)
 new =  (= karṣam)
 comment = Typo – Please note that this is a suggested "Print Change", in order to precisely clarify the reference. If you look up this word, you will see that ONLY the Neuter Gender applies here. Therefore, the printed page is currently Ambiguous in nature.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 5: 05/05/2026 dict=MW, L=48922, hw=kāryahantṛ, user=srhodes
 old = mar-plot
 new = marplot
 comment = Typo - Please note that this is an important "Print Change". You may consult the following webpage: https://www.merriam-webster.com/dictionary/marplot LB Honestly, I am not currently "Hunting Hyphens", but they seem to continually appear before me, and I am forced to "Take Action" ! LB Of course, this may as well be made a Global Correction, in case of other instances.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 4: 05/05/2026 dict=SHS, L=9444, hw=karmmānusthāyin, user=srhodes
 old = karmmānusthāyin
 new = karmmānuṣṭhāyin
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 3: 05/05/2026 dict=SHS, L=9441, hw=karmmānuṣṭhāna, user=srhodes
 old = duties discharging
 new = duties, discharging
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 2: 05/05/2026 dict=SHS, L=9429, hw=karmmasamādhi, user=srhodes
 old = abstruction
 new = abstraction
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 1: 05/05/2026 dict=MW, L=7217, hw=anuvad, user=srhodes
 old = cf. anudita
 new = cf. anūdita
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 

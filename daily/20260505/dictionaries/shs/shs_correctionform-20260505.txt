@@ -1,29 +1,29 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of May 06, 2026
-4 correction records, with 4 PENDING
+As of May 11, 2026
+4 correction records, with 0 PENDING
 
 Case 14: 05/05/2026 dict=SHS, L=10407, hw=kintu, user=srhodes
 old = Rut
 new = But
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 4: 05/05/2026 dict=SHS, L=9444, hw=karmmānusthāyin, user=srhodes
 old = karmmānusthāyin
 new = karmmānuṣṭhāyin
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 3: 05/05/2026 dict=SHS, L=9441, hw=karmmānuṣṭhāna, user=srhodes
 old = duties discharging
 new = duties, discharging
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
 Case 2: 05/05/2026 dict=SHS, L=9429, hw=karmmasamādhi, user=srhodes
 old = abstruction
 new = abstraction
-status = PENDING
+status = Corrected 11 May 2026
 ------------------------------------------------------------------------
 
