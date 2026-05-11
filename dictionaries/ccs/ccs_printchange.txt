@@ -7,27 +7,24 @@ documented.
 
 -----------------------------------------------------------------------
 11-25-2015
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160
-contains details supporting these changes.
-These changes initiated by Marcis Gasuns
-L     : headword : old    : new     : comment
+Source: Marcis Gasuns
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160
+Lcode     : headword : old    : new     : comment
 28584 : strItva : strItva : strItva : f. -> n.  (headword ok)
 28649 : sTAvaratva : sTAvaratva : sTAvaratva : f. -> n.  (headword ok)
 29426 : hitopadeSa : hitopadeSa : hitopadeSa : f. -> m.  (headword ok)
 23640 : vESanta : vESanta : vESantA : 
 -----------------------------------------------------------------------
 01-28-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/201
-contains details supporting these changes.
-Dhaval Patel, Jim Funderburk
-L     : headword : old    : new     : comment
+Source: Dhaval Patel, Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/201
+Lcode     : headword : old    : new     : comment
 26119 : santya : saMntya : santya : Print has M and n. Since CAE shows 'santya', use 'n'
 -----------------------------------------------------------------------
 04-04-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261
-contains details supporting these changes.
-Jim Funderburk
-L     : headword : old    : new     : comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261
+Lcode     : headword : old    : new     : comment
 185 : aGamazarRa : aGamazarRa : aGamarzaRa : 
 206 : aqgana : aqgana : aNgana : 
 354 : ataTi : a/taTi : a/tiTi : 
@@ -43,7 +40,7 @@ L     : headword : old    : new     : comment
 6012 : ganta : ga/nta : ga/ntu : 
 11440 : nadInATa : cadInATa : nadInATa : 
 6956 : cAndAyaRa : cAndAyaRa : cAndrAyaRa : 
-7122 : cumbu : cumbu : cumb : cae has 'cumb'. ? Not sure if final 'u' could be a verb anubanDa. ejf Corrected 04/05/2016
+7122 : cumbu : {#cumbu#} : {#cumb#} : cae has 'cumb'. ? Not sure if final 'u' could be a verb anubanDa. ejf Corrected 04/05/2016
 17864 : maRqUkapluti : taRqUkapluti : maRqUkapluti : 
 8407 : tAtfzARa : tAtfpARa : tAtfzARa : cf. mw. Participle of tfp (= tarp in ccs)  ejf Corrected 04/05/2016
 8754 : tURIra : tuRIra : tURIra : cf. MW. ejf Corrected 04/05/2016
@@ -72,10 +69,9 @@ L     : headword : old    : new     : comment
 29285 : harviryajYa : harviryajYa : haviryajYa : 
 -----------------------------------------------------------------------
 04-07-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264
-contains document references for these changes.
-Jim Funderburk
-L     : headword : old    : new     : comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264
+Lcode     : headword : old    : new     : comment
 5975 : gaRyasTala : gaRyasTala : gaRqasTala : cf. CAE
 7477 : jayADitya : jayADitya : jayAditya : cf. CAE, MW
 11306 : DvasakArin : DvasakArin : DvaMsakArin : Anusvara missing in print
@@ -99,23 +95,21 @@ L     : headword : old    : new     : comment
 29081 : svAdizWa : svA/dizwa : svA/dizWa : mw, ap, etc. have 'W' as superl. of svAdu
 -----------------------------------------------------------------------
 04-12-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275
-contains document references for these changes.
-Jim Funderburk
-L     : headword : old    : new     : comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275
+Lcode     : headword : old    : new     : comment
 6610 : GArmAmbu : GArmAmbu : GarmAmbu : cf. PW, MW. Both cae and ccs have same mis-spelling
 9438 : daparja : daparja : darpaja : Also in cae
 10173 : dUradaSarna : dUradaSarna : dUradarSana : Also in cae
 11975 : nitodin : nitedi/n : nitodi/n : 
 25276 : SrOtrasUtra : SrOtrasUtra : SrOtasUtra : also error in cae
-27907 : supratizwita : supratizwita : supratizWita : also error in cae
+27907 : supratizWita : su/pratizwita : su/pratizWita : also error in cae
 28710 : snuzo : snuzo : snuzA : also error in cae
 -----------------------------------------------------------------------
 04-19-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290
-contains document references for these changes.
-Jim Funderburk
-L     : headword : old    : new     : comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290
+Lcode     : headword : old    : new     : comment
 2601 : Atmaboda : Atmaboda : AtmaboDa : cf mw, etc.
 3180 : INKa : {#INKa#} : {#INK#} : DAtu, missing virAma.
 5379 : kenezitopanizada : kenezitopanizada : kenezitopanizad : print missing virAma
@@ -129,23 +123,22 @@ L     : headword : old    : new     : comment
 5014 : kulapa : kulapa : kutapa : alph. order, cf mw,pw
 -----------------------------------------------------------------------
 05-11-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L     : headword : old    : new     : comment
-29664 : hmas : hmas : hyas :  hm/hy (gestern, cf. pw.)
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+Lcode     : headword : old    : new     : comment
+29664 : hmas : hma/s : hya/s :  hm/hy (gestern, cf. pw.)
 ----------------------------------------------------------------------
 09/12/2017
-ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
-These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
+Source: Dr. Dhaval Patel
+Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+Lcode : Headword : Old  : New : Comment
 16020 : pralhAda : pralhAda : prahlAda : 
 16021 : pralhAdana : pralhAdana : prahlAdana : 
 16022 : pralhAdin : pralhAdin : prahlAdin : 
 ----------------------------------------------------------------------
 06/17/2020
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/286
-Frank Ziesing
-L code : Headword : Old  : New : Comment
+Source: Frank Ziesing
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/286
+Lcode : Headword : Old  : New : Comment
 15221.1  : prajYatA   : jyatA : prajYatA : new headword
 -----------------------------------------------------------------------
