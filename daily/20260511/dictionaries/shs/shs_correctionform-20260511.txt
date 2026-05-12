@@ -1,0 +1,29 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of May 12, 2026
+4 correction records, with 4 PENDING
+
+Case 5: 05/11/2026 dict=SHS, L=9505, hw=kalamba, user=srhodes
+old = f. (-mbī) or m. and LB f. (-mbaḥ-mbī)
+new = f. (-mbī) or m. (-mbaḥ)
+comment = Typo – Please note that this correction simply clarifies things.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/11/2026 dict=SHS, L=9505, hw=kalamba, user=srhodes
+old = Calambaroot
+new = Calumba root
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/11/2026 dict=SHS, L=9499, hw=kaladhvani, user=srhodes
+old = Kakila
+new = Kokila
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/11/2026 dict=SHS, L=9495, hw=kalatra, user=srhodes
+old = strong hold
+new = stronghold
+status = PENDING
+------------------------------------------------------------------------
+

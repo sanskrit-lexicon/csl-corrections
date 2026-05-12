@@ -1,0 +1,23 @@
+Sanskrit Lexicon Correction Form History for MW
+As of May 12, 2026
+3 correction records, with 3 PENDING
+
+Case 8: 05/11/2026 dict=MW, L=1694, hw=aṅgiras, user=czhao
+old = missing "m. pl." 
+new = (asas) m. pl. descendants of Aṅgiras or of Agni (mostly personifications of luminous objects)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/11/2026 dict=MW, L=592, hw=a-kṣára n., user=czhao
+old = missing open bracket.
+new = Deletion: [Achyranthes Aspera]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/11/2026 dict=MW, L=590, hw=a-kṣára n., user=czhao
+old = semicolon missing after "final beatitude"
+new = Should be separated into 2 entries
+comment = entry separation
+status = PENDING
+------------------------------------------------------------------------
+
