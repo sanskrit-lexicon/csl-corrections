@@ -7,22 +7,21 @@ documented.
 
 -----------------------------------------------------------------------
 03-15-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
-373 : sarvasAranga : sarvasAranga : sarvasAraNga : Confirmed as print error. sarvasAraNga Confirmed by inm,mw,pe,pw,pwg
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+Lcode : Headword : Old  : New : Comment
+373 : Sarvasāranga : Sarvasāraṅga : sarvasAraNga : Confirmed as print error. sarvasAraNga Confirmed by inm,mw,pe,pw,pwg
 -----------------------------------------------------------------------
 09/12/2017
-ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
-These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
-345 : SAlipIRqa : SAlipIRqa : SAlipiRqa : 
+Source: Dr. Dhaval Patel
+Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+Lcode : Headword : Old  : New : Comment
+345 : SAlipiRqa : Śālipīṇḍa : Śālipiṇḍa : 
 -----------------------------------------------------------------------
 04/03/2021
-ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/57
-These changes initiated by Dr. Sampada Savardekar
-L code : Headword : Old  : New : Comment
+Source: Dr. Sampada Savardekar
+Ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/57
+Lcode : Headword : Old  : New : Comment
 131 : jaritA : acknowleged : acknowledged :
 137 : takzaka : nacked : naked :
 196 : palita : aquired : acquired :
@@ -31,8 +30,8 @@ L code : Headword : Old  : New : Comment
 407 : suSoBanA : angred : angered :
 421 : stambamitra : midle : middle :
 425 : hanUmant : indicatig : indicating :
-478 : gARqIva : missible : missile :
-478 : gARqIva : occassions : occasions :
+478 : gARqIva : missible of Indra : missile of Indra :
+478 : gARqIva : occassions (5. 53. 1) : occasions (5. 53. 1) :
 478 : gARqIva : arround : around :
 493 : daRqa : withdrawl : withdrawal :
 494 : devadatta : acquision : acquisition :
@@ -40,9 +39,9 @@ L code : Headword : Old  : New : Comment
 526 : prasvApa : forbad : forbade :
 529 : bArhaspatya : particuiar : particular :
 534.1 : brahmAstra : spirlts : spirits :
-563 : vajra : missle : missile :
-574 : vAruRAstra : seciton : section :
-619 : sudarSana : bence : hence :
+563 : vajra : missle to kill : missile to kill :
+574 : vAruRAstra : see the seciton : see the section :
+619 : sudarSana : bence he left : hence he left :
 619 : sudarSana : lieked : licked :
 643 : aSmagIta : acquistition : acquisition :
 673 : fzivaMSa : eflective : effective :
@@ -54,49 +53,49 @@ L code : Headword : Old  : New : Comment
 762 : mahopanizad : recting : reciting :
 798 : Salyaparvan : varions : various :
 808 : saMBavaparvan : puting : putting :
-830 : haMsakAkIya : diologue : dialogue :
+830 : haMsakAkIya : diologue was full : dialogue was full :
 862 : kali : surcessively : successively :
 865 : kArttika : perfotmed : performed :
 882 : tretA : cunfusion : confusion :
 885 : dvApara : fourtold : foretold :
-908 : bfhaspati : oy : by :
+908 : bfhaspati : oy Dhaumya : by Dhaumya :
 912 : brAhma : consentrated : concentrated :
-963 : soma : costellations : constellations :
+963 : soma : moon and the costellations : moon and the constellations :
 1108 : kAmyaka : maneating : man-eating :
 1168 : kElAsa : proptiated : propitiated :
-1188 : gaNgA : univere : universe :
-1188 : gaNgA : whould : would :
+1188 : gaNgA : univere 6. 10. 13; : universe 6. 10. 13; :
+1188 : gaNgA : whould abandon : would abandon :
 1188 : gaNgA : neccessary : necessary :
-1188 : gaNgA : requsted : requested :
-1188 : gaNgA : irresitible : irresistible :
-1188 : gaNgA : crocodlies : crocodiles :
+1188 : gaNgA : when requsted by : when requested by :
+1188 : gaNgA : irresitible like : irresistible like :
+1188 : gaNgA : as the crocodlies : as the crocodiles :
 1351 : nandana : themseleves : themselves :
 1381 : payozRI : pleasent : pleasant :
 1427 : prayAga : pralsed : praised :
-1427 : prayAga : follwed : followed :
-1499 : mandara : mounain : mountain :
-1535 : mahendra : mountnin : mountain :
+1427 : prayAga : follwed by all : followed by all :
+1499 : mandara : Excellent mounain : Excellent mountain :
+1535 : mahendra : mountnin on : mountain on :
 1544 : mAnasa : kiling : killing :
 1576 : yamunA : benidiction : benediction :
 1601 : rohitakAraRya : accomodated : accommodated :
-1652 : vitastA : rivsr : river :
+1652 : vitastA : rivsr Vitastā and other four : river Vitastā and other four :
 1700 : vEtaraRI : bareft : bereft :
 1733 : SivodBeda : deseart : desert :
-1768 : sarasvatI : deligted : delighted :
-1768 : sarasvatI : appeard : appeared :
+1768 : sarasvatI : he was deligted : he was delighted :
+1768 : sarasvatI : she appeard there : she appeared there :
 1782 : sinDu : citalion : citation :
 1796 : supraBA : persent : present :
 1821 : sTUlavAlukA : auspious : auspicious :
-1834 : himavant : pubils : pupils :
+1834 : himavant : served there by his pubils and : served there by his pupils and :
 1834 : himavant : seperated : separated :
-1834 : himavant : snmmit : summit :
+1834 : himavant : animals; the snmmit of : animals; the summit of :
 1834 : himavant : exsit : exist :
 1865 : indraprasTa : cowraid : cow raid :
 1865 : indraprasTa : battefield : battlefield :
-1869 : upaplavya : happned : happened :
+1869 : upaplavya : happned at Hāstinapura : happened at Hāstinapura :
 1910 : campA : sattlement : settlement :
-1927 : dvArakA : witenessed : witnessed :
-1953 : prAgjyotiza : procecded : proceeded :
+1927 : dvArakA : witenessed the plight : witnessed the plight :
+1953 : prAgjyotiza : procecded to the north ({%prayāsyāmi%} : proceeded to the north ({%prayāsyāmi%} :
 1954 : badarI : journy : journey :
 1955 : brahmASramapada : bitrh : birth :
 1962 : Bfgor : approched : approached :
@@ -107,49 +106,48 @@ L code : Headword : Old  : New : Comment
 2011 : vAtikazaRqa : coustrues : construes :
 2013 : vAraRAvata : fune : fune- :
 2061 : sADyagaRasya : temle : temple :
-2071 : sOBa : wrere : where :
+2071 : sOBa : 48 wrere : 48 where :
 2074 : hAstinapura : adverseries : adversaries :
 2074 : hAstinapura : superitendents : superintendents :
 2074 : hAstinapura : afflcted : afflicted :
 2074 : hAstinapura : puplis : pupils :
 2075 : hiraRyapura : identited : identified :
 2109 : azwAdaSAvara : garissoned : garrisoned :
-2129 : ikzvAku : lieneage : lineage :
+2129 : ikzvAku : claimed their lieneage : claimed their lineage :
 2202 : kaSyapa : presnt : present :
 2204 : kirAta : northernes : northerners :
 2225 : kuru : forebearance : forbearance :
-2225 : kuru : pominent : prominent :
+2225 : kuru : and of pominent : and of prominent :
 2226 : kurukzetra : inspite : in spite :
 2239 : kekaya : dissipitated : dissipated :
 2279 : cedi : familes : families :
-2307 : trigarta : brothets : brothers :
+2307 : trigarta : brothets delighted : brothers delighted :
 2307 : trigarta : nightwar : night war :
 2323 : dasyu : coersion : coercion :
 2323 : dasyu : possesions : possessions :
-2323 : dasyu : eveywhere : everywhere :
+2323 : dasyu : chaos eveywhere : chaos everywhere :
 2331 : dAsamIya : irreligeous : irreligious :
 2338 : dramiqa : blosssoms : blossoms :
 2347 : nAkula : chracterization : characterization :
-2351 : nizAda : hlm : him :
-2376 : pAYcAla : konwn : known :
-2376 : pAYcAla : fiftteenth : fifteenth :
-2376 : pAYcAla : aflicted : afflicted :
-2376 : pAYcAla : laughted : laughed :
+2351 : nizAda : asked hlm to : asked him to :
+2376 : pAYcAla : had konwn that : had known that :
+2376 : pAYcAla : and fiftteenth : and fifteenth :
+2376 : pAYcAla : specifically aflicted : specifically afflicted :
+2376 : pAYcAla : laughted, blew : laughed, blew :
 2390 : pOrava : herosim : heroism :
 2396 : praBadraka : stafts : shafts :
-2414 : Barata : togethr : together :
+2414 : Barata : togethr would : together would :
 2429 : madra : especialy : especially :
-2460 : mAlava : abondon : abandon :
-2475 : mlecCa : alo : also :
+2460 : mAlava : did not abondon : did not abandon :
+2475 : mlecCa : were alo the : were also the :
 2509 : vAwaDAna : accomodate : accommodate :
 2528 : vfzRi : immensly : immensely :
-2528 : vfzRi : pesttle : pestle :
+2528 : vfzRi : pesttle would : pestle would :
 2536 : Saka : colled : called :
 2548 : Sini : decendants : descendants :
 2554 : SUrasena : ablatival : ablative :
 2565 : saMSaptaka : reitereted : reiterated :
-2565 : saMSaptaka : thirtyfour : thirty-four :
-2565 : saMSaptaka : thausand : thousand :
+2565 : saMSaptaka : thirtyfour thausand chariot-fighters : thirty-four thousand chariot-fighters :
 2584 : sinDu : thirteeenth : thirteenth :
 2584 : sinDu : surrundered : surrendered :
 2600 : suhma : harrassed : harassed :
@@ -157,5 +155,5 @@ L code : Headword : Old  : New : Comment
 2619 : hURa : aslo : also :
 2621 : hEmavata : valume : volume :
 2625 : udvaha : inccesantly : incessantly :
-2626 : kuRqaDAra : highst : highest :
+2626 : kuRqaDAra : highst bliss : highest bliss :
 ----------------------------------------------------------------------
