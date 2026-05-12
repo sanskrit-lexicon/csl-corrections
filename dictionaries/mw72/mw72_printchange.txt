@@ -6,85 +6,84 @@ This file was begun 11-22-2016.
 
 -----------------------------------------------------------------------
 11-22-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/320
-contains details supporting these changes.
-These changes initiated by Jim Funderburk.
-L code	Headword	Old 	New	Comment
-18416 : jala :   kańćaṭa  :  kaṅćaṭa  :  from guttural to palatal nasal
-23470 : DUpa :   kḷṛipta  :  klṛipta  :  lṛi is mw72 coding of vocalic 'l'
+Source: Jim Funderburk.
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/320
+Lcode	Headword	Old 	New	Comment
+19417 : jala :   kańćaṭa  :  kañcaṭa  :  from guttural to palatal nasal
+23471 : DUpa :   kḷṛipta  :  kḷpta  :  lṛi is mw72 coding of vocalic 'l'
 486   : ajEqaka : aja-eḍeka : aja-eḍaka : 
 -----------------------------------------------------------------------
 11-30-2016
-Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
-Jim Funderburk.
-L code	Headword	Old 	New	Comment
-10063 : Iq : īdāṅ : īḍāṅ : confirm VCP
-15593 : kfta : Kṛitoććhais : Kṛitoććais : from uććais 
+Source: Jim Funderburk.
+Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
+Lcode	Headword	Old 	New	Comment
+10063 : Iq : īdāñ : īḍāñ : confirm VCP
+15593 : kfta : KṛtocCais : Kṛtoccais : from uććais 
 -----------------------------------------------------------------------
 12-01-2016
-Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
-GitHub user SergeA
-L code	Headword	Old 	New	Comment
-20864 : tAvat : ćhobate : ćhobhate :
-17138 : garuqa : ḍānkita : ḍāńkita :
+Source: SergeA
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
+Lcode	Headword	Old 	New	Comment
+20864 : tAvat : chobate : chobhate :
+17138 : garuqa : ḍānkita : ḍāṅkita :
 17456 : guRa : guṇaih : guṇaiḥ :
 -----------------------------------------------------------------------
 12-02-2016
-Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 308-310
-GitHub user SergeA
-L code	Headword	Old 	New	Comment
-21011 : tIrTa : dhvānksha : dhvāńksha : guttural nasal
-26992 : parama : Parameshṭhińa : Parameshṭhina : dental nasal
+Source: SergeA
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 308-310
+Lcode	Headword	Old 	New	Comment
+21011 : tIrTa : dhvānkṣa : dhvāṅkṣa : guttural nasal
+26992 : parama : Parameshṭhińa : Parame-ṣṭhin : dental nasal
 11605 : upapOrRamAsam : paurnamāsi : paurṇamāsi : retroflex nasal
 -----------------------------------------------------------------------
 12-10-2016
-Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 311-315
-GitHub user SergeA
-L code	Headword	Old 	New	Comment
-35975 : BrI : bhṛinīya : bhṛiṇīya 
-37865 : mfdu : Mṛidūtphala : Mṛidūtpala : confuses utphala for utpala "lotus"
-42070 : vAsizWa : lainga-purāṇa : laińga-purāṇa : dental nasal -> guttural
-40763 : loha :  Loha-śanku : Loha-śańku : dental nasal -> guttural
-12975 : om : vijayauńkārah : vijayauńkāraḥ : missing underdot final letter
+Source: SergeA
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 311-315
+Lcode	Headword	Old 	New	Comment
+35975 : BrI : bhṛnīya : bhṛṇīya 
+37865 : mfdu : Mṛdūtphala : Mṛdūtpala : confuses utphala for utpala "lotus"
+42070 : vAsizWa : lainga-purāṇa : laiṅga-purāṇa : dental nasal -> guttural
+40763 : loha :  —Loha-śanku : —Loha-śaṅku : dental nasal -> guttural
+12975 : om : vijayauṅkārah : vijayauṅkāraḥ : missing underdot final letter
 -----------------------------------------------------------------------
 12-13-2016
-Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 316-318
-GitHub user SergeA
-L code	Headword	Old 	New	Comment
+Source: SergeA
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 316-318
+Lcode	Headword	Old 	New	Comment
 45927 : vlI : vliṇāti : vlīnāti :
 47411 : SrI : Śrīmāla-māhātyma : Śrīmāla-māhātmya :
-25903 : nizad : śhī : shī : 
+25903 : nizad : -śhī- : -ṣī- : 
 ----------------------------------------------------------------------
 09/12/2017
-ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
-These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
+Source: Dr. Dhaval Patel
+Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+Lcode : Headword : Old  : New : Comment
 48554 : saNgf : saNgf : saNgF : 
 -----------------------------------------------------------------------
 09/13/2017
-ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
 Technical note: These two corrections were actually made to the
 mw72 digitization in Jan 2015:
   ref1: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/71
   ref2: manualByLine02.txt
 However, they were not at that time identfied as print 'errors' ('changes').
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
  4881  : aBisaMkruD : aBisaMkruD : aBisaNkruD : enforce homorganic nasal consistency
  4884  : aBisaMkruS : aBisaMkruS : aBisaNkruS : enforce homorganic nasal consistency
 -----------------------------------------------------------------------
 03/14/2018
-ref: https://github.com/sanskrit-lexicon/Cologne/issues/215
-ejf
-L code : Headword : Old  : New : Comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/Cologne/issues/215
+Lcode : Headword : Old  : New : Comment
 3503   : apaSabda : Sanskṛit : Sanskrit : Not a Sanskrit word
 This change is made in about 120 instances.
 -----------------------------------------------------------------------
 04/22/2021
-ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/60
-print changes submitted by Dr. Sampada Savardekar
-L code : Headword : Old  : New : Comment
+Source: Dr. Sampada Savardekar
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/60
+Lcode : Headword : Old  : New : Comment
 599 : atawa : precipituous : precipitous :
-1718 : anApluta : unwashen : unwashed :
+1718 : anApluta : unwashen body : unwashed body :
 1980 : anukArin : mimicing : mimicking :
 3867 : aprakASa : secresy : secrecy :
 7647 : asTAyin : permanant : permanent :
@@ -95,7 +94,7 @@ L code : Headword : Old  : New : Comment
 12597 : fc : religous : religious :
 13292 : kaNkaRa : alchimist : alchemist :
 13797 : karuRa : pamplemouse : pamplemousse :
-15604 : kftrima : oblibanum : olibanum :
+15604 : kftrima : oblibanum. : olibanum. :
 16283 : klamin : langour : languor :
 17465 : guRita : mutiplied : multiplied :
 17608 : gfha : authorites : authorities :
@@ -113,7 +112,7 @@ L code : Headword : Old  : New : Comment
 38870 : yojayitf : joines : joins :
 39020 : rakta : mangostan : mangosteen :
 39212 : ravat : cying : crying :
-41030 : vataRqa : decendant : descendent :
+41030 : vataRqa : female decendant : female descendant :
 41771 : vAcya : gainsayed : gainsaid :
 46121 : Sama : convalesence : convalescence :
 46514 : SArIrakIya : pyschological : psychological :

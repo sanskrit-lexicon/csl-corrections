@@ -162,7 +162,7 @@ def main():
             stripped = line.strip()
             if not stripped:
                 continue
-            date_match = re.search(r'(\d{2})-(\d{2})-(\d{4})', stripped)
+            date_match = re.search(r'(\d{2})[/-](\d{2})[/-](\d{4})', stripped)
             if date_match and not date:
                 m, d, y = date_match.groups()
                 date = f"{y}{m}{d}"
