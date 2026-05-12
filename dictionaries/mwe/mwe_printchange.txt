@@ -7,31 +7,31 @@ documented.
 
 -----------------------------------------------------------------------
 05-09-2017
-Submitted by  m.terekhov
-L code : Headword : Old :       New       : Comment
+Source: m.terekhov
+Lcode : Headword : Old :       New       : Comment
 27584 : sofa : paryyaNkaH : paryaNkaH : pari+aNkaH
 -----------------------------------------------------------------------
 07-13-2017
-Submitted by  sanataatani
-L code : Headword : Old :       New       : Comment
-10919  : fear  : BIpmam :    BIzmam       : 
+Source: sanataatani
+Lcode : Headword : Old :       New       : Comment
+10919  : fear  : BIpmaM :    BIzmaM       : 
 -----------------------------------------------------------------------
 05-18-2018
-Submitted by  sanataatani
-L code : Headword : Old :       New       : Comment
+Source: sanataatani
+Lcode : Headword : Old :       New       : Comment
 10780  : fang :  vipadantaH : vizadantaH : Confirmed in MW vizadantaka, AE fang
 -----------------------------------------------------------------------
 11-28-2018
-Submitted by h.c.jahr@gmx.de
-L code : Headword : Old :       New       : Comment
+Source: h.c.jahr
+Lcode : Headword : Old :       New       : Comment
 11490  : flight : direc flight  : direct flight : 
 -----------------------------------------------------------------------
 04-22-2021
-Submitted by Dr. Sampada Savardekar
+Source: Dr. Sampada Savardekar
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/61
-L code : Headword : Old :       New       : Comment
+Lcode : Headword : Old :       New       : Comment
 1060 : apply : solcit : solicit :
-3903 : caverned : eaverns : caverns :
+3903 : caverned : Inhabiting eaverns : Inhabiting caverns :
 5447 : concubine : snut : shut :
 11696 : foot : trec : tree :
 11740 : forced : unnatul : unnatural :
@@ -42,13 +42,13 @@ L code : Headword : Old :       New       : Comment
 17728 : lens : chrystal : crystal :
 23112 : practitioner : businsss : business :
 23248 : preferable : chsoen : chosen :
-24036 : purana : eignteen : eighteen :
+24036 : purana : They are eignteen in number : They are eighteen in number :
 24509 : rattle : nosse : noise :
 24633 : receipt : ackowledgment : acknowledgment :
 24684 : recommend : kindtreatment : kind treatment :
-24735 : rectitude : retitude : rectitude :
-24765 : redouble : fforts : efforts :
-24773 : reduce : proverty : poverty :
+24735 : rectitude : law of retitude : law of rectitude :
+24765 : redouble : fforts,’ : efforts,’ :
+24773 : reduce : proverty,’ {#dAridryaM gam, daridrIkf#}; : poverty,’ {#dAridryaM gam, daridrIkf#}; :
 24960 : released : obliga : obliga- :
 25642 : roll : revole : revolve :
 25849 : saccharine : qualites : qualities :
@@ -67,7 +67,7 @@ L code : Headword : Old :       New       : Comment
 31504 : with : attonded : attended :
 -----------------------------------------------------------------------
 01-12-2023
-Submitted by sanaatani
-L code : Headword : Old :       New       : Comment
+Source: sanaatani
+Lcode : Headword : Old :       New       : Comment
 22740  : feather : kirAwaH  : kirIwaH : There is no word as kirAwa. Synonyms match kirIwa.
 -----------------------------------------------------------------------
