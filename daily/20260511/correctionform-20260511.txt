@@ -1,0 +1,83 @@
+Sanskrit Lexicon Correction Form History
+As of May 12, 2026
+12 correction records, with 12 PENDING
+
+Case 12: 05/11/2026 dict=AP, L=12163.008, hw=kāvyam, user=srhodes
+old = Two Missing Compounds
+new = Please Add the following Two Compounds as shown in the Window Display of "kāvyārthaḥ [ID=12163.02]" :   "kāvyārthāpattiḥ" AND "kāvyārthāpatti",  along with the existing list of compounds shown here in the Window Display.
+comment = Two Missing Compounds
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/11/2026 dict=AP, L=12163.02, hw=kāvyārthaḥ, user=srhodes
+old = Two Missing Compounds
+new = Please Add the Two Compounds as shown here in the Window Display: "kāvyārthāpattiḥ" AND "kāvyārthāpatti". These compounds deserve to be Searchable Headwords, located in the Hierarchy List Column. Of Course an additional "Indentation" will be required following the pūrvapada: "kāvyārthaḥ", in the Hierarchy List Column. Also, these Two Compounds will need to be added to the Window Display of the Headword "kāvyam" , along with the existing listed compounds.
+comment = Two Missing Compounds
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/11/2026 dict=AP, L=12156, hw=kālya, user=srhodes
+old = cake
+new = cakre
+comment = Typo – Please note that this OCR error is quite common. Therefore, I am suggesting a Global Correction that will save US BOTH time and effort. The correction would isolate the word with a "preceding" and "following" Blank Space as: " cake " —> " cakre "  •  Andhrabharati has stated that you are able to "target" only Sanskrit so that English Words are excluded and left out of this domain of correction. I undersand that there could be a Small Amount of "Crossfire", but is would still save time to Make this Global Correction; And Then Simply "Reverse" any casualties to their original state.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/11/2026 dict=ap, L=, hw=sUd, user=jim
+old = सूद्  सूद्  [Printed book page 1698-2]  <!!!>सूद्  I. 1 Ā. (सूद्ते)<!!!> 1 To strike, hurt, wound, kill, destroy. 2 To effuse, pour out. 3 To deposit.
+new = सूदते
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/11/2026 dict=MW, L=1694, hw=aṅgiras, user=czhao
+old = missing "m. pl." 
+new = (asas) m. pl. descendants of Aṅgiras or of Agni (mostly personifications of luminous objects)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/11/2026 dict=MW, L=592, hw=a-kṣára n., user=czhao
+old = missing open bracket.
+new = Deletion: [Achyranthes Aspera]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/11/2026 dict=MW, L=590, hw=a-kṣára n., user=czhao
+old = semicolon missing after "final beatitude"
+new = Should be separated into 2 entries
+comment = entry separation
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/11/2026 dict=SHS, L=9505, hw=kalamba, user=srhodes
+old = f. (-mbī) or m. and LB f. (-mbaḥ-mbī)
+new = f. (-mbī) or m. (-mbaḥ)
+comment = Typo – Please note that this correction simply clarifies things.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/11/2026 dict=SHS, L=9505, hw=kalamba, user=srhodes
+old = Calambaroot
+new = Calumba root
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/11/2026 dict=SHS, L=9499, hw=kaladhvani, user=srhodes
+old = Kakila
+new = Kokila
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/11/2026 dict=SHS, L=9495, hw=kalatra, user=srhodes
+old = strong hold
+new = stronghold
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/11/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
