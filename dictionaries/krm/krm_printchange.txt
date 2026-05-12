@@ -6,14 +6,14 @@ This file was begun 03-28-2020.
 
 -----------------------------------------------------------------------
 03-28-2020
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/205
- Jim Funderburk
-L code : Headword : Old  : New : Comment
- 890   : dva      : dva  : dvf : vowel sign 'f' missing
+SourceL: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/205
+Lcode : Headword : Old  : New : Comment
+ 890   : dvf      : dva saMvaraRe  : dvf saMvaraRe : vowel sign 'f' missing
 -----------------------------------------------------------------------
 03-30-2020
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/205#issuecomment-606330923
- Jim Funderburk
-L code : Headword : Old  : New   : Comment
- 1594  : viCa     : viCa : vicCa : See comment below above reference for reason
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/205#issuecomment-606330923
+Lcode : Headword : Old  : New   : Comment
+ 1594  : vicCa     : viCa gatO : vicCa gatO : See comment below above reference for reason
 -------------------------------------------------------------------------------
