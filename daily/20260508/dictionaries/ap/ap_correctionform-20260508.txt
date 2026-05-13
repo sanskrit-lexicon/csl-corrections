@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
-As of May 09, 2026
-1 correction records, with 1 PENDING
+As of May 13, 2026
+1 correction records, with 0 PENDING
 
-Case 7: 05/08/2026 dict=AP, L=12123.238, hw=kālamāna, user=srhodes
+Case 5: 05/08/2026 dict=AP, L=12123.238, hw=kālamāna, user=srhodes
 old = Missing Compound
 new = Please add the Compound indicated here in the Window Display as: "kālamālaḥ" • This Compounds Deserves to be listed as a Searchable Headword, in order to Fully Honor and Pay Resect to AP57.
 comment = Missing Compound
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 

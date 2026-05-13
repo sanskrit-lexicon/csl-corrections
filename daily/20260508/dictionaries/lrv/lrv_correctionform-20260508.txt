@@ -1,31 +1,31 @@
 Sanskrit Lexicon Correction Form History for LRV
-As of May 09, 2026
-4 correction records, with 4 PENDING
+As of May 13, 2026
+4 correction records, with 0 PENDING
 
-Case 5: 05/08/2026 dict=LRV, L=8569, hw=kalāṃkura, user=srhodes
+Case 4: 05/08/2026 dict=LRV, L=8569, hw=kalāṃkura, user=srhodes
 old = Indentation Missing in Hierarchy Column
 new = Since this begins a series of compounds under the Headword "kala", perhaps these compounds should be INDENTED in the Hierarchy List Column, similar to AP57. If possible this should be done Globally for all Compound Listings.
 comment = Indentation Missing in Hierarchy Column
-status = PENDING
+status = LRV does not have compound level markup as of now. Not possible as of now. Tracked separately at https://github.com/sanskrit-lexicon/LRV/issues/29
 ------------------------------------------------------------------------
 
-Case 4: 05/08/2026 dict=LRV, L=8565, hw=kal, user=srhodes
+Case 3: 05/08/2026 dict=LRV, L=8565, hw=kal, user=srhodes
 old = weild
 new = wield
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
-Case 3: 05/08/2026 dict=LRV, L=8559, hw=karṣaṇī, user=srhodes
+Case 2: 05/08/2026 dict=LRV, L=8559, hw=karṣaṇī, user=srhodes
 old = karṣaṇī
 new = karṣiṇī
 comment = Typo – Please note that this is a Headword Typo !
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
-Case 2: 05/08/2026 dict=LRV, L=8547, hw=karmaṇya, user=srhodes
+Case 1: 05/08/2026 dict=LRV, L=8547, hw=karmaṇya, user=srhodes
 old = karmaṇya (II) f.
 new = karmaṇyā (II) f.
 comment = Typo – Please note that this is a Headword Typo "karmaṇya" —> "karmaṇyā"   (long vowel for Feminine Gender).
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
