@@ -1,123 +1,95 @@
 Sanskrit Lexicon Correction Form History
-As of May 11, 2026
-17 correction records, with 17 PENDING
+As of May 13, 2026
+13 correction records, with 0 PENDING
 
-Case 17: 05/10/2026 dict=MW, L=49320.1, hw=kāliyāri, user=srhodes
+Case 13: 05/10/2026 dict=MW, L=49320.1, hw=kāliyāri, user=srhodes
 old = Placement Error
 new = The supplemental insertion of this Headword should be placed just before the word "kāliyaka [ID=49320]" in the Hierarchical listing of words. Please note that "kāliyaka" is already placed AFTER the previous TWO compounds; AND this supplemental compound "kāliyāri", is simply the THIRD compound in this grouping of Headwords designating the Names of Kṛṣṇa.
 comment = Placement Error
-status = PENDING
-------------------------------------------------------------------------
-
-Case 16: 05/10/2026 dict=MW, L=49320.1, hw=kāliyāri, user=srhodes
-old = Placement Error
-new = The supplemental insertion of this Headword should be placed just before the word "kāliyaka [ID=49320]" in the Hierarchical listing of words. Please note that "kāliyaka" is already placed AFTER the previous TWO compounds; AND this supplemental compound "kāliyāri", is simply the THIRD compound in this grouping of Headwords designating the Names of Kṛṣṇa.
-comment = Placement Error
-status = PENDING
-------------------------------------------------------------------------
-
-Case 15: 05/10/2026 dict=MW, L=49320.1, hw=kāliyāri, user=srhodes
-old = Placement Error
-new = The supplemental insertion of this Headword should be placed just before the word "kāliyaka [ID=49320]" in the Hierarchical listing of words. Please note that "kāliyaka" is already placed AFTER the previous TWO compounds; AND this supplemental compound "kāliyāri", is simply the THIRD compound in this grouping of Headwords designating the Names of Kṛṣṇa.
-comment = Placement Error
-status = PENDING
-------------------------------------------------------------------------
-
-Case 14: 05/10/2026 dict=MW, L=49320.1, hw=kāliyāri, user=srhodes
-old = Placement Error
-new = The supplemental insertion of this Headword should be placed just before the word "kāliyaka [ID=49320]" in the Hierarchical listing of words. Please note that "kāliyaka" is already placed AFTER the previous TWO compounds; AND this supplemental compound "kāliyāri", is simply the THIRD compound in this grouping of Headwords designating the Names of Kṛṣṇa.
-comment = Placement Error
-status = PENDING
-------------------------------------------------------------------------
-
-Case 13: 05/10/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 12: 05/10/2026 dict=AP, L=12141, hw=kāliya, user=srhodes
 old = kāliya Relating to time, timely.
 new = kāliya a. Relating to time, timely.
 comment = Typo – Please note that this is a suggested "Print Change", for declaration of "Adjective", with the italic abbreviation: "a."
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 11: 05/10/2026 dict=AP, L=12139.022, hw=kālindabhedanaḥ, user=srhodes
 old = kālindabhedanaḥ
 new = kālindībhedanaḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 10: 05/10/2026 dict=AP, L=12139.024, hw=kālindasūḥ, user=srhodes
 old = kālindasūḥ
 new = kālindīsūḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 9: 05/10/2026 dict=AP, L=12139.026, hw=kālindasūḥ, user=srhodes
 old = kālindasūḥ
 new = kālindīsūḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 8: 05/10/2026 dict=AP, L=12139.026, hw=kālindasodaraḥ, user=srhodes
 old = kālindasodaraḥ
 new = kālindīsodaraḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 7: 05/10/2026 dict=AP, L=12139.004, hw=kālindam, user=srhodes
 old = kālindasodaraḥ
 new = kālindīsodaraḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 6: 05/10/2026 dict=AP, L=12139.004, hw=kālindam, user=srhodes
 old = kālindasūḥ
 new = kālindīsūḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 5: 05/10/2026 dict=AP, L=12139.004, hw=kālindam, user=srhodes
 old = kālindabhedanaḥ
 new = kālindībhedanaḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 4: 05/10/2026 dict=AP, L=12139.004, hw=kālindam, user=srhodes
 old = kālindakarṣaṇaḥ
 new = kālindīkarṣaṇaḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 3: 05/10/2026 dict=AP, L=12139.02, hw=kālindakarṣaṇaḥ, user=srhodes
 old = kālindakarṣaṇaḥ
 new = kālindīkarṣaṇaḥ
 comment = Typo – Headword Typo! Please note that this compound is formed from the Feminine pūrvapada "kālindī".
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
 Case 2: 05/10/2026 dict=AP, L=12137.004, hw=kāliṅṅgāḥ, user=srhodes
 old = kāliṅṅgāḥ
 new = kāliṅgāḥ
 comment = Typo – Headword Typo! Please note that this correction suggests the Global Transformation as follows: "ṅṅ" —> "ṅ"
-status = PENDING
+status = Corrected 13 May 2026. Corrected a few other cases too.
 ------------------------------------------------------------------------
 
 Case 1: 05/10/2026 dict=AP, L=12132.002, hw=kālañjarā, user=srhodes
 old = Missing Compound
 new = Please Add the Compound Indicated Here in the Window Display: "kālañjarī". This compound deserves to be a Searchable Headword, located in the Hierarchy List Display, in order to Fully Honor and Pay Resect to AP57.
 comment = Missing Compound
-status = PENDING
+status = Corrected 13 May 2026. There were a few more unearthed. Corrected via https://github.com/sanskrit-lexicon/AP/issues/28
 ------------------------------------------------------------------------
 
