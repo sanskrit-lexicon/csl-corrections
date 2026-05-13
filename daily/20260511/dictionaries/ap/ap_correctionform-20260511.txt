@@ -1,32 +1,32 @@
 Sanskrit Lexicon Correction Form History for AP
-As of May 12, 2026
-4 correction records, with 4 PENDING
+As of May 13, 2026
+4 correction records, with 0 PENDING
 
-Case 12: 05/11/2026 dict=AP, L=12163.008, hw=kāvyam, user=srhodes
+Case 11: 05/11/2026 dict=AP, L=12163.008, hw=kāvyam, user=srhodes
 old = Two Missing Compounds
 new = Please Add the following Two Compounds as shown in the Window Display of "kāvyārthaḥ [ID=12163.02]" :   "kāvyārthāpattiḥ" AND "kāvyārthāpatti",  along with the existing list of compounds shown here in the Window Display.
 comment = Two Missing Compounds
-status = PENDING
+status = Tracked separately at https://github.com/sanskrit-lexicon/AP/issues/17
 ------------------------------------------------------------------------
 
-Case 11: 05/11/2026 dict=AP, L=12163.02, hw=kāvyārthaḥ, user=srhodes
+Case 10: 05/11/2026 dict=AP, L=12163.02, hw=kāvyārthaḥ, user=srhodes
 old = Two Missing Compounds
 new = Please Add the Two Compounds as shown here in the Window Display: "kāvyārthāpattiḥ" AND "kāvyārthāpatti". These compounds deserve to be Searchable Headwords, located in the Hierarchy List Column. Of Course an additional "Indentation" will be required following the pūrvapada: "kāvyārthaḥ", in the Hierarchy List Column. Also, these Two Compounds will need to be added to the Window Display of the Headword "kāvyam" , along with the existing listed compounds.
 comment = Two Missing Compounds
-status = PENDING
+status = Tracked separately at https://github.com/sanskrit-lexicon/AP/issues/17
 ------------------------------------------------------------------------
 
-Case 10: 05/11/2026 dict=AP, L=12156, hw=kālya, user=srhodes
+Case 9: 05/11/2026 dict=AP, L=12156, hw=kālya, user=srhodes
 old = cake
 new = cakre
 comment = Typo – Please note that this OCR error is quite common. Therefore, I am suggesting a Global Correction that will save US BOTH time and effort. The correction would isolate the word with a "preceding" and "following" Blank Space as: " cake " —> " cakre "  •  Andhrabharati has stated that you are able to "target" only Sanskrit so that English Words are excluded and left out of this domain of correction. I undersand that there could be a Small Amount of "Crossfire", but is would still save time to Make this Global Correction; And Then Simply "Reverse" any casualties to their original state.
-status = PENDING
+status = Corrected in whole of AP. Rest dictionaries pending.
 ------------------------------------------------------------------------
 
-Case 9: 05/11/2026 dict=ap, L=, hw=sUd, user=jim
+Case 8: 05/11/2026 dict=ap, L=, hw=sUd, user=jim
 old = सूद्  सूद्  [Printed book page 1698-2]  <!!!>सूद्  I. 1 Ā. (सूद्ते)<!!!> 1 To strike, hurt, wound, kill, destroy. 2 To effuse, pour out. 3 To deposit.
 new = सूदते
 comment = 
-status = PENDING
+status = Corrected 13 May 2026
 ------------------------------------------------------------------------
 
