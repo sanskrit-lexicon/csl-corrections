@@ -7,83 +7,79 @@ documented.
 
 -----------------------------------------------------------------------
 01-12-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
-contains details supporting these changes.
-These changes initiated by Dr. Dhaval Patel
-L code : Headword  : Old :       New       : Comment
-4351 : maNivawwappAra : maNivawwappAra : maRivawwappAra : Ni
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+Lcode : Headword  : Old :       New       : Comment
+4351 : maNivawwappAra : MAṄIVAṬṬAPPĀRA : MAṆIVAṬṬAPPĀRA : Ni
 -----------------------------------------------------------------------
 03-15-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
-1519 : cenkaRRarAja : cenkaRRarAja : ceNkaRRarAja : Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
-4011 : lohitAranI : lohitAranI : lohitAraRI : lohitAraRI Confirmed by inm,mw,pw
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+Lcode : Headword : Old  : New : Comment
+1519 : cenkaRRarAja : CENKAṆṆARĀJA : CEṄKAṆṆARĀJA : Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
+4011 : lohitAranI : LOHITĀRANĪ : LOHITĀRAṆĪ : lohitAraRI Confirmed by inm,mw,pw
 -----------------------------------------------------------------------
 04-14-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword : Old  : New : Comment
-1669 : daksasAvarRi : daksasAvarRi : dakzasAvarRi : alphabetic misordering.
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+Lcode : Headword : Old  : New : Comment
+1669 : daksasAvarRi : DAKSASĀVARṆI : DAKṢASĀVARṆI : alphabetic misordering.
 -----------------------------------------------------------------------
 05-04-2016
-Submitted by anonymous user; confirmed by ejf
-L code : Headword : Old  : New : Comment
+Source: anonymou, Jim Funderburk
+Lcode : Headword : Old  : New : Comment
 2746 : indra : Pāñcātī : Pāñcālī: 
 -----------------------------------------------------------------------
 05-12-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword : Old  : New : Comment
-3579 : kolasvrUpa : kolasvrUpa : kolasvarUpa : The description has svarUpa, whereas headword has svrUpa.
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+Lcode : Headword : Old  : New : Comment
+3579 : kolasvrUpa : KOLASVRŪPA : KOLASVARŪPA : The description has svarUpa, whereas headword has svrUpa.
 -----------------------------------------------------------------------
 06-15-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/299
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword : Old  : New : Comment
-1635 : cUdAkarRa : cUdAkarRa : cUqAkarRa : cUd
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/299
+Lcode : Headword : Old  : New : Comment
+1635 : cUdAkarRa : CŪDĀKARṆA : CŪḌĀKARṆA : cUd
 ----------------------------------------------------------------------
 09/12/2017
 ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
 These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
-5104 : pativratAmAhatmyaparva : pativratAmAhatmyaparva : pativratAmAhAtmyaparva : 
+Lcode : Headword : Old  : New : Comment
+5104 : pativratAmAhatmyaparva : PATIVRATĀMĀHATMYAPARVA : PATIVRATĀMĀHĀTMYAPARVA : 
 ----------------------------------------------------------------------
 03/19/2021
-ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/468
+Source: AnnaRybakovaT
+Ref:  https://github.com/sanskrit-lexicon/csl-orig/issues/468
 These changes initiated by user AnnaRybakovaT as part of review of
   errors in spelling of English words.
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 54 : agni : lanchrymal :  lachrymal :
 127 : ajAmila : eightyseven :  eighty-seven :
-129 : ajamuKI : imprisoend :  imprisoned :
+129 : ajamuKI : The imprisoend :  The imprisoned :
 219 : aMSa : parthogenetically :  parthenogenetically :
 255 : ananta : disincli :  disincli- (disinclination) :
 430 : arizwa : mountaisn :  mountains :
 438 : arjuna : neighoouring :  neighbouring :
-501 : aSokadatta :  erranda :  errands or errand :
+501 : aSokadatta :  erranda :  errands :
 505 : azwabanDa : fortyone :  forty-one :
 521 : azwaka : dyansty :  dynasty :
 595 : atala : eaisly :  easily :
-622 : atri : passsion :  passion :
-651 : avatAra : japheth :  Japheth :
+622 : atri : carnal passsion : carnal passion :
+651 : avatAra : and Ham and japheth : and Ham and Japheth :
 669 : ayoDyA : thirtyfifth :  thirty-fifth :
 726 : Ana : symplocos :  Symplocos :
 744 : Apastamba : toofficiate :  to officiate :
 767 : Arya : blacksmithy :  blacksmithing :
 885 : bala : ninetysix :  ninety-six  :
-900 : bAlaKilya : panance :  penance :
+900 : bAlaKilya : panance, hanging down :  penance, hanging down :
 980 : Badramati : fortyfour :  forty-four :
 985 : BadraSravas : drapped :  draped :
 994 : Baga : asembled :  assembled :
 1002 : Bagavad : eleborated :  elaborated :
 1068 : BArata : alongwith :  along with :
 1069 : BArata : cambaka :  Cambaka :
-1069 : BArata : follwoing :  following :
+1069 : BArata : follwoing states lie :  following states lie :
 1145 : BImaBawa : iremembered :  remembered :
 1248 : brahmA : unparralleled :  unparalleled :
 1254 : brahmacarya : reaeh :  reach :
@@ -95,7 +91,7 @@ L code : Headword : Old  : New : Comment
 1546 : cital : crificial :  sacrificial :
 1630 : cola : decendants :  descendants :
 1668 : dakza : assemibly :  assembly :
-1695 : damayantI : huband :  husband :
+1695 : damayantI : is her huband : is her husband :
 1695 : damayantI : ninetyfive :  ninety-five :
 1729 : daRqanIti : yavagrains :  yava grains :
 1732 : daRqI : rightside :  right side :
@@ -105,78 +101,78 @@ L code : Headword : Old  : New : Comment
 1831 : devala : reciprocrate :  reciprocate :
 1888 : devayAnI : redumption :  redemption :
 1889 : devI : forberance :  forbearance :
-1941 : Darmagupta : watchover :  watch over :
-1950 : Darmaputra : aad :  and :
-1955 : DarmasaKa : hunderd :  hundred :
-1956 : DarmaSarmA : parro :  parrot :
+1941 : Darmagupta : prince kept watchover :  prince kept watch over :
+1950 : Darmaputra : Dharmaputra aad the great : Dharmaputra and the great :
+1955 : DarmasaKa : hunderd wives of Dharmasakha :  hundred wives of Dharmasakha :
+1956 : DarmaSarmA : parro the never :  parrot the never :
 1988 : Dfzwadyumna : somehwere :  somewhere :
-2057 : dilIpa : fram :  from :
+2057 : dilIpa : arrows fram : arrowsfrom :
 2095 : divodAsa : torenounce :  to renounce :
 2107 : drAviqa : semitic :  Semitic :
 2152 : duHKa : covetouseness :  covetousness :
 2155 : dunduBi : relati :  relationship :
 2157 : dunduBinihrAda : reson :  reason :
-2166 : durga : adurgam :  Manuṣyadurgam :
-2202 : duryoDana : junture :  juncture :
+2166 : durga : Parvatadurgam, and Manuṣy adurgam :  Parvatadurgam, and Manuṣyadurgam :
+2202 : duryoDana : junture it was :  juncture it was :
 2202 : duryoDana : forebearance :  forbearance :
-2202 : duryoDana : incogni :  incognito :
-2216 : duzyanta : bacame :  became :
+2202 : duryoDana : incogni to  at Virāṭa :  incognito at Virāṭa :
+2216 : duzyanta : bacame the emperor :  became the emperor :
 2220 : dvAdaSAditya : redcolour :  red colour :
 2220 : dvAdaSAditya : tawny :  Tawny :
 2313 : gaRapati : tantamounted :  was tantamount :
 2331 : ganDarvI : cattlebreed :  cattle breed :
-2349 : garBa : fost :  fat (adipose tissue) :
+2349 : garBa : (fost) :  (fat) :
 2404 : gayAtIrTa : transfered :  transferred :
-2413 : GaRwAkarRa : hecame :  became :
+2413 : GaRwAkarRa : hecame unbearable :  became unbearable :
 2439 : girikA : marriagable :  marriageable :
 2490 : gotama : seventyfourth :  seventy-fourth :
 2504 : grahapIqA : exessive :  excessive :
-2505 : grAmadevatA : supoosed :  supposed :
-2529 : guRAQya : Satans :  satans  :
-2529 : guRAQya : language. : language, :
-2746 : indra : answerd :  answered :
-2746 : indra : sacifices :  sacrifices :
-2746 : indra : glady,eerrible :  gladly :
-2746 : indra : eerrible :  terrible :
-2801 : ISvara : caitanya :  Caitanya :
+2505 : grAmadevatA : is supoosed as : is supposed as :
+2529 : guRAQya : Satans was not :  satans was not :
+2529 : guRAQya : picked up the language. : picked up the language, :
+2746 : indra : Surabhi answerd : Surabhi answered :
+2746 : indra : sacifices, Sudeva :  sacrifices, Sudeva :
+2746 : indra : glady offered :  gladly offered :
+2746 : indra : eerrible look :  terrible look :
+2801 : ISvara : caitanya is not self-illuminating :  Caitanya is not self-illuminating :
 2812 : jAgrat : orunderstanding :  or understanding :
 2812 : jAgrat : suble :  subtle :
 2812 : jAgrat : seventytwo :  seventy-two :
-2833 : jalapralaya : shoorappak :  Śhoorappak :
-2833 : jalapralaya : mediterranean :  Mediterranean Sea :
+2833 : jalapralaya : shoorappak, the son of :  Śhoorappak, the son of :
+2833 : jalapralaya : mediterranean sea :  Mediterranean Sea :
 2842 : jAmbavAn : descri bed :  described :
 2842 : jAmbavAn : twentyeighth :  twenty-eighth :
 2847 : jambUdvIpa : bowshaped :  bow-shaped :
 2847 : jambUdvIpa : syzygium  :  Syzygium  :
-2861 : janaka : dicussion :  discussion :
-2900 : jAtakarmAdisaMskAra : butea :  Butea :
+2861 : janaka : entered into a dicussion : entered into a discussion :
+2900 : jAtakarmAdisaMskAra : “palāśa” (butea frondosa) : “palāśa” (Butea frondosa) :
 2978 : jayatsena : famovs :  famous :
-3007 : jIvAtman : induvidual :  individual :
-3083 : kAla : punishmen :  punishment :
-3109 : kAlamAna : nimisas :  Nimiṣas :
+3007 : jIvAtman : The induvidual life : The individual life :
+3083 : kAla : punishmen there is :  punishment there is :
+3109 : kAlamAna : nimisas make one Kāṣṭhā, :  Nimiṣas make one Kāṣṭhā, :
 3162 : kAliya : taok :  took :
-3166 : kalmAzapAda : whan :  when :
+3166 : kalmAzapAda : angry whan : angry when :
 3259 : kanyAkumArI : eightyfive :  eighty-five :
-3433 : kOSika : whentheir :  when their :
-3466 : kerala : sixtyfour :  sixty-four :
+3433 : kOSika : Mānasasaras whentheir : Mānasasaras when their :
+3466 : kerala : assembled, sixtyfour : assembled, sixty-four :
 3466 : kerala : elenji :  elengi :
-3466 : kerala : asclapia :  Asclepia :
-3478 : keSinI : lfeet :  feet :
+3466 : kerala : asclapia tree, :  Asclepia tree, :
+3478 : keSinI : lfeet of Sudhanvā :  feet of Sudhanvā :
 3599 : kowwuvA : fea :  fear :
 3611 : krATa : mous :  famous :
 3638 : kroDa : remissiom :  remission :
 3662 : kfzRa : thirtysixth : thirty-sixth :
-3752 : kubera : daugher :  daughter :
+3752 : kubera : daugher of Kāla :  daughter of Kāla :
 3825 : kumuda : tweny :  twenty :
 3846 : kuRqalI : kuown :  known :
 3868 : kuntI : inmersed :  immersed :
 3990 : liKita : respecifully :  respectfully :
-3997 : lipi : lwo :  two :
+3997 : lipi : He had lwo disciples : He had two disciples :
 4122 : mahAkrOYca : montain :  mountain :
 4226 : makaradaMzwrA : respectully :  respectfully :
 4311 : maRqUka : highclass :  high-class :
-4385 : manvantara : seventyone :  seventy-one :
-4385 : manvantara : np :  up :
+4385 : manvantara : seventyone such Caturyugas :  seventy-one such Caturyugas :
+4385 : manvantara : Kaliyuga make np : Kaliyuga make up :
 4385 : manvantara : lla :  Ilā :
 4406 : mArkaRqeyapurARa : ninethousand :  nine thousand :
 4430 : mAsa : twinfaced :  two-faced :
@@ -186,12 +182,12 @@ L code : Headword : Old  : New : Comment
 4695 : nala : hetween :  between :
 4703 : nAlu : nuli mited :  unlimited :
 4703 : nAlu : perpiration :  perspiration :
-4741 : nara : ownwards :  onwards :
+4741 : nara : ownwards Indra :  onwards Indra :
 4747 : nArada : theb,anks :  the banks :
-4752 : naraka : damels :  damsels :
+4752 : naraka : damels who had been born :  damsels who had been born :
 4762 : naravAhanadatta : tbe :  the :
 4767 : nArAyaRavarmamantra : dasires :  desires :
-4780 : nAwowippAwwu : cekavar :  Cekavar :
+4780 : nAwowippAwwu : cekavar took her as :  Cekavar took her as :
 4789 : navavyUhArcana : hindpart :  hind part :
 4789 : navavyUhArcana : (eye) :  (eye). :
 4815 : nIla : nothern :  northern :
@@ -199,9 +195,9 @@ L code : Headword : Old  : New : Comment
 4865 : niSumBa : thay :  they :
 4865 : niSumBa : goodas :  good as :
 4971 : pAYcAlika : cousumed :  consumed :
-4992 : pARqava : grea :  great :
+4992 : pARqava : set for a grea : set for a great :
 5025 : parASara : abvice :  advice :
-5031 : paraSurAma : semdon :  demons :
+5031 : paraSurAma : semdon. Paraśurāma was without :  demons. Paraśurāma was without :
 5051 : parIkzit : enqired :  enquired :
 5083 : pArvatI : beautlful :  beautiful :
 5094 : pAwalIputra : livtng :  living :
@@ -281,9 +277,9 @@ L code : Headword : Old  : New : Comment
 
 -----------------------------------------------------------------------
 01/20/2024
-user Andhrabharati
-ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/36
-L code : Headword : Old  : New : Comment
+Source: Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/36
+Lcode : Headword : Old  : New : Comment
  5949  : SAivAla  : SAivAla : SEvAla  : change headword spelling
  5949  : SAivAla  : ŚĀIVĀLA : ŚAIVĀLA
 -----------------------------------------------------------------------
