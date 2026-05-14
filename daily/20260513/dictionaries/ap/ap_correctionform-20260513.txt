@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
 As of May 14, 2026
-1 correction records, with 1 PENDING
+1 correction records, with 0 PENDING
 
 Case 1: 05/13/2026 dict=AP, L=12177, hw=kāśmīra, user=srhodes
 old = Kāṣmīra
 new = Kāśmīra
 comment = Typo – This is a suggested "Print Change". There should not be a "Sibilant Change" from the Headword to the Definition !  Also, please note that MW prefers the spelling as "kaśmīra " ;  Therefore, please confirm that the long vowel "ā" is intended and correct in AP.
-status = PENDING
+status = Corrected 14 May 2026. kaSmIra and kASmIra are both prevalent words in India. Nothing wrong with both.
 ------------------------------------------------------------------------
 
