@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 15, 2026
+2 correction records, with 2 PENDING
+
+Case 4: 05/14/2026 dict=AP, L=12182.004, hw=kāśyapam, user=srhodes
+old = Homonym Number Missing
+new = Please add the number "1" to the right side of this Headword: "kāśyapam flesh. [ID=12181.02]" in the hierarchy list to properly mark the location of this Homonym. This represents a very unique case whereby two words with identical spellings but distinct etymological paths (homonyms) have been given separate entries to preserve the "history" of how the word was built. The distinction between the (ONE) compound "kāśyam + pam" and (TWO) the derivative from the name Kāśyapa signals to the researcher that "flesh" can be understood through TWO different grammatical lenses. This DOUBLE LISTING creates the Homonym "kāśyapam", and allows us to see both the "base" meaning (First Instance) and the "derived" meaning (Second Instance) as distinct grammatical events. Therefore, please add the number "2" to the right side of the Second Headword: "kāśyapam flesh. [ID=12182.004]".
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/14/2026 dict=AP, L=12181.02, hw=kāśyapam, user=srhodes
+old = Homonym Number Missing
+new = Please add the number "1" to the right side of this Headword: "kāśyapam flesh. [ID=12181.02]" in the hierarchy list to properly mark the location of this Homonym. This represents a very unique case whereby two words with identical spellings but distinct etymological paths (homonyms) have been given separate entries to preserve the "history" of how the word was built. The distinction between the (ONE) compound "kāśyam + pam" and (TWO) the derivative from the name Kāśyapa signals to the researcher that "flesh" can be understood through TWO different grammatical lenses. This DOUBLE LISTING creates the Homonym "kāśyapam", and allows us to see both the "base" meaning (First Instance) and the "derived" meaning (Second Instance) as distinct grammatical events. Therefore, please add the number "2" to the right side of the Second Headword: "kāśyapam flesh. [ID=12182.004]".
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
