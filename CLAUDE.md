@@ -55,3 +55,76 @@ Cologne codes used throughout (directory names under `dictionaries/`): `acc ae a
 
 - `../csl-orig` — dictionary source files
 - `../csl-pywork` — build toolchain (`generate_dict.sh`, `xmlchk_xampp.sh`)
+
+---
+
+## GitHub Issue Conventions
+
+All issues follow the Sanskrit Lexicon taxonomy shared across the org.
+
+### Milestones
+
+| # | Title | Types |
+|---|---|---|
+| 1 | Dictionary to Book | `link-target`, `link-splitting` |
+| 2 | Digitization Quality | `text-correction`, `encoding`, `bug`, `scan-quality` |
+| 3 | Structured Data | `markup`, `question` |
+| 4 | Major Enhancements | `content-enhancement` |
+
+### Type labels — color `#0075ca`
+
+| Label | When to use |
+|---|---|
+| `link-target` | Building click-throughs from `<ls>` abbreviations to scanned PDF pages |
+| `link-splitting` | Splitting combined `SOURCE N,N` refs into individual per-page links |
+| `markup` | Normalising XML tag content (`<ls>`, `<lex>`, `<ab>`, etc.) |
+| `text-correction` | Corrections to dictionary text (definitions, headwords) |
+| `content-enhancement` | New material, display upgrades, structural additions beyond correction |
+| `encoding` | SLP1/AS/IAST transcoding, character rendering, hyphen/dash normalisation |
+| `scan-quality` | Replacing blurry, skewed, or missing scan pages |
+| `bug` | Broken links, XML errors, broken scripts or download files |
+| `question` | Scholarly or editorial questions requiring research before any code change |
+
+### Severity labels
+
+| Label | Color | When to use |
+|---|---|---|
+| `minor` | `#e4e669` | Targeted, self-contained fix |
+| `medium` | `#fbca04` | Standard unit of work — one index, a batch of corrections |
+| `hard` | `#d93f0b` | Large effort spanning many sources, files, or dictionaries |
+
+---
+
+## Data format
+
+### Markup tags in `csl-orig` dictionary source files
+
+| Tag | Role | Example |
+|---|---|---|
+| `<L>NNNN` | Entry begin, with print line number | `<L>12345` |
+| `<LEND>` | Entry end | |
+| `<k1>headword` | Primary headword in SLP1 | `<k1>rAma` |
+| `<k2>variant` | Secondary spelling or transliteration | `<k2>rAma` |
+| `<e>N` | Homonym number | `<e>1` |
+| `<lex>code` | Lexical category (gender, part of speech) | `<lex>m.` |
+| `<ls>source` | Literary source citation | `<ls>Rv. 1.22.16` |
+| `<ab>tag` | Italicised abbreviation | `<ab>m.</ab>` |
+| `{#text#}` | Sanskrit text in SLP1 | `{#rAmaH#}` |
+| `{%text%}` | Italicised display text | `{%abc%}` |
+
+### Annotated example (AP90, abridged)
+
+```
+<L>8687<k1>uttaraNga<k2>uttaraNga<e>1
+{#uttaraNga#}¦ <lex>a.</lex> Having a high or projecting roof;
+{%uttaraNgaH -raH%} <ab>m.</ab> A kind of pavilion or summer-house.
+<LEND>
+```
+
+- `<L>8687` — print line number used for `updateByLine.py` change files
+- `<k1>uttaraNga` — headword in SLP1 (maps to IAST *uttaraṅga*)
+- `<e>1` — homonym index
+- `{#uttaraNga#}` — Devanagari/IAST Sanskrit text
+- `<lex>a.</lex>` — adjective marker
+- `<ab>m.</ab>` — gender abbreviation (masculine)
+- `<LEND>` — entry close

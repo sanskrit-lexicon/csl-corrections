@@ -16,6 +16,25 @@ Each dictionary `xxx` gets two files:
 - `xxx_correctionform.txt` — generated from user submissions (do not edit manually)
 - `xxx_printchange.txt` — manually maintained log of intentional deviations from the printed text
 
+```mermaid
+flowchart LR
+  F["Web form\napp/correction_form.php"] -->|submit| T["cfr.tsv"]
+  T -->|cfr_adj.py| C["xxx_correctionform.txt\nper dictionary"]
+  C -->|maintainer review| E["csl-orig source edit"]
+  T -->|mark resolved| T
+  E -->|update_user_corrections.sh| B["build + push\ncsl-orig"]
+  T -->|post_github_issues.sh| G["GitHub issues\non csl-orig"]
+```
+
+---
+
+## Encoding
+
+- UTF-8 NFC throughout.
+- Sanskrit text in SLP1 transliteration, wrapped in `{#…#}`.
+- Display layer uses IAST (ISO 15919) and Devanagari, generated via `transcoder/` in `csl-pywork`.
+- Round-trip verified for the vast majority of entries; exceptions tracked under issue label `encoding`.
+
 ---
 
 ## Dictionary codes
@@ -81,6 +100,114 @@ Each dictionary `xxx` gets two files:
 ### 2021–present — Ongoing user corrections
 - Daily correction form submissions processed in batches
 - Per-issue targeted fixes tracked under `issues/` and `daily/YYYYMMDD/`
+
+---
+
+## Projects & Milestones
+
+Issues are organised into four milestones matching the org-wide GitHub Projects:
+
+| Milestone | Project | Open | Closed | Total |
+|---|---|---:|---:|---:|
+| Dictionary to Book | DTB | 0 | 2 | **2** |
+| Digitization Quality | DQ | 4 | 156 | **160** |
+| Structured Data | SD | 9 | 43 | **52** |
+| Major Enhancements | ME | 3 | 4 | **7** |
+| **Total** | | **16** | **205** | **221** |
+
+```mermaid
+pie title Issues closed by milestone
+  "Digitization Quality" : 156
+  "Structured Data" : 43
+  "Major Enhancements" : 4
+  "Dictionary to Book" : 2
+```
+
+```mermaid
+pie title Open issues by type
+  "question" : 5
+  "markup" : 4
+  "content-enhancement" : 3
+  "encoding" : 2
+  "text-correction" : 2
+```
+
+---
+
+## Issue Typology
+
+### Open (15)
+
+| # | Type | Title | Severity |
+|---|---|---|---|
+| [#10](https://github.com/sanskrit-lexicon/csl-corrections/issues/10) | markup | WIL separating genders | minor |
+| [#26](https://github.com/sanskrit-lexicon/csl-corrections/issues/26) | content-enhancement | autofill correction form | minor |
+| [#38](https://github.com/sanskrit-lexicon/csl-corrections/issues/38) | encoding | IEG ळ / ड़ errors | minor |
+| [#45](https://github.com/sanskrit-lexicon/csl-corrections/issues/45) | encoding | PUI inconsistent diacritics | medium |
+| [#69](https://github.com/sanskrit-lexicon/csl-corrections/issues/69) | question | IEG diestruck (non-Sanskrit headwords) | minor |
+| [#78](https://github.com/sanskrit-lexicon/csl-corrections/issues/78) | markup | it markers to be marked up in SKD | minor |
+| [#87](https://github.com/sanskrit-lexicon/csl-corrections/issues/87) | question | How can we use the printchange files? | minor |
+| [#119](https://github.com/sanskrit-lexicon/csl-corrections/issues/119) | question | Sanskrit Questions for Andhrabharati (Part-7) | minor |
+| [#120](https://github.com/sanskrit-lexicon/csl-corrections/issues/120) | markup | Missing vacana marks | minor |
+| [#173](https://github.com/sanskrit-lexicon/csl-corrections/issues/173) | question | How to display the resolved compounds in AP? | minor |
+| [#175](https://github.com/sanskrit-lexicon/csl-corrections/issues/175) | markup | AP: inline ({@{#-XXXX#}@}) | minor |
+| [#195](https://github.com/sanskrit-lexicon/csl-corrections/issues/195) | content-enhancement | AP: Add artificial homonyms while displaying results | medium |
+| [#207](https://github.com/sanskrit-lexicon/csl-corrections/issues/207) | question | AP: vimAtrā | minor |
+| [#212](https://github.com/sanskrit-lexicon/csl-corrections/issues/212) | text-correction | printchange incorporation tracker | medium |
+| [#219](https://github.com/sanskrit-lexicon/csl-corrections/issues/219) | content-enhancement | AP: Homonym number requests | medium |
+| [#221](https://github.com/sanskrit-lexicon/csl-corrections/issues/221) | text-correction | Daily Corrections - 2026-05-14 | medium |
+
+### Solved (205)
+
+| Type | Count |
+|---|---:|
+| text-correction | 122 |
+| question | 35 |
+| bug | 22 |
+| encoding | 11 |
+| markup | 8 |
+| content-enhancement | 4 |
+| link-target | 2 |
+| scan-quality | 1 |
+| **Total** | **205** |
+
+```mermaid
+pie title All 221 issues by type
+  "text-correction" : 124
+  "question" : 40
+  "bug" : 22
+  "encoding" : 13
+  "markup" : 12
+  "content-enhancement" : 7
+  "link-target" : 2
+  "scan-quality" : 1
+```
+
+---
+
+## Labels
+
+### Type labels (color `#0075ca`)
+
+| Label | Total | Description |
+|---|---:|---|
+| `text-correction` | 124 | Corrections to dictionary text (definitions, headwords) |
+| `question` | 40 | Scholarly questions requiring research before any code change |
+| `bug` | 22 | Broken links, XML structure errors, broken download files |
+| `encoding` | 13 | SLP1/IAST transcoding, character rendering, hyphen/dash normalisation |
+| `markup` | 12 | Normalising XML tag content (`<ls>`, `<lex>`, `<ab>`, etc.) |
+| `content-enhancement` | 7 | New material, display upgrades, structural additions beyond correction |
+| `link-target` | 2 | Building click-throughs from `<ls>` abbreviations to scanned PDF pages |
+| `scan-quality` | 1 | Replacing blurry, skewed, or missing scan pages |
+| `link-splitting` | 0 | Splitting combined `SOURCE N,N` refs into individual per-page links |
+
+### Severity labels
+
+| Label | Color | Total | Description |
+|---|---|---:|---|
+| `minor` | `#e4e669` | 116 | Targeted, self-contained fix |
+| `medium` | `#fbca04` | 105 | Standard unit of work — one index, a batch of corrections |
+| `hard` | `#d93f0b` | 0 | Large effort spanning many sources, files, or dictionaries |
 
 ---
 
