@@ -378,7 +378,7 @@ Lcode : Headword     : Old       : New         : Comment
   9613 : arDacandraka : Gynandropsis penaphylla : Gynandropsis pentaphylla
   9624 : arDatikta : Gentiana chirata : Gentiana chirayita
   9650 : arDapAdA : Phyttanthus niruri : Phyllanthus niruri
-  9854 : arSoGnavalkalA : Xanthoxylon rhetsa : Xanthoxylon rhetsa
+  9854 : arSoGnavalkalA : Xanthoxylon rhetsa : Zanthoxylum rhetsa
  10671 : avalguja : Vernonia anthelminthica Willd. : Vernonia anthelmintica Willd.
  11622 : aSoka : Jonesia asoka Roxb. : Jonesia asoca Roxb.
  11701 : aSmarIGna : Capparis trifliata : Capparis trifoliata
@@ -896,7 +896,7 @@ Lcode : Headword     : Old       : New         : Comment
  76047 : balAya : Crataeva roxburghii : Crateva roxburghii
  76259 : bahukaRwaka : Solanum jacquini : Solanum jacquinii
  76260 : bahukaRwA : Solanum jacquini : Solanum jacquinii
- 76261 : bahukanda : Amorphophallus compunilatus : Amorphophallus campunilatus
+ 76261 : bahukanda : Amorphophallus compunilatus : Amorphophallus campanulatus
  76264 : bahukarRikA : Saivinia cucullata : Salvinia cucullata
  76285 : bahuguqA : Solanum jacquini : Solanum jacquinii
  76288 : bahuguhA : Solanum jacquini : Solanum jacquinii
@@ -912,7 +912,7 @@ Lcode : Headword     : Old       : New         : Comment
  76407 : bahubIja : Trigonella foenum graecum : Trigonella foenum-graecum
  76514 : bahuvIrya : Flacomurtia cataphracta : Flacourtia cataphracta
  76514 : bahuvIrya : Terminalia bellerica : Terminalia bellirica
- 76755 : bAlapattra : Hedysarum athoagi : Hedysarum athagi
+ 76755 : bAlapattra : Hedysarum athoagi : Hedysarum alhagi
  77021 : bindupattra : Betula bhojpatra : Betula bhojpattra
  77152 : bIjagarBa : Trichosanthes dioeca : Trichosanthes dioica
  77466 : bfhattiktA : Clypea hernandifolia : Clypea hernandiifolia
@@ -973,7 +973,7 @@ Lcode : Headword     : Old       : New         : Comment
  81410 : makUlaka : Croton polyandrum : Croton polyandrus
  81704 : maqaka : Eleusine corocana : Eleusine coracana
  81904 : maRqUka : Hydrocotile asiatica : Hydrocotyle asiatica
- 81907 : maRqUkaparRa : Clerodenrum siphonantus : Clerodendrum siphonantus
+ 81907 : maRqUkaparRa : Clerodenrum siphonantus : Clerodendrum siphonanthus
  81907 : maRqUkaparRa : Colosanthes indica : Calosanthes indica
  81907 : maRqUkaparRa : Hydrocotile asiatica : Hydrocotyle asiatica
  81907 : maRqUkaparRa : Polanisia incosandra : Polanisia icosandra
@@ -1428,10 +1428,10 @@ Lcode : Headword     : Old       : New         : Comment
 Source: Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/PWK/issues/84#issuecomment-2945143071
 Lcode : Headword     : Old       : New         : Comment
-27585   kASyapadvIpa:  <ls>MBH. 6,6</ls> : <ls>MBH. 6,6,55</ls> ;;print_change
-114323 : SESupAli : <ls>MBH. 254,6</ls> : <ls>MBH. 3,254,16</ls> ;;print_change
-123397 : sAMsa : <ls>MBH. 6,6</ls> : <ls>MBH. 6,64</ls> ;;print_change
-130874 : sTA : <ls>MBH. 6,9</ls> : <ls>MBH. 6,93</ls> ;;print_change
+27585 : kASyapadvIpa:  <ls>MBH. 6,6</ls> : <ls>MBH. 6,6,55</ls>
+114323 : SESupAli : <ls>MBH. 254,6</ls> : <ls>MBH. 3,254,16</ls>
+123397 : sAMsa : <ls>MBH. 6,6</ls> : <ls>MBH. 6,64</ls>
+130874 : sTA : <ls>MBH. 6,9</ls> : <ls>MBH. 6,93</ls>
 -------------------------------------------------------------------------
 06-06-2025
 Source: Andhrabharati
@@ -1510,9 +1510,9 @@ code : Headword : Old  : New : Comment
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue86fix)
 code : Headword : Old  : New : Comment
-133572 : har : PA▒CAT. ed. KOSEG. : PA▒CAT. :  
-91092 : yuj : PA▒CAT. ed. KOSEG. : PA▒CAT. :  
-78974 : Barts :  PA▒CAT. ed. KOSEG. : PA▒CAT. :  
+133572 : har : PAÑCAT. ed. KOSEG. : PAÑCAT. :  
+91092 : yuj : PAÑCAT. ed. KOSEG. : PAÑCAT.:  
+78974 : Barts : PAÑCAT. ed. KOSEG. : PAÑCAT. :  
 ------------------------------------------------------------------------
 10-14-2025
 Source: Jim Funderburk
@@ -1531,7 +1531,7 @@ Lcode : Headword : Old  : New : Comment
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue101fix)
 Lcode : Headword : Old  : New : Comment
-213529 : asaMkO : (asaMkO) SĀH. D. 49, ult. fg. : (asakO) SĀH. D. 49,21. fg. : headword change AND literary source change.
+213529 : asakO : SĀH. D. 49, ult. fg. : SĀH. D. 49,21. fg. : headword change AND literary source change.
 ------------------------------------------------------------------------
 11-02-2025
 Source: Andhrabharati
