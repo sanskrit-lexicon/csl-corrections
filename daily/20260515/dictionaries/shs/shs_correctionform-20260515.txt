@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of May 16, 2026
+2 correction records, with 2 PENDING
+
+Case 3: 05/15/2026 dict=SHS, L=9553, hw=kalāvat, user=srhodes
+old = RADHA
+new = RĀDHĀ
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/15/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
+old = fore arm
+new = forearm
+status = PENDING
+------------------------------------------------------------------------
+

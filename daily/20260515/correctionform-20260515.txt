@@ -1,0 +1,84 @@
+Sanskrit Lexicon Correction Form History
+As of May 16, 2026
+12 correction records, with 12 PENDING
+
+Case 12: 05/15/2026 dict=MW, L=177694, hw=rāmī, user=czhao
+old = See under rāmā.
+new = See under rāma. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/15/2026 dict=MW, L=177277, hw=rāmā, user=czhao
+old = MW says "(ā́), f.", so should have accent. Same for "(ī́), f." at ID 177288.  [doubt: MW does list them as H2 words without accent at 177649 and 177694]. 
+new = rāmā́  rāmī́ 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/15/2026 dict=AP, L=12189.042, hw=kāṣṭhatakṣ, user=srhodes
+old = Missing Compound
+new = Please Add the Compound Indicated Here in the Window Display: "kāṣṭhatakṣakaḥ". This compound deserves to be a Searchable Headword, located in the Hierarchy List Display, in order to Fully Honor and Pay Resect to AP57.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/15/2026 dict=AP, L=12189.04, hw=kāṣṭhacitā, user=srhodes
+old = Global Correction Needed
+new = I recently suggested this Global Correction, but this instance proves that the Global Correction is yet to be made!  Here is the correction: "ā a." —> "ā a".  The Specific Transformation is in regard to the Erroneous Abbreviation  "a."  in italics, which indicates "adjective".  Please note there will NEVER be an adjective indicated after a Long Vowel "ā", which is strictly a Feminine Noun, according to AP Protocol.
+comment = Global Correction Needed
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/15/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/15/2026 dict=MW, L=50032, hw=kāṣṭhabhakṣaṇa, user=srhodes
+old = kāṣṭhādhirohaṇa
+new = =°ṣṭhādhirohaṇa
+comment = Typo – Please note that this is correction follows the Printed Text. There may need to be a "Font Change", from the currently "Specialized" appearance.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/15/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/15/2026 dict=MW, L=178176 , hw=rīdhā, user=jc
+old = rīdhā
+new = rīḍhā
+comment = Headword typo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/15/2026 dict=MW, L=65293, hw=gītā (ā), user=czhao
+old = The context here is gītā instead of gīta, so Bhagavad-g⚬ should expand to Bhagavad-gītā instead of Bhagavad-gīta. Same for the other 3.
+new = (cf. Agastya-gītā, Bhagavad-gītā [often called Gītā, Prab. vi, 9/10  &c.], Rāma-gītā, Śiva-gītā)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/15/2026 dict=SHS, L=9553, hw=kalāvat, user=srhodes
+old = RADHA
+new = RĀDHĀ
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/15/2026 dict=SHS, L=9535, hw=kalācikā, user=srhodes
+old = fore arm
+new = forearm
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/15/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
