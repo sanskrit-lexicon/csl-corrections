@@ -1,0 +1,27 @@
+Fetching issues...
+  fetched 400...
+  fetched 900...
+  fetched 1400...
+  fetched 1900...
+  fetched 2400...
+  fetched 2825...
+Total: 2825
+200/2825 done
+400/2825 done
+600/2825 done
+800/2825 done
+1000/2825 done
+1200/2825 done
+1400/2825 done
+1600/2825 done
+1800/2825 done
+2000/2825 done
+2200/2825 done
+2400/2825 done
+2600/2825 done
+2800/2825 done
+2825/2825 done (0 skipped, no milestone)
+ERRORS (1):
+  #2689: error connecting to api.github.com
+check your internet connection or https://githubstatus.com
+
