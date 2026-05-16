@@ -89,7 +89,7 @@ Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/216
 These print changes facilitate literary source identification.
 Lcode : Headword     : Old                : New                   : Comment
 849 : aGAhan : ŚĀÑKH.4,15,11. : ŚĀṄKH. ŚR. 4,15,11. : Refer PWK/issues/43
-13010 : asyagra : ŚĀÑKH. ‹in› Ind.St.5,331. : ŚĀṄKH. GṚHY. ‹in› Ind.St.5,331. : Refer PWK/issues/43
+13010 : asyagra : ŚĀÑKH. : ŚĀṄKH. GṚHY. : Refer PWK/issues/43
 18709 : udamehin : CARARA : CARAKA : It is not a typo. Print error.
 20494 : uBayatoBAj : CARARA : CARAKA : It is not a typo. Print error.
 21026 : UrusAda : CARARA : CARAKA : It is not a typo. Print error.
@@ -98,7 +98,7 @@ Lcode : Headword     : Old                : New                   : Comment
 35162 : gA : CARARA : CARAKA : It is not a typo. Print error.
 35828 : guRya : ĀRYAB. : ĀRYABH. : Assume print error
 49511 : dA : CARARA : CARAKA : It is not a typo. Print error.
-64793 : paryAya : ‹wie ed› Bomb.6,84,50. ‹und ed› Vardh.6,81,50. : <ls>MBH. ed. Bomb. 6,84,50.</ls> und <ls>MBH. ed. Vardh. 6,81,50</ls> : to match with Bibliography in Preface
+64793 : paryAya : ‹wie ed› Bomb.6,84,50. ‹und ed› Vardh.6,81,50. : <ls>MBH. ed. Bomb. 6,84,50</ls> und <ls>MBH. ed. Vardh. 6,81,50</ls> : to match with Bibliography in Preface
 73824 : prAkkoSala : ‹ed.› Vardh. : MBH.ed.Vardh. : to match with Bibliography in Preface
 76129 : balla : ‹wie ed.› Vardh. : MBH. ed. Vardh. : to match with Bibliography in Preface
 77355 : buDnaroga : CARARA : CARAKA : It is not a typo. Print error.
