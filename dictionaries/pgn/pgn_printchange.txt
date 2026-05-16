@@ -4,10 +4,10 @@ The reasons for these changes are various.
 
 -----------------------------------------------------------------------
 07-04-2021
-reference  https://github.com/sanskrit-lexicon/csl-corrections/issues/62
-Print changes identified by Dr. Sampada Savardekar
+Source: Dr. Sampada Savardekar
+Ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/62
 L     : headword : old    : new     : comment
-11 : buDagupta : veiw : view :
+11 : buDagupta : In veiw of : In view of :
 15 : Gawotkacagupta : wlth : with :
 53 : balavarmman : uprotted : uprooted :
 98 : Dftimitra : secondpart : second part :
@@ -19,25 +19,25 @@ L     : headword : old    : new     : comment
 317 : dEvaputra : divinites : divinities :
 318 : hURa : dipthong : diphthong :
 318 : hURa : refering : referring :
-322 : kurus : passege : passage :
-325 : mAlava : setteled : settled :
-326 : mlecCa : speach : speech :
+322 : kurus : another passege : another passage :
+325 : mAlava : They setteled in : They settled in :
+326 : mlecCa : Prakrit form of speach : Prakrit form of speech :
 333 : Saka : hight : height :
 333 : Saka : reminiscene : reminiscence :
 335 : vAhlika : prevaiting : prevailing :
 354 : ErikiRa : litle : title :
 370 : kartfpura : perferred : preferred :
 370 : kartfpura : belley : belly :
-372 : kusTalapura : indentifies : identifies :
+372 : kusTalapura : Williams also indentifies: Williams also identifies :
 373 : pAwaliputra : uptil : until :
-395 : doNgAgrAma : wrod : word :
+395 : doNgAgrAma : wrod Doṅgā : word Doṅgā :
 411 : eraRqapalla : suppese : suppose :
 413 : nitvagohAlI : maning : meaning :
 418 : pAwaka : splittler : splitter :
 421 : pfzWimapottaka : goegraphical : geographical :
 447 : kAmarUpa : subordi : subordinate :
-449 : kASI : improtance : importance :
-451 : kowwUra : indentify : identify :
+449 : kASI : much improtance : much importance :
+451 : kowwUra : indentify it : identify it :
 466 : uttarakuru : beautitude : beatitude :
 466 : uttarakuru : everlasing : everlasting :
 467 : vaNga : establishad : established :
