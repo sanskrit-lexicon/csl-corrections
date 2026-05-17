@@ -1,0 +1,76 @@
+Sanskrit Lexicon Correction Form History
+As of May 17, 2026
+11 correction records, with 11 PENDING
+
+Case 11: 05/16/2026 dict=MW, L=239512.30, hw=savarṇa, user=srhodes
+old = past
+new = Āpast
+comment = Typo – Please note that this is correction follows the Printed Text. ALSO, Please explain exactly what is meant by this term: "Āpast" ?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/16/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/16/2026 dict=ap, L=, hw=caritam, user=jim
+old = चरितम्  चरितम्  [Printed book page 0699-1]  <!!!>चरित   .-तम्<!!!>  1 Going, moving, course. 2 Acting,  Page0699-2  doing, practice, behaviour,
+new = चरितम्    [seems clearer, Since this entry is for the neuter of adjective चरित ]
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/16/2026 dict=LRV, L=8646, hw=kalkaphala, user=srhodes
+old = Indentation Question?
+new = Do you have any interest in adding "Indentation" to the Hierarchy List Column, as is the standard among AP, MW, etc..  This Compound could certainly be Indented !  And this may begin an entire upgrade throughout LRV.
+comment = Indentation Question?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/16/2026 dict=LRV, L=8645, hw=kalka, user=srhodes
+old = hypocricy
+new = hypocrisy
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/16/2026 dict=LRV, L=8615.4, hw=kalāvat, user=srhodes
+old = kalā-dhara
+new = kalā-vat
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/16/2026 dict=LRV, L=8615.3, hw=kalābhṛt, user=srhodes
+old = kalā-dhara
+new = kalā-bhṛt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/16/2026 dict=LRV, L=8615.2, hw=kalāpūrṇa, user=srhodes
+old = kalā-dhara
+new = kalā-pūrṇa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/16/2026 dict=LRV, L=8615.1, hw=kalānidhi, user=srhodes
+old = kalā-dhara
+new = kalā-nidhi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/16/2026 dict=LRV, L=8610, hw=kalāṃtara, user=srhodes
+old = paṃca
+new = pañca
+comment = Typo – Please note that this is a suggested "Print Change", for the usual spelling. May be corrected Globally as well.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/16/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+

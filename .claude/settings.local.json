@@ -8,7 +8,21 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(python3 *)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "PowerShell(gh api *)",
+      "PowerShell(Get-Process *)",
+      "Bash(Get-Content *)",
+      "Bash(tee csl-orig_verify.log)",
+      "Bash(gh api *)",
+      "Bash(nohup python csl-orig_label.py)",
+      "Bash(disown)",
+      "Bash(echo \"launched PID $!\")",
+      "Bash(grep -c \"done$\" \"C:/Users/user/Documents/GitHub/csl-corrections/csl-orig_label4.log\")",
+      "Bash(grep \"done$\" \"C:/Users/user/Documents/GitHub/csl-corrections/csl-orig_label4.log\")",
+      "Bash(echo \"PID $!\")",
+      "Bash(tee csl-orig_verify2.log)",
+      "Bash(git fetch *)",
+      "Bash(git stash *)"
     ]
   }
 }

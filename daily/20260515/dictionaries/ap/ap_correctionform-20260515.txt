@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 16, 2026
+2 correction records, with 2 PENDING
+
+Case 10: 05/15/2026 dict=AP, L=12189.042, hw=kāṣṭhatakṣ, user=srhodes
+old = Missing Compound
+new = Please Add the Compound Indicated Here in the Window Display: "kāṣṭhatakṣakaḥ". This compound deserves to be a Searchable Headword, located in the Hierarchy List Display, in order to Fully Honor and Pay Resect to AP57.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/15/2026 dict=AP, L=12189.04, hw=kāṣṭhacitā, user=srhodes
+old = Global Correction Needed
+new = I recently suggested this Global Correction, but this instance proves that the Global Correction is yet to be made!  Here is the correction: "ā a." —> "ā a".  The Specific Transformation is in regard to the Erroneous Abbreviation  "a."  in italics, which indicates "adjective".  Please note there will NEVER be an adjective indicated after a Long Vowel "ā", which is strictly a Feminine Noun, according to AP Protocol.
+comment = Global Correction Needed
+status = PENDING
+------------------------------------------------------------------------
+
