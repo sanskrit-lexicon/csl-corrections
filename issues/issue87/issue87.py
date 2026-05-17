@@ -275,7 +275,7 @@ def main():
                         if s_val in line:
                             cur_matches = list(re.finditer(re.escape(s_val), line))
                         elif sum(1 for c in s_val if not c.isspace()) >= 2:
-                            sep = r'(?:[-\s¦]|\{.*?\}|<.*?>)*'
+                            sep = r'(?:[-\s¦]|\{.*?\})*'
                             rstr = sep.join(re.escape(c) for c in s_val
                                             if not c.isspace())
                             try:
