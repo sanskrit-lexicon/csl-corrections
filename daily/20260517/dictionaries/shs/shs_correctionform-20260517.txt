@@ -1,0 +1,44 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of May 18, 2026
+6 correction records, with 6 PENDING
+
+Case 8: 05/17/2026 dict=SHS, L=11179, hw=कूटसाचिन्, user=snbt98
+old = कूटसाचिन्
+new = कूटसाक्षिन्
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/17/2026 dict=SHS, L=9576, hw=kalavṛkṣa, user=srhodes
+old = kalavṛkṣa
+new = kalivṛkṣa
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/17/2026 dict=SHS, L=9573, hw=kalimāraka, user=srhodes
+old = pūtikarañca
+new = pūtikarañja
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/17/2026 dict=SHS, L=9572, hw=kalipriya, user=srhodes
+old = NARADA
+new = NĀRADA
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/17/2026 dict=SHS, L=9562, hw=kalikāraka, user=srhodes
+old = NARADA
+new = NĀRADA
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/17/2026 dict=SHS, L=9561, hw=kalikāra, user=srhodes
+old = NARADA
+new = NĀRADA
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+

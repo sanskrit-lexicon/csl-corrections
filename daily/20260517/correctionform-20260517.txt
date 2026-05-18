@@ -1,0 +1,92 @@
+Sanskrit Lexicon Correction Form History
+As of May 18, 2026
+13 correction records, with 13 PENDING
+
+Case 13: 05/17/2026 dict=AP, L=12211, hw=kiṃśukaḥ, user=srhodes
+old = tatrāṃmbarādagniratipravṛddho
+new = tatrāmbarādagniratipravṛddho
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/17/2026 dict=AP, L=12206.016, hw=kāhalam, user=srhodes
+old = Three Homonyms
+new = Here is an option to Number Each Homonym, for clarity etc.
+comment = Three Homonyms
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/17/2026 dict=AP, L=12206.006, hw=kāhalam, user=srhodes
+old = Three Homonyms
+new = Here is an option to Number Each Homonym, for clarity etc.
+comment = Three Homonyms
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/17/2026 dict=AP, L=12206.004, hw=kāhalam, user=srhodes
+old = Three Homonyms
+new = Here is an option to Number Each Homonym, for clarity etc.
+comment = Three Homonyms
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/17/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/17/2026 dict=SHS, L=11179, hw=कूटसाचिन्, user=snbt98
+old = कूटसाचिन्
+new = कूटसाक्षिन्
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/17/2026 dict=ap, L=, hw=pAkapAtram, user=jim
+old = पाकपात्रम्  पाकपात्रम्  [Printed book page 1001-2]  <!!!>पाक   -पात्रम्, -भाण्डम्<!!!>  a cooking-utensil.                   [ID=20907.046 ]      ▲ .पाकागारः
+new = need alternate headword  पाकभाण्डम्
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/17/2026 dict=SHS, L=9576, hw=kalavṛkṣa, user=srhodes
+old = kalavṛkṣa
+new = kalivṛkṣa
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/17/2026 dict=SHS, L=9573, hw=kalimāraka, user=srhodes
+old = pūtikarañca
+new = pūtikarañja
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/17/2026 dict=SHS, L=9572, hw=kalipriya, user=srhodes
+old = NARADA
+new = NĀRADA
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/17/2026 dict=SHS, L=9562, hw=kalikāraka, user=srhodes
+old = NARADA
+new = NĀRADA
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/17/2026 dict=SHS, L=9561, hw=kalikāra, user=srhodes
+old = NARADA
+new = NĀRADA
+comment = Typo – Please note that correct transliteration instills the correct "understanding", among students etc. This may be considered as a Global Correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/17/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+

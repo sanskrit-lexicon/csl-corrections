@@ -1,0 +1,38 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 18, 2026
+5 correction records, with 5 PENDING
+
+Case 13: 05/17/2026 dict=AP, L=12211, hw=kiṃśukaḥ, user=srhodes
+old = tatrāṃmbarādagniratipravṛddho
+new = tatrāmbarādagniratipravṛddho
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/17/2026 dict=AP, L=12206.016, hw=kāhalam, user=srhodes
+old = Three Homonyms
+new = Here is an option to Number Each Homonym, for clarity etc.
+comment = Three Homonyms
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/17/2026 dict=AP, L=12206.006, hw=kāhalam, user=srhodes
+old = Three Homonyms
+new = Here is an option to Number Each Homonym, for clarity etc.
+comment = Three Homonyms
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/17/2026 dict=AP, L=12206.004, hw=kāhalam, user=srhodes
+old = Three Homonyms
+new = Here is an option to Number Each Homonym, for clarity etc.
+comment = Three Homonyms
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/17/2026 dict=ap, L=, hw=pAkapAtram, user=jim
+old = पाकपात्रम्  पाकपात्रम्  [Printed book page 1001-2]  <!!!>पाक   -पात्रम्, -भाण्डम्<!!!>  a cooking-utensil.                   [ID=20907.046 ]      ▲ .पाकागारः
+new = need alternate headword  पाकभाण्डम्
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
