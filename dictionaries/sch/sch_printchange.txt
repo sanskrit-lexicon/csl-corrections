@@ -12,54 +12,55 @@ documented.
 Source: Dr. Dhaval Patel
 Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
 Lcode : Headword    : Old         : New         : Comment
-13590  : jagaJaMpaRa : jagaJaMpaRa : jagaJampaRa :  Convention error. The entry is marked by ? by author.
-14426  : tAwaMkati   : tAwaMkati   : tAwaNkati   :  Convention error.
+13590  : jagaJaMpaRa : jagajhaṃpaṇa : jagajhampaṇa :  Convention error. The entry is marked by ? by author.
+14426  : tAwaMkati   : tāṭaṃkati   : tāṭaṅkati   :  Convention error.
 -----------------------------------------------------------------------
 01-13-2016
 Source: Dr. Dhaval Patel
 Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
 Lcode : Headword    : Old         : New         : Comment
-10062 : kalaBhAmburASi : kalaBhAmburASi : kalaBAmburASi : Bh
+10062 : kalaBhAmburASi : kalabhhāmburāśi : kalabhāmburāśi : Bh
 -----------------------------------------------------------------------
 04-13-2016
 Source: Dr. Dhaval Patel
 Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
 Lcode : Headword    : Old         : New         : Comment
-7221 : AraksaRa : AraksaRa : ArakzaRa : ks
-20754 : BfNgAksI : BfNgAksI : BfNgAkzI : ks is not proper.
+7221 : AraksaRa : āraksaṇa : ārakṣaṇa : ks
+20754 : BfNgAksI : bhṛṅgāksī : bhṛṅgākṣī : ks is not proper.
 -----------------------------------------------------------------------
 05-12-2016
 Source: Dr. Dhaval Patel
 Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
 Lcode : Headword    : Old         : New         : Comment
-4939 : arDakuRqalakafzin : arDakuRqalakafzin : arDakuRqalakarzin : kafzin is grammatically not possible.
-26678 : sudurDafsa : sudurDafsa : sudurDarza : सुदुर्धर्ष seems to have misplaced a dot below s to r.
-23525 : vAraRabUsA : vAraRabUsA : vAraRabusA : UsA. All other dictionaries have vAraRabusA. Also next entry has vAraRavusA, with the same meaning. no 'U' there.
+4939 : arDakuRqalakafzin : ardhakuṇḍalakaṛṣin : ardhakuṇḍalakarṣin : kafzin is grammatically not possible.
+26678 : sudurDafsa : sudurdhaṛsa : sudurdharṣa : सुदुर्धर्ष seems to have misplaced a dot below s to r.
+23525 : vAraRabUsA : {%vāraṇabūsā%} : vāraṇabusā : UsA. All other dictionaries have vAraRabusA. Also next entry has vAraRavusA, with the same meaning. no 'U' there.
 ----------------------------------------------------------------------
 09/12/2017
 Source: Dr. Dhaval Patel
 Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
 Lcode : Headword : Old  : New : Comment
-21700 : mIDvaMs : mIDvaMs : mIQvaMs : 
+21700 : mIDvaMs : mīdhvaṃs : mīḍhvaṃs : 
 -----------------------------------------------------------------------
 12/15/2020
 Source: Jim Funderburk
-Removal of unmatched double quotes
+Removal of unmatched :21
+double quotes
 Lcode : Headword : Old  : New : Comment
 9576   : kaRaya   : pw " v.l. für : pw v.l. für :
 24129  : vivftti  : i. e. lands." : i. e. lands. :
-28245  : utsaNga  :  ºÜbersteuer" :  ºÜbersteuer :
+28245  : utsaNga  : ˚Übersteuer" : ˚Übersteuer :
 -----------------------------------------------------------------------
 09/30/2021
 Source: Jim Funderburk 
 Ref: https://github.com/sanskrit-lexicon/PWK/issues/77
 Corrections related to comparison with PWK - vn
 Lcode : Headword : Old  : New : Comment
-11766  : kzveda   : kzveda : kzveqa : print diacritic dot under 'd'
-7147   : Amikzapayasya : Amikzapayasya : AmikzApayasya :
-9229   : ekonapaYcASaDA : ekonapaYcASaDA : ekonapaYcASadDA :
-9272   : evaMvAdiR : evaMvAdiR : evaMvAdin :
-10372  : kAmarupin : kAmarupin : kAmarUpin :
+11766  : kzveda   : kṣveda : kṣveḍa : print diacritic dot under 'd'
+7147   : Amikzapayasya : āmikṣapayasya : āmikṣāpayasya :
+9229   : ekonapaYcASaDA : ekonapañcā́śadhā : ekonapañcā́śaddhā :
+9272   : evaMvAdiR : evaṃvādiṇ : evaṃvādin :
+10372  : kAmarupin : kāmarupín : kāmarūpín :
 -----------------------------------------------------------------------
 04-27-2022
 Source: 'owen'
@@ -71,8 +72,8 @@ Lcode : Headword : Old  : New : Comment
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
 Lcode : Headword : Old  : New : Comment
-3837 : apravizwa : 11838 : <ls n="Bhāg. P.">7,49,4.</ls> : 7,12,15 
-9200 : ekAdaSavyUha : 28389 : <ls>Bhāg. P. 2,25,3.</ls>  : 5,25,3  
+3837 : apravizwa : <ls n="Bhāg. P.">7,12,15.</ls : <ls n="Bhāg. P.">7,49,4.</ls> : 7,12,15 
+9200 : ekAdaSavyUha : <ls>Bhāg. P. 5,25,3.</ls> : <ls>Bhāg. P. 2,25,3.</ls>  : 5,25,3  
 -----------------------------------------------------------------------
 05-02-2025
 Source: Andhrabharati
@@ -84,14 +85,14 @@ correction made on 05-27-2025
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2754
 Lcode : Headword     : Old       : New         : Comment
-19073 : praC : <ls>Mālav. 40</ls> (ed. <ls>Boll.</ls>) : <ls>Mālav. (ed. BOLL.) 40</ls>
+19073 : praC : <ls>Mālav. 40</ls> (ed. <ls>Boll.</ls>) : <ls>Mālav. (ed. Boll.) 40</ls>
 -------------------------------------------------------------------------
 05-21-2025
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2758
 Lcode : Headword     : Old       : New         : Comment
 5905 : aSruleSa : Megh. 103 : Megh. 105 
-7869   : uc  : MEGH. 93 : MEGH. 94  
+7869   : uc  : Megh. 93 : Megh. 94  
 -------------------------------------------------------------------------
 06-08-2025
 Source: Jim Funderburk, Andhrabharati
@@ -113,7 +114,7 @@ Lcode : Headword     : Old         : New         : Comment
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/62
 Lcode : Headword : Old  : New : Comment
-2923 : anUQa : AK. 2,7,35 ; AK. 2,7,55 : sch printchange
+2923 : anUQa : AK. 2,7,35 : AK. 2,7,55 : sch printchange
 ----------------------------------------------------------------------
 09-12-2025
 Source: Jim Funderburk
@@ -144,7 +145,7 @@ Lcode : Headword : Old  : New : Comment
 Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue101fix)
 Lcode : Headword : Old  : New : Comment
-6080 : asakO : Sāh. D. 49, ult. f. : SĀH. D. 49,21. f. 
+6080 : asakO : Sāh. D. 49, ult. f. : Sāh. D. 49,21. f.
 -----------------------------------------------------------------------
 10-30-2025
 Source: Jim Funderburk
