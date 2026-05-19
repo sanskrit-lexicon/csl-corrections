@@ -1,0 +1,31 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 19, 2026
+4 correction records, with 4 PENDING
+
+Case 9: 05/18/2026 dict=AP, L=12241, hw=kim, user=srhodes
+old = kimica hi madhurāṇāṃ
+new = kimiva hi madhurāṇāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/18/2026 dict=AP, L=12235, hw=kit, user=srhodes
+old = cikitti
+new = ciketti
+comment = Typo – The form "cikitti" does not exist in valid classical or Vedic verbal paradigms; where it appears in digital editions or online search results, it is almost invariably an optical character recognition (OCR) typo for a desiderative stem
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/18/2026 dict=AP, L=12229.002, hw=kiṭṭakam, user=srhodes
+old = yāt kiṭṭaṃ keśalomāsthnormajjaḥ
+new = syāt kiṭṭaṃ keśalomāsthno majjñaḥ
+comment = Typo – Also, please note that the marking: "{sic}", may be removed from the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/18/2026 dict=ap, L=, hw=sUd, user=jim
+old = sUd  sUd  [Printed book page 1698-2]  sUd  I. 1 Ā. <!!!>(sUdte)<!!!> 1 To strike, hurt, wound, kill, destroy. 2 To effuse, pour out. 3 To deposit.
+new = sUdate
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
