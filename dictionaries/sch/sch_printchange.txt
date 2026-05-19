@@ -9,54 +9,52 @@ documented.
 
 -----------------------------------------------------------------------
 12-15-2015
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword    : Old         : New         : Comment
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171
+Lcode : Headword    : Old         : New         : Comment
 13590  : jagaJaMpaRa : jagaJaMpaRa : jagaJampaRa :  Convention error. The entry is marked by ? by author.
 14426  : tAwaMkati   : tAwaMkati   : tAwaNkati   :  Convention error.
 -----------------------------------------------------------------------
 01-13-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword    : Old         : New         : Comment
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+Lcode : Headword    : Old         : New         : Comment
 10062 : kalaBhAmburASi : kalaBhAmburASi : kalaBAmburASi : Bh
 -----------------------------------------------------------------------
 04-13-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword    : Old         : New         : Comment
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+Lcode : Headword    : Old         : New         : Comment
 7221 : AraksaRa : AraksaRa : ArakzaRa : ks
 20754 : BfNgAksI : BfNgAksI : BfNgAkzI : ks is not proper.
 -----------------------------------------------------------------------
 05-12-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword    : Old         : New         : Comment
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+Lcode : Headword    : Old         : New         : Comment
 4939 : arDakuRqalakafzin : arDakuRqalakafzin : arDakuRqalakarzin : kafzin is grammatically not possible.
 26678 : sudurDafsa : sudurDafsa : sudurDarza : सुदुर्धर्ष seems to have misplaced a dot below s to r.
 23525 : vAraRabUsA : vAraRabUsA : vAraRabusA : UsA. All other dictionaries have vAraRabusA. Also next entry has vAraRavusA, with the same meaning. no 'U' there.
 ----------------------------------------------------------------------
 09/12/2017
-ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
-These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
+Source: Dr. Dhaval Patel
+Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+Lcode : Headword : Old  : New : Comment
 21700 : mIDvaMs : mIDvaMs : mIQvaMs : 
 -----------------------------------------------------------------------
 12/15/2020
-Jim Funderburk  Removal of unmatched double quotes
-L code : Headword : Old  : New : Comment
+Source: Jim Funderburk
+Removal of unmatched double quotes
+Lcode : Headword : Old  : New : Comment
 9576   : kaRaya   : pw " v.l. für : pw v.l. für :
 24129  : vivftti  : i. e. lands." : i. e. lands. :
 28245  : utsaNga  :  ºÜbersteuer" :  ºÜbersteuer :
 -----------------------------------------------------------------------
 09/30/2021
-Jim Funderburk Corrections related to comparison with PWK - vn
+Source: Jim Funderburk 
 Ref: https://github.com/sanskrit-lexicon/PWK/issues/77
-L code : Headword : Old  : New : Comment
+Corrections related to comparison with PWK - vn
+Lcode : Headword : Old  : New : Comment
 11766  : kzveda   : kzveda : kzveqa : print diacritic dot under 'd'
 7147   : Amikzapayasya : Amikzapayasya : AmikzApayasya :
 9229   : ekonapaYcASaDA : ekonapaYcASaDA : ekonapaYcASadDA :
@@ -64,40 +62,41 @@ L code : Headword : Old  : New : Comment
 10372  : kAmarupin : kAmarupin : kAmarUpin :
 -----------------------------------------------------------------------
 04-27-2022
-User 'owen'
+Source: 'owen'
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/780
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 8336 : udgrAhaRikA : 159,3 : 158,3 :  Reference page correction.
 -----------------------------------------------------------------------
 12-10-2024
-Jim Funderburk
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 3837 : apravizwa : 11838 : <ls n="Bhāg. P.">7,49,4.</ls> : 7,12,15 
 9200 : ekAdaSavyUha : 28389 : <ls>Bhāg. P. 2,25,3.</ls>  : 5,25,3  
 -----------------------------------------------------------------------
-05-02-2025  (correction made 05-27-2025)
-@Andhrabharati
-https://github.com/sanskrit-lexicon/PWG/issues/143
+05-02-2025
+Source: Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/143
+correction made on 05-27-2025
 24228 : vizkanttar : Bhaṭṭ. 9,64 : Bhaṭṭ. 9,74  
 -----------------------------------------------------------------------
 05-16-2025
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2754
-User @funderburkjim
-L code : Headword     : Old       : New         : Comment
+Lcode : Headword     : Old       : New         : Comment
 19073 : praC : <ls>Mālav. 40</ls> (ed. <ls>Boll.</ls>) : <ls>Mālav. (ed. BOLL.) 40</ls>
 -------------------------------------------------------------------------
 05-21-2025
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2758
-User @funderburkjim
-L code : Headword     : Old       : New         : Comment
+Lcode : Headword     : Old       : New         : Comment
 5905 : aSruleSa : Megh. 103 : Megh. 105 
 7869   : uc  : MEGH. 93 : MEGH. 94  
 -------------------------------------------------------------------------
 06-08-2025
-Ref: Ref: https://github.com/sanskrit-lexicon/PWK/issues/84
-User @funderburkjim @Andhrabharati
-L code : Headword     : Old       : New         : Comment
+Source: Jim Funderburk, Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/PWK/issues/84
+Lcode : Headword     : Old       : New         : Comment
 978  : atikaruRa : MBh. 1,3,317 : MBh. 1,2,317 
 1672 : aDarmasaMgara : MBh. 12,94,15 : MBh. 12,95,15 
 5685 : avisaMvAda : MBh. 12,159,18 : MBh. 12,259,11 
@@ -105,57 +104,57 @@ L code : Headword     : Old       : New         : Comment
 19727 : prARa : MBh. 13,313,54 : MBh. 3,313,54 
 -------------------------------------------------------------------------
 06-15-2025
+Source: Jim Funderburk
 Ref: Ref: https://github.com/sanskrit-lexicon/pwg/issues/152
-User @funderburkjim
-L code : Headword     : Old         : New         : Comment
+Lcode : Headword     : Old         : New         : Comment
   7375 : Avartam       : Hit. 1,201 : Hit. I,201  
 ------------------------------------------------------------------------
 06-21-2025
-Github user @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/62
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 2923 : anUQa : AK. 2,7,35 ; AK. 2,7,55 : sch printchange
 ----------------------------------------------------------------------
 09-12-2025
-Github user @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160  (issue146fix)
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 20700 : BUtArTa : Kumāras. VII,13 : Kumāras. 7,13 : print change
 17708 : padmaka : Kumāras. I,7 : Kumāras. 1,7 : print change
 ------------------------------------------------------------------------
 10-05-2025
-Github users @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue109fix)
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 309 : akzowa : Raghuv. IV,69. : Ragh. 4,69. : 
 ------------------------------------------------------------------------
 10-14-2025
-Github users @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue75fix)
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 11088 : kUrca : R. ed. Bomb. II,91,77 : R. ed. Bomb. 2,91,77 : 
 ------------------------------------------------------------------------
 10-16-2025
-Github users @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue83fixa)
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 4200 : aBiziYcana : Schl. : Schl. 2,107,9 :
 ------------------------------------------------------------------------
 10-22-2025
-Github users @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue101fix)
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 6080 : asakO : Sāh. D. 49, ult. f. : SĀH. D. 49,21. f. 
 -----------------------------------------------------------------------
 10-30-2025
-Github users @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue84fix)
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 aRupriyaNgu : Śat. Br. 14,9,3,32. : Śat. Br. 14,9,3,32. : cf. PW(K) 
 -----------------------------------------------------------------------
 11-05-2025
-Github users @funderburkjim
+Source: Jim Funderburk
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue134fix)
-code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 17496 : paYcadaSavartani : TS. 4,3; 3,1. : TS. 4,3,3,1.
 ------------------------------------------------------------------------
