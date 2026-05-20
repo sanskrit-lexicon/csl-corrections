@@ -8,35 +8,33 @@ documented.
 
 -----------------------------------------------------------------------
 01-13-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword    : Old         : New         : Comment
-3699   : skanDhyA    : skanDhyA     : skanDyA    : Dh
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+Lcode : Headword    : Old         : New         : Comment
+3699   : skanDhyA    : Skandhhyā     : Skandhyā   : Dh
 -----------------------------------------------------------------------
 03-15-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
-3418 : saMvartaAngirasa : saMvartaAngirasa : saMvartaANgirasa : proper name. two words saMvarta + ANgirasa  (Angirasa seems print err.)
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+Lcode : Headword : Old  : New : Comment
+3418 : saMvartaAngirasa : Saṃ-varta Āngirasa : Saṃ-varta Āṅgirasa : proper name. two words saMvarta + ANgirasa  (Angirasa seems print err.)
 -----------------------------------------------------------------------
 03-15-2016
-Marcis Gasuns
+Source: Marcis Gasuns
 L code : Headword : Old  : New : Comment
-732 : kosa : kosa : koSa : print missing diacritic over s
+732 : kosa : {@Kosa@} : {@Kośa@} : print missing diacritic over s
 ----------------------------------------------------------------------
 09/12/2017
+Source: Dr. Dhaval Patel
 ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
-These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
-113 : amAvAsyaSARdilyAyana : amAvAsyaSARdilyAyana : amAvAsyaSARqilyAyana : 
+Lcode : Headword : Old  : New : Comment
+113 : amAvAsyaSARdilyAyana : Amā-vāsya Śāṇdilyāyana : Amā-vāsya Śāṇḍilyāyana : 
 ----------------------------------------------------------------------
 07/04/2021
-ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/67
-Dr. Sampada Savardekar
-L code : Headword : Old  : New : Comment
-468 : opaSa : braic : braids :
+Source: Dr. Sampada Savardekar
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/67
+Lcode : Headword : Old  : New : Comment
+468 : opaSa : the braic : the braids :
 710 : kekaya : oetween : between :
 891 : go : hough : though :
 951 : caRqAla : athers : fathers :
@@ -44,19 +42,19 @@ L code : Headword : Old  : New : Comment
 1279 : dasyu : onnect : connect :
 1290 : dAra : igneres : ignores :
 1463 : Druva : millenium : millennium :
-1495 : apaBaraRIs : eferred : referred :
-1495 : apaBaraRIs : selecte : selected :
-1664 : pati : pologamy : polygamy :
-1664 : pati : buring : during :
+1495 : apaBaraRIs : can be eferred : can be referred :
+1495 : apaBaraRIs : selecte about : selected about :
+1664 : pati : from pologamy : from polygamy :
+1664 : pati : buring the Vedic : during the Vedic :
 1664 : pati : anyfree : any free :
 1816 : pitAputrIya : bequeathes : bequeaths :
 1817 : pitAmaha : apparmtly : apparently :
 2256 : BArgava : dication : indication :
-2512 : mfgahastin : hant : elephant :
-2653 : raSanA : stening : fastening :
-2664 : rAjan : contam : contain :
+2512 : mfgahastin : ‘hant’ : ‘elephant’ :
+2653 : raSanA : for stening : for fastening :
+2664 : rAjan : contam emphatic : contain emphatic :
 2664 : rAjan : activitv : activity :
-2824 : varRa : cohtain : contain :
+2824 : varRa : cohtain little : contain little :
 2824 : varRa : nesitate : hesitate :
 2992 : viSvAmitra : latetradition : late tradition :
 3001 : vizkanDa : severai : several :
@@ -69,6 +67,7 @@ L code : Headword : Old  : New : Comment
 3408 : SvetyA : udwig : Ludwig :
 -----------------------------------------------------------------------
 11-11-2024
+Source: Dr. Dhaval Patel, Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/614
-Github users drdhaval2785, Andhrabharati
-82 : apacit : Rigveda, , 342, 500  : Rigveda, 3, 342, 500
+82 : apacit : , 342, 500  : 3, 342, 500
+-----------------------------------------------------------------------
