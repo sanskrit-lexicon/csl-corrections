@@ -7,22 +7,20 @@ documented.
 
 -----------------------------------------------------------------------
 12-07-2015
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/167
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L     : headword : old    : new     : comment
-15444 : trapukarkkawI : trapukarkkawI : trapukarkawI : make 'rkk' usage consistent
-27006 : mAkzIkaSarkkarA : mAkzIkaSarkkarA : mAkzIkaSarkarA : make 'rkk' usage consistent
-29389 : rAjakarkkawI : rAjakarkkawI : rAjakarkawI : make 'rkk' usage consistent
-33768 : vfttakarkkawI : vfttakarkkawI : vfttakarkawI : make 'rkk' usage consistent
-33999 : veRukarkkaraH : veRukarkkaraH : veRukarkaraH : make 'rkk' usage consistent
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/167
+Lcode     : headword : old    : new     : comment
+15442 : trapukarkawI : trapukarkkawI : trapukarkawI : make 'rkk' usage consistent
+27004 : mAkzIkaSarkkarA : mAkzIkaSarkkarA : mAkzIkaSarkarA : make 'rkk' usage consistent
+29387 : rAjakarkkawI : rAjakarkkawI : rAjakarkawI : make 'rkk' usage consistent
+33766 : vfttakarkkawI : vfttakarkkawI : vfttakarkawI : make 'rkk' usage consistent
+33997 : veRukarkkaraH : veRukarkkaraH : veRukarkaraH : make 'rkk' usage consistent
 -----------------------------------------------------------------------
 05-03-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/291
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L     : headword : old    : new     : comment
-61 : akArpyaRyaM : akArpyaRyaM : akArpaRyaM : na kArpaRyam; first 'y' a misprint
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/291
+Lcode     : headword : old    : new     : comment
+61 : akArpyaRyaM : akArpyaRyaM¦ : akArpaRyaM¦ : na kArpaRyam; first 'y' a misprint
 1610 : abjaMH : abjaMH : abjaH : cf. vcp; MH' makes no sense. consider 'M' a stray mark or misprint.
 2347 : alikulasaqkulaH : alikulasaqkulaH : alikulasaNkulaH : text confirms saNkula; 'dot' missing on devanagari 'N', or poor print quality. cf VCP, PW, MW
 2814 : aScaKurI : aScaKurI : aSvaKurI : alph. order, 'Sc' appears misprint, though print is poor
@@ -45,138 +43,135 @@ L     : headword : old    : new     : comment
 11422 : gorARwikA : gorARwikA : gorAwikA : presume 'R' a misprint; lemma shows gorAwikA, as well as other dictionaries
 11759 : Garvva : Garvva : Garbba : v/b. alph. order prefers 'b' over 'v'
 12059 : catuHpalA : catuHpalA : catuHPalA : consider 'p' , also in lemma. vcp, pwg have catuHPalA; a plant also called nAgabalA.
-13314 : jattuH : jattuH : jarttuH : absence of 'r' is misprint. alph. order confirms, as does sense compared to other dictionaries
-13316 : jahilaH : jahilaH : jarhilaH : 'r' missing in print; alph. order, jarhila in other dictionaries
-15730 : tagdozAriH : tagdozAriH : tvagdozAriH : alph. order, cf MW, PW
-15697 : tryahapsarSaH : tryahapsarSaH : tryahasparSaH : misprint of ligature 'sp'
-16441 : dizWaH : dizWaH : dizwaH : alph. order, cf. vcp
-16530 : dIGatimizA : dIGatimizA : dIrGatimizA : missing 'r' in print; alph. order
-18561 : nAganiryyahaH : nAganiryyahaH : nAganiryyUhaH : presume missing 'U' a misprint
-19701 : nyakvAraH : nyakvAraH : nyakkAraH : the 'kk' ligature appears misprinted as 'kv'
-22556 : pakzveqanA : pakzveqanA : prakzveqanA : print missing 'r'; alph. order, f. of prakzveqana
-21873 : puttrezWikA : puttrezWikA : puttrezwikA : presume 'W' is misprint, as related to puttrezwi
-24527 : brAhmaRqaM : brAhmaRqaM : brahmARqaM : alph. order; cf vcp, mw, etc.
-25541 : BramaracCalI : BramaracCalI : BramaracCallI : skd has 'CallI' (creeper), not 'CalI'; so CalI must be misprint. cf MW, etc.
-25892 : madanakAkUravaH : madanakAkUravaH : madanakAkuravaH : presume 'U' a misprint;  madana-kAku-rava.  skd. has 'kAku'; other dictionaries have madanakAkuravaH
-27778 : mUzAtUtTaM : mUzAtUtTaM : mUzAtutTaM : since skd has tutTa and not tUtTa, presume the 'tUtTa' is misprint; cf mw, etc.
-28865 : raktapiktahA : raktapiktahA : raktapittahA : cf mw, etc.; alph. order; sense shows pitta
-28913 : raktasandaSikA : raktasandaSikA : raktasandaMSikA : missing anusvAra considered misprint; cf mw,pw; also sandaMSikA in skd
-29524 : rajyANgaM : rajyANgaM : rAjyANgaM : print missing long 'A' in 'rAj'; alph. order
-29734 : ruvyaM : ruvyaM : rucyaM : by alph. order, also sense 'rocate'
-29735 : ruvyaH : ruvyaH : rucyaH : by alph. order, also sense
-29736 : ruvyakandaH : ruvyakandaH : rucyakandaH : by alph. order, also sense
-31479 : varhirjjotiH : varhirjjotiH : varhirjjyotiH : y missing in pring; = mw barhirjyotis
-31482 : varhizkaSaH : varhizkaSaH : varhizkeSaH : = mw barhizkeSa
-34592 : vaSca : vaSca : vraSca : root, presume final 'a' is anubanDa; = mw vraSc
-31908 : vAtiNganaH : vAtiNganaH : vAtiNgaRaH : n/R. eggplant. From WIL, derivation is vAti-gaRa , so 'gana' must be misprint
-32208 : vAppakaH : vAppakaH : vAzpakaH : z/p. by alph. order and sense.
-32176 : vAzikI : vAzikI : vArzikI : 'r' missing in print; alph. order, cf mw
-33382 : vizamuzWiH : vizamuzWiH : vizamuzwiH : w/W. since 'muzwi' in skd, but not 'muzWi', presume 'Wi' is misprint. cf mw, etc for vizamuzwi; a kind of shrub
-33958 : vfhatgfhaH : vfhatgfhaH : vfhadgfhaH : 'tg' presumed a misprint; = bfhadgfha (mw, etc.)
-34155 : vEkatikaH : vEkatikaH : vEkawikaH : presume 'kati' is misprint (cf mw).
-34200 : vEtrakeyaH : vEtrakeyaH : vEtrakIyaH : presume 'keya' is misprint; cf. mw, wil
-34454 : vyAqraH : vyAqraH : vyAqaH : presume 'r' is misprint; cf mw, pw, vcp, etc.
-35509 : SakkuH : SakkuH : SikkuH : print missing 'i'; alph. order; sense (cf. mw)
-35595 : SipA : SipA : SiprA : print missing 'r'; cf mw (also siprA)
-35753 : SivAhnAdaH : SivAhnAdaH : SivAhlAdaH : the print is totally blurred; presume 'hlAda' since mw,pw,vcp have SivAhlAda
-35901 : SIzaMGAtI : SIzaMGAtI : SIrzaGAtI : 'r' indistinct in print; = m.nom.sg. of SIrzaGAtin
-36589 : SrIkaRqapadalAYCanaH : SrIkaRqapadalAYCanaH : SrIkaRWapadalAYCanaH : q/W. alph. order, and sense; cf. mw
-36733 : SlakzRatvaka : SlakzRatvaka : SlakzRatvak : missing virAma; m.nom.sg. of SlakzRatvac
-36776 : SvadazwrA : SvadazwrA : SvadaMzwrA : missing anusvARa
-37066 : zoqaSaBUjA : zoqaSaBUjA : zoqaSaBujA : consider 'BUjA' a misprint; cf zoqaSaBujA in mw, vcp.
-37069 : zoqaSASuH : zoqaSASuH : zoqaSAMSuH : anusvAra missing in print; cf MW, etc; cf derivation
-37434 : saNGazitaM : saNGazitaM : saNGuzitaM : the 'u' is indistinct in print
-37435 : saNGazwaM : saNGazwaM : saNGuzwaM : the 'u' is indistinct in print
-37388 : saMNkrAntiH : saMNkrAntiH : saNkrAntiH : anusvAra is misprint
-37538 : sattvasantannaH : sattvasantannaH : sattvasampannaH : nt/mp, by lemma; cf mw.
-37672 : santrataM : santrataM : santataM : 'r' is misprint; cf vcp. saMtata in MW
-37748 : sannaDvaH : sannaDvaH : sannadDaH : Dv/dD. cf VCP, mw
-40173 : sahikeyaH : sahikeyaH : sEMhikeyaH : a/EM, alph.order and MW, etc.
-39398 : sudaSanI : sudaSanI : sudarSanI : 'r' missing in print; alph. order, sense, cf mw.
-40172 : seMhikaH : seMhikaH : sEMhikaH : e/E misprint; alph. order, cf MW, etc.
-40174 : sekataM : sekataM : sEkataM : e/E ; alph. order; cf MW, etc.
-40202 : sotkaRwaH : sotkaRwaH : sotkaRWaH : w/W a , cf MW, etc; sa-utkaRWa, and utkaRWa is in skd, but not utkaRwa.
-40357 : sOlvakaH : sOlvakaH : sOlvikaH : a/i. Presume misprint by conferring mw, vcp, etc.
-40888 : sPUrjaGuH : sPUrjaGuH : sPUrjaTuH : G/T . cf vcp, mw, etc. The print is poor, presume 'G' is misprint
-41134 : svargariH : svargariH : svargiriH : a/i. cf mw.
-41207 : svastibAcanaM : svastibAcanaM : svastivAcanaM : b/v; by alph. order, and lemma, 'b' is misprint
-41082 : svasnak : svasnak : svapnak : s/p; by alph. order and lemma, 's' is misprint;  m.nom.sg. of svapnaj cf mw, etc.
-41297 : sveratA : sveratA : svEratA : e/E; poor print quality; by alph. order and lemma, 'e' is misprint; cf mw, etc.
-41575 : haRyA : haRyA : halyA : R/l.  By alph. order and sense, 'R' is misprint; cf mw, etc.
-41910 : huqat : huqat : huqut : qa/qu , 'u' missing in print
-42054 : hemAdrijagaRaH : hemAdrijagaRaH : hemAdrijaraRaH : g/r. cf vcp, mw
-42180 : hraqa : hraqa : hruqa : root; two forms with u/U; = hruq in mw
+13312 : jattuH : jattuH : jarttuH : absence of 'r' is misprint. alph. order confirms, as does sense compared to other dictionaries
+13314 : jahilaH : jahilaH : jarhilaH : 'r' missing in print; alph. order, jarhila in other dictionaries
+15728 : tagdozAriH : tagdozAriH : tvagdozAriH : alph. order, cf MW, PW
+15695 : tryahapsarSaH : tryahapsarSaH : tryahasparSaH : misprint of ligature 'sp'
+16439 : dizWaH : dizWaH : dizwaH : alph. order, cf. vcp
+16528 : dIGatimizA : dIGatimizA : dIrGatimizA : missing 'r' in print; alph. order
+18559 : nAganiryyahaH : nAganiryyahaH : nAganiryyUhaH : presume missing 'U' a misprint
+19699 : nyakvAraH : nyakvAraH : nyakkAraH : the 'kk' ligature appears misprinted as 'kv'
+22554 : pakzveqanA : pakzveqanA : prakzveqanA : print missing 'r'; alph. order, f. of prakzveqana
+21871 : puttrezWikA : puttrezWikA : puttrezwikA : presume 'W' is misprint, as related to puttrezwi
+24525 : brAhmaRqaM : brAhmaRqaM¦ : brahmARqaM¦ : alph. order; cf vcp, mw, etc.
+25539 : BramaracCalI : BramaracCalI : BramaracCallI : skd has 'CallI' (creeper), not 'CalI'; so CalI must be misprint. cf MW, etc.
+25890 : madanakAkUravaH : madanakAkUravaH : madanakAkuravaH : presume 'U' a misprint;  madana-kAku-rava.  skd. has 'kAku'; other dictionaries have madanakAkuravaH
+27776 : mUzAtUtTaM : mUzAtUtTaM : mUzAtutTaM : since skd has tutTa and not tUtTa, presume the 'tUtTa' is misprint; cf mw, etc.
+28863 : raktapiktahA : raktapiktahA : raktapittahA : cf mw, etc.; alph. order; sense shows pitta
+28911 : raktasandaSikA : raktasandaSikA : raktasandaMSikA : missing anusvAra considered misprint; cf mw,pw; also sandaMSikA in skd
+29522 : rajyANgaM : rajyANgaM : rAjyANgaM : print missing long 'A' in 'rAj'; alph. order
+29732 : ruvyaM : ruvyaM : rucyaM : by alph. order, also sense 'rocate'
+29733 : ruvyaH : ruvyaH : rucyaH : by alph. order, also sense
+29734 : ruvyakandaH : ruvyakandaH : rucyakandaH : by alph. order, also sense
+31477 : varhirjjotiH : varhirjjotiH : varhirjjyotiH : y missing in pring; = mw barhirjyotis
+31480 : varhizkaSaH : varhizkaSaH : varhizkeSaH : = mw barhizkeSa
+34590 : vaSca : vaSca : vraSca : root, presume final 'a' is anubanDa; = mw vraSc
+31906 : vAtiNganaH : vAtiNganaH : vAtiNgaRaH : n/R. eggplant. From WIL, derivation is vAti-gaRa , so 'gana' must be misprint
+32206 : vAppakaH : vAppakaH : vAzpakaH : z/p. by alph. order and sense.
+32174 : vAzikI : vAzikI : vArzikI : 'r' missing in print; alph. order, cf mw
+33380 : vizamuzWiH : vizamuzWiH : vizamuzwiH : w/W. since 'muzwi' in skd, but not 'muzWi', presume 'Wi' is misprint. cf mw, etc for vizamuzwi; a kind of shrub
+33956 : vfhatgfhaH : vf(bf)hatgfhaH : vf(bf)hadgfhaH : 'tg' presumed a misprint; = bfhadgfha (mw, etc.)
+34153 : vEkatikaH : vEkatikaH : vEkawikaH : presume 'kati' is misprint (cf mw).
+34198 : vEtrakeyaH : vEtrakeyaH : vEtrakIyaH : presume 'keya' is misprint; cf. mw, wil
+34452 : vyAqraH : vyAqraH¦ : vyAqaH¦ : presume 'r' is misprint; cf mw, pw, vcp, etc.
+35507 : SakkuH : SakkuH : SikkuH : print missing 'i'; alph. order; sense (cf. mw)
+35593 : SipA : SipA¦ : SiprA¦ : print missing 'r'; cf mw (also siprA)
+35751 : SivAhnAdaH : SivAhnAdaH : SivAhlAdaH : the print is totally blurred; presume 'hlAda' since mw,pw,vcp have SivAhlAda
+35899 : SIzaMGAtI : SIzaMGAtI : SIrzaGAtI : 'r' indistinct in print; = m.nom.sg. of SIrzaGAtin
+36587 : SrIkaRqapadalAYCanaH : SrIkaRqapadalAYCanaH : SrIkaRWapadalAYCanaH : q/W. alph. order, and sense; cf. mw
+36731 : SlakzRatvaka : SlakzRatvaka : SlakzRatvak : missing virAma; m.nom.sg. of SlakzRatvac
+36774 : SvadazwrA : SvadazwrA : SvadaMzwrA : missing anusvARa
+37064 : zoqaSaBUjA : zoqaSaBUjA¦ : zoqaSaBujA¦ : consider 'BUjA' a misprint; cf zoqaSaBujA in mw, vcp.
+37067 : zoqaSASuH : zoqaSASuH : zoqaSAMSuH : anusvAra missing in print; cf MW, etc; cf derivation
+37431 : saNGazitaM : saNGazitaM : saNGuzitaM : the 'u' is indistinct in print
+37432 : saNGazwaM : saNGazwaM : saNGuzwaM : the 'u' is indistinct in print
+37385 : saMNkrAntiH : saMNkrAntiH : saNkrAntiH : anusvAra is misprint
+37535 : sattvasantannaH : sattvasantannaH : sattvasampannaH : nt/mp, by lemma; cf mw.
+37669 : santrataM : santrataM : santataM : 'r' is misprint; cf vcp. saMtata in MW
+37745 : sannaDvaH : sannaDvaH : sannadDaH : Dv/dD. cf VCP, mw
+40170 : sahikeyaH : sahikeyaH : sEMhikeyaH : a/EM, alph.order and MW, etc.
+39395 : sudaSanI : sudaSanI : sudarSanI : 'r' missing in print; alph. order, sense, cf mw.
+40169 : seMhikaH : seMhikaH : sEMhikaH : e/E misprint; alph. order, cf MW, etc.
+40171 : sekataM : sekataM : sEkataM : e/E ; alph. order; cf MW, etc.
+40199 : sotkaRwaH : sotkaRwaH : sotkaRWaH : w/W a , cf MW, etc; sa-utkaRWa, and utkaRWa is in skd, but not utkaRwa.
+40354 : sOlvakaH : sOlvakaH : sOlvikaH : a/i. Presume misprint by conferring mw, vcp, etc.
+40885 : sPUrjaGuH : sPUrjaGuH¦ : sPUrjaTuH¦ : G/T . cf vcp, mw, etc. The print is poor, presume 'G' is misprint
+41131 : svargariH : svargariH : svargiriH : a/i. cf mw.
+41204 : svastibAcanaM : svastibAcanaM : svastivAcanaM : b/v; by alph. order, and lemma, 'b' is misprint
+41079 : svasnak : svasnak¦ : svapnak¦ : s/p; by alph. order and lemma, 's' is misprint;  m.nom.sg. of svapnaj cf mw, etc.
+41294 : sveratA : sveratA : svEratA : e/E; poor print quality; by alph. order and lemma, 'e' is misprint; cf mw, etc.
+41572 : haRyA : haRyA : halyA : R/l.  By alph. order and sense, 'R' is misprint; cf mw, etc.
+41907 : huqat : huqat : huqut : qa/qu , 'u' missing in print
+42051 : hemAdrijagaRaH : hemAdrijagaRaH : hemAdrijaraRaH : g/r. cf vcp, mw
+42177 : hraqa : hraqa : hruqa : root; two forms with u/U; = hruq in mw
 ----------------------------------------------------------------------
 09-17-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/305
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L     : headword : old    : new     : comment
-94316 : gaRqUzA : puM : strI : 
+Souce: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/305
+Lcode     : headword : old    : new     : comment
+94316 : gaRqUzA : puM, : strI, : 
 263752 : BadravallikA :  puM : strI : 
 421613 : SElavalkalA :  puM : strI : 
 42054 : hemnA : hemnA : hemnaH :  to agree with puM gender
 ----------------------------------------------------------------------
 02-24-2020
-The reference  https://github.com/sanskrit-lexicon/csl-corrections/issues/170
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L     : headword : old    : new     : comment
-36534 : SraBa : SraBa : Srama :
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/170
+Lcode     : headword : old    : new     : comment
+36534 : SraBa : SraBa¦ : Srama¦ :
 37043 : za    : za    : zU    :
 37112 : zRuma : zRuma : zRusa : 
 ----------------------------------------------------------------------
 02-24-2020
-The reference  https://github.com/sanskrit-lexicon/csl-orig/issues/186
-contains details supporting this change.
-These changes initiated by Jim Funderburk
-L     : headword : old    : new     : comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/186
+Lcode     : headword : old    : new     : comment
 35999 : SucaH    : SucaH  : Suca :
-36934 : zawwaH   : zawwaH : zawwa : 
+36934 : zawwaH   : zawwaH¦ : zawwa¦ : 
 ----------------------------------------------------------------------
 05-01-2020
-Reference  https://github.com/sanskrit-lexicon/csl-orig/issues/186
-First change Submitted by user chandrasekharanr.
-Others by Jim Funderburk
-L     : headword : old    : new     : comment
-8663  : kfzwapacyaH : kamma-karttari : karmma-karttari : 
-59    : akAraRaM    : kamma          : karmma
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/186
+Lcode     : headword : old    : new     : comment
+8663  : kfzwapacyaH : kamma : karmma : 
+59    : akAraRaM    : cArpitaM kamma          : cArpitaM karmma
 2868  : aSvinO      : kammaBir       : karmmaBir 
-6745  : karmmizWaH  : kamma          : karmma
+6745  : karmmizWaH  : kamma + izWan          : karmma + izWan
 8338  : kuSaRqikA   : kAmyakammArTaM : kAmyakarmmArTaM 
 8952  : koNkaRaM    : kamma          : karmma
 24610 : BagolaH     : vizkammaKaRqaM : vizkarmmaKaRqaM
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 10-04-2020
-Reference  https://github.com/sanskrit-lexicon/csl-orig/issues/366
+Source: radimnavyan
+Ref:  https://github.com/sanskrit-lexicon/csl-orig/issues/366
 First change Submitted by user radimnavyan
-L     : headword : old    : new     : comment
-37768 : sannyAsaH : haTA  : yaTA    :  See reference.
+Lcode     : headword : old    : new     : comment
+37768 : sannyAsaH : nyAsaH . haTA  : nyAsaH . yaTA    :  See reference.
 ----------------------------------------------------------------------
 03-14-2022
-Reference  https://github.com/sanskrit-lexicon/SKD/issues/14#issuecomment-1066089770
-L     : headword : old    : new     : comment
-36451 : SOryyaM : ×  : +    :  See reference.
-1861 : amA : „  : ,    :  See reference.
-16330 : dikSUlaM : „  : “    :  See reference.
-17510 : dvihAyanI : „  : ,    :  See reference.
+Ref:  https://github.com/sanskrit-lexicon/SKD/issues/14#issuecomment-1066089770
+Lcode     : headword : old    : new     : comment
+36451 : SOryyaM : SUra ×  : SUra +    :  See reference.
+1861 : amA : german quotes  : vya,    : „ changed to , - See reference.
+16330 : dikSUlaM : german quotes  : “-- bODe gurO    :  „ changed to , - See reference.
+17510 : dvihAyanI : german quotes  : dvivarzavayaske,    : „ changed to , - See reference.
 ----------------------------------------------------------------------
 03-14-2022
-Submitted by user Shalu
-Reference  https://github.com/sanskrit-lexicon/csl-orig/issues/1143
-L     : headword : old    : new     : comment
+Source: Shalu
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1143
+Lcode     : headword : old    : new     : comment
 28954 : rakzA    : goBUtreRa : gomUtreRa :
 ----------------------------------------------------------------------
 02-22-2026
-Reference  https://github.com/sanskrit-lexicon/csl-orig/issues/1797
-L     : headword : old    : new     : comment
+Ref:  https://github.com/sanskrit-lexicon/csl-orig/issues/1797
+Lcode     : headword : old    : new     : comment
 17357 : dvandvaM    : dbandbametanmUrKasya : dvandvametanmUrKasya : b-v
 ----------------------------------------------------------------------
-
 05/05/2026
+Source: Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-orig/commit/6282dc7
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 9295 : kreyaM : koYcaM : kroYcaM
 21391 : pASupatavrataM : zESezikoYcEva : zESezikroYcEva
 -----------------------------------------------------------------------
