@@ -7,37 +7,34 @@ documented.
 
 -----------------------------------------------------------------------
 03-15-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+Lcode : Headword : Old  : New : Comment
 17243 : garBopaGAtrinI : garBopaGAtrinI : garBopaGAtinI : Erroneous 'r'. Confirm MW garBopaGAtinI
 -----------------------------------------------------------------------
 04-13-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword : Old  : New : Comment
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+Lcode : Headword : Old  : New : Comment
 35237 : bavadarIPalA : bavadarIPalA : badarIPalA : badarIPalA and vadarIPalA are alternate headwords. Bracket missed in print.
 33912 : pratyakpuzapI : pratyakpuzapI : pratyakpuzpI : puzpI is the correct reading according to explanation.
 -----------------------------------------------------------------------
 01-05-2017
-User Form Correction
-From radimnavyan
-L code : Headword : Old  : New : Comment
+Source: radimnavyan
+Lcode : Headword : Old  : New : Comment
 1401 : aDyavasAya : rajastamo'BiBaye : rajastamo'BiBave : loc. sg. aBiBava
 -----------------------------------------------------------------------
 09-01-2017
+Source: SergeA
+Ref: https://github.com/sanskrit-lexicon/alternateheadwords/issues/23
 Corrections noticed in process of adding alternate headwords.
-Source User 'SergeA'.
-ref: https://github.com/sanskrit-lexicon/alternateheadwords/issues/23
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
   348  : agnizvAtta : agnizvA(sva)tta : agnizvA(svA)tta :
   427  : agredizizu : agredizizu: agrediDizu : *+
  8387  : ivAruSuktikA : ivAru(lu)SuktikA : irvAru(lu)SuktikA : 
 13506  : kASUtaro : kASU(sU)taro : kASU(sU)tarI : *+
 14437  : kuSIraka : SI(sIroyatra :  SI(sI)royatra :
-15226  : koSa  : koSa(zaM) : koSa(za) :
+15226  : koSa  : koSa(zaM) ¦: koSa(za) ¦:
 15234  : koSalAtmajA : koSa(ma)lAtmajA : koSa(sa)lAtmajA :
 15242  : koSAgAraM : koSA(zA)gAraM : koSA(zA)gAra : * OK
 15414  : kOSArava : kOSA(sA)rava : kOSA(zA)rava :
@@ -65,7 +62,7 @@ L code : Headword : Old  : New : Comment
 35974  : brAhmaka : brA(vra)hmaka : brA(vrA)hmaka :
 35975  : brAhmagupta : brA(vra)hmagupta : brA(vrA)hmagupta : 
 35993  : brAhmaRAyaRa : brA(vrA)hmaRAyaRa : brA(vrA)hmaRAyana : * OK
-39672  : riSya : riSya(vya) : riSya(zya) :
+39672  : riSya : riSya(vya)¦ : riSya(zya)¦:
 40024  : lambozwa : lambo(mbO)zwa : lambo(mbO)zWa :
 40628  : varIvarh : varI(lI)varh : varI(lI)vardda : * OK 
 48120  : hiraRyavAha : hiraRyavAha(hu) : hiraRyavAha(bAhu) :
@@ -73,7 +70,7 @@ L code : Headword : Old  : New : Comment
 
 -----------------------------------------------------------------------
 09-13-2017
-ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
 This documents a print change that was NOT made: UrdDa -> UrdDva.
 Dr. Dhaval Patel felt that UrdDa is not a Sanskrit word, and that
 therefore its appearance as the main spelling in several of the
@@ -89,48 +86,48 @@ to document it here nonetheless. Here are the relevant words in question.
 <L>10308<pc>1391,b<k1>UrdDamAna<k2>UrdDa(rdDva)mAna<ln1>126390<ln2>126405
 -----------------------------------------------------------------------
 12-20-2019
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/62
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/62
 Lcode - 26789
 dviDa--Satf -> dviza--Satf
 -----------------------------------------------------------------------
 05-11-2020
-Source User 'Shalu411'
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/272
-L code : Headword : Old  : New : Comment
-10344  : Uza      : pu0  ; --- :  pu0 deleted. entry is a verb
+Source: Shalu411
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/272
+Lcode : Headword : Old  : New : Comment
+10344  : Uza      : pu0 rujAyAm  : rujAyAm :  pu0 deleted. entry is a verb
 -----------------------------------------------------------------------
 03-04-2021
-Source User 'Andhrabharati'
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/469
-L code : Headword : Old  : New : Comment
+Source: Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/469
+Lcode : Headword : Old  : New : Comment
 44490  : zaqaBijYa : paricittajYAnaM : paracittajYAnaM :
 -----------------------------------------------------------------------
 06-21-2021
-Source User email: ragav.bharat
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/469
-L code : Headword : Old  : New : Comment
-29512  : nIla     : maNkalaGoze: maNgalaGoze :
+Source: ragav.bharat
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/469
+Lcode : Headword : Old  : New : Comment
+29512  : nIla     : 8 maNka : 8 maNga :
 -----------------------------------------------------------------------
 10-25-2021
-Source: Github User Neelesh Bodas
-ref: https://github.com/sanskrit-lexicon/csl-json/issues/6
-L code : Headword : Old  : New : Comment
-32768  : puzwi    : अन्नादिना उपचयकरणे : अन्नादिनोपचयकरणे : remove space
+Source: Neelesh Bodas
+Ref: https://github.com/sanskrit-lexicon/csl-json/issues/6
+Lcode : Headword : Old  : New : Comment
+32768  : puzwi    : annAdinA upacayakaraRe : annAdinopacayakaraRe : remove space
 -----------------------------------------------------------------------
 01-21-2025
-Source: Github User Andhrabharati
-ref: https://github.com/sanskrit-lexicon/PWG/issues/83#issuecomment-2600731501
-L code : Headword : Old  : New : Comment
-6800   : AdirAja  : mahArAjoma-vizyati : mahArAjoBa-vizyati
+Source: Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/83#issuecomment-2600731501
+Lcode : Headword : Old  : New : Comment
+6800   : AdirAja  : mahArAjoma : mahArAjo Ba
 -----------------------------------------------------------------------
 07-28-2025
-Source: @drdhaval2785
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1830
-L code : Headword : Old  : New : Comment
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1830
+Lcode : Headword : Old  : New : Comment
 42644   : vyavasTA  : viSize : viSeze
 -----------------------------------------------------------------------
-12-21=2-25
-Source: @aumsanskrit and @Andhrabharati
+12-21-2025
+Source: Scott Rhodes and Andhrabharati
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/102
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 -----------------------------------------------------------------------
