@@ -1,0 +1,22 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of May 20, 2026
+3 correction records, with 3 PENDING
+
+Case 5: 05/19/2026 dict=LRV, L=8675, hw=kalyavarta, user=srhodes
+old = break-fast
+new = breakfast
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/19/2026 dict=LRV, L=8673.1, hw=kalyajagdhi, user=srhodes
+old = break-fast
+new = breakfast
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/19/2026 dict=LRV, L=8673, hw=kalyāśa, user=srhodes
+old = break-fast
+new = breakfast
+status = PENDING
+------------------------------------------------------------------------
+

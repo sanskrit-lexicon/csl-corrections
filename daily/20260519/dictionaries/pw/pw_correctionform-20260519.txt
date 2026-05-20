@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for PW
+As of May 20, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 05/19/2026 dict=PW, L=83514 , hw=mar, user=frank.ziesing
+old = aṛta LB — 1〉 gestorben, verstorben, todt
+new = mṛta LB — 1〉 gestorben, verstorben, todt
+comment = Typo: should be "m" instead of "a" in mṛta
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,29 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 20, 2026
+4 correction records, with 4 PENDING
+
+Case 9: 05/19/2026 dict=AP, L=12241.032, hw=kimuta, user=srhodes
+old = karobhi
+new = karomi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/19/2026 dict=AP, L=12241.032, hw=kimuta, user=srhodes
+old = ekaikama yanarthāya
+new = ekaikam anarthāya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/19/2026 dict=AP, L=12241.03, hw=kimu, user=srhodes
+old = ekaikama yanarthāya
+new = ekaikam anarthāya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/19/2026 dict=AP, L=12241.03, hw=kimu, user=srhodes
+old = karobhi
+new = karomi
+comment = Typo – This is a clear OCR misread. Please make this a Global Correction as well.
+status = PENDING
+------------------------------------------------------------------------
+
