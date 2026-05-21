@@ -414,7 +414,7 @@ Lcode : Headword  : Old     : New     : Comment
 84218 : anustaraRIpratigfhItA : anustaraṇī-pratigṛhitā : anustaraṇī-pratigṛhītā : IAST error
 84312 : anusyandanam : anusyanandanam : anusyandanam : IAST error
 84325 : anusyUtavftti : anusyūt-vṛtti : anusyūta-vṛtti : IAST error
-84662 : anUdDftya : anuddhṛ4t-ya : anūddhṛ4t-ya : IAST error
+84662 : anUdDftya : anuddhṛ4t-ya : anūddhṛ́t-ya : IAST error
 84835 : anUpavipulA : anupa-vipulā : anūpa-vipulā : IAST error
 84839 : anUpaviSya : anūpavīś-ya : anūpavíś-ya : IAST error
 84956 : anUrADA : anūrādhá : anūrādhā : IAST error
@@ -485,7 +485,7 @@ Lcode : Headword  : Old     : New     : Comment
 101738 : anyasAmAnya : anya-sāmanya : anya-sāmānya : IAST error
 101897 : anyahastANguli : anyahastānguli : anyahastāṅguli : IAST error
 102545 : anyAyapuMScalI : anyāya-puṃśchalī : anyāya-puṃścalī : IAST error
-102779 : anyArTaviSizwasaMjYin : anyārthaviśiṣta-sañjñin : anyārthaviśiṣt3a-sañjñin : IAST error
+102779 : anyArTaviSizwasaMjYin : anyārthaviśiṣta-sañjñin : anyārthaviśiṣṭa-sañjñin : IAST error
 103038 : anyUnadeSakAlavftti : anyūnadeṣakāla-vṛtti : anyūnadeśakāla-vṛtti : IAST error
 103399 : anyonyatAdAtmya : anyo4nya-tādātmya : anyo'nya-tādātmya : Most words use apostrophe for avagraha, not accent
 103413 : anyonyatyAgin : anyo4nya-tyāgin : anyo'nya-tyāgin : Most words use apostrophe for avagraha, not accent
@@ -516,10 +516,10 @@ Lcode : Headword  : Old     : New     : Comment
 106207 : anvAlaBana : anv-ālabhaba : anv-ālabhana : IAST error
 106236 : anvAsanaSayana : anu-āsanaśayana : anv-āsanaśayana : IAST error
 106292 : anvAhAryapuraHssarasamayA : anvAhAryapuraHssarasamayA : anvAhAryapuraHsarasamayA : 
-106560 : anvIkzya : anv-íkṣya : anv-ī4kṣya : IAST error
+106560 : anvIkzya : anv-íkṣya : anv-ī́kṣya : IAST error
 106568 : anvIpasAriRI : anvīpa-sāriṇi : anvīpa-sāriṇī : IAST error
 106609 : anvezaRa : anv-eśaṇa : anv-eṣaṇa : IAST error
-107133 : apakrAmam : apakrámam : apakrā4mam : IAST error
+107133 : apakrAmam : apakrámam : apakrā́mam : IAST error
 107247 : apakzanizWatA : a-pakṣanisṭhatā : a-pakṣaniṣṭhatā : IAST error
 107460 : apagatasakalakalmAza : apagata-sakalamāṣa : apagata-sakalakalmāṣa : IAST error   Perhaps should be kalmaza (sin). The quote is spelled kalmaza ?
 107494 : apagati : apa-gatī : apa-gati : IAST error
