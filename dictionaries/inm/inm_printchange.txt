@@ -8,140 +8,137 @@ documented.
 
 -----------------------------------------------------------------------
 12-17-2015
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/204
-contains details supporting these changes.
-These changes initiated by Jim Funderburk.
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/204
 L code : Headword : Old  : New : Comment
-166    : Adikara  : sh2 : sh : Probable typesetting error, in all cases
-2318   : Sala     : sh2 : sh : 
-2538   : SatAnIka : sh2 : sh : 
-2622   : SiKaRqin : sh2 : sh : 
-3379   : Danurveda : sh2 : sh : 
-4054   : gArgya   : sh2 : sh : 
-4145   : GozayAtrAparvan : sh2 : sh : 
-4307   : guruSizyasaMvAda : sh2t : sht2 : 
-4508   : hiraRyagarBa : sh2t : sht2 : 
-4872   : jayadraTavaDaparvan : sh2 : sh : 
-7118   : manu : sh2t : sht2 : 
-7350   : mokzaDarmaparvan : sh2n : shn2 : 
-7587   : nara : sh2t : sht2 : 
-8223   : pAtAla : sh2t : sht2 : 
-8337   : piSAca : sh2 : sh : 
-8538   : prakfti : sh2t : sht2 : 
-8538   : prakfti : sh2t : sht2 : 
-9181   : fta : sh2 : sh : 
-9782   : sOBavaDopAKyAna : sh2 : sh : 
-9973   : soma : sh2 : ih2 :  ?
-10844  : tIrTayAtrAparvan : sh2 : sh : 
+166    : Adikara  : Purusḥaṃ : Puruṣaṃ : Probable typesetting error, in all cases
+2318   : Sala     : son of Dhṛtarāsḥṭra : son of Dhṛtarāṣṭra : 
+2538   : SatAnIka : bhisḥ : bhiṣ : 
+2622   : SiKaRqin : Bhīsḥmaḥ …: Bhīṣmaḥ …: 
+3379   : Danurveda : {%catusḥpādaṃ%}) and ten : {%catuṣpādaṃ%}) and ten : 
+4054   : gArgya   : Karūsḥān : Karūṣān : 
+4145   : GozayAtrAparvan : permission of {%Dhṛtarāsḥṭra%} : permission of {%Dhṛtarāṣṭra%} : 
+4307   : guruSizyasaMvAda : sprasḥtavya : spraṣṭavya : 
+4508   : hiraRyagarBa : Vasisḥtha : Vasiṣṭha : 
+4872   : jayadraTavaDaparvan : Dhṛsḥṭadyumna. Droṇa : Dhṛṣṭadyumna. Droṇa : 
+7118   : manu : Yudhisḥthira had by : Yudhiṣṭhira had by : 
+7350   : mokzaDarmaparvan : {%Kṛsḥna's%} assuming : {%Kṛṣṇa's%} assuming : 
+7587   : nara : devaśresḥtau : devaśreṣṭhau : 
+8223   : pAtAla : nasḥtā : naṣṭā : 
+8337   : piSAca : ({%˚oraga-Rāksḥasāḥ%})).—§ 599 : ({%˚oraga-Rākṣasāḥ%}).—§ 599 : 
+8538   : prakfti : ({%asḥṭau%}), 11554 : ({%aṣṭau%}), 11554 : 
+9181   : fta : = Kṛsḥna : = Kṛṣṇa : 
+9782   : sOBavaDopAKyAna : many of the {%Vṛsḥṇis%} : many of the {%Vṛṣṇis%} : 
+9973   : soma : Śītaraśmsḥ : Śītaraśmiḥ :  ?
+10844  : tIrTayAtrAparvan : Kārsḥṇi : Kārṣṇi : 
 -----------------------------------------------------------------------
 03-15-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
-3031 : dAkzAyanI : dAkzAyanI : dAkzAyaRI : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
-3032 : dAkzAyanI : dAkzAyanI : dAkzAyaRI : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
-3033 : dAkzAyanI : dAkzAyanI : dAkzAyaRI : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
-3034 : dAkzAyanI : dAkzAyanI : dAkzAyaRI : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
-3035 : dAkzAyanI : dAkzAyanI : dAkzAyaRI : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
-3036 : dAkzAyanI : dAkzAyanI : dAkzAyaRI : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+Lcode : Headword : Old  : New : Comment
+3031 : dAkzAyanI : Dākṣāyanī : Dākṣāyaṇī : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+3032 : dAkzAyanI : Dākṣāyanī : Dākṣāyaṇī : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+3033 : dAkzAyanI : Dākṣāyanī : Dākṣāyaṇī : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+3034 : dAkzAyanI : Dākṣāyanī : Dākṣāyaṇī : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+3035 : dAkzAyanI : Dākṣāyanī : Dākṣāyaṇī : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+3036 : dAkzAyanI : Dākṣāyanī : Dākṣāyaṇī : dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
 ----------------------------------------------------------------------
 09/12/2017
-ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
-These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
-6527 : lokAnAMkIrtivarDaRaH : lokAnAMkIrtivarDaRaH : lokAnAMkIrtivarDanaH : 
-6507 : lokaDAtr : lokaDAtr : lokaDAtf : 
-7334 : mitrAvaruRayohputraH : mitrAvaruRayohputraH : mitrAvaruRayoHputraH : 
+Source: Dr. Dhaval Patel
+Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+Lcode : Headword : Old  : New : Comment
+6527 : lokAnAMkIrtivarDaRaH : Lokānāṃ kīrtivardhaṇaḥ : Lokānāṃ kīrtivardhanaḥ : 
+6507 : lokaDAtr : Lokadhātr : Lokadhātṛ : 
+7334 : mitrAvaruRayohputraH : Mitrāvaruṇayoh putraḥ : Mitrāvaruṇayoḥ putraḥ : 
 ----------------------------------------------------------------------
 03/21/2021
-ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/56
-Changes by Dr. Sampada Savardekar
-L code : Headword : Old  : New : Comment
+Source: Dr. Sampada Savardekar
+Ref:  https://github.com/sanskrit-lexicon/csl-corrections/issues/56
+Lcode : Headword : Old  : New : Comment
 17 : aBimanyuvaDaparvan : erush : crush :
-316 : EzIkaparvan : procced : proceed  :
+316 : EzIkaparvan : procced on the : proceed on the  :
 442 : aMSAvataraRa : sacrifieed : sacrificed :
-801 : arjuna : riehes : riches :
+801 : arjuna : huge riehes : huge riches :
 2072 : CattropAnahotpatti : eomforted : comforted :
 2328 : SAlakawaNkawa : uprooten : uprooted :
 4027 : gARqIva : excellentcolours : excellent colours :
 4318 : hEhaya : acccording : according :
 4769 : janaka : synonvma : synonyms :
-4872 : jayadraTavaDaparvan : eongratulated : congratulated :
-5432 : karRa : assi : assistance :
+4872 : jayadraTavaDaparvan : eongratulated (ωωω) : congratulated (ωωω) :
+5432 : karRa : assi stance of the Pāṇḍavas : assistance  of the Pāṇḍavas :
 5432 : karRa : ntention : intention :
-7162 : mArttikAvataka : gni : Jamadagni :
+7162 : mArttikAvataka : gni : Yamadagni :
 7196 : mAtalIyopAKyAna : ncounter : encounter :
-9520 : saptasArasvata : sacriflce : sacrifice :
+9520 : saptasArasvata : sacriflce of {%Gaya%} : sacrifice of {%Gaya%} :
 10021 : sfYjaya : cach : each :
 10477 : sUrya : whele : whole :
 12207 : vizRu : macc : mace :
 12563 : yamaloka : eity : city :
 ----------------------------------------------------------------------
 09/07/2021
-ref:  https://github.com/sanskrit-lexicon/csl-orig/issues/612
-L code : Headword : Old  : New : Comment
+Ref:  https://github.com/sanskrit-lexicon/csl-orig/issues/612
+Lcode : Headword : Old  : New : Comment
 905 : asura : Varuna : Varuṇa :
-4080 : gOrI : Varuna : Varuṇa :
+4080 : gOrI : Varuṇaḥ saha : Varuṇaḥ saha :
 ----------------------------------------------------------------------
 12/13/2021
-ref:  https://github.com/sanskrit-lexicon/INM/issues/4
-Corrections noticed by Github user @Andhrabharati
-L code : Headword : Old  : New : Comment
-40 : AcAryamuKya : acAryamuKya : AcAryamuKya : 
-72 : ASrama : aSrama : ASrama : 
-78 : ASramavAsa : aSramavAsa : ASramavAsa : 
-122 : ASvayuja : aSvayuja : ASvayuja : not sure, as both words exist in mw.
-148 : ADiraTi : aDiraTi : ADiraTi : not sure
-189 : Adityaparvata : adityaparvata : Adityaparvata : 
-190 : AdityapaTa : adityapaTa : AdityapaTa : 
-192 : Adityapratima : adityapratima : Adityapratima : 
-228 :  aGaRwaGaRwin :aGaRwin : aGaRwaGaRwin : per addendum
-270 : ahar : ahas : ahar : per addendum
-271 : ahar : ahas : ahar : per addendum
-328 : Ajagaraparvan : ajagaraparvan : Ajagaraparvan : 
-369 : Akfti : akfti : Akfti : 
-484 : amUrtarayasa : amUrtarayasa : amUrtarayasa : homonym 1 added
-485 : AmUrtarayasa : amUrtarayasa : AmUrtarayasa : homonym 2 added
-602 : ANgirasa : aNgirasa : ANgirasa : 
-711 : ApagA :apagA : ApagA : per addendum
-712 : ApagA : apagA : ApagA : per addendum
-713 : ApagAsuta : apagAsuta : ApagAsuta : 
-714 : Apageya : apageya : Apageya : 
-736 : Apava : apava : Apava : 
-753 : Apta : apta : Apta : 
-763 : AraRyaka : araRyaka : AraRyaka : 
-764 : AraRyaka : araRyaka : AraRyaka : 
-765 : AraRyakaparvan : araRyakaparvan : AraRyakaparvan : 
-784 : ArdracarmAbaravfta : Ardracarman : ArdracarmAbaravfta : per addendum
-831 : ArzwizeRa : arzwizeRa : ArzwizeRa : 
-840 : Aruja : aruja : Aruja : 
-853 : AruRi : aruRi : AruRi : 
-917 : AsurAyaRi : asurAyaRi : AsurAyaRi : per addendum
-925 : Atapana : atapana : Atapana : 
-942 : aWida : aTida : aWida : 
-958 : atiTi : AtiTi : atiTi : 
-1027 : Avikzita : avikzita : Avikzita : 
-1112 : bahuvAdyAH : bahuvadyAH : bahuvAdyAH : 
-1113 : bahuvidya : bahuvedya : bahuvidya : 
-1672 : Buvas : BuvaH : Buvas : per addendum
-1673 : Buvas : BuvaH : Buvas : per addendum
-3422 : Darmagup : Darmagupta : Darmagup : per addendum
-3441 : DarmAraRya : DarmAranya : DarmAraRya : 
-3448 : Darmaviduttama : Darmavid : Darmaviduttama : per addendum
-3466 : DAtuuttama : DAtu : DAtuuttama : per addendum; not sure
-3591 : dinakft : dInakft : dinakft : per addendum
-4367 : hanUmadBImasaMvAda : hanUmadBImasamvAda : hanUmadBImasaMvAda : 
-5008 : kASisutA : kASisuta : kASisutA : 
-5102 : kAkudIka : kAkudika : kAkudIka : per addendum
-5712 : KaSIra : KaSira : KaSIra : per addendum
-5808 : konvaSira : koRvaSira : konvaSira : 
-6209 : kuntinandana : kuntInandana : kuntinandana : 
-6210 : kuntinandana : kuntInandana : kuntinandana : 
-6894 : kuntinandana : maheSvarapada : mAheSvarapada : 
-6895 : mAheSvarapura : maheSvarapura : mAheSvarapura : 
-7378 : mftyuprajApatisaMvAda : mftyuprajApatisamvAda : mftyuprajApatisaMvAda : 
-8234 : patatri : patitri : patatri : 
-9542 : sarasvatItArkzyasaMvAda : sarasvatItArkzyasamvAda : sarasvatItArkzyasaMvAda : 
-9915 : siMhaketu : simhaketu : siMhaketu : 
+Source: Andhrabharati
+Ref:  https://github.com/sanskrit-lexicon/INM/issues/4
+Lcode : Headword : Old  : New : Comment
+40: AcAryamuKya : ācāryamukhya : Ācāryamukhya : 
+72: ASrama : Aśrama : Āśrama : 
+78: ASramavAsa : Aśramavāsa : Āśramavāsa : 
+122: ASvayuja : {@Aśvayuja@} : {@Āśvayuja@} : not sure, as both words exist in mw.
+148: ADiraTi : {@Adhirathi@} : {@Ādhirathi@} : not sure
+189: Adityaparvata : Adityaparvata : Ādityaparvata : 
+190: AdityapaTa : Adityapatha : Ādityapatha : 
+192: Adityapratima : Adityapratima : Ādityapratima : 
+228:  aGaRwaGaRwin :aghaṇṭin : aghaṇṭaghaṇṭin : per addendum
+270: ahar : Ahas : Ahar : per addendum
+271: ahar : Ahas : Ahar : per addendum
+328: Ajagaraparvan : Ajagaraparvan : Ājagaraparvan : 
+369: Akfti : {@Akṛti@} : {@Ākṛti@} : 
+484: amUrtarayasa : Amūrtarayasa : Amūrtarayasa :homonym 1 added
+485: AmUrtarayasa : Amūrtarayasa : Āmūrtarayasa :homonym 2 added
+602: ANgirasa : {@Aṅgirasa(ṃ)@} : {@Āṅgirasa(ṃ)@} : 
+711: ApagA : Apagā : Āpagā : per addendum
+712: ApagA : Apagā : Āpagā : per addendum
+713: ApagAsuta : Apagāsuta : Āpagāsuta : 
+714: Apageya : Apageya : Āpageya : 
+736: Apava : Apava : Āpava : 
+753: Apta : Apta : Āpta : 
+763: AraRyaka : {@Araṇyaka@} : {@Āraṇyaka@} : 
+764: AraRyaka : {@Araṇyaka@} : {@Āraṇyaka@} : 
+765: AraRyakaparvan : Araṇyakaparvan : Āraṇyakaparvan : 
+784: ArdracarmAbaravfta : Ārdracarman : Ārdracarmāmbaravṛta : per addendum
+831: ArzwizeRa : Arṣṭiṣeṇa : Ārṣṭiṣeṇa : 
+840: Aruja : Aruja : Āruja : 
+853: AruRi : Aruṇi : Āruṇi : 
+917: AsurAyaRi : Asurāyaṇi : Āsurāyaṇi : per addendum
+925: Atapana : atapana : Ātapana : 
+942: aWida : Athida : Aṭhida : 
+958: atiTi : Ātithi : Atithi : 
+1027: Avikzita : {@Avikṣita@} : {@Āvikṣita@} : 
+1112: bahuvAdyAH : Bahuvadyāḥ : Bahuvādyāḥ : 
+1113: bahuvidya : Bahuvedya : Bahuvidya : 
+1672: Buvas : Bhuvaḥ : Bhuvas : per addendum
+1673: Buvas : Bhuvaḥ : Bhuvas : per addendum
+3422: Darmagup : Dharmagupta : Dharmagup : per addendum
+3441: DarmAraRya : Dharmāranya : Dharmāraṇya : 
+3448: Darmaviduttama : Dharmavid : Dharmaviduttama : per addendum
+3466: DAtuuttama : Dhātu : Dhātuuttama : per addendum; not sure
+3591: dinakft : Dīnakṛt : Dinakṛt : per addendum
+4367: hanUmadBImasaMvAda : Hanūmad-Bhīma-samvāda : Hanūmad-Bhīma-saṃvāda : 
+5008: kASisutA : Kāśisuta : Kāśisutā : 
+5102: kAkudIka : Kākudika : Kākudīka : per addendum
+5712: KaSIra : Khaśira : Khaśīra : per addendum
+5808: konvaSira : Koṇvaśira : Konvaśira : 
+6209: kuntinandana : Kuntīnandana : Kuntinandana : 
+6210: kuntinandana : Kuntīnandana : Kuntinandana : 
+6894: mAheSvarapada : Maheśvarapada : Māheśvarapada : 
+6895: mAheSvarapura : Maheśvarapura : Māheśvarapura : 
+7378: mftyuprajApatisaMvAda : Mṛtyu-Prajāpatisamvāda : Mṛtyu-Prajāpatisaṃvāda : 
+8234: patatri : Patitri : Patatri : 
+9542: sarasvatItArkzyasaMvAda : Sarasvatī-Tārksya-saṃvāda : Sarasvatī-Tārkṣya-saṃvāda : 
+9915: siMhaketu : Simhaketu : Siṃhaketu : 
 ----------------------------------------------------------------------
