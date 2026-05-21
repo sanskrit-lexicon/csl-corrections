@@ -29,9 +29,9 @@ def convert_as_roman(infile, outfile):
 if __name__ == "__main__":
     # Paths relative to this script's directory
     pwd = os.path.dirname(__file__)
-    infile = os.path.join(pwd, "../../dictionaries/inm/inm_printchange.txt")
+    infile = os.path.join(pwd, "../../dictionaries/pd/pd_printchange.txt")
     # Using a different output filename to avoid overwriting the source immediately
-    outfile = os.path.join(pwd, "../../dictionaries/inm/inm_printchange_roman.txt")
+    outfile = os.path.join(pwd, "../../dictionaries/pd/pd_printchange_roman.txt")
     
     print(f"Converting {infile} to {outfile}...")
     convert_as_roman(infile, outfile)
