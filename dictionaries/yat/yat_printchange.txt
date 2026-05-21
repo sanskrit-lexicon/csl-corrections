@@ -8,60 +8,57 @@ documented.
 
 -----------------------------------------------------------------------
 03-15-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+Lcode : Headword : Old  : New : Comment
 21510 : nirvvurdDi : nirvvurdDi : nirbbudDi : 'rDi' is wrong. 'vv' should be 'bb' - but yat is careless about b/v.
 22230 : pakznu : pakznu : pakzRu : 'zn' usually not possible. Confirm MW and other dictionaries.
 -----------------------------------------------------------------------
 04-13-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword : Old  : New : Comment
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+Lcode : Headword : Old  : New : Comment
 19168	debasAyujya	debasAyujya	devasAyujya	eb. Alphabetic misordering.
 -----------------------------------------------------------------------
 05-11-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
-contains details supporting these changes.
-These changes initiated by Jim Funderburk
-L code : Headword : Old  : New : Comment
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+Lcode : Headword : Old  : New : Comment
 19711 : dvisamatriBUjA : dvisamatriBUjA : dvisamatriBujA : triBujA is triangle. So 'BUjA' is misprint; prob. copied from Wilson
 -----------------------------------------------------------------------
 05-13-2016
-The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
-contains details supporting these changes.
-These changes initiated by Dhaval Patel
-L code : Headword : Old  : New : Comment
-7689 : evambiDa : evambiDa : evamviDa : print error Alphabetic misordering. b after B.
+Source: Dr. Dhaval Patel
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+Lcode : Headword : Old  : New : Comment
+7689 : evambiDa : evambiDa : evamvi_Da : print error Alphabetic misordering. b after B.
 ----------------------------------------------------------------------
 09/12/2017
-ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
-These changes initiated by Dr. Dhaval Patel
-L code : Headword : Old  : New : Comment
-2808 : arTopekzepaka : arTopekzepaka : arTopakzepaka : 
-26818 : prodDozaRa : prodDozaRa : prodGozaRa : 
-26817 : prodDuzwa : prodDuzwa : prodGuzwa : 
+Source: Dr. Dhaval Patel
+Ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+Lcode : Headword : Old  : New : Comment
+2808 : arTopekzepaka : arTopekzepaka : arTo_pakzepaka : 
+26818 : prodDozaRa : prodDozaRa : pro_dGozaRa : 
+26817 : prodDuzwa : prodDuzwa : pro_dGuzwa : 
 6394 : udayapabbata : udayapabbata : udayaparbbata : 
 ----------------------------------------------------------------------
 01/20/2020
-ref: https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-575802909
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-575802909
 Source: jim funderburk
-L code : Headword : Old  : New : Comment
+Lcode : Headword : Old  : New : Comment
 18342  : dArwwura : dArwwura : dArddura : see reference
 ----------------------------------------------------------------------
 03/21/2020
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/201
 Source: jim funderburk
-L code : Headword : Old  : New : Comment
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/201
+Lcode : Headword : Old  : New : Comment
 3044 : abakIrRin : abakIrRin : avakIrRin
 3108 : abacUrRita : abacUrRita : avacUrRita
 3133 : abaqIna : abaqIna : avaqIna
 3145 : abadaMSa : abadaMSa : avadaMSa
 3154 : abadAhezwakApaTa : abadAhezwakApaTa : avadAhezwakApaTa
 3160 : abadraNka : abadraNka : avadraNka
-3167 : abaDIra : abaDIra : avaDIra
+3167 : abaDIra : {#abaDIra#} : {#avaDIra#}
 3212 : abaBinna : abaBinna : avaBinna
 3257 : abarohin : abarohin : avarohin
 3267 : abalIQa : abalIQa : avalIQa
@@ -72,43 +69,102 @@ L code : Headword : Old  : New : Comment
 3439 : abidyA : abidyA : avidyA
 3495 : abiSeza : abiSeza : aviSeza
 16245 : qiv : qiv : qib
-17355 : tav : tav : tev
-30667 : mlacCa : mlacCa : mlecCa
-32702 : lAc : lAc : loc
-42338 : sUk : sUk : sUc
+17355 : tav : {#tav#} : {#tev#}
+30667 : mlacCa : {#mlacCa#} : {#mlecCa#}
+32702 : lAc : {#lAc#} : {#loc#}
+42338 : sUk : {#sUk#} : {#sUc#}
 ----------------------------------------------------------------------
 03/22/2020
-ref: https://github.com/sanskrit-lexicon/csl-orig/issues/202
-Source: jim funderburk
+Source: Jim Funderburk
+Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/202
 In these verb entries, one or more lines had a 'with ' added before a 
 prefix.  The changes may be seen in the reference above.
-L code : Headword : number of lines with an extra 'with' added
-3804 : as : 1
-10016 : kuc : 1
-20012 : DA : 14
-20180 : DU : 2
-22484 : pat : 8
-22597 : pad : 9
-28177 : BU : 9
-29603 : mA : 2
-30071 : muc : 1
-30844 : yam : 6
-30928 : yA : 6
-31061 : yuj : 8
-32007 : ruD : 1
-32234 : lakz : 1
-32354 : lap : 4
-32357 : lab : 1
-32372 : laB : 1
-32441 : las : 1
-33051 : vaw : 6
-39117 : zaYja : 1
-39161 : zad : 1
+Lcode : Headword : Old : New : Comment
+3804 : as : sit, {#apa#} : sit; with {#apa#}
+10016 : kuc : ; {#ut#} : ; with {#ut#}
+20012 : DA : ; {#A#} : ; with {#A#}
+20012 : DA : ; {#upa#} : ; with {#upa#}
+20012 : DA : ; {#ni#} : ; with {#ni#}
+20012 : DA : {#pari#} : with {#pari#}
+20012 : DA : ; {#pra#} : ; with {#pra#}
+20012 : DA : ; {#vi#} : ; with {#vi#}
+20012 : DA : ; {#saM#} : ; with {#saM#}
+20012 : DA : ; {#aBi#} : ; with {#aBi#}
+20012 : DA : ; {#prati#} : ; with {#prati#}
+20180 : DU : ; {#nira#} : ; with {#nira#}
+20180 : DU : ; {#vi#} : ; with {#vi#}
+22484 : pat : {#aBi#} : with {#aBi#}
+22484 : pat : {#A#} : with {#A#}
+22484 : pat : {#ut#} : with {#ut#}
+22484 : pat : {#ni#} : with {#ni#}
+22484 : pat : {#nir#} : with {#nir#}
+22484 : pat : {#pari#} : with {#pari#}
+22484 : pat : {#saM#} : with {#saM#}
+22484 : pat : {#pra#} : with {#pra#}
+22484 : pat : {#vi#} : with {#vi#}
+22597 : pad : {#anu#} : with {#anu#}
+22597 : pad : {#A#} : with {#A#}
+22597 : pad : {#ut#} : with {#ut#}
+22597 : pad : {#upa#} : with {#upa#}
+22597 : pad : {#pra#} : with {#pra#}
+22597 : pad : {#prati#} : with {#prati#}
+22597 : pad : {#vi#} : with {#vi#}
+22597 : pad : {#saM#} : with {#saM#}
+28177 : BU : {#anu#} : with {#anu#}
+28177 : BU : {#aBi#} : with {#aBi#}
+28177 : BU : {#ut#} : with {#ut#}
+28177 : BU : {#parA#} : with {#parA#}
+28177 : BU : {#pra#} : with {#pra#}
+28177 : BU : {#prati#} : with {#prati#}
+28177 : BU : {#pari#} : with {#pari#}
+28177 : BU : {#vi#} : with {#vi#}
+28177 : BU : {#saM#} : with {#saM#}
+29603 : mA : {#upa#} : with {#upa#}
+29603 : mA : {#pari#} : with {#pari#}
+29603 : mA : {#pra#} : with {#pra#}
+30071 : muc : {#vi#} : with {#vi#}
+30844 : yam : {#ut#} : with {#ut#}
+30844 : yam : {#ni#} : with {#ni#}
+30844 : yam : {#saM#} : with {#saM#} 
+30844 : yam : {#vi#} : with {#vi#}
+30844 : yam : {#upa#} : with {#upa#}
+30928 : yA : {#aBi#} : with {#aBi#}
+30928 : yA : {#A#} : with {#A#}
+30928 : yA : {#upa#} : with {#upa#}
+30928 : yA : {#nir#} : with {#nir#}
+30928 : yA : {#prati#} : with {#prati#}
+30928 : yA : {#saM#} : with {#saM#}
+31061 : yuj : {#aBi#} : with {#aBi#}
+31061 : yuj : {#ut#} : with {#ut#}
+31061 : yuj : {#upa#} : with {#upa#}
+31061 : yuj : {#ni#} : with {#ni#}
+31061 : yuj : {#pra#} : with {#pra#}
+31061 : yuj : {#vi#} : with {#vi#} 
+31061 : yuj : {#saM#} : with {#saM#}
+32007 : ruD : {#ava#} : with {#ava#} 
+32007 : ruD : {#upa#} : with {#upa#}
+32234 : lakz : {#saM#} : with {#saM#}
+32354 : lap : {#A#} : with {#A#}
+32354 : lap : {#pra#} : with {#pra#}
+32354 : lap : {#prati#} : with {#prati#}
+32354 : lap : {#vi#} : with {#vi#}
+32357 : lab : {#A#} : with {#A#}
+32357 : lab : {#vi#} : with {#vi#}
+32372 : laB : {#upa#} : with {#upa#} 
+32441 : las : {#vi#} : with {#vi#}
+33051 : vad : {#apa#} : with {#apa#}
+33051 : vad : {#aBi#} : with {#aBi#}
+33051 : vad : {#nir#} : with {#nir#}
+33051 : vad : {#pari#} : with {#pari#}
+33051 : vad : {#prati#} : with {#prati#}
+33051 : vad : {#saM#} : with {#saM#}
+39117 : zaYja : {#vi#} : with {#vi#}
+39161 : zad : {#ni#} : with {#ni#}
 ----------------------------------------------------------------------
 08/16/2021
-ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/73
 Source: Dr. Sampada Savardekar, jim funderburk
-L code : Headword : Old  : New : Comment
+Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/73
+Lcode : Headword : Old  : New : Comment
 222 : AMgnatretA : housholder : householder :
 927 : aDyagni : mariage : marriage :
 1512 : antra : intrail : entrail :
@@ -178,7 +234,7 @@ L code : Headword : Old  : New : Comment
 04-25-2026
 Source: Scott Rhodes
 Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/158
-L code : Headword : Old  : New : Comment
-8599 : karAmarDa : karAmarDa : karAmarda : 
+Lcode : Headword : Old  : New : Comment
+8599 : karAmarDa : karA_marDa : karA_mardda : 
 8600 : karAmuka : karAmuka : karAmbuka :  
 -----------------------------------------------------------------------
