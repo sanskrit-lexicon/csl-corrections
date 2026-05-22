@@ -1,36 +1,36 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 16, 2026
-5 correction records, with 5 PENDING
+As of May 22, 2026
+5 correction records, with 0 PENDING
 
-Case 12: 05/15/2026 dict=MW, L=177694, hw=rāmī, user=czhao
+Case 9: 05/15/2026 dict=MW, L=177694, hw=rāmī, user=czhao
 old = See under rāmā.
 new = See under rāma. 
-status = PENDING
+status = Corrected 22 May 2026
 ------------------------------------------------------------------------
 
-Case 11: 05/15/2026 dict=MW, L=177277, hw=rāmā, user=czhao
+Case 8: 05/15/2026 dict=MW, L=177277, hw=rāmā, user=czhao
 old = MW says "(ā́), f.", so should have accent. Same for "(ī́), f." at ID 177288.  [doubt: MW does list them as H2 words without accent at 177649 and 177694]. 
 new = rāmā́  rāmī́ 
-status = PENDING
+status = Corrected 22 May 2026
 ------------------------------------------------------------------------
 
-Case 7: 05/15/2026 dict=MW, L=50032, hw=kāṣṭhabhakṣaṇa, user=srhodes
+Case 5: 05/15/2026 dict=MW, L=50032, hw=kāṣṭhabhakṣaṇa, user=srhodes
 old = kāṣṭhādhirohaṇa
 new = =°ṣṭhādhirohaṇa
 comment = Typo – Please note that this is correction follows the Printed Text. There may need to be a "Font Change", from the currently "Specialized" appearance.
-status = PENDING
+status = No idea what is to be changed here.
 ------------------------------------------------------------------------
 
-Case 5: 05/15/2026 dict=MW, L=178176 , hw=rīdhā, user=jc
+Case 4: 05/15/2026 dict=MW, L=178176 , hw=rīdhā, user=jc
 old = rīdhā
 new = rīḍhā
 comment = Headword typo
-status = PENDING
+status = Corrected 22 May 2026
 ------------------------------------------------------------------------
 
-Case 4: 05/15/2026 dict=MW, L=65293, hw=gītā (ā), user=czhao
+Case 3: 05/15/2026 dict=MW, L=65293, hw=gītā (ā), user=czhao
 old = The context here is gītā instead of gīta, so Bhagavad-g⚬ should expand to Bhagavad-gītā instead of Bhagavad-gīta. Same for the other 3.
 new = (cf. Agastya-gītā, Bhagavad-gītā [often called Gītā, Prab. vi, 9/10  &c.], Rāma-gītā, Śiva-gītā)
-status = PENDING
+status = Corrected 22 May 2026. Also corrected 3 more occurrences in the same headword.
 ------------------------------------------------------------------------
 
