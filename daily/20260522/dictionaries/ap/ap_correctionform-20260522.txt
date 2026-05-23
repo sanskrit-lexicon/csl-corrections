@@ -1,0 +1,45 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 23, 2026
+6 correction records, with 6 PENDING
+
+Case 6: 05/22/2026 dict=AP, L=12265, hw=kila, user=srhodes
+old = kecidvadanti
+new = kecid vadanti
+comment = Typo – While phonetic sandhi blends the d of kecit into vadanti, they are independent grammatical units (a pronoun and a verb). Separating the verb makes the text scannable for Western Sanskrit students.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/22/2026 dict=AP, L=12265, hw=kila, user=srhodes
+old = jātasaṃbhramā
+new = jātasaṃbhramaḥ
+comment = Typo – In the context of this epic stanza describing an action, it must be the masculine nominative singular form matching the subject, or a neuter attribute depending on the internal sandhi of the verse quarter. Standard lexicography tracks it as jātasaṃbhramaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/22/2026 dict=AP, L=12264.02, hw=kilakiñcitam, user=srhodes
+old = saṃkaraḥ
+new = saṅkaraḥ
+comment = Typo – Please note that the Standard IAST dictionary convention favors using ṅ (saṅkaraḥ) before a velar consonant rather than the raw anusvāra dot ṃ (saṃkaraḥ).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/22/2026 dict=AP, L=12264.02, hw=kilakiñcitam, user=srhodes
+old = sakumāranṛtte
+new = sukumāranṛtte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/22/2026 dict=AP, L=12264.02, hw=kilakiñcitam, user=srhodes
+old = līlā-kila-kiṃcita-vibhramān
+new = līlā-kilakiñcita-vibhramān
+comment = Typo – "Print Change". Please note that the technical term with a hyphen introduces an artificial break in a single concept; additionally, the spelling of the sibilant and nasal requires consistency
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/22/2026 dict=AP, L=12248, hw=kiraṇaḥ, user=srhodes
+old = Missing Headword!
+new = Please Add the following Headword as indicated in the window display: " ˚maya ". According to the AP spelling, this compound will appear as: "kiraṇamaya". This Headword Deserves to be listed as a Searchable Headword within the Hierarchy, in order to Fully Honor and Pay Resect to AP57.
+comment = Missing Headword!
+status = PENDING
+------------------------------------------------------------------------
+
