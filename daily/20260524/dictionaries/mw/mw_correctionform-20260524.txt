@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for MW
+As of May 25, 2026
+1 correction records, with 1 PENDING
+
+Case 2: 05/24/2026 dict=MW, L=50723, hw=kīṭapāḍikā, user=srhodes
+old = kīṭapāḍikā
+new = kīṭapādikā
+comment = Typo – Please note that this is a suggested "Print Change". Here is the reasoning: LB The word is a bahuvrīhi compound meaning "having feet (like those of) an insect," which refers to the creeping, physical characteristics of the plant (often identified as Cissus pedata or haṃsapadī). LB The Base Word: The core element here is pāda (पाद), meaning "foot," which universally requires the dental d. When the appropriate feminine affix is applied to the compounded form, it cleanly and predictably yields pādikā. LB Why does Monier-Williams use the retroflex "ḍ"? LB Monier-Williams' inclusion of kīṭapāḍikā (with the retroflex ḍ) represents a lexicographical variant heavily influenced by Prakritization. In various vernaculars and middle Indo-Aryan dialects, the standard Sanskrit intervocalic dental d frequently shifts to a retroflex ḍ (where pāda colloquially morphs into pāḍa). LB While Monier-Williams is famously encyclopedic in capturing these regional or later textual variants, the retroflex form breaks the direct morphological link to the verbal root pad (to step/go).
+status = PENDING
+------------------------------------------------------------------------
+
