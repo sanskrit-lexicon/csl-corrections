@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of May 26, 2026
+1 correction records, with 1 PENDING
+
+Case 3: 05/25/2026 dict=LRV, L=8729, hw=kaśya, user=srhodes
+old = m. Spirituous liquor.
+new = n. Spirituous liquor.
+comment = Typo – Here is the reasoning: When kaśya (कश्य) is used to mean "spirituous liquor" or "intoxicating drink," the correct grammatical gender is neuter (kaśyam / कश्यम्). LB Here is how the consensus breaks down: LB   •  Standard English-Sanskrit Dictionaries: Monier-Williams, V.S. Apte, and Arthur Macdonell all agree that the noun is neuter (n.) when referring to both "spirituous liquor" and "a horse's flank." LB   •  Traditional Sanskrit Lexicons: Authoritative indigenous dictionaries, such as the Śabdakalpadruma, Vācaspatyam, and Hemacandra's Abhidhānacintāmaṇi, explicitly classify the word for liquor as neuter (klī / क्लीब). LB The Verdict: LB The "m." (masculine) designation in L.R. Vaidya’s 1889 dictionary is almost certainly a typographical or lexicographical mistake. While kaśya can be used in the masculine as an adjective (meaning "a man fit to be whipped"), the noun form for liquor is strictly neuter.
+status = PENDING
+------------------------------------------------------------------------
+
