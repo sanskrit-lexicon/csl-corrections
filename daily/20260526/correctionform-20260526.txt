@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History
+As of May 27, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 05/26/2026 dict=mw, L=, hw=, user=felipe.tzongkwan
+old = in (comp.)  [ID=122432 ]      transcendental virtue (there are 6 or 10, viz. <!!!>dānta<!!!>, śīla, kṣānti, vīrya, dhyāna, prajñā, to which are sometimes added satya,
+new = viz. dāna, śīla,  ---- (comment: instead of dānta)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/26/2026 dict=SHS, L=9709, hw=kastūramallikā, user=srhodes
+old = kastūramallikā
+new = kastūrīmallikā
+comment = Typo – Please note that this is a suggested "Print Change". Here is the reasoning: This is almost certainly a historical misprint, a transmission error, or a non-standard regional corruption that became fossilized in this specific edition. LB In standard Sanskrit compound formation (samāsa), the prior member reverts to its uninflected crude base (prātipadika). The recognized stems for musk are kastūrī and kastūrikā. LB For the stem to appear as kastūra-, it would require puṃvadbhāva (masculine transformation of a feminine base). However, under Pāṇini 6.3.34 ($striyāḥ \ puṃvat \ bhāṣitapuṃskād...$), this operation is only permitted for feminine words that possess a corresponding masculine form conveying the exact same meaning. Because kastūrī is inherently and exclusively feminine, it has no valid masculine counterpart kastūra. Stripping the feminine ī suffix is therefore grammatically ungrounded.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/26/2026 dict=SHS, L=9699, hw=kaṣṭasthāna, user=srhodes
+old = scite
+new = site
+comment = Typo – Please note that "scite" is an authentic ARCHAIC spelling. It is worth considering if a spelling like this is NO LONGER used, should we all suffer it? Certainly users will not be searching for the word "scite" ! Therefore, please consider this as a Global Correction, to bring things up to Modern Usable Standards.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/26/2026 dict=SHS, L=9698, hw=kaṣṭaśrita, user=srhodes
+old = under-going
+new = undergoing
+comment = Typo – Please consider this as a Global "Print Change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/26/2026 dict=SHS, L=9690, hw=kaṣāyin, user=srhodes
+old = Worldly minded
+new = Worldly-minded
+comment = Typo – The sense is more correctly a Single Adjective Modifier.
+status = PENDING
+------------------------------------------------------------------------
+
