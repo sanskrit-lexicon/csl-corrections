@@ -10,3 +10,7 @@ app/.DS_store batches/.DS_store
 .DS_Store
 *.numbers
 scratch
+
+# audit sidecars
+.contributing_old.md
+.contributing_audit.txt
