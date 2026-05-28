@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
-As of May 17, 2026
-1 correction records, with 1 PENDING
+As of May 28, 2026
+1 correction records, with 0 PENDING
 
-Case 9: 05/16/2026 dict=ap, L=, hw=caritam, user=jim
+Case 8: 05/16/2026 dict=ap, L=, hw=caritam, user=jim
 old = चरितम्  चरितम्  [Printed book page 0699-1]  <!!!>चरित   .-तम्<!!!>  1 Going, moving, course. 2 Acting,  Page0699-2  doing, practice, behaviour,
 new = चरितम्    [seems clearer, Since this entry is for the neuter of adjective चरित ]
 comment = 
-status = PENDING
+status = Separately tracked at https://github.com/sanskrit-lexicon/csl-corrections/issues/173
 ------------------------------------------------------------------------
 
