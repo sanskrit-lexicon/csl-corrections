@@ -2,6 +2,10 @@
 
 CDSL **data-store** repository in the Sanskrit Lexicon project.
 
+## Documentation
+
+📘 **[Correction Workflow — End-to-End](docs/correction-workflow.md)** — the authoritative guide for applying corrections to `csl-orig` dictionary text. Covers the full pipeline (snapshot → apply → validate → audit → commit), tooling reference, repository topology, and pitfalls.
+
 ## Issues Overview
 
 **Total**: 100 | **Open**: 7 | **Closed**: 93

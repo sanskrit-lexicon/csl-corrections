@@ -6,6 +6,18 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **csl-corrections** is a Sanskrit Lexicon **data-store** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
+## Correction Workflow (authoritative)
+
+The end-to-end workflow for applying corrections to dictionary text in `csl-orig` lives in **[docs/correction-workflow.md](docs/correction-workflow.md)**. That document is the authoritative reference for:
+
+- Repository topology (which sibling repos must be cloned together and why)
+- The 8-stage workflow (snapshot → apply → promote → regenerate → validate → audit → commit → refresh)
+- The full tooling reference (every script that runs and what it does)
+- Which workflow to use for which correction type (markup, link target, scholarly, etc.)
+- Pitfalls and gotchas (BOM, `<LEND>`, CRLF, line-count mismatches, `xmllint` setup)
+
+Read it once end-to-end on first contact; refer back to § 4 (reference) and § 8 (gotchas) thereafter.
+
 ## Repo Category
 
 `data-store` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
