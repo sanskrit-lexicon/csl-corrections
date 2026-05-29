@@ -1,61 +1,54 @@
 Sanskrit Lexicon Correction Form History
-As of May 20, 2026
-9 correction records, with 9 PENDING
-
-Case 9: 05/19/2026 dict=AP, L=12241.032, hw=kimuta, user=srhodes
-old = karobhi
-new = karomi
-status = PENDING
-------------------------------------------------------------------------
+As of May 29, 2026
+8 correction records, with 0 PENDING
 
 Case 8: 05/19/2026 dict=AP, L=12241.032, hw=kimuta, user=srhodes
-old = ekaikama yanarthāya
-new = ekaikam anarthāya
-status = PENDING
+old = karobhi
+new = karomi
+status = Corrected 29 May 2026
 ------------------------------------------------------------------------
 
-Case 7: 05/19/2026 dict=AP, L=12241.03, hw=kimu, user=srhodes
+Case 7: 05/19/2026 dict=AP, L=12241.032, hw=kimuta, user=srhodes
 old = ekaikama yanarthāya
 new = ekaikam anarthāya
-status = PENDING
+status = Corrected 29 May 2026
 ------------------------------------------------------------------------
 
 Case 6: 05/19/2026 dict=AP, L=12241.03, hw=kimu, user=srhodes
+old = ekaikama yanarthāya
+new = ekaikam anarthāya
+status = Corrected 29 May 2026. ekEkamapyanarTAya in slp1.
+------------------------------------------------------------------------
+
+Case 5: 05/19/2026 dict=AP, L=12241.03, hw=kimu, user=srhodes
 old = karobhi
 new = karomi
 comment = Typo – This is a clear OCR misread. Please make this a Global Correction as well.
-status = PENDING
+status = Corrected 29 May 2026. Global corrections made.
 ------------------------------------------------------------------------
 
-Case 5: 05/19/2026 dict=LRV, L=8675, hw=kalyavarta, user=srhodes
+Case 4: 05/19/2026 dict=LRV, L=8675, hw=kalyavarta, user=srhodes
 old = break-fast
 new = breakfast
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
-Case 4: 05/19/2026 dict=LRV, L=8673.1, hw=kalyajagdhi, user=srhodes
+Case 3: 05/19/2026 dict=LRV, L=8673.1, hw=kalyajagdhi, user=srhodes
 old = break-fast
 new = breakfast
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
-Case 3: 05/19/2026 dict=LRV, L=8673, hw=kalyāśa, user=srhodes
+Case 2: 05/19/2026 dict=LRV, L=8673, hw=kalyāśa, user=srhodes
 old = break-fast
 new = breakfast
-status = PENDING
-------------------------------------------------------------------------
-
-Case 2: 05/19/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 1: 05/19/2026 dict=PW, L=83514 , hw=mar, user=frank.ziesing
 old = aṛta LB — 1〉 gestorben, verstorben, todt
 new = mṛta LB — 1〉 gestorben, verstorben, todt
 comment = Typo: should be "m" instead of "a" in mṛta
-status = PENDING
+status = Corrected 29 May 2026
 ------------------------------------------------------------------------
 
