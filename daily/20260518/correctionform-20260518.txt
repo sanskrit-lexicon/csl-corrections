@@ -1,73 +1,52 @@
 Sanskrit Lexicon Correction Form History
-As of May 19, 2026
-10 correction records, with 10 PENDING
+As of May 29, 2026
+7 correction records, with 0 PENDING
 
-Case 10: 05/18/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 9: 05/18/2026 dict=AP, L=12241, hw=kim, user=srhodes
+Case 7: 05/18/2026 dict=AP, L=12241, hw=kim, user=srhodes
 old = kimica hi madhurāṇāṃ
 new = kimiva hi madhurāṇāṃ
-status = PENDING
+status = Corrected 28 May 2026
 ------------------------------------------------------------------------
 
-Case 8: 05/18/2026 dict=AP, L=12235, hw=kit, user=srhodes
+Case 6: 05/18/2026 dict=AP, L=12235, hw=kit, user=srhodes
 old = cikitti
 new = ciketti
 comment = Typo – The form "cikitti" does not exist in valid classical or Vedic verbal paradigms; where it appears in digital editions or online search results, it is almost invariably an optical character recognition (OCR) typo for a desiderative stem
-status = PENDING
+status = Corrected 28 May 2026
 ------------------------------------------------------------------------
 
-Case 7: 05/18/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 6: 05/18/2026 dict=AP, L=12229.002, hw=kiṭṭakam, user=srhodes
+Case 5: 05/18/2026 dict=AP, L=12229.002, hw=kiṭṭakam, user=srhodes
 old = yāt kiṭṭaṃ keśalomāsthnormajjaḥ
 new = syāt kiṭṭaṃ keśalomāsthno majjñaḥ
 comment = Typo – Also, please note that the marking: "{sic}", may be removed from the Window Display.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 5: 05/18/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 28 May 2026
 ------------------------------------------------------------------------
 
 Case 4: 05/18/2026 dict=ap, L=, hw=sUd, user=jim
 old = sUd  sUd  [Printed book page 1698-2]  sUd  I. 1 Ā. <!!!>(sUdte)<!!!> 1 To strike, hurt, wound, kill, destroy. 2 To effuse, pour out. 3 To deposit.
 new = sUdate
 comment = 
-status = PENDING
+status = Already corrected
 ------------------------------------------------------------------------
 
 Case 3: 05/18/2026 dict=SHS, L=9592, hw=kalpadruma, user=srhodes
 old = every thing
 new = everything
 comment = Typo – It should be changed to "everything" (as a single word). LB In modern standard English, "everything" is the correct pronoun to mean all things or all instances. LB The appearance of "every thing" as two words in the Shabda-Sagara entry for kalpadruma is simply a typographic relic of 19th-century printing conventions (faithfully digitized from Horace Hayman Wilson's original 1819 text). In that era, terms like every thing, any thing, and some thing were routinely spaced as two distinct words. Modernizing it to a single word is the correct fix for standard readability and searchability.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 2: 05/18/2026 dict=SHS, L=9589, hw=kalpa, user=srhodes
 old = day and night
 new = day
 comment = Typo – It should absolutely be changed to just "day." Defining a kalpa as a "day and night of BRAHMĀ" is a clear cosmological and mathematical error in the Shabda-Sagara (inherited from Horace Hayman Wilson's 1819 dictionary).
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 1: 05/18/2026 dict=SHS, L=9583, hw=kalevara, user=srhodes
 old = ablative
 new = locative
 comment = Typo – Because the compound explicitly retains the inflected element kale, it is structurally an aluk-samāsa (a compound that bypasses the typical elision of internal case endings) preserving the locative singular termination.
-status = PENDING
+status = Corrected 28 May 2026
 ------------------------------------------------------------------------
 
