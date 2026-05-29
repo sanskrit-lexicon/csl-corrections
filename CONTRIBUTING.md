@@ -1,17 +1,16 @@
-# Contributing
+# Contributing to csl-corrections
 
-Thank you for your interest in contributing to a Sanskrit Lexicon tooling repository.
+csl-corrections is a meta / cross-cutting repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project.
 
-## Workflow
+> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes (with tests where appropriate)
-4. Submit a pull request
+## Where to file issues
 
-## Issue Labels
+Issues that span multiple dictionaries belong here. Single-dictionary corrections go in the relevant dictionary repo (PWG, MWS, AP90, …).
 
-This repository uses the **Cologne tooling-repo taxonomy**:
-- **Type**: bug, feature, enhancement, performance, tech-debt, security, documentation, infrastructure, question
-- **Severity**: trivial, minor, major, critical
-- **Milestone**: API Stability, User Experience, Data Quality, Developer Experience, Community
+## Pull requests
+
+See the org-wide standard. PR checklist:
+- [ ] Affected dictionaries listed in the PR description
+- [ ] Cross-references to per-dictionary issues, if any
+- [ ] No unrelated changes
