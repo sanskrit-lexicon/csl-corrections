@@ -1,0 +1,46 @@
+Sanskrit Lexicon Correction Form History for AP
+As of May 30, 2026
+6 correction records, with 6 PENDING
+
+Case 8: 05/29/2026 dict=AP, L=12319.034, hw=kucela, user=srhodes
+old = placed out of order
+new = The word kucela is placed out of order! LB Text Sequence: kucara, kucela, kucaritram, kucaryā, kucodyam LB The vowel e in kucela (c-e) comes after the vowel a in kucaritram (c-a) and kucaryā (c-a). Therefore, kucela should appear later in the list. LB Corrected Order: kucara, kucaritram, kucaryā, kucela, kucodyam.
+comment = placed out of order
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/29/2026 dict=AP, L=12343, hw=kucara, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kukūlam" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/29/2026 dict=AP, L=12319.032, hw=kucara, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kukūlam" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/29/2026 dict=AP, L=12318.02, hw=kucara, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kukūlam" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/29/2026 dict=AP, L=12330.002, hw=kukūlam, user=srhodes
+old = Homonym Number Missing
+new = Since the Headword: "kukūlam" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/29/2026 dict=AP, L=12319.024, hw=kukūlam, user=srhodes
+old = Homonym Number Missing
+new = Since the Headword: "kukūlam" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
+comment = Homonym Number Missing
+status = PENDING
+------------------------------------------------------------------------
+
