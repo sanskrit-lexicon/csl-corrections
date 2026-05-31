@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History
-As of May 22, 2026
-3 correction records, with 3 PENDING
+As of May 31, 2026
+3 correction records, with 0 PENDING
 
 Case 3: 05/21/2026 dict=AP, L=12244.03, hw=kiyanmātraḥ, user=srhodes
 old = kiyanmātraḥ
 new = kiyanmātram
 comment = Typo – This is an Alternative Correction based upon the previous commentary; and I am posting this option here for your consideration. But The Salient Point is that Maculine Gender is Incorrect! So Correction MUST BE MADE: either as Adjective or Neuter substantive. There is NO other option!
-status = PENDING
+status = It is not clear whether this can not be masculine and must be neuter
 ------------------------------------------------------------------------
 
 Case 2: 05/21/2026 dict=AP, L=12244.03, hw=kiyanmātraḥ, user=srhodes
 old = kiyanmātraḥ
 new = kiyanmātra a.
 comment = Typo – Please note that this is a suggested "Print Change", from the RESTRICTIVE Masculine Gender, which is absolutely incorrect. This Headword Functions either as an Adjective (as per Monier Williams); OR in classical Sanskrit, when words ending in -mātra are used substantively as an independent noun meaning “a small amount" or adverbially "merely a little", standard Pāṇinian grammar dictates they must be locked into the neuter singular. THEREFORE, listing this Headword in the Masculine Gender is an error of Limitation that should be corrected! Would Andhrabharati like to comment? LB Please note that the correction suggested here: "kiyanmātra a."  Specifically Means "kiyanmātra mfn." Adjective!
-status = PENDING
+status = No change required. It seems that the referred meaning is not the adjective. It is a noun itself. It is a different question whether this is masculine or neuter
 ------------------------------------------------------------------------
 
 Case 1: 05/21/2026 dict=AP, L=12242, hw=kiṃvaraḥ, user=srhodes
 old = kiṃvaraḥ
 new = kiṃbaraḥ
 comment = Typo – The entry cites Māna. 18.311, which refers to the Mānasāra, a classical Sanskrit treatise on architecture and iconography (Vāstu Śāstra). Across parallel lexicons and critical editions of the Mānasāra, the creature described as a crocodile or sea-monster is explicitly listed as kiṃbara.
-status = PENDING
+status = Not enough information to decide whether this is kibarI / kimbarI /kimbaraH etc.
 ------------------------------------------------------------------------
 
