@@ -1,0 +1,10 @@
+Sanskrit Lexicon Correction Form History for MW
+As of May 31, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 05/30/2026 dict=MW, L=87491.10, hw=trayodaśa, user=czhao
+old = missing "+" sign. compare ID=113667 pañcadaśa:  "+ 15".
+new = (śata, 100) + 13
+status = PENDING
+------------------------------------------------------------------------
+

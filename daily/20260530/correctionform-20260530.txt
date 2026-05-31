@@ -1,0 +1,38 @@
+Sanskrit Lexicon Correction Form History
+As of May 31, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 05/30/2026 dict=AP, L=12447, hw=kutapaḥ, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kutapaḥ" has a DOUBLE Listing within AP57, the numbers "1" and "2" should be used as indicators for distinguishing between the two. For example: "1. kutapaḥ" = Page 0576-1 (The Prefix Block); "2. kutapaḥ" = Page 0581-1 (The Alphabetical Main Entry). LB FYI – In many 19th and early 20th-century Sanskrit dictionaries, words beginning with prolific prefixes (like ku-, meaning "bad," "slight," or "earth") were grouped in massive, dense blocks under the prefix itself. Later revised editions often tried to make dictionaries more user-friendly by adding normal alphabetical entries, which occasionally resulted in redundant overlap. LB The Important Point Is This: "kutapaḥ" has been Double Listed in AP57, and as such the Numbers "1" and "2" should be used, exactly like in MW Dictionary. Also, with the ability to click on one or the other to be "Transported" to That Location in the Hierarchy List Column.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/30/2026 dict=AP, L=12319.048, hw=kutapaḥ, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kutapaḥ" has a DOUBLE Listing within AP57, the numbers "1" and "2" should be used as indicators for distinguishing between the two. For example: "1. kutapaḥ" = Page 0576-1 (The Prefix Block); "2. kutapaḥ" = Page 0581-1 (The Alphabetical Main Entry). LB FYI – In many 19th and early 20th-century Sanskrit dictionaries, words beginning with prolific prefixes (like ku-, meaning "bad," "slight," or "earth") were grouped in massive, dense blocks under the prefix itself. Later revised editions often tried to make dictionaries more user-friendly by adding normal alphabetical entries, which occasionally resulted in redundant overlap. LB The Important Point Is This: "kutapaḥ" has been Double Listed in AP57, and as such the Numbers "1" and "2" should be used, exactly like in MW Dictionary. Also, with the ability to click on one or the other to be "Transported" to That Location in the Hierarchy List Column.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/30/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/30/2026 dict=SHS, L= 34597, hw=लोभमोहित, user=snbt98
+old = भोहित
+new = मोहित
+comment = Typo in the etymology
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 05/30/2026 dict=MW, L=87491.10, hw=trayodaśa, user=czhao
+old = missing "+" sign. compare ID=113667 pañcadaśa:  "+ 15".
+new = (śata, 100) + 13
+status = PENDING
+------------------------------------------------------------------------
+
