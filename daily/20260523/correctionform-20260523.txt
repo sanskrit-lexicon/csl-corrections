@@ -1,25 +1,18 @@
 Sanskrit Lexicon Correction Form History
-As of May 24, 2026
-3 correction records, with 3 PENDING
+As of May 31, 2026
+2 correction records, with 0 PENDING
 
-Case 3: 05/23/2026 dict=AP, L=12281.002, hw=kiṣkindhyaḥ, user=srhodes
+Case 2: 05/23/2026 dict=AP, L=12281.002, hw=kiṣkindhyaḥ, user=srhodes
 old = -ndhyaḥ
 new = DELETE ENTRY
 comment = Typo – the form kiṣkindhyaḥ (and its feminine counterpart, kiṣkindhyā) is technically incorrect—an apaśabda—according to strict Pāṇinian grammar. In Pāṇini 6.1.157, the listed form is strictly kiṣkindhā (or the masculine base kiṣkindha). The pāraskarādi gaṇa does not contain the ya-kāra (-ya suffix). Therefore, deriving kiṣkindhyaḥ directly via 6.1.157 is grammatically impossible. To achieve the form kiṣkindhyaḥ, one would need to apply a secondary taddhita affix to the base noun kiṣkindhā. However, doing so would technically change the semantic meaning to "belonging to Kiṣkindhā" (an adjective) rather than functioning as the primary name of the mountain or country itself, which is how Apte defines it here.  LB Like many 19th-century lexicographers, Apte often took a descriptive rather than purely prescriptive approach. The forms kiṣkindhyaḥ and kiṣkindhyā appear extensively throughout Vulgate manuscripts of the Rāmāyaṇa and the Mahābhārata. LB While traditional commentators frequently point out that the -ya suffix in epic literature is an ungrammatical ārṣa prayoga (epic license) or a scribal hypercorrection, Apte recorded it because of its high frequency in print. However, by directly appending the reference [P. VI. 1. 157.] next to -ndhyaḥ, the dictionary conflates a strict, rule-bound grammatical derivation with a loose epic variant. LB For an accurate dictionary integration grounded purely in classical Pāṇinian derivation, the headword must remain kiṣkindhaḥ (or kiṣkindhā).
-status = PENDING
+status = It is a valid word as per remarks above
 ------------------------------------------------------------------------
 
-Case 2: 05/23/2026 dict=AP, L=12281, hw=kiṣkindhaḥ, user=srhodes
+Case 1: 05/23/2026 dict=AP, L=12281, hw=kiṣkindhaḥ, user=srhodes
 old = -ndhyaḥ
 new = DELETE ENTRY
 comment = Typo – the form kiṣkindhyaḥ (and its feminine counterpart, kiṣkindhyā) is technically incorrect—an apaśabda—according to strict Pāṇinian grammar. In Pāṇini 6.1.157, the listed form is strictly kiṣkindhā (or the masculine base kiṣkindha). The pāraskarādi gaṇa does not contain the ya-kāra (-ya suffix). Therefore, deriving kiṣkindhyaḥ directly via 6.1.157 is grammatically impossible. To achieve the form kiṣkindhyaḥ, one would need to apply a secondary taddhita affix to the base noun kiṣkindhā. However, doing so would technically change the semantic meaning to "belonging to Kiṣkindhā" (an adjective) rather than functioning as the primary name of the mountain or country itself, which is how Apte defines it here.  LB Like many 19th-century lexicographers, Apte often took a descriptive rather than purely prescriptive approach. The forms kiṣkindhyaḥ and kiṣkindhyā appear extensively throughout Vulgate manuscripts of the Rāmāyaṇa and the Mahābhārata. LB While traditional commentators frequently point out that the -ya suffix in epic literature is an ungrammatical ārṣa prayoga (epic license) or a scribal hypercorrection, Apte recorded it because of its high frequency in print. However, by directly appending the reference [P. VI. 1. 157.] next to -ndhyaḥ, the dictionary conflates a strict, rule-bound grammatical derivation with a loose epic variant. LB For an accurate dictionary integration grounded purely in classical Pāṇinian derivation, the headword must remain kiṣkindhaḥ (or kiṣkindhā).
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 05/23/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = It is a valid word as per authority of SKD. किं किं दधातीति धा पारस्कारादि-  सुटि पूर्व्वमलोपे च स्वार्थे यत् प्रत्ययेन नि-  पातनात् साधुः 
 ------------------------------------------------------------------------
 
