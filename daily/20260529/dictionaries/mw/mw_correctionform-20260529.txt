@@ -1,16 +1,16 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 30, 2026
-2 correction records, with 2 PENDING
+As of June 01, 2026
+2 correction records, with 0 PENDING
 
-Case 11: 05/29/2026 dict=MW, L=  256524 , hw=spardhA, user=chandan.mazumdar
+Case 8: 05/29/2026 dict=MW, L=  256524 , hw=spardhA, user=chandan.mazumdar
 old = dee below
 new = see below
-status = PENDING
+status = Corrected 01 June 2026
 ------------------------------------------------------------------------
 
-Case 10: 05/29/2026 dict=MW, L=184157.85, hw=va, user=srhodes
+Case 7: 05/29/2026 dict=MW, L=184157.85, hw=va, user=srhodes
 old = = pra-catas
 new = = pra-cetas
-status = PENDING
+status = Corrected 01 June 2026
 ------------------------------------------------------------------------
 
