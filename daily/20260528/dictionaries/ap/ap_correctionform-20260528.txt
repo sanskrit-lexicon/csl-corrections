@@ -1,81 +1,81 @@
 Sanskrit Lexicon Correction Form History for AP
-As of May 29, 2026
-11 correction records, with 11 PENDING
+As of June 01, 2026
+11 correction records, with 0 PENDING
 
-Case 15: 05/28/2026 dict=AP, L=12626, hw=kuvalayam, user=srhodes
+Case 14: 05/28/2026 dict=AP, L=12626, hw=kuvalayam, user=srhodes
 old = Homonym Number Missing
 new = Since the Headword: "kubhṛt" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
 comment = Homonym Number Missing
-status = PENDING
+status = Separately tracked elsewhere
 ------------------------------------------------------------------------
 
-Case 14: 05/28/2026 dict=AP, L=12318.034, hw=kuvalayam, user=srhodes
+Case 13: 05/28/2026 dict=AP, L=12318.034, hw=kuvalayam, user=srhodes
 old = Homonym Number Missing
 new = Since the Headword: "kubhṛt" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
 comment = Homonym Number Missing
-status = PENDING
+status = Separately tracked elsewhere
 ------------------------------------------------------------------------
 
-Case 13: 05/28/2026 dict=AP, L=12511, hw=kubhṛt, user=srhodes
+Case 12: 05/28/2026 dict=AP, L=12511, hw=kubhṛt, user=srhodes
 old = Homonym Number Missing
 new = Since the Headword: "kubhṛt" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
 comment = Homonym Number Missing
-status = PENDING
+status = Separately tracked elsewhere
 ------------------------------------------------------------------------
 
-Case 12: 05/28/2026 dict=AP, L=12318.032, hw=kubhṛt, user=srhodes
+Case 11: 05/28/2026 dict=AP, L=12318.032, hw=kubhṛt, user=srhodes
 old = Homonym Number Missing
 new = Since the Headword: "kubhṛt" is a Homonym with TWO Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" and "2", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column.
 comment = Homonym Number Missing
-status = PENDING
+status = Separately tracked elsewhere
 ------------------------------------------------------------------------
 
-Case 11: 05/28/2026 dict=AP, L=12318.022, hw=kudinam, user=srhodes
+Case 10: 05/28/2026 dict=AP, L=12318.022, hw=kudinam, user=srhodes
 old = Āryabhaṭṭa
 new = The word "Āryabhaṭṭa" is a Citation Reference, and therefore requires the Correct "FONT" etc. to distinguish it from the "Definition Proper".
 comment = Citation Markup Missing
-status = PENDING
+status = Corrected 01 June 2026
 ------------------------------------------------------------------------
 
-Case 10: 05/28/2026 dict=AP, L=12343.002, hw=kucaraḥ, user=srhodes
+Case 9: 05/28/2026 dict=AP, L=12343.002, hw=kucaraḥ, user=srhodes
 old = kucara + .-raḥ
 new = You might have noticed the strange kucara + .-raḥ notation currently displayed in your browser window. This is simply a digitization and parsing artifact from the University of Cologne's database for the 1957 print edition. It is likely a garbled OCR attempt to render a masculine nominative indicator or a structural dash from the original physical book. It does not reflect a unique linguistic suffix or a third distinct derivation.
 comment = A Note on the Display Artifact
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 6: 05/28/2026 dict=AP, L=12343, hw=kucara, user=srhodes
 old = The Lexicographical Verdict
 new = FYI —  Older print lexicons like Apte's 1957 edition frequently compressed words with identical spellings under single visual headers or adjacent blocks simply to save physical ink and page space. LB —However, because the first element (ku) functions as two entirely different grammatical entities (a declined noun vs. an indeclinable prefix), they possess distinct underlying Pāṇinian derivations. Splitting them into kucara I (earth) and kucara II (depreciative) eliminates ambiguity, prevents mixed definitions (like Apte's confusing third block), and ensures a much cleaner hierarchy for structural mapping.
 comment = The Lexicographical Verdict
-status = PENDING
+status = Separately tracked elsewhere
 ------------------------------------------------------------------------
 
 Case 5: 05/28/2026 dict=AP, L=12343, hw=kucara, user=srhodes
 old = Homonym Number Missing
 new = Since the Headword: "kucara" is a Homonym with THREE Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" , "2" and "3", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column. ALSO, the respective Homonym Number should appear to the Right Side of each of the Three Headwords in the Hierarchy List Column as well, for ease of identification. LB Also, as a side note, it is entirely possible that there should only be TWO Homonyms, tracing to the Two Obvious Etymologies: 1) "ku" = "earth"  AND 2) "ku" = "badness". This would involve some "Thought" and "Departure", from the AP57 TRIPLE Listing!
 comment = Homonym Number Missing
-status = PENDING
+status = Separately tracked elsewhere
 ------------------------------------------------------------------------
 
 Case 4: 05/28/2026 dict=AP, L=12319.032, hw=kucara, user=srhodes
 old = Homonym Number Missing
 new = Since the Headword: "kucara" is a Homonym with THREE Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" , "2" and "3", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column. ALSO, the respective Homonym Number should appear to the Right Side of each of the Three Headwords in the Hierarchy List Column as well, for ease of identification. LB Also, as a side note, it is entirely possible that there should only be TWO Homonyms, tracing to the Two Obvious Etymologies: 1) "ku" = "earth"  AND 2) "ku" = "badness". This would involve some "Thought" and "Departure", from the AP57 TRIPLE Listing!
 comment = Homonym Number Missing
-status = PENDING
+status = Separately tracked elsewhere
 ------------------------------------------------------------------------
 
 Case 3: 05/28/2026 dict=AP, L=12318.02, hw=kucara, user=srhodes
 old = Homonym Number Missing
 new = Since the Headword: "kucara" is a Homonym with THREE Separate Listing Locations in the Hierarchy List Column, a Protocol similar to MW Dictionary should be employed by introducing the Numberings: "1" , "2" and "3", along with the ability to "CLICK" upon One or the Other Headword in the Window Display in order to be "Transported" to the Related Location within the Hiearchy List Column. ALSO, the respective Homonym Number should appear to the Right Side of each of the Three Headwords in the Hierarchy List Column as well, for ease of identification. LB Also, as a side note, it is entirely possible that there should only be TWO Homonyms, tracing to the Two Obvious Etymologies: 1) "ku" = "earth"  AND 2) "ku" = "badness". This would involve some "Thought" and "Departure", from the AP57 TRIPLE Listing!
 comment = Homonym Number Missing
-status = PENDING
+status = Separately tracked elsewhere.
 ------------------------------------------------------------------------
 
 Case 2: 05/28/2026 dict=AP, L=12318, hw=kuḥ, user=srhodes
 old = kucaṃ
 new = kucaḥ
 comment = Typo – Please note that this is a suggested "Print Change", because it is Unanimously Declared that the word "kuca" is strictly a Masculine Gender word and NOT Neuter. I understand that there may be various "metric" reasons for the form being listed in this way, however any such "metric" reason has been "eliminated", by placing this snippet in Apte Dictionary.
-status = PENDING
+status = Corrected to kucaH on the authority of Saubhari at https://github.com/drdhaval2785/sanskrit-lexica-ocr/blob/master/ekarthanamamala_saubhari/orig/ekarthanamamala.txt which is referred.
 ------------------------------------------------------------------------
 
