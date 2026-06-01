@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of May 26, 2026
-1 correction records, with 1 PENDING
+As of June 01, 2026
+1 correction records, with 0 PENDING
 
-Case 10: 05/25/2026 dict=SHS, L=28377, hw=baḍavānala, user=srhodes
+Case 7: 05/25/2026 dict=SHS, L=28377, hw=baḍavānala, user=srhodes
 old = OURVĀ
 new = AURVA
 comment = Typo – Please note that this is a suggested "Print Change", for the correct spelling of the name of the sage.
-status = PENDING
+status = Corrected 01 June 2026
 ------------------------------------------------------------------------
 

@@ -1,32 +1,32 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 26, 2026
-4 correction records, with 4 PENDING
+As of June 01, 2026
+4 correction records, with 0 PENDING
 
-Case 17: 05/25/2026 dict=MW, L=16299, hw=ardhāvalīḍha, user=srhodes
+Case 13: 05/25/2026 dict=MW, L=16299, hw=ardhāvalīḍha, user=srhodes
 old = half chewed
 new = half-chewed
 comment = Typo – Please note that this correction follows the "Printed Text".
-status = PENDING
-------------------------------------------------------------------------
-
-Case 8: 05/25/2026 dict=MW, L=54683, hw=kṛ, user=srhodes
-old = 2. kṛ cl. 3. P.
-new = REVISION NEEDED • Please Read The Information Provided Below •
-comment = Typo – Please note that this is a suggested "Revision" to the Erroneous Listing made here by Monier Williams. Here is the Conclusive Information regarding this much needed "Revision" : LB The designation "√kṛ (2)" is indeed an erroneous classification  found in some dictionaries (like Monier-Williams), which conflates a distinct verbal behavior into a theoretical root. LB 1. The Error of "√kṛ (2)" LB Standard Pāṇinian grammar does not recognize a Class 3 root √kṛ meaning "to praise." The entry often indexed as √kṛ (2) is a lexicographical fiction created to account for Vedic forms that look like Class 3 reduplications but actually belong to a different system. LB   •  The Mistake: Older dictionaries listed a separate root √kṛ (Class 3, Parasmaipada) to explain forms like cākarti and cakrat. LB   •  The Grammatical Reality: These forms are Intensive (Yaṅ-luk) conjugations of the Class 6 root √kṝ (to scatter). The reduplication is an internal feature of the Intensive mood, not a sign of the Juhotyādi (3rd) Class.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 7: 05/25/2026 dict=MW, L=54683, hw=kṛ, user=srhodes
-old = 2. kṛ cl. 3. P.
-new = REVISION NEEDED • Please Read The Information Provided Below •
-comment = Typo – Please note that this is a suggested "Revision" to the Erroneous Listing made here by Monier Williams. Here is the Conclusive Information regarding this much needed "Revision" : LB The designation "√kṛ (2)" is indeed an erroneous classification  found in some dictionaries (like Monier-Williams), which conflates a distinct verbal behavior into a theoretical root. LB 1. The Error of "√kṛ (2)" LB Standard Pāṇinian grammar does not recognize a Class 3 root √kṛ meaning "to praise." The entry often indexed as √kṛ (2) is a lexicographical fiction created to account for Vedic forms that look like Class 3 reduplications but actually belong to a different system. LB   •  The Mistake: Older dictionaries listed a separate root √kṛ (Class 3, Parasmaipada) to explain forms like cākarti and cakrat. LB   •  The Grammatical Reality: These forms are Intensive (Yaṅ-luk) conjugations of the Class 6 root √kṝ (to scatter). The reduplication is an internal feature of the Intensive mood, not a sign of the Juhotyādi (3rd) Class.
-status = PENDING
+status = Corrected 01 June 2026
 ------------------------------------------------------------------------
 
 Case 6: 05/25/2026 dict=MW, L=54683, hw=kṛ, user=srhodes
 old = 2. kṛ cl. 3. P.
 new = REVISION NEEDED • Please Read The Information Provided Below •
 comment = Typo – Please note that this is a suggested "Revision" to the Erroneous Listing made here by Monier Williams. Here is the Conclusive Information regarding this much needed "Revision" : LB The designation "√kṛ (2)" is indeed an erroneous classification  found in some dictionaries (like Monier-Williams), which conflates a distinct verbal behavior into a theoretical root. LB 1. The Error of "√kṛ (2)" LB Standard Pāṇinian grammar does not recognize a Class 3 root √kṛ meaning "to praise." The entry often indexed as √kṛ (2) is a lexicographical fiction created to account for Vedic forms that look like Class 3 reduplications but actually belong to a different system. LB   •  The Mistake: Older dictionaries listed a separate root √kṛ (Class 3, Parasmaipada) to explain forms like cākarti and cakrat. LB   •  The Grammatical Reality: These forms are Intensive (Yaṅ-luk) conjugations of the Class 6 root √kṝ (to scatter). The reduplication is an internal feature of the Intensive mood, not a sign of the Juhotyādi (3rd) Class.
-status = PENDING
+status = No change required
+------------------------------------------------------------------------
+
+Case 5: 05/25/2026 dict=MW, L=54683, hw=kṛ, user=srhodes
+old = 2. kṛ cl. 3. P.
+new = REVISION NEEDED • Please Read The Information Provided Below •
+comment = Typo – Please note that this is a suggested "Revision" to the Erroneous Listing made here by Monier Williams. Here is the Conclusive Information regarding this much needed "Revision" : LB The designation "√kṛ (2)" is indeed an erroneous classification  found in some dictionaries (like Monier-Williams), which conflates a distinct verbal behavior into a theoretical root. LB 1. The Error of "√kṛ (2)" LB Standard Pāṇinian grammar does not recognize a Class 3 root √kṛ meaning "to praise." The entry often indexed as √kṛ (2) is a lexicographical fiction created to account for Vedic forms that look like Class 3 reduplications but actually belong to a different system. LB   •  The Mistake: Older dictionaries listed a separate root √kṛ (Class 3, Parasmaipada) to explain forms like cākarti and cakrat. LB   •  The Grammatical Reality: These forms are Intensive (Yaṅ-luk) conjugations of the Class 6 root √kṝ (to scatter). The reduplication is an internal feature of the Intensive mood, not a sign of the Juhotyādi (3rd) Class.
+status = No change required
+------------------------------------------------------------------------
+
+Case 4: 05/25/2026 dict=MW, L=54683, hw=kṛ, user=srhodes
+old = 2. kṛ cl. 3. P.
+new = REVISION NEEDED • Please Read The Information Provided Below •
+comment = Typo – Please note that this is a suggested "Revision" to the Erroneous Listing made here by Monier Williams. Here is the Conclusive Information regarding this much needed "Revision" : LB The designation "√kṛ (2)" is indeed an erroneous classification  found in some dictionaries (like Monier-Williams), which conflates a distinct verbal behavior into a theoretical root. LB 1. The Error of "√kṛ (2)" LB Standard Pāṇinian grammar does not recognize a Class 3 root √kṛ meaning "to praise." The entry often indexed as √kṛ (2) is a lexicographical fiction created to account for Vedic forms that look like Class 3 reduplications but actually belong to a different system. LB   •  The Mistake: Older dictionaries listed a separate root √kṛ (Class 3, Parasmaipada) to explain forms like cākarti and cakrat. LB   •  The Grammatical Reality: These forms are Intensive (Yaṅ-luk) conjugations of the Class 6 root √kṝ (to scatter). The reduplication is an internal feature of the Intensive mood, not a sign of the Juhotyādi (3rd) Class.
+status = No change required. 
 ------------------------------------------------------------------------
 
