@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History
+As of June 03, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 06/02/2026 dict=AP, L=12502, hw=kupūya, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kupūya" has a DOUBLE Listing within AP57, the numbers "1" and "2" should be used as indicators for distinguishing between the two. For example: "1. kupūya" = Page 0576-2 (The Prefix Block); "2. kupūya" = Page 0583-1 (The Alphabetical Main Entry). Also, with the ability to click on one or the other to be "Transported" to That Location in the Hierarchy List Column, just like in MW dictionary. LB FYI – In many 19th and early 20th-century Sanskrit dictionaries, words beginning with prolific prefixes (like ku-, meaning "bad," "slight," or "earth") were grouped in massive, dense blocks under the prefix itself. Later revised editions often tried to make dictionaries more user-friendly by adding normal alphabetical entries, which occasionally resulted in redundant overlap. LB The Important Point Is This: "kutapaḥ" has been Double Listed in AP57, and as such the Numbers "1" and "2" should be used, exactly like in MW Dictionary. Also, with the ability to click on one or the other to be "Transported" to That Location in the Hierarchy List Column.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/02/2026 dict=AP, L=12319.094, hw=kupūya, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kupūya" has a DOUBLE Listing within AP57, the numbers "1" and "2" should be used as indicators for distinguishing between the two. For example: "1. kupūya" = Page 0576-2 (The Prefix Block); "2. kupūya" = Page 0583-1 (The Alphabetical Main Entry). Also, with the ability to click on one or the other to be "Transported" to That Location in the Hierarchy List Column, just like in MW dictionary. LB FYI – In many 19th and early 20th-century Sanskrit dictionaries, words beginning with prolific prefixes (like ku-, meaning "bad," "slight," or "earth") were grouped in massive, dense blocks under the prefix itself. Later revised editions often tried to make dictionaries more user-friendly by adding normal alphabetical entries, which occasionally resulted in redundant overlap. LB The Important Point Is This: "kutapaḥ" has been Double Listed in AP57, and as such the Numbers "1" and "2" should be used, exactly like in MW Dictionary. Also, with the ability to click on one or the other to be "Transported" to That Location in the Hierarchy List Column.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/02/2026 dict=AP, L=12319.09, hw=kuputraḥ, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kuputraḥ" has a DOUBLE Listing within AP57, the numbers "1" and "2" should be used as indicators for distinguishing between the two. For example: "1. kuputraḥ" = Page 0576-1 (The Earth Block); "2. kuputraḥ" = Page 0576-2 (The Depracative Block). Also, you should implement the ability to "click" and "navigate" to one or the other location, exactly as is implemented in MW Dictionary for the majority of Homonyms.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/02/2026 dict=AP, L=12318.031, hw=kuputraḥ, user=srhodes
+old = Homonym Numbers Missing
+new = Since the Headword: "kuputraḥ" has a DOUBLE Listing within AP57, the numbers "1" and "2" should be used as indicators for distinguishing between the two. For example: "1. kuputraḥ" = Page 0576-1 (The Earth Block); "2. kuputraḥ" = Page 0576-2 (The Depracative Block). Also, you should implement the ability to "click" and "navigate" to one or the other location, exactly as is implemented in MW Dictionary for the majority of Homonyms.
+comment = Homonym Numbers Missing
+status = PENDING
+------------------------------------------------------------------------
+
