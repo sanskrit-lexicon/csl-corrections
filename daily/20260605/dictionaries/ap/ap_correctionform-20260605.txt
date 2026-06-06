@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for AP
+As of June 06, 2026
+5 correction records, with 5 PENDING
+
+Case 6: 06/05/2026 dict=AP, L=12684, hw=kusṛtiḥ, user=srhodes
+old = praṇītā
+new = praṇītāḥ
+comment = Typo – The word praṇītā is missing its final visarga. Because it functions as a predicate adjective modifying the masculine plural subject vayam (we), the grammatically correct form must be praṇītāḥ. This is a common typesetting casualty at the end of printed lines in older editions.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 06/05/2026 dict=AP, L=12319.13, hw=kuvākya, user=srhodes
+old = kuvāgripūn
+new = kuvāgiṣūn 
+comment = Typo – Print Change!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/05/2026 dict=AP, L=12319.128, hw=kuvāc, user=srhodes
+old = kuvāgripūn
+new = kuvāgiṣūn 
+comment = Typo – Print Change!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/05/2026 dict=AP, L=12319.126, hw=kuvacas, user=srhodes
+old = kuvāgripūn
+new = kuvāgiṣūn 
+comment = Typo – Print Change!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/05/2026 dict=ap, L=, hw=Ir, user=jim
+old = ईर्  ईर्  [Printed book page 0392-2]  <!!!>ईर्  2 Ā. (इर्ते,<!!!> ईराञ्चके, ऐरिष्ट, ईरितुम्, ईर्ण); also 1 P. (p. p. ईरित) 1 To go, move, shake
+new = इर्ते ->  ईर्ते
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
