@@ -1,0 +1,31 @@
+Sanskrit Lexicon Correction Form History
+As of June 09, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 06/08/2026 dict=PW, L=  14843 , hw=āp, user=frank.ziesing
+old = — 3〉 Jmd (Acc.) Etwas abgeben, zu fühlen geben. Desid. īpsati und ˚te zu erreichen suchen, zu erlangen streben Tāṇḍya-Br. 20,3,2 . 
+new = — 3〉 Jmd (Acc.) Etwas abgeben, zu fühlen geben.  LB — Desid. īpsati und ˚te zu erreichen suchen, zu erlangen streben Tāṇḍya-Br. 20,3,2 . 
+comment = Typo: A new line should begin with "Desid. īpsati …"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/08/2026 dict=SHS, L=9816, hw=kācasthālī, user=srhodes
+old = Bignonia suave-olens
+new = Bignonia suaveolens
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/08/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/08/2026 dict=AP, L=12337, hw=kukṣiḥ, user=srhodes
+old = vibhustāsāmekaḥkukṣiṣvanekadhā
+new = vibhustāsāmekaḥ kukṣiṣvanekadhā
+comment = Typo – The visarga (ḥ) on ekaḥ preceding the hard consonant k (kukṣiṣu) does not trigger a sandhi merger that eliminates the word boundary.
+status = PENDING
+------------------------------------------------------------------------
+
