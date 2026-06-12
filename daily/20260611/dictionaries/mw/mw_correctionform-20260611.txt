@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for MW
+As of June 12, 2026
+3 correction records, with 3 PENDING
+
+Case 9: 06/11/2026 dict=MW, L=230381, hw=satattva, user=srhodes
+old = Homonym Alert
+new = Strictly speaking, 19th-century print lexicography (like Monier-Williams) often lumped homophonous derivations under a single headword to save space, relying on the reader to infer the differing derivations from the definitions. LB However, in the context of a modern digital lexicon (like the Cologne digital edition), keeping them lumped under the exact same morphological tree (sa—tattva) creates an analytical error. LB Though both result in the exact same word, their internal compound structures are fundamentally different. LB 1. Etymology A: The Philosophical Noun LB 2. Etymology B: The Meta-Linguistic Reference LB Therefore, to correctly digitize the Sanskrit morphology, these should be split into two distinct lexical entries or sub-trees: LB •  satattva 1: sa—tattva (sa + tattva) (abstract noun) → "knowing the real truth" LB •  satattva 2: sa—tat–tva [sa + tad (pron.) + tva (pron.)] → "containing the words tad and tva" LB I am suggesting that the above “Revision” be made! I challenge both Andhrabharati and Dr. Dhaval, to speak against this suggested Revision.
+comment = Homonym Alert
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 06/11/2026 dict=MW, L=230380, hw=satattva, user=srhodes
+old = Homonym Alert
+new = Strictly speaking, 19th-century print lexicography (like Monier-Williams) often lumped homophonous derivations under a single headword to save space, relying on the reader to infer the differing derivations from the definitions. LB However, in the context of a modern digital lexicon (like the Cologne digital edition), keeping them lumped under the exact same morphological tree (sa—tattva) creates an analytical error. LB Though both result in the exact same word, their internal compound structures are fundamentally different. LB 1. Etymology A: The Philosophical Noun LB 2. Etymology B: The Meta-Linguistic Reference LB Therefore, to correctly digitize the Sanskrit morphology, these should be split into two distinct lexical entries or sub-trees: LB •  satattva 1: sa—tattva (sa + tattva) (abstract noun) → "knowing the real truth" LB •  satattva 2: sa—tat–tva [sa + tad (pron.) + tva (pron.)] → "containing the words tad and tva" LB I am suggesting that the above “Revision” be made! I challenge both Andhrabharati and Dr. Dhaval, to speak against this suggested Revision.
+comment = Homonym Alert
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/11/2026 dict=MW, L=91226, hw=dātṛ, user=jc
+old = dā́˚tṛ́
+new = dātṛ́
+comment = The accent from the (correct) primary headword dā́tṛ has been wrongly carried over when expanding the secondary variant ˚tṛ́ (= dātṛ́).
+status = PENDING
+------------------------------------------------------------------------
+

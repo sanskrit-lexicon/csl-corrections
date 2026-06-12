@@ -1,0 +1,64 @@
+Sanskrit Lexicon Correction Form History
+As of June 12, 2026
+9 correction records, with 9 PENDING
+
+Case 9: 06/11/2026 dict=MW, L=230381, hw=satattva, user=srhodes
+old = Homonym Alert
+new = Strictly speaking, 19th-century print lexicography (like Monier-Williams) often lumped homophonous derivations under a single headword to save space, relying on the reader to infer the differing derivations from the definitions. LB However, in the context of a modern digital lexicon (like the Cologne digital edition), keeping them lumped under the exact same morphological tree (sa—tattva) creates an analytical error. LB Though both result in the exact same word, their internal compound structures are fundamentally different. LB 1. Etymology A: The Philosophical Noun LB 2. Etymology B: The Meta-Linguistic Reference LB Therefore, to correctly digitize the Sanskrit morphology, these should be split into two distinct lexical entries or sub-trees: LB •  satattva 1: sa—tattva (sa + tattva) (abstract noun) → "knowing the real truth" LB •  satattva 2: sa—tat–tva [sa + tad (pron.) + tva (pron.)] → "containing the words tad and tva" LB I am suggesting that the above “Revision” be made! I challenge both Andhrabharati and Dr. Dhaval, to speak against this suggested Revision.
+comment = Homonym Alert
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 06/11/2026 dict=MW, L=230380, hw=satattva, user=srhodes
+old = Homonym Alert
+new = Strictly speaking, 19th-century print lexicography (like Monier-Williams) often lumped homophonous derivations under a single headword to save space, relying on the reader to infer the differing derivations from the definitions. LB However, in the context of a modern digital lexicon (like the Cologne digital edition), keeping them lumped under the exact same morphological tree (sa—tattva) creates an analytical error. LB Though both result in the exact same word, their internal compound structures are fundamentally different. LB 1. Etymology A: The Philosophical Noun LB 2. Etymology B: The Meta-Linguistic Reference LB Therefore, to correctly digitize the Sanskrit morphology, these should be split into two distinct lexical entries or sub-trees: LB •  satattva 1: sa—tattva (sa + tattva) (abstract noun) → "knowing the real truth" LB •  satattva 2: sa—tat–tva [sa + tad (pron.) + tva (pron.)] → "containing the words tad and tva" LB I am suggesting that the above “Revision” be made! I challenge both Andhrabharati and Dr. Dhaval, to speak against this suggested Revision.
+comment = Homonym Alert
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 06/11/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 06/11/2026 dict=AP, L=12361.004, hw=kuṭaḥ, user=srhodes
+old = kuṭaḥ, -ṭam + .-ṭaḥ
+new = kuṭaḥ, -ṭam
+comment = Typo - This string is a typographical artifact from the printed edition’s attempt to show gender variations and compounding. Apte is trying to indicate that the word can be masculine (kuṭaḥ) or neuter (kuṭam), and the trailing kuṭa is a clunky editorial notation (likely meant to separate the first definition block from the second). You can safely ignore that messy string. The word simply declines as both a masculine (kuṭaḥ) and neuter (kuṭam) noun. As far as compounds are concerned, the standard protocol is obvious “kuṭa-”, and the inclusion of “+ .-ṭaḥ” is simply a mess!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 06/11/2026 dict=AP, L=12357.03, hw=kuñjaragrahaḥ, user=srhodes
+old = nāśvabandho'śvamājānanna
+new = nāśvabandho'śvamājānānna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/11/2026 dict=MWE, L=  [Printed book page 487-b], hw=matter, user=samm3
+old = mūrttiḥ
+new = mūrtiḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/11/2026 dict=MW, L=91226, hw=dātṛ, user=jc
+old = dā́˚tṛ́
+new = dātṛ́
+comment = The accent from the (correct) primary headword dā́tṛ has been wrongly carried over when expanding the secondary variant ˚tṛ́ (= dātṛ́).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/11/2026 dict=LRV, L=8871, hw=kāṃta, user=srhodes
+old = previous
+new = precious
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/11/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
