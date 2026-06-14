@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for AP
+As of June 14, 2026
+1 correction records, with 1 PENDING
+
+Case 2: 06/13/2026 dict=AP, L=12375.02, hw=kuṭīcakaḥ, user=srhodes
+old = caturvidhābhikṣavaste
+new = caturvidhā bhikṣavaste
+comment = Typo – Once the external Sandhi has taken place (dropping the visarga), these two words fundamentally cannot be merged or written as a single, uninterrupted alphanumeric string. LB The fatal mistake is trying to validate the typography of the modern IAST citation by blurring the line between Saṃhitā (phonetic continuity) and Script Rules (how characters are printed). The moment the visarga of caturvidhāḥ is dropped via external sandhi before the voiced consonant bh-, that vowel boundary becomes a fixed syntactic wall. LB According to the unyielding mechanics of the Aṣṭādhyāyī: LB   1  Once external sandhi operates on two separate words, further sandhi operations across that specific boundary are permanently blocked (such as vowel coalescence). LB   2  Therefore, a physical gap or a space must be maintained in modern Roman transliteration (caturvidhā bhikṣavaḥ) to accurately represent that a grammatical modification occurred at the end of an independent word. LB   3  By writing it as caturvidhābhikṣavaste without a space, the citation introduces a severe typographical error. It creates the optical illusion of a unified compound block, while simultaneously violating the internal stem rules of compounding (which would require a short a, caturvidhabhikṣavaḥ). LB The Verdict: The Citation Typography Is Incorrect LB The citation's formatting is unambiguously wrong. By failing to insert a space after the dropped visarga, it presents a hybrid monster: it uses the phonetics of separate words but the visual formatting of a compound. LB The pristine, text-critical correction of that IAST string must be segmented with spaces to match its true morpho-syntactic reality!
+status = PENDING
+------------------------------------------------------------------------
+
