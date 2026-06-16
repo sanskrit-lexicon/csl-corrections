@@ -1,0 +1,23 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of June 16, 2026
+3 correction records, with 3 PENDING
+
+Case 4: 06/15/2026 dict=LRV, L=8929, hw=kāmāyudha, user=srhodes
+old = mange tree
+new = mango tree
+comment = Typo – Check this for a Global Correction, in case it happens again!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/15/2026 dict=LRV, L=8901, hw=kāpota, user=srhodes
+old = clour
+new = colour
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/15/2026 dict=LRV, L=8900, hw=kāpeya, user=srhodes
+old = trioks
+new = tricks
+status = PENDING
+------------------------------------------------------------------------
+
