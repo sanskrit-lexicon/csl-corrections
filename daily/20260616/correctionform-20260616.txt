@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History
+As of June 17, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 06/16/2026 dict=AP, L=12394, hw=kuṭṭihārikā, user=srhodes
+old = kuṭṭihārikā
+new = Delete Entry! OR you could revise this entry as "erron. for kuṭahārikā."  OR something similar. Please Read Below
+comment = —Ghost Word!   The headword kuṭṭihārikā (with the double retroflex 'ṭṭ' and the vowel 'i') is a definitive typographical error in this print edition of Apte's dictionary. Ironically, the editor inadvertently provides the correction right next to it by suggesting the cross-reference cf. kuṭahārikā. LB The authentic, correctly spelled word is kuṭahārikā. There is no grammatical basis for the prefix kuṭṭi- here; the misprint likely occurred due to a compositor confusing it with the nearby entries derived from the root kuṭṭ (to pound/crush). LB Here is the precise morphological breakdown: LB   •  kuṭa (कुट): A water-pot, pitcher, or jug. LB   •  hārikā (हारिका): A female carrier, fetcher, or bearer. This is an agent noun derived from the verbal root hṛ (to carry, fetch, or take away), properly inflected with a feminine suffix. LB The Semantic Shift LB   •  Literal Meaning: "A female carrier of water-pots." LB   •  Applied Definition: "A maid-servant" or "female slave."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/16/2026 dict=SHS, L=9897, hw=kānti, user=srhodes
+old = Persoual
+new = Personal
+comment = Typo – You might check for other Global instances needing a similar correction. In fact the widest target for Global correction should be the following Impossible String: "soual" —> "sonal" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/16/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
