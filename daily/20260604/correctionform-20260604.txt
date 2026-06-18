@@ -1,38 +1,31 @@
 Sanskrit Lexicon Correction Form History
-As of June 05, 2026
-5 correction records, with 5 PENDING
+As of June 18, 2026
+4 correction records, with 0 PENDING
 
-Case 5: 06/04/2026 dict=LRV, L=8810, hw=kācamaṇi, user=srhodes
+Case 4: 06/04/2026 dict=LRV, L=8810, hw=kācamaṇi, user=srhodes
 old = quarts
 new = quartz
-status = PENDING
+status = No change required (source already correct)
 ------------------------------------------------------------------------
 
-Case 4: 06/04/2026 dict=LRV, L=8801, hw=kākola, user=srhodes
+Case 3: 06/04/2026 dict=LRV, L=8801, hw=kākola, user=srhodes
 old = name of a hill
 new = name of a hell
 comment = Typo – Please note that this is a Likely Typographical Error: You may find the citation provided by Vaidya for this definition—Yāj. iii.223 (Yājñavalkya Smṛti, Chapter 3, Verse 223)—interesting. If you consult that specific verse, kākola is actually listed as the proper name of a hell (Naraka), not a hill. LB Note: It is highly probable that Vaidya (or the printer) made a typographical error here, conflating "hell" with "hill." Other comprehensive dictionaries of the era, such as Monier-Williams, correctly cite Yāj. iii.223 for the definition of a "hell".
-status = PENDING
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 
-Case 3: 06/04/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 2: 06/04/2026 dict=ap, L=, hw=, user=Shalu
-old = at sacrificial ceremonies 
-new = दभैरर्धावलीढैः 
-comment = 
-status = PENDING
+Case 2: 06/04/2026 dict=ap, L=, hw=, user=shalu
+old = at sacrificial ceremonies
+new = daBErrar
+comment = darBErar
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 
 Case 1: 06/04/2026 dict=MW, L=98382, hw=dvāraka, user=czhao
 old = for "ikā, f." part, could consider creating a separate H2B entry for dvārikā.
 new = 
 comment = entry
-status = PENDING
+status = Tracked separately at https://github.com/sanskrit-lexicon/MWS/issues/215
 ------------------------------------------------------------------------
 

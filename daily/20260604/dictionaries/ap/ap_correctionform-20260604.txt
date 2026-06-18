@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 05, 2026
-1 correction records, with 1 PENDING
+As of June 18, 2026
+1 correction records, with 0 PENDING
 
-Case 2: 06/04/2026 dict=ap, L=, hw=, user=Shalu
-old = at sacrificial ceremonies 
-new = दभैरर्धावलीढैः 
-comment = 
-status = PENDING
+Case 2: 06/04/2026 dict=ap, L=, hw=, user=shalu
+old = at sacrificial ceremonies
+new = daBErrar
+comment = darBErar
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 
