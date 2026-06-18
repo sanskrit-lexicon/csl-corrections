@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 12, 2026
-2 correction records, with 2 PENDING
+As of June 18, 2026
+2 correction records, with 0 PENDING
 
-Case 6: 06/11/2026 dict=AP, L=12361.004, hw=kuṭaḥ, user=srhodes
+Case 5: 06/11/2026 dict=AP, L=12361.004, hw=kuṭaḥ, user=srhodes
 old = kuṭaḥ, -ṭam + .-ṭaḥ
 new = kuṭaḥ, -ṭam
 comment = Typo - This string is a typographical artifact from the printed edition’s attempt to show gender variations and compounding. Apte is trying to indicate that the word can be masculine (kuṭaḥ) or neuter (kuṭam), and the trailing kuṭa is a clunky editorial notation (likely meant to separate the first definition block from the second). You can safely ignore that messy string. The word simply declines as both a masculine (kuṭaḥ) and neuter (kuṭam) noun. As far as compounds are concerned, the standard protocol is obvious “kuṭa-”, and the inclusion of “+ .-ṭaḥ” is simply a mess!
-status = PENDING
+status = No change required. Display issue separately tracked.
 ------------------------------------------------------------------------
 
-Case 5: 06/11/2026 dict=AP, L=12357.03, hw=kuñjaragrahaḥ, user=srhodes
+Case 4: 06/11/2026 dict=AP, L=12357.03, hw=kuñjaragrahaḥ, user=srhodes
 old = nāśvabandho'śvamājānanna
 new = nāśvabandho'śvamājānānna
-status = PENDING
+status = Tracked separately at https://github.com/sanskrit-lexicon/csl-corrections/issues/266
 ------------------------------------------------------------------------
 
