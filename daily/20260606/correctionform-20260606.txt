@@ -1,32 +1,18 @@
 Sanskrit Lexicon Correction Form History
-As of June 07, 2026
-4 correction records, with 4 PENDING
+As of June 18, 2026
+2 correction records, with 0 PENDING
 
-Case 4: 06/06/2026 dict=AP, L=12333.002, hw=kukkuṭiḥ, user=srhodes
+Case 2: 06/06/2026 dict=AP, L=12333.002, hw=kukkuṭiḥ, user=srhodes
 old = kukuṭiḥ [Correction: kukkuṭiḥ ], -ṭī f. LB 1 Hypocrisy, interested observance of religious rites. LB 2 The small house-lizard. The Śālmali tree.
 new = kukuṭiḥ [Correction: kukkuṭiḥ ] LB 1 Hypocrisy, interested observance of religious rites.
 comment = Typo – The above correction is required to remove the "Confusion". LB FYI – The Short 'i' Stem (kukkuṭiḥ): The primary word listed is kukuṭiḥ (which the dictionary correctly amends to kukkuṭiḥ). This is a short 'i' stem noun. In classical Sanskrit, this specific form translates exclusively to Definition 1: "Hypocrisy, interested observance of religious rites." LB The Long 'ī' Stem (-ṭī f.): The dictionary utilizes a standard lexical shorthand by appending , -ṭī f. immediately after the main headword. This indicates a secondary, related feminine form: kukkuṭī (ending with a long 'ī'). It is this long 'ī' form that translates to Definition 2: "The small house-lizard" and "The Śālmali tree." LB Contextual Proof: You can verify this structural distribution of meaning by glancing immediately above in the window display. The preceding, distinct entry for kukkuṭī (with the long 'ī') explicitly lists "A small house-lizard" and "The silk-cotton tree" among its definitions. LB When structuring these terms for complete accuracy, these two forms must remain distinctly separated. Kukkuṭi (short i) represents religious hypocrisy, while Kukkuṭī (long ī) refers to the lizard, the tree, and the hen.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
-Case 3: 06/06/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 2: 06/06/2026 dict=SHS, L=9800, hw=kāca, user=srhodes
+Case 1: 06/06/2026 dict=SHS, L=9800, hw=kāca, user=srhodes
 old = 1st cl. (i) kāci (kācate)
 new = 1st cl. (i) kāci (kāñcate)
 comment = Typo –  Since the root is listed as kāci, the verbal form must be conjugated as kāñcate. According to Pāṇini 7.1.58 (idito num dhātoḥ), any idit root is strictly mandated to take the num augment. This requires the insertion of a nasal before the final consonant of the root.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 06/06/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Tracked separately at https://github.com/sanskrit-lexicon/csl-corrections/issues/265 
 ------------------------------------------------------------------------
 
