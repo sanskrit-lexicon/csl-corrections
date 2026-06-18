@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of June 18, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 06/17/2026 dict=SHS, L=9927, hw=kāmakalā, user=srhodes
+old = KAMA
+new = KĀMA
+comment = Typo – This is probably a safe Global Correction for standard Transliteration.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/17/2026 dict=SHS, L=9926, hw=kāma, user=srhodes
+old = chuses
+new = chooses
+comment = Typo – The word "chuses" is archaic and is considered a non-standard or obsolete spelling of the modern verb "chooses."
+status = PENDING
+------------------------------------------------------------------------
+
