@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History
-As of June 11, 2026
-2 correction records, with 2 PENDING
+As of June 18, 2026
+2 correction records, with 0 PENDING
 
 Case 2: 06/10/2026 dict=SHS, L=9855, hw=kāṇḍapṛṣṭa, user=srhodes
 old = kāṇḍapṛṣṭa
 new = kāṇḍapṛṣṭha
-status = PENDING
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 
 Case 1: 06/10/2026 dict=AP, L=12354, hw=kuñcita, user=srhodes
 old = nīla kuñcitamūrdhaje
 new = nīlakuñcitamūrdhaje
 comment = Typo – Please note the compound above is all ONE compound! It is confusing to have the portion "nīla" simply dangling! I do not consider that this helps beginners! If you must separate "nīla", then at least there should be a dash! I would prefer the authentic entire compound as one unit.
-status = PENDING
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 
