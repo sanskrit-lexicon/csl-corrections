@@ -1,39 +1,39 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 08, 2026
-5 correction records, with 5 PENDING
+As of June 18, 2026
+5 correction records, with 0 PENDING
 
 Case 5: 06/07/2026 dict=AP, L=12333.002, hw=kukkuṭī, user=srhodes
 old = kukuṭiḥ [Correction: kukkuṭiḥ ], -ṭī f. LB 1 Hypocrisy, interested observance of religious rites. LB 2 The small house-lizard. The Śālmali tree.
 new = kukkuṭī f. LB The small house-lizard. The Śālmali tree.
 comment = FYI – The Lexical Error: Conflating Two Distinct Stems LB The dictionary block attempts to economize space by cramming two distinct words—the short 'i' stem (kukkuṭi) and the long 'ī' stem (kukkuṭī)—into a single entry. By doing this, it improperly merges their definitions into one numbered list. LB Definition 1 ("Hypocrisy..."): This legitimately belongs to the short 'i' stem, kukkuṭiḥ. LB Definition 2 ("The small house-lizard. The Śālmali tree."): This belongs exclusively to the long 'ī' stem, kukkuṭī. The dictionary attempts to signal this by appending the shorthand ,-ṭī f. after the headword, but numbering the lizard definition sequentially under the short 'i' headword creates a false grammatical equivalence. LB The Proof of the Dictionary's Mistake LB The most undeniable proof that this grouping is an editorial error is located right in the left-hand sidebar navigation of the window. LB Notice that there is a completely separate headword listed for kukkuṭī (with the long 'ī') immediately following kukkuṭiḥ. In standard, rigorous lexicography, that separate kukkuṭī entry is where the definitions for the lizard, the tree, and the hen properly belong. LB By pasting Definition 2 into the kukkuṭiḥ block as well, the editors created a confusing redundancy that visually implies the short 'i' form means "house-lizard"—which it does not. LB Conclusion LB You read the text exactly as it was printed, but the 1957 printed edition (and this resulting digitization) is at fault here. The text erroneously blurs the lines between two distinct morphological stems. To maintain strict accuracy, Definition 1 must be securely walled off for kukkuṭiḥ, and Definition 2 must be reserved entirely for kukkuṭī.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 4: 06/07/2026 dict=AP, L=12333, hw=kukkuṭiḥ, user=srhodes
 old =  -ṭī f. LB 1 Hypocrisy, interested observance of religious rites. LB 2 The small house-lizard. The Śālmali tree.
 new = Hypocrisy, interested observance of religious rites.
 comment = FYI – The Lexical Error: Conflating Two Distinct Stems LB The dictionary block attempts to economize space by cramming two distinct words—the short 'i' stem (kukkuṭi) and the long 'ī' stem (kukkuṭī)—into a single entry. By doing this, it improperly merges their definitions into one numbered list. LB Definition 1 ("Hypocrisy..."): This legitimately belongs to the short 'i' stem, kukkuṭiḥ. LB Definition 2 ("The small house-lizard. The Śālmali tree."): This belongs exclusively to the long 'ī' stem, kukkuṭī. The dictionary attempts to signal this by appending the shorthand ,-ṭī f. after the headword, but numbering the lizard definition sequentially under the short 'i' headword creates a false grammatical equivalence. LB The Proof of the Dictionary's Mistake LB The most undeniable proof that this grouping is an editorial error is located right in the left-hand sidebar navigation of the window. LB Notice that there is a completely separate headword listed for kukkuṭī (with the long 'ī') immediately following kukkuṭiḥ. In standard, rigorous lexicography, that separate kukkuṭī entry is where the definitions for the lizard, the tree, and the hen properly belong. LB By pasting Definition 2 into the kukkuṭiḥ block as well, the editors created a confusing redundancy that visually implies the short 'i' form means "house-lizard"—which it does not. LB Conclusion LB You read the text exactly as it was printed, but the 1957 printed edition (and this resulting digitization) is at fault here. The text erroneously blurs the lines between two distinct morphological stems. To maintain strict accuracy, Definition 1 must be securely walled off for kukkuṭiḥ, and Definition 2 must be reserved entirely for kukkuṭī.
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 3: 06/07/2026 dict=AP, L=12332, hw=kukkuṭakaḥ, user=srhodes
 old = kūjatklānta kapota kukkuṭakulāḥ
 new = kūjatklāntakapotakukkuṭakulāḥ
 comment = Typo – In Sanskrit, this entire string is a single, continuous Bahuvrīhi compound describing the trees of the Daṇḍakā forest. It should properly be printed without spaces as kūjatklāntakapotakukkuṭakulāḥ. The dictionary's insertion of spaces between the compound members is a common relic of older typesetting, but the Sanskrit words themselves are perfectly accurate.
-status = PENDING
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 
 Case 2: 06/07/2026 dict=AP, L=12331.03, hw=kukkuṭamastakaḥ, user=srhodes
 old = mirībheda
 new = Mar. mirībheda
 comment = Typo – Please note that "mirībheda" is a Marathi Word, NOT Sanskrit. The above correction, is the Apte Standard for listing such a Marathi Word!
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 1: 06/07/2026 dict=AP, L=12331.03, hw=kukkuṭamastakaḥ, user=srhodes
 old = mirībheda
 new = ?
 comment = Typo – Please note that "mirībheda" is a Marathi Word, NOT Sanskrit. Perhaps this fact should be indicated in some way?
-status = PENDING
+status = No change required. If AP wants to specify Marathi word, he specifically mentions Mar.
 ------------------------------------------------------------------------
 
