@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 18, 2026
-2 correction records, with 2 PENDING
+As of June 19, 2026
+2 correction records, with 0 PENDING
 
 Case 4: 06/17/2026 dict=MW, L= 92231 , hw=div, user=jc
 old = divā́ or dī́vā
 new = divā́ or dívā
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
 Case 3: 06/17/2026 dict=MW, L=14162, hw=amuṣyakula, user=jc
 old = amúya—kula
 new = amúṣya—kula
 comment = Typo.
-status = PENDING
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 

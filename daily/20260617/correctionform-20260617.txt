@@ -1,38 +1,38 @@
 Sanskrit Lexicon Correction Form History
-As of June 18, 2026
-5 correction records, with 5 PENDING
+As of June 19, 2026
+5 correction records, with 0 PENDING
 
 Case 5: 06/17/2026 dict=AP, L=12402.004, hw=kuṭhāraḥ, user=srhodes
 old = kuṭhāraḥ, -rī + .-raḥ A tree. 
 new = kuṭhāraḥ + .-raḥ A tree. 
 comment = Typo – Please note the inclusion of "-rī" here is misleading, because the feminine word "kuṭhārī" does NOT mean "a tree". And frankly, I do not see the point in what remains above: "kuṭhāraḥ + .-raḥ " !  It just seems to be excessively irrelevant!  "kuṭhāraḥ" is finished! what need is there of " + .-raḥ" ?  
-status = PENDING
+status = No change required
 ------------------------------------------------------------------------
 
 Case 4: 06/17/2026 dict=MW, L= 92231 , hw=div, user=jc
 old = divā́ or dī́vā
 new = divā́ or dívā
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
 Case 3: 06/17/2026 dict=MW, L=14162, hw=amuṣyakula, user=jc
 old = amúya—kula
 new = amúṣya—kula
 comment = Typo.
-status = PENDING
+status = Corrected 18 June 2026
 ------------------------------------------------------------------------
 
 Case 2: 06/17/2026 dict=SHS, L=9927, hw=kāmakalā, user=srhodes
 old = KAMA
 new = KĀMA
 comment = Typo – This is probably a safe Global Correction for standard Transliteration.
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
 Case 1: 06/17/2026 dict=SHS, L=9926, hw=kāma, user=srhodes
 old = chuses
 new = chooses
 comment = Typo – The word "chuses" is archaic and is considered a non-standard or obsolete spelling of the modern verb "chooses."
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
