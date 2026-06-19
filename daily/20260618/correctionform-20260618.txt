@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History
 As of June 19, 2026
-3 correction records, with 3 PENDING
+3 correction records, with 0 PENDING
 
 Case 3: 06/18/2026 dict=MW, L=  96635 , hw=deha, user=Caujolle
 old = appearance, manifestation ifc. having the appearance of
 new = appearance, manifestation, ifc. having the appearance of
 comment = Typo, a coma missing
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
 Case 2: 06/18/2026 dict=LRV, L=8960, hw=kāmadarśana, user=srhodes
 old = kāma-darśana f. looking lovely.
 new = kāma-darśana a. looking lovely.
 comment = Typo – UPDATE! the abbreviation properly used is "a." (italicized).
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
 Case 1: 06/18/2026 dict=LRV, L=8960, hw=kāmadarśana, user=srhodes
 old = kāma-darśana f. looking lovely.
 new = kāma-darśana mfn. looking lovely.
 comment = Typo – This appears to be properly an adjective.
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
