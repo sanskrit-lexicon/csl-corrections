@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 16, 2026
-2 correction records, with 2 PENDING
+As of June 19, 2026
+2 correction records, with 0 PENDING
 
-Case 7: 06/15/2026 dict=AP, L=12388, hw=kuṭṭāka, user=srhodes
+Case 5: 06/15/2026 dict=AP, L=12388, hw=kuṭṭāka, user=srhodes
 old = (-ki f.)
 new = (-kī f.)
 comment = Typo – This also may be a safe Global Correction, since the long vowel " ī " will be mostly likely used for the feminine adjectives.
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
-Case 6: 06/15/2026 dict=AP, L=12388, hw=kuṭṭāka, user=srhodes
+Case 4: 06/15/2026 dict=AP, L=12388, hw=kuṭṭāka, user=srhodes
 old = sāraṅgasaṃgaravidhāvibhakumbhakūṭākuṭṭākapāṇikuliśasya
 new = sāraṅgasaṃgaravidhāvibhakumbhakūṭakuṭṭākapāṇikuliśasya
 comment = Typo – In Sanskrit compounding, joining kūṭa (neuter noun ending in short 'a') and the headword kuṭṭāka results simply in kūṭakuṭṭāka.
-status = PENDING
+status = Corrected 19 June 2026
 ------------------------------------------------------------------------
 
