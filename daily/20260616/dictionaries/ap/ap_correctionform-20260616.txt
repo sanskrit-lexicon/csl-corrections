@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 17, 2026
-1 correction records, with 1 PENDING
+As of June 19, 2026
+1 correction records, with 0 PENDING
 
-Case 3: 06/16/2026 dict=AP, L=12394, hw=kuṭṭihārikā, user=srhodes
+Case 2: 06/16/2026 dict=AP, L=12394, hw=kuṭṭihārikā, user=srhodes
 old = kuṭṭihārikā
 new = Delete Entry! OR you could revise this entry as "erron. for kuṭahārikā."  OR something similar. Please Read Below
 comment = —Ghost Word!   The headword kuṭṭihārikā (with the double retroflex 'ṭṭ' and the vowel 'i') is a definitive typographical error in this print edition of Apte's dictionary. Ironically, the editor inadvertently provides the correction right next to it by suggesting the cross-reference cf. kuṭahārikā. LB The authentic, correctly spelled word is kuṭahārikā. There is no grammatical basis for the prefix kuṭṭi- here; the misprint likely occurred due to a compositor confusing it with the nearby entries derived from the root kuṭṭ (to pound/crush). LB Here is the precise morphological breakdown: LB   •  kuṭa (कुट): A water-pot, pitcher, or jug. LB   •  hārikā (हारिका): A female carrier, fetcher, or bearer. This is an agent noun derived from the verbal root hṛ (to carry, fetch, or take away), properly inflected with a feminine suffix. LB The Semantic Shift LB   •  Literal Meaning: "A female carrier of water-pots." LB   •  Applied Definition: "A maid-servant" or "female slave."
-status = PENDING
+status = No change required. PWG, VCP etc all give this word. 
 ------------------------------------------------------------------------
 
