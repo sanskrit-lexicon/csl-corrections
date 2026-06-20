@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History
+As of June 20, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 06/19/2026 dict=AP, L=12424.004, hw=kuṇapam, user=srhodes
+old = vyukṣtsraya
+new = vyutsrakṣya
+comment = Typo – The printed word vyukṣtsraya is a massive typographical error resulting from a mangled compositor's block in the 1957 print edition. The consonant cluster kṣtsr is completely ungrammatical and unpronounceable in classical Sanskrit. LB The authentic, correct text in the Bhāgavata Purāṇa is vyutsrakṣye (व्युत्स्रक्ष्ये). LB   •  Grammar of the true word: It is the 1st person singular, future tense, Ātmanepada verb formed from the prefixes vi + ud attached to the root √sṛj (to let go, cast off, or abandon). "I will cast off." LB The typesetter clearly scrambled the letters 'kṣ', 't', 's', and 'r' during the printing process, creating a legendary ghost word right in the middle of a major citation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/19/2026 dict=shs, L=, hw=, user=snbt98
+old = Corrections         1 सम्पकं   < = >     <!!!>सम्पकं<!!!>  सम्पकं  [Printed book page 768-b]   सम्पकं  m. (-र्कः)  1. Mixture,
+new = सम्पर्क । Same correction in two more places.
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/19/2026 dict=shs, L=, hw=, user=snbt98
+old = (-यः-या-यं) Liable to come in contact, relating to contact  or connection. E. <!!!>सम्पकं<!!!>, and छ aff.  [ID=42930 ]         $(window).on("load",function() {   var
+new = सम्पर्क 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/19/2026 dict=SHS, L=9940, hw=kāmaja, user=srhodes
+old = KAMA
+new = KĀMA
+comment = Typo – Please note that this same correction has already been submitted under a different Headword. Therefore, this proves the need for making this a Global Correction for correct Transliteration. If this is not made a Global Correction, then you will simply be increasing our joint workload! By the way, look at how the pūrvapada is spelled! Hint, Hint, Hint...
+status = PENDING
+------------------------------------------------------------------------
+

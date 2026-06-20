@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for AP
+As of June 20, 2026
+1 correction records, with 1 PENDING
+
+Case 4: 06/19/2026 dict=AP, L=12424.004, hw=kuṇapam, user=srhodes
+old = vyukṣtsraya
+new = vyutsrakṣya
+comment = Typo – The printed word vyukṣtsraya is a massive typographical error resulting from a mangled compositor's block in the 1957 print edition. The consonant cluster kṣtsr is completely ungrammatical and unpronounceable in classical Sanskrit. LB The authentic, correct text in the Bhāgavata Purāṇa is vyutsrakṣye (व्युत्स्रक्ष्ये). LB   •  Grammar of the true word: It is the 1st person singular, future tense, Ātmanepada verb formed from the prefixes vi + ud attached to the root √sṛj (to let go, cast off, or abandon). "I will cast off." LB The typesetter clearly scrambled the letters 'kṣ', 't', 's', and 'r' during the printing process, creating a legendary ghost word right in the middle of a major citation.
+status = PENDING
+------------------------------------------------------------------------
+
