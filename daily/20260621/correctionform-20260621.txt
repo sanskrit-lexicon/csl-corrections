@@ -1,0 +1,52 @@
+Sanskrit Lexicon Correction Form History
+As of June 22, 2026
+7 correction records, with 7 PENDING
+
+Case 7: 06/21/2026 dict=AP, L=12434.006, hw=kuṇḍaḥ, user=srhodes
+old = kuṇḍaḥ, -ḍī, -ḍam + .-ḍaḥ (-ḍā f.)
+new = kuṇḍaḥ + .-ḍaḥ (-ḍā f.)
+comment = Typo – Sinde the feminine form is strictly in the long "ā", there is no need to include "-ḍī" here! Also, please consider this DUAL LISTING as a Homonym, requiring Numerical Treatment "1" and "2". This should be implemented in the Hierarchy List Column for clarity of understanding!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 06/21/2026 dict=LRV, L=9667, hw=kuṃḍa, user=srhodes
+old = (fem. ˚ḍī)
+new = (fem. ˚ḍā)
+comment = Typo – The Legal Reality: The Manusmṛti (3.174) rule explicitly defines a son born in adultery as a kuṇḍaḥ. By extension of regular ākāra feminine rules for this specific legal class of offspring, a daughter born in adultery is a kuṇḍā (as Apte correctly notes with -ḍā f.). LB Vaidya’s Oversight: When Vaidya split his entry to isolate the legal definition under kuṃḍa (II), he mechanically duplicated the standard feminine suffix ˚ḍī from the general container word (the "basin/pool" entry) instead of updating it to match the precise legal form (kuṇḍā) required by the very Manusmṛti verse he cited.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 06/21/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/21/2026 dict=AP, L=12432, hw=kuṇṭhita, user=srhodes
+old = bibhratā'stramacalepyakuṇṭhitam
+new = bibhratā'stramacale'pyakuṇṭhitam
+comment = Typo – "cale + api" = "cale'pi"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/21/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/21/2026 dict=MW, L=48256, hw=kāmāri, user=srhodes
+old = viṭa-māṣika
+new = viṭa-mākṣika
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/21/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+

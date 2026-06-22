@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for AP
+As of June 22, 2026
+2 correction records, with 2 PENDING
+
+Case 7: 06/21/2026 dict=AP, L=12434.006, hw=kuṇḍaḥ, user=srhodes
+old = kuṇḍaḥ, -ḍī, -ḍam + .-ḍaḥ (-ḍā f.)
+new = kuṇḍaḥ + .-ḍaḥ (-ḍā f.)
+comment = Typo – Sinde the feminine form is strictly in the long "ā", there is no need to include "-ḍī" here! Also, please consider this DUAL LISTING as a Homonym, requiring Numerical Treatment "1" and "2". This should be implemented in the Hierarchy List Column for clarity of understanding!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/21/2026 dict=AP, L=12432, hw=kuṇṭhita, user=srhodes
+old = bibhratā'stramacalepyakuṇṭhitam
+new = bibhratā'stramacale'pyakuṇṭhitam
+comment = Typo – "cale + api" = "cale'pi"
+status = PENDING
+------------------------------------------------------------------------
+
