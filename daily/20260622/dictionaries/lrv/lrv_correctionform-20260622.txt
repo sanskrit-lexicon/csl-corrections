@@ -1,0 +1,24 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of June 23, 2026
+3 correction records, with 3 PENDING
+
+Case 5: 06/22/2026 dict=LRV, L=9044.1, hw=kāyika, user=srhodes
+old = (f. yikā)
+new = (f. yikī)
+comment = Typo –   •  Derivation: The term is derived from kāya (body) with a taddhita suffix like ṭhak or ṭhañ (e.g., kāyena nirvṛttaṃ ṭhak). LB   •  Pāṇinian Rule: According to Aṣṭādhyāyī 4.1.15 (ṭiḍḍhāṇañ...ṭhak-ṭhañ... ṅīp), suffixes with an indicatory ṭ mandate the feminine affix ṅīp (-ī), which gives us kāyikī.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/22/2026 dict=LRV, L=9033, hw=kāya, user=srhodes
+old = prajāpatititha
+new = prajāpatitīrtha
+comment = Typo – The Root Words: The term is a compound of Prajāpati (the Hindu creator deity) and Tīrtha (a sacred place or, in this context, a specific sacred part of the hand used for rituals).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/22/2026 dict=LRV, L=9044.1, hw=kāyika, user=srhodes
+old = kāyaka
+new = kāyika
+status = PENDING
+------------------------------------------------------------------------
+
