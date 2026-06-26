@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of June 20, 2026
-3 correction records, with 3 PENDING
+As of June 26, 2026
+3 correction records, with 0 PENDING
 
 Case 3: 06/19/2026 dict=shs, L=, hw=, user=snbt98
 old = Corrections         1 सम्पकं   < = >     <!!!>सम्पकं<!!!>  सम्पकं  [Printed book page 768-b]   सम्पकं  m. (-र्कः)  1. Mixture,
 new = सम्पर्क । Same correction in two more places.
 comment = 
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
 Case 2: 06/19/2026 dict=shs, L=, hw=, user=snbt98
 old = (-यः-या-यं) Liable to come in contact, relating to contact  or connection. E. <!!!>सम्पकं<!!!>, and छ aff.  [ID=42930 ]         $(window).on("load",function() {   var
 new = सम्पर्क 
 comment = 
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
 Case 1: 06/19/2026 dict=SHS, L=9940, hw=kāmaja, user=srhodes
 old = KAMA
 new = KĀMA
 comment = Typo – Please note that this same correction has already been submitted under a different Headword. Therefore, this proves the need for making this a Global Correction for correct Transliteration. If this is not made a Global Correction, then you will simply be increasing our joint workload! By the way, look at how the pūrvapada is spelled! Hint, Hint, Hint...
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
