@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 24, 2026
-3 correction records, with 3 PENDING
+As of June 26, 2026
+3 correction records, with 0 PENDING
 
 Case 3: 06/23/2026 dict=MW, L=51950.2, hw=kuṇḍalaka, user=srhodes
 old = (also) a rope
 new = coil (of rope)
 comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: LB https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4780044364
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
 Case 2: 06/23/2026 dict=MW, L=51950.1, hw=kuṇḍala, user=srhodes
 old = (also) a rope
 new = coil (of rope)
 comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: LB https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4780044364
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
 Case 1: 06/23/2026 dict=MW, L=118575, hw=pariviṣ, user=srhodes
 old = -aveviṣat
 new = -aveviṣam
 comment = Typo – Please note that this is a "print change". LB FYI — Here is why, and it all comes down to the specific Pāṇini rule cited right next to the word. LB The Clue: Pāṇini 7.3.87 LB Notice that MW immediately follows the suspicious forms with the citation: Pāṇ. vii, 3, 87 , Sch. ("Sch." stands for Scholiasts, referring to traditional commentators like the authors of the Kāśikā Vṛtti). LB Pāṇini's sūtra 7.3.87 is: LB nābhyastasyāci piti sārvadhātuke LB This rule blocks guṇa (vowel strengthening) for an abhyasta root (like the intensive base veviṣ-) but only when followed by an affix that meets three specific conditions: LB   1  It is a sārvadhātuka affix. LB   2  It begins with a vowel (aci). LB   3  It is a pit affix (piti—meaning it has an indicatory 'p', making it a strong ending). LB  “-aveviṣat” is grammatically impossible here: The 3rd person singular imperfect ending is -t (from tiP). Since it begins with a consonant and not a vowel, rule 7.3.87 doesn't apply to it. (If it did exist, the consonant ending would trigger guṇa, resulting in something like aveveṣṭ). LB The True Correction: -aveviṣam LB The correctly intended word is almost certainly -aveviṣam (1st person singular imperfect parasmaipada). LB   •  Its ending is -am (replacing miP). LB   •  It begins with a vowel (a). LB   •  It acts as a pit affix. LB This fits Pāṇini 7.3.87 perfectly. In fact, if we look at the Kāśikā Vṛtti's classical commentary on this exact sūtra, it explicitly lists pariveviṣāṇi (the 1st person singular imperative, which MW also lists) and paryaveviṣam as its primary examples! LB It looks like the 1899 compilers or typesetters simply confused a final "m" (म्) for a final "t" (त्)—a notoriously easy mistake to make when reading Sanskrit manuscripts or proofing Devanagari to transliteration.
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
