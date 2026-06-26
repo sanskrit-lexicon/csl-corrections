@@ -1,16 +1,16 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 21, 2026
-2 correction records, with 2 PENDING
+As of June 26, 2026
+2 correction records, with 0 PENDING
 
-Case 3: 06/20/2026 dict=AP, L=12430, hw=kuṇṭha, user=srhodes
+Case 2: 06/20/2026 dict=AP, L=12430, hw=kuṇṭha, user=srhodes
 old = sahityavidyāśramavarjiteṣu
 new = sāhityavidyāśramavarjiteṣu
-status = PENDING
+status = Corrected 20 June 2026
 ------------------------------------------------------------------------
 
-Case 2: 06/20/2026 dict=AP, L=12428, hw=kuṇṭaka, user=srhodes
+Case 1: 06/20/2026 dict=AP, L=12428, hw=kuṇṭaka, user=srhodes
 old = (-krī f.) 
 new = (-kī f.) 
-status = PENDING
+status = Corrected 20 June 2026
 ------------------------------------------------------------------------
 
