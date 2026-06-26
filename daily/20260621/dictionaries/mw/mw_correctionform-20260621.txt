@@ -1,10 +1,10 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 22, 2026
-1 correction records, with 1 PENDING
+As of June 26, 2026
+1 correction records, with 0 PENDING
 
-Case 2: 06/21/2026 dict=MW, L=48256, hw=kāmāri, user=srhodes
+Case 1: 06/21/2026 dict=MW, L=48256, hw=kāmāri, user=srhodes
 old = viṭa-māṣika
 new = viṭa-mākṣika
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
