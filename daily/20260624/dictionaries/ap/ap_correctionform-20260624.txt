@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 25, 2026
-1 correction records, with 1 PENDING
+As of June 26, 2026
+1 correction records, with 0 PENDING
 
-Case 3: 06/24/2026 dict=AP, L=12446.004, hw=kuṇḍiraḥ, user=srhodes
+Case 2: 06/24/2026 dict=AP, L=12446.004, hw=kuṇḍiraḥ, user=srhodes
 old = See Below
 new = Since the spelling "kuṇḍīra" and "kuṇḍira" are separately listed as authorized adjectives, the Masculine Form should similarly be explicitly accounted for! Therefore Please Duplicate this listing under the long form spelling "kuṇḍīraḥ" (which in fact is fully authorized by MW Dictionary).
 comment = See Above
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 

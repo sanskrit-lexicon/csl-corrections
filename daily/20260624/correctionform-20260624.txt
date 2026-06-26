@@ -1,25 +1,18 @@
 Sanskrit Lexicon Correction Form History
-As of June 25, 2026
-3 correction records, with 3 PENDING
+As of June 26, 2026
+2 correction records, with 0 PENDING
 
-Case 3: 06/24/2026 dict=AP, L=12446.004, hw=kuṇḍiraḥ, user=srhodes
+Case 2: 06/24/2026 dict=AP, L=12446.004, hw=kuṇḍiraḥ, user=srhodes
 old = See Below
 new = Since the spelling "kuṇḍīra" and "kuṇḍira" are separately listed as authorized adjectives, the Masculine Form should similarly be explicitly accounted for! Therefore Please Duplicate this listing under the long form spelling "kuṇḍīraḥ" (which in fact is fully authorized by MW Dictionary).
 comment = See Above
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
-Case 2: 06/24/2026 dict=SHS, L=10042, hw=kārakahetu, user=srhodes
+Case 1: 06/24/2026 dict=SHS, L=10042, hw=kārakahetu, user=srhodes
 old = n. (-tu)
 new = m. (-tuḥ)
 comment = Typo – In classical Sanskrit, the base word hetu is overwhelmingly a masculine (m.) noun (declined as hetuḥ in the nominative singular). LB   •  Rules of Compound Gender: According to Sanskrit grammatical rules for this type of compound, the newly formed word inherits the gender of its final member. Since the final member (hetu) is masculine, the compound kārakahetu must also take the masculine gender. LB   •  Textual Evidence: In traditional Sanskrit texts (such as the Yājñavalkya Smṛti or various philosophical commentaries), compounds ending in -hetu are consistently treated as masculine. For instance, texts use the masculine accusative plural ending -hetūn rather than the neuter -hetūni. LB Conclusion: The 1900 Shabda-Sagara dictionary entry contains a lexicographical typo. The gender marker should read m. (masculine) rather than n. (neuter)
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 06/24/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
