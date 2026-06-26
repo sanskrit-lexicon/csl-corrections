@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AE
-As of June 23, 2026
-1 correction records, with 1 PENDING
+As of June 26, 2026
+1 correction records, with 0 PENDING
 
-Case 15: 06/22/2026 dict=ae, L=, hw=, user=Serge A
+Case 11: 06/22/2026 dict=ae, L=, hw=, user=Serge A
 old = event.returnValue = false;  }     Corrections   Help  abbot  <!!!>abbot<!!!>  [Printed book page 001]  Abbot, s. maṭhādhyakṣaḥ, vihārasya pradhānapuruṣaḥ.
 new = Please, disable input transcription in Apte English-Sanskrit. I am unable to input English words like "word" containing W etc. 
 comment = 
-status = PENDING
+status = Tracked separately at https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/73
 ------------------------------------------------------------------------
 

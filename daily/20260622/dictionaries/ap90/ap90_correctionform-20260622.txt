@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of June 23, 2026
-2 correction records, with 2 PENDING
+As of June 26, 2026
+2 correction records, with 0 PENDING
 
-Case 14: 06/22/2026 dict=AP90, L=11092, hw=kuṃḍaḥ, user=srhodes
+Case 10: 06/22/2026 dict=AP90, L=11092, hw=kuṃḍaḥ, user=srhodes
 old = -golakaṃ
 new = -golakaḥ AND -golakam
 comment = Typo – Please note that definition 2 "a group of kuṇḍa and golaka", is confirmed as Masculine Dual, and NOT neuter. You may reference the discussion here: "https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4768185893". The neuter gender is correct for "Gruel". So there needs to be a "Masculine" and "Neuter" SPLIT listing of this Headword to correctly accommodate the Gender Specific Definitions, which have currently been incorrectly classifed as Neuter Only!
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
-Case 13: 06/22/2026 dict=AP90, L=11092, hw=kuṃḍaḥ, user=srhodes
+Case 9: 06/22/2026 dict=AP90, L=11092, hw=kuṃḍaḥ, user=srhodes
 old = — golaṃ
 new = — golaḥ
 comment = Typo – Please note that definition 2 "a group of kuṇḍa and golaka", is confirmed as Masculine Dual, and NOT neuter. You may reference the citation provided by Apte as well as the discussion here: "https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4768185893". Furthermore, the Neuter Gender "kuṇḍagolam" is questionable in reference to the first definition "gruel". Please consider the following: "Treating "gruel" as a neuter substantive is morphologically valid for a foodstuff. However, comparative lexicography reveals inconsistency across standard reference works. Monier-Williams, for instance, records this exact meaning ("sour rice gruel") under the masculine nominal stem kuṇḍagolaḥ. Other traditional lexicons like the Śabdasāgara also align with the masculine for this specific meaning. LB •  Verdict: While not strictly a grammatical "error" by Apte, defining it exclusively as neuter requires a cautionary note, as the tradition widely attests to the masculine usage for the "gruel" definition."
-status = PENDING
+status = No change required. Both neuter and masculine are attested in lexical tradition.
 ------------------------------------------------------------------------
 

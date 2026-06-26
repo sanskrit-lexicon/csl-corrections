@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 23, 2026
-3 correction records, with 3 PENDING
+As of June 26, 2026
+3 correction records, with 0 PENDING
 
-Case 11: 06/22/2026 dict=AP, L=12434.03, hw=kuṇḍagolakam, user=srhodes
+Case 8: 06/22/2026 dict=AP, L=12434.03, hw=kuṇḍagolakam, user=srhodes
 old = kuṇḍagolakam
 new = kuṇḍagolakaḥ
 comment = Typo – Please note that definition 2 "a group of kuṇḍa and golaka", is confirmed as Masculine Dual, and NOT neuter. You may reference the discussion here: "https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4768185893". The neuter gender is correct for "Gruel". So there needs to be a "Masculine" and "Neuter" SPLIT listing of this Headword to correctly accommodate the Gender Specific Definitions, which have currently been incorrectly classifed as Neuter Only!
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
-Case 10: 06/22/2026 dict=AP, L=12434.028, hw=kuṇḍagolam, user=srhodes
+Case 7: 06/22/2026 dict=AP, L=12434.028, hw=kuṇḍagolam, user=srhodes
 old = kuṇḍagolam
 new = kuṇḍagolaḥ
 comment = Typo – Please note that definition 2 "a group of kuṇḍa and golaka", is confirmed as Masculine Dual, and NOT neuter. You may reference the citation provided by Apte as well as the discussion here: "https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4768185893". Furthermore, the Neuter Gender "kuṇḍagolam" is questionable in reference to the first definition "gruel". Please consider the following: "Treating "gruel" as a neuter substantive is morphologically valid for a foodstuff. However, comparative lexicography reveals inconsistency across standard reference works. Monier-Williams, for instance, records this exact meaning ("sour rice gruel") under the masculine nominal stem kuṇḍagolaḥ. Other traditional lexicons like the Śabdasāgara also align with the masculine for this specific meaning. LB •  Verdict: While not strictly a grammatical "error" by Apte, defining it exclusively as neuter requires a cautionary note, as the tradition widely attests to the masculine usage for the "gruel" definition."
-status = PENDING
+status = No change required. PWG gives neuter on the authority of Hemacandra at https://sanskrit-lexicon-scans.github.io/abch2/app1/?416
 ------------------------------------------------------------------------
 
 Case 1: 06/22/2026 dict=AP, L=12003, hw=kāmin, user=srhodes
 old = luxurious
 new = uxorious
 comment = Typo – Apte’s Print: 2 A luxurious husband ;  Vaidya’s Print: uxorious husband. LB 2. Semantic and Etymological Verification LB To determine which dictionary is correct, we must trace the word back to its structural derivation: LB Vyutpatti (Derivation): The word is formed from the verbal root kam (to desire, to love, to be enamored) + the suffix ṇini (indicating agency or habitual possession). Thus, a kāmin is fundamentally "one who is characterized by desire or deep affection." LB Contextual Meaning: When used specifically as a noun to describe a husband, it denotes a man who is excessively fond of, doting upon, or entirely captivated by his wife. LB 3. English Lexical Analysis ("Uxorious" vs. "Luxurious") LB Uxorious: This English adjective strictly means "having or showing an excessive or submissive fondness for one's wife." This is an exact, structurally precise translation of kāmin in this specific marital context. LB Luxurious: In standard English, this means characterized by opulence, wealth, or extreme comfort. While "luxurious" possessed an archaic, 17th-century meaning of "lecherous" or "lustful" (derived from Latin luxuria), it still lacked the specific conjugal focus required here. Furthermore, Apte already listed "lustful" as definition 1, making "luxurious" entirely redundant if taken in its archaic sense. LB The Verdict LB The highlighted text in Apte contains a definite error. It is highly probable that a typesetter for Apte's press suffered a typographical lapse, visually confusing the less common word "uxorious" with the more familiar "luxurious" due to their similar spellings. LB Vaidya clearly caught this English lexical error and correctly updated the definition to "uxorious husband." For your dictionary integration, Vaidya provides the semantically flawless translation, and Apte's printing of "luxurious" should be marked as an erratum.
-status = PENDING
+status = Corrected 26 June 2026
 ------------------------------------------------------------------------
 
