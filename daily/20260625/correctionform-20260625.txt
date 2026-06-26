@@ -1,0 +1,53 @@
+Sanskrit Lexicon Correction Form History
+As of June 26, 2026
+7 correction records, with 7 PENDING
+
+Case 7: 06/25/2026 dict=MW, L=58701, hw=kvāna, user=srhodes
+old = kvāna
+new = kvāṇa
+comment = Typo – Please note that this is a Headword "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4801402437
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 06/25/2026 dict=shs, L=, hw=, user=snbt98
+old = उद्घाटन  [Printed book page 121-b]   उद्घाटन  n. (-नं)  1. The rope and <!!!>bucked<!!!> of a well, a leather bucket  used for drawing water.  2. Opening, unlocking.
+new = bucket. Typo in original. 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 06/25/2026 dict=AP, L=12451, hw=kutukam, user=srhodes
+old = dukūle
+new = dukūlam
+comment = Typo - Please note that this is a "Print Change" for the correct citation. Jayadeva's Gīta Govinda verse describes a gopī playfully grabbing and pulling Kṛṣṇa’s silken garment. The verb requires a direct object in the accusative case, making the locative ending a clear textual corruption or copyist typo.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/25/2026 dict=AP, L=12451, hw=kutukam, user=srhodes
+old = tato'tikutukoddhṛtya
+new = tato'tikutukodvṛtya
+comment = Typo - Please note that this is a "Print Change" for the correct citation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/25/2026 dict=AP, L=12449, hw=kutastya, user=srhodes
+old = vamīdṛśī
+new = tvamīdṛśī
+comment = Typo - "vam" is not a valid independent pada that can seamlessly combine with īdṛśī to produce a coherent meaning.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/25/2026 dict=AP, L=12449, hw=kutastya, user=srhodes
+old = vamīdṛśī
+new = tvamīdṛśī
+comment = Typo - "vam" is not a valid independent pada that can seamlessly combine with īdṛśī to produce a coherent meaning.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/25/2026 dict=AP, L=12449, hw=kutastya, user=srhodes
+old = vamīdṛśī
+new = tvamīdṛśī
+comment = Typo - "vam" is not a valid independent pada that can seamlessly combine with īdṛśī to produce a coherent meaning.
+status = PENDING
+------------------------------------------------------------------------
+

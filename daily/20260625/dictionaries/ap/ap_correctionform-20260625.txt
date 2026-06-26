@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for AP
+As of June 26, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 06/25/2026 dict=AP, L=12451, hw=kutukam, user=srhodes
+old = dukūle
+new = dukūlam
+comment = Typo - Please note that this is a "Print Change" for the correct citation. Jayadeva's Gīta Govinda verse describes a gopī playfully grabbing and pulling Kṛṣṇa’s silken garment. The verb requires a direct object in the accusative case, making the locative ending a clear textual corruption or copyist typo.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/25/2026 dict=AP, L=12451, hw=kutukam, user=srhodes
+old = tato'tikutukoddhṛtya
+new = tato'tikutukodvṛtya
+comment = Typo - Please note that this is a "Print Change" for the correct citation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/25/2026 dict=AP, L=12449, hw=kutastya, user=srhodes
+old = vamīdṛśī
+new = tvamīdṛśī
+comment = Typo - "vam" is not a valid independent pada that can seamlessly combine with īdṛśī to produce a coherent meaning.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/25/2026 dict=AP, L=12449, hw=kutastya, user=srhodes
+old = vamīdṛśī
+new = tvamīdṛśī
+comment = Typo - "vam" is not a valid independent pada that can seamlessly combine with īdṛśī to produce a coherent meaning.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/25/2026 dict=AP, L=12449, hw=kutastya, user=srhodes
+old = vamīdṛśī
+new = tvamīdṛśī
+comment = Typo - "vam" is not a valid independent pada that can seamlessly combine with īdṛśī to produce a coherent meaning.
+status = PENDING
+------------------------------------------------------------------------
+
