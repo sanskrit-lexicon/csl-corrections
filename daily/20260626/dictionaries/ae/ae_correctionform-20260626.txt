@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for AE
+As of June 27, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 06/26/2026 dict=AE, L=  8, hw=abbot, user=dhaval
+old = none
+new = test
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/26/2026 dict=ae, L=, hw=, user=dhaval
+old = < = >     abbot  abbot  [Printed book page 001]  Abbot, s. <!!!>maṭhādhyakṣaḥ,<!!!> vihārasya pradhānapuruṣaḥ. Abbess, s. maṭhādhyakṣā, vihārapālinī.  [ID=8 ]
+new = test
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
