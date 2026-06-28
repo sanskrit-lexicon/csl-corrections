@@ -1,0 +1,46 @@
+Sanskrit Lexicon Correction Form History
+As of June 28, 2026
+6 correction records, with 6 PENDING
+
+Case 6: 06/27/2026 dict=AP, L=12469.004, hw=kuddālakaḥ, user=srhodes
+old = kilaṃ
+new = bilaṃ
+comment = Typo – This correction is a "Print Change". In this verse from the Mahabharata (Vanaparva / Book 3, Chapter 107, Verse 23), the sons of King Sagara (sagarātmajāḥ) are digging up the earth to find their sacrificial horse. The word bilaṃ means "hole", "cavity", or "chasm", which fits the action of digging (akhanan).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 06/27/2026 dict=AP, L=12469.002, hw=kuddālaḥ, user=srhodes
+old = kilaṃ
+new = bilaṃ
+comment = Typo – This correction is a "Print Change". In this verse from the Mahabharata (Vanaparva / Book 3, Chapter 107, Verse 23), the sons of King Sagara (sagarātmajāḥ) are digging up the earth to find their sacrificial horse. The word bilaṃ means "hole", "cavity", or "chasm", which fits the action of digging (akhanan).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/27/2026 dict=AP, L=12469, hw=kuddāraḥ, user=srhodes
+old = kilaṃ
+new = bilaṃ
+comment = Typo – This correction is a "Print Change". In this verse from the Mahabharata (Vanaparva / Book 3, Chapter 107, Verse 23), the sons of King Sagara (sagarātmajāḥ) are digging up the earth to find their sacrificial horse. The word bilaṃ means "hole", "cavity", or "chasm", which fits the action of digging (akhanan).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/27/2026 dict=mw, L=, hw=nI, user=jim
+old = with अग्रम् and gen.; cf. अग्र-णी), RV. 
+new = Comma after प्रति 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/27/2026 dict=SHS, L=10045, hw=kāraṇa, user=srhodes
+old = Asamavayi
+new = Asamavāyi
+comment = Typo - For correct transliteration.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/27/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+

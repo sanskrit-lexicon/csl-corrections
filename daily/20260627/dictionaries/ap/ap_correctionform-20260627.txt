@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for AP
+As of June 28, 2026
+3 correction records, with 3 PENDING
+
+Case 6: 06/27/2026 dict=AP, L=12469.004, hw=kuddālakaḥ, user=srhodes
+old = kilaṃ
+new = bilaṃ
+comment = Typo – This correction is a "Print Change". In this verse from the Mahabharata (Vanaparva / Book 3, Chapter 107, Verse 23), the sons of King Sagara (sagarātmajāḥ) are digging up the earth to find their sacrificial horse. The word bilaṃ means "hole", "cavity", or "chasm", which fits the action of digging (akhanan).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 06/27/2026 dict=AP, L=12469.002, hw=kuddālaḥ, user=srhodes
+old = kilaṃ
+new = bilaṃ
+comment = Typo – This correction is a "Print Change". In this verse from the Mahabharata (Vanaparva / Book 3, Chapter 107, Verse 23), the sons of King Sagara (sagarātmajāḥ) are digging up the earth to find their sacrificial horse. The word bilaṃ means "hole", "cavity", or "chasm", which fits the action of digging (akhanan).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/27/2026 dict=AP, L=12469, hw=kuddāraḥ, user=srhodes
+old = kilaṃ
+new = bilaṃ
+comment = Typo – This correction is a "Print Change". In this verse from the Mahabharata (Vanaparva / Book 3, Chapter 107, Verse 23), the sons of King Sagara (sagarātmajāḥ) are digging up the earth to find their sacrificial horse. The word bilaṃ means "hole", "cavity", or "chasm", which fits the action of digging (akhanan).
+status = PENDING
+------------------------------------------------------------------------
+
