@@ -1,0 +1,31 @@
+Sanskrit Lexicon Correction Form History
+As of June 30, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 06/29/2026 dict=LRV, L=9091, hw=kārtikeya, user=srhodes
+old = seren
+new = seven
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 06/29/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 06/29/2026 dict=MW, L=77270.1, hw=jambūdvīpeśvara, user=srhodes
+old = Placement Error
+new = The supplemental insertion of this Headword should be placed just after the word "jambūdvīpaprajñapti [ID=77287]" in the Hierarchical listing of words. This new placement follows the correct alphabetical order required by the long vowel "ū".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 06/29/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
