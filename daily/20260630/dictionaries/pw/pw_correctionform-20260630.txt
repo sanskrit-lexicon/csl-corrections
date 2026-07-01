@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for PW
+As of July 01, 2026
+1 correction records, with 1 PENDING
+
+Case 6: 06/30/2026 dict=PW, L=31102, hw=kopanaka, user=srhodes
+old = n. ein best. Parfum.
+new = m. ein best. Parfum.
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4844057406
+status = PENDING
+------------------------------------------------------------------------
+

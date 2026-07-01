@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for MW
+As of July 01, 2026
+2 correction records, with 2 PENDING
+
+Case 7: 06/30/2026 dict=MW, L=52199, hw=kupata, user=srhodes
+old = kupata mfn. excellent, W.
+new = kupata ind. excellently, W.
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4845251466
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 06/30/2026 dict=MW, L=56611, hw=kopanaka, user=srhodes
+old = n. a kind of perfume
+new = m. a kind of perfume
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4844057406
+status = PENDING
+------------------------------------------------------------------------
+
