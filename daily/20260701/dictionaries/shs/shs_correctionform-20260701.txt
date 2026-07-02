@@ -1,0 +1,52 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 02, 2026
+7 correction records, with 7 PENDING
+
+Case 9: 07/01/2026 dict=SHS, L=44893, hw=sūpat, user=srhodes
+old = Excellently well.
+new = Excellently, well.
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4850064837
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 07/01/2026 dict=SHS, L=10122, hw=kāryya, user=srhodes
+old = Law-suit
+new = Lawsuit
+comment = Typo – In modern English usage, "lawsuit" is overwhelmingly the standard, preferred form. LB The version you see on the page—"Law-suit"—with a hyphen, is an older orthographic convention. In the late 19th and early 20th centuries, it was very common to hyphenate compound words that are now almost universally written as single, closed compounds. Therefore, Please make this A Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 07/01/2026 dict=SHS, L=10122, hw=kāryya, user=srhodes
+old = substitude
+new = substitute
+comment = Typo – Given that the context is a grammatical definition regarding an "adjunct, either as an affix, augment, or [replacement]," the intended term is unambiguously substitute.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 07/01/2026 dict=SHS, L=10122, hw=kāryya, user=srhodes
+old = denouncement
+new = denouement
+comment = Typo – The Likely Intended Word: Denouement (derived from the French dénouement, meaning "untying" or "unraveling"). In literary and dramatic theory, this refers to the final part of a play or story where the plot strands are resolved. LB The Dictionary Entry: The dictionary you are using lists "denouncement," which traditionally means the act of condemning or informing against someone (a public censure). While "denouncement" is a valid English word, it makes no sense in the context of dramatic structure.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 07/01/2026 dict=SHS, L=10107, hw=kārtsnya, user=srhodes
+old = (-trsnyaṃ)
+new = (-rtsnyam)
+comment = Typo – Better with the solid letter "m" as it is final with nothing following.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/01/2026 dict=SHS, L=10106, hw=kārtsna, user=srhodes
+old = (-trsnaṃ)
+new = (-rtsnam)
+comment = Typo – UPDATED! Better with the solid letter "m" as it is final with nothing following.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/01/2026 dict=SHS, L=10106, hw=kārtsna, user=srhodes
+old = (-trsnaṃ)
+new = (-rtsnaṃ)
+status = PENDING
+------------------------------------------------------------------------
+
