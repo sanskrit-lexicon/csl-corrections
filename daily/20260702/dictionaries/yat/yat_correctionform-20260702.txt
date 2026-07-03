@@ -1,0 +1,23 @@
+Sanskrit Lexicon Correction Form History for YAT
+As of July 03, 2026
+3 correction records, with 3 PENDING
+
+Case 11: 07/02/2026 dict=YAT, L=8807, hw=karb, user=srhodes
+old = karvvati
+new = karbbati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 07/02/2026 dict=YAT, L=8696, hw=kargha, user=srhodes
+old = GHOST WORD
+new = Add the editorial remark "(probably a variant mis-reading for 'karba')".
+comment = GHOST WORD – Please note that the above correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4869629376
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 07/02/2026 dict=YAT, L=8696, hw=kargha, user=srhodes
+old = kardhati
+new = karghati
+status = PENDING
+------------------------------------------------------------------------
+
