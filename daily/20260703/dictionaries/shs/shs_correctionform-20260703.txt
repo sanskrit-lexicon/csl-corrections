@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 04, 2026
+1 correction records, with 1 PENDING
+
+Case 2: 07/03/2026 dict=SHS, L=6237, hw=iti, user=srhodes
+old = The meanings of eva, (so, thus, even, in this manner.)
+new = The meanings of evam, (so, thus, even, in this manner.)
+comment = Typo – Please note that this is a suggested "Print Change" for precision and accuracy of the General Sanskrit Usage. Definitions given should not cite "Rare Usage" in preference of the General Widely Accepted terminology. You may confer with the evidence presented here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4875951164
+status = PENDING
+------------------------------------------------------------------------
+
