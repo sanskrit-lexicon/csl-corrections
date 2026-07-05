@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for MW
+As of July 05, 2026
+2 correction records, with 2 PENDING
+
+Case 8: 07/04/2026 dict=MW, L=52339, hw=kumāralalitā, user=srhodes
+old = (consisting of four lines of eight syllables each).
+new = (consisting of four lines of seven syllables each).
+comment = Typo – Please note that this is an important "Print Change". Here is the proof: The Metrical Class: The meter Kumāralalitā belongs to the Uṣṇih (or Uṣṇik) class of classical Sanskrit meters. The defining characteristic of the Uṣṇih class is that it strictly dictates exactly seven syllables per quarter (pāda). LB The Gaṇa Structure: According to standard authoritative prosody manuals like Kedārabhaṭṭa's Vṛttaratnākara and Piṅgala's Chandaḥśāstra, the structural formula for Kumāralalitā is rigidly defined as: jagaṇa (⏑ − ⏑) + sagaṇa (⏑ ⏑ −) + guru (−)  When you calculate the syllables: (3 syllables + 3 syllables + 1 heavy syllable = 7 syllables). LB The Source of the "Eight Syllable" Error LB The confusion in other dictionaries stems from a known historical miscategorization in certain manuscript lineages. LB In some corrupted editions of prosody texts (a discrepancy explicitly noted in commentaries on texts like the Vuttodaya), the stanza defining Kumāralalitā was accidentally transcribed or shifted into the Anuṣṭubh chapter. Because the Anuṣṭubh class mandates eight syllables per pāda, later editors and lexicographers who relied on those specific flawed manuscript trees blindly labeled it an eight-syllable meter without actually verifying the underlying gaṇa mathematics (ja-sa-ga).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 07/04/2026 dict=MW, L=197998, hw=viproṣitakumāra, user=srhodes
+old = vi-proṣita—kumāra m.
+new = vi-proṣita—kumāra mfn.
+comment = Typo – Please note that this compound is strictly "Bahuvrīhi" and in the citation given, which specifically is "Kālidāsa's Raghuvaṃśa 12.11", the word being modified is "rājyam" (Neuter Gender)! So the Restriction to Masculine gender in the MW Headword is absolutely incorrect! Slam Dunk!
+status = PENDING
+------------------------------------------------------------------------
+

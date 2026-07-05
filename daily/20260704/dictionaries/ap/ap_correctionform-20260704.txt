@@ -1,0 +1,73 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 05, 2026
+10 correction records, with 10 PENDING
+
+Case 16: 07/04/2026 dict=AP, L=12123.07, hw=kālābhraḥ, user=srhodes
+old = a dark, watery cloud.
+new = a dark watery cloud.
+comment = Typo – Please remove the "comma". Here is the reason: "Removing the comma tightens the definition and actually makes it a more accurate reflection of the Sanskrit compound's structure. Here is the linguistic breakdown of why "a dark watery cloud" is superior: LB 1. English Grammar: Coordinate vs. Cumulative Adjectives LB With the comma (Coordinate): "A dark, watery cloud" treats "dark" and "watery" as coordinate adjectives. This implies they modify "cloud" equally and independently (i.e., "a cloud that is dark and watery"). LB Without the comma (Cumulative): "A dark watery cloud" treats them as cumulative adjectives. In this structure, "watery cloud" acts as a single, unified noun phrase, and "dark" modifies that entire phrase. LB 2. Alignment with Sanskrit Morphology LB The word kālābhra is a karmadhāraya compound consisting of kāla (dark/black) + abhra (cloud). LB If we look at the traditional etymology (such as in Yāska's Nirukta), abhra is derived as a water-bearing entity (apām bharaṇa). While it translates simply as "cloud," the inherent implication is a rain-cloud. LB If Vaidya's intention by writing "watery cloud" was to capture the specific nature of abhra, then "watery cloud" is the substantive base, and kāla is the adjective modifying it. LB Conclusion LB By dropping the comma, you perfectly mirror the karmadhāraya relationship in English: kāla (dark) directly modifies the base concept of abhra (watery cloud). It reads less like a loose list of attributes and more like a precise, unified compound. LB For your dictionary integration, "a dark watery cloud" (or simply "a dark rain-cloud") is the stronger, more structurally accurate choice."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 07/04/2026 dict=AP, L=12123.07, hw=kālābhraḥ, user=srhodes
+old = a dark, watery cloud.
+new = a dark watery cloud.
+comment = Typo – Please remove the "comma". Here is the reason: "Removing the comma tightens the definition and actually makes it a more accurate reflection of the Sanskrit compound's structure. Here is the linguistic breakdown of why "a dark watery cloud" is superior: LB 1. English Grammar: Coordinate vs. Cumulative Adjectives LB With the comma (Coordinate): "A dark, watery cloud" treats "dark" and "watery" as coordinate adjectives. This implies they modify "cloud" equally and independently (i.e., "a cloud that is dark and watery"). LB Without the comma (Cumulative): "A dark watery cloud" treats them as cumulative adjectives. In this structure, "watery cloud" acts as a single, unified noun phrase, and "dark" modifies that entire phrase. LB 2. Alignment with Sanskrit Morphology LB The word kālābhra is a karmadhāraya compound consisting of kāla (dark/black) + abhra (cloud). LB If we look at the traditional etymology (such as in Yāska's Nirukta), abhra is derived as a water-bearing entity (apām bharaṇa). While it translates simply as "cloud," the inherent implication is a rain-cloud. LB If Vaidya's intention by writing "watery cloud" was to capture the specific nature of abhra, then "watery cloud" is the substantive base, and kāla is the adjective modifying it. LB Conclusion LB By dropping the comma, you perfectly mirror the karmadhāraya relationship in English: kāla (dark) directly modifies the base concept of abhra (watery cloud). It reads less like a loose list of attributes and more like a precise, unified compound. LB For your dictionary integration, "a dark watery cloud" (or simply "a dark rain-cloud") is the stronger, more structurally accurate choice."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 07/04/2026 dict=AP, L=12512, hw=kubhrāmi, user=srhodes
+old = kubhrāmi
+new = Based upon the evidence provided below, you may decide what correction to make to this word "kubhrāmi" which in fact does not exist in the Sanskrit Language!
+comment = Typo - The entry "kubhrāmi" in the 1957 Apte Dictionary is indeed a classic lexicographical "ghost word"—a word that never actually existed but was created through an error in reading or segmentation. LB 🔍 The Evidence: Why "Kubhrāmi" is a Ghost Word LB The confusion arose from a mis-segmentation (incorrect word break) of the continuous Sanskrit text in the Arthaśāstra. LB The True Sanskrit Text (Arthaśāstra 2.11.40) LB The correct line describing the diamond (Vajra) is: LB ...भाजनलेखि तर्कुभ्रामि भ्राजिष्णु... LB ...bhājanalekhi tarkubhrāmi bhrājiṣṇu... LB 2. The Error in Apte LB The lexicographer (or a previous source) likely misread the transition between the previous word and this one. LB • Correct Parsing: bhājanalekhi (scratching a vessel) + tarku-bhrāmi (spinning like a spindle). LB • The Error: The syllable "tar" was dropped or overlooked, leaving the nonsense segment "kubhrāmi". LB 🛠️ Philological Breakdown LB —True Word: Tarkubhrāmi • "Whirling like a spindle." • Describes the refractive brilliance of a diamond, which appears to spin or flash light like a rotating spindle • Source Status = Found in all critical editions (e.g., Kangle, Jolly). LB —Ghost Word: Kubhrāmi • Ku (bad/earth?) + Bhrāmi (spinning) • "Badly whirling" or "Earth whirling" (Nonsensical) • No logical connection to gemology • Source Status = Found only in Apte as an isolated headword. LB Conclusion: LB You can confidently accept the correction. The word describing the diamond's brilliance is tarkubhrāmi ("spindle-spinning"), and kubhrāmi should be deleted from the lexicon as a phantom entry.*
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 07/04/2026 dict=AP, L=12514.03, hw=kumāravāhanaḥ, user=srhodes
+old = kumāravāhanaḥ
+new = kumāravāhanam
+comment = Typo - The Tatpuruṣa Route (Correct Meaning, Wrong Gender): The intended meaning is unequivocally "Kumāra's vehicle" (kumārasya vāhanam). According to standard grammar (Pāṇini 2.4.26: paraval liṅgaṃ dvandvatatpuruṣayoḥ), a Tatpuruṣa compound must retain the gender of its final member. Since vāhana (vehicle/instrument of carrying) is strictly neuter, the grammatically sound compound must be kumāravāhanam. This is exactly how Monier-Williams correctly classifies it (as a neuter noun). LB The Bahuvrīhi Route (Absurd Meaning): If one were to strictly justify Apte’s masculine ending grammatically, it would have to be read as a Bahuvrīhi compound (which takes its gender from an external referent). However, that would translate to "He whose vehicle is Kumāra"—a mythological absurdity! LB How the Error Occurred LB Apte’s editors likely assigned the masculine ending simply because the implied substantive—the peacock (mayūraḥ or śikhī)—is a masculine noun. They casually conflated the semantic referent with the strict structural morphology of the compound itself. LB By simply swapping the masculine visarga (ḥ) for the neuter (m), you instantly resolve the morphological contradiction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 07/04/2026 dict=AP, L=12514.03, hw=kumāravāhin, user=srhodes
+old = -vāhanaḥ
+new = -vāhanam
+comment = Typo - The Tatpuruṣa Route (Correct Meaning, Wrong Gender): The intended meaning is unequivocally "Kumāra's vehicle" (kumārasya vāhanam). According to standard grammar (Pāṇini 2.4.26: paraval liṅgaṃ dvandvatatpuruṣayoḥ), a Tatpuruṣa compound must retain the gender of its final member. Since vāhana (vehicle/instrument of carrying) is strictly neuter, the grammatically sound compound must be kumāravāhanam. This is exactly how Monier-Williams correctly classifies it (as a neuter noun). LB The Bahuvrīhi Route (Absurd Meaning): If one were to strictly justify Apte’s masculine ending grammatically, it would have to be read as a Bahuvrīhi compound (which takes its gender from an external referent). However, that would translate to "He whose vehicle is Kumāra"—a mythological absurdity! LB How the Error Occurred LB Apte’s editors likely assigned the masculine ending simply because the implied substantive—the peacock (mayūraḥ or śikhī)—is a masculine noun. They casually conflated the semantic referent with the strict structural morphology of the compound itself. LB By simply swapping the masculine visarga (ḥ) for the neuter (m), you instantly resolve the morphological contradiction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 07/04/2026 dict=AP, L=12514.032, hw=kumāravāhanaḥ, user=srhodes
+old = -vāhanaḥ
+new = -vāhanam
+comment = Typo - The Tatpuruṣa Route (Correct Meaning, Wrong Gender): The intended meaning is unequivocally "Kumāra's vehicle" (kumārasya vāhanam). According to standard grammar (Pāṇini 2.4.26: paraval liṅgaṃ dvandvatatpuruṣayoḥ), a Tatpuruṣa compound must retain the gender of its final member. Since vāhana (vehicle/instrument of carrying) is strictly neuter, the grammatically sound compound must be kumāravāhanam. This is exactly how Monier-Williams correctly classifies it (as a neuter noun). LB The Bahuvrīhi Route (Absurd Meaning): If one were to strictly justify Apte’s masculine ending grammatically, it would have to be read as a Bahuvrīhi compound (which takes its gender from an external referent). However, that would translate to "He whose vehicle is Kumāra"—a mythological absurdity! LB How the Error Occurred LB Apte’s editors likely assigned the masculine ending simply because the implied substantive—the peacock (mayūraḥ or śikhī)—is a masculine noun. They casually conflated the semantic referent with the strict structural morphology of the compound itself. LB By simply swapping the masculine visarga (ḥ) for the neuter (m), you instantly resolve the morphological contradiction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 07/04/2026 dict=AP, L=12514.024, hw=kumārabhṛtyā, user=srhodes
+old = gaṃrbhabharmaṇi
+new = garbhabharmaṇi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 07/04/2026 dict=AP, L=12513.002, hw=kumāl, user=srhodes
+old = to play with fire
+new = to play (like a child)
+comment = Typo – Please refer to the explanation give for this same correction made to the root √kumār !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/04/2026 dict=AP, L=12513.002, hw=kumāl, user=srhodes
+old = to play with fire
+new = to play (like a child)
+comment = Typo – Please refer to the explanation give for this same correction made to the root √kumār !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/04/2026 dict=AP, L=12513, hw=kumār, user=srhodes
+old = to play with fire
+new = to play (like a child)
+comment = Typo – Apte’s addition of "to play with fire" is a lexicographical error and should be discarded for your database. Here is the grammatical breakdown of why the other lexicons are correct and how Apte went astray: LB The Pāṇinian Standard LB In the standard Dhātupāṭha (Class 10, Curādi gaṇa), the root is listed simply as: LB kumāra krīḍāyām (35.36) LB The locative krīḍāyām unequivocally restricts the semantic field to "in the sense of playing" or "sporting." Because the verbal root is derived directly from the nominal stem kumāra (child/boy), the precise and universally accepted interpretation—as accurately reflected by Monier-Williams and traditional commentaries—is strictly "to play (like a child)." LB The Origin of Apte's Error LB There is absolutely no mention of fire (agni, dahana, etc.) in the Pāṇinian source material for this root. Apte's bizarre English definition is likely the result of two conflated concepts during the editorial process: LB Vedic Conflation: In early Vedic texts (such as the Śatapatha Brāhmaṇa), the name Kumāra is famously established as a direct epithet and form of Agni (the Fire God). It appears an editor idiosyncratically mapped this mythological association onto the grammatical root, deciding that if kumāra = fire, then the verbal action of kumār must mean "to sport/play with fire." LB English Idiom Bleed: The editor may have simply leaned too heavily into a Victorian English idiom ("playing with fire") when trying to give "sporting like a youth" a more dynamic English translation, inadvertently freezing a metaphor into a literal dictionary definition. LB Verdict: The definition "to play with fire" is a flawed, non-standard embellishment. For rigorous textual accuracy, rely on the other lexicons and restrict your definition to "To sport; to play (like a child)."
+status = PENDING
+------------------------------------------------------------------------
+
