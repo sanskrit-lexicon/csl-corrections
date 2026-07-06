@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 26, 2026
-1 correction records, with 1 PENDING
+As of July 06, 2026
+1 correction records, with 0 PENDING
 
 Case 7: 06/25/2026 dict=MW, L=58701, hw=kvāna, user=srhodes
 old = kvāna
 new = kvāṇa
 comment = Typo – Please note that this is a Headword "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4801402437
-status = PENDING
+status = Corrected 06 June 2026
 ------------------------------------------------------------------------
 
