@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 07, 2026
+4 correction records, with 4 PENDING
+
+Case 5: 07/06/2026 dict=AP, L=12519.024, hw=kumārikāśvaśuraḥ, user=srhodes
+old = kumārikāśvaśuraḥ
+new = kumārīśvaśuraḥ
+comment = Typo – Please note that the correct pūrvapada is "kumārī" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/06/2026 dict=AP, L=12519.022, hw=kumārikāpuram, user=srhodes
+old = kumārikāpuram
+new = kumārīpuram
+comment = Typo – Please note that the correct pūrvapada is "kumārī" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/06/2026 dict=AP, L=12519.02, hw=kumārikāputraḥ, user=srhodes
+old = kumārikāputraḥ
+new = kumārīputraḥ
+comment = Typo – Please note that the correct pūrvapada is "kumārī" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/06/2026 dict=AP, L=12519.002, hw=kumārī, user=srhodes
+old = kumārikāputraḥ, kumārikāpuram, kumārikāśvaśuraḥ
+new = kumārīputraḥ, kumārīpuram, kumārīśvaśuraḥ
+comment = Typo – Please note that the correct pūrvapada is "kumārī" !
+status = PENDING
+------------------------------------------------------------------------
+
