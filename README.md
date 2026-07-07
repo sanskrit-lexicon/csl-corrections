@@ -1,6 +1,6 @@
 # csl-corrections
 
-_Created: 16-12-2019 · Last updated: 05-07-2026_
+_Created: 16-12-2019 · Last updated: 07-07-2026_
 
 CDSL **data-store** repository in the Sanskrit Lexicon project.
 
@@ -32,6 +32,35 @@ python updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
 The `;`-prefixed lines are comments/separators; the `<L>` header line records
 the source record's original locus (`<pc>` page/column, `<k1>`/`<k2>` head
 keys) so the change survives re-derivation from `csl-orig`.
+
+## Derived data — correction loci
+
+[`data/derived/correction_loci.tsv`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/data/derived/correction_loci.tsv)
+holds **one row per correction record** (39,540 as of 07-07-2026) parsed from every
+change file in the batch folders — both dialects (standard paired `old`/`new` records
+and the GRA inline `<chg>` wrapper). Columns: `dict, L, pc_page, pc_col, k1, k2, line,
+batch, batch_date, process, directive, tag_context, old, new`, with
+`process ∈ {bulk, human}` separating the two machine-generated markup batches
+(BOR 21,990 + LRV/markhom 8,063 = 76% of records) from steady human correction.
+Corrector identity is deliberately excluded. Spec and hypotheses:
+[`docs/HYPOTHESES_AND_VIZ_MEMO.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/HYPOTHESES_AND_VIZ_MEMO.md) §5.1.
+
+Rebuild (validates the census invariants) and regenerate the figures:
+
+```sh
+python scripts/build_correction_loci.py --selftest
+python scripts/build_correction_viz.py
+```
+
+![Correction velocity by batch month](docs/img/correction_velocity_timeline.svg)
+
+![Correction density per dictionary](docs/img/correction_density_per_dict.svg)
+
+![Batch composition treemap](docs/img/correction_batch_treemap.svg)
+
+Entry counts for the density chart come from
+[`data/derived/dict_entry_counts.tsv`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/data/derived/dict_entry_counts.tsv)
+(`grep -c '^<L>'` over csl-orig v02, cached here so the viz never needs csl-orig).
 
 ## Issues Overview
 
