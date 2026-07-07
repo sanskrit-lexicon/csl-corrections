@@ -18,6 +18,19 @@ The end-to-end workflow for applying corrections to dictionary text in `csl-orig
 
 Read it once end-to-end on first contact; refer back to § 4 (reference) and § 8 (gotchas) thereafter.
 
+### Critical preflight for old correction issues
+
+Before applying any old `csl-orig` / dictionary text-correction issue, search the
+`csl-corrections` CFR and batch history for the same dictionary, L number,
+headword, old text, and new text. If the registry records the proposal as
+`No change`, rejected, deferred, or otherwise not to be applied, **stop** unless a
+maintainer explicitly reopens the decision.
+
+Also decide before editing whether an accepted correction should be a plain
+replacement or should preserve the original text with an inline correction layer,
+for example `{{old->new||YYYYMMDD|author|issue|}}`. Document this registry check
+and layer/plain-replacement decision in the batch readme or handoff notes.
+
 ## Repo Category
 
 `data-store` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
