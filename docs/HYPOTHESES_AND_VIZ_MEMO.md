@@ -1,6 +1,6 @@
 # Correction-data hypotheses, visualisations, and new data layers — design memo
 
-_Created: 07-07-2026 · Last updated: 07-07-2026_
+_Created: 07-07-2026 · Last updated: 08-07-2026_
 
 **What this is.** The deep-analysis memo commissioned by
 [H271](https://github.com/gasyoun/Uprava/blob/main/handoffs/H271-Fable_csl-corrections_correction-hypotheses-atlas-DH-ACL_07.07.26.md):
@@ -337,7 +337,7 @@ Each item: statement · data · method/source · effort (S/M/L) · builder tier.
 | Rank | Item | Data | Method / standard | Effort | Tier |
 |---|---|---|---|---|---|
 | 1 | **Build `correction_loci.tsv` (§5.1) + the 3 corrections-native viz (§3)** — one parser over both change-file dialects (standard + GRA `<chg>`), kosha manifest row | all change files | line-grammar parse; ERRANT-style edit spans ([P17-1074](https://aclanthology.org/P17-1074/)) | **M** | Sonnet |
-| 2 | Atlas correction feed: loci heatmap + radar axes + Trust Blocks (sibling memo §3) | 5.1 | Observable Plot; [CHART_TRUST_TEMPLATE](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CHART_TRUST_TEMPLATE.md) | M | Sonnet |
+| 2 | ✅ **DONE 08-07-2026 (H306, Fable 5 `claude-fable-5`)** — Atlas correction feed: loci heatmap + radar axes + Trust Blocks (sibling memo §3) → [csl-atlas PR #226](https://github.com/sanskrit-lexicon/csl-atlas/pull/226): [`/tools/correction-loci`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/tools/correction-loci.md) page + committed packet via [`build-correction-feed.mjs`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/scripts/build-correction-feed.mjs); component-mix + fix-latency radar axes still open (need OBS-T event feed, not 5.1) | 5.1 | Observable Plot; [CHART_TRUST_TEMPLATE](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CHART_TRUST_TEMPLATE.md) | M | Sonnet |
 | 3 | C2 two-process velocity study (+ §5.2 stream layer) | 5.1, 5.2, OBS-T | survival/trend analysis | M | Opus |
 | 4 | C3 shared-locus copy detection (§5.4) feeding the lineage overlay | 5.1, forensic F4, citations | confusion-aware null model | M | Opus |
 | 5 | C4 per-edition confusion matrices (§5.5); optional ByT5+SLP1 pilot | 5.1 | [2022.findings-emnlp.466](https://aclanthology.org/2022.findings-emnlp.466/) | M (L with pilot) | Opus |
