@@ -1,0 +1,10 @@
+Sanskrit Lexicon Correction Form History for MW
+As of July 09, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 07/08/2026 dict=MW, L=16938, hw=av, user=czhao
+old = After "Ved. to promote, favour", it should be a semicolon instead of comma
+new = "(chiefly Ved.) to satisfy, refresh; " should be on a new line
+status = PENDING
+------------------------------------------------------------------------
+
