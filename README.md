@@ -8,6 +8,8 @@ CDSL **data-store** repository in the Sanskrit Lexicon project.
 
 📘 **[Correction Workflow — End-to-End](docs/correction-workflow.md)** — the authoritative guide for applying corrections to `csl-orig` dictionary text. Covers the full pipeline (snapshot → apply → validate → audit → commit), tooling reference, repository topology, and pitfalls.
 
+📗 **[Batch Processing Runbook](docs/BATCH_RUNBOOK.md)** — the operator manual for everything *around* that workflow: intake (form → daily cron → `cfr_ab` registry), the mandatory preflight, batch-folder assembly and lifecycle, derived-data rebuilds, and issue-taxonomy upkeep — with a symptom→cause→cure table and glossary.
+
 ## Example change file
 
 A real paired old→new record from
