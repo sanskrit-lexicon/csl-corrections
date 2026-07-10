@@ -1,0 +1,81 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 10, 2026
+11 correction records, with 11 PENDING
+
+Case 13: 07/09/2026 dict=AP, L=12522.034, hw=kumudanāthaḥ, user=srhodes
+old = -bandhaḥ
+new = -bandhuḥ
+comment = Typo – This is a Print Change in order to correct the spelling! Monier-Williams correctly prints (kumudabandhuḥ). The Proof: The substantive (bandha) denotes "binding," whereas (bandhu) denotes "friend." The contextual synonyms provided in the entry—(nātha), (pati), (bāndhava), and (suhṛd)—all denote "lord" or "friend," proving (kumudabandhaḥ) is a definitive typographical error for the intended (kumudabandhuḥ).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 07/09/2026 dict=AP, L=12522.036, hw=kumudapatiḥ, user=srhodes
+old = -bandhaḥ
+new = -bandhuḥ
+comment = Typo – This is a Print Change in order to correct the spelling! Monier-Williams correctly prints (kumudabandhuḥ). The Proof: The substantive (bandha) denotes "binding," whereas (bandhu) denotes "friend." The contextual synonyms provided in the entry—(nātha), (pati), (bāndhava), and (suhṛd)—all denote "lord" or "friend," proving (kumudabandhaḥ) is a definitive typographical error for the intended (kumudabandhuḥ).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 07/09/2026 dict=AP, L=12522.042, hw=kumudasuhṛd, user=srhodes
+old = -bandhaḥ
+new = -bandhuḥ
+comment = Typo – This is a Print Change in order to correct the spelling! Monier-Williams correctly prints (kumudabandhuḥ). The Proof: The substantive (bandha) denotes "binding," whereas (bandhu) denotes "friend." The contextual synonyms provided in the entry—(nātha), (pati), (bāndhava), and (suhṛd)—all denote "lord" or "friend," proving (kumudabandhaḥ) is a definitive typographical error for the intended (kumudabandhuḥ).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 07/09/2026 dict=AP, L=12522.04, hw=kumudabāndhavaḥ, user=srhodes
+old = -bandhaḥ
+new = -bandhuḥ
+comment = Typo – This is a Print Change in order to correct the spelling! Monier-Williams correctly prints (kumudabandhuḥ). The Proof: The substantive (bandha) denotes "binding," whereas (bandhu) denotes "friend." The contextual synonyms provided in the entry—(nātha), (pati), (bāndhava), and (suhṛd)—all denote "lord" or "friend," proving (kumudabandhaḥ) is a definitive typographical error for the intended (kumudabandhuḥ).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 07/09/2026 dict=AP, L=12522.038, hw=kumudabandhaḥ, user=srhodes
+old = -bandhaḥ
+new = -bandhuḥ
+comment = Typo – This is a Print Change in order to correct the spelling! Monier-Williams correctly prints (kumudabandhuḥ). The Proof: The substantive (bandha) denotes "binding," whereas (bandhu) denotes "friend." The contextual synonyms provided in the entry—(nātha), (pati), (bāndhava), and (suhṛd)—all denote "lord" or "friend," proving (kumudabandhaḥ) is a definitive typographical error for the intended (kumudabandhuḥ).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 07/09/2026 dict=AP, L=12522.038, hw=kumudabandhaḥ, user=srhodes
+old = kumudabandhaḥ
+new = kumudabandhuḥ
+comment = Typo – This is a Print Change in order to correct the spelling! Monier-Williams correctly prints (kumudabandhuḥ). The Proof: The substantive (bandha) denotes "binding," whereas (bandhu) denotes "friend." The contextual synonyms provided in the entry—(nātha), (pati), (bāndhava), and (suhṛd)—all denote "lord" or "friend," proving (kumudabandhaḥ) is a definitive typographical error for the intended (kumudabandhuḥ).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 07/09/2026 dict=AP, L=12522.042, hw=kumudasuhṛd, user=srhodes
+old = R.
+new = Mb. 7. 159. 42.
+comment = Typo – This is a Print Change in order to correct the citation given here, which is definitively from the Mahābhārata (specifically, Droṇaparvan 7.159.42).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 07/09/2026 dict=AP, L=12522.04, hw=kumudabāndhavaḥ, user=srhodes
+old = R.
+new = Mb. 7. 159. 42.
+comment = Typo – This is a Print Change in order to correct the citation given here, which is definitively from the Mahābhārata (specifically, Droṇaparvan 7.159.42).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 07/09/2026 dict=AP, L=12522.038, hw=kumudabandhaḥ, user=srhodes
+old = R.
+new = Mb. 7. 159. 42.
+comment = Typo – This is a Print Change in order to correct the citation given here, which is definitively from the Mahābhārata (specifically, Droṇaparvan 7.159.42).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/09/2026 dict=AP, L=12522.036, hw=kumudapatiḥ, user=srhodes
+old = R.
+new = Mb. 7. 159. 42.
+comment = Typo – This is a Print Change in order to correct the citation given here, which is definitively from the Mahābhārata (specifically, Droṇaparvan 7.159.42).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/09/2026 dict=AP, L=12522.034, hw=kumudanāthaḥ, user=srhodes
+old = R.
+new = Mb. 7. 159. 42.
+comment = Typo – This is a Print Change in order to correct the citation given here, which is definitively from the Mahābhārata (specifically, Droṇaparvan 7.159.42).
+status = PENDING
+------------------------------------------------------------------------
+
