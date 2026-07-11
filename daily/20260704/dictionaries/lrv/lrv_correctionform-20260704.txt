@@ -1,31 +1,31 @@
 Sanskrit Lexicon Correction Form History for LRV
-As of July 05, 2026
-4 correction records, with 4 PENDING
+As of July 11, 2026
+4 correction records, with 0 PENDING
 
 Case 14: 07/04/2026 dict=LRV, L=9170, hw=kālābhra, user=srhodes
 old = a dark, watery cloud.
 new = a dark watery cloud.
 comment = Typo – Please remove the "comma". Here is the reason: "Removing the comma tightens the definition and actually makes it a more accurate reflection of the Sanskrit compound's structure. Here is the linguistic breakdown of why "a dark watery cloud" is superior: LB 1. English Grammar: Coordinate vs. Cumulative Adjectives LB With the comma (Coordinate): "A dark, watery cloud" treats "dark" and "watery" as coordinate adjectives. This implies they modify "cloud" equally and independently (i.e., "a cloud that is dark and watery"). LB Without the comma (Cumulative): "A dark watery cloud" treats them as cumulative adjectives. In this structure, "watery cloud" acts as a single, unified noun phrase, and "dark" modifies that entire phrase. LB 2. Alignment with Sanskrit Morphology LB The word kālābhra is a karmadhāraya compound consisting of kāla (dark/black) + abhra (cloud). LB If we look at the traditional etymology (such as in Yāska's Nirukta), abhra is derived as a water-bearing entity (apām bharaṇa). While it translates simply as "cloud," the inherent implication is a rain-cloud. LB If Vaidya's intention by writing "watery cloud" was to capture the specific nature of abhra, then "watery cloud" is the substantive base, and kāla is the adjective modifying it. LB Conclusion LB By dropping the comma, you perfectly mirror the karmadhāraya relationship in English: kāla (dark) directly modifies the base concept of abhra (watery cloud). It reads less like a loose list of attributes and more like a precise, unified compound. LB For your dictionary integration, "a dark watery cloud" (or simply "a dark rain-cloud") is the stronger, more structurally accurate choice."
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 13: 07/04/2026 dict=LRV, L=9167, hw=kālāṃtarāvṛtta, user=srhodes
 old = kālāṃtarāvṛtta
 new = kālāṃtarāvṛta
 comment = Typo – Headword Typo!
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 2: 07/04/2026 dict=LRV, L=9150, hw=kāla, user=srhodes
 old = distislls
 new = distills
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 07/04/2026 dict=LRV, L=9142.1, hw=kārṣaka, user=srhodes
 old = kārṣaka
 new = DELETE ?
 comment = Typo – FYI: It can safely be classified as a textual error or a highly uncritical adoption of a corrupted orthographic variant. LB Here is the breakdown of why this stands out as incorrect when cross-referenced with grammatical rules and standard lexicographical sources. LB 1. Textual Contradiction in Manusmṛti LB Vaidya cites Manu 8.136 as authority for this definition. However, the critical edition of the verse reads: LB kārṣāpaṇas tu vijñeyas tāmrikaḥ kārṣikaḥ paṇaḥ LB (A copper paṇa weighing a karṣa is to be known as a kārṣāpaṇa). LB The primary text utilizes the term kārṣika, not kārṣaka. Vaidya has conflated the two in his headword. LB 2. Cross-Reference with Standard Dictionaries LB When comparing this against the major historical Sanskrit-English lexicons, the semantic boundary between these terms is strictly maintained: LB V.S. Apte: Explicitly defines kārṣaka exclusively as a "cultivator," "husbandman," or "farmer." The coin or weight is firmly listed under the correct entries of kārṣika and kārṣāpaṇa. LB Monier-Williams: Concurs that kārṣaka means "ploughman/peasant." However, Monier-Williams includes a very brief note under the entry for kārṣika, stating that some indigenous lexicographers (L.) occasionally equate it with kārṣaka. This indicates that an orthographic corruption (swapping the i-kāra for an a-kāra) existed in a few minor kośas. LB Amarakośa: Categorizes terms related to cultivators and agriculture under the Śūdravarga, maintaining the distinct agricultural meaning for derivations of the root without confusing them with numismatic terms. LB 3. Grammatical and Etymological Derivation LB The morphological structures dictated by Pāṇinian grammar prove that these are two entirely distinct words with different suffixes: LB kārṣaka (Cultivator): Derived from the verbal root √kṛṣ (to plough, draw) + the agentive suffix ṇvul (aka). It translates strictly to "the agent of ploughing." LB kārṣika (Coin/Weight): Derived from the nominal base karṣa (a specific weight) + the secondary (taddhita) suffix ṭhañ (ika), yielding the meaning "that which amounts to a karṣa." LB Conclusion LB You have successfully caught a notable error in Vaidya's compilation. He printed kārṣaka when the correct headword for the context provided should be kārṣika. While some obscure indigenous lists might have historically conflated the spelling, elevating it to a standard dictionary headword for a coin—especially while citing a verse from Manu that explicitly uses kārṣika—is a definitive mistake on Vaidya's part.
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
