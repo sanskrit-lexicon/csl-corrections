@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History
-As of July 04, 2026
-3 correction records, with 3 PENDING
+As of July 11, 2026
+3 correction records, with 0 PENDING
 
 Case 3: 07/03/2026 dict=ap, L=, hw=kzamam, user=jim
 old = [Printed book page 0622-2]  क्षम   .-मम्  1 Propriety, fitness. 2 Battle, <!!!>war. मः N. of Śiva.<!!!>                   [ID=13303.002 ]      ▲ .क्षपाटः  .क्षपाचरः  .क्षपान्ध्यम्
 new = Should क्षमः be a new headword in AP ?
 comment = 
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 2: 07/03/2026 dict=SHS, L=6237, hw=iti, user=srhodes
 old = The meanings of eva, (so, thus, even, in this manner.)
 new = The meanings of evam, (so, thus, even, in this manner.)
 comment = Typo – Please note that this is a suggested "Print Change" for precision and accuracy of the General Sanskrit Usage. Definitions given should not cite "Rare Usage" in preference of the General Widely Accepted terminology. You may confer with the evidence presented here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4875951164
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 07/03/2026 dict=MW, L=92481, hw=dikkarika, user=srhodes
 old = Śiś. iv, 9
 new = Śiś. iv, 29
 comment = Typo – This has been confirmed, and easy for you to verify.
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
