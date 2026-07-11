@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of June 28, 2026
-1 correction records, with 1 PENDING
+As of July 11, 2026
+1 correction records, with 0 PENDING
 
-Case 2: 06/27/2026 dict=SHS, L=10045, hw=kāraṇa, user=srhodes
+Case 1: 06/27/2026 dict=SHS, L=10045, hw=kāraṇa, user=srhodes
 old = Asamavayi
 new = Asamavāyi
 comment = Typo - For correct transliteration.
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
