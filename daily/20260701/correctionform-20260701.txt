@@ -1,94 +1,87 @@
 Sanskrit Lexicon Correction Form History
-As of July 02, 2026
-13 correction records, with 13 PENDING
+As of July 11, 2026
+12 correction records, with 0 PENDING
 
-Case 13: 07/01/2026 dict=AP, L=12503, hw=kupyam, user=srhodes
+Case 12: 07/01/2026 dict=AP, L=12503, hw=kupyam, user=srhodes
 old = ratnānnapānakupyānāmāṭaturnaṣṭasaṃsmatī . Bk. 6. 59.
 new = ratnānnapānakupyānāmāṭaturnaṣṭasaṃsmṛtī . Bk. 6. 58.
 comment = Typo – Please note that this is a Double "print change".  The concluding portion "saṃsmṛtī", should be obvious. And, the citation correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4857139851
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
-Case 12: 07/01/2026 dict=AP, L=12482, hw=kuntr, user=srhodes
+Case 11: 07/01/2026 dict=AP, L=12482, hw=kuntr, user=srhodes
 old = kuntr
 new = kundr
 comment = Typo – Please note that this is a Headword "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4855652286. Also, once the print change is made there is the issue of correct "Alphabetical Placement". Andhrabharati has suggested as follows: "a relocation to L-12488.1, i. e. after L-12488".
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
-Case 11: 07/01/2026 dict=AP, L=12503, hw=kupyam, user=srhodes
+Case 10: 07/01/2026 dict=AP, L=12503, hw=kupyam, user=srhodes
 old = kośaṃśca
 new = kośaśca
 comment = Typo – Please note that this correction follows the printed page. The "ṃ" is simply an erroneous speck in the printing.
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
-Case 10: 07/01/2026 dict=WIL, L=10771, hw=kupata, user=srhodes
+Case 9: 07/01/2026 dict=WIL, L=10771, hw=kupata, user=srhodes
 old = Excellently.
 new = Excellently; [insert this minor editorial addition]: "(wrong reading for kūpat)".
 comment = Typo – This very important editorial addition has been confirmed by the authority of Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4850457020
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
-Case 9: 07/01/2026 dict=SHS, L=44893, hw=sūpat, user=srhodes
+Case 8: 07/01/2026 dict=SHS, L=44893, hw=sūpat, user=srhodes
 old = Excellently well.
 new = Excellently, well.
 comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4850064837
-status = PENDING
-------------------------------------------------------------------------
-
-Case 8: 07/01/2026 dict=SHS, L=10122, hw=kāryya, user=srhodes
-old = Law-suit
-new = Lawsuit
-comment = Typo – In modern English usage, "lawsuit" is overwhelmingly the standard, preferred form. LB The version you see on the page—"Law-suit"—with a hyphen, is an older orthographic convention. In the late 19th and early 20th centuries, it was very common to hyphenate compound words that are now almost universally written as single, closed compounds. Therefore, Please make this A Global Correction!
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
 Case 7: 07/01/2026 dict=SHS, L=10122, hw=kāryya, user=srhodes
-old = substitude
-new = substitute
-comment = Typo – Given that the context is a grammatical definition regarding an "adjunct, either as an affix, augment, or [replacement]," the intended term is unambiguously substitute.
-status = PENDING
+old = Law-suit
+new = Lawsuit
+comment = Typo – In modern English usage, "lawsuit" is overwhelmingly the standard, preferred form. LB The version you see on the page—"Law-suit"—with a hyphen, is an older orthographic convention. In the late 19th and early 20th centuries, it was very common to hyphenate compound words that are now almost universally written as single, closed compounds. Therefore, Please make this A Global Correction!
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
 Case 6: 07/01/2026 dict=SHS, L=10122, hw=kāryya, user=srhodes
+old = substitude
+new = substitute
+comment = Typo – Given that the context is a grammatical definition regarding an "adjunct, either as an affix, augment, or [replacement]," the intended term is unambiguously substitute.
+status = Corrected 01 July 2026
+------------------------------------------------------------------------
+
+Case 5: 07/01/2026 dict=SHS, L=10122, hw=kāryya, user=srhodes
 old = denouncement
 new = denouement
 comment = Typo – The Likely Intended Word: Denouement (derived from the French dénouement, meaning "untying" or "unraveling"). In literary and dramatic theory, this refers to the final part of a play or story where the plot strands are resolved. LB The Dictionary Entry: The dictionary you are using lists "denouncement," which traditionally means the act of condemning or informing against someone (a public censure). While "denouncement" is a valid English word, it makes no sense in the context of dramatic structure.
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
-Case 5: 07/01/2026 dict=SHS, L=10107, hw=kārtsnya, user=srhodes
+Case 4: 07/01/2026 dict=SHS, L=10107, hw=kārtsnya, user=srhodes
 old = (-trsnyaṃ)
 new = (-rtsnyam)
 comment = Typo – Better with the solid letter "m" as it is final with nothing following.
-status = PENDING
-------------------------------------------------------------------------
-
-Case 4: 07/01/2026 dict=SHS, L=10106, hw=kārtsna, user=srhodes
-old = (-trsnaṃ)
-new = (-rtsnam)
-comment = Typo – UPDATED! Better with the solid letter "m" as it is final with nothing following.
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
 Case 3: 07/01/2026 dict=SHS, L=10106, hw=kārtsna, user=srhodes
 old = (-trsnaṃ)
-new = (-rtsnaṃ)
-status = PENDING
+new = (-rtsnam)
+comment = Typo – UPDATED! Better with the solid letter "m" as it is final with nothing following.
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
-Case 2: 07/01/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+Case 2: 07/01/2026 dict=SHS, L=10106, hw=kārtsna, user=srhodes
+old = (-trsnaṃ)
+new = (-rtsnaṃ)
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 07/01/2026 dict=MW, L=197397, hw=vinyasana, user=srhodes
 old = pada-vinyasaṇam-√kṛ
 new = pada-vinyasanam √kṛ
 comment = Typo – Please note that this correction follows the printed text.
-status = PENDING
+status = Corrected 01 July 2026
 ------------------------------------------------------------------------
 
