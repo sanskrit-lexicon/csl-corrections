@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 29, 2026
-3 correction records, with 3 PENDING
+As of July 11, 2026
+3 correction records, with 0 PENDING
 
 Case 7: 06/28/2026 dict=AP, L=12476, hw=kuntaḥ, user=srhodes
 old = virahinikṛntanakuntamukhākṛtiketakidanturitāśe
 new = virahiṇīkṛntanakuntamukhākṛtiketakīdanturitāśe
 comment = Typo – This magnificent, highly agglutinated compound from Jayadeva’s Gītagovinda has been mangled by digitization/typesetting glitches dropping crucial diacritics: LB virahini: This is incorrect. It must be virahiṇī. It requires the retroflex ṇ (triggered by the 'r' in viraha) and the long ī to correctly form the feminine stem denoting "a separated woman." LB ketaki: This is incorrect. The standard botanical term here should be spelled with a long vowel as ketakī before joining with danturitāśe.
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 2: 06/28/2026 dict=AP, L=18884.002, hw=nimna, user=srhodes
 old = nimna
 new = nimnam
 comment = Typo – This correction is a Headword "Print Change", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4823966287
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 06/28/2026 dict=AP, L=18884.002, hw=nimna, user=srhodes
 old = nimna + .-mna
 new = nimna + .-mnam
 comment = Typo – This correction is a "Print Change", confirmed by AB here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4823966287
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 

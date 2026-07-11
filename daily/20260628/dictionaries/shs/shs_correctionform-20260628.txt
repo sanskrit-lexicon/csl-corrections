@@ -1,32 +1,32 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of June 29, 2026
-4 correction records, with 4 PENDING
+As of July 11, 2026
+4 correction records, with 0 PENDING
 
 Case 6: 06/28/2026 dict=SHS, L=10087, hw=kārūṣa, user=srhodes
 old = vṛhadguhā
 new = vṛhadguhāḥ
 comment = Typo – Please note this correction follows the possible intended PLURAL declension (to match the plural inhabitants)!
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 5: 06/28/2026 dict=SHS, L=10087, hw=kārūṣa, user=srhodes
 old = vṛhadguhā
 new = vṛhadguha
 comment = Typo – Please note this correction follows the SHS listing of this very word!
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 4: 06/28/2026 dict=SHS, L=10075, hw=kārikā, user=srhodes
 old = Sharp pain,
 new = Sharp pain.
 comment = Typo – Please note that all other definitions end with "period". This correction is simply following the standard!
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 3: 06/28/2026 dict=SHS, L=10072, hw=kārāvara, user=srhodes
 old = Nishadha father and Vaidehī mother
 new = Niṣāda father and Vaidehī mother
 comment = Typo - For correct transliteration. Especially to match "Vaidehī" ! Otherwise the father is being modified with "sloppy" spelling !  Please make this Global correction: "Nishadha" —> "Niṣāda" !
-status = PENDING
+status = Corrected 11 July 2026. Nishadha is a proper name of some people ruled by Nala. Not making global change.
 ------------------------------------------------------------------------
 
