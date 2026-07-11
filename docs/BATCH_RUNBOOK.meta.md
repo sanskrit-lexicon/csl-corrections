@@ -1,6 +1,6 @@
 # BATCH_RUNBOOK.md — metadoc
 
-_Created: 10-07-2026 · Last updated: 10-07-2026_
+_Created: 10-07-2026 · Last updated: 11-07-2026_
 
 Companion record for
 [docs/BATCH_RUNBOOK.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/BATCH_RUNBOOK.md).
@@ -53,6 +53,55 @@ Any PR that adds a script, changes the cron, or moves a batch-folder
 convention must update the runbook (§1/§3) in the same pass and tick a row
 here.
 
+## Intended use / known misuse
+
+**For:** a new operator or contributor running the `csl-corrections` batch
+pipeline end to end without reading the scripts — knowing which command to run
+at which stage (§1 cheat-sheet), what the registry (`cfr_ab.tsv`,
+`correctionform.txt`) means before touching an old issue (§3.2 preflight), how
+a batch folder is shaped (§3.3), and which issue-taxonomy scripts are safe to
+rerun versus one-shot (§3.7). It is the *operational* companion to
+[docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md),
+which owns the 8-stage apply/validate/audit mechanics and should not be
+re-derived from this doc.
+
+**Known/likely misuse:**
+- Treating this runbook as authoritative for the `updateByLine` /
+  XML-validation stages themselves — those gotchas live only in
+  `correction-workflow.md` §8; this doc intentionally does not duplicate them.
+- Rerunning the one-shot `csl-corrections_label.py` / `_project.py` /
+  `csl-orig_label.py` / `_project.py` backfill scripts as if they were the
+  general-purpose issue-taxonomy verifiers (§3.7 table) — they carry hardcoded
+  2026-backfill issue lists and are not idempotent maintenance tools.
+- Applying an old correction issue without running the §3.2 preflight grep
+  first — the registry's "No change required" verdict is binding until a
+  maintainer reopens the item; skipping preflight risks reintroducing a
+  rejected change.
+- Reading the top-level `app/` PHP tree as a locally runnable app — it is the
+  deployed Cologne-server source, not executable from this repo (§2).
+- Treating script line counts in the maintainer appendix (§6) or here as a
+  quality/complexity measure — they are stale-drift identifiers, not metrics.
+
+## Maintenance & sunset plan
+
+Owned by the `csl-corrections` repo itself: the daily-cron workflow
+([.github/workflows/fetch-daily-corrections-from-cologne.yml](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/.github/workflows/fetch-daily-corrections-from-cologne.yml))
+is the automated writer, and any human maintainer applying a batch or touching
+the cron/batch-folder convention is bound by this doc's own "Maintenance
+rule" above to update §1/§3 in the same PR. No dedicated human owner beyond
+"whoever operates a `csl-corrections` batch round" — there is no separate
+pipeline or service to page. **What "archived/ended" looks like:** the
+runbook is retired only if the batch-processing model it documents is retired
+— e.g. the Cologne form intake is replaced, or `csl-orig` correction delivery
+moves off the change-file/`updateByLine` mechanism entirely. Short of that,
+the doc ages in place per its own "Known limitations" section (cron/schedule
+drift, historical §3.5 scripts going further out of date) rather than being
+sunset.
+
+## Deprecation status
+
+`active`
+
 ## Related documents
 
 [correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) ·
@@ -65,5 +114,6 @@ here.
 | Date | Change | By |
 |---|---|---|
 | 10-07-2026 | Initial version + README link | Fable 5 (`claude-fable-5`), H502 |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 _Dr. Mārcis Gasūns_
