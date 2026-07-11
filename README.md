@@ -1,19 +1,26 @@
 # csl-corrections
 
-_Created: 16-12-2019 · Last updated: 07-07-2026_
+_Created: 16-12-2019 · Last updated: 11-07-2026_
 
-CDSL **data-store** repository in the Sanskrit Lexicon project.
+CDSL **data-store** repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project. It is the staging ground and audit trail for text corrections to the Cologne dictionaries: individual change-files are validated locally and **parked in dated batch folders here**, then shipped upstream into [`csl-orig`](https://github.com/sanskrit-lexicon/csl-orig) as **one consolidated pull request roughly monthly** — never as direct pushes or per-issue noise. The change-files are the durable record of what was corrected and why; they survive re-derivation of the dictionaries from `csl-orig`.
+
+## Repository role
+
+- **Intake** — corrections arrive from the correction form, a daily cron fetch, and issue triage, and are logged in the `cfr_ab` registry (see the batch runbook below).
+- **Staging** — each validated correction is filed into a dated batch folder under [`batches/`](https://github.com/sanskrit-lexicon/csl-corrections/tree/main/batches) (e.g. [`batches/20251126/`](https://github.com/sanskrit-lexicon/csl-corrections/tree/main/batches/20251126)), as a paired `old`/`new` change-file per dictionary. `csl-orig` itself is never touched here.
+- **Delivery** — accumulated batches are re-validated against current upstream and merged into `csl-orig` as a single monthly consolidated PR.
+- **Derived data** — every parked change-file is also parsed into a machine-readable correction census for analysis (see [Derived data](#derived-data--correction-loci)).
 
 ## Documentation
 
-📘 **[Correction Workflow — End-to-End](docs/correction-workflow.md)** — the authoritative guide for applying corrections to `csl-orig` dictionary text. Covers the full pipeline (snapshot → apply → validate → audit → commit), tooling reference, repository topology, and pitfalls.
+📘 **[Correction Workflow — End-to-End](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)** — the authoritative guide for applying corrections to `csl-orig` dictionary text. Covers the full pipeline (snapshot → apply → validate → audit → commit), tooling reference, repository topology, and pitfalls. This is the canonical reference that the wider org's `CLAUDE.md` and sibling-repo READMEs point at.
 
-📗 **[Batch Processing Runbook](docs/BATCH_RUNBOOK.md)** — the operator manual for everything *around* that workflow: intake (form → daily cron → `cfr_ab` registry), the mandatory preflight, batch-folder assembly and lifecycle, derived-data rebuilds, and issue-taxonomy upkeep — with a symptom→cause→cure table and glossary.
+📗 **[Batch Processing Runbook](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/BATCH_RUNBOOK.md)** — the operator manual for everything *around* that workflow: intake (form → daily cron → `cfr_ab` registry), the mandatory preflight, batch-folder assembly and lifecycle, derived-data rebuilds, and issue-taxonomy upkeep — with a symptom→cause→cure table and glossary.
 
 ## Example change file
 
 A real paired old→new record from
-[`batches/20251126/dictionaries/mw/change_mw_1.txt`](batches/20251126/dictionaries/mw/change_mw_1.txt)
+[`batches/20251126/dictionaries/mw/change_mw_1.txt`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batches/20251126/dictionaries/mw/change_mw_1.txt)
 — MW line 8104, root `aYj` (SLP1), fixing a sandhi typo in the perfect stem
 (`A-naYja` → `AnaYja`):
 
@@ -25,7 +32,7 @@ A real paired old→new record from
 ;---------------------------------------------------
 ```
 
-Applied per the org-wide pattern documented in [`docs/correction-workflow.md`](docs/correction-workflow.md):
+Applied per the org-wide pattern documented in [`docs/correction-workflow.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md):
 
 ```sh
 python updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
@@ -54,61 +61,27 @@ python scripts/build_correction_loci.py --selftest
 python scripts/build_correction_viz.py
 ```
 
-![Correction velocity by batch month](docs/img/correction_velocity_timeline.svg)
+![Correction velocity by batch month](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/img/correction_velocity_timeline.svg)
 
-![Correction density per dictionary](docs/img/correction_density_per_dict.svg)
+![Correction density per dictionary](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/img/correction_density_per_dict.svg)
 
-![Batch composition treemap](docs/img/correction_batch_treemap.svg)
+![Batch composition treemap](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/img/correction_batch_treemap.svg)
 
 Entry counts for the density chart come from
 [`data/derived/dict_entry_counts.tsv`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/data/derived/dict_entry_counts.tsv)
 (`grep -c '^<L>'` over csl-orig v02, cached here so the viz never needs csl-orig).
 
-## Issues Overview
-
-**Total**: 100 | **Open**: 7 | **Closed**: 93
-
-### By Milestone
-
-| Milestone | Open | Closed | Total |
-|---|---|---|---|
-| Dictionary to Book | 0 | 1 | 1 |
-| Digitization Quality | 2 | 77 | 79 |
-| Major Enhancements | 2 | 2 | 4 |
-| Structured Data | 3 | 13 | 16 |
-
-### By Type
-
-```mermaid
-pie title Issues by Type
-    "enhancement" : 50
-    "bug" : 28
-    "question" : 14
-    "documentation" : 7
-    "tech-debt" : 1
-    "infrastructure" : 1
-```
-
-### By Severity
-
-```mermaid
-pie title Issues by Severity
-    "minor" : 93
-    "trivial" : 10
-```
-
 ## GitHub Issue Conventions
 
-Follows the [Cologne tooling-repo taxonomy](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md):
+This repository follows the [Cologne tooling-repo taxonomy](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md). Every issue carries exactly one **type** label, one **severity** level, and one **milestone**:
 
-- **9 type labels**: bug, feature, enhancement, performance, tech-debt, security, documentation, infrastructure, question
-- **4 severity levels**: trivial, minor, major, critical
+- **9 type labels**: `bug`, `feature`, `enhancement`, `performance`, `tech-debt`, `security`, `documentation`, `infrastructure`, `question`
+- **4 severity levels**: `trivial`, `minor`, `major`, `critical`
 - **5 milestones**: API Stability, User Experience, Data Quality, Developer Experience, Community
 - **Org Project**: [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9)
 
-See [CLAUDE.md](CLAUDE.md) for full definitions.
+Full label/severity/milestone definitions are in [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/CLAUDE.md). For live counts and the current backlog, see the [issue tracker](https://github.com/sanskrit-lexicon/csl-corrections/issues).
 
 ---
-*Generated by Cologne Tooling Runbook on 2026-05-15*
 
 _Dr. Mārcis Gasūns_
