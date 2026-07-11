@@ -1,10 +1,10 @@
 Sanskrit Lexicon Correction Form History for LRV
-As of June 30, 2026
-1 correction records, with 1 PENDING
+As of July 11, 2026
+1 correction records, with 0 PENDING
 
-Case 4: 06/29/2026 dict=LRV, L=9091, hw=kārtikeya, user=srhodes
+Case 2: 06/29/2026 dict=LRV, L=9091, hw=kārtikeya, user=srhodes
 old = seren
 new = seven
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
