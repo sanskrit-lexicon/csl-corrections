@@ -1,38 +1,18 @@
 Sanskrit Lexicon Correction Form History
-As of June 27, 2026
-5 correction records, with 5 PENDING
+As of July 11, 2026
+2 correction records, with 0 PENDING
 
-Case 5: 06/26/2026 dict=AP, L=12460, hw=kuts, user=srhodes
+Case 2: 06/26/2026 dict=AP, L=12460, hw=kuts, user=srhodes
 old = katsita
 new = kutsita
 comment = Typo – the past passive participle for the root kuts is kutsita.
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
-Case 4: 06/26/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 3: 06/26/2026 dict=AP, L=12452.002, hw=kutukin, user=srhodes
+Case 1: 06/26/2026 dict=AP, L=12452.002, hw=kutukin, user=srhodes
 old = N. 2. 34
 new = N. 2. 35
 comment = Typo – The dictionary misattributes the citation. It lists the verse as belonging to Naiṣadhacarita 2.34 (N. 2. 34). However, this is actually the opening line of Naiṣadhacarita 2.35. (Verse 2.34 ends with the phrase ...trivalibhrāji kṛtaṃ damasvasuḥ, whereas 2.35 begins with udaraṃ parimāti muṣṭinā...).
-status = PENDING
-------------------------------------------------------------------------
-
-Case 2: 06/26/2026 dict=AE, L=  8, hw=abbot, user=dhaval
-old = none
-new = test
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 06/26/2026 dict=ae, L=, hw=, user=dhaval
-old = < = >     abbot  abbot  [Printed book page 001]  Abbot, s. <!!!>maṭhādhyakṣaḥ,<!!!> vihārasya pradhānapuruṣaḥ. Abbess, s. maṭhādhyakṣā, vihārapālinī.  [ID=8 ]
-new = test
-comment = 
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
