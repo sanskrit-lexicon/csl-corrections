@@ -1,50 +1,50 @@
 Sanskrit Lexicon Correction Form History for AP
-As of July 06, 2026
-7 correction records, with 7 PENDING
+As of July 11, 2026
+7 correction records, with 0 PENDING
 
 Case 11: 07/05/2026 dict=AP, L=10512 , hw=Uh, user=aprigliano
 old = ऊहतिं-ते
 new = ऊहति-ते
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 10: 07/05/2026 dict=AP, L=12518.002, hw=kumārikī, user=srhodes
 old = kumārin (-ṇī f.)
 new = DELETE
 comment = Typo - Current Conflation: Apte erroneously collapses the distinct semantic fields of the masculine-derived kumārin and the feminine-derived kumārika into a single definition. LB The Grammatical Reality: kumārin is fundamentally formed by adding the possessive suffix ini to the masculine base kumāra (child/boy). LB Classical Attestation: As corroborated by the Sāmavidhāna Brāhmaṇa and Monier-Williams, this specific derivation unequivocally translates to "Having children; granting children." LB This targeted correction will cleanly untangle the two entries and restore strict Pāṇinian and historical accuracy to the lexicon. LB While kumārika and kumārin are theoretically interchangeable in pure Pāṇinian morphological mechanics, they are not semantically equivalent across all definitions in documented classical usage. Monier-Williams correctly separates them based on strict textual attestation. LB The Semantic Bifurcation LB Although both the ini and than (ika) suffixes indicate possession, the Sanskrit literary tradition naturally gravitated toward pairing each specific suffix with a different root substantive to avoid contextual ambiguity: LB kumārin: this form overwhelmingly defaults to the masculine base kumāra (child/boy). As Monier-Williams notes, texts like the Sāmavidhāna Brāhmaṇa use kumārin explicitly to mean "having children" or "granting children." LB kumārika: This form became highly specialized as the derivative of the feminine base kumārī (girl) via the vrīhyādi gaṇa exception. Consequently, it specifically carries the meaning "furnished with or abounding in girls." LB Apte's Conflation vs. Monier-Williams' Precision LB As visible in the current window display, Apte lumps both kumārika and kumārin under a single, unified definition ("Furnished with girls, abounding in girls"). LB By collapsing these headwords together, Apte's 1957 edition creates an artificial semantic equivalence that ignores how the words were actually deployed in ancient texts. Monier-Williams represents the superior lexicographical architecture by splitting the headwords to accurately reflect their distinct historical attestations. LB Database Integration Strategy LB To maintain rigorous accuracy, bypass Apte's conflation and adopt Monier-Williams' bifurcated structure: LB kumārin: "Having children; granting children." LB kumārika: "Furnished with girls; abounding in girls."
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 9: 07/05/2026 dict=AP, L=12518, hw=kumārika, user=srhodes
 old = kumārin (-ṇī f.)
 new = DELETE
 comment = Typo - Current Conflation: Apte erroneously collapses the distinct semantic fields of the masculine-derived kumārin and the feminine-derived kumārika into a single definition. LB The Grammatical Reality: kumārin is fundamentally formed by adding the possessive suffix ini to the masculine base kumāra (child/boy). LB Classical Attestation: As corroborated by the Sāmavidhāna Brāhmaṇa and Monier-Williams, this specific derivation unequivocally translates to "Having children; granting children." LB This targeted correction will cleanly untangle the two entries and restore strict Pāṇinian and historical accuracy to the lexicon. LB While kumārika and kumārin are theoretically interchangeable in pure Pāṇinian morphological mechanics, they are not semantically equivalent across all definitions in documented classical usage. Monier-Williams correctly separates them based on strict textual attestation. LB The Semantic Bifurcation LB Although both the ini and than (ika) suffixes indicate possession, the Sanskrit literary tradition naturally gravitated toward pairing each specific suffix with a different root substantive to avoid contextual ambiguity: LB kumārin: this form overwhelmingly defaults to the masculine base kumāra (child/boy). As Monier-Williams notes, texts like the Sāmavidhāna Brāhmaṇa use kumārin explicitly to mean "having children" or "granting children." LB kumārika: This form became highly specialized as the derivative of the feminine base kumārī (girl) via the vrīhyādi gaṇa exception. Consequently, it specifically carries the meaning "furnished with or abounding in girls." LB Apte's Conflation vs. Monier-Williams' Precision LB As visible in the current window display, Apte lumps both kumārika and kumārin under a single, unified definition ("Furnished with girls, abounding in girls"). LB By collapsing these headwords together, Apte's 1957 edition creates an artificial semantic equivalence that ignores how the words were actually deployed in ancient texts. Monier-Williams represents the superior lexicographical architecture by splitting the headwords to accurately reflect their distinct historical attestations. LB Database Integration Strategy LB To maintain rigorous accuracy, bypass Apte's conflation and adopt Monier-Williams' bifurcated structure: LB kumārin: "Having children; granting children." LB kumārika: "Furnished with girls; abounding in girls."
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 8: 07/05/2026 dict=AP, L=12518.006, hw=kumāriṇī, user=srhodes
 old = Furnished with girls, abounding in girls
 new = Having children; granting children
 comment = Typo - Current Conflation: Apte erroneously collapses the distinct semantic fields of the masculine-derived kumārin and the feminine-derived kumārika into a single definition. LB The Grammatical Reality: kumārin is fundamentally formed by adding the possessive suffix ini to the masculine base kumāra (child/boy). LB Classical Attestation: As corroborated by the Sāmavidhāna Brāhmaṇa and Monier-Williams, this specific derivation unequivocally translates to "Having children; granting children." LB This targeted correction will cleanly untangle the two entries and restore strict Pāṇinian and historical accuracy to the lexicon. LB While kumārika and kumārin are theoretically interchangeable in pure Pāṇinian morphological mechanics, they are not semantically equivalent across all definitions in documented classical usage. Monier-Williams correctly separates them based on strict textual attestation. LB The Semantic Bifurcation LB Although both the ini and than (ika) suffixes indicate possession, the Sanskrit literary tradition naturally gravitated toward pairing each specific suffix with a different root substantive to avoid contextual ambiguity: LB kumārin: this form overwhelmingly defaults to the masculine base kumāra (child/boy). As Monier-Williams notes, texts like the Sāmavidhāna Brāhmaṇa use kumārin explicitly to mean "having children" or "granting children." LB kumārika: This form became highly specialized as the derivative of the feminine base kumārī (girl) via the vrīhyādi gaṇa exception. Consequently, it specifically carries the meaning "furnished with or abounding in girls." LB Apte's Conflation vs. Monier-Williams' Precision LB As visible in the current window display, Apte lumps both kumārika and kumārin under a single, unified definition ("Furnished with girls, abounding in girls"). LB By collapsing these headwords together, Apte's 1957 edition creates an artificial semantic equivalence that ignores how the words were actually deployed in ancient texts. Monier-Williams represents the superior lexicographical architecture by splitting the headwords to accurately reflect their distinct historical attestations. LB Database Integration Strategy LB To maintain rigorous accuracy, bypass Apte's conflation and adopt Monier-Williams' bifurcated structure: LB kumārin: "Having children; granting children." LB kumārika: "Furnished with girls; abounding in girls."
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 7: 07/05/2026 dict=AP, L=12518.004, hw=kumārin, user=srhodes
 old = Furnished with girls, abounding in girls
 new = Having children; granting children
 comment = Typo - Current Conflation: Apte erroneously collapses the distinct semantic fields of the masculine-derived kumārin and the feminine-derived kumārika into a single definition. LB The Grammatical Reality: kumārin is fundamentally formed by adding the possessive suffix ini to the masculine base kumāra (child/boy). LB Classical Attestation: As corroborated by the Sāmavidhāna Brāhmaṇa and Monier-Williams, this specific derivation unequivocally translates to "Having children; granting children." LB This targeted correction will cleanly untangle the two entries and restore strict Pāṇinian and historical accuracy to the lexicon. LB While kumārika and kumārin are theoretically interchangeable in pure Pāṇinian morphological mechanics, they are not semantically equivalent across all definitions in documented classical usage. Monier-Williams correctly separates them based on strict textual attestation. LB The Semantic Bifurcation LB Although both the ini and than (ika) suffixes indicate possession, the Sanskrit literary tradition naturally gravitated toward pairing each specific suffix with a different root substantive to avoid contextual ambiguity: LB kumārin: this form overwhelmingly defaults to the masculine base kumāra (child/boy). As Monier-Williams notes, texts like the Sāmavidhāna Brāhmaṇa use kumārin explicitly to mean "having children" or "granting children." LB kumārika: This form became highly specialized as the derivative of the feminine base kumārī (girl) via the vrīhyādi gaṇa exception. Consequently, it specifically carries the meaning "furnished with or abounding in girls." LB Apte's Conflation vs. Monier-Williams' Precision LB As visible in the current window display, Apte lumps both kumārika and kumārin under a single, unified definition ("Furnished with girls, abounding in girls"). LB By collapsing these headwords together, Apte's 1957 edition creates an artificial semantic equivalence that ignores how the words were actually deployed in ancient texts. Monier-Williams represents the superior lexicographical architecture by splitting the headwords to accurately reflect their distinct historical attestations. LB Database Integration Strategy LB To maintain rigorous accuracy, bypass Apte's conflation and adopt Monier-Williams' bifurcated structure: LB kumārin: "Having children; granting children." LB kumārika: "Furnished with girls; abounding in girls."
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 6: 07/05/2026 dict=AP, L=12515, hw=kumārakaḥ, user=srhodes
 old = kamārakaḥ
 new = kumārakaḥ
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 5: 07/05/2026 dict=AP, L= 7837 , hw=Azri, user=aprigliano
 old =  पापमेबाश्रयेदस्मान्
 new = पापमेवाश्रयेदस्मान्
-status = PENDING
+status = Corrected 11 July 2026r
 ------------------------------------------------------------------------
 
