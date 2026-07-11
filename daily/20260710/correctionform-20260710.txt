@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History
 As of July 11, 2026
-3 correction records, with 3 PENDING
+3 correction records, with 0 PENDING
 
 Case 3: 07/10/2026 dict=AP, L=12525.002, hw=kumudvatī, user=srhodes
 old = kumudvatīreṇupiśaṃgavigraham
 new = kumudvatīreṇupiśaṅgavigraham
 comment = Typo – The true morphological reality of the word "piśaṃga" demands LB the application of Pāṇini 8.4.58 (anusvārasya yayi parasavarṇaḥ). Before the guttural stop 'g', the nasal must assimilate to the guttural class nasal 'ṅ'. Therefore, the absolute, flawless orthography is "piśaṅga" !
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 2: 07/10/2026 dict=AP, L=12525.002, hw=kumudvatī, user=srhodes
 old = kumudvatīṃ
 new = kumudvatī
 comment = Typo – In Sanskrit poetics, the standard of comparison must syntactically agree in case with the subject of comparison. Princess Indumatī is the implied nominative subject who "did not fix her affection" (bhāvaṃ na babandha). Therefore, the upamāna must be the nominative singular kumudvatī, not the accusative singular kumudvatīṃ. The locative bhānumati ("in the sun") dictates the unsuitability of the object of affection, confirming the structural logic: "Like the white water-lily in the sun, she did not fix her affection [upon him]."
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 07/10/2026 dict=AP, L=12525.002, hw=kumudvatī, user=srhodes
 old = Missing Compound
 new = Please Add the Compound Indicated Here in the Window Display: "kumudvatīśaḥ the moon". This compound deserves to be a Searchable Headword, located in the Hierarchy List Display, in order to Fully Honor and Pay Resect to AP57.
 comment = Missing Compound
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
