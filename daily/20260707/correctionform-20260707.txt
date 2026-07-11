@@ -1,31 +1,24 @@
 Sanskrit Lexicon Correction Form History
-As of July 08, 2026
-4 correction records, with 4 PENDING
+As of July 11, 2026
+3 correction records, with 0 PENDING
 
-Case 4: 07/07/2026 dict=LRV, L=9229, hw=kālaka, user=srhodes
+Case 3: 07/07/2026 dict=LRV, L=9229, hw=kālaka, user=srhodes
 old = n. 1. Liver; 2. a mole, a freckle; 3. a water-snake.
 new = n. Liver; m. 1. a mole, a freckle; 2. a water-snake.
 comment = Typo – Please note that this is a suggested "Print Change", in order to state the correct Gender for the stated definitions. The Vaidya Standard Dictionary improperly blanketed meanings 2 and 3 under the neuter tag that technically only belonged to meaning 1. You may compare this Gender Change with Apte and other authorized lexicons. No one says Neuter Gender for "a mole" or "freckle" or "water-snake" !
-status = PENDING
-------------------------------------------------------------------------
-
-Case 3: 07/07/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 2: 07/07/2026 dict=AP, L=12522.02, hw=kumudābhikhyam, user=srhodes
 old = kumudaḥ + -abhikhyam
 new = kumuda + -abhikhyam
 comment = Typo – In standard Pāṇinian compound formation, the pūrvapada must be stripped of its declension and presented as the uninflected base stem. Therefore, the breakdown should strictly be "kumuda + abhikhyam" (which undergoes savarṇadīrgha sandhi to form kumudābhikhyam). The inclusion of the nominative masculine visarga (ḥ) to make kumudaḥ is grammatically incorrect for a compound's first member. This is almost certainly a digital indexing artifact where the system mistakenly pulled the termination from the masculine headword (kumudaḥ) located immediately above it in the list. You may consider this as a Global Mandate to the entire Etymological Breakdown of All Compounds listed in AP !
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 07/07/2026 dict=AP, L=23951  , hw=prAmARika, user=luigiharitehel.singh
 old = 4 Relating to a prabhāṇa, q. v.
 new = 4 Relating to a pramāṇa q. v.
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 

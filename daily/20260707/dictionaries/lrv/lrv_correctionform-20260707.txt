@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for LRV
-As of July 08, 2026
-1 correction records, with 1 PENDING
+As of July 11, 2026
+1 correction records, with 0 PENDING
 
-Case 4: 07/07/2026 dict=LRV, L=9229, hw=kālaka, user=srhodes
+Case 3: 07/07/2026 dict=LRV, L=9229, hw=kālaka, user=srhodes
 old = n. 1. Liver; 2. a mole, a freckle; 3. a water-snake.
 new = n. Liver; m. 1. a mole, a freckle; 2. a water-snake.
 comment = Typo – Please note that this is a suggested "Print Change", in order to state the correct Gender for the stated definitions. The Vaidya Standard Dictionary improperly blanketed meanings 2 and 3 under the neuter tag that technically only belonged to meaning 1. You may compare this Gender Change with Apte and other authorized lexicons. No one says Neuter Gender for "a mole" or "freckle" or "water-snake" !
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
