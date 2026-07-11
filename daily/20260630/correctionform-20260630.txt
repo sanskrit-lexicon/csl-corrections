@@ -1,53 +1,32 @@
 Sanskrit Lexicon Correction Form History
-As of July 01, 2026
-7 correction records, with 7 PENDING
+As of July 11, 2026
+4 correction records, with 0 PENDING
 
-Case 7: 06/30/2026 dict=MW, L=52199, hw=kupata, user=srhodes
+Case 4: 06/30/2026 dict=MW, L=52199, hw=kupata, user=srhodes
 old = kupata mfn. excellent, W.
 new = kupata ind. excellently, W.
 comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4845251466
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
-Case 6: 06/30/2026 dict=PW, L=31102, hw=kopanaka, user=srhodes
+Case 3: 06/30/2026 dict=PW, L=31102, hw=kopanaka, user=srhodes
 old = n. ein best. Parfum.
 new = m. ein best. Parfum.
 comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4844057406
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
-Case 5: 06/30/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 4: 06/30/2026 dict=MW, L=56611, hw=kopanaka, user=srhodes
+Case 2: 06/30/2026 dict=MW, L=56611, hw=kopanaka, user=srhodes
 old = n. a kind of perfume
 new = m. a kind of perfume
 comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4844057406
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
-Case 3: 06/30/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 2: 06/30/2026 dict=AP, L=12490, hw=kupita, user=srhodes
+Case 1: 06/30/2026 dict=AP, L=12490, hw=kupita, user=srhodes
 old = ḍ
 new = d
 comment = Typo – If you are able to target the English Language Text exclusively, then this correction should be made Global, as there never will be the letter "ḍ" in the English Translation!
-status = PENDING
-------------------------------------------------------------------------
-
-Case 1: 06/30/2026 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+status = Corrected 11 July 2026
 ------------------------------------------------------------------------
 
