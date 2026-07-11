@@ -1,92 +1,92 @@
 Sanskrit Lexicon Correction Form History
-As of July 03, 2026
-13 correction records, with 13 PENDING
+As of July 11, 2026
+13 correction records, with 0 PENDING
 
 Case 13: 07/02/2026 dict=AP, L=  281.04 , hw=aGkapAlih, user=aprigliano
 old = the extremity of region of the lap 
 new = the extremity of the region of the lap 
 comment = Missing word (the)
-status = PENDING
+status = No change required.
 ------------------------------------------------------------------------
 
 Case 12: 07/02/2026 dict=WIL, L=9263, hw=kargha, user=srhodes
 old = GHOST WORD
 new = Add the editorial remark "(probably a variant mis-reading for 'karba')".
 comment = GHOST WORD – Please note that the above correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4869629376
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 11: 07/02/2026 dict=YAT, L=8807, hw=karb, user=srhodes
 old = karvvati
 new = karbbati
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 10: 07/02/2026 dict=YAT, L=8696, hw=kargha, user=srhodes
 old = GHOST WORD
 new = Add the editorial remark "(probably a variant mis-reading for 'karba')".
 comment = GHOST WORD – Please note that the above correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4869629376
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 9: 07/02/2026 dict=YAT, L=8696, hw=kargha, user=srhodes
 old = kardhati
 new = karghati
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 8: 07/02/2026 dict=SHS, L=9258, hw=kargha, user=srhodes
 old = GHOST WORD
 new = Add the editorial remark "(probably a variant mis-reading for 'karba')".
 comment = GHOST WORD – Please note that the above correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4869629376
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 7: 07/02/2026 dict=AP, L=12506.022, hw=kubjavāmana, user=srhodes
 old = -kirātaḥ, -vāmanaḥ
 new = -kirātam, -vāmanam
 comment = Typo – FYI: "The issue with Apte’s entry (kubjakirātaḥ / kubjavāmanaḥ) is that the printed Sanskrit morphology directly contradicts its own English translation. Here is the grammatical breakdown of why Apte is in error and why Monier-Williams is correct to flag the neuter gender. LB The Grammatical Contradiction LB Apte defines the compound as "a hump-backed person and a dwarf." The conjunction "and" dictates that this must be a Dvandva (copulative) compound joining two distinct entities. However, under strict Pāṇinian grammar, a Dvandva compound cannot be masculine singular: LB The Samāhāra Dvandva Route (Monier-Williams' Stance): If you treat the pair as an aggregate whole (a class of attendants often found together in classical royal courts), it becomes a samāhāra dvandva. According to Pāṇini 2.4.17 (sa napuṃsakam), such compounds must be neuter and singular. Furthermore, as Monier-Williams notes, these specific pairings fall under the gavāśvādi group (Pāṇini 2.4.11, gavāśvaprabhṛtīni ca), which explicitly dictates the singular neuter form. Therefore, the grammatically sound forms are kubjakirātam and kubjavāmanam. LB The Itaretara Dvandva Route: If the compound is meant to refer to two distinct individuals functioning independently in a sentence, it must take the dual number. The correct form would be kubjakirātau (masculine dual). LB Apte printed a masculine singular ending (-ḥ), which is impossible for a Dvandva compound of two discrete people. LB How to Correct This for Your Dictionary LB To resolve this anomaly for your database, you must choose one of two paths to harmonize the Sanskrit headword with its grammatical reality: LB Option 1: Correct the Gender (The Samāhāra Fix) LB Headword: kubjakirātam / kubjavāmanam (Neuter Singular) LB Definition: "A hump-backed person and a dwarf" (Aggregate group) LB Justification: This aligns perfectly with Monier-Williams, the gavāśvādi gaṇa, and standard Pāṇinian rules for aggregate compounds. LB Option 2: Correct the Translation (The Karmadhāraya Fix) LB Headword: kubjakirātaḥ / kubjavāmanaḥ (Masculine Singular) LB Definition: "A dwarf who is hump-backed" LB Justification: If you retain Apte's printed masculine singular form, it can only be justified grammatically as a descriptive Karmadhāraya compound (modifying a single person who possesses both traits). LB Verdict: Apte's 1957 entry is a lexicographical misstep, likely caused by a casual amalgamation of a Karmadhāraya form with a Dvandva translation. For rigorous Pāṇinian accuracy, adopting Monier-Williams' classification (Neuter Singular) is the safest and most textually accurate route for your database."
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 6: 07/02/2026 dict=AP, L=12506.02, hw=kubjakirātaḥ, user=srhodes
 old = -kirātaḥ, -vāmanaḥ
 new = -kirātam, -vāmanam
 comment = Typo – FYI: "The issue with Apte’s entry (kubjakirātaḥ / kubjavāmanaḥ) is that the printed Sanskrit morphology directly contradicts its own English translation. Here is the grammatical breakdown of why Apte is in error and why Monier-Williams is correct to flag the neuter gender. LB The Grammatical Contradiction LB Apte defines the compound as "a hump-backed person and a dwarf." The conjunction "and" dictates that this must be a Dvandva (copulative) compound joining two distinct entities. However, under strict Pāṇinian grammar, a Dvandva compound cannot be masculine singular: LB The Samāhāra Dvandva Route (Monier-Williams' Stance): If you treat the pair as an aggregate whole (a class of attendants often found together in classical royal courts), it becomes a samāhāra dvandva. According to Pāṇini 2.4.17 (sa napuṃsakam), such compounds must be neuter and singular. Furthermore, as Monier-Williams notes, these specific pairings fall under the gavāśvādi group (Pāṇini 2.4.11, gavāśvaprabhṛtīni ca), which explicitly dictates the singular neuter form. Therefore, the grammatically sound forms are kubjakirātam and kubjavāmanam. LB The Itaretara Dvandva Route: If the compound is meant to refer to two distinct individuals functioning independently in a sentence, it must take the dual number. The correct form would be kubjakirātau (masculine dual). LB Apte printed a masculine singular ending (-ḥ), which is impossible for a Dvandva compound of two discrete people. LB How to Correct This for Your Dictionary LB To resolve this anomaly for your database, you must choose one of two paths to harmonize the Sanskrit headword with its grammatical reality: LB Option 1: Correct the Gender (The Samāhāra Fix) LB Headword: kubjakirātam / kubjavāmanam (Neuter Singular) LB Definition: "A hump-backed person and a dwarf" (Aggregate group) LB Justification: This aligns perfectly with Monier-Williams, the gavāśvādi gaṇa, and standard Pāṇinian rules for aggregate compounds. LB Option 2: Correct the Translation (The Karmadhāraya Fix) LB Headword: kubjakirātaḥ / kubjavāmanaḥ (Masculine Singular) LB Definition: "A dwarf who is hump-backed" LB Justification: If you retain Apte's printed masculine singular form, it can only be justified grammatically as a descriptive Karmadhāraya compound (modifying a single person who possesses both traits). LB Verdict: Apte's 1957 entry is a lexicographical misstep, likely caused by a casual amalgamation of a Karmadhāraya form with a Dvandva translation. For rigorous Pāṇinian accuracy, adopting Monier-Williams' classification (Neuter Singular) is the safest and most textually accurate route for your database."
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 5: 07/02/2026 dict=AP, L=12506.022, hw=kubjavāmana, user=srhodes
 old = (Headword)  kubjavāmana  AND  (Window Display)  -vāmanaḥ
 new = (Headword)  kubjavāmanam  AND  (Window Display)  -vāmanam
 comment = Typo – FYI: "The issue with Apte’s entry (kubjakirātaḥ / kubjavāmanaḥ) is that the printed Sanskrit morphology directly contradicts its own English translation. Here is the grammatical breakdown of why Apte is in error and why Monier-Williams is correct to flag the neuter gender. LB The Grammatical Contradiction LB Apte defines the compound as "a hump-backed person and a dwarf." The conjunction "and" dictates that this must be a Dvandva (copulative) compound joining two distinct entities. However, under strict Pāṇinian grammar, a Dvandva compound cannot be masculine singular: LB The Samāhāra Dvandva Route (Monier-Williams' Stance): If you treat the pair as an aggregate whole (a class of attendants often found together in classical royal courts), it becomes a samāhāra dvandva. According to Pāṇini 2.4.17 (sa napuṃsakam), such compounds must be neuter and singular. Furthermore, as Monier-Williams notes, these specific pairings fall under the gavāśvādi group (Pāṇini 2.4.11, gavāśvaprabhṛtīni ca), which explicitly dictates the singular neuter form. Therefore, the grammatically sound forms are kubjakirātam and kubjavāmanam. LB The Itaretara Dvandva Route: If the compound is meant to refer to two distinct individuals functioning independently in a sentence, it must take the dual number. The correct form would be kubjakirātau (masculine dual). LB Apte printed a masculine singular ending (-ḥ), which is impossible for a Dvandva compound of two discrete people. LB How to Correct This for Your Dictionary LB To resolve this anomaly for your database, you must choose one of two paths to harmonize the Sanskrit headword with its grammatical reality: LB Option 1: Correct the Gender (The Samāhāra Fix) LB Headword: kubjakirātam / kubjavāmanam (Neuter Singular) LB Definition: "A hump-backed person and a dwarf" (Aggregate group) LB Justification: This aligns perfectly with Monier-Williams, the gavāśvādi gaṇa, and standard Pāṇinian rules for aggregate compounds. LB Option 2: Correct the Translation (The Karmadhāraya Fix) LB Headword: kubjakirātaḥ / kubjavāmanaḥ (Masculine Singular) LB Definition: "A dwarf who is hump-backed" LB Justification: If you retain Apte's printed masculine singular form, it can only be justified grammatically as a descriptive Karmadhāraya compound (modifying a single person who possesses both traits). LB Verdict: Apte's 1957 entry is a lexicographical misstep, likely caused by a casual amalgamation of a Karmadhāraya form with a Dvandva translation. For rigorous Pāṇinian accuracy, adopting Monier-Williams' classification (Neuter Singular) is the safest and most textually accurate route for your database."
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 4: 07/02/2026 dict=AP, L=12506.02, hw=kubjakirātaḥ, user=srhodes
 old = kubjakirātaḥ
 new = kubjakirātam
 comment = Typo – FYI: "The issue with Apte’s entry (kubjakirātaḥ / kubjavāmanaḥ) is that the printed Sanskrit morphology directly contradicts its own English translation. Here is the grammatical breakdown of why Apte is in error and why Monier-Williams is correct to flag the neuter gender. LB The Grammatical Contradiction LB Apte defines the compound as "a hump-backed person and a dwarf." The conjunction "and" dictates that this must be a Dvandva (copulative) compound joining two distinct entities. However, under strict Pāṇinian grammar, a Dvandva compound cannot be masculine singular: LB The Samāhāra Dvandva Route (Monier-Williams' Stance): If you treat the pair as an aggregate whole (a class of attendants often found together in classical royal courts), it becomes a samāhāra dvandva. According to Pāṇini 2.4.17 (sa napuṃsakam), such compounds must be neuter and singular. Furthermore, as Monier-Williams notes, these specific pairings fall under the gavāśvādi group (Pāṇini 2.4.11, gavāśvaprabhṛtīni ca), which explicitly dictates the singular neuter form. Therefore, the grammatically sound forms are kubjakirātam and kubjavāmanam. LB The Itaretara Dvandva Route: If the compound is meant to refer to two distinct individuals functioning independently in a sentence, it must take the dual number. The correct form would be kubjakirātau (masculine dual). LB Apte printed a masculine singular ending (-ḥ), which is impossible for a Dvandva compound of two discrete people. LB How to Correct This for Your Dictionary LB To resolve this anomaly for your database, you must choose one of two paths to harmonize the Sanskrit headword with its grammatical reality: LB Option 1: Correct the Gender (The Samāhāra Fix) LB Headword: kubjakirātam / kubjavāmanam (Neuter Singular) LB Definition: "A hump-backed person and a dwarf" (Aggregate group) LB Justification: This aligns perfectly with Monier-Williams, the gavāśvādi gaṇa, and standard Pāṇinian rules for aggregate compounds. LB Option 2: Correct the Translation (The Karmadhāraya Fix) LB Headword: kubjakirātaḥ / kubjavāmanaḥ (Masculine Singular) LB Definition: "A dwarf who is hump-backed" LB Justification: If you retain Apte's printed masculine singular form, it can only be justified grammatically as a descriptive Karmadhāraya compound (modifying a single person who possesses both traits). LB Verdict: Apte's 1957 entry is a lexicographical misstep, likely caused by a casual amalgamation of a Karmadhāraya form with a Dvandva translation. For rigorous Pāṇinian accuracy, adopting Monier-Williams' classification (Neuter Singular) is the safest and most textually accurate route for your database."
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 3: 07/02/2026 dict=AP, L=12506, hw=kubja, user=srhodes
 old = Hump-backed
 new = Humpbacked
 comment = Typo – Please note that the "hyphen" here is strictly a result of the line break on the printed page. There is no reason to "import" this artifact online! May as well make this a Global Correction!
-status = PENDING
+status = No change required. Hump-back is with hyphen throughout in the dictionary.:Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 2: 07/02/2026 dict=SHS, L=10137, hw=kāryyavat, user=srhodes
 old = according to act on motive.
 new = according to act or motive.
 comment = Typo – Here is why the current text on the page is almost certainly a typographical error: LB 1. The Linguistic Breakdown LB The Root (kāryya / kārya): This base noun has a few primary meanings, most notably "an act" (something to be done, a duty, a task) and "a motive" (an object, purpose, or cause). LB The Affix (-vat): When applied to form an indeclinable adverb (ind.), this suffix typically translates to "like," "in the manner of," or "according to." LB 2. Semantic Clarity LB The printed phrase "according to act on motive" is syntactically awkward and muddles the translation. By correcting it to "according to act or motive," the English definition perfectly aligns with the grammar, offering the user the two distinct, parallel translations of the base word kāryya governed by the -vat suffix. LB 3. Typographical History LB In 19th and early 20th-century printing presses—like the one used for the 1900 Shabda-Sagara—the letters "n" and "r" were notoriously easy for typesetters to mix up. This is also a highly common error in modern Optical Character Recognition (OCR) when these older texts are digitized. LB Correcting this to "or" brings grammatical accuracy to the English translation and greatly improves semantic clarity for anyone referencing your comprehensive dictionary project. It is a necessary and precise fix!
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 07/02/2026 dict=SHS, L=10138, hw=kāryyavat, user=srhodes
 old = Engagod
 new = Engaged
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 

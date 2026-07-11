@@ -1,24 +1,24 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of July 03, 2026
-3 correction records, with 3 PENDING
+As of July 11, 2026
+3 correction records, with 0 PENDING
 
 Case 8: 07/02/2026 dict=SHS, L=9258, hw=kargha, user=srhodes
 old = GHOST WORD
 new = Add the editorial remark "(probably a variant mis-reading for 'karba')".
 comment = GHOST WORD – Please note that the above correction has been confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-4869629376
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 2: 07/02/2026 dict=SHS, L=10137, hw=kāryyavat, user=srhodes
 old = according to act on motive.
 new = according to act or motive.
 comment = Typo – Here is why the current text on the page is almost certainly a typographical error: LB 1. The Linguistic Breakdown LB The Root (kāryya / kārya): This base noun has a few primary meanings, most notably "an act" (something to be done, a duty, a task) and "a motive" (an object, purpose, or cause). LB The Affix (-vat): When applied to form an indeclinable adverb (ind.), this suffix typically translates to "like," "in the manner of," or "according to." LB 2. Semantic Clarity LB The printed phrase "according to act on motive" is syntactically awkward and muddles the translation. By correcting it to "according to act or motive," the English definition perfectly aligns with the grammar, offering the user the two distinct, parallel translations of the base word kāryya governed by the -vat suffix. LB 3. Typographical History LB In 19th and early 20th-century printing presses—like the one used for the 1900 Shabda-Sagara—the letters "n" and "r" were notoriously easy for typesetters to mix up. This is also a highly common error in modern Optical Character Recognition (OCR) when these older texts are digitized. LB Correcting this to "or" brings grammatical accuracy to the English translation and greatly improves semantic clarity for anyone referencing your comprehensive dictionary project. It is a necessary and precise fix!
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
 Case 1: 07/02/2026 dict=SHS, L=10138, hw=kāryyavat, user=srhodes
 old = Engagod
 new = Engaged
-status = PENDING
+status = Corrected 02 July 2026
 ------------------------------------------------------------------------
 
