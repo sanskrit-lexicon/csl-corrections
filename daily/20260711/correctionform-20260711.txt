@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History
+As of July 12, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 07/11/2026 dict=SHS, L=10208, hw=kālanemi, user=srhodes
+old = Rakshasa described in the Ramayana
+new = Rākṣasa described in the Rāmāyaṇa
+comment = Typo – correction for authentic transliteration. Please make a Global Change (for each of the two cited words above) !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/11/2026 dict=SHS, L=10208, hw=kālanemi, user=srhodes
+old = HIRANYAKASIPU
+new = HIRAṆYAKAŚIPU
+comment = Typo – correction for authentic transliteration. Please make a Global Change!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/11/2026 dict=SHS, L=10195, hw=kālakṣepa, user=srhodes
+old = kālakṣepan
+new = kālakṣepaṇa
+comment = Typo – the listed alternative "kālakṣepan" is a corrupted transliteration; if properly corrected to standard classical Sanskrit conventions, it should read: "also kālakṣepaṇa."
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/11/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
