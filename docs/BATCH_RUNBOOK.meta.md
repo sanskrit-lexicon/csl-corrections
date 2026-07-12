@@ -17,7 +17,7 @@ NOT duplicate the 8-stage application workflow — that stays owned by
 ## Provenance
 
 Authored 10-07-2026 by Fable 5 (`claude-fable-5`) under
-[H502](https://github.com/gasyoun/Uprava/blob/main/handoffs/H502-Fable_csl-corrections_batch_processing_runbook_manual_10.07.26.md)
+[H502](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H502-Fable_csl-corrections_batch_processing_runbook_manual_10.07.26.md)
 (the H501–H531 manual-coverage programme; modelled on the
 [Litpam-Indexator MANUAL](https://github.com/gasyoun/RussianRamayana/blob/main/Litpam-Indexator/docs/indesign-pipeline/MANUAL.md)
 gold standard). Facts read from the tree at commit `60d8e93`: script line

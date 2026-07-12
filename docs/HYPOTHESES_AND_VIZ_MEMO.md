@@ -3,7 +3,7 @@
 _Created: 07-07-2026 · Last updated: 08-07-2026_
 
 **What this is.** The deep-analysis memo commissioned by
-[H271](https://github.com/gasyoun/Uprava/blob/main/handoffs/H271-Fable_csl-corrections_correction-hypotheses-atlas-DH-ACL_07.07.26.md):
+[H271](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H271-Fable_csl-corrections_correction-hypotheses-atlas-DH-ACL_07.07.26.md):
 what new, testable hypotheses the ~39.5k-record correction corpus in this repo supports, which
 visualisations should exist (here and in [`csl-atlas`](https://github.com/sanskrit-lexicon/csl-atlas)),
 which unmined data layers can become new sections, and which ACL-Anthology methods transfer.
