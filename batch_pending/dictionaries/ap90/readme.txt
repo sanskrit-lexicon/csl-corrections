@@ -1,4 +1,4 @@
-11-07-2026 🟡 change_ap90_1.txt — AP90#14 residual paired-parens-outside-Devanagari (14 instances)
+11-07-2026 🔵 change_ap90_1.txt — AP90#14 residual paired-parens-outside-Devanagari (14 instances)  [XML-validated 12-07-2026, see below]
   Issue: https://github.com/sanskrit-lexicon/AP90/issues/14
   Description: {#(X)#} -> ({#X#}) — moves parenthesis pairs outside the SLP1
     Devanagari markup, matching the pattern already applied in the maintainer's
@@ -11,13 +11,19 @@
   Validated: updateByLine.py applied 14/14 "new" transactions cleanly against
     current v02/ap90/ap90.txt (273715 lines in, 273715 lines out); output BOM
     check clean (first bytes 3c4c3e).
-  Caveat (🟡, not 🔵): make_xml.py / generate_dict.sh full XML-parse validation
-    was NOT completed this pass — the sanctioned temporary swap-into-csl-orig
-    step that validation requires was declined by the permission system as an
-    unauthorized direct write to csl-orig, even though it is self-reverting.
-    A human should run generate_dict.sh ap90 against this change file (or
-    authorize the swap explicitly) before this ships in the next batch PR.
+  Validated (🔵, 12-07-2026): make_xml.py XML-parse validation COMPLETED. Built ap90
+    in an ISOLATED scratch outdir (generate_dict.sh ap90 <scratch>), then swapped the
+    corrected text into <scratch>/orig/ap90.txt and re-ran redo_hw.sh + redo_xml.sh:
+    34,882 entries found; make_xml.py reported "All records parsed by ET" — well-formed
+    XML, no ParseError. **csl-orig was NEVER modified** (verified clean vs HEAD before
+    and after — the earlier swap-into-csl-orig block was avoided entirely by validating
+    in the outdir). Structurally sound by construction too: the paren move
+    {#(X)#} -> ({#X#}) only relocates plain-text parentheses relative to the <s>
+    Devanagari markup, which cannot break XML well-formedness. Caveat: xmllint DTD
+    validation not run (xmllint absent locally); the ET-parse is the primary structural
+    check, DTD-level checks are a maintainer follow-up if desired.
   Prepared by: Sonnet 5 (claude-sonnet-5), 11-07-2026.
+  Validated by: Opus 4.8 (claude-opus-4-8), 12-07-2026.
 
 11-07-2026 🔵 change_ap90_2.txt — CORRECTIONS#434 "AP90 - Compounds stated twice": sarpis (L29859) residual
   Issue: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/434
