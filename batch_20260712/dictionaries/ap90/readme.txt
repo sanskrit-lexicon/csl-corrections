@@ -1,3 +1,15 @@
+=== 2026-07 BATCH — SHIPPED 12-07-2026 ===
+Batch PR: https://github.com/sanskrit-lexicon/csl-orig/pull/2879 (@WAITING maintainer merge; auto-merge OFF)
+Dict: ap90 · 15 line changes (14 + 1) · issues AP90#14 + CORRECTIONS#434
+Re-validated against csl-orig origin/main HEAD 8e9d7bc9 at batch time: updateByLine 14/14 + 1/1
+  applied cleanly (no relocation needed), line-count parity 273715->273715, make_xml.py
+  "All records parsed by ET" (34882 entries) in an isolated build outdir (csl-orig NOT
+  modified during validation), BOM clean (3c4c3e). xmllint DTD check not run (xmllint absent).
+Workflow: queued via /cologne-correction-queue, shipped via /cologne-batch-pr.
+Shipped by: Opus 4.8 (claude-opus-4-8), 12-07-2026.
+
+--- per-change provenance ---
+
 11-07-2026 🔵 change_ap90_1.txt — AP90#14 residual paired-parens-outside-Devanagari (14 instances)  [XML-validated 12-07-2026, see below]
   Issue: https://github.com/sanskrit-lexicon/AP90/issues/14
   Description: {#(X)#} -> ({#X#}) — moves parenthesis pairs outside the SLP1
