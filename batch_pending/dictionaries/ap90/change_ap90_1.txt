@@ -1,0 +1,30 @@
+; AP90#14: residual paired-parens-outside-Devanagari instances
+; {#(X)#} -> ({#X#}), per csl-orig/AP90 issue #14 pattern
+9668 old {#--suta#} {#(˚zuta)#}, {#--saMhata#} {%<ab>a.</ab>%} prepared or
+9668 new {#--suta#} ({#˚zuta#}), {#--saMhata#} {%<ab>a.</ab>%} prepared or
+10295 old {#rAjanyabaMDordvAviMSe#} {#(keSAMto viDIyate)#},  <lbinfo n="vE#Syasya"/>
+10295 new {#rAjanyabaMDordvAviMSe#} ({#keSAMto viDIyate#}),  <lbinfo n="vE#Syasya"/>
+25809 old {#apasPur#}¦ {#(--sPUH)#}, {#--ra, --rat#} {%<ab>a.</ab>%} <lbinfo n="Injur+ed"/>
+25809 new {#apasPur#}¦ ({#--sPUH#}), {#--ra, --rat#} {%<ab>a.</ab>%} <lbinfo n="Injur+ed"/>
+27715 old defects of a word {#(Sabdadoza)#}; <lbinfo n="apratI#taM"/>
+27715 new defects of a word ({#Sabdadoza#}); <lbinfo n="apratI#taM"/>
+35890 old {#(w)#}, {#--ruhaM#} a lotus; {#hemAMBoruhasasyAnAM#}
+35890 new ({#w#}), {#--ruhaM#} a lotus; {#hemAMBoruhasasyAnAM#}
+36672 old {#˚ISaH, ISvaraH#} <ab>N.</ab> of Śiva. {#(--jA)#},
+36672 new {#˚ISaH, ISvaraH#} <ab>N.</ab> of Śiva. ({#--jA#}),
+36853 old {#--nfpatiH, --rAj#} {#(w)#}, {#--rAjaH#} ‘lord of the
+36853 new {#--nfpatiH, --rAj#} ({#w#}), {#--rAjaH#} ‘lord of the
+37059 old {#(kapAwaM)#}, {#saraBasamararARi drAgapAvftya#}  <lbinfo n="ls:Mv.+ 6. 27"/>
+37059 new ({#kapAwaM#}), {#saraBasamararARi drAgapAvftya#}  <lbinfo n="ls:Mv.+ 6. 27"/>
+46407 old derivation (as a word) {#(avayavArTaSUnya)#},
+46407 new derivation (as a word) ({#avayavArTaSUnya#}),
+53680 old service {#(sAmastomaBedaH)#}; <lbinfo n="AjimIyustasmA#dAjyAnAmAjyatvaM"/>
+53680 new service ({#sAmastomaBedaH#}); <lbinfo n="AjimIyustasmA#dAjyAnAmAjyatvaM"/>
+142570 old the {#nAMdImuKaSrAdDa#} is offered. {#(--KaM)#},
+142570 new the {#nAMdImuKaSrAdDa#} is offered. ({#--KaM#}),
+183900 old {#--DAtuH#} {1} gold. {2} red chalk {#(gOrika)#},
+183900 new {#--DAtuH#} {1} gold. {2} red chalk ({#gOrika#}),
+205872 old Fastening, binding {#(baMDa)#}; <lbinfo n="nibiqapIna#kucadvaya"/>
+205872 new Fastening, binding ({#baMDa#}); <lbinfo n="nibiqapIna#kucadvaya"/>
+256851 old {#(sarojaM, sarojanman, saroruhaM)#}, also  <lbinfo n="sara#sijaM"/>
+256851 new ({#sarojaM, sarojanman, saroruhaM#}), also  <lbinfo n="sara#sijaM"/>

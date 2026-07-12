@@ -1,0 +1,6 @@
+; AP90 — CORRECTIONS#434 "AP90 - Compounds stated twice": remove duplicate --Comp. marker in sarpis (29859).
+; SergeA verified against ed.3 (1924): all 3 cases (ayAta, muKaM, sarpis) are 1st-ed print errors, no duplication in ed.3.
+; ayAta (L3946) and muKaM (L23227) already carry a single {@--Comp.@} in current csl-orig — residual is sarpis only.
+; The second "--Comp." at physical line 257097 is unbracketed plain-text mid-compound-list; deleting it restores one --Comp. section. Line-count parity preserved.
+257097 old of the seven seas. --Comp. {#--AsutiH#}
+257097 new of the seven seas. {#--AsutiH#}
