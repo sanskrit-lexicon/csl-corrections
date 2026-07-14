@@ -80,7 +80,7 @@ This walkthrough uses a real example: trimming a stray trailing space inside a l
 > - All four sibling repos cloned into one parent directory (see § 6).
 > - Python 3 with `mako` installed (`pip install mako`).
 > - `xmllint`, `sqlite3`, `zip`, `bash` available on `PATH`.
-> - Optional: XAMPP for serving the generated display locally — see the [csl-pywork readme](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/readme.md) for installation notes.
+> - Optional: XAMPP for serving the generated display locally — see the [csl-pywork readme](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/readme.md) for installation notes.
 
 ### The change
 
@@ -102,7 +102,7 @@ cp $BASE/cologne/csl-orig/v02/ap90/ap90.txt temp_ap90_0.txt
 ```
 
 > **Why:** The "before" file is the input to the diff tool that produces the audit trail in step 6. Without it you cannot reconstruct what changed.
-> **Evidence:** every existing batch readme starts with this snapshot — see [`batch_20250418/dictionaries/mw/readme.txt`](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batch_20250418/dictionaries/mw/readme.txt).
+> **Evidence:** every existing batch readme starts with this snapshot — see [`batch_20250418/dictionaries/mw/readme.txt`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20250418/dictionaries/mw/readme.txt).
 
 ### Step 2 — Make the edit
 
@@ -118,7 +118,7 @@ EOF
 python updateByLine.py temp_ap90_0.txt change_ap90_lstrim.txt temp_ap90_1.txt
 ```
 
-> **Why:** [`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/updateByLine.py) applies *line-addressed* edits, which makes the change auditable. Hand-editing the source file directly works but leaves no record of what was modified.
+> **Why:** [`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/updateByLine.py) applies *line-addressed* edits, which makes the change auditable. Hand-editing the source file directly works but leaves no record of what was modified.
 > **Change file format:** paired lines `NNN old <text>` / `NNN new <text>`, with `;` lines as comments. Supports `new` (replace), `ins` (insert after), `del` (delete).
 
 ### Step 3 — Promote the corrected file into `csl-orig`
@@ -128,7 +128,7 @@ cp temp_ap90_1.txt $BASE/cologne/csl-orig/v02/ap90/ap90.txt
 ```
 
 > **Why:** `csl-orig` is the source of truth that the generation pipeline reads from. Until this copy happens, nothing downstream sees the correction.
-> **Evidence:** see this exact `cp` in [Jim's MW batch readme](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batch_20250418/dictionaries/mw/readme.txt) (around `# remake xml from temp_mw_1.txt and check`), and in [Dhaval's recurring "DC NN May 2026" commits](https://github.com/sanskrit-lexicon/csl-orig/commits/master?author=drdhaval2785) which land directly on `csl-orig`'s `master`.
+> **Evidence:** see this exact `cp` in [Jim's MW batch readme](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20250418/dictionaries/mw/readme.txt) (around `# remake xml from temp_mw_1.txt and check`), and in [Dhaval's recurring "DC NN May 2026" commits](https://github.com/sanskrit-lexicon/csl-orig/commits/master?author=drdhaval2785) which land directly on `csl-orig`'s `master`.
 
 ### Step 4 — Regenerate the dictionary installation
 
@@ -146,7 +146,7 @@ make_xml.py ENDS !!!!!
 ```
 
 > **Why:** generating the XML is what catches structural problems in your edit. If you broke a tag, `make_xml.py`'s ElementTree parse will fail loudly.
-> **Evidence:** [`generate_dict.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/generate_dict.sh) is the documented entry point, called from every batch readme.
+> **Evidence:** [`generate_dict.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/generate_dict.sh) is the documented entry point, called from every batch readme.
 
 ### Step 5 — Validate the XML against the DTD
 
@@ -158,7 +158,7 @@ sh xmlchk_xampp.sh ap90
 This runs `xmllint --noout --valid <dict>.xml <dict>.dtd` against the freshly generated XML.
 
 > **Why:** the DTD validation catches anything the ET parse missed — typically attribute-level or referential issues. Jim runs this on every batch; skipping it has historically let bad markup land on the live site.
-> **Evidence:** [`xmlchk_xampp.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/xmlchk_xampp.sh); referenced explicitly in [Jim's MW batch readme](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batch_20250418/dictionaries/mw/readme.txt) (`sh xmlchk_xampp.sh mw`).
+> **Evidence:** [`xmlchk_xampp.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/xmlchk_xampp.sh); referenced explicitly in [Jim's MW batch readme](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20250418/dictionaries/mw/readme.txt) (`sh xmlchk_xampp.sh mw`).
 > **Local Windows caveat:** if `xmllint` is not installed, the ET-parse success from step 4 (`All records parsed by ET`) is a strong-but-incomplete substitute. Install `xmllint` for production work.
 
 ### Step 6 — Generate the audit-trail change file
@@ -171,7 +171,7 @@ python diff_to_changes_dict.py temp_ap90_0.txt temp_ap90_1.txt change_ap90_1.txt
 Output: `1 change written to change_ap90_1.txt`.
 
 > **Why:** the audit trail is the durable record of what changed and why. Future investigators (you, a year from now) need to know which lines were touched and by which run.
-> **Evidence:** [`diff_to_changes_dict.py`](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batch_20250418/dictionaries/mw/diff_to_changes_dict.py) is reused across every batch directory. It assumes equal line counts on both sides; use `diff_to_changes.py` when lines are added or removed.
+> **Evidence:** [`diff_to_changes_dict.py`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20250418/dictionaries/mw/diff_to_changes_dict.py) is reused across every batch directory. It assumes equal line counts on both sides; use `diff_to_changes.py` when lines are added or removed.
 
 ### Step 7 — Commit and push
 
@@ -194,7 +194,7 @@ git push
 
 ### Step 8 — Refresh public artefacts (optional, batched in practice)
 
-For routine corrections, the public refresh runs on a schedule from the live server via [`redo_xampp_selective.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/redo_xampp_selective.sh) (`@reboot sleep 120` cron entry). You do not normally need to push to the public site yourself.
+For routine corrections, the public refresh runs on a schedule from the live server via [`redo_xampp_selective.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/redo_xampp_selective.sh) (`@reboot sleep 120` cron entry). You do not normally need to push to the public site yourself.
 
 For a hand-driven full rebuild on a server you control:
 
@@ -225,7 +225,7 @@ The "before" file. Keep it until step 6 completes.
 python updateByLine.py temp_<dict>_0.txt change_<dict>_in.txt temp_<dict>_1.txt
 ```
 
-The change-file directives — `old`/`new` for replace, `ins` for insert-after, `del` for delete. See [`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/updateByLine.py) source for the exact grammar.
+The change-file directives — `old`/`new` for replace, `ins` for insert-after, `del` for delete. See [`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/updateByLine.py) source for the exact grammar.
 
 ### 4.3 Promote into `csl-orig`
 
@@ -240,10 +240,10 @@ cd $BASE/cologne/csl-pywork/v02
 sh generate_dict.sh <dict> ../../<DictOutDir>
 ```
 
-`generate_dict.sh` runs four sub-stages — see [`csl-pywork/v02/readme.md § What generate_dict.sh does`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/readme.md):
+`generate_dict.sh` runs four sub-stages — see [`csl-pywork/v02/readme.md § What generate_dict.sh does`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/readme.md):
 
 1. **`generate_orig.sh`** → copies `<dict>.txt`, `<dict>_hwextra.txt`, headers, metadata from `csl-orig/v02/<dict>/` into `<outdir>/orig/` and `<outdir>/pywork/`.
-2. **`generate_pywork.sh`** → runs `generate.py` against `inventory.txt`, populates `<outdir>/pywork/` by copying shared files, rendering Mako templates with parameters from [`dictparms.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/dictparms.py), copying per-dict `distinctfiles/<dict>/pywork/`, deleting obsolete files.
+2. **`generate_pywork.sh`** → runs `generate.py` against `inventory.txt`, populates `<outdir>/pywork/` by copying shared files, rendering Mako templates with parameters from [`dictparms.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/dictparms.py), copying per-dict `distinctfiles/<dict>/pywork/`, deleting obsolete files.
 3. **`generate_web.sh`** (runs from `csl-websanlexicon/v02`) → same C/T/CD/D model into `<outdir>/web/`.
 4. **Execute** → inside `<outdir>/pywork/`: `redo_hw.sh` (headwords) → `redo_xml.sh` (XML + xmllint + SQLite) → `redo_postxml.sh` (abbreviation/tooltip/bib SQLite, web/sqlite copy). Then `<outdir>/downloads/redo_all.sh` (zip archives).
 
@@ -282,20 +282,20 @@ Hands-off (cron-driven `redo_xampp_selective.sh`) for routine corrections. Manua
 
 | Script | Repo / Path | Purpose |
 |---|---|---|
-| [`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/updateByLine.py) | `csl-pywork/v02/makotemplates/pywork/` | Apply line-addressed `old`/`new`/`ins`/`del` directives to a text file. |
-| [`diff_to_changes_dict.py`](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batch_20250418/dictionaries/mw/diff_to_changes_dict.py) | `csl-corrections/batch_*/.../` | Produce an audit-trail change file from two same-line-count files; tracks `<L>` metaline per change. |
+| [`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/updateByLine.py) | `csl-pywork/v02/makotemplates/pywork/` | Apply line-addressed `old`/`new`/`ins`/`del` directives to a text file. |
+| [`diff_to_changes_dict.py`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20250418/dictionaries/mw/diff_to_changes_dict.py) | `csl-corrections/batch_*/.../` | Produce an audit-trail change file from two same-line-count files; tracks `<L>` metaline per change. |
 | `diff_to_changes.py` | `csl-corrections/batch_*/` | Same as above, no metaline tracking; allows differing line counts. |
-| [`generate_dict.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/generate_dict.sh) | `csl-pywork/v02/` | Build a complete `<dict>` installation: orig/, pywork/, web/, downloads/. |
-| [`generate_orig.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/generate_orig.sh) | `csl-pywork/v02/` | Sub-stage 1: copy `<dict>.txt` and ancillary files from `csl-orig` into `<outdir>/orig/`. |
-| [`generate_pywork.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/generate_pywork.sh) | `csl-pywork/v02/` | Sub-stage 2: assemble `<outdir>/pywork/` from `makotemplates/` + `distinctfiles/<dict>/pywork/`. |
-| [`generate_web.sh`](https://github.com/sanskrit-lexicon/csl-websanlexicon/blob/master/v02/generate_web.sh) | `csl-websanlexicon/v02/` | Sub-stage 3: assemble `<outdir>/web/` (PHP display) from the websanlexicon templates. |
+| [`generate_dict.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/generate_dict.sh) | `csl-pywork/v02/` | Build a complete `<dict>` installation: orig/, pywork/, web/, downloads/. |
+| [`generate_orig.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/generate_orig.sh) | `csl-pywork/v02/` | Sub-stage 1: copy `<dict>.txt` and ancillary files from `csl-orig` into `<outdir>/orig/`. |
+| [`generate_pywork.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/generate_pywork.sh) | `csl-pywork/v02/` | Sub-stage 2: assemble `<outdir>/pywork/` from `makotemplates/` + `distinctfiles/<dict>/pywork/`. |
+| [`generate_web.sh`](https://github.com/sanskrit-lexicon/csl-websanlexicon/blob/main/v02/generate_web.sh) | `csl-websanlexicon/v02/` | Sub-stage 3: assemble `<outdir>/web/` (PHP display) from the websanlexicon templates. |
 | `generate_ab_bib_ls.sh` | `csl-pywork/v02/` | Build `redo.sh` and SQL scripts for abbreviation, tooltip, and bibliography SQLite tables. |
 | `redo_hw.sh` → `hw.py` | `<outdir>/pywork/` | Build `<dict>hw.txt` (the headword list extracted from `<dict>.txt`). |
-| `redo_xml.sh` → [`make_xml.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/make_xml.py) | `<outdir>/pywork/` | Convert the text source to XML, validate via xmllint, build `<dict>.sqlite`. |
+| `redo_xml.sh` → [`make_xml.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/make_xml.py) | `<outdir>/pywork/` | Convert the text source to XML, validate via xmllint, build `<dict>.sqlite`. |
 | `redo_postxml.sh` | `<outdir>/pywork/` | Build abbreviation/tooltip/bib SQLite databases; copy `<dict>header.xml` to `web/`. |
 | `downloads/redo_all.sh` | `<outdir>/downloads/` | Bundle `<dict>txt.zip`, `<dict>xml.zip`, `<dict>web*.zip` archives for public download. |
-| [`xmlchk_xampp.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/xmlchk_xampp.sh) | `csl-pywork/v02/` | Stand-alone xmllint validation pass against the DTD. |
-| [`redo_xampp_selective.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/redo_xampp_selective.sh) | `csl-pywork/v02/` | Cron-driven incremental rebuild — picks up `csl-orig` commits since last run; refreshes Stardict, JSON, homepage too. |
+| [`xmlchk_xampp.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/xmlchk_xampp.sh) | `csl-pywork/v02/` | Stand-alone xmllint validation pass against the DTD. |
+| [`redo_xampp_selective.sh`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/redo_xampp_selective.sh) | `csl-pywork/v02/` | Cron-driven incremental rebuild — picks up `csl-orig` commits since last run; refreshes Stardict, JSON, homepage too. |
 | `redo_xampp_all.sh` | `csl-pywork/v02/` | Full rebuild of every dictionary on a local XAMPP server. |
 | `redo_cologne_all.sh` | `csl-pywork/v02/` | Full rebuild on the live Cologne production server. |
 | [`lsfix2.py`](https://github.com/sanskrit-lexicon/literarysource) (separate workflow) | `literarysource` repo / per-dict `pwgissues/`, `pwkissues/` | Install link targets from a built `index.js` into source `.txt` files — not part of this workflow. |
@@ -339,9 +339,9 @@ $BASE/cologne/
 |---|---|---|
 | **Markup whitespace / element-content fix** (`<ls>`, `<lex>`, `<chg>`, `</div>`, etc.) | This document. `updateByLine.py` → `csl-orig` → `generate_dict.sh` → audit. | The dictionary's repo (PWG, MWS, …) with `markup` label. |
 | **Text correction from print scan** (typo in headword, wrong page reference) | Same as above, plus add the correction line to `<dict>_printchange.txt` so the change is anchored to the printed book. | The dictionary's repo with `text-correction` label. |
-| **Scholarly editorial correction batch** (Scott, Andhrabharati batches) | Jim's batch workflow: `correctionform.txt` → `tempwork_*_correctionform.txt` → split into `done.txt` / `todo.txt` → `printchange.txt` → `updateByLine.py` → `csl-orig` → audit. See [`batch_20250418/dictionaries/mw/readme.txt`](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batch_20250418/dictionaries/mw/readme.txt). | [`csl-corrections`](https://github.com/sanskrit-lexicon/csl-corrections/issues) (cross-cuts dictionaries). |
-| **Link target / link splitting** (`<ls>SOURCE N</ls>` → click-through to PDF page) | Separate workflow: PDF → index file → `make_js_index.py` → `index.js` → `lsfix2.py` → installs into `pw`, `pwg`, `pwkvn`, `sch`, `mw`, etc. See [`PWG/CLAUDE.md`](https://github.com/sanskrit-lexicon/PWG/blob/master/CLAUDE.md) § "Link-target pipeline" and [`PWK/pwkissues/`](https://github.com/sanskrit-lexicon/PWK/tree/master/pwkissues). | The dictionary's repo with `link-target` or `link-splitting` label. |
-| **Bibliography / `<ls>` ↔ source matching** | [`pw_ls/pwbib/`](https://github.com/sanskrit-lexicon/PWG/tree/master/pwg_ls/pwg_dhaval) pipeline: `crefmatch.py` → `pwbib1.py` → fuzzy match. | The dictionary's repo with `markup` or `text-correction` label. |
+| **Scholarly editorial correction batch** (Scott, Andhrabharati batches) | Jim's batch workflow: `correctionform.txt` → `tempwork_*_correctionform.txt` → split into `done.txt` / `todo.txt` → `printchange.txt` → `updateByLine.py` → `csl-orig` → audit. See [`batch_20250418/dictionaries/mw/readme.txt`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20250418/dictionaries/mw/readme.txt). | [`csl-corrections`](https://github.com/sanskrit-lexicon/csl-corrections/issues) (cross-cuts dictionaries). |
+| **Link target / link splitting** (`<ls>SOURCE N</ls>` → click-through to PDF page) | Separate workflow: PDF → index file → `make_js_index.py` → `index.js` → `lsfix2.py` → installs into `pw`, `pwg`, `pwkvn`, `sch`, `mw`, etc. See [`PWG/CLAUDE.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/CLAUDE.md) § "Link-target pipeline" and [`PWK/pwkissues/`](https://github.com/sanskrit-lexicon/PWK/tree/main/pwkissues). | The dictionary's repo with `link-target` or `link-splitting` label. |
+| **Bibliography / `<ls>` ↔ source matching** | [`pw_ls/pwbib/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwg_ls/pwg_dhaval) pipeline: `crefmatch.py` → `pwbib1.py` → fuzzy match. | The dictionary's repo with `markup` or `text-correction` label. |
 | **Headword normalisation** | `hwnorm1` / `hwnorm2` cross-dictionary alignment. Out of scope for this document. | [`hwnorm1`](https://github.com/sanskrit-lexicon/hwnorm1) or [`hwnorm2`](https://github.com/sanskrit-lexicon/hwnorm2). |
 | **Display-layer bug** (PHP rendering, CSS, JS) | Edit `csl-websanlexicon` directly; regenerate affected dictionaries to pick up template changes. | [`csl-websanlexicon`](https://github.com/sanskrit-lexicon/csl-websanlexicon/issues). |
 | **Pipeline bug** (build script breaks, generation regression) | Edit `csl-pywork`; test with `generate_dict.sh` on a representative dictionary. | [`csl-pywork`](https://github.com/sanskrit-lexicon/csl-pywork/issues). |
@@ -382,8 +382,8 @@ Brief catalogue of failure modes. Each one is a thing that has bitten someone �
 
 - [`csl-corrections/CLAUDE.md`](../CLAUDE.md) — primary index entry.
 - [`csl-corrections/README.md`](../README.md) — overview link.
-- [`csl-pywork/v02/readme.md`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/readme.md) — referenced from the "What `generate_dict.sh` does" section.
-- [`csl-pywork/CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/CLAUDE.md) — referenced as the cross-repo correction workflow.
+- [`csl-pywork/v02/readme.md`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/readme.md) — referenced from the "What `generate_dict.sh` does" section.
+- [`csl-pywork/CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/CLAUDE.md) — referenced as the cross-repo correction workflow.
 - [`csl-observatory/runbook/cologne-tooling-runbook.md`](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) — referenced as the correction-workflow authority.
 - [`COLOGNE/CONTRIBUTING.md`](https://github.com/sanskrit-lexicon/COLOGNE/blob/main/CONTRIBUTING.md) — referenced in the source-file-edits clause.
 
