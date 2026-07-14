@@ -186,16 +186,16 @@ def parse_file(path):
     return rows, headers_seen, headers_with_pc
 
 
-EXPECTED = {  # census snapshot 2026-07-07 (memo §1) — update when new batches land
-    'files': 35,
-    'rows': 39540,
+EXPECTED = {  # census snapshot 2026-07-14 (H864 goal-reverify) — update when new batches land
+    'files': 37,
+    'rows': 39555,
     'headers': 39606,
-    'new': 39536,
+    'new': 39551,
     'del': 4,
     'ins': 0,
     'bor_bulk': 21990,
     'lrv_markhom_bulk': 8063,
-    'rows_without_pc': 9,  # 8 headerless stc + 1 `; None` ap record
+    'rows_without_pc': 24,  # grew from 9 with the ap90 batch_20260712 append (commit 9122065)
 }
 
 
