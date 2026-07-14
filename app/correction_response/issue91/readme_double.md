@@ -1,5 +1,5 @@
 ## Indentation in list display.
-[corrections_scott_double.txt](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/app/correction_response/issue91/corrections_scott_double.txt) collects 580 cases where Scott suggests using a Single indentation in the list display left pane instead of a double indentation.
+[corrections_scott_double.txt](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/app/correction_response/issue91/corrections_scott_double.txt) collects 580 cases where Scott suggests using a Single indentation in the list display left pane instead of a double indentation.
 
 These indentations in list display are supposed to represent what Monier-Williams describes as the '4 lines of words' in his dictionary:
 [MW 4 lines](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mwpref/mwpref11.html) .

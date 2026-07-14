@@ -164,7 +164,7 @@ ingests corrections yet; that is the gap the sibling memo targets.
   SLP1/markup lines here for the unnormalized view.
 - **Method.** Character-level alignment over old→new inside `<s>`…`</s>` spans; per-dict (proxy
   for edition) confusion matrices; compare against the DCS grapheme frequencies
-  ([`VisualDCS/derived-data/Fonetika/regen-2026/`](https://github.com/gasyoun/VisualDCS/tree/master/derived-data/Fonetika/regen-2026))
+  ([`VisualDCS/derived-data/Fonetika/regen-2026/`](https://github.com/gasyoun/VisualDCS/tree/main/derived-data/Fonetika/regen-2026))
   to separate "confusable glyph" from "frequent glyph". Method transfer: the Sanskrit post-OCR
   benchmark's SLP1-byte modelling (Maheshwari et al. 2022,
   [2022.findings-emnlp.466](https://aclanthology.org/2022.findings-emnlp.466/)) and romanised-

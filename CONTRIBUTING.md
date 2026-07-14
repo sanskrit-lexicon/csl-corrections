@@ -2,7 +2,7 @@
 
 csl-corrections is a meta / cross-cutting repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project.
 
-> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
+> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/main/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
 
 ## Where to file issues
 
