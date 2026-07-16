@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 16, 2026
+2 correction records, with 2 PENDING
+
+Case 3: 07/15/2026 dict=AP, L=12530.034, hw=kumbhajaḥ, user=srhodes
+old = TWO Missing Compounds
+new = Please add the two following compounds indicated in the Window Display: "kumbhayoniḥ and kumbhasaṃbhavaḥ".  Adding the compounds simply means adding them as independent "searchable" Headwords located correctly in the Hierarchy List Column.
+comment = TWO Missing Compounds
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/15/2026 dict=ap, L=, hw=fzyaSfNgaH, user=jim
+old = and he saw no other human being till he nearly reached his  manhood. When a <!!!>great drought well night devastated<!!!> the country of Aṅga,  its king Lomapāda, at the advice of Brāhmaṇas, caused
+new = great drought well nigh devastated  (night -> nigh)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
