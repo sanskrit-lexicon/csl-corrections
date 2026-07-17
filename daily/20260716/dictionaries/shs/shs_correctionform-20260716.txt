@@ -1,0 +1,44 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 17, 2026
+6 correction records, with 6 PENDING
+
+Case 7: 07/16/2026 dict=SHS, L=10265, hw=kālika, user=srhodes
+old = Afault
+new = A fault
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 07/16/2026 dict=SHS, L=10265, hw=kālika, user=srhodes
+old = Piriodical
+new = Periodical
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 07/16/2026 dict=SHS, L=10261, hw=kālāpa, user=srhodes
+old = Kalapa
+new = Kalāpa
+comment = Typo – Please note that this correction is to ensure proper transliteration. This is important for students and veterans, so as to reduce the proliferation of erroneous spellings. Some people will say, "Well it is obvious either way". But I do not associate with such bystanders.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/16/2026 dict=SHS, L=10260, hw=kālāntarāvṛtta, user=srhodes
+old = kālāntarāvṛtta
+new = kālāntarāvṛta
+comment = Typo – Please note that this is an important "Print Change". I am well aware that SHS dictionary prefers to use "Double Letters" as often as possible. However, there are rare cases such as this very Headword, were the "uttarapada" has two VERY DIFFERENT meanings depending on the spelling: "vṛta" and "vṛtta" MUST remain distinguished and not confused by the SHS pleasures of doubling! The definition stated here is the "smoking gun", that proves this correction is needed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/16/2026 dict=SHS, L=10259, hw=kālāttaraviṣa, user=srhodes
+old = kālāttaraviṣa
+new = kālāntaraviṣa
+comment = Typo – Please note that this is a Headword Typo. The correction is "Self-Evident". In fact, I have already said too much!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/16/2026 dict=SHS, L=10258, hw=kālāntara, user=srhodes
+old = Interval intermediate time
+new = Interval, intermediate time
+comment = Typo – the insertion of the "comma" is for the distinction of TWO meanings.
+status = PENDING
+------------------------------------------------------------------------
+
