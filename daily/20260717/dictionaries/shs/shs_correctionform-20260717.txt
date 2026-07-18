@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 18, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 07/17/2026 dict=SHS, L=10287, hw=kāleyaka, user=srhodes
+old = see kālī- yaka.
+new = see kālīyaka
+comment = Typo – this correction matches the SHS listing of the Headword "kālīyaka". May as well make it accurate here, at least without the "blank space" following the hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/17/2026 dict=SHS, L=10274, hw=kālindībhedana, user=srhodes
+old = BALARAMA
+new = BALARĀMA
+comment = Typo – this is a suggested correction for proper transliteration which you may also make as a Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/17/2026 dict=SHS, L=10273, hw=kālindīkarṣaṇa, user=srhodes
+old = BALARAMA
+new = BALARĀMA
+comment = Typo – this is a suggested correction for proper transliteration which you may also make as a Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/17/2026 dict=SHS, L=10272, hw=kālindī, user=srhodes
+old = YAMUNA
+new = YAMUNĀ
+comment = Typo – this is a suggested correction for proper transliteration which you may also make as a Global Correction!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/17/2026 dict=SHS, L=10271, hw=kālindaka, user=srhodes
+old = water melon
+new = watermelon
+comment = Typo – This is a suggested "Print Change" for modern usage. Spelling should not be "frozen" in the 19th century, so that modern day readers are made to suffer!
+status = PENDING
+------------------------------------------------------------------------
+
