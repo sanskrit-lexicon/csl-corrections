@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 19, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 07/18/2026 dict=SHS, L=10293, hw=kālya, user=srhodes
+old = 2. Pleasant or auspicious discourse: see kalyā.
+new = 2. (by confusion with kalyā) Pleasant or auspicious discourse: see kalyā.
+comment = Typo – In the current digitized entry for *kālya*, listing "Pleasant or auspicious discourse" as an unqualified primary definition (#2) under the feminine form *kālyā* is structurally ambiguous. It risks misleading readers into believing that this meaning organically derives from the root *kāla* (time/season), which properly yields "a cow fit for the bull." LB As strictly maintained in standard lexicons like Monier-Williams and Apte, the definition of "auspicious discourse" belongs exclusively to the headword *kalyā* (derived from the adjective *kalya*, meaning healthy or pleasant). Its presence here in the Shabda-Sagara is meant as a navigational cross-reference to address historical scribal conflations of the long and short 'a'. Appending the inline clarification *(by confusion with kalyā)* preserves Vidyasagara's original numbered layout while providing essential etymological disambiguation, ensuring researchers do not mistakenly attribute the semantic weight of *kalya* to *kāla*.
+status = PENDING
+------------------------------------------------------------------------
+
