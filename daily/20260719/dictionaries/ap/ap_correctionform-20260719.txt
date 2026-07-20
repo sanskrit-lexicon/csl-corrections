@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 20, 2026
+3 correction records, with 3 PENDING
+
+Case 5: 07/19/2026 dict=AP, L=12539.002, hw=kumbhīlaḥ, user=srhodes
+old = kumbhīlaḥ
+new = DELETE THIS HEADWORD LISTING!
+comment = Typo – As you can see from the printed page, The True Meaning of the Headword ""kumbhīlaḥ" is given by Apte as "a crocodile". LB The definition: "a thief" is absolutely incorrect here! YET, the Cologne Online Window Display currently indicates: "a thief". This error must be corrected! LB The correction is AWKWARD because of the Grouping Together of words: "kumbhīrakaḥ, kumbhīlaḥ, kumbhīlakaḥ A thief". LB The entry lists the headword kumbhīlaḥ with the meaning of a thief, yet the morphological reality of the classical citations dictates the absolute necessity of the kan suffix. The citations traditionally associated with this definition, such as Vikramorvaśīya Act 2, loptreṇa gṛhītasya kumbhīrakasyāsti vā prativacanam । and Mālavikāgnimitra Act 4, kumbhīlakaiḥ kāmukaiśca parihartavyā candrikā ॥ , explicitly deploy the forms kumbhīraka and kumbhīlaka. LB The form kumbhīla, devoid of the kan suffix, is strictly reserved in authoritative lexicons such as Monier-Williams as a masculine substantive meaning a crocodile, operating as a direct phonetic variant of kumbhīra. The original Sanskrit base for a house-breaking thief is kumbhila, utilizing a short i. Therefore, Apte's entry conflates the long-vowel base of the crocodile with the truncated Prakrit back-formation of the thief. The correct headwords for a thief in this specific dramatic context are permanently restricted to kumbhīraka and kumbhīlaka.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/19/2026 dict=AP, L=12539.022, hw=kumbhīrakalaḥ, user=srhodes
+old = kumbhīrakalaḥ
+new = kumbhīlaḥ
+comment = Typo – Please note that this correction follows ALL the major lexicons. The printed page has simply been incorrectly assimilated into the current online listing.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/19/2026 dict=AP, L=12539.02, hw=kumbhīrakamakṣikā, user=srhodes
+old = kumbhīrakamakṣikā
+new = kumbhīramakṣikā
+comment = Typo – Please note that this correction follows ALL the major lexicons. The printed page has simply been incorrectly assimilated into the current online listing.
+status = PENDING
+------------------------------------------------------------------------
+
