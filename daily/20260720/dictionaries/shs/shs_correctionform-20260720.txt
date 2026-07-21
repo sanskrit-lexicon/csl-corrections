@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 21, 2026
+2 correction records, with 2 PENDING
+
+Case 3: 07/20/2026 dict=SHS, L=10297, hw=kāvaruka, user=srhodes
+old = kālyaṇineya
+new = You decide, but please read the details below!
+comment = Typo – Reason for Correction: Absolute typographical error in the printed headword. The definitions provided (fearful, henpecked, owl) belong exclusively to the well-attested word kākaruka (काकरुक). Cross-referencing with Monier-Williams (page 267) and Apte confirms this exact spelling and semantic mapping. The error stems from paleographic degradation in the original printing, where the rightward loop of the Devanagari character 'ka' (क) was broken, resulting in visual isomorphism with 'va' (व).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/20/2026 dict=SHS, L=10295, hw=kālyaṇineya, user=srhodes
+old = kālyaṇineya
+new = kālyāṇineya
+comment = Typo – When cross-referencing this against Monier-Williams (and in alignment with standard classical lexicons like Apte), the headword is accurately recorded as "kālyāṇineya".
+status = PENDING
+------------------------------------------------------------------------
+
