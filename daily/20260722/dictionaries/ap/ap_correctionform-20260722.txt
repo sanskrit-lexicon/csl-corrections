@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 23, 2026
+2 correction records, with 2 PENDING
+
+Case 4: 07/22/2026 dict=AP, L=12557.022, hw=kurukṣetriyogaḥ, user=srhodes
+old = kurukṣetriyogaḥ
+new = kurukṣetrīyogaḥ
+comment = 1. Orthographic and Etymological Correction: LB Current Error: The headword is printed as kurukṣetriyogaḥ (short 'i') with the etymological split kuruḥ + -kṣetriyogaḥ. LB Correction: The headword must be amended to kurukṣetrīyogaḥ (long 'ī'). The etymological split must be amended to kurukṣetrī + yogaḥ. LB Morphological Proof: The compound is a Madhyamapadalopī Karmadhāraya resolving as kurukṣetrībhūtaḥ yogaḥ (a temporal combination that has become Kurukṣetra). The base kurukṣetrī is formed via the cvi affix (Pāṇini 5.4.50: abhūtatadbhāve... cviḥ). Pāṇini 7.4.32 (asya cvau) strictly mandates the long 'ī' substitution for the final 'a' of kurukṣetra. The split kuruḥ + -kṣetriyogaḥ is grammatically impossible. LB Lexicographical Proof: Both the Śabdakalpadruma and Vācaspatyam explicitly list this exact headword as kurukṣetrīyoga with the long 'ī'. LB 2. Semantic Delineation Correction: LB Current Error: The entry conflates two distinct definitions and misapplies a Sanskrit citation. LB Correction: The definition must be split to reflect two distinct astrological phenomena. LB Proof: LB The first sentence ("a solar day in the course of which three lunar days...") defines a calendrical anomaly (tryahasparśa). LB The second sentence ("The yoga is indicative of death") and the appended citation (pañcagrahayute mṛtyau...) define a completely separate horoscopic natal alignment predicting physical death in Kurukṣetra. The citation, extracted from the Jātakāmṛta, belongs exclusively to the second definition and has no connection to the calendrical anomaly. The Śabdakalpadruma correctly separates these two definitions under the single headword kurukṣetrīyoga.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/22/2026 dict=AP, L=12554, hw=kurālaḥ, user=srhodes
+old = kurālaḥ
+new = You must decide! The Proof of this lexicographical error is explained below.
+comment = Typo – The erroneous form “kurālaḥ” originated as a paleographic misreading in early European lexicons (specifically H.H. Wilson's dictionary), where the Devanagari character 'ha' (ह) was corrupted into 'la' (ल). The authoritative Grosses Petersburger Wörterbuch (PWG) explicitly exposes this, declaring “kurāla m.” as "fehlerhaft (erroneous) for kurāha”. The indigenous kośas, including Hemacandra's Abhidhānacintāmaṇi, Vācaspatyam, and Śabdakalpadruma, exclusively attest to “kurāha m. and kulāha m.”.
+status = PENDING
+------------------------------------------------------------------------
+
