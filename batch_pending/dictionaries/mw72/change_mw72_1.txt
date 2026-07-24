@@ -1,0 +1,23 @@
+; COLOGNE#178 / H1523: MW72 dual headwords joined by 'and' — register missing k1 via Lbody
+; Format: paired 'old' + 'ins' after parent LEND (updateByLine)
+; parent L=38895 alt k1=yOktASvottara
+308694 old <LEND>
+308694 ins <L>38895.1<pc>0824-a<k1>yOktASvottara<k2>yOktASvottara
+308694 old <LEND>
+308694 ins {{Lbody=38895}}
+308694 old <LEND>
+308694 ins <LEND>
+; parent L=38331 alt k1=yaRvApatyottara
+302281 old <LEND>
+302281 ins <L>38331.1<pc>0804-b<k1>yaRvApatyottara<k2>yaRvApatyottara
+302281 old <LEND>
+302281 ins {{Lbody=38331}}
+302281 old <LEND>
+302281 ins <LEND>
+; parent L=8066 alt k1=AgniveSyAyana
+50840 old <LEND>
+50840 ins <L>8066.1<pc>0113-c<k1>AgniveSyAyana<k2>AgniveSyAyana
+50840 old <LEND>
+50840 ins {{Lbody=8066}}
+50840 old <LEND>
+50840 ins <LEND>
