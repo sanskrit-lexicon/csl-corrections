@@ -1,0 +1,8 @@
+; COLOGNE#178 residual / H1523: dattiya third form on L=21818 (dattika, dattiya, and dattila)
+; Note: change_mw72_2 already inserts 21818.1=dattila; this uses 21818.2
+157919 old <LEND>
+157919 ins <L>21818.2<pc>0399-c<k1>dattiya<k2>dattiya
+157919 old <LEND>
+157919 ins {{Lbody=21818}}
+157919 old <LEND>
+157919 ins <LEND>

@@ -1,0 +1,6 @@
+; CORRECTIONS#434 residual / H1523: bare --Comp./--COMP. -> proper {@--Comp.@}
+; so make_xml emits Comp. header not leftover -Comp. text
+182439 old {@--2@} A frog. --Comp. {#--iMduH#} an <lbinfo n="epi+thet"/>
+182439 new {@--2@} A frog. {@--Comp.@} {#--iMduH#} an <lbinfo n="epi+thet"/>
+270173 old senses). --COMP. {#--aMtaH#} the end of the
+270173 new senses). {@--Comp.@} {#--aMtaH#} the end of the

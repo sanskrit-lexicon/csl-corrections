@@ -1,0 +1,100 @@
+; COLOGNE#178 residual / H1523: more MW72 dual 'and' headwords — Lbody alts
+; (change_mw72_1 already queued yOktASvottara, yaRvApatyottara, AgniveSyAyana)
+; parent L=12305 alt k1=uraNgama
+77121 old <LEND>
+77121 ins <L>12305.1<pc>0174-a<k1>uraNgama<k2>uraNgama
+77121 old <LEND>
+77121 ins {{Lbody=12305}}
+77121 old <LEND>
+77121 ins <LEND>
+; parent L=13915 alt k1=karvura
+89992 old <LEND>
+89992 ins <L>13915.1<pc>0209-a<k1>karvura<k2>karvura
+89992 old <LEND>
+89992 ins {{Lbody=13915}}
+89992 old <LEND>
+89992 ins <LEND>
+; parent L=15599 alt k1=kftena
+103947 old <LEND>
+103947 ins <L>15599.1<pc>0248-a<k1>kftena<k2>kftena
+103947 old <LEND>
+103947 ins {{Lbody=15599}}
+103947 old <LEND>
+103947 ins <LEND>
+; parent L=15793 alt k1=keSarin
+105918 old <LEND>
+105918 ins <L>15793.1<pc>0254-a<k1>keSarin<k2>keSarin
+105918 old <LEND>
+105918 ins {{Lbody=15793}}
+105918 old <LEND>
+105918 ins <LEND>
+; parent L=18057 alt k1=GolikA
+125759 old <LEND>
+125759 ins <L>18057.1<pc>0310-a<k1>GolikA<k2>GolikA
+125759 old <LEND>
+125759 ins {{Lbody=18057}}
+125759 old <LEND>
+125759 ins <LEND>
+; parent L=19231 alt k1=jawAyus
+135427 old <LEND>
+135427 ins <L>19231.1<pc>0336-b<k1>jawAyus<k2>jawAyus
+135427 old <LEND>
+135427 ins {{Lbody=19231}}
+135427 old <LEND>
+135427 ins <LEND>
+; parent L=19286 alt k1=janU
+135966 old <LEND>
+135966 ins <L>19286.1<pc>0338-a<k1>janU<k2>janU
+135966 old <LEND>
+135966 ins {{Lbody=19286}}
+135966 old <LEND>
+135966 ins <LEND>
+; parent L=19564 alt k1=jAmadagneya
+138565 old <LEND>
+138565 ins <L>19564.1<pc>0345-b<k1>jAmadagneya<k2>jAmadagneya
+138565 old <LEND>
+138565 ins {{Lbody=19564}}
+138565 old <LEND>
+138565 ins <LEND>
+; parent L=20077 alt k1=JIrukA
+142415 old <LEND>
+142415 ins <L>20077.1<pc>0355-b<k1>JIrukA<k2>JIrukA
+142415 old <LEND>
+142415 ins {{Lbody=20077}}
+142415 old <LEND>
+142415 ins <LEND>
+; parent L=21487 alt k1=tyAdfSa
+153903 old <LEND>
+153903 ins <L>21487.1<pc>0387-b<k1>tyAdfSa<k2>tyAdfSa
+153903 old <LEND>
+153903 ins {{Lbody=21487}}
+153903 old <LEND>
+153903 ins <LEND>
+; parent L=21818 alt k1=dattila
+157919 old <LEND>
+157919 ins <L>21818.1<pc>0399-c<k1>dattila<k2>dattila
+157919 old <LEND>
+157919 ins {{Lbody=21818}}
+157919 old <LEND>
+157919 ins <LEND>
+; parent L=36454 alt k1=mandAru
+283027 old <LEND>
+283027 ins <L>36454.1<pc>0746-c<k1>mandAru<k2>mandAru
+283027 old <LEND>
+283027 ins {{Lbody=36454}}
+283027 old <LEND>
+283027 ins <LEND>
+; parent L=37993 alt k1=meluda
+299335 old <LEND>
+299335 ins <L>37993.1<pc>0796-b<k1>meluda<k2>meluda
+299335 old <LEND>
+299335 ins {{Lbody=37993}}
+299335 old <LEND>
+299335 ins <LEND>
+; parent L=39526 alt k1=reBilaka
+315980 old <LEND>
+315980 ins <L>39526.1<pc>0846-c<k1>reBilaka<k2>reBilaka
+315980 old <LEND>
+315980 ins {{Lbody=39526}}
+315980 old <LEND>
+315980 ins <LEND>

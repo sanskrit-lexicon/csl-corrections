@@ -1,0 +1,4 @@
+; CORRECTIONS#434 / H1523: remove bare second --Comp. under sarpis (L=29859)
+; Already has {@--Comp.@} above; bare --Comp. caused "Compounds stated twice" display
+257097 old of the seven seas. --Comp. {#--AsutiH#}
+257097 new of the seven seas. {#--AsutiH#}
