@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 24, 2026
+1 correction records, with 1 PENDING
+
+Case 4: 07/23/2026 dict=SHS, L=10192, hw=kālakūṭaṅkaṭa, user=srhodes
+old = kālakūṭaṅkaṭa
+new = You must decide! The Proof of this lexicographical error is explained below.
+comment = Orthographic Error: The headword kālakūṭaṅkaṭa is a lexicographical ghost word. It is a corrupted spelling of the authentic classical lemma kālakaṭaṅkaṭa (a recognized epithet of Śiva occurring in the Mahābhārata's Śivasahasranāma, 13.17.58). The Petersburger Wörterbuch explicitly flags kālakūṭaṅkaṭa as a "falsche Form" (false form) and "fehlerhaft" (erroneous) for kālakaṭaṅkaṭa. LB Etymological Hallucination: To justify this corrupted spelling, the Shabda-Sagara lexicon hallucinates the derivation kālakūṭa (poison) + kaṭa (who takes). This is mathematically invalid. Within the Pāṇinian Dhātupāṭha, there is absolutely no root √kaṭ meaning "to take" (the roots kaṭi~ and kaṭa~ mean 'to rain/cover' and 'to go'). Therefore, the kṛdanta formation kaṭa cannot yield the active agent meaning "who takes". The etymology is a desperate folk-derivation invented to rationalize a scribal error. LB CORRECTION: You MUST exclusively purge the false headword kālakūṭaṅkaṭa and its hallucinated etymological derivation. You MUST exclusively replace it with the authentic classical lemma (kālakaṭaṅkaṭa) m., a mathematically proven epithet of Śiva from the Mahābhārata. You MUST permanently deny the false derivation kālakūṭa + kaṭa (who takes), as the Pāṇinian root √kaṭ absolutely does not mean "to take," rendering the active agent translation mathematically impossible. The entry is a documented scribal corruption of kālakaṭaṅkaṭa that later lexicographers attempted to rationalize with a fabricated folk-etymology.
+status = PENDING
+------------------------------------------------------------------------
+

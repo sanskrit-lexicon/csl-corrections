@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 24, 2026
+3 correction records, with 3 PENDING
+
+Case 5: 07/23/2026 dict=AP, L=12522.032, hw=kumudagandhyā, user=srhodes
+old = kumudagandhyā
+new = kumudagandhā
+comment = Typo – Headword Print Change!  LB IRREFUTABLE PROOF FOR THE CORRECTION OF THE FALSE HEADWORD (kumudagandhyā) TO (kumudagandhā) f. LB The Vācaspatyam’s justification for the form kumudagandhyā relies on the application of the secondary affix ṣyaṅ by false analogy. This is mathematically dismantled by two absolute Pāṇinian axioms: LB The Semantic Violation (Gotra Restriction): LB Aṣṭādhyāyī 4.1.78 (aṇiñor anārṣayor gurūpottamayoh ṣyaṅ gotre) explicitly restricts the application of the ṣyaṅ affix exclusively to the semantic domain of gotra (descendant). The compound kumudagandha in this context is a Bahuvrīhi denoting possession/attribute (kumudasya gandha iva gandho yasyāḥ sā — "a woman having the smell of a white water-lily"). Because it does not denote a descendant, the application of ṣyaṅ is mathematically prohibited. LB The Morphophonological Violation (Absence of Vṛddhi): LB Even if the ṣyaṅ affix were hypothetically applied, Aṣṭādhyāyī 7.2.117 (taddhiteṣv acām ādeḥ) mandates the absolute vṛddhi substitution of the initial vowel of the base. The mathematical operation kumuda + ṣyaṅ MUST strictly yield kaumudagandhyā. The physical absence of initial vṛddhi in the VCP headword kumudagandhyā mathematically proves that the ṣyaṅ affix is absent. LB The Absolute Bahuvrīhi Derivation: LB By Aṣṭādhyāyī 5.4.136 (upamānād aprāṇiṣu), the samāsānta affix ic (which would alter the final 'a' to 'i') is applied to a Bahuvrīhi ending in gandha IF AND ONLY IF the subject is inanimate (aprāṇiṣu). Because the definition explicitly targets a living woman (strī), the ic affix is permanently blocked. The base remains kumudagandha. To form the feminine, Aṣṭādhyāyī 4.1.4 (ajādyataṣṭāp) mandates the standard affix ṭāp (ā). LB Derivation: kumudagandha + ṭāp = kumudagandhā. LB Conclusion: The form kumudagandhyā is a definitive morphological corruption and MUST be corrected to kumudagandhā.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/23/2026 dict=AP, L=12568, hw=kurkuṭaḥ, user=srhodes
+old = Rubbish
+new = You must decide! The Proof of this lexicographical error is explained below.
+comment = The definition "Rubbish" is a transmission error originating from a 19th-century mistranslation of Pañcatantra 3.118 (śvāna-kurkuṭa-cāṇḍālāḥ samasparśāḥ prakīrtitāḥ)[2]. In this verse, (kurkuṭa) m. strictly means "cock" (listed alongside dogs and outcastes as polluting agents)[2]. The early lexicographer G. C. Haughton erroneously translated the term as "rubbish" or "sweepings" in this specific context[2]. This conjecture was recorded by Böhtlingk and Roth[2], subsequently listed with a question mark by Theodor Benfey (1866)[1], and finally absorbed by V. S. Apte without the question mark.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/23/2026 dict=AP, L=12557.038, hw=kuruvṛddhaḥ, user=srhodes
+old = kuruḥ + -vṛddhaḥ
+new = kuru + vṛddhaḥ
+comment = Typo – There is a structural error in the dictionary's root equation, presented as: *kuruḥ + -vṛddhaḥ*. Apte has printed *kuruḥ*, a nominative singular noun, rather than the uninflected prātipadika (stem) *kuru*. In proper compound derivation (samāsa), the prior member must be reduced to its bare stem. The inclusion of the nominative visarga here is grammatically invalid for a compound equation. Please note that this suggests a Global Correction as follows: "ḥ + -" —> "+". This correction provides the Pure and True Compounding Formula! I am uncertain why you choose to deviate from this purely grammatical formula? The OTHER acceptable option would be to use the following format: "kuru-vṛddhaḥ". But you must acknowledge that the current formula: "+ -" is utterly redundant and confusing, creating nothing but a visual and cognitive burden in violation of the very meaning of the word "saṃskrṭam" !
+status = PENDING
+------------------------------------------------------------------------
+
