@@ -1,0 +1,16 @@
+Sanskrit Lexicon Correction Form History for WIL
+As of July 25, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 07/24/2026 dict=WIL, L=43827, hw=svṛ, user=czhao
+old = sesvarate
+new = saṁsvarate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/24/2026 dict=WIL, L=43644, hw=svara, user=czhao
+old = E.stara to sound
+new = E.svara to sound
+status = PENDING
+------------------------------------------------------------------------
+
