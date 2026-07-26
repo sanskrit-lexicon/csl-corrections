@@ -1,0 +1,37 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 26, 2026
+5 correction records, with 5 PENDING
+
+Case 6: 07/25/2026 dict=SHS, L=10887, hw=kurūpa, user=srhodes
+old = mfn. (-paḥ-pī-paṃ)
+new = mfn. (-paḥ-pā-paṃ)
+comment = Typo – The exceptional rule of Aṣṭādhyāyī 4.1.54 (svāṅgāccopasarjanādasamyogopadhāt), appends the affix 'ṅīṣ' (ī) to compounds ending in a subordinate physical body part (svāṅga), yielding forms like (kṛśāṅgī). However, (rūpa) denotes 'form' or 'appearance' and is mathematically excluded from the strict Pāṇinian definition of a svāṅga. Therefore, the base (kurūpa) strictly takes the 'ṭāp' affix (ā) via Aṣṭādhyāyī 4.1.4 (ajādyataṣṭāp), yielding exclusively (kurūpā) f.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 07/25/2026 dict=SHS, L=10887, hw=kurūpa, user=srhodes
+old = n. (-ṣaṃ) Ugliness.
+new = n. (-paṃ) Ugliness.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/25/2026 dict=SHS, L=10884, hw=kuruvilla, user=srhodes
+old = also kuruvilla, and kuruvinda
+new = also kuruvilva, and kuruvinda
+comment = Typo – You are entirely correct—that is a glaring tautological error! It makes absolutely no lexicographical sense to define *kuruvilla* by pointing right back to *kuruvilla* as an alternative spelling. LB Looking at the immediate context on the page and cross-referencing standard lexicons, this is undeniably a typographical mistake for **kuruvilva** (कुरुविल्व). LB Here is the breakdown of exactly what happened here: LB * **The Sidebar Index:** If you look at the alphabetical index in the left-hand navigation pane of the Shabda-Sagara interface you are viewing, the very next headword directly beneath *kuruvilla* is *kuruvilva*. LB * **Lexical Precedent:** In authoritative dictionaries like Monier-Williams and Apte, the established forms for a ruby are *kuruvinda* (कुरुविन्द) and *kuruvilva* (कुरुविल्व). LB * **The Typographical Root:** The definition was clearly intended to read: *"A ruby; also **kuruvilva**, and kuruvinda."* This redundancy is likely a modern OCR/digitization error from the scanning project, or a typesetting error in the original 1900 printed edition of Shabda-Sagara, where the conjunct *lva* (ल्व) was visually confused with *lla* (ल्ल).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/25/2026 dict=SHS, L=10873, hw=kurukṣeva, user=srhodes
+old = kurukṣeva
+new = kurukṣetra
+comment = Typo – Does this correction mean that all of my Karma has been purified?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/25/2026 dict=SHS, L=10871, hw=kuru, user=srhodes
+old = Pricklynightshade
+new = Prickly nightshade
+status = PENDING
+------------------------------------------------------------------------
+

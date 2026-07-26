@@ -1,0 +1,78 @@
+Sanskrit Lexicon Correction Form History
+As of July 26, 2026
+11 correction records, with 11 PENDING
+
+Case 11: 07/25/2026 dict=WIL, L=  , hw=nitānta, user=czhao
+old = It shows a blank page for nitānta and niyta.
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 07/25/2026 dict=AP, L=12576.046, hw=kulakarman, user=srhodes
+old = Missing Compound
+new = The compound "kuladharmaḥ" which is indicated in the Window Display, must be included as a searchable Headword in the Hierarchy List Column immediately following "kulakarman". Thus these three "grouped Compounds" are treated equally within the searchable dictionary.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 07/25/2026 dict=AP, L=12576.044, hw=kulācāraḥ, user=srhodes
+old = Missing Compound
+new = The compound "kuladharmaḥ" which is indicated in the Window Display, must be included as a searchable Headword in the Hierarchy List Column immediately following "kulakarman". Thus these three "grouped Compounds" are treated equally within the searchable dictionary.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 07/25/2026 dict=AP, L=12576.022, hw=kulāṅkuraḥ, user=srhodes
+old = "+ -"
+new = "+"  OR  "-"
+comment = Yes, from a strict morphological and computational standpoint, the `+ -` format is entirely redundant. It is a collision of two distinct symbolic paradigms trying to accomplish the exact same task. LB It should absolutely be one or the other. Here is the mechanical breakdown of why this dual formatting is inefficient: LB ### The Collision of Operators LB * **The Plus (`+`):** This is an algorithmic operator denoting concatenation. In an algebraic or Pāṇinian framework, placing a `+` between two elements explicitly defines them as operands in a union. LB * **The Hyphen (`-`):** This is a Western typographical marker. When placed before a word (e.g., `-abhimānin`), it visually signals to the reader that the element is an *uttarapada* (the latter member of a compound) or a bound morpheme that does not stand alone in this context. LB ### The Redundancy LB If an element immediately follows a `+` operator, its bound, subsequent nature in the compounding sequence is already mathematically declared. Adding a hyphen directly after the plus sign explicitly double-marks the dependency. It is the lexicographical equivalent of a double positive.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 07/25/2026 dict=AP, L=12576.022, hw=kulāṅkuraḥ, user=srhodes
+old = kulam + -aṅkuraḥ
+new = kula + aṅkuraḥ
+comment = Typo – The lexicographical source supplies the initial member of the compound with a neuter nominative/accusative inflection (`kulam`). According to absolute Pāṇinian morphological architecture (Aṣṭādhyāyī 2.4.71 *supo dhātuprātipadikayoḥ*), internal suP (case) affixes must be mathematically elided during samāsa (compounding). I will not be mentioning this point again, but it is important to be said that this online format is in violation of Pāṇinian morphological architecture!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 07/25/2026 dict=SHS, L=10887, hw=kurūpa, user=srhodes
+old = mfn. (-paḥ-pī-paṃ)
+new = mfn. (-paḥ-pā-paṃ)
+comment = Typo – The exceptional rule of Aṣṭādhyāyī 4.1.54 (svāṅgāccopasarjanādasamyogopadhāt), appends the affix 'ṅīṣ' (ī) to compounds ending in a subordinate physical body part (svāṅga), yielding forms like (kṛśāṅgī). However, (rūpa) denotes 'form' or 'appearance' and is mathematically excluded from the strict Pāṇinian definition of a svāṅga. Therefore, the base (kurūpa) strictly takes the 'ṭāp' affix (ā) via Aṣṭādhyāyī 4.1.4 (ajādyataṣṭāp), yielding exclusively (kurūpā) f.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 07/25/2026 dict=SHS, L=10887, hw=kurūpa, user=srhodes
+old = n. (-ṣaṃ) Ugliness.
+new = n. (-paṃ) Ugliness.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/25/2026 dict=SHS, L=10884, hw=kuruvilla, user=srhodes
+old = also kuruvilla, and kuruvinda
+new = also kuruvilva, and kuruvinda
+comment = Typo – You are entirely correct—that is a glaring tautological error! It makes absolutely no lexicographical sense to define *kuruvilla* by pointing right back to *kuruvilla* as an alternative spelling. LB Looking at the immediate context on the page and cross-referencing standard lexicons, this is undeniably a typographical mistake for **kuruvilva** (कुरुविल्व). LB Here is the breakdown of exactly what happened here: LB * **The Sidebar Index:** If you look at the alphabetical index in the left-hand navigation pane of the Shabda-Sagara interface you are viewing, the very next headword directly beneath *kuruvilla* is *kuruvilva*. LB * **Lexical Precedent:** In authoritative dictionaries like Monier-Williams and Apte, the established forms for a ruby are *kuruvinda* (कुरुविन्द) and *kuruvilva* (कुरुविल्व). LB * **The Typographical Root:** The definition was clearly intended to read: *"A ruby; also **kuruvilva**, and kuruvinda."* This redundancy is likely a modern OCR/digitization error from the scanning project, or a typesetting error in the original 1900 printed edition of Shabda-Sagara, where the conjunct *lva* (ल्व) was visually confused with *lla* (ल्ल).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/25/2026 dict=SHS, L=10873, hw=kurukṣeva, user=srhodes
+old = kurukṣeva
+new = kurukṣetra
+comment = Typo – Does this correction mean that all of my Karma has been purified?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/25/2026 dict=SHS, L=10871, hw=kuru, user=srhodes
+old = Pricklynightshade
+new = Prickly nightshade
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/25/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+

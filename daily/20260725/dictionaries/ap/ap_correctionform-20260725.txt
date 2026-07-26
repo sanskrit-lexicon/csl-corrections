@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 26, 2026
+4 correction records, with 4 PENDING
+
+Case 10: 07/25/2026 dict=AP, L=12576.046, hw=kulakarman, user=srhodes
+old = Missing Compound
+new = The compound "kuladharmaḥ" which is indicated in the Window Display, must be included as a searchable Headword in the Hierarchy List Column immediately following "kulakarman". Thus these three "grouped Compounds" are treated equally within the searchable dictionary.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 07/25/2026 dict=AP, L=12576.044, hw=kulācāraḥ, user=srhodes
+old = Missing Compound
+new = The compound "kuladharmaḥ" which is indicated in the Window Display, must be included as a searchable Headword in the Hierarchy List Column immediately following "kulakarman". Thus these three "grouped Compounds" are treated equally within the searchable dictionary.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 07/25/2026 dict=AP, L=12576.022, hw=kulāṅkuraḥ, user=srhodes
+old = "+ -"
+new = "+"  OR  "-"
+comment = Yes, from a strict morphological and computational standpoint, the `+ -` format is entirely redundant. It is a collision of two distinct symbolic paradigms trying to accomplish the exact same task. LB It should absolutely be one or the other. Here is the mechanical breakdown of why this dual formatting is inefficient: LB ### The Collision of Operators LB * **The Plus (`+`):** This is an algorithmic operator denoting concatenation. In an algebraic or Pāṇinian framework, placing a `+` between two elements explicitly defines them as operands in a union. LB * **The Hyphen (`-`):** This is a Western typographical marker. When placed before a word (e.g., `-abhimānin`), it visually signals to the reader that the element is an *uttarapada* (the latter member of a compound) or a bound morpheme that does not stand alone in this context. LB ### The Redundancy LB If an element immediately follows a `+` operator, its bound, subsequent nature in the compounding sequence is already mathematically declared. Adding a hyphen directly after the plus sign explicitly double-marks the dependency. It is the lexicographical equivalent of a double positive.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 07/25/2026 dict=AP, L=12576.022, hw=kulāṅkuraḥ, user=srhodes
+old = kulam + -aṅkuraḥ
+new = kula + aṅkuraḥ
+comment = Typo – The lexicographical source supplies the initial member of the compound with a neuter nominative/accusative inflection (`kulam`). According to absolute Pāṇinian morphological architecture (Aṣṭādhyāyī 2.4.71 *supo dhātuprātipadikayoḥ*), internal suP (case) affixes must be mathematically elided during samāsa (compounding). I will not be mentioning this point again, but it is important to be said that this online format is in violation of Pāṇinian morphological architecture!
+status = PENDING
+------------------------------------------------------------------------
+
