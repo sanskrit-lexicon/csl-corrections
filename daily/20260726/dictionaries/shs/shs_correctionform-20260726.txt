@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 27, 2026
+2 correction records, with 2 PENDING
+
+Case 7: 07/26/2026 dict=SHS, L=10898, hw=kurvvadrūpa, user=srhodes
+old = grain
+new = You must decide! The explanation of this error is given below.
+comment = The lexicon's citation of "grain" for (kurvadrūpa) is a proven lexicographical corruption. The morphological parsing strictly dictates an active, causal nature, permanently voiding any botanical or cereal-based semantic extension. The Shabda-Sagara's inclusion of "grain" is a proven typographical corruption, mathematically traced to a transposition from nearby entries such as (kuruvinda) or (kulattha).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 07/26/2026 dict=SHS, L=10897, hw=kurvvat, user=srhodes
+old = (-rvvan-rvvantī-rvvat)
+new = (-rvvan-rvvatī-rvvat)
+comment = Typo – the correct feminine form is strictly (kurvatī) f.  LB It is mathematically derived by appending the feminine affix 'ṅīp' (ī) via Aṣṭādhyāyī 4.1.6 (ugitaśca). The nasal augment 'num' (n) is mathematically voided because the root √kṛ belongs to the Tanādi-gaṇa (Class 8) and does not take the vikaraṇas 'śap' or 'śyan' which would mandate the nasal insertion via Aṣṭādhyāyī 7.1.81 (śapśyanornityam).
+status = PENDING
+------------------------------------------------------------------------
+

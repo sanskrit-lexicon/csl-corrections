@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 27, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 07/26/2026 dict=AP, L=12576.063, hw=kulotkaṭaḥ, user=srhodes
+old = -utkaṭa + (-ṭaḥ) 
+new = -utkaṭaḥ
+comment = Typo – Please note that this is a suggested "Simplification". If you like this idea, you could conduct a Global Search for similar cases: The target search should be: "+ (-" 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/26/2026 dict=AP, L=12576.061, hw=kuleśvarā, user=srhodes
+old = kuleśvarā
+new = kuleśvarī
+comment = Typo – Print Change! LB The base substantive is (īśvara) (lord), derived from the verbal root √īś (to rule) with the kṛt affix 'varac' via Aṣṭādhyāyī 3.2.175 (stheśabhāsapisakaso varac). To form the feminine, the affix 'ṅīṣ' (ī) is appended because (īśvara) is included in the gaurādi class via Aṣṭādhyāyī 4.1.41 (ṣidgaurādibhyaśca), yielding strictly (īśvarī). Consequently, the Ṣaṣṭhī Tatpuruṣa compound denoting "the Lady of the Kula" MUST resolve exclusively to (kuleśvarī). The form (kuleśvarā) with the feminine affix 'ṭāp' (ā) is a morphological impossibility for this Tatpuruṣa resolution and represents a typographical corruption in the Apte 1957 edition.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/26/2026 dict=AP, L=12576.056, hw=kulaśekharaḥ, user=srhodes
+old = nipīḍaṃ samyagmahīṃ
+new = vipīḍaṃ samyaṅmahīṃ
+comment = Typo – Print Change. LB CORRECTION 1: The corrupted reading 'nipīḍaṃ' MUST be permanently corrected to the authentic critical reading 'vipīḍam' to resolve the semantic contradiction and restore the exact text of Raghuvaṃśa 18.29. The context describes the righteous rule of King Pāriyātra. The reading 'nipīḍam' (with oppression/affliction) generates an absolute semantic contradiction to the eulogistic nature of the verse.  LB CORRECTION 2: The sandhi 'samyagmahīṃ', while grammatically permissible via Aṣṭādhyāyī 8.2.39, MUST be recognized as secondary to the critically preferred nasal substitution 'samyaṅmahīṃ' mathematically authorized by Aṣṭādhyāyī 8.4.45 (yaro 'nunāsike 'nunāsiko vā). In classical Kāvya, this nasal substitution is the mathematically preferred standard, yielding 'samyaṅmahīm'.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/26/2026 dict=AP, L=12576.054, hw=kulāpīḍaḥ, user=srhodes
+old = nipīḍaṃ samyagmahīṃ
+new = vipīḍaṃ samyaṅmahīṃ
+comment = Typo – Print Change. LB CORRECTION 1: The corrupted reading 'nipīḍaṃ' MUST be permanently corrected to the authentic critical reading 'vipīḍam' to resolve the semantic contradiction and restore the exact text of Raghuvaṃśa 18.29. The context describes the righteous rule of King Pāriyātra. The reading 'nipīḍam' (with oppression/affliction) generates an absolute semantic contradiction to the eulogistic nature of the verse.  LB CORRECTION 2: The sandhi 'samyagmahīṃ', while grammatically permissible via Aṣṭādhyāyī 8.2.39, MUST be recognized as secondary to the critically preferred nasal substitution 'samyaṅmahīṃ' mathematically authorized by Aṣṭādhyāyī 8.4.45 (yaro 'nunāsike 'nunāsiko vā). In classical Kāvya, this nasal substitution is the mathematically preferred standard, yielding 'samyaṅmahīm'.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/26/2026 dict=ap, L=, hw=pramARam, user=jim
+old = तु राजानं न प्रमाणेऽवतिष्ठसि Rām. 2. 37. 22 . 5 Testimony, evidence, proof. 6 <!!!>A uthority, warrant; one<!!!> who judges or decides, one whose word  Page1101-2  is an authority; श्रुत्वा
+new = Under प्रमाणम् .  Authority  (no space between A and u)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
