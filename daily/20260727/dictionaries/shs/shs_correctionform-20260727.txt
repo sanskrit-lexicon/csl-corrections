@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of July 28, 2026
+1 correction records, with 1 PENDING
+
+Case 4: 07/27/2026 dict=SHS, L=10904, hw=kulakka, user=srhodes
+old = Beating time in music.
+new = You must decide! The explanation of this error is given below.
+comment = Typo – The primary classical citation for this word is the Hārāvalī (211). The authoritative Böhtlingk and Roth (PWG) lexicon strictly defines (kulakka) as "Cymbel" (cymbal). Monier-Williams accurately defines it as "a cymbal (beating time, in music)". The Shabda-Sagara (based on Wilson) defines it exclusively as "Beating time in music". This mathematically proves that the 19th-century compiler erroneously extracted the functional descriptor (the purpose of the LB instrument) and falsely cataloged it as an abstract action, completely omitting the physical substantive. LB The word (kulakka) is a masculine substantive denoting a physical musical instrument, not the abstract action of keeping rhythm. The Shabda-Sagara definition "Beating time in music" MUST be permanently voided as an abstract action. The headword (kulakka) m. be exclusively defined by its literal physical reality.
+status = PENDING
+------------------------------------------------------------------------
+
