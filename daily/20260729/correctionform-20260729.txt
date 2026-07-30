@@ -1,0 +1,51 @@
+Sanskrit Lexicon Correction Form History
+As of July 30, 2026
+7 correction records, with 7 PENDING
+
+Case 7: 07/29/2026 dict=ap, L=, hw=kzAnta, user=jim
+old = क्षान्त  [Printed book page 0623-1]  क्षान्त  p. p. [क्षम्-क्त] 1 Patient, <!!!>for bearing<!!!>, enduring. 2 Forgiven. 3 Borne, endured. 4 Friendly.
+new = forbearing  (no space)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 07/29/2026 dict=LRV, L=9371, hw=kim, user=srhodes
+old = prenoun
+new = pronoun
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 07/29/2026 dict=LRV, L=9355, hw=kiṇva, user=srhodes
+old = reed
+new = seed
+comment = Typo – This is a suggested "Print Change", as compared with other lexicons.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 07/29/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/29/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/29/2026 dict=AP, L=12576.15, hw=kulapāṃsana, user=srhodes
+old = Bhāg. 19. 1. 35
+new = Bhāg. 10. 1. 35
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 07/29/2026 dict=MW, L=146103 , hw=bṛhat, user=jc
+old = bṛhátī
+new = bṛhatī́
+comment = The incorrect accentuation bṛhátī has been inferred from (correct) bṛhát and printed "(tī)" (no accent), but the definition of the subentry is simply "f., see s.v.". On checking the main entry for the headword bṛhatī, only the accentuation bṛhatī́ (acute on ī) is given. Bracketed "(tī)" is already superfluous to the (correct) accentuation in the headword ("bṛhát mf(atī́)n"), so I think it's just intended to remind of the long ī.
+status = PENDING
+------------------------------------------------------------------------
+

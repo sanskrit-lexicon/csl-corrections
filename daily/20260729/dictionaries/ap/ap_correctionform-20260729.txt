@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for AP
+As of July 30, 2026
+2 correction records, with 2 PENDING
+
+Case 7: 07/29/2026 dict=ap, L=, hw=kzAnta, user=jim
+old = क्षान्त  [Printed book page 0623-1]  क्षान्त  p. p. [क्षम्-क्त] 1 Patient, <!!!>for bearing<!!!>, enduring. 2 Forgiven. 3 Borne, endured. 4 Friendly.
+new = forbearing  (no space)
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/29/2026 dict=AP, L=12576.15, hw=kulapāṃsana, user=srhodes
+old = Bhāg. 19. 1. 35
+new = Bhāg. 10. 1. 35
+status = PENDING
+------------------------------------------------------------------------
+

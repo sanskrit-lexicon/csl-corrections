@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for MW
+As of July 30, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 07/29/2026 dict=MW, L=146103 , hw=bṛhat, user=jc
+old = bṛhátī
+new = bṛhatī́
+comment = The incorrect accentuation bṛhátī has been inferred from (correct) bṛhát and printed "(tī)" (no accent), but the definition of the subentry is simply "f., see s.v.". On checking the main entry for the headword bṛhatī, only the accentuation bṛhatī́ (acute on ī) is given. Bracketed "(tī)" is already superfluous to the (correct) accentuation in the headword ("bṛhát mf(atī́)n"), so I think it's just intended to remind of the long ī.
+status = PENDING
+------------------------------------------------------------------------
+
