@@ -1,6 +1,6 @@
 # csl-corrections — batch processing runbook
 
-_Created: 10-07-2026 · Last updated: 10-07-2026_
+_Created: 10-07-2026 · Last updated: 01-08-2026_
 
 The operator manual for this repository: how a correction travels from a
 reader's form submission to a committed change in `csl-orig`, which script
@@ -48,6 +48,8 @@ Operator commands, in the order a batch actually needs them:
 # 0. nothing — intake is automatic (cron); check it ran (see §3.0)
 # 1. preflight an old issue against the registry (see §3.2 — grep, no script)
 # 2. assemble batches/YYYYMMDD/dictionaries/<dict>/change_<dict>_N.txt + readme.txt
+#    OR stage validated agent work under batch_pending/ (monthly queue) then:
+python scripts/check_batch_pending_tracked.py   # H2086: must be tracked+pushed
 # 3. apply + validate per docs/correction-workflow.md (updateByLine, xmllint — owned there)
 # 4. rebuild the derived layer and the figures:
 python scripts/build_correction_loci.py --selftest
@@ -56,6 +58,13 @@ python scripts/build_correction_viz.py
 python csl-corrections_verify.py
 python count_labels.py
 ```
+
+**Agent monthly queue:** validated changefiles go in
+[`batch_pending/`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_pending/README.md)
+and must pass
+[`scripts/check_batch_pending_tracked.py`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/scripts/check_batch_pending_tracked.py)
+(commit + push same session). Details:
+[docs/BATCH_PENDING_DURABILITY.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/BATCH_PENDING_DURABILITY.md).
 
 ## 2. Environment & prerequisites
 
