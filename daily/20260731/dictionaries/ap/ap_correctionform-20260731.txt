@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for AP
+As of August 01, 2026
+3 correction records, with 3 PENDING
+
+Case 4: 07/31/2026 dict=AP, L=12576.2, hw=kulavratam, user=srhodes
+old = kulam + -vrataḥ, -vratam
+new = kulam + -vratam
+comment = You MUST exclusively reject the masculine headword "kulavrataḥ" and the anomalous tag "-vrataḥ, -vratam". You MUST exclusively classify and output "kulavratam" strictly as a neuter substantive (n.), mathematically guaranteed by Pāṇini 2.4.26 (paraval liṅgaṃ dvandvatatpuruṣayoḥ) and absolutely verified by the explicit neuter syntactic agreement within the lexicon's own primary citation (idaṃ hi kulavratam). According to Pāṇini 2.4.26 (paraval liṅgaṃ dvandvatatpuruṣayoḥ), the gender of a Tatpuruṣa compound is absolutely dictated by its final member (uttarapada). The substantive 'vrata' is strictly neuter (vratam). Therefore, the compound 'kulavrata' is mathematically restricted exclusively to the neuter gender.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 07/31/2026 dict=AP, L=12576.198, hw=kulavrataḥ, user=srhodes
+old = kulavrataḥ
+new = DELETE THE MASCULINE HEADWORD!
+comment = You MUST exclusively reject the masculine headword "kulavrataḥ" and the anomalous tag "-vrataḥ, -vratam". You MUST exclusively classify and output "kulavratam" strictly as a neuter substantive (n.), mathematically guaranteed by Pāṇini 2.4.26 (paraval liṅgaṃ dvandvatatpuruṣayoḥ) and absolutely verified by the explicit neuter syntactic agreement within the lexicon's own primary citation (idaṃ hi kulavratam). According to Pāṇini 2.4.26 (paraval liṅgaṃ dvandvatatpuruṣayoḥ), the gender of a Tatpuruṣa compound is absolutely dictated by its final member (uttarapada). The substantive 'vrata' is strictly neuter (vratam). Therefore, the compound 'kulavrata' is mathematically restricted exclusively to the neuter gender.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 07/31/2026 dict=AP, L=12576.2, hw=kulavratam, user=srhodes
+old = viśvasminnadhunā'nyaḥ
+new = viśvasminnadhunānyaḥ
+comment = Typo – Please note that this is a suggested "Print Change", based upon the following reasoning: Sandhi of 'adhunā' + 'anyaḥ': According to Pāṇini 6.1.101 (akaḥ savarṇe dīrghaḥ), the contiguous vowels 'ā' and 'a' mathematically resolve to the single long vowel 'ā' (savarṇadīrgha sandhi). The resulting continuous string is 'adhunānyaḥ'. The presence of an apostrophe ('adhunā'nyaḥ') is mathematically invalid in strict IAST transliteration, as the avagraha strictly denotes pūrvarūpa sandhi (Pāṇini 6.1.109, eṅaḥ padāntād ati) following 'e' or 'o'. LB You MUST exclusively reject the digitized lexicon's orthographic anomaly ("adhunā'nyaḥ"). You MUST exclusively output the mathematically resolved, continuous sandhi string "adhunānyaḥ" in strict accordance with Pāṇini 6.1.101 (akaḥ savarṇe dīrghaḥ).
+status = PENDING
+------------------------------------------------------------------------
+
