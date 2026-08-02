@@ -1,0 +1,38 @@
+Sanskrit Lexicon Correction Form History
+As of August 02, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 08/01/2026 dict=LRV, L=9414, hw=kiṃvida, user=srhodes
+old = kiṃvida
+new = kiṃvid
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 08/01/2026 dict=LRV, L=9402, hw=kiṃnukhalu, user=srhodes
+old = kiṃnukhalu
+new = You must decide! The explanation of this error is given below.
+comment = Typo – Of course the form "kiṃnu" may be taken as two words, yet still appearing joined. However the compounding addition of "khalu" appears to be an absolute error! The target source validates the continuous string "kiṃnukhalu" and the hyphenated string "kim-nukhalu". According to Pāṇinian syntax, 'kim', 'nu', and 'khalu' are three distinct, independent indeclinables (avyayas). They do not form a nominal compound (samāsa). The absolute architectural mandate dictates that all independent words MUST be separated strictly with a single blank space, and hyphens MUST be reserved strictly for authentic nominal compounds. Therefore, the continuous and hyphenated IAST renderings are mathematically invalid.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 08/01/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/01/2026 dict=AP, L=12241.056, hw=kiñcit, user=srhodes
+old = FIVE MISSING COMPOUNDS!
+new = Add the following FIVE compounds as indicated in the Window Display to the Official Headwords in the Hierarchy Display Column, so that each of these five compounds becomes "searchable"!  Here are the FIVE: 1) “kiṃcijjña/kiñcijjña”  ,  2) “kiṃcitkara/kiñcitkara”  ,  3) “kiṃcitkāla/kiñcitkāla”  ,  4) “kiṃcitprāṇa/kiñcitprāṇa”  ,  5) “kiṃcinmātra/kiñcinmātra”
+comment = FIVE MISSING COMPOUNDS!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/01/2026 dict=AP, L=12241.056, hw=kiñcit, user=srhodes
+old = doing something useful
+new = doing something, useful
+comment = Typo – The printed definition—"doing something, useful"—is highly accurate as **two distinct, sequential glosses** rather than a single continuous phrase. LB In standard 19th-century lexicographical formatting, the comma serves a specific bridging function: LB 1. **"doing something":** Provides the literal, etymological translation of the compound's constituent parts. LB 2. **"useful":** Provides the extended, pragmatic meaning of the word as it is actually employed in classical literature. LB Merging them into a single phrase ("doing something useful") would obscure the morphological transparency of the word and limit its translational scope, as the word can mean "significant" even when "doing something useful" might be stylistically clunky in an English translation. LB ### Morphological Resolution LB The word *kiṃcitkara* is an *upapada tatpuruṣa* compound. The standard syntactic resolution (*vigraha*) is: LB * *kiṃcit karoti iti* (one who does something/anything) LB Here, *kiṃcit* (an indefinite pronoun meaning "something" or "a little") acts as the object (*karman*) to the verbal derivative *kara* (from the root √*kṛ*, "to do" or "to make"). Because *kara* is an action noun functioning adjectivally (as denoted by the *a.* in the Vaidya entry), the literal meaning is strictly "doing something." LB The semantic leap to "useful" occurs because in Sanskrit idiom, an entity or action that "effects something" (as opposed to having a zero-sum outcome) possesses inherent utility or significance. LB ### Comparative Cross-Reference LB Cross-referencing this against the major classical dictionaries confirms this dual-gloss approach: LB * **Monier-Williams:** Lists *kiñcit-kara* as *mfn.* "doing anything, significant, useful." MW explicitly uses the comma to separate the literal action ("doing anything") from the derived qualitative states ("significant, useful"). LB * **V.S. Apte:** Similarly glosses the entry as "doing something, useful, significant." LB Both monumental works maintain the comma, proving that Vaidya’s 1889 entry is perfectly aligned with the standard lexicographical conventions of the era. LB ### Corroboration via Negation LB The most definitive proof of this dual-structure lies in the word's negative counterpart: **akiṃcitkara**. LB If we look at the standard dictionary entries for *akiṃcitkara*, the glosses are invariably broken down into two parallel halves: LB 1. **Literal:** "doing nothing" LB 2. **Pragmatic:** "ineffectual, useless, insignificant" LB Just as "doing nothing useless" would be an absurd single-phrase translation for *akiṃcitkara*, "doing something useful" is an imprecise single-phrase collapse for *kiṃcitkara*. The comma is essential; it perfectly maps the journey from Pāṇinian morphology to applied semantics.
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of August 02, 2026
+2 correction records, with 2 PENDING
+
+Case 5: 08/01/2026 dict=LRV, L=9414, hw=kiṃvida, user=srhodes
+old = kiṃvida
+new = kiṃvid
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 08/01/2026 dict=LRV, L=9402, hw=kiṃnukhalu, user=srhodes
+old = kiṃnukhalu
+new = You must decide! The explanation of this error is given below.
+comment = Typo – Of course the form "kiṃnu" may be taken as two words, yet still appearing joined. However the compounding addition of "khalu" appears to be an absolute error! The target source validates the continuous string "kiṃnukhalu" and the hyphenated string "kim-nukhalu". According to Pāṇinian syntax, 'kim', 'nu', and 'khalu' are three distinct, independent indeclinables (avyayas). They do not form a nominal compound (samāsa). The absolute architectural mandate dictates that all independent words MUST be separated strictly with a single blank space, and hyphens MUST be reserved strictly for authentic nominal compounds. Therefore, the continuous and hyphenated IAST renderings are mathematically invalid.
+status = PENDING
+------------------------------------------------------------------------
+
