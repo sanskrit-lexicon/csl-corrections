@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for AP
+As of August 03, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 08/02/2026 dict=AP, L=12587.002, hw=kulyaḥ, user=srhodes
+old = mātṛbandhukulyaguṇavat sāmantānāmanyatamena
+new = mātṛbandhukulyaguṇavatsāmantānāmanyatamena
+comment = Typo – An absolute mathematical cross-reference of the Kauṭilīya Arthaśāstra (1.17.50) and Pāṇinian sandhi rules confirms the structural anomaly within the digitized Apte lexicon. The sequence "guṇavat" + "sāmantānām" exists within a unified compound (samāsa). According to Pāṇinian metarules, saṃhitā (continuous euphonic combination) is absolutely mandatory within a compound (samāsaikapadībhāva). The terminal 't' of 'guṇavat' and the initial 's' of 'sāmantānām' mathematically dictate the continuous consonant sandhi 'ts'. The presence of a space mathematically violates the structural integrity of the samāsa.  LB OF COURSE, if the entire string must break because of the space limitation in the Window Display, then the incluse of a hyphen "-" is mandatory to maintain the continuity of the compound!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/02/2026 dict=AP, L=12586.004, hw=kulīnam, user=srhodes
+old = + .-
+new = + -
+comment = Typo – Remove the period "."  However, again it must be stated the addition of the plus "+" is strictly a Cologne artifact that is NOT present in the Apte printed Dictionary. If Apte Himself did not need to use the plus sign "+", then one wonders why Cologne insists on using this redundant format "+ -".
+status = PENDING
+------------------------------------------------------------------------
+
