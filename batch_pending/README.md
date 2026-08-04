@@ -22,21 +22,17 @@ Full recipe: [docs/BATCH_PENDING_DURABILITY.md](https://github.com/sanskrit-lexi
 
 ## Current queue (dict codes with change files)
 
-**`mw` only, and it is BLOCKED — do not ship it as staged (04-08-2026).**
+**Empty — queue clear as of 04-08-2026.** Everything queued shipped that day:
 
-`change_mw_1.txt` (21,791 bare `&c.` → `<ab>&c.</ab>`, approved on
-[MWS#86](https://github.com/sanskrit-lexicon/MWS/issues/86)) and `change_mw_2.txt`
-(26 phw-graph pointer fixes) are addressed to a base that is **not** csl-orig
-`origin/main`: **20,618 of 21,817 records fail** against it. Five upstream July
-correction commits (`de8c1862`, `d649aee8`, `921c916f`, `54e06384`, `4b0fdecd`)
-net-deleted one line at 59923, shifting every later line number by one, and changed
-content at the divergence (`alAtaSanti` → `alAtaSAnti`).
+| PR | contents |
+|---|---|
+| [#2884](https://github.com/sanskrit-lexicon/csl-orig/pull/2884) | ap90 (2) + mw72 (54 ins) + pwg (1) = 57 changes |
+| [#2885](https://github.com/sanskrit-lexicon/csl-orig/pull/2885) | mw, 21,811 lines (`&c.` markup + phw graph) — split out because a diff that size should not ride inside a multi-dictionary batch |
 
-They need **content-relocation onto `origin/main` plus a fresh XML gate** — the
-"All records parsed by ET" recorded when they were queued was measured on the wrong
-base and does not transfer. Tracked as Uprava **H2270**.
+Both are `@WAITING` on a maintainer merge; auto-merge is off by policy.
 
-Everything else that was queued shipped on 04-08-2026; see
-[`batch_20260804/readme.txt`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20260804/readme.txt)
-for the validation method (isolated build, **no swap window**) and for why
-`change_ap90_1.txt` was dropped as a duplicate of an edit already in PR #2879.
+**Read [`batch_20260804/readme.txt`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20260804/readme.txt) before preparing the next batch** — it records three traps this drain hit, all of which will recur:
+
+1. **Change files are addressed to the base they were built against, and that may not be `origin/main`.** The mw files were prepared on a branch; 20,618 of 21,817 records failed against `main` after five upstream July commits shifted line numbers. Always re-verify every record against the *delivery* base, never the working tree.
+2. **A rule-shaped change should be regenerated, not line-shifted** — and the regenerated rule must first be proven to reproduce the approved change file byte-for-byte on its own base.
+3. **`updateByLine.py` doubles the carriage return on Windows**, rewriting every line in the diff. Read and write with `newline=''`.

@@ -55,3 +55,35 @@ mw (change_mw_1.txt, change_mw_2.txt)  HELD — still in batch_pending/, deliber
   does not transfer. Tracked as Uprava H2270.
 
 _Dr. Mārcis Gasūns_
+
+--- ADDENDUM 04-08-2026: mw SHIPPED (was HELD above) ---
+Batch PR: https://github.com/sanskrit-lexicon/csl-orig/pull/2885 (@WAITING maintainer merge;
+  auto-merge OFF). Split from #2884 deliberately: 21,811 lines should not ride inside a
+  multi-dictionary batch.
+Dict: mw · 21,811 line changes · MWS#86 (21,791 '&c.' wraps / 25,111 occurrences) +
+  H1500 (26 phw cross-reference fixes; phw_audit.py post-fix 0 issues,
+  2,369/2,369 edges 100% reciprocal, was 2,364 / 99.3% / 31 issues)
+Shipped by: Opus 5 (claude-opus-5), 04-08-2026.
+
+The HELD note above is now resolved. How the relocation was done, since a future batch
+will hit the same thing:
+
+  change_mw_1 is a RULE (wrap bare '&c.' as <ab>&c.</ab>), not a hand-list, so it was
+    REGENERATED against origin/main rather than line-shifted. The substitution was proven
+    safe first: the rule reproduces change_mw_1 BYTE-FOR-BYTE on that file's own base and
+    fires on exactly the same lines (0 extra). Regenerating a rule beats shifting a
+    derived line-list -- the rule cannot drift out of sync with the base.
+
+  change_mw_2 is a hand-list with no rule behind it, so its 26 records were relocated BY
+    CONTENT. Three share the body '¦ See <s>meTi</s><info lex="f"/>' and take DIFFERENT
+    phwparent values (167785,meTI / 167783,meDi / 167783,meDI). Content alone collapses
+    them and would write the wrong pointer into the wrong record; they were disambiguated
+    by each record's own <L> header (167791.2, 167958.1, 167959.1). A guard also refuses
+    to let two records relocate onto the same line.
+
+  6 lines carry BOTH changes. Applying the phw fixes first and then running the '&c.'
+    rule over the whole file dissolves the collision with no special case.
+
+Validated: "All records parsed by ET", isolated tempparent build, csl-orig never written
+to, build confirmed to have consumed the corrected text. No BOM (3c4c3e). Line count
+unchanged (877,235). Diff scope exactly 21,811 lines and nothing else.
