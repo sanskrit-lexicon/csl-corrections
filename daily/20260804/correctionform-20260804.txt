@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History
+As of August 05, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 08/04/2026 dict=AP, L=12592, hw=kulā, user=srhodes
+old = f. Red arsenic (Mar. manaśīḻa). 
+new = You must decide! The explanation of this error is given below.
+comment = Typo – Based on absolute cross-referencing of Monier-Williams, Śabdakalpadruma, and Vācaspatyam, the definition "Red arsenic (Mar. manaśīḻa)" is categorically false for the stem kulā. STRUCTURAL ALIGNMENT: The entry for kulā (f.) must be stripped of the "Red arsenic" definition. To establish absolute structural continuity, the definition "Red arsenic" is mathematically reassigned and locked LB exclusively to the actively verified, literal lexicographical evidence: kunaṭī (f.) and manaḥśilā (f.).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/04/2026 dict=AP, L=12590.002, hw=kulatthikā, user=srhodes
+old = + .-
+new = + -
+comment = Typo – Please note that the above format "+ .-" appears to be a Global Issue that should be corrected!  What is the purpose of this absurd string: "+ .-" ? It looks like the arithmetic of a drunk mathematician! My God, have mercy! Furthermore, as I have mentioned before, even this string is redundant: "+ -" !  Either One of these operators is sufficient in itself! Therefore, Why "Double Up" ?  Apte strictly uses the Hyphen in his printed text! Apte never uses the plus "+" !  Why has Cologne adopted this online Redundancy that departs from the printed page as well as Apte's own methodology ?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/04/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
