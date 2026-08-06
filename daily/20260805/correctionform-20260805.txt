@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History
+As of August 06, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 08/05/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 08/05/2026 dict=LRV, L=9442, hw=kilakiṃcita, user=srhodes
+old = kila-kiṃcita (II)
+new = kila (II)
+comment = Typo - The spelling and definition pairing currently printed in the Window Display is mathematically incorrect. The source database contains a structural digitization or parsing error, erroneously attaching the headword kila-kiṃcita to the entry and definition that rightfully belongs to the particle kila.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/05/2026 dict=LRV, L=9443, hw=kilakiṃcita, user=srhodes
+old = kila-kiṃcita (II)
+new = kila (II)
+comment = Typo - The spelling and definition pairing currently printed in the Window Display is mathematically incorrect. The source database contains a structural digitization or parsing error, erroneously attaching the headword kila-kiṃcita to the entry and definition that rightfully belongs to the particle kila. LB VERY IMPORTANT – This correction needs to be made for the Official Headword Listing in the Hierarchy List Column to ensure the correct "Search" and "Find" Headword!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/05/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
