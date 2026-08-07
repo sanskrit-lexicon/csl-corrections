@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History for AP
+As of August 07, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 08/06/2026 dict=AP, L=12606.002, hw=kuliram, user=srhodes
+old = kuliram
+new = (DELETE NEUTER GENDER) – You must decide! The explanation of this error is given below.
+comment = Typo – Direct visual verification of Monier-Williams, Śabdakalpadruma, and Vācaspatyam mathematically proves that the primary, authentic Pāṇinian base is strictly kulīra (possessing a long 'ī'). Furthermore, the authoritative consensus mathematically locks the gender of this base exclusively to the masculine (puṃliṅga / m.). The phonetic string kulīram functions strictly as the accusative singular inflection of this masculine base. The printed form kuliram (with a short 'i' and neuter designation) in the target display is mathematically void of primary canonical validity and represents a lexicographical anomaly.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 08/06/2026 dict=AP, L=12603, hw=kuliṅgaḥ, user=srhodes
+old = matṅgaja
+new = mataṅgaja
+comment = Typo – The 'a' vowel was lost due to a typographical rupture in the lexical digitization.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/06/2026 dict=AP, L=12603, hw=kuliṅgaḥ, user=srhodes
+old = cakataḥ
+new = cakratuḥ
+comment = Typo – The form "cakataḥ" must be structurally realigned to the actively verified, literal lexicographical evidence: "cakratuḥ". This absolute mathematical alignment restores the syntactic validity of the verse, perfectly anchoring the perfect dual verb to its nominative dual subject (kuliṅgaśakunau).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/06/2026 dict=AP, L=12596.02, hw=kulāyanilāyaḥ, user=srhodes
+old = khagakulāya-kulāyanilāyinām
+new = khagakulāya kulāyanilāyinām
+comment = Typo - the typographical hyphen is mathematically unauthorized to connect fully LB inflected, uncompounded Sanskrit words. In the absolute structural reality of LB Pāṇinian grammar, independent words (padas) are governed exclusively by the LB mathematical laws of sandhi (euphonic combination). They are either fused LB continuously through sandhi or separated strictly by a blank space (avasāna). LB Therefore, the hyphenation observed in the Apte lexicon connecting a dative LB singular noun to a subsequent independent word is a structural falsehood and must be replaced with a single blank space.
+status = PENDING
+------------------------------------------------------------------------
+

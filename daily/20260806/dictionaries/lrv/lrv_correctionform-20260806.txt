@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of August 07, 2026
+2 correction records, with 2 PENDING
+
+Case 6: 08/06/2026 dict=LRV, L=9488, hw=kīl, user=srhodes
+old = to pier
+new = to pin
+comment = Typo – suggested Print Change.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 08/06/2026 dict=LRV, L=9478, hw=kīrṇa, user=srhodes
+old = (pp. of kṛ q.v.). 
+new = (pp. of kṝ q.v.). 
+status = PENDING
+------------------------------------------------------------------------
+
