@@ -1,0 +1,24 @@
+Sanskrit Lexicon Correction Form History
+As of August 08, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 08/07/2026 dict=AP, L=12607.028, hw=kuliśaśāsanaḥ, user=srhodes
+old = kuliśaśāsanaḥ
+new = kuliśāsanaḥ
+comment = Typo – Headword Typo!  This compound was simply "imported" and "formatted" incorrectly from the printed page!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/07/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/07/2026 dict=LRV, L=9495, hw=kīlikā, user=srhodes
+old = the The
+new = The
+status = PENDING
+------------------------------------------------------------------------
+
