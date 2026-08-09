@@ -1,6 +1,6 @@
 # batch_pending durability — never leave validated changefiles local-only
 
-_Created: 01-08-2026 · Last updated: 01-08-2026_
+_Created: 01-08-2026 · Last updated: 09-08-2026_
 
 **Why this exists (H2086):** agent-validated `updateByLine` changefiles for the next
 monthly csl-orig batch sit in `batch_pending/`. If they are only on one machine,
@@ -44,8 +44,15 @@ python scripts/check_batch_pending_tracked.py --list
 - Every path under `batch_pending/` (files only) is either the README or a
   changefile/readme under `dictionaries/<dict>/`.
 - No **untracked** or **modified-unstaged** pending files in the working tree.
-- Optional: warns if local `main` is ahead of `origin/main` with pending changes
-  still unpushed (when run on `main`).
+- **Fails (exit 1)** if `HEAD` is ahead of its tracking branch (resolved dynamically
+  via `@{u}`, not hardcoded `origin/main` — a `batch-pending` branch's own upstream is
+  the right comparison) with tracked `batch_pending/` content still unpushed. This was
+  a soft WARN+exit-0 before H2306; a local-only queue is exactly the durability
+  failure this check exists to catch, so it is now a hard failure, not a note.
+- The check runs `git fetch origin` first, so the comparison reflects current remote
+  state, not a stale local view of the tracking branch.
+- `--list` is unconditionally exit 0 (a dry inventory), even with a dirty working
+  tree — dirt is printed as a note on stderr, never turns `--list` into a failure.
 
 Exit **0** = durable enough for this clone. Exit **1** = agent must commit/push
 before ending the session.
