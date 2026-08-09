@@ -1,0 +1,31 @@
+Sanskrit Lexicon Correction Form History for AP
+As of August 09, 2026
+4 correction records, with 4 PENDING
+
+Case 8: 08/08/2026 dict=AP, L=12623, hw=kuvamaḥ, user=srhodes
+old = Mb. 13. 93. 90.
+new = Mb. 13. 93. 29.
+comment = Typo - Active tool verification mathematically confirms that the exact verse uttered by the sage Kaśyapa (kulaṃ kulaṃ ca kuvamaḥ kuvamaḥ kaśyapo dvijaḥ) is structurally locked to Anuśāsana Parva 13.93.29. The archival citation of 13.93.90 found in Apte 1957 (and mirrored in Schmidt's Nachträge) is mathematically proven to be a typographical transposition error within the printed lexicon's transmission.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 08/08/2026 dict=AP, L=12616.004, hw=kulphaḥ, user=srhodes
+old = kulphaḥ, -lpham + .-lphaḥ The ankle; 
+new = kulphaḥ The ankle; 
+comment = Typo - this correction follows the printed text! Also, I am uncertain why this format has been adopted by Cologne for online usage: "+ .-" LB The THREE character in the previous quotation appear to be a string of absolute confusion! Perhaps you would like to Correct this craziness at a Global Level?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 08/08/2026 dict=AP, L=12616.004, hw=kulphaḥ, user=srhodes
+old = dehan
+new = dehat
+comment = Typo - (Corrected from `dehan`): Aorist subjunctive (let/a form functioning as a subjunctive), third-person singular, from the root `dih` (to smear / anoint). Sāyaṇa glosses this as `paridehat = upacitaṃ kuryāt` (let it smear/gather). The subject is the disease mentioned earlier in the verse.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 08/08/2026 dict=AP, L=12616.004, hw=kulphaḥ, user=srhodes
+old = kulkau
+new = kulphau
+status = PENDING
+------------------------------------------------------------------------
+

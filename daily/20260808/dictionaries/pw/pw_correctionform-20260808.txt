@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for PW
+As of August 09, 2026
+1 correction records, with 1 PENDING
+
+Case 10: 08/08/2026 dict=PW, L=29348, hw=kuvama, user=srhodes
+old = Mbh. 13,93,90
+new = Mbh. 13,93,29
+comment = Typo - Active tool verification mathematically confirms that the exact verse uttered by the sage Kaśyapa (kulaṃ kulaṃ ca kuvamaḥ kuvamaḥ kaśyapo dvijaḥ) is structurally locked to Anuśāsana Parva 13.93.29. The archival citation of 13.93.90 is mathematically proven to be a typographical transposition error within the printed lexicon's transmission.
+status = PENDING
+------------------------------------------------------------------------
+
