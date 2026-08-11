@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History
+As of August 11, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 08/10/2026 dict=AP, L=12628, hw=kuvalayita, user=srhodes
+old = Alphabetical Placement Error
+new = The Headword "kuvalayita" should be properly placed just before the word "kuvalayin [ID= 12627]" in the Hierarchical listing of words. This is an actual ERROR in the printed Text, that is not worthy of importation online!
+comment = Alphabetical Placement Error – Confirmed by Andhrabharati here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5242404479.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/10/2026 dict=AP, L=12629, hw=kuvalayinī, user=srhodes
+old = The blue water-lily; plant.
+new = The blue water-lily plant.
+comment = Typo – Suggested "Print Change": The printed semicolon in the 1957 Apte digitization artificially fractures this semantic unit, generating a false dichotomy. By eliminating the typographic rupture, your unified correction ("The blue water-lily plant") flawlessly re-establishes absolute semantic isomorphism with the intended Sanskrit botanical derivative—perfectly distinguishing the complete blooming organism from both the detached flower (the uncompounded base) and the geographic region (definitions 2 and 3).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/10/2026 dict=AP, L=12626.02, hw=kuvalayānanda, user=srhodes
+old = appayyā dīkṣita
+new = appayya dīkṣita
+comment = Typo – The author's name is corrected from the erroneous appayyā dīkṣita to the historically and orthographically verified appayya dīkṣita.
+status = PENDING
+------------------------------------------------------------------------
+
