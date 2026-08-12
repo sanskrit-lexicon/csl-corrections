@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for AP
+As of August 12, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 08/11/2026 dict=AP, L=12638.006, hw=kuśī, user=srhodes
+old = chandogastotragaṇanāśaṅkāsu
+new = chandogastotragaṇanāśaṅkau
+comment = Typo – The printed terminal node śaṅkāsu is mathematically parsed as the locative plural of the feminine substantive śaṅkā (doubt, apprehension). This completely fractures the semantic isomorphism, as an abstract psychological state ("doubts") cannot function as a physical piece of wood for counting. LB The proposed correction śaṅkau is mathematically parsed as the locative singular of the masculine substantive śaṅku (a peg, pin, or stick). This perfectly aligns with the physical reality of a "piece of wood used for counting" (a tally peg). The external lexicographical consensus mathematically corroborates the use of śaṅku in this exact context, confirming the physical object over the abstract state. The 1957 Apte text exhibits an erroneous typographic drift from the physical object śaṅku (peg) to the abstract state śaṅkā (doubt). The structural realignment is explicitly anchored to the verified semantic definition and the broader indigenous lexicographical consensus.
+status = PENDING
+------------------------------------------------------------------------
+
