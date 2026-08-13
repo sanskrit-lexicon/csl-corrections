@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for AP
+As of August 13, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 08/12/2026 dict=AP, L=12638.024, hw=kuśāgrīya, user=srhodes
+old = karu
+new = kuru
+comment = Typo – this is a corrupt reading for the canonical `kuru`. `kuru` is the imperative mood (loṭ), parasmaipada, second-person singular of the verbal root `kṛ` (to do / to make). It operates as the principal verb commanding the action of the clause.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/12/2026 dict=AP, L=12638.022, hw=kuśāgram, user=srhodes
+old = MISSING COMPOUND
+new = Please Add the Compound Indicated Here in the Window Display: "kuśāgrabuddhi a. having a penetrating intellect, sharp, shrewd." This compound Deserves to be a Searchable Headword, located in the Hierarchy List Display.
+comment = MISSING COMPOUND
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/12/2026 dict=AP, L=12638.022, hw=kuśāgram, user=srhodes
+old = kaśalī
+new = kuśalī
+comment = Typo – The Window Display explicitly prints `kaśalī`. The canonical text of *Raghuvaṃśa* 5.4 strictly dictates the word **`kuśalī`** (the nominative singular of the masculine possessive adjective `kuśalin`, meaning healthy, safe, or prosperous). The printed `kaśalī` is a typographical corruption, substituting the foundational vowel *u* with an *a*, thereby destroying the structural and semantic integrity of the word.
+status = PENDING
+------------------------------------------------------------------------
+
