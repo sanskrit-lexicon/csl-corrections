@@ -1,80 +1,76 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+_Created: 06-05-2026 · Last updated: 16-08-2026_
 
-## Project Overview
+`csl-corrections` is the CDSL **correction staging ground and audit trail**:
+validated change-files are parked in dated batch folders here, then shipped
+into [`csl-orig`](https://github.com/sanskrit-lexicon/csl-orig) as **one
+consolidated pull request about once a month**. Change-files are the durable
+record; they are not applied at dictionary-generation time.
 
-**csl-corrections** is a Sanskrit Lexicon **data-store** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
+Org conventions live in [`../CLAUDE.md`](https://github.com/gasyoun/github-spine/blob/main/CLAUDE.md).
+Before encodings or corpus data, read the
+[Sanskrit context primer](https://github.com/gasyoun/github-spine/blob/main/SANSKRIT_CONTEXT_PRIMER.md).
 
-## Correction Workflow (authoritative)
+## How to run
 
-The end-to-end workflow for applying corrections to dictionary text in `csl-orig` lives in **[docs/correction-workflow.md](docs/correction-workflow.md)**. That document is the authoritative reference for:
+Authoritative 8-stage workflow (snapshot → apply → promote → regenerate →
+validate → audit → commit → refresh):
+[`docs/correction-workflow.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+Operator intake / batch-folder / `cfr_ab` registry:
+[`docs/BATCH_RUNBOOK.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/BATCH_RUNBOOK.md).
 
-- Repository topology (which sibling repos must be cloned together and why)
-- The 8-stage workflow (snapshot → apply → promote → regenerate → validate → audit → commit → refresh)
-- The full tooling reference (every script that runs and what it does)
-- Which workflow to use for which correction type (markup, link target, scholarly, etc.)
-- Pitfalls and gotchas (BOM, `<LEND>`, CRLF, line-count mismatches, `xmllint` setup)
+Park locally with
+[`/cologne-correction-queue`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-correction-queue.md);
+ship the monthly PR with
+[`/cologne-batch-pr`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-batch-pr.md).
 
-Read it once end-to-end on first contact; refer back to § 4 (reference) and § 8 (gotchas) thereafter.
+Apply a parked change-file (never edit `csl-orig` in place):
 
-### Critical preflight for old correction issues
+```sh
+python updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
+```
 
-Before applying any old `csl-orig` / dictionary text-correction issue, search the
-`csl-corrections` CFR and batch history for the same dictionary, L number,
-headword, old text, and new text. If the registry records the proposal as
-`No change`, rejected, deferred, or otherwise not to be applied, **stop** unless a
-maintainer explicitly reopens the decision.
+Rebuild the derived census and figures:
 
-Also decide before editing whether an accepted correction should be a plain
-replacement or should preserve the original text with an inline correction layer,
-for example `{{old->new||YYYYMMDD|author|issue|}}`. Document this registry check
-and layer/plain-replacement decision in the batch readme or handoff notes.
+```sh
+python scripts/build_correction_loci.py --selftest
+python scripts/build_correction_viz.py
+```
 
-## Repo Category
+[`data/derived/correction_loci.tsv`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/data/derived/correction_loci.tsv)
+is one row per correction record (parsed from every batch folder). Do not
+hand-edit it.
 
-`data-store` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
+CI: `fetch-daily-corrections-from-cologne.yml` (intake cron),
+`changelog-lint.yml`, `dependabot-auto-merge.yml`.
 
-## GitHub Issue Conventions
+## Preflight for old issues
 
-This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
-- **Exactly one type label** (9 options)
-- **Exactly one severity label** (4 levels)
-- **One milestone** (5 options)
+Before applying any old `csl-orig` / dictionary text-correction issue, search
+the CFR and batch history for the same dictionary, L number, headword, old
+text, and new text. If the registry records `No change`, rejected, deferred,
+or otherwise not to be applied, **stop** unless a maintainer reopens it.
 
-### Type Labels
-- `bug` — Code defect (wrong output, broken contract)
-- `feature` — Net-new capability
-- `enhancement` — Improvement to existing capability
-- `performance` — Speed, memory, throughput optimization
-- `tech-debt` — Refactoring, cleanup, dependency updates
-- `security` — CVE, auth issue, credential exposure
-- `documentation` — Prose docs, API docs, comments
-- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
-- `question` — Research, proposals, open discussions
+Decide replacement vs inline layer
+(`{{old->new||YYYYMMDD|author|issue|}}`) *before* editing. Record that
+decision in the batch readme.
 
-### Severity Labels
-- `trivial` — Cosmetic, < 1 hour
-- `minor` — Single function/component
-- `major` — Multiple files, design decision
-- `critical` — Blocks users, data loss/security CVE
+## Do not touch
 
-### Milestones
-- **API Stability** — performance, security, regressions
-- **User Experience** — bugs, features, enhancements
-- **Data Quality** — data-pipeline issues, integrity
-- **Developer Experience** — tech-debt, infrastructure, docs
-- **Community** — questions, proposals, discussions
+- **Never commit or push to `csl-orig`.** Agents prepare + XML-validate
+  locally and park here. Upstream Jim/Dhaval may commit there; we do not.
+- `csl-orig/v02/<dict>/<dict>.txt` itself — this repo only holds change-files.
+- `data/derived/*` — regenerate from scripts.
+- UTF-8 BOM — write `encoding='utf-8'`, never `utf-8-sig`.
 
-## Cross-Repo Coordination
+Issues use the Cologne tooling taxonomy — see
+[`/cologne-issue-runbook`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-issue-runbook.md).
+Do not recopy type/severity/milestone tables into this file.
 
-The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
+Danger facts:
+[Uprava DANGER_FACTS.md](https://github.com/gasyoun/Uprava/blob/main/DANGER_FACTS.md)
+and the generated block of
+[AGENTS.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/AGENTS.md).
 
-## Operational hazard notes
-
-Destructive-risk facts for this repo (do-not-rerun scripts, decoys, traps) are
-registered centrally in an org-private hub
-([Uprava DANGER_FACTS.md](https://github.com/gasyoun/Uprava/blob/main/DANGER_FACTS.md),
-org members only); the public-safe subset is mirrored in the generated block of
-[AGENTS.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/AGENTS.md). Check them
-before running anything that writes.
+_Dr. Mārcis Gasūns_

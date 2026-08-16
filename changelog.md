@@ -8,6 +8,15 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Changed
+
+- **H2820 — CLAUDE.md truth-pass** (Grok 4.6 `grok-4.6`, 16-08-2026). What this
+  repo is (correction staging / audit trail), how to run
+  (`updateByLine.py`, `build_correction_loci.py --selftest`,
+  `/cologne-correction-queue` + `/cologne-batch-pr`), and the
+  never-commit/`csl-orig` fence. Taxonomy tables removed. AGENTS.md twin
+  regenerated.
+
 ### Added
 - **Pipeline audit — csl-orig correction queue (H2022, Fable 5 `claude-fable-5`).**
   [docs/PIPELINE_AUDIT_CSL_ORIG_CORRECTION_QUEUE_06-08-2026.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/PIPELINE_AUDIT_CSL_ORIG_CORRECTION_QUEUE_06-08-2026.md)
