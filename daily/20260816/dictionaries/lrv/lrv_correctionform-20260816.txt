@@ -1,0 +1,16 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of August 17, 2026
+2 correction records, with 2 PENDING
+
+Case 3: 08/16/2026 dict=LRV, L=9617, hw=kuṭīcaka, user=srhodes
+old = b hikṣavaste kuṭīcakabahūdakau . haṃsaḥ paramahaṃśaśca
+new = bhikṣavaste kuṭīcakabahūdakau . haṃsaḥ paramahaṃsaśca
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/16/2026 dict=LRV, L=9611, hw=kuṭila, user=srhodes
+old = 9. insincere
+new = 3. insincere
+status = PENDING
+------------------------------------------------------------------------
+

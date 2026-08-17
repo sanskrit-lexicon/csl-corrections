@@ -1,0 +1,29 @@
+Sanskrit Lexicon Correction Form History
+As of August 17, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 08/16/2026 dict=STC, L=16609   , hw=mahā , user=Caujolle
+old = élément. fondamental (éther, 
+new = élément fondamental (éther, 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 08/16/2026 dict=LRV, L=9617, hw=kuṭīcaka, user=srhodes
+old = b hikṣavaste kuṭīcakabahūdakau . haṃsaḥ paramahaṃśaśca
+new = bhikṣavaste kuṭīcakabahūdakau . haṃsaḥ paramahaṃsaśca
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/16/2026 dict=LRV, L=9611, hw=kuṭila, user=srhodes
+old = 9. insincere
+new = 3. insincere
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/16/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
