@@ -1,0 +1,29 @@
+Sanskrit Lexicon Correction Form History
+As of August 24, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 08/23/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 08/23/2026 dict=MW, L=126702, hw=पुलिन, user=atharvabhave.dharmakosh
+old = (g. अर्दर्चादि)
+new = अर्धर्चादि [ID=16244.3]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/23/2026 dict=MW, L=216839 , hw=शिङ्घाणिका , user=atharvabhave.dharmakosh
+old = (cf. शृङ्खणिका)
+new = शृङ्खाणिका [ID=220522]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/23/2026 dict=FRI, L=4090  , hw=pitta, user=
+old = Žluě
+new = Žluč
+status = PENDING
+------------------------------------------------------------------------
+

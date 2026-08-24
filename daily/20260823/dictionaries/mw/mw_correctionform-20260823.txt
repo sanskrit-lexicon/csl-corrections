@@ -1,0 +1,16 @@
+Sanskrit Lexicon Correction Form History for MW
+As of August 24, 2026
+2 correction records, with 2 PENDING
+
+Case 3: 08/23/2026 dict=MW, L=126702, hw=पुलिन, user=atharvabhave.dharmakosh
+old = (g. अर्दर्चादि)
+new = अर्धर्चादि [ID=16244.3]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 08/23/2026 dict=MW, L=216839 , hw=शिङ्घाणिका , user=atharvabhave.dharmakosh
+old = (cf. शृङ्खणिका)
+new = शृङ्खाणिका [ID=220522]
+status = PENDING
+------------------------------------------------------------------------
+
