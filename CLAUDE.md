@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 16-08-2026_
+_Created: 06-05-2026 · Last updated: 27-08-2026_
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
@@ -11,6 +11,13 @@ record; they are not applied at dictionary-generation time.
 Org conventions live in [`../CLAUDE.md`](https://github.com/gasyoun/github-spine/blob/main/CLAUDE.md).
 Before encodings or corpus data, read the
 [Sanskrit context primer](https://github.com/gasyoun/github-spine/blob/main/SANSKRIT_CONTEXT_PRIMER.md).
+Gotchas from this repo: infra and process →
+[Uprava/FINDINGS.md](https://github.com/gasyoun/Uprava/blob/main/FINDINGS.md);
+Sanskrit data →
+[SanskritLexicography/FINDINGS.md](https://github.com/gasyoun/SanskritLexicography/blob/master/FINDINGS.md).
+This repo keeps no registries of its own (ruling F1). The queue-to-batch-PR
+bridge it owns is registered as SHARED_CODE family row 27
+([SHARED_CODE.md](https://github.com/gasyoun/github-spine/blob/main/SHARED_CODE.md), ruling F8).
 
 ## How to run
 

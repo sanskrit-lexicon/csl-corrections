@@ -10,6 +10,15 @@ ready for a dated entry.
 
 ### Changed
 
+- **H3571 — ruling-F1 hub-FINDINGS pointer line** (Opus 5 `claude-opus-5`, 27-08-2026).
+  [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/CLAUDE.md) now names
+  where this repo's gotchas go — infra/process to
+  [Uprava/FINDINGS.md](https://github.com/gasyoun/Uprava/blob/main/FINDINGS.md), Sanskrit data to
+  [SanskritLexicography/FINDINGS.md](https://github.com/gasyoun/SanskritLexicography/blob/master/FINDINGS.md)
+  — states that this repo keeps no registries of its own, and points at the queue-to-batch-PR
+  bridge's SHARED_CODE family row 27 (ruling F8), which was verified standing and deliberately not
+  re-added. Roadmap Wave 1 ticked. `csl-orig` untouched.
+
 - **H2820 — CLAUDE.md truth-pass** (Grok 4.6 `grok-4.6`, 16-08-2026). What this
   repo is (correction staging / audit trail), how to run
   (`updateByLine.py`, `build_correction_loci.py --selftest`,
