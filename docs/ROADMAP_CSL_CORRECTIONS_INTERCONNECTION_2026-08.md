@@ -10,7 +10,7 @@ handoff and its PR has merged — a tick ahead of that is a defect.
 
 ## Wave 1 — csl-corrections's wiring change
 
-- [x] [H3571 (Opus 5)](https://github.com/gasyoun/Uprava/blob/main/handoffs/H3571-Opus_csl-corrections_interconnect-cslcorrections-batchpr-bridge-family_26.08.26.md) · medium — shipped 27-08-2026, PR_PLACEHOLDER
+- [x] [H3571 (Opus 5)](https://github.com/gasyoun/Uprava/blob/main/handoffs/H3571-Opus_csl-corrections_interconnect-cslcorrections-batchpr-bridge-family_26.08.26.md) · medium — shipped 27-08-2026, [PR #376](https://github.com/sanskrit-lexicon/csl-corrections/pull/376)
 
 ## Order and prerequisites
 
@@ -18,7 +18,7 @@ Independent of the other thirteen repos — a failure here blocks nothing else. 
 
 ## Done
 
-- **27-08-2026 — Wave 1 (PR_PLACEHOLDER, Opus 5 `claude-opus-5`).** The ruling-F1 pointer line
+- **27-08-2026 — Wave 1 ([PR #376](https://github.com/sanskrit-lexicon/csl-corrections/pull/376), Opus 5 `claude-opus-5`).** The ruling-F1 pointer line
   now stands in [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/CLAUDE.md):
   infra gotchas go to [Uprava/FINDINGS.md](https://github.com/gasyoun/Uprava/blob/main/FINDINGS.md),
   Sanskrit-data gotchas to [SanskritLexicography/FINDINGS.md](https://github.com/gasyoun/SanskritLexicography/blob/master/FINDINGS.md),
