@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for STC
+As of August 27, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 08/26/2026 dict=STC, L=2, hw=a, user=Caujolle
+old = 2 a (dev. cons.) an (dev. voy.) préf. négatif (privatif, antinomique) ; 
+new = here "dev." is not referenced, it stands for "devant"
+comment = reference lacking (2 occurences); it is also lacking word "bhos", id 16348 
+status = PENDING
+------------------------------------------------------------------------
+
