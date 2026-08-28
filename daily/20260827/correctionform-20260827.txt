@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History
+As of August 28, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 08/27/2026 dict=MW, L=101480, hw=धुस्तुर, user=czhao
+old = The entry mentions dhustūra and dhustūraka, but those words cannot be found through search
+new = create headword for dhustūra and dhustūraka
+comment = headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 08/27/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
