@@ -186,16 +186,16 @@ def parse_file(path):
     return rows, headers_seen, headers_with_pc
 
 
-EXPECTED = {  # census snapshot 2026-08-03 (G14 bump, H2035) — update when new batches land
-    'files': 45,
-    'rows': 61430,
+EXPECTED = {  # census snapshot 2026-08-28 (G14 bump) — update when new batches land
+    'files': 46,
+    'rows': 61571,
     'headers': 39606,
-    'new': 61372,
+    'new': 61513,
     'del': 4,
     'ins': 54,
     'bor_bulk': 21990,
     'lrv_markhom_bulk': 8063,
-    'rows_without_pc': 21899,  # 1 ap + 18 ap90 + 21817 mw (batch_pending bulk) + 54 mw72 + 1 pwg + 8 stc
+    'rows_without_pc': 22040,  # 1 ap + 18 ap90 + 21817 mw (batch_pending bulk) + 54 mw72 + 1 pwg + 8 stc
 }
 
 
