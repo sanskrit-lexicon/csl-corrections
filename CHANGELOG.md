@@ -8,6 +8,7 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-08-30
 ### Changed
 
 - **H3571 — ruling-F1 hub-FINDINGS pointer line** (Opus 5 `claude-opus-5`, 27-08-2026).
