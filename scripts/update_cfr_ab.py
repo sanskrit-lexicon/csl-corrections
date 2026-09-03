@@ -1,5 +1,9 @@
 import os
+import sys
 from datetime import datetime
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from cfr_email_mask import mask_tsv_line  # noqa: E402
 
 def update_cfr_ab():
     cfr_ab_path = 'cfr_ab/cfr_ab.tsv'
@@ -107,6 +111,14 @@ def update_cfr_ab():
     data_lines = deduped_lines[1:]
     data_lines.sort(key=get_sort_key)
     final_lines = [header] + data_lines
+
+    # 4b. Pseudonymise the e-mail column (H3885). cfr_ab.tsv is committed to a
+    # public repo every night; this covers both the lines just read from daily/
+    # and the pre-20260404 block carried over from the previous cfr_ab.tsv.
+    masked = [mask_tsv_line(line) for line in final_lines]
+    n_masked = sum(1 for a, b in zip(final_lines, masked) if a != b)
+    print(f"Pseudonymised the e-mail column in {n_masked} line(s).")
+    final_lines = masked
 
     print(f"Final line count after deduplication and sorting: {len(final_lines)}")
 
