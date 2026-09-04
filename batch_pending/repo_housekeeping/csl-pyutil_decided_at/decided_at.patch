@@ -1,0 +1,10 @@
+--- /Users/mac/Documents/GitHub/csl-pyutil/csl_pyutil/review_sheet.py	2026-09-03 21:53:57
++++ review_sheet_patched.py	2026-09-04 20:07:25
+@@ -197,6 +197,7 @@
+     ids.forEach(function (id) { syncNoteFromDom(id); });
+     var decided = ids.filter(function (id) { return state[id] && state[id].decision; }).length;
+     var payload = { sheet_id: SHEET_ID, generated: %(generated_json)s, decided: decided,
++      decided_at: new Date().toISOString(),
+       items: ids.map(function (id) { var rec = state[id] || {}; return { id: id, decision: rec.decision || null, note: rec.note || '' }; }) };
+     var blob = new Blob([JSON.stringify(payload, null, 2)], { type:'application/json' });
+     var url = URL.createObjectURL(blob); var a = document.createElement('a');
