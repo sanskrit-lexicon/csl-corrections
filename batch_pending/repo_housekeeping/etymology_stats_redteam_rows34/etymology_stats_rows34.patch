@@ -1,0 +1,162 @@
+diff --git a/v02/etymology_stats/DATASHEET.md b/v02/etymology_stats/DATASHEET.md
+index 2a1f0b3..74ee8f0 100644
+--- a/v02/etymology_stats/DATASHEET.md
++++ b/v02/etymology_stats/DATASHEET.md
+@@ -62,8 +62,11 @@ plus the per-dict `analyze_*` extractors).
+ - **Quality / precision.** DeepSeek-judged, form-tolerant audit of the inferred
+   tiers: `oracle-join` ≈ 83 %, `nearest-root` ≈ 66–75 % root precision; `local`,
+   `headword-root`, `llm-pass` ≈ 100 %. MW roots are 99 % canonical vs `mw_roots.tsv`.
+-  A **strict** subset (drop `nearest-root`) is ≈ 100 % precise; the headline
+-  cross-dict findings are identical strict vs inclusive (see paper).
++  A **strict** subset drops the two inferred tiers (`nearest-root`, audited
++  ≈ 66–75 % precise, and `oracle-join`, audited ≈ 82.9 % precise); coverage under
++  that redefined strict filter is KRM 100 %, SKD 89.7 %, AP 85.5 %, AP90 83.7 %,
++  VCP 63.6 %, SHS 41.5 %; the headline cross-dict findings are identical strict
++  vs inclusive (see paper).
+ 
+ ## Recommended uses
+ 
+diff --git a/v02/etymology_stats/PAPER_DRAFT.md b/v02/etymology_stats/PAPER_DRAFT.md
+index 03881cb..db72fe3 100644
+--- a/v02/etymology_stats/PAPER_DRAFT.md
++++ b/v02/etymology_stats/PAPER_DRAFT.md
+@@ -224,8 +224,15 @@ this statistic are stated up front. (a) It is **conditional on double coverage**
+ a word only one dictionary analyses never enters the comparison, so it measures
+ consistency, not coverage. (b) Set intersection is mildly **inflationary** where a
+ dictionary lists alternative derivations (any overlap counts); the multi-affix
+-share is small (VCP 6.6 % of head-words, all others less), and an exact-match
+-variant moves no headline figure. (c) It compares affix **names**, which is
++share is small for most of the pool (VCP 6.6 % of head-words) but not uniform —
++KRM, a root dictionary, shows 19.5 % — and under the stricter **set-equality**
++reading (both dictionaries positing exactly the same affix set) **six of Table 1's
++nine pairs fall below 90 %** (per-pair any-overlap → set-equality: VCP↔SHS
++98.5 → 86.9, AP90↔AP 100.0 → 97.2, VCP↔AP 96.9 → 79.4, VCP↔AP90 96.8 → 76.3,
++SKD↔AP90 91.7 → 86.9, SKD↔VCP 93.8 → 89.2, SKD↔AP 91.8 → 85.2, AP↔SHS
++100.0 → 93.5, AP90↔SHS 96.3 → 92.6; computed by the committed pipeline's own
++pairing rule — affix-set equality over shared `headword_slp1`). The headline
++figure remains the any-overlap agreement. (c) It compares affix **names**, which is
+ stricter than comparing derivational *outcomes* — two dictionaries that posit
+ *ac* and *ghañ* both derive surface *-a* but count here as disagreeing. §F2b
+ measures how much of observed disagreement is exactly that.
+@@ -272,15 +279,18 @@ A caveat we state plainly: the tier-precision judge is the same model family as
+ the llm-pass resolver; a **human second-annotator audit** of a 50-row sample per
+ inferred tier is the remaining validation step before submission.
+ 
+-**A strict, near-100%-precision subset for headline tables.** Dropping the single
+-sub-~100% tier (*nearest-root*) yields a high-precision dataset: per-dictionary
+-strict coverage is KRM 100 %, SKD 93.0 %, SHS 92.2 %, AP 90.3 %, AP90 86.7 %,
+-VCP 82.9 % (VCP loses the most because *nearest-root* was its largest inferred
+-tier). Reproduce it by filtering `root_source != nearest-root` (`pct_strict`
+-column / `cross_dict_root_agreement_strict.csv`). Critically, the **headline
+-root-agreement is robust to this filter** — MW↔PWG 64.2 % and PWG↔PW 93.9 % are
+-*identical* with and without the nearest-root tier — so the cross-dictionary
+-findings are not an artefact of the lower-precision rows. MW roots are
++**A strict, higher-precision subset for headline tables — redefined.** The strict
++tier drops **both inferred tiers**: *nearest-root* (audited ≈ 66–75 % precision)
++*and* *oracle-join* (audited ≈ 82.9 % precision on the repo's own 50-row samples) —
++the earlier print, which dropped only *nearest-root* and called the result
++"near-100 %", left the sub-~100 % oracle-join tier inside the strict set (23.3 %
++of VCP's strict rows). Strict coverage under the redefined filter is KRM 100 %,
++SKD 89.7 %, AP 85.5 %, AP90 83.7 %, VCP 63.6 %, SHS 41.5 %. Reproduce it by
++filtering `root_source != nearest-root and root_source != oracle-join`
++(`pct_strict` column / `cross_dict_root_agreement_strict.csv`, regenerated under
++the same definition). The **German-pair headline root-agreement is unaffected**
++(MW↔PWG 64.2 % and PWG↔PW 93.9 % — those dictionaries carry no inferred tiers at
++all); sanskrit-side strict agreements are recomputed in the regenerated CSVs. MW roots are
+ independently cross-validated against the canonical `mw_roots.tsv` register:
+ **99 %** of MW's rooted derivations carry a genuine MW root (the 1 % rest are
+ flagged variants).
+@@ -330,17 +340,17 @@ both dicts analyse with an affix; proportion with 95 % Wilson interval; rows wit
+ n ≥ 25, sorted by shared count; the full matrix incl. sub-threshold pairs is in
+ `cross_dict_agreement.csv`).
+ 
+-| pair | shared HW | agree (95 % CI) |
+-|---|--:|---|
+-| VCP ↔ SHS | 206 | 98.5 % [95.8–99.5] |
+-| AP90 ↔ AP | 178 | 100.0 % [97.9–100] |
+-| VCP ↔ AP | 97 | 96.9 % [91.3–98.9] |
+-| VCP ↔ AP90 | 93 | 96.8 % [90.9–98.9] |
+-| SKD ↔ AP90 | 84 | 91.7 % [83.8–95.9] |
+-| SKD ↔ VCP | 65 | 93.8 % [85.2–97.6] |
+-| SKD ↔ AP | 61 | 91.8 % [82.2–96.4] |
+-| AP ↔ SHS | 31 | 100.0 % [89.0–100] |
+-| AP90 ↔ SHS | 27 | 96.3 % [81.7–99.3] |
++| pair | shared HW | agree, any-overlap (95 % CI) | agree, set-equality |
++|---|--:|---|--:|
++| VCP ↔ SHS | 206 | 98.5 % [95.8–99.5] | 86.9 % |
++| AP90 ↔ AP | 178 | 100.0 % [97.9–100] | 97.2 % |
++| VCP ↔ AP | 97 | 96.9 % [91.3–98.9] | 79.4 % |
++| VCP ↔ AP90 | 93 | 96.8 % [90.9–98.9] | 76.3 % |
++| SKD ↔ AP90 | 84 | 91.7 % [83.8–95.9] | 86.9 % |
++| SKD ↔ VCP | 65 | 93.8 % [85.2–97.6] | 89.2 % |
++| SKD ↔ AP | 61 | 91.8 % [82.2–96.4] | 85.2 % |
++| AP ↔ SHS | 31 | 100.0 % [89.0–100] | 93.5 % |
++| AP90 ↔ SHS | 27 | 96.3 % [81.7–99.3] | 92.6 % |
+ 
+ **F2 — Wilson 1832 diverges; half of that divergence is our extractor, and the
+ paper says which half.** Raw agreement with the kośas runs 22.9–61.2 %. But
+@@ -414,19 +424,20 @@ bhāve/karmaṇi/kartari (its three participial readings), `lyu` is monosemous
+ (entropy ~2 bits). bhāve dominates the kāraka distribution (51%).
+ 
+ **Table 2 — Root coverage, two tiers.** The *inclusive* tier uses all six recovery
+-tiers (≈ 92 % precision); the *strict* tier drops the one sub-100 % tier
+-(`nearest-root`) for ≈ 100 % precision. The headline agreement results above are
+-*identical* in both tiers (MW↔PWG 64.2 %, PWG↔PW 93.9 % either way), so the choice
+-of tier never changes a conclusion — only the coverage figure.
++tiers (≈ 92 % precision); the *strict* tier drops **both inferred tiers**
++(`nearest-root`, audited ≈ 66–75 % precision, and `oracle-join`, audited ≈ 82.9 %
++precision). The headline German-pair agreement results above are *identical* in
++both tiers (MW↔PWG 64.2 %, PWG↔PW 93.9 % either way), so the choice of tier never
++changes a conclusion there — only the coverage figure.
+ 
+-| dict | derivations | inclusive | strict (≈100 % prec.) |
++| dict | derivations | inclusive | strict (both inferred tiers dropped) |
+ |---|--:|--:|--:|
+ | KRM | 305 | 100.0 % | 100.0 % |
+-| SKD | 2,213 | 93.3 % | 93.0 % |
+-| SHS | 258 | 96.1 % | 92.2 % |
+-| AP | 339 | 95.9 % | 90.3 % |
+-| AP90 | 332 | 91.6 % | 86.7 % |
+-| VCP | 3,664 | 97.4 % | 82.9 % |
++| SKD | 2,213 | 93.3 % | 89.7 % |
++| SHS | 258 | 96.1 % | 41.5 % |
++| AP | 339 | 95.9 % | 85.5 % |
++| AP90 | 332 | 91.6 % | 83.7 % |
++| VCP | 3,664 | 97.4 % | 63.6 % |
+ 
+ ## Artefacts
+ 
+diff --git a/v02/etymology_stats/stats_etymology.py b/v02/etymology_stats/stats_etymology.py
+index 6a3a3a8..8f06ac3 100644
+--- a/v02/etymology_stats/stats_etymology.py
++++ b/v02/etymology_stats/stats_etymology.py
+@@ -274,7 +274,7 @@ def main():
+         ix = {c: collections.defaultdict(set) for c in rootcodes}
+         for c in rootcodes:
+             for r in data[c]['rows']:
+-                if r.get('root') and not (strict and r.get('root_source') == 'nearest-root'):
++                if r.get('root') and not (strict and r.get('root_source') in ('nearest-root', 'oracle-join')):
+                     ix[c][r['headword_slp1']].add(r['root'])
+         return ix
+ 
+@@ -311,8 +311,9 @@ def main():
+         rs = collections.Counter(r.get('root_source') or 'empty' for r in data[c]['rows'])
+         n = len(data[c]['rows'])
+         rooted = n - rs.get('empty', 0)
+-        # strict = high-precision subset: drop the ~66-75% nearest-root tier
+-        strict = rooted - rs.get('nearest-root', 0)
++        # strict = high-precision subset: drop both inferred tiers
++        # (nearest-root ~66-75% precise; oracle-join ~82.9% precise per audit)
++        strict = rooted - rs.get('nearest-root', 0) - rs.get('oracle-join', 0)
+         cap_rows.append([c, n, rs.get('local', 0), rs.get('headword-root', 0),
+                          rs.get('nearest-root', 0), rs.get('dhatupatha-join', 0),
+                          rs.get('oracle-join', 0), rs.get('llm-pass', 0),
+@@ -522,7 +523,7 @@ The final column is the share of derivations that ended up with <i>a</i> root.</
+ <span class="ex">② <i>VCP</i> reaches 97% as a stack: 2263 local + 532 nearest-root + 363 oracle-join + 361 DeepSeek llm-pass, leaving only 117 empty — read the row left-to-right to see each tier's contribution.</span></div>
+ <div class="cant"><b>Can't tell you:</b> the percentage is "has <i>a</i> root", not "has the <i>correct</i> root" — the nearest-root and oracle tiers are dhātu-list-validated but not hand-checked. Sample them with <code>sample_nearest_root_audit.py</code> before trusting a single fill.</div>
+ <table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>llm-pass</th><th>empty</th><th>% rooted</th><th>% strict</th></tr></thead><tbody></tbody></table>
+-<p style="font-size:13px;color:#888"><b>% strict</b> drops the <i>nearest-root</i> tier (the one sub-~100% tier, ~66–75% precise) to leave a near-100%-precision subset — the column to cite for headline tables. Filter the TSVs by <code>root_source != nearest-root</code> to reproduce it.</p>
++<p style="font-size:13px;color:#888"><b>% strict</b> drops the two inferred tiers (<i>nearest-root</i>, ~66–75% precise, and <i>oracle-join</i>, ~82.9% precise per the 50-row audits) to leave a higher-precision subset — the column to cite for headline tables. Filter the TSVs by <code>root_source != nearest-root and root_source != oracle-join</code> to reproduce it.</p>
+ <p class="src">DSG definitions © K. V. Abhyankar, <i>A Dictionary of Sanskrit Grammar</i>, via
+ <a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">samskrtam.ru</a>. Data + code:
+ <a href="https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/etymology_stats">csl-orig/v02/etymology_stats</a>.</p>

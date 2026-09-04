@@ -22,7 +22,12 @@ Full recipe: [docs/BATCH_PENDING_DURABILITY.md](https://github.com/sanskrit-lexi
 
 ## Current queue (dict codes with change files)
 
-**Empty — queue clear as of 04-08-2026.** Everything queued shipped that day:
+**One repo_housekeeping item queued 04-09-2026** —
+[`repo_housekeeping/etymology_stats_redteam_rows34/`](repo_housekeeping/etymology_stats_redteam_rows34/readme.txt)
+(patch for csl-orig `v02/etymology_stats/` — PAPER_DRAFT set-equality column + strict
+redefinition, rows R3–R4 of review sheet `h3537-delta-redteam_26-08-26`, prepared by
+Uprava H4073 / OxAlpha; base `30b2ae7`; re-verify against the delivery base at drain
+time). Dictionary change files: none — queue clear otherwise as of 04-08-2026:
 
 | PR | contents |
 |---|---|
