@@ -17,11 +17,11 @@ _Created: 29-05-2026 · Last updated: 05-09-2026_
 
 1. [Why this document exists](#1-why-this-document-exists)
 2. [The pipeline at a glance](#2-the-pipeline-at-a-glance)
-3. [Tutorial — one correction, end-to-end](#3-tutorial--one-correction-end-to-end)
-4. [Reference — the eight stages](#4-reference--the-eight-stages)
+3. [Tutorial — one correction, end-to-end](#3-tutorial-one-correction-end-to-end)
+4. [Reference — the eight stages](#4-reference-the-eight-stages)
 5. [Tooling reference](#5-tooling-reference)
 6. [Repository topology](#6-repository-topology)
-7. [Correction types — which workflow when](#7-correction-types--which-workflow-when)
+7. [Correction types — which workflow when](#7-correction-types-which-workflow-when)
 8. [Pitfalls and gotchas](#8-pitfalls-and-gotchas)
 9. [Where this document is linked from](#9-where-this-document-is-linked-from)
 
@@ -265,7 +265,7 @@ cd $BASE/cologne/csl-corrections/batch_YYYYMMDD/dictionaries/<dict>
 python diff_to_changes_dict.py temp_<dict>_0.txt temp_<dict>_1.txt change_<dict>_N.txt
 ```
 
-Equal line counts required. Use [`diff_to_changes.py`](https://github.com/sanskrit-lexicon/csl-corrections/blob/master/batch_20250418/diff_to_changes_dict.py) (without `_dict`) when lines are added or removed.
+Equal line counts required. Use `diff_to_changes.py` (without `_dict`) when lines are added or removed.
 
 ### 4.7 Commit + push, two repos
 

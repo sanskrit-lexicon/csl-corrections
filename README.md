@@ -9,7 +9,7 @@ CDSL **data-store** repository in the [Sanskrit Lexicon](https://github.com/sans
 - **Intake** — corrections arrive from the correction form, a daily cron fetch, and issue triage, and are logged in the `cfr_ab` registry (see the batch runbook below).
 - **Staging** — each validated correction is filed into a dated batch folder under [`batches/`](https://github.com/sanskrit-lexicon/csl-corrections/tree/main/batches) (e.g. [`batches/20251126/`](https://github.com/sanskrit-lexicon/csl-corrections/tree/main/batches/20251126)), as a paired `old`/`new` change-file per dictionary. `csl-orig` itself is never touched here.
 - **Delivery** — accumulated batches are re-validated against current upstream and merged into `csl-orig` as a single monthly consolidated PR.
-- **Derived data** — every parked change-file is also parsed into a machine-readable correction census for analysis (see [Derived data](#derived-data--correction-loci)).
+- **Derived data** — every parked change-file is also parsed into a machine-readable correction census for analysis (see [Derived data](#derived-data-correction-loci)).
 
 ## Documentation
 
