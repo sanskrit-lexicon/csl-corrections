@@ -1,0 +1,7 @@
+; H3486 correction-queue pass over AllvsPWG 99-item pool — pool line 56: sAMmeGya:VCCV=eGya:CAE,CCS,PW
+; PWG headword sAMmeDya -> sAMmeGya: entry's own body equates it to saMmeGa ('die wolkige Jahreszeit', TS. 7,4,8,2) and PWG's saMmeGa entry (L108221/<L>106345, line 516403) cross-references 'Vgl. sAMmeGya' with G.
+; Cross-checked: CAE/CCS/PW all print sA/MmeGya with the same cloudy-season gloss. gh/dh near-glyph transcription error.
+527270 old <L>108576<pc>7-0941<k1>sAMmeDya<k2>sA/MmeDya
+527270 new <L>108576<pc>7-0941<k1>sAMmeGya<k2>sA/MmeGya
+527271 old {#sA/MmeDya#}¦ <lex>n.</lex> = {#saMmeGa#} {%die wolkige Jahreszeit%} <ls>TS. 7,4,8,2</ls>.
+527271 new {#sA/MmeGya#}¦ <lex>n.</lex> = {#saMmeGa#} {%die wolkige Jahreszeit%} <ls>TS. 7,4,8,2</ls>.
