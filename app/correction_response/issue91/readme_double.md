@@ -1,3 +1,5 @@
+_Created: 19-10-2024 · Last updated: 05-09-2026_
+
 ## Indentation in list display.
 [corrections_scott_double.txt](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/app/correction_response/issue91/corrections_scott_double.txt) collects 580 cases where Scott suggests using a Single indentation in the list display left pane instead of a double indentation.
 
@@ -26,3 +28,5 @@ And these 4 are marked by cdsl as 'H3'.
 
 *This markup seems consistent with MW*.
 I propose that none of the 580 correction suggestions should be made.
+
+_Dr. Mārcis Gasūns_

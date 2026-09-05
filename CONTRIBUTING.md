@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # Contributing to csl-corrections
 
 csl-corrections is a meta / cross-cutting repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project.
@@ -14,3 +16,5 @@ See the org-wide standard. PR checklist:
 - [ ] Affected dictionaries listed in the PR description
 - [ ] Cross-references to per-dictionary issues, if any
 - [ ] No unrelated changes
+
+_Dr. Mārcis Gasūns_

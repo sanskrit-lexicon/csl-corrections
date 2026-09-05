@@ -1,3 +1,5 @@
+_Created: 29-05-2026 · Last updated: 05-09-2026_
+
 # CDSL Correction Workflow — End-to-End
 
 **Audience:** Maintainers and contributors who apply, validate, and record corrections to dictionaries in the Cologne Digital Sanskrit Lexicon (CDSL).
@@ -380,8 +382,8 @@ Brief catalogue of failure modes. Each one is a thing that has bitten someone �
 
 ## 9. Where this document is linked from
 
-- [`csl-corrections/CLAUDE.md`](../CLAUDE.md) — primary index entry.
-- [`csl-corrections/README.md`](../README.md) — overview link.
+- [`csl-corrections/CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/CLAUDE.md) — primary index entry.
+- [`csl-corrections/README.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/README.md) — overview link.
 - [`csl-pywork/v02/readme.md`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/readme.md) — referenced from the "What `generate_dict.sh` does" section.
 - [`csl-pywork/CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/CLAUDE.md) — referenced as the cross-repo correction workflow.
 - [`csl-observatory/runbook/cologne-tooling-runbook.md`](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) — referenced as the correction-workflow authority.
@@ -396,3 +398,5 @@ If you move this file, update all the back-references.
 | Date | Change | Author |
 |---|---|---|
 | 2026-05-29 | Initial version. Documents the workflow as practised by Jim Funderburk (`batch_20250114/`, `batch_20250418/`) and Dhaval Patel (recurring `DC NN <month>` commits + `batches/20251126/`). Synthesises lessons from the 2026-05 markup-fix sweep (BOR, AP90, GRA, MW, AP, BUR, INM, KRM, BOP, MW72) including the BOM-encoding postmortem. | — |
+
+_Dr. Mārcis Gasūns_

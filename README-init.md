@@ -1,3 +1,5 @@
+_Created: 16-12-2019 · Last updated: 05-09-2026_
+
 ## Initialization of csl-corrections repository
 
 In broad terms, this repository combines 
@@ -72,3 +74,5 @@ These are copied into a new 'app' directory of csl-corrections
   * Three .zip files, containing snap-shots of cfr.tsv made in 2015, 2016, 2018.
     Since git is now tracking everything, .gitignore has been modified
     to ignore these.
+
+_Dr. Mārcis Gasūns_

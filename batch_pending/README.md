@@ -1,6 +1,6 @@
 # batch_pending — Cologne correction queue
 
-_Created: 12-07-2026 · Last updated: 04-08-2026_
+_Created: 12-07-2026 · Last updated: 05-09-2026_
 
 Staging area for validated csl-orig corrections awaiting the next monthly
 `/cologne-batch-pr`. Drained into `batch_YYYYMMDD/` when shipped. Empty = queue clear.
@@ -23,7 +23,7 @@ Full recipe: [docs/BATCH_PENDING_DURABILITY.md](https://github.com/sanskrit-lexi
 ## Current queue (dict codes with change files)
 
 **One repo_housekeeping item queued 04-09-2026** —
-[`repo_housekeeping/etymology_stats_redteam_rows34/`](repo_housekeeping/etymology_stats_redteam_rows34/readme.txt)
+[`repo_housekeeping/etymology_stats_redteam_rows34/`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_pending/repo_housekeeping/etymology_stats_redteam_rows34/readme.txt)
 (patch for csl-orig `v02/etymology_stats/` — PAPER_DRAFT set-equality column + strict
 redefinition, rows R3–R4 of review sheet `h3537-delta-redteam_26-08-26`, prepared by
 Uprava H4073 / OxAlpha; base `30b2ae7`; re-verify against the delivery base at drain
@@ -41,3 +41,5 @@ Both are `@WAITING` on a maintainer merge; auto-merge is off by policy.
 1. **Change files are addressed to the base they were built against, and that may not be `origin/main`.** The mw files were prepared on a branch; 20,618 of 21,817 records failed against `main` after five upstream July commits shifted line numbers. Always re-verify every record against the *delivery* base, never the working tree.
 2. **A rule-shaped change should be regenerated, not line-shifted** — and the regenerated rule must first be proven to reproduce the approved change file byte-for-byte on its own base.
 3. **`updateByLine.py` doubles the carriage return on Windows**, rewriting every line in the diff. Read and write with `newline=''`.
+
+_Dr. Mārcis Gasūns_

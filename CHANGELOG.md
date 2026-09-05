@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to csl-corrections are documented here.
@@ -51,3 +53,5 @@ ready for a dated entry.
 - 2026-06-03 ai-wip: journal F4b — CORRECTIONS cloned, headword-error question settled (MW didn't copy errors)
 - 2026-06-03 ai-wip: journal F4a + SKD/VCP citation-tagging correction
 - 2026-06-03 ai-wip: journal L3 forensic suite (F0-F3) — MW copied skeleton, recomposed flesh
+
+_Dr. Mārcis Gasūns_
