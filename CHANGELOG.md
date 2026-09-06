@@ -1,4 +1,4 @@
-_Created: 13-06-2026 · Last updated: 05-09-2026_
+_Created: 13-06-2026 · Last updated: 06-09-2026_
 
 # Changelog
 
@@ -9,6 +9,31 @@ dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
 ## [Unreleased]
+### Changed
+
+- **H3885 — submitter e-mail privacy + fail-loud intake + honest form feedback**
+  (OxAlpha `x-preview-f-free`, executing Opus 5's minted mission, 06-09-2026).
+  Nothing in a nightly commit carries a submitter address any more:
+  `cfr_email_mask.py` pseudonymises the e-mail column (HMAC-SHA256, optional
+  `CFR_EMAIL_SALT` secret, `:<status>` suffix preserved, idempotent) and is
+  applied where the leaks actually were — `cfr_adj.py` masks the raw
+  `daily/<date>/*.tsv` in place before parsing, `scripts/update_cfr_ab.py`
+  masks every `cfr_ab/cfr_ab.tsv` line including the pre-20260404 block, and a
+  new `scripts/check_no_emails.py` gate refuses the nightly commit if any
+  address survived. `fetch_yesterday_cfr.sh` now uses `curl -fsS --retry 3`
+  (a 404 = "no submissions yesterday" = clean exit 0, not a saved error page)
+  under `set -euo pipefail`. `app/correction_form_response.php` checks
+  fopen/flock/fwrite/fflush, answers HTTP 500 with a machine-readable error
+  token on failure, caps fields at 2000 chars, and restricts CORS to
+  `sanskrit-lexicon.uni-koeln.de`; `app/correction_form.php` shows the
+  thank-you page only on a confirmed success (postMessage + same-origin
+  status-token fallback + 15 s timeout) instead of on any iframe load. The
+  nightly issue body drops the `, user=…` fragment. Git history is NOT
+  rewritten — purging the 2,848 address-bearing lines already in `cfr_ab`
+  history remains a separate maintainer decision. Deployment of `app/` to the
+  Cologne server is a maintainer act. Evidence:
+  [CODEBASE_IMPROVEMENT_MAP_2026-09.md](https://github.com/gasyoun/csl-observatory/blob/main/docs/CODEBASE_IMPROVEMENT_MAP_2026-09.md)
+  §6.3 Rank 1 (findings B2/B3/B13/B14).
 
 ## [1.0.1] - 2026-08-30
 ### Changed
