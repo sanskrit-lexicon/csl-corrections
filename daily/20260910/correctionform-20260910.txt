@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History
+As of September 11, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 09/10/2026 dict=AP, L=12696.002, hw=kuhūḥ, user=srhodes
+old = ━Comp.: kuhukaṇṭhaḥ, kuhumukhaḥ, kuhuravaḥ, kuhuśabdaḥ, kuhukālaḥ, kuhupālaḥ, kuhumukhaḥ, kuhumukham
+new = ━Comp.: kuhūkaṇṭhaḥ, kuhūmukhaḥ, kuhūravaḥ, kuhūśabdaḥ, kuhūkālaḥ, kuhūpālaḥ, kuhūmukhaḥ, kuhūmukham
+comment = Typo – Please note that the Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5624178432 LB Attention Dr. Dhaval: Of course EACH of the compounds must be corrected at their respective Headword Level. But that should be easy enough for you to accomplish, without the many tedious individual submissions!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/10/2026 dict=AP, L=12696.002, hw=kuhūḥ, user=srhodes
+old = pikavidhustava hanti samantamastvamapi candravirodhi-kuhūravaḥ Udb.
+new = pika vidhustava hanti samaṃ tamastvamapi candravirodhi-kuhūravaḥ Udb.
+comment = Typo – pikavidhustava is absolutely NOT a compound (samāsa). It is a purely visual artifact of scriptio continua. It mathematically resolves into three discrete, fully inflected syntactic entities: LB pika (m.voc.sg.) -> "O cuckoo!" LB vidhuḥ (m.nom.sg.) -> "the moon" (the sovereign nominative subject). LB tava (pron.gen.sg.) -> "your" (modifying the darkness). LB Furthermore, the digitizer erroneously fused the anusvāra (ṃ) into a dental nasal (n) via an unspaced parasavarṇa sandhi artifact (Pāṇini 8.4.58 anusvārasya yayi parasavarṇaḥ), collapsing samaṃ tamas into samantamas, and subsequently fusing the entire string into the monolithic samantamastvamapi. This OCR/typesetting corruption annihilated the visibility of the accusative object tamaḥ (darkness). 
+status = PENDING
+------------------------------------------------------------------------
+
