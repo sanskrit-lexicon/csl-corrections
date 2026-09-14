@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History
+As of September 14, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 09/13/2026 dict=AP, L=4155.002, hw=amarṣaḥ, user=srhodes
+old = tolerance
+new = intolerance
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5650985867
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 09/13/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 09/13/2026 dict=AP90, L=3781, hw=amarṣa, user=srhodes
+old = tolerance
+new = intolerance
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5650985867
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/13/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
