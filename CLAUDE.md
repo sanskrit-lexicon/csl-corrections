@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 27-08-2026_
+_Created: 06-05-2026 · Last updated: 15-09-2026_
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
@@ -79,5 +79,9 @@ Danger facts:
 [Uprava DANGER_FACTS.md](https://github.com/gasyoun/Uprava/blob/main/DANGER_FACTS.md)
 and the generated block of
 [AGENTS.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/AGENTS.md).
+
+## Memory store
+
+This repo keeps a committed memory store at [`.claude/projects/csl-corrections/memory/`](https://github.com/sanskrit-lexicon/csl-corrections/tree/main/.claude/projects/csl-corrections/memory) per the org Memory-routing rule ([`/danger-memory`](https://github.com/gasyoun/claude-config/blob/main/commands/danger-memory.md)) — write dangerous/durable facts there and index each in its `MEMORY.md` (H4547).
 
 _Dr. Mārcis Gasūns_
