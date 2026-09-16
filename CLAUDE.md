@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 27-08-2026_
+_Created: 06-05-2026 · Last updated: 13-09-2026_
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
@@ -32,10 +32,14 @@ Park locally with
 ship the monthly PR with
 [`/cologne-batch-pr`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-batch-pr.md).
 
-Apply a parked change-file (never edit `csl-orig` in place):
+Apply a parked change-file (never edit `csl-orig` in place) with the
+line-addressed editor
+[`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/updateByLine.py)
+— it lives in `csl-pywork`, not in this repo (only historical batch folders
+vendored a copy):
 
 ```sh
-python updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
+python updateByLine.py temp_<dict>_0.txt change_<dict>_in.txt temp_<dict>_1.txt
 ```
 
 Rebuild the derived census and figures:
