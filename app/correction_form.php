@@ -108,9 +108,73 @@ in a day or two.
 <div class="ss-required-asterisk" style="display:none">* Required</div></div></div>
 
 <div class="ss-form">
-<script type="text/javascript">var submitted=false;</script>
-    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
-onload="if(submitted) {window.location='correction_form_thankyou.php';submitted=false;}">
+<div id="cfr_submit_error"
+ style="display:none;border:2px solid #b00;background:#fee;color:#900;padding:10px;margin:10px 0;"
+ role="alert">
+ <strong>Your correction was not saved.</strong>
+ The server did not confirm the submission. Nothing has been recorded &mdash;
+ please press <em>Submit</em> again, and if it keeps failing write to
+ <a href="https://github.com/sanskrit-lexicon/csl-corrections/issues">the csl-corrections issue tracker</a>.
+</div>
+<script type="text/javascript">
+/* H3885: the thank-you page used to appear on any iframe load, including a
+   500 and an empty write, so a dropped correction looked accepted. Show it
+   only when correction_form_response.php reports success. */
+var submitted = false;
+var cfr_settled = false;
+var cfr_timer = null;
+
+function cfr_show_error() {
+  if (cfr_settled) { return; }
+  cfr_settled = true;
+  if (cfr_timer) { clearTimeout(cfr_timer); cfr_timer = null; }
+  submitted = false;
+  var box = document.getElementById('cfr_submit_error');
+  if (box) { box.style.display = 'block'; box.scrollIntoView(); }
+}
+
+function cfr_show_thankyou() {
+  if (cfr_settled) { return; }
+  cfr_settled = true;
+  if (cfr_timer) { clearTimeout(cfr_timer); cfr_timer = null; }
+  submitted = false;
+  window.location = 'correction_form_thankyou.php';
+}
+
+function cfr_on_submit() {
+  submitted = true;
+  cfr_settled = false;
+  var box = document.getElementById('cfr_submit_error');
+  if (box) { box.style.display = 'none'; }
+  cfr_timer = setTimeout(cfr_show_error, 15000);
+  return true;
+}
+
+/* primary channel: the response page posts {cfr:"ok"} or {cfr:"error"} */
+window.addEventListener('message', function (e) {
+  if (!submitted || !e.data || typeof e.data !== 'object') { return; }
+  if (e.data.cfr === 'ok') { cfr_show_thankyou(); }
+  else if (e.data.cfr === 'error') { cfr_show_error(); }
+}, false);
+
+/* fallback for a browser that blocks the message: read the status token
+   out of the same-origin iframe once it has loaded. */
+function cfr_iframe_loaded(frame) {
+  if (!submitted) { return; }
+  var status = null;
+  try {
+    var doc = frame.contentDocument || frame.contentWindow.document;
+    var el = doc && doc.getElementById('cfr-status');
+    if (el) { status = el.getAttribute('data-cfr-status'); }
+  } catch (err) {
+    return; /* cross-origin; wait for postMessage or the timeout */
+  }
+  if (status === 'ok') { cfr_show_thankyou(); }
+  else { cfr_show_error(); }
+}
+</script>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+onload="cfr_iframe_loaded(this);">
     </iframe>
 <form action="correction_form_response.php"
 <?php
@@ -118,7 +182,7 @@ onload="if(submitted) {window.location='correction_form_thankyou.php';submitted=
  //echo $action;
 ?>
  method="post" target="hidden_iframe" 
-onsubmit="submitted=true;">
+onsubmit="return cfr_on_submit();">
 <div class="ss-form-question errorbox-good">
 <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_dict"><div class="ss-q-title" title="Prefilled. Do not change">Which Dictionary?
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
