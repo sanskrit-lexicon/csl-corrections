@@ -1,0 +1,39 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of September 20, 2026
+5 correction records, with 5 PENDING
+
+Case 7: 09/19/2026 dict=SHS, L=11006, hw=kulmāṣābhimuta, user=srhodes
+old = kulmāṣābhimuta
+new = kulmāṣābhiṣuta
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 09/19/2026 dict=SHS, L=10994, hw=kulakvaguñjā, user=srhodes
+old = kulakvaguñjā
+new = kulukkaguñjā
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 09/19/2026 dict=SHS, L=10994, hw=kulakvaguñjā, user=srhodes
+old = kulakvaguñjā
+new = kulukkaguñjā)
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 09/19/2026 dict=SHS, L=10990, hw=kulīraśṛṅgī, user=srhodes
+old = karkkaṭaśṛṅgī
+new = karkaṭaśṛṅgī
+comment = Typo – The corrected spelling matches VCP, SKD and the official SHS listing of this very reference!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 09/19/2026 dict=SHS, L=10984, hw=kuliśāsana, user=srhodes
+old = Sakya
+new = Śākya
+comment = Typo – Suggested Print Change for correct transliteration! This is very helpful for anyone interested in Sanskrit!
+status = PENDING
+------------------------------------------------------------------------
+
