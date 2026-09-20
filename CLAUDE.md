@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 27-08-2026_
+_Created: 06-05-2026 · Last updated: 20-09-2026 (H5176 SLA review: updateByLine.py path corrected — the script is vendored per batch folder, newest copy `batch_20250114/`)_
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
@@ -32,10 +32,11 @@ Park locally with
 ship the monthly PR with
 [`/cologne-batch-pr`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-batch-pr.md).
 
-Apply a parked change-file (never edit `csl-orig` in place):
+Apply a parked change-file (never edit `csl-orig` in place) — `updateByLine.py`
+is vendored per batch folder, not at the repo root:
 
 ```sh
-python updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
+python batch_20250114/updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
 ```
 
 Rebuild the derived census and figures:
