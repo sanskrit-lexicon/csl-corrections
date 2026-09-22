@@ -1,0 +1,32 @@
+Sanskrit Lexicon Correction Form History
+As of September 22, 2026
+4 correction records, with 4 PENDING
+
+Case 4: 09/21/2026 dict=SHS, L=11045, hw=kuśastava, user=srhodes
+old = kuśastava
+new = kuśastamba
+comment = Typo – This is a Suggested "Print Change". Here is the reasoning: LB An exhaustive diachronic cross-reference mathematically proves that the extracted headword 'kuśastava' is a downstream scribal corruption. The Absolute Sovereign Headword is 'kuśastamba' (कुशस्तम्ब), mathematically authorized by Monier-Williams and Böhtlingk & Roth (PWG), where 'stamba' (स्तम्ब) is the authentic Pāṇinian substantive meaning "a clump, tuft, or cluster". The extracted etymology claiming "stava a cluster" is a philological impossibility; the word 'stava' (स्तव) derives from the verbal root 'stu' (to praise) and exclusively means "praise" or "eulogy". This anomaly is a mathematically proven typographical corruption, likely stemming from the visual or phonetic conflation of the conjunct 'mba' (म्ब) and 'va' (व) in regional manuscripts or early printings (especially in Bengali-influenced typography where 'ba' and 'va' share identical glyphs). The lexicographer erroneously reverse-engineered the definition of 'stava' to justify the corrupted headword.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 09/21/2026 dict=SHS, L=11041, hw=kuśalava, user=srhodes
+old = KUSA
+new = KUŚA
+comment = Typo – Suggested Print Change for correct transliteration! This is very helpful for anyone interested in Sanskrit!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 09/21/2026 dict=AP, L=12708.024, hw=kūṭārthaḥ, user=srhodes
+old = Missing Compound
+new = Please Add the Compound Indicated Here in the Window Display: "kūṭārthabhāṣitā a tale, fiction." This compound Deserves to be a Searchable Headword properly located in the Hierarchy List Display Column.
+comment = Missing Compound
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/21/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
