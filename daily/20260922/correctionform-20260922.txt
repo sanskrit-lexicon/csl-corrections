@@ -1,0 +1,38 @@
+Sanskrit Lexicon Correction Form History
+As of September 23, 2026
+5 correction records, with 5 PENDING
+
+Case 5: 09/22/2026 dict=SHS, L=11056, hw=kuśāsana, user=srhodes
+old = Kusa
+new = Kuśa
+comment = Typo – Suggested Print Change for correct transliteration! This is very helpful for anyone interested in Sanskrit!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 09/22/2026 dict=SHS, L=11051, hw=kuśāgrīya, user=srhodes
+old = Subtile
+new = Subtle
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 09/22/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 09/22/2026 dict=ap, L=, hw=ADA, user=Jim
+old = To apply, propose, fix upon, direct towards; प्रतिपात्रमाधयितां  यत्नः Ś. 1 ; <!!!>मग्येव मन आधत्स्व Bg. 12. 8;<!!!> गमने मतिमाधत्त  Rām.; Ś. 2. 3 ; आधीयतां धैर्ये धर्मे च धीः K. 63  direct;
+new = मग्येव -> मय्येव
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/22/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
