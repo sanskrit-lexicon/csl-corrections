@@ -1,0 +1,23 @@
+Sanskrit Lexicon Correction Form History
+As of September 25, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 09/24/2026 dict=SHS, L=11076, hw=kuṣit, user=srhodes
+old = Execllently
+new = Excellently
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 09/24/2026 dict=SHS, L=11063, hw=kuśīlatā, user=srhodes
+old = illtemper
+new = ill temper
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/24/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
