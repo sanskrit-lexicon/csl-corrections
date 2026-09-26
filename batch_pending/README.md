@@ -41,5 +41,6 @@ Both are `@WAITING` on a maintainer merge; auto-merge is off by policy.
 1. **Change files are addressed to the base they were built against, and that may not be `origin/main`.** The mw files were prepared on a branch; 20,618 of 21,817 records failed against `main` after five upstream July commits shifted line numbers. Always re-verify every record against the *delivery* base, never the working tree.
 2. **A rule-shaped change should be regenerated, not line-shifted** — and the regenerated rule must first be proven to reproduce the approved change file byte-for-byte on its own base.
 3. **`updateByLine.py` doubles the carriage return on Windows**, rewriting every line in the diff. Read and write with `newline=''`.
+4. **Phonetic coincidences inside a batch are usually the birthday paradox, not a defect** (MG ruling 26-09-2026). Before claiming a systematic pattern from shared first/last letters or onsets, run the Herfindahl baseline: `python birthday_collision_baseline.py --mw <csl-orig>/v02/mw/mw.txt --batch <batch_dir>` ([script](https://github.com/gasyoun/SanskritLexicography/blob/master/birthday_collision_baseline.py)) — observed colliding pairs vs expected C(k,2)·H per field, **P < 5% = signal, else noise**. Verified on the 18-case mw72 batch: every field came out noise (p 0.19–0.69).
 
 _Dr. Mārcis Gasūns_
