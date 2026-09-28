@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for LRV
+As of September 28, 2026
+2 correction records, with 2 PENDING
+
+Case 6: 09/27/2026 dict=LRV, L=9956, hw=kuśūla, user=srhodes
+old = cup-board
+new = cupboard
+comment = Typo – Please note that the "Hyphen" is only due to a line break on the printed page!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 09/27/2026 dict=LRV, L=9952, hw=kuśika, user=srhodes
+old = segment
+new = sediment
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+Sanskrit Lexicon Correction Form History
+As of September 28, 2026
+6 correction records, with 6 PENDING
+
+Case 6: 09/27/2026 dict=LRV, L=9956, hw=kuśūla, user=srhodes
+old = cup-board
+new = cupboard
+comment = Typo – Please note that the "Hyphen" is only due to a line break on the printed page!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 09/27/2026 dict=LRV, L=9952, hw=kuśika, user=srhodes
+old = segment
+new = sediment
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 09/27/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 09/27/2026 dict=PWG, L=52395, hw=bādh, user=srhodes
+old = bībhatsata
+new = bībhatsita
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 09/27/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/27/2026 dict=MW, L=145518, hw=bībhatsa, user=srhodes
+old = (fr. Desid. of √bādh)
+new = (fr. Desid. of √badh)
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5853359489
+status = PENDING
+------------------------------------------------------------------------
+
