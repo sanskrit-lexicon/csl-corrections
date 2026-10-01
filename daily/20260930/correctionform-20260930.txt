@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History
+As of October 01, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 09/30/2026 dict=BUR, L= 10950  , hw=pād , user=Caujolle
+old = pādvavika
+new = pādavika
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/30/2026 dict=ae, L=, hw=nest, user=jim
+old = nest  nest  [Printed book page 306]  <!!!>Nest, s. नीडः-डः,<!!!> कुलायः, निलयः, पक्षिस्थानं-गृहं. 2 गृहं, स्थानं, आधारः, आशयः; ‘find a mareʼs
+new = Nest, s. नीडः-डं,
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
