@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History
+As of October 06, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 10/05/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 10/05/2026 dict=LRV, L=9990, hw=kusumastabaka, user=srhodes
+old = rosegay
+new = nosegay
+status = PENDING
+------------------------------------------------------------------------
+
