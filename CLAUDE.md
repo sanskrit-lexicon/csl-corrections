@@ -53,7 +53,7 @@ hand-edit it.
 CI: `fetch-daily-corrections-from-cologne.yml` (intake cron — runs daily;
 last landed batch 2026-10-08), `changelog-lint.yml`,
 `dependabot-auto-merge.yml`. Repo guards: `.githooks/pre-commit` +
-`post-checkout` (shared-tree block; exec-bit fix #415). The root `AGENTS.md`
+`pre-push` (shared-tree block; exec-bit fix #415). The root `AGENTS.md`
 is regenerated weekly from Uprava `context_facts.yaml` (agentsctx twin loop).
 
 ## Preflight for old issues
