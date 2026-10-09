@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 20-09-2026 (H5176 SLA review: updateByLine.py path corrected — the script is vendored per batch folder, newest copy `batch_20250114/`)_
+_Created: 06-05-2026 · Last updated: 09-10-2026 (H5885 truth refresh: `updateByLine.py` is vendored per batch folder, newest `batch_20250114/`)_
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
@@ -50,8 +50,11 @@ python scripts/build_correction_viz.py
 is one row per correction record (parsed from every batch folder). Do not
 hand-edit it.
 
-CI: `fetch-daily-corrections-from-cologne.yml` (intake cron),
-`changelog-lint.yml`, `dependabot-auto-merge.yml`.
+CI: `fetch-daily-corrections-from-cologne.yml` (intake cron — runs daily;
+last landed batch 2026-10-08), `changelog-lint.yml`,
+`dependabot-auto-merge.yml`. Repo guards: `.githooks/pre-commit` +
+`post-checkout` (shared-tree block; exec-bit fix #415). The root `AGENTS.md`
+is regenerated weekly from Uprava `context_facts.yaml` (agentsctx twin loop).
 
 ## Preflight for old issues
 
