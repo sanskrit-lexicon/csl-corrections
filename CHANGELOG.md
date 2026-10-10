@@ -1,4 +1,4 @@
-_Created: 13-06-2026 · Last updated: 05-09-2026_
+_Created: 13-06-2026 · Last updated: 10-10-2026_
 
 # Changelog
 
@@ -9,6 +9,21 @@ dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
 ## [Unreleased]
+### Changed
+
+- **H5885 — CLAUDE.md truth refresh** (09-10-2026, PRs #426/#427): daily-intake cron
+  fact, guard hooks are pre-commit+pre-push (exec-bit fix #415, no post-checkout),
+  weekly agentsctx regen. Previously unlogged here.
+
+- **docs truth-pass 2026-10-10** (GLM 5.3 Flash `glm-5.3-flash`): README.md taxonomy
+  section aligned to the sets [csl-corrections_verify.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/csl-corrections_verify.py)
+  enforces (dictionary-repo type labels, `minor`/`medium`/`hard`, DTB/DQ/SD/ME
+  milestones) and its correction-loci census refreshed (61,430 rows as of 10-10-2026,
+  bulk share 49%); `updateByLine.py` example now uses the vendored `batch_20250114/`
+  copy (no root script). CLAUDE.md daily-intake last-batch date → 2026-10-09.
+  BATCH_RUNBOOK census row count refreshed. batch_pending/README.md current-queue
+  section updated (two repo_housekeeping items + pw h3152 link-splitting change file;
+  pwg/ is the H3486 0-survivor ledger).
 
 ## [1.0.1] - 2026-08-30
 ### Changed
