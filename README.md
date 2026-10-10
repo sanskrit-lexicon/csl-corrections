@@ -1,6 +1,6 @@
 # csl-corrections
 
-_Created: 16-12-2019 · Last updated: 11-07-2026_
+_Created: 16-12-2019 · Last updated: 10-10-2026_
 
 CDSL **data-store** repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project. It is the staging ground and audit trail for text corrections to the Cologne dictionaries: individual change-files are validated locally and **parked in dated batch folders here**, then shipped upstream into [`csl-orig`](https://github.com/sanskrit-lexicon/csl-orig) as **one consolidated pull request roughly monthly** — never as direct pushes or per-issue noise. The change-files are the durable record of what was corrected and why; they survive re-derivation of the dictionaries from `csl-orig`.
 
@@ -35,7 +35,7 @@ A real paired old→new record from
 Applied per the org-wide pattern documented in [`docs/correction-workflow.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md):
 
 ```sh
-python updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
+python batch_20250114/updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
 ```
 
 The `;`-prefixed lines are comments/separators; the `<L>` header line records
@@ -45,12 +45,12 @@ keys) so the change survives re-derivation from `csl-orig`.
 ## Derived data — correction loci
 
 [`data/derived/correction_loci.tsv`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/data/derived/correction_loci.tsv)
-holds **one row per correction record** (39,540 as of 07-07-2026) parsed from every
+holds **one row per correction record** (61,430 as of 10-10-2026) parsed from every
 change file in the batch folders — both dialects (standard paired `old`/`new` records
 and the GRA inline `<chg>` wrapper). Columns: `dict, L, pc_page, pc_col, k1, k2, line,
 batch, batch_date, process, directive, tag_context, old, new`, with
 `process ∈ {bulk, human}` separating the two machine-generated markup batches
-(BOR 21,990 + LRV/markhom 8,063 = 76% of records) from steady human correction.
+(BOR 21,990 + LRV/markhom 8,063 = 49% of records) from steady human correction.
 Corrector identity is deliberately excluded. Spec and hypotheses:
 [`docs/HYPOTHESES_AND_VIZ_MEMO.md`](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/HYPOTHESES_AND_VIZ_MEMO.md) §5.1.
 
@@ -73,14 +73,14 @@ Entry counts for the density chart come from
 
 ## GitHub Issue Conventions
 
-This repository follows the [Cologne tooling-repo taxonomy](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md). Every issue carries exactly one **type** label, one **severity** level, and one **milestone**:
+This repository follows the dictionary-repo taxonomy that [csl-corrections_verify.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/csl-corrections_verify.py) enforces. Every issue carries exactly one **type** label, one **severity** level, and one **milestone**:
 
-- **9 type labels**: `bug`, `feature`, `enhancement`, `performance`, `tech-debt`, `security`, `documentation`, `infrastructure`, `question`
-- **4 severity levels**: `trivial`, `minor`, `major`, `critical`
-- **5 milestones**: API Stability, User Experience, Data Quality, Developer Experience, Community
+- **9 type labels**: `link-target`, `link-splitting`, `markup`, `text-correction`, `content-enhancement`, `encoding`, `scan-quality`, `bug`, `question`
+- **3 severity levels**: `minor`, `medium`, `hard`
+- **4 milestones**: Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
 - **Org Project**: [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9)
 
-Full label/severity/milestone definitions are in [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/CLAUDE.md). For live counts and the current backlog, see the [issue tracker](https://github.com/sanskrit-lexicon/csl-corrections/issues).
+The enforced label/severity/milestone sets are in [csl-corrections_verify.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/csl-corrections_verify.py). For live counts and the current backlog, see the [issue tracker](https://github.com/sanskrit-lexicon/csl-corrections/issues).
 
 ---
 
