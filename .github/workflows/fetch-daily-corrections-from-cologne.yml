@@ -8,6 +8,11 @@ on:
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
+    # Optional: set the CFR_EMAIL_SALT repository secret to make the submitter
+    # pseudonyms unguessable. Without it cfr_email_mask falls back to its
+    # documented default salt and the job still runs.
+    env:
+      CFR_EMAIL_SALT: ${{ secrets.CFR_EMAIL_SALT }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
@@ -25,6 +30,14 @@ jobs:
 
       - name: Update cfr_ab.tsv with daily and corrected data
         run: python scripts/update_cfr_ab.py
+
+      # H3885: nothing reaches a commit in this public repo unless the e-mail
+      # column of every touched TSV is a pseudonym.
+      - name: Verify no e-mail addresses are about to be committed
+        run: |
+          python scripts/check_no_emails.py \
+            'cfr_ab/cfr_ab.tsv' \
+            'daily/${{ steps.date.outputs.date }}/*.tsv'
 
       - name: Commit changes
         run: |
@@ -49,7 +62,12 @@ jobs:
             if [ -n "$EXISTING" ]; then
               echo "Issue with title '$TITLE' already exists (#$EXISTING), skipping..."
             else
-              CONTENT=$(cat "$CORRECTION_FILE" | awk 'BEGIN{b=0} !/^-+$/{if(b){print ""; b=0} print} /^status = /{b=1}' | jq -Rs .)
+              # H3885: drop the trailing ", user=..." from every Case line before
+            # the text becomes a public issue body.
+            CONTENT=$(cat "$CORRECTION_FILE" \
+              | sed -E 's/,[[:space:]]*user=[^,]*$//' \
+              | awk 'BEGIN{b=0} !/^-+$/{if(b){print ""; b=0} print} /^status = /{b=1}' \
+              | jq -Rs .)
               curl -s -X POST https://api.github.com/repos/${{ github.repository }}/issues \
                 -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
                 -H "Content-Type: application/json" \
