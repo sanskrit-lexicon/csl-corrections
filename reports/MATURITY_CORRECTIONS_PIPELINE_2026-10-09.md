@@ -108,6 +108,11 @@ $ curl -sL https://zenodo.org/api/records/23151390
   related: isSupplementTo https://github.com/sanskrit-lexicon/SKD/tree/main
   files: 1 (11,315,836 bytes)
 
+# Re-probe (same day, independent session — acceptance "reproducible by re-run")
+$ DataCite total = 423 (was 422 hours earlier; +1 new mint in between — liveness signal, gate still ≥417 PASS)
+$ issue lane re-run: n=127, P50=6d, P90=75d, max=466d (±1d boundary drift vs first probe)
+$ selftest exit 0 · durability checker exit 0 · csl-org #2879/#2884/#2885 re-confirmed OPEN unmerged
+
 # gh api queue lane (12-10-2026)
 $ gh api repos/sanskrit-lexicon/csl-corrections --jq '{open_issues_count, updated_at}'
 → {"open_issues":68,"updated":"2026-10-12T03:35:24Z"}
