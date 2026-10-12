@@ -30,10 +30,13 @@ The pipeline is the estate's strongest correction contour: enforced intake regis
 
 ### 2.2 Report→verdict, CFR form registry lane (`cfr_ab/cfr_ab.tsv`, 26,942 rows)
 
-- 8,599 rows carry a dated "Corrected <date>" verdict: **P50 = 88 days, P90 = 205 days** — the historical form era (2014–2017: 8,848 of 8,599 verdicts; 2016 alone 7,070).
-- **Finding (weak spot):** verdict-year distribution hits **zero in 2018–2026 except 60 (2019), 23 (2020), 11 (2021), 110 (2022), 2 (2023)**. The modern agent pipeline lands corrections via `batches/` + issues and stopped writing dated verdicts back into the registry. The registry is append-only for arrivals but its closure field is dead — the single best "copy the lesson, not the artifact" item for other contours.
+- **24,410 rows (90.6%)** carry a dated "Corrected M/D/YYYY" verdict in the closure column: form-era latency **P50 = 0 days, P90 = 0 days** (n = 24,370 paired arrival→verdict, max 448) — same-day closure was the norm in the form era.
+- **CORRECTED vs first draft (verifier-flagged):** first-draft figures (8,599 verdicts; P50=88d/P90=205d; 2016=7,070; "8,848 of 8,599") did not reproduce by recount and one was arithmetically impossible. Numbers here are a full re-parse of col0 (arrival) × col7 (verdict).
+- **Finding (weak spot):** verdict years are 95.2% in 2014–2016 (23,199; 2016 alone 11,854), declining to 151 (2022), then **2 (2023), 0 (2024), 0 (2025)** — the closure field goes dark exactly when the modern pipeline lands via `batches/` + issues instead. (18 further 2026-dated verdicts are backdated marks predating row arrival — cron-era residue.) The registry is append-only for arrivals but its closure field is effectively unmaintained — the single best "copy the lesson, not the artifact" item for other contours.
 
-### 2.3 Volume and cadence (`data/derived/correction_loci.tsv`, 61,430 records)
+### 2.3 Volume and cadence (`data/derived/correction_loci.tsv`, 61,430 records at probe snapshot bc2d8b9)
+
+- **Census liveness note (verifier-flagged drift, resolved):** the same-day cron regen added 141 rows — live tree = 61,571 records with the selftest `EXPECTED['rows']` bumped in lockstep. The append-only derived layer is demonstrably alive; figures below are pinned to the snapshot for reproducibility.
 
 - Last-30-days landed volume: **0** (latest batch `batch_20260804`, 21,875 records). Window extended per the handoff fail-rule; explanation below, not a stall: the pipeline parks into `batch_pending` and ships **one consolidated monthly PR** — and the last three monthly PRs are still awaiting upstream merge (§2.4), so nothing new has been promoted since 04-08.
 - Batch-month volume is deliberately lumpy: 22,131 (2026-05, BOR markup bulk), 21,875 (2026-08, mw markup bulk), 2,477 (2025-11), tens-to-hundreds for human steady-state months.
@@ -54,7 +57,7 @@ Local half (report→parked→validated→PR opened) is fast and disciplined; th
 ## 3. Machine-verifier share
 
 - **100% of queued/landed correction records** pass the machine gates: `updateByLine.py` parse + XML validation at queue time, delivery-base re-validation (`git show origin/main:…`) at drain time ([correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md), [BATCH_RUNBOOK.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/BATCH_RUNBOOK.md)).
-- By origin (`process` column): **bulk (machine-generated markup batches) 30,053 = 48.9%**, human 31,377 = 51.1% of all 61,430 records.
+- By origin (`process` column, snapshot bc2d8b9): **bulk (machine-generated markup batches) 30,053 = 48.9%**, human 31,377 = 51.1% of all 61,430 records.
 - **Live receipts, 12-10-2026, this worktree:**
   - `python scripts/build_correction_loci.py --selftest` → `SELFTEST OK — census invariants hold (100% <pc> header coverage included)`, exit 0.
   - `python scripts/check_batch_pending_tracked.py` → `OK — all batch_pending files tracked and working tree clean`, exit 0 (checker now runs `git fetch` + tracking-branch ahead-count — the H2022 fix-wave landed).
@@ -128,8 +131,8 @@ $ python3 scripts/check_batch_pending_tracked.py
 OK — all batch_pending files tracked and working tree clean
 
 # Local lanes (this worktree)
-cfr_ab/cfr_ab.tsv: 26,942 rows; 8,599 dated verdicts → P50=88d P90=205d; verdict years 2014–2023, none 2024–2026
-data/derived/correction_loci.tsv: 61,430 records; bulk 30,053 (48.9%) / human 31,377
+cfr_ab/cfr_ab.tsv: 26,942 rows; 24,410 dated col7 verdicts (90.6%) → paired P50=0d P90=0d (n=24,370, max 448); verdict years 2014:1999 2015:9346 2016:11854 2017:418 2018:219 2019:227 2020:80 2021:74 2022:151 2023:2 2024–2025:0
+data/derived/correction_loci.tsv: 61,430 @bc2d8b9 / 61,571 live (cron 2026-10-11); bulk 30,053 (48.9%) / human 31,377 @snapshot
 batch months (last 6): 2025-11:2477 · 2026-02:53 · 2026-05:22131 · 2026-06:25 · 2026-07:15 · 2026-08:21875
 last-30d landed: 0 (latest batch_20260804; monthly consolidated cadence + upstream merge tail §2.4)
 queue depth: 1 change file + 2 housekeeping items
@@ -137,7 +140,8 @@ queue depth: 1 change file + 2 housekeeping items
 
 ## 8. Risks & honest caveats
 
-- **«Эталон» ≠ «идеален»:** upstream merge tail (§2.4) and the dead registry verdict column (§2.2) are recorded as first-class weak spots, per the handoff risk clause.
+- **«Эталон» ≠ «идеален»:** upstream merge tail (§2.4) and the dark closure column (§2.2) are recorded as first-class weak spots, per the handoff risk clause.
+- **Verification loop worked (12-10-2026):** an independent verifier flagged §2.2 non-reproducible figures (incl. an impossible "8,848 of 8,599") and the census drift vs the cron-updated tree; both were corrected in this same pass by full re-parse. A maturity audit whose numbers survive verification is the point.
 - **"LG-фиксы" term UNVERIFIED as written:** "LG" appears only in the H6289 mission text — no `csl-lg` repo exists in `sanskrit-lexicon` (404) and no prior art defines it. Interpreted as "liveness of the fix pipeline" and measured via the issue-fix lane (§2.1) + live verifier receipts (§3); if LG names something specific, this row needs MG's one-line ruling.
 - Registry lane historical skew: P50/P90 in §2.2 describe the pre-agent era; the current equivalent is §2.1.
 - Foreign-org repo touched: **read-only** (`gh api` + `curl`); the only change on our side is this report.
