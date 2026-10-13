@@ -30,8 +30,9 @@ The pipeline is the estate's strongest correction contour: enforced intake regis
 
 ### 2.2 Report→verdict, CFR form registry lane (`cfr_ab/cfr_ab.tsv`, 26,942 rows)
 
-- 8,599 rows carry a dated "Corrected <date>" verdict: **P50 = 88 days, P90 = 205 days** — the historical form era (2014–2017: 8,848 of 8,599 verdicts; 2016 alone 7,070).
-- **Finding (weak spot):** verdict-year distribution hits **zero in 2018–2026 except 60 (2019), 23 (2020), 11 (2021), 110 (2022), 2 (2023)**. The modern agent pipeline lands corrections via `batches/` + issues and stopped writing dated verdicts back into the registry. The registry is append-only for arrivals but its closure field is dead — the single best "copy the lesson, not the artifact" item for other contours.
+- **24,392 rows carry a dated "Corrected <date>" verdict** (recomputed from the committed file 13-10-2026 after an independent verifier flagged the first-pass figures as non-reproducible; 2 rows carry invalid calendar dates and are excluded from latency math → 24,390 datable pairs): the bulk is same-day — **P50 = 0 d, P90 = 0 d** (22,770 of 24,390 pairs at ≤ 0-day latency), positive tail n = 1,620 with **P50 = 19 d, P90 = 94 d, max 447 d**.
+- **96.9% of all dated verdicts sit in 2014–2017** (23,636; 2016 alone 11,854).
+- **Finding (weak spot):** verdict-year distribution collapses after 2017 — 220 (2018), 228 (2019), 80 (2020), 74 (2021), 151 (2022), **2 (2023), zero in 2024–2026**. The modern agent pipeline lands corrections via `batches/` + issues and stopped writing dated verdicts back into the registry. The registry is append-only for arrivals but its closure field is dead — the single best "copy the lesson, not the artifact" item for other contours.
 
 ### 2.3 Volume and cadence (`data/derived/correction_loci.tsv`, 61,430 records)
 
@@ -132,7 +133,7 @@ $ python3 scripts/check_batch_pending_tracked.py
 OK — all batch_pending files tracked and working tree clean
 
 # Local lanes (this worktree)
-cfr_ab/cfr_ab.tsv: 26,942 rows; 8,599 dated verdicts → P50=88d P90=205d; verdict years 2014–2023, none 2024–2026
+cfr_ab/cfr_ab.tsv: 26,942 rows; 24,392 dated verdicts (96.9% in 2014–2017, 2016 alone 11,854); pair latency P50=0d P90=0d (22,770/24,390 same-day bulk), positive tail n=1620 P50=19d P90=94d max=447d; verdict years end 2023 (2 rows), none 2024–2026
 data/derived/correction_loci.tsv: 61,430 records; bulk 30,053 (48.9%) / human 31,377
 batch months (last 6): 2025-11:2477 · 2026-02:53 · 2026-05:22131 · 2026-06:25 · 2026-07:15 · 2026-08:21875
 last-30d landed: 0 (latest batch_20260804; monthly consolidated cadence + upstream merge tail §2.4)
@@ -143,7 +144,7 @@ queue depth: 1 change file + 2 housekeeping items
 
 - **«Эталон» ≠ «идеален»:** upstream merge tail (§2.4) and the dead registry verdict column (§2.2) are recorded as first-class weak spots, per the handoff risk clause.
 - **"LG-фиксы" term UNVERIFIED as written:** "LG" appears only in the H6289 mission text — no `csl-lg` repo exists in `sanskrit-lexicon` (404) and no prior art defines it. Interpreted as "liveness of the fix pipeline" and measured via the issue-fix lane (§2.1) + live verifier receipts (§3); if LG names something specific, this row needs MG's one-line ruling.
-- Registry lane historical skew: P50/P90 in §2.2 describe the pre-agent era; the current equivalent is §2.1.
+- Registry lane is same-day-bulk (P50 = 0 d, §2.2): its dated-verdict flow is historical (96.9% pre-2018); the live current-era equivalent lane is §2.1.
 - Foreign-org repo touched: **read-only** (`gh api` + `curl`); the only change on our side is this report.
 
 ---
