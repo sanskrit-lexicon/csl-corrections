@@ -113,6 +113,10 @@ $ DataCite total = 423 (was 422 hours earlier; +1 new mint in between — livene
 $ issue lane re-run: n=127, P50=6d, P90=75d, max=466d (±1d boundary drift vs first probe)
 $ selftest exit 0 · durability checker exit 0 · csl-org #2879/#2884/#2885 re-confirmed OPEN unmerged
 
+# Re-probe (13-10-2026, drain close-out)
+$ DataCite total = 423 (unchanged vs 12-10 re-probe) → gate ≥417 PASS
+$ csl-org correction PRs re-confirmed OPEN: 2885 / 2884 / 2879 (tail §2.4 unchanged)
+
 # gh api queue lane (12-10-2026)
 $ gh api repos/sanskrit-lexicon/csl-corrections --jq '{open_issues_count, updated_at}'
 → {"open_issues":68,"updated":"2026-10-12T03:35:24Z"}
