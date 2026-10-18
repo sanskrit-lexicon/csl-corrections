@@ -32,8 +32,11 @@ Park locally with
 ship the monthly PR with
 [`/cologne-batch-pr`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-batch-pr.md).
 
-Apply a parked change-file (never edit `csl-orig` in place) — `updateByLine.py`
-is vendored per batch folder, not at the repo root:
+Apply a parked change-file (never edit `csl-orig` in place) with the
+line-addressed editor
+[`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/updateByLine.py)
+— the canonical home is `csl-pywork`; this repo only carries per-batch copies
+(newest `batch_20250114/updateByLine.py`), so invoke the batch-local copy:
 
 ```sh
 python batch_20250114/updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
