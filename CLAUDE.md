@@ -84,6 +84,10 @@ Danger facts:
 and the generated block of
 [AGENTS.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/AGENTS.md).
 
+## Memory store
+
+This repo keeps a committed memory store at [`.claude/projects/csl-corrections/memory/`](https://github.com/sanskrit-lexicon/csl-corrections/tree/main/.claude/projects/csl-corrections/memory) per the org Memory-routing rule ([`/danger-memory`](https://github.com/gasyoun/claude-config/blob/main/commands/danger-memory.md)) — write dangerous/durable facts there and index each in its `MEMORY.md` (H4547).
+
 ## Repo guards
 
 The shared main tree is guarded: `.githooks/pre-commit` blocks main-tree commits
