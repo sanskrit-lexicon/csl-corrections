@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for AP
-As of August 08, 2026
-1 correction records, with 1 PENDING
+As of October 19, 2026
+1 correction records, with 0 PENDING
 
-Case 3: 08/07/2026 dict=AP, L=12607.028, hw=kuliśaśāsanaḥ, user=srhodes
+Case 2: 08/07/2026 dict=AP, L=12607.028, hw=kuliśaśāsanaḥ, user=user_89aa2abf0034
 old = kuliśaśāsanaḥ
 new = kuliśāsanaḥ
 comment = Typo – Headword Typo!  This compound was simply "imported" and "formatted" incorrectly from the printed page!
-status = PENDING
+status = No change required. I feel that AP is correct and the rest of dictionaries have erred. Who would eat a kuliSa? It is more likely to be a master of kuliSa i.e. its user.
 ------------------------------------------------------------------------
 
