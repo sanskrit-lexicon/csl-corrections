@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 15-09-2026_
+_Created: 06-05-2026 · Last updated: 10-10-2026 (H5885 truth refresh: `updateByLine.py` is vendored per batch folder, newest `batch_20250114/`; daily-intake last-batch date refreshed 10-10-2026)_
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
@@ -32,10 +32,11 @@ Park locally with
 ship the monthly PR with
 [`/cologne-batch-pr`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-batch-pr.md).
 
-Apply a parked change-file (never edit `csl-orig` in place):
+Apply a parked change-file (never edit `csl-orig` in place) — `updateByLine.py`
+is vendored per batch folder, not at the repo root:
 
 ```sh
-python updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
+python batch_20250114/updateByLine.py mw.txt change_mw_1.txt mw_corrected.txt
 ```
 
 Rebuild the derived census and figures:
@@ -49,8 +50,11 @@ python scripts/build_correction_viz.py
 is one row per correction record (parsed from every batch folder). Do not
 hand-edit it.
 
-CI: `fetch-daily-corrections-from-cologne.yml` (intake cron),
-`changelog-lint.yml`, `dependabot-auto-merge.yml`.
+CI: `fetch-daily-corrections-from-cologne.yml` (intake cron — runs daily;
+last landed batch 2026-10-09), `changelog-lint.yml`,
+`dependabot-auto-merge.yml`. Repo guards: `.githooks/pre-commit` +
+`pre-push` (shared-tree block; exec-bit fix #415). The root `AGENTS.md`
+is regenerated weekly from Uprava `context_facts.yaml` (agentsctx twin loop).
 
 ## Preflight for old issues
 
@@ -83,5 +87,13 @@ and the generated block of
 ## Memory store
 
 This repo keeps a committed memory store at [`.claude/projects/csl-corrections/memory/`](https://github.com/sanskrit-lexicon/csl-corrections/tree/main/.claude/projects/csl-corrections/memory) per the org Memory-routing rule ([`/danger-memory`](https://github.com/gasyoun/claude-config/blob/main/commands/danger-memory.md)) — write dangerous/durable facts there and index each in its `MEMORY.md` (H4547).
+
+## Repo guards
+
+The shared main tree is guarded: `.githooks/pre-commit` blocks main-tree commits
+(escape `ALLOW_MAIN_TREE_COMMIT=1`, solo only) and `.githooks/post-checkout`
+auto-reverts a foreign branch-switch back to `main` (shared-tree branch-switch guard,
+03-10-2026, PR #419; escape `ALLOW_MAIN_TREE_CHECKOUT=1`). Work in a session-unique
+worktree; `core.hooksPath=.githooks`.
 
 _Dr. Mārcis Gasūns_
