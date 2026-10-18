@@ -1,10 +1,10 @@
 Sanskrit Lexicon Correction Form History for AP
-As of July 31, 2026
-1 correction records, with 1 PENDING
+As of October 18, 2026
+1 correction records, with 0 PENDING
 
-Case 2: 07/30/2026 dict=AP, L=12576.166, hw=kulapuruṣaḥ, user=srhodes
+Case 1: 07/30/2026 dict=AP, L=12576.166, hw=kulapuruṣaḥ, user=user_89aa2abf0034
 old = maṃnojñamapi
 new = manojñamapi
-status = PENDING
+status = Corrected 18 October 2026
 ------------------------------------------------------------------------
 
