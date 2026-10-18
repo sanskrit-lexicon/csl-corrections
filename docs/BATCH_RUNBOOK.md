@@ -1,6 +1,6 @@
 # csl-corrections — batch processing runbook
 
-_Created: 10-07-2026 · Last updated: 01-08-2026_
+_Created: 10-07-2026 · Last updated: 10-10-2026_
 
 The operator manual for this repository: how a correction travels from a
 reader's form submission to a committed change in `csl-orig`, which script
@@ -169,7 +169,7 @@ python scripts/build_correction_viz.py                # → docs/img/*.svg (velo
 ```
 
 `correction_loci.tsv` holds one row per correction record parsed from every
-change file in both batch layouts (39,540 rows as of 07-07-2026), with
+change file in both batch layouts (61,430 rows as of 10-10-2026), with
 `process ∈ {bulk, human}` separating the two machine-generated markup batches
 from steady human correction. `--selftest` validates the census invariants —
 **a selftest failure after your batch means your change file's shape is
@@ -183,7 +183,7 @@ Two script families, **different rerun rules**:
 | Script | What | Rerun? |
 |---|---|---|
 | [csl-corrections_verify.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/csl-corrections_verify.py) | audits every issue: exactly one type label, one severity, milestone matches type | ✅ any time (read-only) |
-| [count_labels.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/count_labels.py) | open/closed counts per type label (feeds the README table) | ✅ any time |
+| [count_labels.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/count_labels.py) | open/closed counts per type label (paste-ready table) | ✅ any time |
 | [csl-orig_fetch.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/csl-orig_fetch.py) / `csl-orig_verify.py` | same, against csl-orig's tracker | ✅ read-only |
 | [csl-corrections_label.py](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/csl-corrections_label.py) / `_project.py`, `csl-orig_label.py` / `_project.py` | **one-shot backfills** — issue numbers are hardcoded lists from the 2026 runbook pass | ⚠️ do NOT rerun blindly; new issues are labeled by hand per CLAUDE.md's taxonomy |
 

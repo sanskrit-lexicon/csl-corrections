@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for AP
+As of September 15, 2026
+3 correction records, with 3 PENDING
+
+Case 3: 09/14/2026 dict=AP, L=12320, hw=ku, user=srhodes
+old = 1 P. (kavate)
+new = 1 Ā. (kavate)
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5658490071
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 09/14/2026 dict=AP, L=12700.002, hw=ku, user=srhodes
+old = (kuvate, kuvate)
+new = (kavate, kuvate)
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5658490071
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/14/2026 dict=AP, L=12700, hw=kū, user=srhodes
+old = (kuvate, kuvate)
+new = (kavate, kuvate)
+comment = Typo – Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/119#issuecomment-5658490071
+status = PENDING
+------------------------------------------------------------------------
+

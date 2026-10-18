@@ -1,0 +1,23 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of October 04, 2026
+3 correction records, with 3 PENDING
+
+Case 6: 10/03/2026 dict=SHS, L=11121, hw=kusumitalatā, user=srhodes
+old = Dhriti
+new = Dhṛti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 10/03/2026 dict=SHS, L=11113, hw=kumumādhipa, user=srhodes
+old = kumumādhipa
+new = kusumādhipa
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 10/03/2026 dict=SHS, L=11109, hw=kusumastavaka, user=srhodes
+old = nosegay a bouquet
+new = nosegay, a bouquet
+status = PENDING
+------------------------------------------------------------------------
+
