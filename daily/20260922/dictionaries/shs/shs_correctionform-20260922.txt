@@ -1,0 +1,17 @@
+Sanskrit Lexicon Correction Form History for SHS
+As of September 23, 2026
+2 correction records, with 2 PENDING
+
+Case 5: 09/22/2026 dict=SHS, L=11056, hw=kuśāsana, user=srhodes
+old = Kusa
+new = Kuśa
+comment = Typo – Suggested Print Change for correct transliteration! This is very helpful for anyone interested in Sanskrit!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 09/22/2026 dict=SHS, L=11051, hw=kuśāgrīya, user=srhodes
+old = Subtile
+new = Subtle
+status = PENDING
+------------------------------------------------------------------------
+

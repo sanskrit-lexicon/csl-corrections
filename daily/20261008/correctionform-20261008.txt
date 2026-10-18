@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History
+As of October 09, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 10/08/2026 dict=MW, L=181451, hw=lābhatās, user=srhodes
+old = lābha—tās
+new = lābha—tas
+comment = Typo – Headword Print Change!  Please note that this is a "print change". The Great Andhrabharati has confirmed this correction here: https://github.com/sanskrit-lexicon/csl-corrections/issues/417#issuecomment-6052549620
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 10/08/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+

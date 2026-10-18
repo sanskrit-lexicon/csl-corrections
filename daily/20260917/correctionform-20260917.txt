@@ -1,0 +1,70 @@
+Sanskrit Lexicon Correction Form History
+As of September 18, 2026
+10 correction records, with 10 PENDING
+
+Case 10: 09/17/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 09/17/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 09/17/2026 dict=SHS, L=10949, hw=kulahaṇṭaka, user=srhodes
+old = see kūlahaṇṭaka
+new = see kūlahaṇḍaka
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 09/17/2026 dict=SHS, L=10949, hw=kulahaṇṭaka, user=srhodes
+old = kulahaṇṭaka
+new = kulahaṇḍaka
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 09/17/2026 dict=SHS, L=10946, hw=kulasaurabha, user=srhodes
+old = see marūvaka.
+new = see maruvaka.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 09/17/2026 dict=SHS, L=10943, hw=kulasantati, user=srhodes
+old = Bosterity
+new = Posterity
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 09/17/2026 dict=SHS, L=10940, hw=kulavyāpin, user=srhodes
+old = (-po
+new = (-pī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 09/17/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 09/17/2026 dict=SHS, L=10923, hw=kulanāśa, user=srhodes
+old = kulanāśa ml.
+new = kulanāśa m.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 09/17/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
