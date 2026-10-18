@@ -15,14 +15,67 @@ funderburkjim@gmail.com Oct 18, 2014: Use 'dictionaries' subdirectory.
     not changed.
  Apr 06, 2026 Check for occurrence of 'Which Dictionary?' to decide whether there 
      is a header or not. If header, skip it. Otherwise, process all lines.
+ Sep 02, 2026 (H3885) Two guards, because this file's output is committed to a
+     PUBLIC repository by a nightly cron:
+     (a) validate_tsv() refuses to write anything unless EVERY data line has
+         exactly 8 tab-parts -- a 404 HTML page saved by the fetch job used to
+         reach this script and die halfway through;
+     (b) the e-mail column is pseudonymised in place (cfr_email_mask) before a
+         single line is parsed, so daily/ TSVs and everything derived from them
+         never carry an address.
 """
 from __future__ import print_function
 import re,sys,os
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cfr_email_mask import mask_tsv_file  # noqa: E402
 
 def oneline(x):
  parts = re.split(r'[\r\n]',x)
  y = ' '.join(parts)
  return y
+
+class CFRShapeError(Exception):
+ """ A data line does not have the 8 tab-parts the correction form produces. """
+ def __init__(self,n,nparts):
+  self.n = n
+  self.nparts = nparts
+  msg = "line %s: # of tab-parts should be 8, but is %s" % (n,nparts)
+  Exception.__init__(self,msg)
+
+def validate_tsv(filein):
+ """ Refuse the file unless every data line has exactly 8 tab-parts.
+
+     The fetch job once saved a 404 HTML page under the .tsv name; parsing it
+     half-way rewrote correctionform files from garbage.  Nothing is written
+     until this passes.  Returns the number of data lines.
+ """
+ problems = []
+ ndata = 0
+ with open(filein,'r') as f:
+  for n,line in enumerate(f,start=1):
+   line = line.rstrip('\r\n')
+   if n == 1 and 'Which Dictionary?' in line:
+    continue  # header
+   if line.strip() == '':
+    continue
+   ndata = ndata + 1
+   nparts = len(line.split('\t'))
+   if nparts != 8:
+    problems.append((n,nparts))
+ if problems:
+  print("ERROR: %s is not a correction-form TSV." % filein, file=sys.stderr)
+  for n,nparts in problems[:5]:
+   print("  line %s has %s tab-parts, expected 8" % (n,nparts), file=sys.stderr)
+  if len(problems) > 5:
+   print("  ... and %s more bad line(s)" % (len(problems)-5), file=sys.stderr)
+  print("Refusing to write any output.", file=sys.stderr)
+  sys.exit(1)
+ if ndata == 0:
+  print("ERROR: %s has no data lines. Refusing to write any output." % filein,
+        file=sys.stderr)
+  sys.exit(1)
+ return ndata
 
 class CFR(object):
  def __init__(self,line,n):
@@ -30,10 +83,8 @@ class CFR(object):
   self.line = line
   self.n = n
   if len(parts)!= 8:
-   print("# of tab-parts should be 8, but is",len(parts))
-   out = "Error 1 for line %s:\n%s" %(n,line)
-   print(out.encode('utf-8'))
-   exit(1)
+   # Should be unreachable: validate_tsv() rejects the file before we get here.
+   raise CFRShapeError(n, len(parts))
   self.time = oneline(parts[0])
   # Jul 18, 2015 - Generate a sortable timefield
   # Assume time is mm/dd/yyyy hh:mm:ss
@@ -263,4 +314,8 @@ def adjust(filein,fileout):
 if __name__=="__main__":
  filein = sys.argv[1]
  fileout = sys.argv[2]
+ ndata = validate_tsv(filein)
+ print("%s: %s data line(s), 8 tab-parts each" % (filein,ndata))
+ nmasked = mask_tsv_file(filein)
+ print("e-mail column pseudonymised in %s line(s) of %s" % (nmasked,filein))
  adjust(filein,fileout)
