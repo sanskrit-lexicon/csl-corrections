@@ -43,7 +43,16 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add daily/${{ steps.date.outputs.date }}/ cfr_ab/cfr_ab.tsv
+          # H6826: on a no-submission day fetch_yesterday_cfr.sh exits 0 after
+          # rmdir'ing daily/<date>/, so a bare `git add daily/<date>/` here
+          # fatals with exit 128 (pathspec did not match) and reddens the
+          # branch (run 39361060592). Add the daily dir only when it exists.
+          if [ -d "daily/${{ steps.date.outputs.date }}" ]; then
+            git add "daily/${{ steps.date.outputs.date }}/"
+          else
+            echo "no daily/${{ steps.date.outputs.date }}/ (no-submission day) — skipping daily add"
+          fi
+          git add cfr_ab/cfr_ab.tsv
           git diff --staged --stat || true
           git commit -m "[CRON] daily corrections for ${{ steps.date.outputs.date_formatted }}" || echo "No changes to commit"
 
