@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History for AP
+As of October 27, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 10/26/2026 dict=AP, L=12721.03, hw=kūpadaṇḍaḥ, user=user_89aa2abf0034
+old = kṣoṇīnau kūpadaṇḍaḥ
+new = kṣoṇīnaukūpadaṇḍaḥ
+comment = Typo – The strict absence of a visarga (*nauḥ*) before the unvoiced *k* of the subsequent word mathematically proves *kṣoṇīnau* is operating as the uninflected prior member (*pūrvapada*) of a larger macro-compound, not as a freestanding syntactic unit.
+status = PENDING
+------------------------------------------------------------------------
+
