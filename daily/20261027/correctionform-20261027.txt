@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History
+As of October 28, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 10/27/2026 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 10/27/2026 dict=ap, L=, hw=tAlikaH, user=user_f4412a21ab4f
+old = page 0771-1]  तालिकः  [तालेन निर्वृत्तः ठक्] 1 The open palm of the hand. 2 <!!!>Clapping the hands (तालिका also)<!!!>; यथैकेन न हस्तेन तालिका  संप्रपद्यते Pt. 2. 132 ; उच्चाटनीयः करतालिकानां
+new = Should तालिका also be a headword (coded using Lbody)?
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
