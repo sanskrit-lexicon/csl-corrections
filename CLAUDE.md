@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 10-10-2026 (H5885 truth refresh: `updateByLine.py` is vendored per batch folder, newest `batch_20250114/`; daily-intake last-batch date refreshed 10-10-2026)_
+_Created: 06-05-2026 · Last updated: 01-11-2026 — H7274 claims pass: 11/11 paths OK; build_correction_loci.py --selftest OK)_
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
