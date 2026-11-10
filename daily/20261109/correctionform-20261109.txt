@@ -1,0 +1,11 @@
+Sanskrit Lexicon Correction Form History
+As of November 10, 2026
+1 correction records, with 1 PENDING
+
+Case 1: 11/09/2026 dict=MW, L=117265, hw=parigraha, user=user_1c8f1c5de547
+old = taking, accepting, receiving or anything received, 2 gift or present, MBh. ; Kāv.  &c. [ID=117265]
+new = taking, accepting, receiving or anything received, a gift or present
+comment = Typo "2 gift" should be corrected into "a gift"
+status = PENDING
+------------------------------------------------------------------------
+
