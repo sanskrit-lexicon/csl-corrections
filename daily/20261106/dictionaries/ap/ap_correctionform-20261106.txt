@@ -2,7 +2,7 @@ Sanskrit Lexicon Correction Form History for AP
 As of November 07, 2026
 1 correction records, with 1 PENDING
 
-Case 2: 11/06/2026 dict=ap, L=, hw=anuSAsanam, user=user_f4412a21ab4f
+Case 2: 11/06/2026 dict=ap, L=, hw=anuSAsanam, user=jim
 old = अनुशासनम्  [Printed book page 0110-1]  अनुशासनम्  Advice, persuasion, <!!!>direction, order.<!!!> command; instruction,  laying down rules or precepts; a law, rule, precept;
 new = order,   [comma instead of period]
 comment = 

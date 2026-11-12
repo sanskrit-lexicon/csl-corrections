@@ -11,6 +11,21 @@ ready for a dated entry.
 ## [Unreleased]
 ### Changed
 
+- **H3885 revert — submitter e-mail masking removed, addresses restored**
+  (12-11-2026, maintainer ruling; reverses the H3885 entry below): the nightly
+  cron again commits the correction form's e-mail column as submitted.
+  `scripts/update_cfr_ab.py` and `cfr_adj.py` no longer route the column
+  through `cfr_email_mask`; the `check_no_emails` commit gate, the
+  `CFR_EMAIL_SALT` workflow env and the issue-body `user=` strip were dropped;
+  `cfr_email_mask.py` and `scripts/check_no_emails.py` are deleted (git history
+  keeps them). All 26 579 previously pseudonymised rows across `cfr_ab/cfr_ab.tsv`
+  and 25 `daily/` TSVs were restored byte-for-byte from unmasked sources
+  (pre-mask snapshot 98d4c832ee, Cologne raw feeds, unmasked dailies) —
+  every restoration HMAC-verified against its HEAD pseudonym, with cols 1-7 and
+  `:<status>` suffixes untouched; 64 `correctionform` txt `user=` fields rebuilt
+  per date. `validate_tsv()` (the 404-page guard) and the fail-loud PHP intake
+  fixes from H3885 are kept. Git history was not rewritten.
+
 - **H5885 — CLAUDE.md truth refresh** (09-10-2026, PRs #426/#427): daily-intake cron
   fact, guard hooks are pre-commit+pre-push (exec-bit fix #415, no post-checkout),
   weekly agentsctx regen. Previously unlogged here.

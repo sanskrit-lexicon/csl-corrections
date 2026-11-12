@@ -2,7 +2,7 @@ Sanskrit Lexicon Correction Form History
 As of November 06, 2026
 1 correction records, with 1 PENDING
 
-Case 1: 11/05/2026 dict=MW, L=91887, hw=दाशरथि, user=user_a2af958b5da0
+Case 1: 11/05/2026 dict=MW, L=91887, hw=दाशरथि, user=czhao
 old = missing comma after "a descendant of Daśa-ratha"
 new = a descendant of Daśa-ratha, patr. of Rāma,
 status = PENDING

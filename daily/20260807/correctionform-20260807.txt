@@ -2,14 +2,14 @@ Sanskrit Lexicon Correction Form History
 As of October 19, 2026
 2 correction records, with 0 PENDING
 
-Case 2: 08/07/2026 dict=AP, L=12607.028, hw=kuliśaśāsanaḥ, user=user_89aa2abf0034
+Case 2: 08/07/2026 dict=AP, L=12607.028, hw=kuliśaśāsanaḥ, user=srhodes
 old = kuliśaśāsanaḥ
 new = kuliśāsanaḥ
 comment = Typo – Headword Typo!  This compound was simply "imported" and "formatted" incorrectly from the printed page!
 status = No change required. I feel that AP is correct and the rest of dictionaries have erred. Who would eat a kuliSa? It is more likely to be a master of kuliSa i.e. its user.
 ------------------------------------------------------------------------
 
-Case 1: 08/07/2026 dict=LRV, L=9495, hw=kīlikā, user=user_89aa2abf0034
+Case 1: 08/07/2026 dict=LRV, L=9495, hw=kīlikā, user=srhodes
 old = the The
 new = The
 status = Corrected 18 October 2026
