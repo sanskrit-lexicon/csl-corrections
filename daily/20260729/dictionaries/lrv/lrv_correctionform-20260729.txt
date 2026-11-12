@@ -2,13 +2,13 @@ Sanskrit Lexicon Correction Form History for LRV
 As of October 18, 2026
 2 correction records, with 0 PENDING
 
-Case 4: 07/29/2026 dict=LRV, L=9371, hw=kim, user=user_89aa2abf0034
+Case 4: 07/29/2026 dict=LRV, L=9371, hw=kim, user=srhodes
 old = prenoun
 new = pronoun
 status = Corrected 18 October 2026
 ------------------------------------------------------------------------
 
-Case 3: 07/29/2026 dict=LRV, L=9355, hw=kiṇva, user=user_89aa2abf0034
+Case 3: 07/29/2026 dict=LRV, L=9355, hw=kiṇva, user=srhodes
 old = reed
 new = seed
 comment = Typo – This is a suggested "Print Change", as compared with other lexicons.

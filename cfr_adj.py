@@ -15,20 +15,15 @@ funderburkjim@gmail.com Oct 18, 2014: Use 'dictionaries' subdirectory.
     not changed.
  Apr 06, 2026 Check for occurrence of 'Which Dictionary?' to decide whether there 
      is a header or not. If header, skip it. Otherwise, process all lines.
- Sep 02, 2026 (H3885) Two guards, because this file's output is committed to a
-     PUBLIC repository by a nightly cron:
-     (a) validate_tsv() refuses to write anything unless EVERY data line has
-         exactly 8 tab-parts -- a 404 HTML page saved by the fetch job used to
-         reach this script and die halfway through;
-     (b) the e-mail column is pseudonymised in place (cfr_email_mask) before a
-         single line is parsed, so daily/ TSVs and everything derived from them
-         never carry an address.
+ Sep 02, 2026 (H3885) validate_tsv() guard, because this file's output is
+     committed to a PUBLIC repository by a nightly cron: it refuses to write
+     anything unless EVERY data line has exactly 8 tab-parts -- a 404 HTML page
+     saved by the fetch job used to reach this script and die halfway through.
+ Nov 12, 2026 (H3885 revert) the e-mail pseudonymisation guard (b) was removed
+     by maintainer ruling: the e-mail column is committed as submitted again.
 """
 from __future__ import print_function
 import re,sys,os
-
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from cfr_email_mask import mask_tsv_file  # noqa: E402
 
 def oneline(x):
  parts = re.split(r'[\r\n]',x)
@@ -316,6 +311,4 @@ if __name__=="__main__":
  fileout = sys.argv[2]
  ndata = validate_tsv(filein)
  print("%s: %s data line(s), 8 tab-parts each" % (filein,ndata))
- nmasked = mask_tsv_file(filein)
- print("e-mail column pseudonymised in %s line(s) of %s" % (nmasked,filein))
  adjust(filein,fileout)
