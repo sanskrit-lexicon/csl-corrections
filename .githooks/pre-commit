@@ -21,11 +21,19 @@ if [ -n "${ALLOW_MAIN_TREE_COMMIT:-}" ]; then
 fi
 
 CANONICAL_MAIN_TREE="C:/Users/user/Documents/GitHub/csl-corrections"
+# Crossbox twin (bughunt 13-11-2026, HIGH-1): the canonical checkout also lives
+# at $HOME/Documents/GitHub/csl-corrections. Without it the Windows literal
+# above can never match on macOS/Linux, and this guard was a silent no-op
+# exactly where the agent sessions run. ${HOME:-} — compare both targets,
+# mirroring Uprava's pre-commit. The literal assignment stays on ONE line
+# (shared_tree_guard_onboard.py regex-substitutes it when re-baking this hook).
+CANONICAL_MAIN_TREE_HOME="${HOME:-}/Documents/GitHub/csl-corrections"
 toplevel="$(git rev-parse --show-toplevel 2>/dev/null || true)"
 norm_toplevel="$(printf '%s' "$toplevel" | tr 'A-Z' 'a-z' | tr '\\' '/')"
 norm_canonical="$(printf '%s' "$CANONICAL_MAIN_TREE" | tr 'A-Z' 'a-z' | tr '\\' '/')"
+norm_canonical_home="$(printf '%s' "$CANONICAL_MAIN_TREE_HOME" | tr 'A-Z' 'a-z' | tr '\\' '/')"
 
-if [ "$norm_toplevel" = "$norm_canonical" ]; then
+if [ "$norm_toplevel" = "$norm_canonical" ] || [ "$norm_toplevel" = "$norm_canonical_home" ]; then
     echo "" >&2
     echo "BLOCKED: direct commit in the shared main tree of this repo." >&2
     echo "" >&2
