@@ -11,6 +11,17 @@ ready for a dated entry.
 ## [Unreleased]
 ### Changed
 
+- **Nightly bug hunt 13-11-2026** (mimo-v2.6-flash `xiaomi-token-plan-sgp/mimo-v2.6-flash`,
+  PR #462): read-only static hunt of live code landed
+  [BUGHUNT-FINDINGS-csl-corrections-13.11.2026.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/BUGHUNT-FINDINGS-csl-corrections-13.11.2026.md)
+  — 1 HIGH / 6 MEDIUM / 5 LOW, zero committed secrets. The HIGH (the shared-main-tree
+  pre-commit guard being a no-op on macOS/Linux: Windows-only canonical path, no
+  `$HOME` fallback) is fixed in PR #463; the MEDIUMs (Scott-uploader ledger truncation
+  → duplicate csl-orig issues, `cfr_adj.py` exit-0 on malformed timestamps,
+  `download_cfr.sh` curl without `-f`, unchecked `update_user_corrections.sh`,
+  `gitupdate.sh` pushing a non-existent `master`, correction-form sanitiser eating
+  `.`/diacritics in prefill) are report-only per the MG 26-09-2026 severity gate.
+
 - **H3885 revert — submitter e-mail masking removed, addresses restored**
   (12-11-2026, maintainer ruling; reverses the H3885 entry below): the nightly
   cron again commits the correction form's e-mail column as submitted.
