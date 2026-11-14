@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History
+As of November 14, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 11/13/2026 dict=MW, L=209178, hw=vyavahāramārga, user=srhodes
+old =  (= viṣaya
+new =  (= °viṣaya
+comment = Typo – This is a suggested Print Change for the correct Compound equivalence.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 11/13/2026 dict=mw, L=, hw=sTa, user=jim
+old = गर्भ-, जल-, नरक-, राज्य-स्थ 
+new = devoted to, performing,  [missing comma]
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
