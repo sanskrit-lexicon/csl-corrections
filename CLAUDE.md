@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 01-11-2026 — H7274 claims pass: 11/11 paths OK; build_correction_loci.py --selftest OK)_
+_Created: 06-05-2026 · Last updated: 18-11-2026 — H8418 verified-no-change: 15 paths + build_correction_loci.py --selftest (exit 0) re-checked against origin/main 18-11-2026; no drift)
 
 `csl-corrections` is the CDSL **correction staging ground and audit trail**:
 validated change-files are parked in dated batch folders here, then shipped
