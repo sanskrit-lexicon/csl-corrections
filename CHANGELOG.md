@@ -1,4 +1,4 @@
-_Created: 13-06-2026 · Last updated: 10-10-2026_
+_Created: 13-06-2026 · Last updated: 18-11-2026_
 
 # Changelog
 
@@ -9,6 +9,9 @@ dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
 ## [Unreleased]
+<!-- entries land in changelog_queue/ -- appended via tools/changelog_queue_consume.py, consumed by cut_release.py at release-cut (H3355); direct bullets here are hook-blocked -->
+
+## [1.0.2] - 2026-11-18
 ### Changed
 
 - **Nightly bug hunt 13-11-2026** (mimo-v2.6-flash `xiaomi-token-plan-sgp/mimo-v2.6-flash`,
