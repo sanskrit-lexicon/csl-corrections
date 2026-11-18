@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History
+As of November 18, 2026
+2 correction records, with 2 PENDING
+
+Case 2: 11/17/2026 dict=MW, L=73984, hw=citraka, user=sharonbendor
+old = 
+new = '8952' should be tagged as reference. It refers to "Hariv.  8952"
+comment = reference tag is missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 1: 11/17/2026 dict=MW, L=73983, hw=citraka, user=sharonbendor
+old = 
+new = '15979' should be tagged as reference. It refers to "Hariv.  15979"
+comment = Reference tag is missing.
+status = PENDING
+------------------------------------------------------------------------
+
